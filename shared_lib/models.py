@@ -10,6 +10,7 @@ from typing import Optional, Dict, Any
 from sqlalchemy import (
     Integer,
     Text,
+    String,
     Float,
     DateTime,
     JSON,
@@ -66,8 +67,9 @@ class Product(Base):
     tasks: Mapped[list["TaskProduct"]] = relationship("TaskProduct", back_populates="product")
     
     # 索引：itemId + mallType 构成唯一的商品业务标识
+    # MySQL 8.0 要求 TEXT 类型列创建索引时指定键长度
     __table_args__ = (
-        Index("idx_item_mall", "itemId", "mallType"),
+        Index("idx_item_mall", "itemId", "mallType", mysql_length={"itemId": 255}),
     )
     
     def __repr__(self) -> str:
@@ -159,9 +161,9 @@ class Cluster(Base):
     # 主键
     id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True, comment="主键自增")
     
-    # 簇标识
+    # 簇标识（使用 VARCHAR 而不是 TEXT，以支持 UNIQUE 约束）
     cluster_code: Mapped[str] = mapped_column(
-        Text, unique=True, nullable=False, comment="规则: mallType_itemId (簇中心的唯一标识)"
+        String(255), unique=True, nullable=False, comment="规则: mallType_itemId (簇中心的唯一标识)"
     )
     
     # 簇中心的数据快照
@@ -193,9 +195,9 @@ class ClusterMember(Base):
     # 主键
     id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True, comment="主键自增")
     
-    # 外键关联
+    # 外键关联（使用 VARCHAR 以匹配 t_cluster 表）
     cluster_code: Mapped[str] = mapped_column(
-        Text,
+        String(255),
         ForeignKey("t_cluster.cluster_code", ondelete="CASCADE"),
         nullable=False,
         comment="关联簇中心的cluster_code"
