@@ -53,6 +53,9 @@ class Settings(BaseSettings):
     start_cat_id: int = int(os.getenv("START_CAT_ID", "3000"))  # 起始分类ID
     end_cat_id: int = int(os.getenv("END_CAT_ID", "10000"))  # 结束分类ID
     
+    # 并发配置
+    max_concurrent_categories: int = int(os.getenv("MAX_CONCURRENT_CATEGORIES", "8"))  # 并发处理的分类数量
+    
     @field_validator("max_products", mode="before")
     @classmethod
     def parse_max_products(cls, v: Any) -> Optional[int]:

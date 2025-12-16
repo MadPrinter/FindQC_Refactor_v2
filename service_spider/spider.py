@@ -345,19 +345,45 @@ class SpiderService:
         # 对应白板: for c in categories
         category_list = await self.get_target_categories()
         
-        for category in category_list:
-            try:
-                await self.fetch_category_products(
-                    category=category,
-                    update_task_id=update_task_id,
-                    max_products=max_products,
-                )
-                # 如果达到限制，停止处理下一个分类
-                if max_products:
-                    break
-            except Exception as e:
-                logger.error(f"分类爬取失败，继续下一个: category={category}, error={e}")
-                continue
+        # 并发处理多个分类（类似旧项目的多线程并发）
+        max_concurrent = settings.max_concurrent_categories
+        logger.info(f"并发处理分类数量: {max_concurrent}")
         
-        logger.info(f"爬虫任务完成，update_task_id={update_task_id}")
+        # 使用信号量控制并发数量
+        semaphore = asyncio.Semaphore(max_concurrent)
+        total_processed = 0
+        should_stop = False  # 用于控制是否停止处理（达到商品数量限制时）
+        
+        async def process_category_with_semaphore(category: Dict[str, Any]) -> None:
+            """带信号量控制的分类处理函数"""
+            nonlocal should_stop
+            if should_stop:
+                return
+                
+            async with semaphore:
+                if should_stop:
+                    return
+                    
+                try:
+                    await self.fetch_category_products(
+                        category=category,
+                        update_task_id=update_task_id,
+                        max_products=max_products,
+                    )
+                except Exception as e:
+                    logger.error(f"分类爬取失败: category={category.get('id')}, error={e}")
+        
+        # 创建所有任务
+        tasks = [asyncio.create_task(process_category_with_semaphore(category)) for category in category_list]
+        
+        # 并发执行所有任务
+        for task in asyncio.as_completed(tasks):
+            try:
+                await task
+                total_processed += 1
+                    
+            except Exception as e:
+                logger.error(f"任务执行失败: {e}")
+        
+        logger.info(f"爬虫任务完成，update_task_id={update_task_id}，共处理 {total_processed} 个分类")
 
