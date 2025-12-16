@@ -43,7 +43,7 @@ class Product(Base):
     itemId: Mapped[Optional[str]] = mapped_column(Text, nullable=True, comment="商品外部ID")
     mallType: Mapped[Optional[str]] = mapped_column(Text, nullable=True, comment="商城类型")
     categoryId: Mapped[Optional[int]] = mapped_column(Integer, nullable=True, comment="商品类型ID")
-    price: Mapped[Optional[float]] = mapped_column(Float, nullable=True, comment="商品价格")
+    price: Mapped[Optional[str]] = mapped_column(Text, nullable=True, comment="商品价格")
     weight: Mapped[Optional[float]] = mapped_column(Float, nullable=True, comment="商品质量kg")
     
     # 图片信息（JSON格式存储）
