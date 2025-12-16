@@ -49,6 +49,10 @@ class Settings(BaseSettings):
     # 测试/调试配置
     max_products: Optional[int] = None  # 最大爬取商品数量（None表示不限制，用于测试）
     
+    # 分类ID范围配置
+    start_cat_id: int = int(os.getenv("START_CAT_ID", "3000"))  # 起始分类ID
+    end_cat_id: int = int(os.getenv("END_CAT_ID", "10000"))  # 结束分类ID
+    
     @field_validator("max_products", mode="before")
     @classmethod
     def parse_max_products(cls, v: Any) -> Optional[int]:

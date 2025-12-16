@@ -50,7 +50,8 @@ class SpiderService:
         """
         获取需要爬取的分类列表
         
-        这里返回一个示例列表，实际应该从配置文件或数据库读取。
+        遍历指定范围的分类ID（从 START_CAT_ID 到 END_CAT_ID）
+        实际是否有商品会在 fetch_category_products 中检查并跳过
         
         Args:
             limit: 限制分类数量（用于测试）
@@ -58,14 +59,21 @@ class SpiderService:
         Returns:
             List[Dict]: 分类列表，每个元素包含 id 和 name
         """
-        # TODO: 从配置文件或数据库读取分类列表
-        # 使用一个真实存在的分类ID进行测试（从旧项目看，分类ID范围是3000-10000）
-        categories = [
-            {"id": 4113, "name": "测试分类1"},  # 使用旧项目中存在的分类ID
-        ]
+        # 从配置中获取分类ID范围
+        start_cat_id = settings.start_cat_id
+        end_cat_id = settings.end_cat_id
         
+        # 生成分类ID列表
+        cat_ids = list(range(start_cat_id, end_cat_id + 1))
+        
+        # 如果设置了限制，只取前N个（用于测试）
         if limit:
-            categories = categories[:limit]
+            cat_ids = cat_ids[:limit]
+        
+        # 转换为分类字典列表
+        categories = [{"id": cat_id, "name": f"分类_{cat_id}"} for cat_id in cat_ids]
+        
+        logger.info(f"将遍历分类ID范围: {start_cat_id} - {end_cat_id} (共 {len(categories)} 个分类)")
         
         return categories
     
@@ -253,6 +261,17 @@ class SpiderService:
                     page=current_page,
                     size=self.page_size,
                 )
+                
+                # 检查是否有更多商品（用于判断分类是否有商品）
+                has_more = self.api_client.has_more_products(response)
+                
+                # 如果是第一页且 hasMore=False，说明该分类没有商品，直接跳过
+                if current_page == 1 and not has_more:
+                    # 提取商品列表，检查是否为空
+                    items = self.api_client.extract_product_list(response)
+                    if not items:
+                        logger.info(f"分类 {category_name} (ID: {category_id}) 无商品，跳过")
+                        return  # 直接返回，跳过该分类
                 
                 # 提取商品列表
                 items = self.api_client.extract_product_list(response)

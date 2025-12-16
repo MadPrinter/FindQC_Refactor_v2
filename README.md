@@ -165,6 +165,10 @@ DB_NAME=findqc_db
 MAX_PRODUCTS=10  # 测试模式：爬取指定数量（如 10）
 # MAX_PRODUCTS=0   # 全量模式：不限制爬取数量（或不设置此项）
 
+# 分类ID范围配置（用于遍历分类）
+START_CAT_ID=3000  # 起始分类ID
+END_CAT_ID=10000   # 结束分类ID
+
 # 日志配置
 LOG_LEVEL=INFO
 
