@@ -19,7 +19,8 @@
 ```
 service_spider/
 ├── __init__.py          # 包初始化
-├── main.py              # 主程序入口
+├── main.py              # 主程序入口（一次性执行）
+├── scheduler.py         # 定时任务入口（使用 APScheduler）
 ├── spider.py            # 爬虫核心逻辑
 ├── api_client.py        # FindQC API 客户端封装
 ├── db_service.py        # 数据库操作服务
@@ -40,13 +41,45 @@ service_spider/
 
 ### 运行
 
+#### 一次性执行
+
 ```bash
 # 激活虚拟环境
 source venv/bin/activate
 
-# 运行爬虫服务
+# 运行爬虫服务（执行一次后退出）
 python -m service_spider.main
 ```
+
+#### 定时任务模式
+
+使用 APScheduler 实现定时执行：
+
+```bash
+# 激活虚拟环境
+source venv/bin/activate
+
+# 运行定时任务服务（持续运行，按配置的时间执行爬虫任务）
+python -m service_spider.scheduler
+```
+
+**定时任务配置**（通过环境变量）：
+
+```env
+# 调度模式：cron（每天指定时间）或 interval（间隔执行）
+SPIDER_SCHEDULE_TYPE=cron
+
+# Cron 模式配置（每天 02:00 执行）
+SPIDER_CRON_HOUR=2
+SPIDER_CRON_MINUTE=0
+
+# Interval 模式配置（每 24 小时执行一次）
+# SPIDER_INTERVAL_HOURS=24
+```
+
+**示例**：
+- 每天凌晨 2:00 执行：`SPIDER_SCHEDULE_TYPE=cron SPIDER_CRON_HOUR=2 SPIDER_CRON_MINUTE=0`
+- 每 12 小时执行一次：`SPIDER_SCHEDULE_TYPE=interval SPIDER_INTERVAL_HOURS=12`
 
 ### 配置说明
 
