@@ -1,0 +1,318 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1263425",
+        "mallType": "WD",
+        "itemId": "7288166564",
+        "title": "LL17009-L3",
+        "picUrl": "https://cdn.findqc.com/item/20250429/ma2bjlp9_bye1.jpg",
+        "price": "¥91.00",
+        "toPrice": "$14.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1671855457",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/wdseller1776265504-45a200000193b978e0e70a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1263416",
+        "mallType": "WD",
+        "itemId": "7391963143",
+        "title": "one billion one hundred and fifty-two million one hundred and forty thousand seven hundred and sixty-seven",
+        "picUrl": "https://cdn.findqc.com/item/20250429/ma22xrc6_fh4w.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1625981653",
+          "name": "Oranges",
+          "logo": "https://si.geilicdn.com/weidian1902746959-241d00000192d2bc43770a8133cc_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263352",
+        "mallType": "WD",
+        "itemId": "7428395233",
+        "title": "[HB Homemade] Ma J La Patch 📆 Embroidered short sleeved T 280G combed cotton pattern matching ❗",
+        "picUrl": "https://cdn.findqc.com/item/20250428/ma03o417_w4j7.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1391271756",
+          "name": "HB心动——做你的宝藏店铺",
+          "logo": "https://si.geilicdn.com/bj-vshop-1391271756-1539962816810-1941450363_656_656.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263346",
+        "mallType": "T1688",
+        "itemId": "879297768942",
+        "title": "AMI short sleeved macaron color small heart embroidery star style men's and women's cotton loose summer fashion T-shirt half sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250428/m9zy8rfq_uxko.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217704784680",
+          "name": "佛山市南海区尼卡琪服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1263344",
+        "mallType": "WD",
+        "itemId": "6358644916",
+        "title": "《𝙉𝙚𝙬 ♈ Casablanca 🏖 Casablanca 23 new castle 🏰 The letter logo print is made of 230g double stranded 32 thread tight double yarn cotton fabric, which is soft.",
+        "picUrl": "https://cdn.findqc.com/item/20250428/m9zxuqup_l66c.jpg",
+        "price": "¥141.67",
+        "toPrice": "$22.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263340",
+        "mallType": "WD",
+        "itemId": "7257995440",
+        "title": "R16035-H63",
+        "picUrl": "https://cdn.findqc.com/item/20250428/m9zvvph7_qskv.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1829168265",
+          "name": "ROCKET4",
+          "logo": "https://si.geilicdn.com/weidian1811741420-7c1b000001913c5d2fa10a20e273_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263339",
+        "mallType": "WD",
+        "itemId": "7269114595",
+        "title": "R19168-H47",
+        "picUrl": "https://cdn.findqc.com/item/20250428/m9zvvowg_ms68.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758289665",
+          "name": "ROCKET1",
+          "logo": "https://si.geilicdn.com/weidian901842075230-78c1000001913c5a71590a20e7c7_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263333",
+        "mallType": "TB",
+        "itemId": "682013873536",
+        "title": "Official website flagship store Kro genuine black and white color blocked horseshoe flower arm long sleeved T-shirt for couples casual loose hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250427/m9zrk3pp_ktbx.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68472781",
+          "name": "vorleshion旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263305",
+        "mallType": "WD",
+        "itemId": "7430399884",
+        "title": "Version of Chrome 24SS new Chrome Hearts color patchwork cross contrasting short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250427/m9yypls7_a5ib.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672426709",
+          "name": "你看看这！",
+          "logo": "https://si.geilicdn.com/shopedit1902426083-19b10000019971e5dc9a0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263327",
+        "mallType": "T1688",
+        "itemId": "875495230905",
+        "title": "25-26 Football Training Clothes Paris Barcelona Naples Inter Mexico Corindian Inter Chelsea",
+        "picUrl": "https://cdn.findqc.com/item/20250427/m9zln7b1_o8pk.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB29_bnOMYzJ6LWZjOCB7gqw",
+          "name": "广州市创亿体育服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 558,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263306",
+        "mallType": "T1688",
+        "itemId": "774809639728",
+        "title": "White boys' short sleeved T-shirt 2025 summer outfit new cotton children's baby cartoon casual loose half sleeved trendy T",
+        "picUrl": "https://cdn.findqc.com/item/20250427/m9yzcvk0_2bx8.jpg",
+        "price": "¥7.99",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217590649987",
+          "name": "广州玖玖通外贸服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263317",
+        "mallType": "WD",
+        "itemId": "7269830189",
+        "title": "R11071-H72",
+        "picUrl": "https://cdn.findqc.com/item/20250427/m9z7fdps_ii5s.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263304",
+        "mallType": "T1688",
+        "itemId": "892903614911",
+        "title": "6 Stu STU2024 New T-shirt Men's and Women's Short sleeved T-shirt Doll Cow Summer T-shirt Loose 270g",
+        "picUrl": "https://cdn.findqc.com/item/20250427/m9yyqc23_nxvh.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1263300",
+        "mallType": "T1688",
+        "itemId": "733928835783",
+        "title": "Cross border summer trendy Casablanca casual T-shirt cartoon logo print Casablanca couple short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250427/m9ytalhk_0njn.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1262035",
+        "mallType": "WD",
+        "itemId": "7453886323",
+        "title": "Ca short sleeved T-shirt loose fit unisex series 81-100",
+        "picUrl": "https://cdn.findqc.com/item/20250516/maptpk3z_u1nl.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616038165",
+          "name": "Sophia",
+          "logo": "https://si.geilicdn.com/shopedit1894027539-32e90000019387378b030a2304aa-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261783",
+        "mallType": "WD",
+        "itemId": "7423317791",
+        "title": "High quality ice silk quick drying short sleeved shorts",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mch0iwzv_ajmn.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639738477",
+          "name": "MangoBuy &lt;Super Shop&gt;",
+          "logo": "https://si.geilicdn.com/pccreshp1849923692-0d75000001958fcbd08d0a210349_1810_1280.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 233,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261924",
+        "mallType": "T1688",
+        "itemId": "899458230646",
+        "title": "Export Foreign Trade Explosions Sports Quick-drying Short-sleeved Breathable Casual T-shirt Loose Summer Top Running Crewneck Fitness",
+        "picUrl": "https://cdn.findqc.com/item/20250527/mb5gc65a_uhix.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLI3g-uIUzb9FVVrRgJCXog",
+          "name": "佛山市禅城区优雅恋贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 275,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114908085194347901",
+  "language": "en"
+}

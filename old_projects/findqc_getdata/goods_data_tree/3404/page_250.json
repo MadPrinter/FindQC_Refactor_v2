@@ -1,0 +1,343 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1577443",
+        "mallType": "WD",
+        "itemId": "7463232846",
+        "title": "Bu plaid hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1910531722-04a100000196add643db0a23111a_3418_4448.jpg",
+        "price": "¥127.00",
+        "toPrice": "$19.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819093405",
+          "name": "Reps Find",
+          "logo": "https://si.geilicdn.com/pcdecorate1950647899-3e6400000196c86774a90a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1574308",
+        "mallType": "WD",
+        "itemId": "7492903877",
+        "title": "******",
+        "picUrl": "https://si.geilicdn.com/open1700008665-252808396-796b000001933442291d0a210298_985_985.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1573822",
+        "mallType": "T1688",
+        "itemId": "859958902439",
+        "title": "Corteiz Alcatraz Simple Embroidered Letters American Tide High Street Loose Cardigan Hooded Sweatshirt Casual Pants Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Wk7qqT27PPyQ4GZvV_!!2218262457789-0-cib.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1573802",
+        "mallType": "T1688",
+        "itemId": "909282957783",
+        "title": "25ss tide spot correct version of CH Crowe Jupiter new waffle horseshoe flower arm printing men and women long-sleeved T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TcBsDl1PP6dhBAq2T_!!2219154251832-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219154251832",
+          "name": "义乌市红晰电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1419988",
+        "mallType": "T1688",
+        "itemId": "883359759479",
+        "title": "Cross-border Europe and the United States 2025 American graffiti print men and women loose casual zipper hooded sweatshirt tide Amazon",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HdB5C31Y7Xyt5bMDr_!!2219188173012-0-cib.jpg",
+        "price": "¥53.90",
+        "toPrice": "$8.48",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1419954",
+        "mallType": "T1688",
+        "itemId": "907786669298",
+        "title": "European and American autumn and winter retro high street Y2K letter sticker top casual loose couple hoodie men's and women's outerwear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PiEEJ11Y0g3Q7opJf_!!2215857962997-0-cib.jpg",
+        "price": "¥38.99",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOxYAl_esjRBZBBJXNC9ovg",
+          "name": "深圳市易斯菲尔电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1419293",
+        "mallType": "T1688",
+        "itemId": "655635560495",
+        "title": "2025 Autumn and Winter New High Version Fog Silicone Letter Pullover Hooded Sweatshirt for Men and Women, One Piece Wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Lbkrhz1TjUkRTLeiI_!!2208944992418-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbww6ovHwWs0DIcNgjgomJw",
+          "name": "深圳市宝安区绣屿服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 97,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1418331",
+        "mallType": "WD",
+        "itemId": "7283459133",
+        "title": "Terry Sweatshirt Men's and Women's Red Heart Classic Pullover Hoodie Couple's 11",
+        "picUrl": "https://si.geilicdn.com/open1622703461-1234478995-6781000001926b656baf0a22d234_752_752.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622703461",
+          "name": "Trendybrandsmallshop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1235376",
+        "mallType": "WD",
+        "itemId": "7323335202",
+        "title": "Hooded Sweatshirt American Tide Letter Top",
+        "picUrl": "https://si.geilicdn.com/open1740743221-252808396-010f00000193c500c45e0a232357_1280_1280.jpg",
+        "price": "¥224.00",
+        "toPrice": "$35.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1740743221",
+          "name": "MU",
+          "logo": "https://si.geilicdn.com/shopedit1906211052-02a300000193caa6418f0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1232907",
+        "mallType": "T1688",
+        "itemId": "908934608028",
+        "title": "Áo hoodie nữ Printed Hoodie Women's Harajuku Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wkERe31Cv5GJnw1i0_!!2214282480142-0-cib.jpg",
+        "price": "¥31.34",
+        "toPrice": "$4.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218008355331",
+          "name": "杭州一路发严选电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1232645",
+        "mallType": "TB",
+        "itemId": "636003514646",
+        "title": "Fashionable Brand Nocta Drake Joint Pure Color Reflective Velvet Thickeneded Hoodie for Men and Women Loose Sweatshirt Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/34117946/O1CN01iflL3e28ZJn3H14Kp_!!34117946.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72889074",
+          "name": "Endclothing",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1232747",
+        "mallType": "T1688",
+        "itemId": "888020343607",
+        "title": "Cross-border pony embroidered cardigan sweater men and women spring and fall hot models suit hooded jacket + pants suit suit leisure",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000007431/O1CN01D1wa4q24lSCMwBOz0_!!6000000007431-0-tbvideo.jpg",
+        "price": "¥65.99",
+        "toPrice": "$10.38",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 96,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1232721",
+        "mallType": "T1688",
+        "itemId": "883313191795",
+        "title": "Spring and Autumn Paul Long Sleeve Hoodie for Men's Casual Cotton Solid Color Printed Pony Logo Zipper Hoodie",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000000747/O1CN01E42pAY1HOAimD0gab_!!6000000000747-0-tbvideo.jpg",
+        "price": "¥36.98",
+        "toPrice": "$5.81",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1232646",
+        "mallType": "WD",
+        "itemId": "7394925213",
+        "title": "AK32 Zipper Pullover Embroidered Sweatshirt Sweatpants WhatsApp+86 177 5033 6825",
+        "picUrl": "https://si.geilicdn.com/pcitem1525525797-5005000001943212d35e0a23037f_1200_1200.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1804801676",
+          "name": "Reliable-buy¹",
+          "logo": "https://si.geilicdn.com/wdseller1525525797-73a8000001956ad196720a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1061295",
+        "mallType": "T1688",
+        "itemId": "856540505081",
+        "title": "2024 cross-border new fashion flow tide 3D digital printing shark head men and women couple masked sweater suit wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01iXdyKA1xjR7fpEU4M_!!2218592456479-0-cib.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218592456479",
+          "name": "义乌市汇明服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "887623",
+        "mallType": "T1688",
+        "itemId": "838055912087",
+        "title": "One for delivery tommy2024 fall new men's sweater Tommy round neck embroidery casual cotton tops ins",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GP07Ik1xOMsrbBWzN_!!2218579476433-0-cib.jpg",
+        "price": "¥97.02",
+        "toPrice": "$15.26",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "887534",
+        "mallType": "T1688",
+        "itemId": "810632309509",
+        "title": "FOG Season 8 rewire ESSENTIALS high street casual loose flocked letter print drawstring pants sweatpants",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0161vaQt1ui75VKO9q9_!!2212370596070-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "725318",
+        "mallType": "T1688",
+        "itemId": "791827443614",
+        "title": "Autumn and winter new Carhartt Carhartt zipper cardigan padded sweater classic loose men's thickened jacket tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01r8RTCl23Dj6VcoN90_!!2212740947222-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "512111",
+        "mallType": "TB",
+        "itemId": "873783183577",
+        "title": "Autumn men's cardigan casual jacket hooded with velvet zipper pure cotton sweatshirt sports jacket versatile top baseball jersey",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2244906393/O1CN01cQ3Nca1x634gjvKTS_!!2244906393.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "398963573",
+          "name": "好运来外贸服饰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 354,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "511987",
+        "mallType": "WD",
+        "itemId": "7282868774",
+        "title": "Casual Versatile Round Neck Sweatshirt-003",
+        "picUrl": "https://si.geilicdn.com/pcitem901963151121-2e5a00000197f3dce6ff0a2396f4_1200_1200.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1845205061",
+          "name": "Best shop",
+          "logo": "https://si.geilicdn.com/wdseller901895171168-3f720000019243c405d30a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144491132553929421",
+  "language": "en"
+}

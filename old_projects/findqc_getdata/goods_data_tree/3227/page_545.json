@@ -1,0 +1,383 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1769629",
+        "mallType": "WD",
+        "itemId": "7267568094",
+        "title": "H502",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md6f8i8s_wpmq.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1768319",
+        "mallType": "WD",
+        "itemId": "7449307222",
+        "title": "(In stock) Loew water washing embroidery t/garment dyeing process/sticker laser embroidery",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md6bwnjn_a5yv.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743254573",
+          "name": "丘比特Club（唯一新店）",
+          "logo": "https://si.geilicdn.com/wdseller1932636667-04a2000001951814c3fb0a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1765945",
+        "mallType": "TB",
+        "itemId": "866324734035",
+        "title": "Crtzstar Down Unda pop-up version short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5xau72_3p41.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "559769678",
+          "name": "Apes store",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1766047",
+        "mallType": "TB",
+        "itemId": "827648659962",
+        "title": "Foam printed loose short sleeved KH23",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md60l4t1_3o4n.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "592054163",
+          "name": "Singor3",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1765728",
+        "mallType": "TB",
+        "itemId": "923817080735",
+        "title": "Icon printed T-shirt B402",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5qwlkt_5epi.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107748732",
+          "name": "Singor2",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1764379",
+        "mallType": "WD",
+        "itemId": "7489994552",
+        "title": "Collection of vintage letters, high weight pure cotton T-shirt for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250720/mdb2dody_31w3.jpg",
+        "price": "¥182.50",
+        "toPrice": "$28.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672426709",
+          "name": "你看看这！",
+          "logo": "https://si.geilicdn.com/shopedit1902426083-19b10000019971e5dc9a0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1764382",
+        "mallType": "WD",
+        "itemId": "7460590862",
+        "title": "Sup short sleeved T-shirt heavyweight high-quality unisex design",
+        "picUrl": "https://cdn.findqc.com/item/20250719/mda0c4hj_bxfj.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1853693293",
+          "name": "AT66 Studio",
+          "logo": "https://si.geilicdn.com/wdseller1940495825-5a5e00000196b44f0c400a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1761351",
+        "mallType": "TB",
+        "itemId": "934122185150",
+        "title": "Undercover collaboration, 2006ss T-issue portrait wash printed short sleeved shirt, one off Tee",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md729ale_od22.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "336502708",
+          "name": "Sleepboy",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1762304",
+        "mallType": "WD",
+        "itemId": "7454986562",
+        "title": "Ma Minimalist Style Digital Four cornered Logo Trendy Couple Short sleeved T-shirt 6",
+        "picUrl": "https://cdn.findqc.com/item/20250720/mdb1x2ub_4jq3.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867150125",
+          "name": "善解人衣",
+          "logo": "https://si.geilicdn.com/shopedit1934672132-3e660000019a3bc4d19a0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1762275",
+        "mallType": "WD",
+        "itemId": "7505603331",
+        "title": "[M8] Letter printed short sleeved black",
+        "picUrl": "https://cdn.findqc.com/item/20250719/md9w5rns_lkzx.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850717273",
+          "name": "YOLO",
+          "logo": "https://si.geilicdn.com/wdseller1845163825-643f0000018e441273ff0a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1761341",
+        "mallType": "TB",
+        "itemId": "818680292101",
+        "title": "CASABLANCA Grid Square Letter Knitted Short Sleeve Polo Shirt High Street",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md6tlfad_kx13.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "502684059",
+          "name": "潮服CASABLAN",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761349",
+        "mallType": "TB",
+        "itemId": "581291201364",
+        "title": "Durag headscarf hat, headband hat, long tail hat, pirate hat, European and American hip-hop, lace up headscarf, velvet",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md70yckv_wwx7.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72941700",
+          "name": "美国BT品牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761344",
+        "mallType": "WD",
+        "itemId": "7264712661",
+        "title": "LL43204-N49",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md6w9sko_pl3s.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661271393",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/wdseller1776267771-75d1000001913c53d35e0a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761322",
+        "mallType": "TB",
+        "itemId": "778910280060",
+        "title": "Realistic GALLERY DEPT High Street Summer Inkjet Graffiti Loose Cotton Couple Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md6bwsas_u17j.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "292978826",
+          "name": "TAKE YOUR TIMES",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761314",
+        "mallType": "WD",
+        "itemId": "7504421028",
+        "title": "E=Short sleeved T-shirt casual shorts set trend (WhatsApp+86 158 9205 5479)",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5zawx2_nihw.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1857878373",
+          "name": "Zoe",
+          "logo": "https://si.geilicdn.com/wdseller605567491-379b00000191ac13c5d10a2315ef_1241_1243.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 189,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761311",
+        "mallType": "WD",
+        "itemId": "7405183537",
+        "title": "High quality T-shirt 6068",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5wwnk6_9b1j.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779779637",
+          "name": "MangoBuy-A",
+          "logo": "https://si.geilicdn.com/shopedit1905370046-4fa1000001931f90c0a80a2395d6-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761305",
+        "mallType": "TB",
+        "itemId": "801088095812",
+        "title": "Wang Youbing Studio Weighs 260G! Nostalgic Old Anime Line Draft Shoulder Down Short Sleeve T-shirt for Men and Women Couples",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5lrhvb_085b.jpg",
+        "price": "¥59.80",
+        "toPrice": "$9.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101298388",
+          "name": "王有病工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761304",
+        "mallType": "TB",
+        "itemId": "943454917813",
+        "title": "ERD melancholic wealthy second-generation 25ss bandage portrait slogan short sleeved You Are Nothing T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5cwjiy_yako.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "336502708",
+          "name": "Sleepboy",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761297",
+        "mallType": "WD",
+        "itemId": "7329459782",
+        "title": "2025 new T-shirt with embroidered large logo on the chest, made of 260g double yarn fabric, fashionable and versatile, suitable for both men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md576nnh_5jq8.jpg",
+        "price": "¥158.34",
+        "toPrice": "$24.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761296",
+        "mallType": "WD",
+        "itemId": "7408069602",
+        "title": "《𝙉𝙚𝙬 ♈ Casablanca 🏖 Casablanca 25 new letter logo printed short sleeved T-shirt, made of 260g 32 thread tight double yarn pure cotton fabric, the fabric is soft.",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md576mdy_uap6.jpg",
+        "price": "¥131.67",
+        "toPrice": "$20.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147577911917138306",
+  "language": "en"
+}

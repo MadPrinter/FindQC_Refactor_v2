@@ -1,0 +1,385 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1430333",
+        "mallType": "WD",
+        "itemId": "7297574582",
+        "title": "[The best 1:1] Factory direct sales, you can see thousands of products in my store",
+        "picUrl": "https://si.geilicdn.com/pcitem1892601044-51bb0000019335800d330a23057e_4590_4590.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665755157",
+          "name": "Dandy",
+          "logo": "https://si.geilicdn.com/wdseller1892601044-213d00000196097a66560a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1746006",
+        "mallType": "WD",
+        "itemId": "7502221911",
+        "title": "Fashion Versatile Crew Neck Sweatshirt Collection 026",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-752500000197d58591130a8115c2_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2727630",
+        "mallType": "WD",
+        "itemId": "7572534545",
+        "title": "Fall and winter casual fashion hooded sweater 022-24 DZ",
+        "picUrl": "https://si.geilicdn.com/open1834095317-1234478995-351900000192e1cc87650a210298_1200_1200.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1775944701",
+          "name": "TopShoes",
+          "logo": "https://si.geilicdn.com/shopedit1969803189-57dd00000198592d45920a2396f4-unadjust_224_224.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2649907",
+        "mallType": "WD",
+        "itemId": "7497354597",
+        "title": "【 DX32 】 Collection of classic contrasting round neck hoodies for autumn",
+        "picUrl": "https://si.geilicdn.com/pcitem901898590714-03ea00000193ae2eb60b0a2304aa_1200_1200.jpg",
+        "price": "¥242.00",
+        "toPrice": "$38.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646048669",
+          "name": "Giant panda 🐼",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3059284",
+        "mallType": "WD",
+        "itemId": "7607166230",
+        "title": "Erd's New Model of the Wealthy Second-Generation Benny's Video Graphic Washed and Distressed Hoodie Sweatshirt for Men and Women Trendy",
+        "picUrl": "https://si.geilicdn.com/open1817828565-1817828565-66400000019a815071800aa086a7_600_800.jpg",
+        "price": "¥297.98",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1760140483",
+          "name": "1:1A&amp;V",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2540369",
+        "mallType": "WD",
+        "itemId": "7518145171",
+        "title": "BLSG 1:1 top quality long sleeved hoodie new style",
+        "picUrl": "https://si.geilicdn.com/open1660524099-1234478995-58b3000001986450cc330a23b491_1080_1080.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1660524099",
+          "name": "Reps Fashion",
+          "logo": "https://si.geilicdn.com/pccreshp1827593024-3ea7000001985f5dc8890a23038e-unadjust_744_684.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1125884",
+        "mallType": "WD",
+        "itemId": "7322603469",
+        "title": "ARC THERMAL LINED ZIP UP HOODED Sham Shui Po District",
+        "picUrl": "https://cdn.findqc.com/item/20250407/m96j3nmf_nx3g.jpg",
+        "price": "¥279.00",
+        "toPrice": "$43.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1378088195",
+          "name": "CND CLOTH",
+          "logo": "https://si.geilicdn.com/wdseller1378088195-5f6f000001739627e4360a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1973032",
+        "mallType": "TB",
+        "itemId": "838170304213",
+        "title": "Erd Style Melancholic Rich Second-Generation Vintage American Casual Gray Waffle Pattern Sanskrit Boxy Long-Sleeve Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdx0ue0y_9djy.jpg",
+        "price": "¥131.83",
+        "toPrice": "$20.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "180457924",
+          "name": "URRRGE Official",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2015404",
+        "mallType": "T1688",
+        "itemId": "906549460904",
+        "title": "Foreign Trade Wholesale Melancholic Rich Second-Generation High Street Washed and Distressed Character Printed Loose Sweatshirts for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KdQgtQ1sZIJ5ynaC3_!!2219557845780-0-cib.jpg",
+        "price": "¥162.17",
+        "toPrice": "$25.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6jKp0nYkh5QB01zaVTpN6A",
+          "name": "宁海用艾贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1204304",
+        "mallType": "TB",
+        "itemId": "911912609915",
+        "title": "Madman Floral Cardigan Embroidered Zipper Personalized Customization",
+        "picUrl": "https://cdn.findqc.com/item/20250610/mbplokh5_g4fv.jpg",
+        "price": "¥224.96",
+        "toPrice": "$35.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258373061",
+          "name": "MadMan2024",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3119769",
+        "mallType": "TB",
+        "itemId": "973304386346",
+        "title": "Godspeed Retro Skull Print Trendy High Street Casual Hip-Hop Unisex Pure Cotton Cardigan Hoodie",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/409187313/O1CN01pRuoK223tPW3Kuoje_!!409187313.jpg",
+        "price": "¥127.58",
+        "toPrice": "$20.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156422319",
+          "name": "潮牌批发 一件代发",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2746075",
+        "mallType": "WD",
+        "itemId": "7578028536",
+        "title": "Original factory quality Car J25 heavy-duty washed J130 hooded jacket jacket, American vintage vintage vintage distressed",
+        "picUrl": "https://si.geilicdn.com/open1807472259-1234478995-12e500000199f679877f0aa00428_1090_1090.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1807472259",
+          "name": "CatX",
+          "logo": "https://si.geilicdn.com/wdseller1974889158-307c00000199cf4a51c70a81347d_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2335589",
+        "mallType": "WD",
+        "itemId": "7542725614",
+        "title": "Sweaters (high quality)",
+        "picUrl": "https://si.geilicdn.com/pcitem901871968582-65ba000001990f2a103b0a20e7c7_1200_1200.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1775297699",
+          "name": "TOP CN",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2233066",
+        "mallType": "T1688",
+        "itemId": "861838765891",
+        "title": "Cross border dropshipping 2024 new classic printed black 8 hoodie world tour youth pullover hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0106sZLD1J7nxH2Naxj_!!2217532530982-0-cib.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7C6ML3eslSFXpShJvOKRmw",
+          "name": "广州羚燕服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895918",
+        "mallType": "WD",
+        "itemId": "7514966921",
+        "title": "Stone Island Stone Island Shirt Autumn and Winter Men's and Women's Hooded Sweatshirt Solid Color Island Sleeve Label Badge Section Zipper Sweatshirt Jacket",
+        "picUrl": "https://si.geilicdn.com/open1801180035-1234478995-1d970000019847127a1f0a23b491_800_800.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2458854",
+        "mallType": "WD",
+        "itemId": "7555893916",
+        "title": "coat",
+        "picUrl": "https://si.geilicdn.com/wdseller1353408211-306200000195958a3bf20a210256_1288_1288.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801320989",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3119853",
+        "mallType": "WD",
+        "itemId": "7565476064",
+        "title": "Sweat 21-521",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-709700000190c0f3d2580a232357_800_800.jpg",
+        "price": "¥145.08",
+        "toPrice": "$22.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "982822976",
+          "name": "CRAGON",
+          "logo": "https://si.geilicdn.com/shopedit982822976-1fda00000196bf7a94a80a210139-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2499846",
+        "mallType": "WD",
+        "itemId": "7338843338",
+        "title": "High quality set DT-C005",
+        "picUrl": "https://si.geilicdn.com/pcitem901899246483-7a2000000193536f9e2e0a210256-unadjust_1200_1200.png",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1768602549",
+          "name": "MagicBuy",
+          "logo": "https://si.geilicdn.com/shopedit1910834196-1691000001938661b02b0a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2491358",
+        "mallType": "TB",
+        "itemId": "978833338488",
+        "title": "Number Nine Shield Ripped Shotgun Hoodie N9 Badge Printed Hoodie",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2212643669335/O1CN0118EQdJ2IpUMl5NtD2_!!2212643669335.jpg",
+        "price": "¥186.24",
+        "toPrice": "$29.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2351792",
+        "mallType": "TB",
+        "itemId": "685306459868",
+        "title": "Fog Miki Essentials American Niche Trendy Brand Autumn and Winter Velvet Loose Casual Hoodie Sweatshirt for Men",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/269163990/O1CN01pIp9CS1fLTERyllQy_!!269163990.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58764079",
+          "name": "橙果 X Fruit",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142094711913290056",
+  "language": "en"
+}

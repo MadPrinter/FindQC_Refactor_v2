@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2072055",
+        "mallType": "WD",
+        "itemId": "6724705640",
+        "title": "D Sweatshirt Hoodie Apricot Middle Yellow DRE Embroidery 26B",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-00d40000018b39ad6a400a210349_480_480.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2070283",
+        "mallType": "T1688",
+        "itemId": "833276997059",
+        "title": "TRYTHMCLUB American vintage old letter print hooded sweatshirt hip-hop oversize slouchy hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gKDvL61ju3fCjnp8R_!!2215844974607-0-cib.jpg",
+        "price": "¥112.00",
+        "toPrice": "$17.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215844974607",
+          "name": "深圳市龙岗区多米原创服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2070830",
+        "mallType": "T1688",
+        "itemId": "670966558515",
+        "title": "Bag 2025ins Crossbody Small Cloth Bag Cowboy Handbag Canvas Korean Pillow Bucket Bag Female Trendy New",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01d3kBp31owrvy7EGQh_!!2212477365290-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212477365290",
+          "name": "广州市希烁皮具有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2071274",
+        "mallType": "T1688",
+        "itemId": "841262329485",
+        "title": "Cross-border Europe and the United States Sweatshirt Women Hooded Long Sleeve Printed Embroidery Knit Polo Pullover Top Nanyu Women's Clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cHAJJN1PrxXeeLrN5_!!2216046771895-0-cib.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216046771895",
+          "name": "深圳市宝安区多鑫服装工作室",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2070546",
+        "mallType": "TB",
+        "itemId": "802248885643",
+        "title": "Synaword Trendy Sweatshirt for Men ins Hip-Hop Street Y2K Sweatpants Hoodie Printed Sports Suit Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250928/mg2m51ga_sh8y.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "246274305",
+          "name": "欧美Trendy clothing店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2071952",
+        "mallType": "T1688",
+        "itemId": "858322272287",
+        "title": "2025 spring new boys embroidery sweater set middle and large children sports sweater sweater sweatpants two-piece suit suit generation",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01shGUpR2FRitGrj8Iv_!!2599998877-0-cib.jpg",
+        "price": "¥35.49",
+        "toPrice": "$5.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2599998877",
+          "name": "宁波市好卖通服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1116",
+        "mallType": "TB",
+        "itemId": "680401866680",
+        "title": "Fog Season 8 Essentials1977 Flocked Hoodie Sweatshirt and Jogger Pants Set High Street Couple Outfit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mzsu0o_ythq.jpg",
+        "price": "¥155.03",
+        "toPrice": "$24.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101198640",
+          "name": "原创潮流社",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 142,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2745465",
+        "mallType": "WD",
+        "itemId": "7322678611",
+        "title": "F hoodie 24 rows FRAE2254",
+        "picUrl": "https://cdn.findqc.com/item/20251028/mha7ta0m_5hsr.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2815790",
+        "mallType": "T1688",
+        "itemId": "782469819022",
+        "title": "24 Spring and Autumn unisex TB webbing four bar zipper hooded jacket with looped cotton Korean version loose and versatile hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251028/mh9mb4ce_a304.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQ-kw6PGYf9aemJgaAXuqYQ",
+          "name": "即墨区维尼克服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1574230",
+        "mallType": "TB",
+        "itemId": "654139034317",
+        "title": "Double logo hoodie",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2212527489276/O1CN01OBs4WI2IOSsAo8Cli_!!2212527489276.jpg",
+        "price": "¥268.46",
+        "toPrice": "$42.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "426792955",
+          "name": "m st",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2030471",
+        "mallType": "TB",
+        "itemId": "747162508392",
+        "title": "essentials back embossed rubber letters hooded sweatshirt winter Europe and the United States tide brand fog compound line high street couple jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2206648670125/O1CN01yFg9UI1CnIUbVSEmR_!!2206648670125.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "219402786",
+          "name": "vtg 高街FOG",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2059967",
+        "mallType": "T1688",
+        "itemId": "804189707795",
+        "title": "潮牌高街恶魔岛印花连帽卫衣小众帽衫男女美式束脚卫裤外贸批发",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CthH3s2FFoTOx0OL2_!!2933058851-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217367370380",
+          "name": "佛山市南海区潮疯街贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "176343",
+        "mallType": "TB",
+        "itemId": "766138658705",
+        "title": "Fog Multi-Line Essentials Autumn and Winter Eighth Season American Trendy Brand Sweatshirt and Sweatpants High Street Unisex Couple Set",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq4lei_p500.jpg",
+        "price": "¥155.64",
+        "toPrice": "$24.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101198640",
+          "name": "原创潮流社",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 199,
+        "qcVideoCnt": 8
+      },
+      {
+        "id": "1975601",
+        "mallType": "TB",
+        "itemId": "730624277559",
+        "title": "2023 fall and winter LMH new boys and girls cotton knitted sweater knitted pants padded sweater sweatpants set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1970934845/O1CN01ZUB2wr1lf3nmHKiMR_!!1970934845.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "267593264",
+          "name": "萝卜头童装定制小铺",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975879",
+        "mallType": "T1688",
+        "itemId": "943755660004",
+        "title": "Hong Kong style trend letters printed cotton round neck sweater men and women couples pullover terry sweater trend fall and winter long-sleeved",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wX2rSL2DVGmFhF4lG_!!2216050398614-0-cib.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216050398614",
+          "name": "佛山市南海区万万汇服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1983694",
+        "mallType": "WD",
+        "itemId": "7328408091",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1840466345-252808396-424400000193ee57e60e0a210298_755_755.jpg",
+        "price": "¥221.14",
+        "toPrice": "$34.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615509721",
+          "name": "WWW——34-1",
+          "logo": "https://si.geilicdn.com/shopedit1848591094-437a000001963933a6090a23111a-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1976240",
+        "mallType": "WD",
+        "itemId": "7456121898",
+        "title": "16L-41377",
+        "picUrl": "https://si.geilicdn.com/pcitem901941861063-2fdb000001967137d4530a81347d_1500_1500.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "252002335",
+          "name": "lemon3",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2798261",
+        "mallType": "WD",
+        "itemId": "7551473237",
+        "title": "New hoodie CactusTears foam cotton pattern casual set for both men and women, American style hoodie trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251026/mh7rq0bt_h6um.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646627709",
+          "name": "精选外贸",
+          "logo": "https://si.geilicdn.com/shopedit1966731999-109f0000019a86c0577f0a2396f4-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1948266",
+        "mallType": "T1688",
+        "itemId": "947155377044",
+        "title": "Autumn and winter new round neck red heart sweater men and women with the same jacquard love AMI ANCIENT casual models knitwear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019UNtJv1WvLrB52U9v_!!2220135852850-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220135852850",
+          "name": "广州致潮服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2472041",
+        "mallType": "WD",
+        "itemId": "7519765257",
+        "title": "Chai (Detachable) Bootleg Embroidered Long-Sleeved Polo Pure Cotton Original Design Detachable Leopard Print Fur Collar Long-Sleeved",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh5zx8xz_hxqk.jpg",
+        "price": "¥414.70",
+        "toPrice": "$65.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854689181",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142215942553894606",
+  "language": "en"
+}

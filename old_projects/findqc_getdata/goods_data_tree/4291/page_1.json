@@ -1,0 +1,621 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3174242",
+        "mallType": "T1688",
+        "itemId": "935652625630",
+        "title": "Classic women's sleeveless vest with triangle logo, pure cotton metal camisole top, slim fit version in stock, complete with three logos\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NvKfKF1jyBIkzXR7t_!!2219630874616-0-cib.jpg",
+        "price": "¥54.90",
+        "toPrice": "$8.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5Zohp0ApugdbTwOfn5qawg",
+          "name": "德化县欧晟贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1930354",
+        "mallType": "T1688",
+        "itemId": "836396007945",
+        "title": "Nanyou high quality Niche 2024 Summer New Simple White Vest Slimming All-match Sleeveless Short Top for Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oVJeqQ2A8sUft1und_!!2218669508159-0-cib.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBYAXgxRappOPpRb4V1sx3w",
+          "name": "东莞市虎门莹达服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3066610",
+        "mallType": "T1688",
+        "itemId": "810644053407",
+        "title": "Contrast Color Stitching Solid Color Seamless I-shaped Yoga Vest with Chest Pad Women's Cross-border Fitness Threaded Top for Outer Wear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xQeiSv1GqjhBJV1Pj_!!2212454510674-0-cib.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAXetnnz1rOKUt4SOsD4ufQ",
+          "name": "深圳市白色国际贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3196236",
+        "mallType": "TB",
+        "itemId": "711190469598",
+        "title": "Yproject Niche Design Visual Illusion Spaghetti Strap Tank Top Slim Fit Solid Color Sexy Top for Women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2185075233/O1CN01TsNZtq1oWli3rHs4o_!!2185075233.jpg",
+        "price": "¥160.42",
+        "toPrice": "$25.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "384903405",
+          "name": "Y Project",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2541178",
+        "mallType": "TB",
+        "itemId": "780820134996",
+        "title": "Pure Desire White Lace Camisole for Women, Spring and Autumn Sweet and Spicy Slim-Fit Tube Top, Inner Layer Short Top for Summer",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgq42n17_ciy7.jpg",
+        "price": "¥10.17",
+        "toPrice": "$1.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "387175431",
+          "name": "馨丽莉旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 8,
+        "picWidth": "800",
+        "picHeight": "1085"
+      },
+      {
+        "id": "1646382",
+        "mallType": "T1688",
+        "itemId": "916800643759",
+        "title": "Trendy Brand Vest Spring and Summer New Heavy Industry Crystal Diamond Letter Slim-Fit Slimming Base Camisole Women's Sleeveless Top",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdw8v3u6_kkcm.jpg",
+        "price": "¥61.20",
+        "toPrice": "$9.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5Zohp0ApugdbTwOfn5qawg",
+          "name": "德化县欧晟贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "2902725",
+        "mallType": "WD",
+        "itemId": "7428344647",
+        "title": "Ms. Miao knitted wool vest",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk6kjh0_ivrw.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637094741",
+          "name": "Jaychen的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3133762",
+        "mallType": "T1688",
+        "itemId": "963734676211",
+        "title": "打底外穿 P家夏季三角标白色打底吊带背心百搭显瘦纯棉无袖上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TfJVpu1lKuanDMuOs_!!2220382014801-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB804IZz7M3FwM89qgC9nEDQ",
+          "name": "新沂市冉沐熙服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2538345",
+        "mallType": "T1688",
+        "itemId": "914788999548",
+        "title": "Cro*Ch Sanskrit Classic Horseshoe Print Letter Camisole Slim Fit U-Shaped Collar Versatile Export Classic",
+        "picUrl": "https://cdn.findqc.com/item/20251010/mgk9hjpd_ovw8.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBW4ohS5FKRhRE54M7hd8opQ",
+          "name": "广州优乐佳服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 9
+      },
+      {
+        "id": "3172069",
+        "mallType": "T1688",
+        "itemId": "921569951242",
+        "title": "In Stock] m Spring and Summer 23 New Fashionable Pure Color Super Nice Camisole + Versatile Short-Sleeved T-Shirt Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cIHsG725n7GwbcbAy_!!2219772847570-0-cib.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdUAyeqHhZuKFan9ao3J5mw",
+          "name": "广州盐伊电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1396333",
+        "mallType": "T1688",
+        "itemId": "704565218008",
+        "title": "Yu Shuxin same 2023 spring and summer y2k Spice Girls knitted camisole undershirt women inside out Slim short tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pSM64D241C05VHQrR_!!2213260997330-0-cib.jpg",
+        "price": "¥78.90",
+        "toPrice": "$12.41",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3034803",
+        "mallType": "T1688",
+        "itemId": "828590348659",
+        "title": "含羊毛软糯细围巾秋冬长条毛线针织y2k辣妹纯色细窄围巾",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011cdEQo1TgkIyRIoGt_!!2216471582412-0-cib.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216471582412",
+          "name": "桐庐久悦拾柒针织有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2952825",
+        "mallType": "T1688",
+        "itemId": "887506762240",
+        "title": "High end slim fit heavyweight vest for trendy men, niche metal hollow design, internet famous base shirt, camisole top for men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tLfSKc29oj6gDtqWI_!!2217580228115-0-cib.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfpEdGdUusp5mOouZW7YO9A",
+          "name": "广州鑫米服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2953266",
+        "mallType": "T1688",
+        "itemId": "849703595745",
+        "title": "European and American Style Women's Clothing Ins Fashion Trend Y2K Metal Decoration Hot Girl Navel Beautiful Back Sexy Strapless Inner Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XeeFdg2A688A0Qb2j_!!2216803808153-0-cib.jpg",
+        "price": "¥18.80",
+        "toPrice": "$2.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKYSybAYz_woHADGKr2vOOg",
+          "name": "天门市米路服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2478416",
+        "mallType": "T1688",
+        "itemId": "897121562021",
+        "title": "25 spring and summer new American Spice Girls horseshoe ring print Slim and thin versatile undershirt women women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fSeTbO1HE6BeT81ax_!!2218100420725-0-cib.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218100420725",
+          "name": "佛山市禅城区老咖不咖服装商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2856717",
+        "mallType": "T1688",
+        "itemId": "953434960453",
+        "title": "2025 Spring and Summer Women's Clothing Cross-Border Aliexpress Hot Style Sexy Waistband Fishbone Tube Top Shaping Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ktIkJ32AWhAcDmxP8_!!2217661458211-0-cib.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKmoeCozcuT6tCe_SsjTJcg",
+          "name": "合肥擎啸电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2008062",
+        "mallType": "T1688",
+        "itemId": "899559714085",
+        "title": "25 spring and summer new rock hottie style classic Sanskrit letters printed camisole tank top tight version 3 colors women's models",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jtVbgb1HE6BgQZfvS_!!2218100420725-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218100420725",
+          "name": "佛山市禅城区老咖不咖服装商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2139355",
+        "mallType": "T1688",
+        "itemId": "814249512764",
+        "title": "Wholesale C0rteiz Basic Devil Island Printed Sweatshirt American High Street Casual Men's and Women's Tank Top Sleeveless T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eoVKmj1f4WgSpUVpE_!!2214425623953-0-cib.jpg",
+        "price": "¥19.90",
+        "toPrice": "$3.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkZQhHOnAqRbgkwSQM3RUng",
+          "name": "广州奕辰国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2115106",
+        "mallType": "T1688",
+        "itemId": "816389520938",
+        "title": "Mori system retro printing small suspenders ethnic style round buckle pleated chest irregular hem hanging neck small undershirt female",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018ielzU1mkO8GmD9YL_!!3839224992-0-cib.jpg",
+        "price": "¥33.80",
+        "toPrice": "$5.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3839224992",
+          "name": "深圳市宝安区西乡苏珊娜服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "886360",
+        "mallType": "T1688",
+        "itemId": "868375788338",
+        "title": "Cross-border foreign trade wholesale corteiz Alcatraz basic letters embroidered round neck undershirt versatile casual sleeveless T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ioQ3Er1riAL6SIeoR_!!2217847465664-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145435211914135144",
+  "language": "en"
+}

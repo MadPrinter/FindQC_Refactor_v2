@@ -1,0 +1,636 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "922897",
+        "mallType": "T1688",
+        "itemId": "661881879860",
+        "title": "Manufacturer wholesale 2cm widened shoelaces, white colored shoelaces in stock, casual shoes, boots, dad shoes, single-layer flat shoes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CeW5GW2DalBZyem31_!!2212799038626-0-cib.jpg",
+        "price": "¥0.35",
+        "toPrice": "$0.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBlIPljvcux2mt7wQRHS4WVg",
+          "name": "温州迈得翔织带有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2922907",
+        "mallType": "WD",
+        "itemId": "7594608094",
+        "title": "Hat, scarf, gloves",
+        "picUrl": "https://si.geilicdn.com/wdseller1812690884-098c00000198f9b9be520a2303ee_1074_1074.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1760022851",
+          "name": "fire",
+          "logo": "https://si.geilicdn.com/pcdecorate901985556052-113f0000019a0a73d0820a207569-unadjust_678_678.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1889889",
+        "mallType": "T1688",
+        "itemId": "835839814877",
+        "title": "Autumn and Winter New Hat Solid Color Wool Hat Men's Japanese Style Cold Hat Fashion Brand Knitted Hat Women's Pullover Hat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BjdarV1KrtODe03La_!!2218372531218-0-cib.jpg",
+        "price": "¥13.00",
+        "toPrice": "$2.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBMDP2P6to7S0ReBJ2WAwVdQ",
+          "name": "义乌市乾町电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1412293",
+        "mallType": "T1688",
+        "itemId": "811125539016",
+        "title": "Fit AFI Air Force One Cute Solid Color Diy Round Three Strands Shoelace Thick Hand-woven Hemp Rope Polyester Cotton Rope",
+        "picUrl": "https://cdn.findqc.com/item/20250603/mbfw01l4_edj7.jpg",
+        "price": "¥2.65",
+        "toPrice": "$0.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBeag3O-CEmqyWBfdqc9q6lg",
+          "name": "泉州轩丝织造有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2081426",
+        "mallType": "T1688",
+        "itemId": "835701516323",
+        "title": "Miu's new versatile letter embroidered street cold hat, men's trendy women's autumn and winter trendy brand warm knitted hat, woolen hat\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XMW2U72NMF3K6BCLE_!!2212747269948-0-cib.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrdDpt1D7QSkyAKWAUw_-3w",
+          "name": "东阳市涵素服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2057331",
+        "mallType": "T1688",
+        "itemId": "904020671198",
+        "title": "Factory wholesale wool cap men's Japanese cold cap tide brand knitted cap women's pullover cap autumn and winter new hat solid color",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vgMpCO1VXFN9jxt0P_!!2216804452662-0-cib.jpg",
+        "price": "¥14.50",
+        "toPrice": "$2.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUWKv-8cbGzKYX6x1Lec8ug",
+          "name": "义乌市词韵服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 59,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2635424",
+        "mallType": "T1688",
+        "itemId": "900034980889",
+        "title": "Rl Raff Pony Logo Embroidered Wool Versatile Knitted Scarf Warm Knitted Scarf Twist Scarf to Protect Against Cold",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012wt1yT1ChLOuPUZEQ_!!2219517740112-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnbA5BnsL0wGM05O4vXhWmw",
+          "name": "广州小佳外贸服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3131964",
+        "mallType": "WD",
+        "itemId": "7286752668",
+        "title": "168#",
+        "picUrl": "https://si.geilicdn.com/open1720287225-1234478995-5f220000019280f96e8f0a210298_800_800.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1720287225",
+          "name": "Top Hats",
+          "logo": "https://si.geilicdn.com/wdseller1866706486-3ba500000195e3262ea80a23111a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1963869",
+        "mallType": "WD",
+        "itemId": "7286817748",
+        "title": "047#",
+        "picUrl": "https://si.geilicdn.com/open1720287225-1234478995-32110000019280fa30df0a232357_1000_871.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1720287225",
+          "name": "Top Hats",
+          "logo": "https://si.geilicdn.com/wdseller1866706486-3ba500000195e3262ea80a23111a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 41,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3128120",
+        "mallType": "T1688",
+        "itemId": "984614000120",
+        "title": "新款帽子批发男帽针织帽欧美时尚潮休闲毛线帽加厚套头帽保暖冷帽",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZYlfrx1EpFWLCC10Q_!!2220890950400-0-cib.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220890950400",
+          "name": "广州泽尚帽业商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2594834",
+        "mallType": "WD",
+        "itemId": "7551387077",
+        "title": "HM28 High Quality Hat V Home WhatsApp +86 180 5958 8683",
+        "picUrl": "https://si.geilicdn.com/pcitem1934717307-60300000019879efdde40a239846_1200_1200.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1783028093",
+          "name": "Your friend",
+          "logo": "https://si.geilicdn.com/shopedit1966225372-510800000199a995d4330a2103bd-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3094508",
+        "mallType": "T1688",
+        "itemId": "874983441485",
+        "title": "RL Raffles scarf pony embroidery knitting wool versatile knitting scarf warm and cold proof scarf Fried Dough Twists\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mFWNjs1VZXKoHfLs8_!!2186462667-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0b2RCDekW1-lm6sHS1wWsw",
+          "name": "普宁市梅塘宜佳服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "308277",
+        "mallType": "T1688",
+        "itemId": "691004930105",
+        "title": "Factory wholesale cross-border hat autumn and winter European and American knitted hat men's warm pullover wool hat casual fashion ear protection cold hat",
+        "picUrl": "https://cdn.findqc.com/item/20241205/m4b5r6hw_ksy7.jpg",
+        "price": "¥14.90",
+        "toPrice": "$2.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqV_4cet7yj1Id7A08xdE1Q",
+          "name": "广州天柏帽业商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2756129",
+        "mallType": "WD",
+        "itemId": "7284437922",
+        "title": "Winter pony embroidery wool cap men and women with the same paragraph tide of Europe and the United States simple knitted cap outdoor warm cold sweater cap",
+        "picUrl": "https://si.geilicdn.com/open1622703461-1234478995-7ce0000001926b381f440a8115b5_1280_1280.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622703461",
+          "name": "Trendybrandsmallshop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 100,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2211700",
+        "mallType": "T1688",
+        "itemId": "855435069201",
+        "title": "户外糖果色鹅跨境外贸针织帽欧美套头帽冷帽秋冬保暖毛线帽冬帽",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AxxXLR1msdHC8zveq_!!2218509355010-0-cib.jpg",
+        "price": "¥18.90",
+        "toPrice": "$2.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216816826137",
+          "name": "义乌市姿婳电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1967027",
+        "mallType": "WD",
+        "itemId": "7297735908",
+        "title": "R Horse Knit Cap",
+        "picUrl": "https://si.geilicdn.com/pcitem1893870411-0c440000019411c962e80a230115_1279_1707.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1628733717",
+          "name": "FindsReps",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2636856",
+        "mallType": "T1688",
+        "itemId": "973273291991",
+        "title": "Autumn and winter new pony embroidery wool cap Europe and the United States tide brand simple knitted cap outdoor leisure warm pullover cap",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IcZw3r2KVufLFCeOB_!!2216227299563-0-cib.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216227299563",
+          "name": "广州君飞帽业商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1917174",
+        "mallType": "WD",
+        "itemId": "7491502195",
+        "title": "(fig.) label",
+        "picUrl": "https://si.geilicdn.com/open1610767581-1234478995-70f30000019774e6f1880aa0c79f_1000_871.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1610767581",
+          "name": "纽共",
+          "logo": "https://si.geilicdn.com/wdseller1955521992-534c00000198d2a927910a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "837283",
+        "mallType": "WD",
+        "itemId": "7282107204",
+        "title": "Youth Edition Active Knit Hat 3",
+        "picUrl": "https://si.geilicdn.com/pcitem1873385315-39fa00000192330616ee0a81347d_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1729503109",
+          "name": "Top Barry",
+          "logo": "https://si.geilicdn.com/shopedit1873385315-2d19000001929ac0b45c0a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2890348",
+        "mallType": "T1688",
+        "itemId": "975036429866",
+        "title": "Autumn and Winter New Pony Embroidery Knitted Hat European and American Trendy Brand Simple Knitted Hat Outdoor Leisure Warm Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjh2m2t_7b83.jpg",
+        "price": "¥15.20",
+        "toPrice": "$2.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvqOgzZ_hi6af-9UWOhmgHg",
+          "name": "义乌市姿婳电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145217372553927552",
+  "language": "en"
+}

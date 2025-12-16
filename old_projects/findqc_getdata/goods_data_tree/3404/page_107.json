@@ -1,0 +1,387 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2418688",
+        "mallType": "WD",
+        "itemId": "7550911567",
+        "title": "【 9/10 】 LAS classic fit Sweatshirt à capuchezipp é moleton 9626",
+        "picUrl": "https://cdn.findqc.com/item/20250928/mg3ci58w_kvo2.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646496609",
+          "name": "Fr fish①",
+          "logo": "https://si.geilicdn.com/weidian1487868650-5664000001921049e8990a21146b_756_756.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2920326",
+        "mallType": "WD",
+        "itemId": "7541296646",
+        "title": "AF-C000402 round neck hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1977362831-62d8000001990ac5eee90a20e284_1080_1440.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1835475968",
+          "name": "海绵宝宝 Spongebob",
+          "logo": "https://si.geilicdn.com/shopedit1977362831-198b00000198b0a35df90a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2566313",
+        "mallType": "WD",
+        "itemId": "7544196183",
+        "title": "ME Sweatshirt Hoodie Embroidered Letter Patchwork N730",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-7ee4000001992a3c54df0a20e7c7_860_860.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1681906",
+        "mallType": "T1688",
+        "itemId": "896155370371",
+        "title": "2024 cross-border NBA hoodie outdoor sports casual basketball uniforms tops loose couple models factory direct sale",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000002804/O1CN01AVZi2W1WaHblBh14t_!!6000000002804-0-tbvideo.jpg",
+        "price": "¥34.99",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219479569037",
+          "name": "上饶市领头羊服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2358885",
+        "mallType": "T1688",
+        "itemId": "971051707905",
+        "title": "New supnk co-branded models of large hook embroidery loose American trend knitted sportswear men and women with the same models",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RULxOh1vfeh9Se4Az_!!2218981116200-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218981116200",
+          "name": "义乌市清唷服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1957946",
+        "mallType": "T1688",
+        "itemId": "935037886174",
+        "title": "Cross-Border Basic Washed Black 8 Zipper Cardigan Fleece-Lined Hooded Autumn and Winter Loose Sweatshirt Men's and Women's Jacket Stu West",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nNdUzX1uzWEQVtIUG_!!2218961616108-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_z-PMAH18FFbZ6qC6FnqFw",
+          "name": "广州市黄埔区睿超贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1634086",
+        "mallType": "T1688",
+        "itemId": "916967353326",
+        "title": "2025 New Sweatshirt Fashion Street Style Versatile Personalized Embroidered Hoodie Men's and Women's Casual Pullover Sweatshirt Pants",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LOEOZI1uwlqOBHAme_!!2215804526102-0-cib.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5iOElmD7DyZgEkU5vZQyPQ",
+          "name": "深圳市福加福电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1769352",
+        "mallType": "WD",
+        "itemId": "7298130928",
+        "title": "Couple hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250916/mflds55n_w6o1.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1612170146",
+          "name": "Tonsace",
+          "logo": "https://si.geilicdn.com/wdseller1580621215-172200000189b49f60ef0a2313e0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2492151",
+        "mallType": "TB",
+        "itemId": "976904095862",
+        "title": "500g heavy-duty hoodie 500g heavy weight Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2217183658362/O1CN01ksq3Hn2BdqzcOs7eb_!!2217183658362.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "441795349",
+          "name": "Eagle2025",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2490814",
+        "mallType": "WD",
+        "itemId": "7524185717",
+        "title": "Fashion Round Neck Sweatshirt-REC600",
+        "picUrl": "https://si.geilicdn.com/open1621880285-1234478995-1f2200000198785544ba0a231226_1200_1200.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621880285",
+          "name": "FunkyFitsBuy",
+          "logo": "https://si.geilicdn.com/wdseller1957175964-564000000196e87b77650a207569_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2477909",
+        "mallType": "WD",
+        "itemId": "7321259089",
+        "title": "7321259089",
+        "picUrl": "https://si.geilicdn.com/pcitem1827981542-677600000190825f24ec0a210256_1280_1707.jpg",
+        "price": "¥242.00",
+        "toPrice": "$38.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828016549",
+          "name": "我的小铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-249600000193b88380020a231316-unadjust_234_234.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2488394",
+        "mallType": "WD",
+        "itemId": "7526851165",
+        "title": "ZW-1 is a comfortable sweatshirt for all ages and sizes, and is a fashionable tool that can be used in a variety of ways. (Scan the QR code)",
+        "picUrl": "https://si.geilicdn.com/pcitem1967540221-691f0000019869896f180a20e7c7_1200_1200.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1800767741",
+          "name": "Swank Select",
+          "logo": "https://si.geilicdn.com/shopedit1967540221-6bc000000197b465c3b50a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2478915",
+        "mallType": "WD",
+        "itemId": "7539736461",
+        "title": "L07-DQ High Version Plaid Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1961745752-765e00000198a7bb09b10a20e7c7_1440_1920.jpg",
+        "price": "¥328.00",
+        "toPrice": "$51.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1856930813",
+          "name": "xiao ting-SHOP-V1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2478383",
+        "mallType": "WD",
+        "itemId": "7528314433",
+        "title": "3000】-Sweatshirt-was +86 15260332785",
+        "picUrl": "https://si.geilicdn.com/open1671845241-1234478995-0b4d00000198c10639d90aa0c791_800_800.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1671845241",
+          "name": "Adam Shop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2499914",
+        "mallType": "WD",
+        "itemId": "7248486900",
+        "title": "MM Sweatshirt Hoodie Apricot Number 6 Black C673",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-57d4000001908e576bdd0a23959c_1500_1000.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2487185",
+        "mallType": "WD",
+        "itemId": "7499287349",
+        "title": "2024 New Peplum Jacket-CY",
+        "picUrl": "https://si.geilicdn.com/pcitem901862111834-54aa000001925aaf71b10a20e672-unadjust_677_908.png",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1750796349",
+          "name": "Atlanta shop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2479043",
+        "mallType": "WD",
+        "itemId": "7283326323",
+        "title": "Autumn and Winter Loose and Skinny Sweater Sweater Combo L-001",
+        "picUrl": "https://si.geilicdn.com/pcitem901963151121-2b6b00000197f3d321030a210139_1200_1200.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1845205061",
+          "name": "Best shop",
+          "logo": "https://si.geilicdn.com/wdseller901895171168-3f720000019243c405d30a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2477945",
+        "mallType": "WD",
+        "itemId": "7248426752",
+        "title": "2024 Casual Sport Hooded Men's",
+        "picUrl": "https://si.geilicdn.com/open1857621381-1234478995-78d2000001908cad7e2f0a210559_1280_1280.jpg",
+        "price": "¥359.00",
+        "toPrice": "$56.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1857621381",
+          "name": "big boy",
+          "logo": "https://si.geilicdn.com/shopedit1872449391-4df000000193d3461f7b0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2478199",
+        "mallType": "WD",
+        "itemId": "7541598534",
+        "title": "Europe and the United States hip-hop singers letter printing men and women couple sweater hoodie-t4",
+        "picUrl": "https://si.geilicdn.com/open1710883753-1234478995-7a6e00000190bae0d5d50aa0233d_1000_1000.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864968643",
+          "name": "CCD SHOP-W1",
+          "logo": "https://si.geilicdn.com/shopedit1980479043-55170000019ab4ce643d0a2103bd-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2477943",
+        "mallType": "WD",
+        "itemId": "7289064247",
+        "title": "Casual all-in-one hoodie 10188-007rep",
+        "picUrl": "https://si.geilicdn.com/pcitem901881361442-01d2000001929e4e42d60a2396f4_1200_1200.jpg",
+        "price": "¥163.00",
+        "toPrice": "$25.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1761500601",
+          "name": "sam shopping",
+          "logo": "https://si.geilicdn.com/pcdecorate901881361375-4cd8000001914b4304730a210256-unadjust_590_590.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142501171913292231",
+  "language": "en"
+}

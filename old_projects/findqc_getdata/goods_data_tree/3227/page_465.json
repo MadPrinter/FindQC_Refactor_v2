@@ -1,0 +1,363 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2341515",
+        "mallType": "WD",
+        "itemId": "7470777894",
+        "title": "Stone Island Polo Top Top T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250907/mf8ndxxe_7co4.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1641289368",
+          "name": "TJ球鞋",
+          "logo": "https://si.geilicdn.com/wdseller1472774553-323200000170b9bfb70c0a21c2a8_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2337295",
+        "mallType": "TB",
+        "itemId": "930434475525",
+        "title": "New niche sports brand SATISFY short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250907/mf8mmuw5_wefq.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "396526790",
+          "name": "Old version",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2337294",
+        "mallType": "T1688",
+        "itemId": "877740727239",
+        "title": "Correct version ALD American retro T-shirt classic letter print European and American style simple street trend AIME short sleeved trend",
+        "picUrl": "https://cdn.findqc.com/item/20250907/mf8lka85_kmpb.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218547169017",
+          "name": "广州市番禺区开帆服饰贸易店(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1903967",
+        "mallType": "T1688",
+        "itemId": "944613360185",
+        "title": "24 Autumn/Winter New Trendy Brand Letter All-Over Logo Crew Neck Knit Sweater Unisex Loose Casual Long Sleeve Top",
+        "picUrl": "https://cdn.findqc.com/item/20250907/mf8hlter_50pd.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqzc__v2gJc6O5H_JwobRLw",
+          "name": "广州市白云区黄石街兔飞猛进服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 283,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "757273",
+        "mallType": "WD",
+        "itemId": "7326473497",
+        "title": "Short-sleeved t-shirt women summer new loose casual tops couple half-sleeve",
+        "picUrl": "https://si.geilicdn.com/pcitem1861177029-03b000000193ddf3b3650a230115_800_800.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1833102969",
+          "name": "复制潮牌店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2339519",
+        "mallType": "TB",
+        "itemId": "732887304877",
+        "title": "Nike DRI-FIT Men's Summer Reflective Casual Training Breathable Short Sleeve T-shirt DV9306-010-511",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf8dqnde_jj2a.jpg",
+        "price": "¥121.39",
+        "toPrice": "$19.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68671926",
+          "name": "静速运动专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2339365",
+        "mallType": "WD",
+        "itemId": "7501286479",
+        "title": "***",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf8bsyt1_4fco.jpg",
+        "price": "¥95.80",
+        "toPrice": "$15.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1815387845",
+          "name": "晓风",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1802637",
+        "mallType": "WD",
+        "itemId": "7507114514",
+        "title": "Stu22y short sleeved style 303",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf8bdqgv_gic6.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616049789",
+          "name": "ZS factory2",
+          "logo": "https://si.geilicdn.com/wdseller1965552696-487e00000197e0b8acdf0a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2060723",
+        "mallType": "T1688",
+        "itemId": "952394497213",
+        "title": "European and American Cross-Border New Alphanumeric Printed Tops Street Trendy Football Style V Neck Short-Sleeved Tops Loose T-Shirts",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf8a3g96_2a83.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBX0Xkh90QrtBFqyZMYpcTqw",
+          "name": "上饶市欧曼斯服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1320682",
+        "mallType": "T1688",
+        "itemId": "895512061435",
+        "title": "Summer American retro dark print washed vintage trendy block loose oversized hip-hop skateboard short sleeved t-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf87j3vl_jzgs.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGU_8EM53xVGZZsm3uz3wUQ",
+          "name": "揭阳市揭东区新亨镇纤沫服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "822525",
+        "mallType": "WD",
+        "itemId": "7317549223",
+        "title": "ALO summer ice silk breathable short sleeved t-shirt yoga round neck solid color sports running men's quick drying moisture wicking top",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf87r6bt_nocb.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735969156",
+          "name": "AlOyogo",
+          "logo": "https://si.geilicdn.com/wdseller1489596767-6147000001910f7bd61c0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1598431",
+        "mallType": "WD",
+        "itemId": "7253261650",
+        "title": "R10243-H28",
+        "picUrl": "https://cdn.findqc.com/item/20250901/mf0wloph_hqco.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1829168265",
+          "name": "ROCKET4",
+          "logo": "https://si.geilicdn.com/weidian1811741420-7c1b000001913c5d2fa10a20e273_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2335591",
+        "mallType": "T1688",
+        "itemId": "826744402353",
+        "title": "Instant 2023 Summer New Off white High Quality Versatile Men's and Women's Same T-shirt Printed Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf8220qj_qtbv.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAX-JC3XJI3SNjfREoGmw6g",
+          "name": "铅山县世辉家贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2086627",
+        "mallType": "TB",
+        "itemId": "964713369388",
+        "title": "Fl Short Sleeves (Personalized Customization)",
+        "picUrl": "https://cdn.findqc.com/item/20250822/melyfu0w_wsry.jpg",
+        "price": "¥101.10",
+        "toPrice": "$15.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258373061",
+          "name": "MadMan2024",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 159,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1780423",
+        "mallType": "WD",
+        "itemId": "7394099334",
+        "title": "Printed pure cotton fashionable short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250802/mdtzte7e_nibz.jpg",
+        "price": "¥142.00",
+        "toPrice": "$22.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1663277044",
+          "name": "Yocco shop",
+          "logo": "https://si.geilicdn.com/wdseller1521896024-012c0000019199911e4e0a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "10394",
+        "mallType": "WD",
+        "itemId": "7238004744",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mb4yam_wh32.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 97,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1591375",
+        "mallType": "WD",
+        "itemId": "7456138328",
+        "title": "XJXPCS New Fashionable Versatile T-shirt -06-C60N",
+        "picUrl": "https://cdn.findqc.com/item/20250728/mdmuam1f_thf4.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1813519773",
+          "name": "Flying Pig Fashion",
+          "logo": "https://si.geilicdn.com/pccreshp1951011963-5609000001966c5d6efb0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2253372",
+        "mallType": "TB",
+        "itemId": "967620060498",
+        "title": "Erl Slim Slogan Gray and White Contrasting Letter Printed Short-Sleeved Men's and Women's Casual Travel T-Shirt Custom Woven Fabric",
+        "picUrl": "https://cdn.findqc.com/item/20250902/mf1xbqtl_rwli.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "355353642",
+          "name": "Crime Made",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2253451",
+        "mallType": "T1688",
+        "itemId": "916867089325",
+        "title": "GALLERY DEPT FOG High Street Trendy Brand Vintage Color Printed Loose Couple Short Sleeve T-shirt Men's Half Sleeve vtg",
+        "picUrl": "https://cdn.findqc.com/item/20250902/mf1vbpkk_9ixp.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPWkcR6KBCwXbepohkyzt-Q",
+          "name": "上饶市维创服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114653194249899651",
+  "language": "en"
+}

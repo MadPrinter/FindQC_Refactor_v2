@@ -1,0 +1,381 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1459204",
+        "mallType": "WD",
+        "itemId": "7423168511",
+        "title": "Ralfhoodie&pants",
+        "picUrl": "https://cdn.findqc.com/item/20250831/mezpqhe0_xeeu.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1025109481",
+          "name": "Jo Store",
+          "logo": "https://si.geilicdn.com/wdseller1025109481-46930000019a3be6c4b60a23038e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2274271",
+        "mallType": "TB",
+        "itemId": "889997646789",
+        "title": "In-Stock Erd Melancholic Rich Kid Distressed Washed Long-Sleeve Hoodie for Men, High Street Loose Fit Hooded Sweatshirt Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250831/mezjnuyr_gyny.jpg",
+        "price": "¥255.26",
+        "toPrice": "$40.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "523233940",
+          "name": "富士山made",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2041458",
+        "mallType": "WD",
+        "itemId": "7519408059",
+        "title": "ERD hoodie faded basic letter N183",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesccnjk_98m5.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2179280",
+        "mallType": "T1688",
+        "itemId": "885628714472",
+        "title": "Autumn and Winter New Trendy m Brand Printed Fabric Round Neck Sports Casual Base Unisex Long Sleeve Versatile Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mes76d7z_19yp.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9G5B1RXdXV4yphv_oYjCLg",
+          "name": "广州婷依雅贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "118495",
+        "mallType": "WD",
+        "itemId": "6198166931",
+        "title": "Special clearance price below 300, quality exceeding 600",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mo8p35_hzd7.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1790726218",
+          "name": "严格的麦兜",
+          "logo": "https://si.geilicdn.com/weidian1620030239-1aa90000017e9598592d0a21146b_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "598692",
+        "mallType": "WD",
+        "itemId": "7360786774",
+        "title": "Sy21",
+        "picUrl": "https://cdn.findqc.com/item/20250831/mez0diy8_l8fl.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2270188",
+        "mallType": "TB",
+        "itemId": "928425802037",
+        "title": "Nike/Nike Authentic New Men's Sports and Leisure Round Neck Hoodie FB7917",
+        "picUrl": "https://cdn.findqc.com/item/20250831/meyvstl9_gi4e.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "574251953",
+          "name": "曲奇运动 只售正品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1697311",
+        "mallType": "WD",
+        "itemId": "7471141930",
+        "title": "【 DX30 】 Solid color hooded sweatshirt with armband",
+        "picUrl": "https://cdn.findqc.com/item/20250831/meyrz4vz_4nji.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 55,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2175972",
+        "mallType": "T1688",
+        "itemId": "822421001078",
+        "title": "AC washed vintage print 1996 hoodie vintage distressed casual loose fit couple hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250831/meyonoer_obk9.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrbLi44uEPRT7YQhZoGznLA",
+          "name": "广州市天河区态阁多服装工作室",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1646814",
+        "mallType": "TB",
+        "itemId": "807690127124",
+        "title": "CP1093 Hoodie Korean Edition Loose Casual Spring and Autumn Hoodie Hoodie Men's Company Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250831/meylfv2e_z9b3.jpg",
+        "price": "¥255.00",
+        "toPrice": "$40.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "445752720",
+          "name": "HypeStreet",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1957476",
+        "mallType": "WD",
+        "itemId": "7514043406",
+        "title": "(PD Heritage)  Hoodie Blind Box | Random Dispatch | No Returns or Exchanges Upon Purchase",
+        "picUrl": "https://cdn.findqc.com/item/20250831/meylg0vq_ibds.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1820645545",
+          "name": "MUMU007",
+          "logo": "https://si.geilicdn.com/pcdecorate1826598197-25ae000001964c99eb730a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2252396",
+        "mallType": "T1688",
+        "itemId": "752905748979",
+        "title": "New light blue suit Y2K Men's suit Street Sportswear Hip Hop Printed Loose Hoodie Two-Piece Set",
+        "picUrl": "https://cdn.findqc.com/item/20250831/meyhubhj_ocft.jpg",
+        "price": "¥35.88",
+        "toPrice": "$5.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBniD8xIXFDq92YhSLoAGW7w",
+          "name": "上饶市滕津贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1853280",
+        "mallType": "T1688",
+        "itemId": "940069527772",
+        "title": "New Essentials FALL24 Fleece Hoodie Letter Hoodie with Velvet for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250829/mewmo6zi_oiu9.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOLlN9afOAeFdSRIF5Zck-Q",
+          "name": "宁波绿叉服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2209406",
+        "mallType": "WD",
+        "itemId": "7311853337",
+        "title": "6899&#241721130",
+        "picUrl": "https://cdn.findqc.com/item/20250825/meq0ty6s_us2a.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1740970224",
+          "name": "乖乖隆地洞",
+          "logo": "https://si.geilicdn.com/shopedit1909955863-7e07000001936c75ccb90a230115-unadjust_588_588.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "312399",
+        "mallType": "TB",
+        "itemId": "823232624162",
+        "title": "Y2K Hoodie Pullover Sweatshirt Streetwear New Harajuku Hip Hop R",
+        "picUrl": "https://cdn.findqc.com/item/20241207/m4d1l26b_kauk.jpg",
+        "price": "¥132.71",
+        "toPrice": "$20.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "465176048",
+          "name": "AGstorm",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "626290",
+        "mallType": "T1688",
+        "itemId": "853491622933",
+        "title": "24 Winter New Women's Clothing North American Niche IS Classic Flocking logo Collar Cotton European and American Women's Sweater Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250126/m6dqq16c_aiv0.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBik8VzwlTWHV4WqtO1wxyog",
+          "name": "广州伊易服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 128,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2264717",
+        "mallType": "TB",
+        "itemId": "859871261267",
+        "title": "Corteiz Devil's Island High Street Printed Casual Sports Set Men's and Women's American Cardigan Hoodie Loose Pants",
+        "picUrl": "https://cdn.findqc.com/item/20250830/meyewna6_c4oi.jpg",
+        "price": "¥112.00",
+        "toPrice": "$17.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2253701",
+        "mallType": "WD",
+        "itemId": "7333344285",
+        "title": "37 PO co branded hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mey72uhs_bw61.jpg",
+        "price": "¥338.00",
+        "toPrice": "$53.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1253755126",
+          "name": "37°C TIDE SHOP",
+          "logo": "https://si.geilicdn.com/wdseller1253755126-135e00000184e699e1860a23132e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "393375",
+        "mallType": "WD",
+        "itemId": "7246282793",
+        "title": "809 # Wash water to make old looped hoodies and cardigans",
+        "picUrl": "https://cdn.findqc.com/item/20250825/meqw74dj_841a.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2252376",
+        "mallType": "T1688",
+        "itemId": "859510588069",
+        "title": "2024 FW printed round neck sweatshirt weighing 480g ESSENTIALS flannel Sweatshir cross-border Crewneck",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexz9h74_06jr.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWJpAX1Ml7oscoB2p4HVoAg",
+          "name": "宁波市鄞州钟公庙宜山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147120511911217023",
+  "language": "en"
+}

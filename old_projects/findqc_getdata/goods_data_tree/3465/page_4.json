@@ -1,0 +1,364 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2373970",
+        "mallType": "WD",
+        "itemId": "7528969835",
+        "title": "************",
+        "picUrl": "https://si.geilicdn.com/open1801180035-1234478995-3ac900000198c73a26ad0a22d249_1920_1920.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "991539",
+        "mallType": "WD",
+        "itemId": "6909395726",
+        "title": "Highest quality mon pl",
+        "picUrl": "https://si.geilicdn.com/wdseller1814526504-4d9b0000018c0d3eaa400a22d30f_1280_1920.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1660551049",
+          "name": "Vogue Square",
+          "logo": "https://si.geilicdn.com/wdseller1814526504-6a9200000190c0d42b470a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 47,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2930381",
+        "mallType": "T1688",
+        "itemId": "925890965862",
+        "title": "2025 Pony Logo Men's Short-Sleeved Cotton Polo Shirt Collared T-Shirt Large Size Loose Embroidered Lapel Men's Half-Sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GY9Mi41NRjgxkgHPT_!!2219360451567-0-cib.jpg",
+        "price": "¥27.86",
+        "toPrice": "$4.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwjqqGSSDtNzTncki4el8Fw",
+          "name": "上饶市腾中服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2746928",
+        "mallType": "TB",
+        "itemId": "770307921013",
+        "title": "Counter genuine Paul short sleeve T-Shirt 100 pure cotton Men lapel polo shirt Hong Kong polo summer Tops",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2213184116561/O1CN01Us0ibh1yKzVzyzQqf~crop,100,0,600,800~_!!2213184116561.jpg",
+        "price": "¥82.33",
+        "toPrice": "$12.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "308346999",
+          "name": "保罗经典男装店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2762293",
+        "mallType": "T1688",
+        "itemId": "924056245273",
+        "title": "Foreign trade can scan code RL Ralph Lauren Basic Pony Crown Club Embroidered Lapel Polo Shirt Short Sleeve Casual",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CgzCzX1MXrN3Qwzsf_!!2219790631445-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219790631445",
+          "name": "广州潮缘服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3119364",
+        "mallType": "WD",
+        "itemId": "7297611205",
+        "title": "【BLACK NOVEMBER】【8/10】法式男装24秋季新款运动衫 德约科维奇同款Polo领宽松珠地卫衣",
+        "picUrl": "https://si.geilicdn.com/weidian1487675303-0f9a00000192f1e3e54e0a8134f0_1079_1197.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708531204",
+          "name": "French fish",
+          "logo": "https://si.geilicdn.com/weidian1487675303-18ed00000179a1d9e6190a217216_1312_1312.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1406486",
+        "mallType": "T1688",
+        "itemId": "893219100557",
+        "title": "Summer Hot-Selling Cross-Border Polo Shirt with Embroidered Collar, Malaysian City Style, Casual Oversized Top, T-Shirt, Polo Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me134ir6_zir8.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgh2D2oIAcF1wZHvc5EbpEQ",
+          "name": "广州唯苹服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 534,
+        "qcVideoCnt": 7,
+        "picWidth": "480",
+        "picHeight": "480"
+      },
+      {
+        "id": "2710598",
+        "mallType": "TB",
+        "itemId": "985723880254",
+        "title": "Oatmeal lapel pullover Knitwear Men 25 Fall and winter New arrival Casual Easiest for match Long sleeves shoulder polo shirt Sweater",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2218687450620/O1CN01ocRF9W1GS0emViY02_!!2218687450620.jpg",
+        "price": "¥61.40",
+        "toPrice": "$9.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "334369538",
+          "name": "大爆特爆男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "46539",
+        "mallType": "WD",
+        "itemId": "7262221748",
+        "title": "[1:1] Fish Men's Paul Short Sleeve Top 2025 Summer New Business and Leisure Slim Fit Solid Color Men's Half Sleeve Collar Trendy Men's Polo Pineapple Shirt PH5522",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mf4vmp_lxrr.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708531204",
+          "name": "French fish",
+          "logo": "https://si.geilicdn.com/weidian1487675303-18ed00000179a1d9e6190a217216_1312_1312.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 183,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3004506",
+        "mallType": "WD",
+        "itemId": "7601680316",
+        "title": "Cola's Pra beige horse cotton pullover hoodie (in stock within 5 days)",
+        "picUrl": "https://si.geilicdn.com/wdseller1939166533-21a30000019a6c209f620a81347d_640_853.jpg",
+        "price": "¥298.00",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1300445",
+        "mallType": "WD",
+        "itemId": "7435705510",
+        "title": "REPS-High Quality 2-ST-001",
+        "picUrl": "https://si.geilicdn.com/pcitem1850836603-282e00000190d526a9b20a23111a_1600_1600.jpg",
+        "price": "¥84.00",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743677485",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1931680837-3bfe00000196b9a749100a231316-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2059778",
+        "mallType": "T1688",
+        "itemId": "946935477374",
+        "title": "Cross-Border Rl Polo Shirt for Men with Malaysian Logo Embroidery, Collared Polo Shirt, Short-Sleeved Summer Solid Color T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TIxE8p1MntGyndfxm_!!2220176291480-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBio9TRTpRiDrHJKdeyX-MPQ",
+          "name": "上饶市悦江电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 180,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2823274",
+        "mallType": "WD",
+        "itemId": "7512242669",
+        "title": "072231 boda short sleeve polo shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem901913009389-3f6d000001983515ead60a231316_1080_1080.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2609163",
+        "mallType": "T1688",
+        "itemId": "916656085228",
+        "title": "Cross border popular European size polo shirt, summer fashion, in large stock\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Avfd502IRDKAwrPq3_!!2219418189282-0-cib.jpg",
+        "price": "¥16.50",
+        "toPrice": "$2.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1SaHXR2aHvvCpPCXqQnDvw",
+          "name": "广州市白云区京溪街叁针服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1557149",
+        "mallType": "T1688",
+        "itemId": "897083693383",
+        "title": "Scan the Qr Code Rl Lavalun Men's Polo Lapel Pure Color Pony Embroidered Logo Knitted Short-Sleeved One Piece Drop Shipping",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01txnOx91CdDpgDBcAC_!!2217674910103-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFeP3zzxmhk7u8dwSr6QHFg",
+          "name": "广州鹤茹服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "511877",
+        "mallType": "T1688",
+        "itemId": "763759670198",
+        "title": "Lapel Short-sleeved Men's Summer New Business Casual T-shirt Men's Plaid Fashion Cotton plus size All-match Base Shirt in stock",
+        "picUrl": "https://cdn.findqc.com/item/20250408/m97leauz_19zp.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5QmGh2GrNnWySYB4yz2q1Q",
+          "name": "深圳市龙岗区阿曼莉服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 394,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "2577156",
+        "mallType": "WD",
+        "itemId": "7493290734",
+        "title": "【DX19】经典条纹刺绣百搭",
+        "picUrl": "https://si.geilicdn.com/open1615844877-252808396-3fa7000001977395aa130aa043be_1920_1920.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615844877",
+          "name": "MlodyGee",
+          "logo": "https://si.geilicdn.com/shopedit1919750623-2b520000019604df61e40a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2553835",
+        "mallType": "TB",
+        "itemId": "887973341698",
+        "title": "2025 spring and summer Korean MALBON Golf suit men's short sleeve T-shirt polo shirt sports quick-drying breathable",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2218283481085/O1CN019IJMzF1JsylRJdVWY_!!2218283481085.png",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "243940530",
+          "name": "韩国高尔夫店服装专供",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "394364",
+        "mallType": "T1688",
+        "itemId": "794615749358",
+        "title": "European and American Summer Men's Polo Shirt Cotton Mouth K Polo Striped Lapel Short-sleeved New T-shirt Casual Business",
+        "picUrl": "https://cdn.findqc.com/item/20250618/mc1o2o2o_lidj.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTOlLG4WABBTgA1jDvtJP9w",
+          "name": "佛山市南海区华登鸟服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 348,
+        "qcVideoCnt": 2
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141577001917134846",
+  "language": "en"
+}

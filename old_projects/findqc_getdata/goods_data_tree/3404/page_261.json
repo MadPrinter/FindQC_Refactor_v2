@@ -1,0 +1,331 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1568529",
+        "mallType": "WD",
+        "itemId": "7319255908",
+        "title": "Ad208",
+        "picUrl": "https://si.geilicdn.com/wdseller1353408211-324300000193aa7096330a20e2c5_1290_1290.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1568539",
+        "mallType": "T1688",
+        "itemId": "888723864941",
+        "title": "24 Winter Men's Velvet Zipper Casual Fashion Hoodie 086 Pants Set\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015d5RW11bnApOnqmNj_!!2216872633509-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPwTrDLCjm8L7lf4vT7Lc9g",
+          "name": "昆山开发区衣比衣服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1568461",
+        "mallType": "T1688",
+        "itemId": "692788804390",
+        "title": "Japanese fall new Rei Kawakubo PLAY black heart embroidery cotton padded boys and girls couple round neck sweater generation of hair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZyA4jU1lJzW2IB838_!!2986874799-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1567353",
+        "mallType": "TB",
+        "itemId": "861632929059",
+        "title": "Vintage zipper loose jacket American Y2K retro PI sweatshirt zipper loose long sleeved jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2312282025/O1CN01alTXtD1QpV3Hkz8p2_!!2312282025.jpg",
+        "price": "¥47.03",
+        "toPrice": "$7.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "130443225",
+          "name": "欧美服饰印花店Shopping apparel T Shirt sweater",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1567298",
+        "mallType": "WD",
+        "itemId": "7445231441",
+        "title": "DX38] Spring and Autumn New Casual Sports Air Layer Hooded Jacket and Sweatpants Set",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-4643000001956e77aed10a23b4de_1280_1280.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1687670541",
+          "name": "Super-We",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424363-395c00000195e72bcda10a20e273-unadjust_626_626.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1567267",
+        "mallType": "T1688",
+        "itemId": "853222196566",
+        "title": "Pony POLO men's sweater spring and fall new zipper pullover cardigan padded hooded casual jacket trend tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xO3NZV220A2vaxhC1_!!2218283387057-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1567214",
+        "mallType": "T1688",
+        "itemId": "941718216291",
+        "title": "Europe and the United States cross-border winter new leopard print two sides wear sweater street hip-hop men and women paragraph padded thickened hooded sweater",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000000854/O1CN01Czbnao1IBBH4BVvKm_!!6000000000854-0-tbvideo.jpg",
+        "price": "¥89.99",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1566736",
+        "mallType": "WD",
+        "itemId": "7430684214",
+        "title": "JY56 Europe and the United States street trend sweatshirt hip-hop kapok printing suit high street loose hooded sweater casual sweat pants",
+        "picUrl": "https://si.geilicdn.com/open1641486637-252808396-3dd000000195b26b08ae0a8133b0_640_635.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1641486637",
+          "name": "XR潮品",
+          "logo": "https://si.geilicdn.com/weidian901888425049-395d00000195b1f6de0b0a2315ef_800_800.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1566625",
+        "mallType": "WD",
+        "itemId": "7474592843",
+        "title": "Little Bao Zipper Hooded Sweatshirt Made of High Quality Cotton",
+        "picUrl": "https://si.geilicdn.com/open1830694365-1234478995-423f00000196f95a28bc0a23b4de_800_800.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830694365",
+          "name": "Mc shop",
+          "logo": "https://si.geilicdn.com/wdseller901957494974-76e1000001979f0446610a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1406840",
+        "mallType": "T1688",
+        "itemId": "847191403669",
+        "title": "High-end STONE 20SS stone American tide high street sleeve label zipper cardigan sweater men's couple jacket island cotton",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000004744/O1CN01z6lJPK1kunw6DxCQa_!!6000000004744-0-tbvideo.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 102,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1222362",
+        "mallType": "T1688",
+        "itemId": "887372636081",
+        "title": "Foreign trade men's sports and leisure suit Europe and the United States in the spring and fall new men's outdoor mountaineering suit men factory direct sale",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000000435/O1CN01r1vXmt1F5HK299Mch_!!6000000000435-0-tbvideo.jpg",
+        "price": "¥83.99",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1222216",
+        "mallType": "T1688",
+        "itemId": "903586941104",
+        "title": "Cross border foreign trade ten color Ralph RL basic model, embroidered logo, hooded sweatshirt, men's and women's zipper jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bvtFCK1IYzsb9Ua3I_!!2219524930906-0-cib.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219524930906",
+          "name": "杭州万舒网络科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 86,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1222102",
+        "mallType": "TB",
+        "itemId": "896980542728",
+        "title": "Sp5Der Phantom Web Hoodie Black Spider Hoodie Spider Export Quality",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3174470574/O1CN01wJ1V7E1G6wNbsXnVA_!!3174470574.jpg",
+        "price": "¥162.01",
+        "toPrice": "$25.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "390001758",
+          "name": "专注明星同款",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221507",
+        "mallType": "TB",
+        "itemId": "863263909641",
+        "title": "Harajuku scuffers logo hoodies women sweatshirts gothic kore",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2218860690462/O1CN01JgPUAZ1FHe0FQycrj_!!2218860690462.jpg",
+        "price": "¥169.13",
+        "toPrice": "$26.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "470658609",
+          "name": "向阳花外贸店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221394",
+        "mallType": "WD",
+        "itemId": "7426795709",
+        "title": "Spot STU fashion autumn and winter new round neck large logo pattern pullover sweater for both men and women, knitted sweater trend",
+        "picUrl": "https://si.geilicdn.com/open1739333861-1234478995-76d800000195a58c7ea30aa08290_1200_1200.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1739333861",
+          "name": "Taste Life",
+          "logo": "https://si.geilicdn.com/wdseller1889207262-30cb000001927621a49a0a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221393",
+        "mallType": "WD",
+        "itemId": "7307822852",
+        "title": "Spring Fashion Long Sleeve",
+        "picUrl": "https://si.geilicdn.com/open1739333861-1234478995-4ed00000019343814f4d0aa08290_1056_1056.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1739333861",
+          "name": "Taste Life",
+          "logo": "https://si.geilicdn.com/wdseller1889207262-30cb000001927621a49a0a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221403",
+        "mallType": "T1688",
+        "itemId": "894439037602",
+        "title": "New Long Sleeve Sweatshirt 24SS Correct Chrome Hearts Autumn Horseshoe Printed Round Neck Sweatshirt for Men",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000000116/O1CN011kHzSN1CjAyt50GMK_!!6000000000116-0-tbvideo.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1040349",
+        "mallType": "WD",
+        "itemId": "7403436639",
+        "title": "DX30] Sweatshirt Round Neck-Re",
+        "picUrl": "https://si.geilicdn.com/open1841026309-252808396-52c700000192659bfac70a210559_1440_1919.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1402906147",
+          "name": "Reenos",
+          "logo": "https://si.geilicdn.com/shopedit1402906147-3c15000001953bad21720a20e7c7-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "871385",
+        "mallType": "T1688",
+        "itemId": "843518755217",
+        "title": "Nkxstty Joint Chest Embroidered Logo Fleece-Lined Warm Hooded Zipper Jacket Jacket Sweatshirt Fleece-Lined Thickeneding",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tY5jGk2Gbd3feIiEU_!!2217753779034-0-cib.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRloWw5Q0CpxglLdPnuje3A",
+          "name": "武汉市东西湖区尚美服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144573481911217413",
+  "language": "en"
+}

@@ -1,0 +1,34 @@
+# data_clean 项目依赖
+# 
+# Python 版本要求: >= 3.6
+
+# ==================== 第三方依赖 ====================
+# 时区处理库（用于 analyze_sales.py）
+pytz>=2021.1
+
+# HTTP 请求库（用于 download_images.py）
+requests>=2.25.1
+
+# 图片处理库（用于图片压缩）
+Pillow>=9.0.0
+
+# ==================== 标准库说明 ====================
+# 以下为标准库，无需安装：
+# - sqlite3 (数据库操作)
+# - json (JSON 数据处理)
+# - re (正则表达式)
+# - typing (类型提示)
+# - pathlib (路径处理)
+# - collections (集合工具)
+# - os (操作系统接口)
+# - datetime (日期时间处理)
+
+# ==================== 安装说明 ====================
+# 安装所有依赖：
+#   pip install -r requirements.txt
+#
+# 或使用虚拟环境：
+#   python3 -m venv venv
+#   source venv/bin/activate  # Linux/macOS
+#   venv\Scripts\activate     # Windows
+#   pip install -r requirements.txt

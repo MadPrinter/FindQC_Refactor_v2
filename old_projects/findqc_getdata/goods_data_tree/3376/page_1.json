@@ -1,0 +1,372 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "561290",
+        "mallType": "WD",
+        "itemId": "7331314049",
+        "title": "12.24-Daily Surprise-B30 Fashion Sneakers (M-0010)",
+        "picUrl": "https://si.geilicdn.com/pcitem901913292001-473900000193f92752150a231316_800_800.jpg",
+        "price": "¥19.90",
+        "toPrice": "$3.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704920025",
+          "name": "M1 BUY",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1971822",
+        "mallType": "TB",
+        "itemId": "936310055228",
+        "title": "In Stock Pokémon Ptcg Simplified Chinese Trading Card Game Scarlet & Violet 151 Shock 151C 3Rd Expansion Pack",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0ec0ks_9t4c.jpg",
+        "price": "¥616.30",
+        "toPrice": "$96.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "178685358",
+          "name": "阿尔宙斯卡牌社",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "65460",
+        "mallType": "TB",
+        "itemId": "539558768937",
+        "title": "Yu-Gi-Oh! Drill Warrior Abpf-Jp041 Dp10 R /Ur/Utr 607",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mk5hzt_a9vk.jpg",
+        "price": "¥3.09",
+        "toPrice": "$0.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "204094956",
+          "name": "经典游戏王卡店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "46861",
+        "mallType": "TB",
+        "itemId": "544172450233",
+        "title": "Yu-Gi-Oh! Star Holy Dragon Ptolemy Star Cluster M7 DT14 DTC3 20AP SPRG SR/UR/SER",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mf99f8_i83z.jpg",
+        "price": "¥1.00",
+        "toPrice": "$0.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "204094956",
+          "name": "经典游戏王卡店",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34309",
+        "mallType": "TB",
+        "itemId": "750776353885",
+        "title": "Warm Winter Accompaniment Dolls New Pre-sale Idol Fantasy Matsuri 2 Official Edition",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk9w4v_oloe.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "19239",
+        "mallType": "TB",
+        "itemId": "539489110886",
+        "title": "Yu-Gi-Oh! Nitrogen Warrior Tdgs-Jp039 Dp08 Dt02 R /Ur /Utr 601",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfawoc_o96d.jpg",
+        "price": "¥2.02",
+        "toPrice": "$0.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "204094956",
+          "name": "经典游戏王卡店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141162341924854303",
+  "language": "en"
+}

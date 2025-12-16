@@ -1,0 +1,353 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "816298",
+        "mallType": "TB",
+        "itemId": "838856786102",
+        "title": "Letter printed round neck hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250216/m773cp6o_72bj.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113677911",
+          "name": "Singor1",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "784345",
+        "mallType": "WD",
+        "itemId": "7388596492",
+        "title": "AC washed worn-out 1996 letter hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250613/mbua45lh_k8j8.jpg",
+        "price": "¥265.00",
+        "toPrice": "$41.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675642069",
+          "name": "潮男Usign",
+          "logo": "https://si.geilicdn.com/wdseller1902426280-4c2800000199721da1d90a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "768452",
+        "mallType": "TB",
+        "itemId": "651918401472",
+        "title": "Fog Essentials Multi-Line Trendy Loose Casual High Street Couple Sweatshirt Hoodie Women's American Oversize",
+        "picUrl": "https://cdn.findqc.com/item/20250721/mdcqrvgz_g5t1.jpg",
+        "price": "¥127.38",
+        "toPrice": "$20.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "140243152",
+          "name": "我对money没有兴趣",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "746384",
+        "mallType": "T1688",
+        "itemId": "854727690995",
+        "title": "Niche beauty tide GALLERY DEPT Hollywood limited James with hand-painted splash ink letters hooded sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250328/m8sm4rg9_sozx.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5b49pyQkyfirkx8TrYuzag",
+          "name": "铅山县非浅电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 41,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "741303",
+        "mallType": "T1688",
+        "itemId": "855582173568",
+        "title": "Saijia High Version CL Large Letter Hot Diamond Hoodie Unisex Simple Sijia Trendy Brand Long Sleeve Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250207/m6uwmhvu_a7xj.jpg",
+        "price": "¥166.00",
+        "toPrice": "$26.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUEO3TtLlirLs4tC9GqHN0g",
+          "name": "佛山市禅城区捷奕出品服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "741304",
+        "mallType": "WD",
+        "itemId": "7287459957",
+        "title": "TS hoodie brown FREE letter H032",
+        "picUrl": "https://cdn.findqc.com/item/20250207/m6uwyvta_imaw.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "741275",
+        "mallType": "T1688",
+        "itemId": "851597894404",
+        "title": "Spring and autumn new European and American tide brand solid color vests for men and women with loose long sleeve short sleeve a generation of hair",
+        "picUrl": "https://cdn.findqc.com/item/20250207/m6tw0re5_qned.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYxsdDwDpUKao7Gm97ktcTQ",
+          "name": "广州美羊羊服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 165,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "734375",
+        "mallType": "WD",
+        "itemId": "7267141119",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20250207/m6tmbof4_wwjd.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "731304",
+        "mallType": "WD",
+        "itemId": "6569304922",
+        "title": "CP hoodie hoodie master must high-quality 06B",
+        "picUrl": "https://cdn.findqc.com/item/20250206/m6sx5357_iciw.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "725408",
+        "mallType": "TB",
+        "itemId": "875149492497",
+        "title": "24fwss STONE 63051 CREWNECK SWEATSHIRT pure cotton terry round neck Long sleeves SWEATSHIRT",
+        "picUrl": "https://cdn.findqc.com/item/20250610/mbpikq81_90vu.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "523025800",
+          "name": "FWSS STONE",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "694286",
+        "mallType": "WD",
+        "itemId": "7300512425",
+        "title": "RH Sweatshirt Hoodie Green Moonlight 92B",
+        "picUrl": "https://cdn.findqc.com/item/20250201/m6m69giu_90lz.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "663345",
+        "mallType": "TB",
+        "itemId": "843882194434",
+        "title": "Erd Melancholy Rich Second Generation Slogan Washed Splash-Ink Wormhole Hoodie Sweatshirt American Casual White Jingting Same Style",
+        "picUrl": "https://cdn.findqc.com/item/20250130/m6i9c4dj_mqy6.jpg",
+        "price": "¥274.67",
+        "toPrice": "$43.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "121236882",
+          "name": "INFINITE Club",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "611394",
+        "mallType": "T1688",
+        "itemId": "824044294620",
+        "title": "American Niche Trendy Brand AC Washed Old Wear 1996 Letter Hoodie Couple Men's and Women's Loose Cross-border Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250405/m9315a7r_teha.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBeZuF-5TxSwKhmd7umwxA0Q",
+          "name": "广州叁百服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 108,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "605271",
+        "mallType": "WD",
+        "itemId": "7312353586",
+        "title": " Special Clearance South Springs Original",
+        "picUrl": "https://cdn.findqc.com/item/20250125/m6b1hf4l_hop9.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1790726218",
+          "name": "严格的麦兜",
+          "logo": "https://si.geilicdn.com/weidian1620030239-1aa90000017e9598592d0a21146b_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "580331",
+        "mallType": "WD",
+        "itemId": "7285824378",
+        "title": "Trajectory made erd24ss photo frame portrait long sleeved",
+        "picUrl": "https://cdn.findqc.com/item/20250122/m67jqo5j_66yl.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858885532",
+          "name": "2December的小屋",
+          "logo": "https://si.geilicdn.com/wdseller1543338394-5bb800000185725383710a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "577318",
+        "mallType": "T1688",
+        "itemId": "654344961786",
+        "title": "FOG Essentials Back 3M Reflective Letters Men's and Women's Hooded Jacket Hoodie Repeat Line Terry Thin Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250122/m67txlit_wze0.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "551284",
+        "mallType": "WD",
+        "itemId": "7270859500",
+        "title": "R11080",
+        "picUrl": "https://cdn.findqc.com/item/20250120/m645j8za_gtbi.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "536271",
+        "mallType": "T1688",
+        "itemId": "630653442452",
+        "title": "Japanese tide brand HEYPLAY sweater red heart hooded pullover sweater men and women new cooperation co-branded limited models",
+        "picUrl": "https://cdn.findqc.com/item/20250118/m61savi5_ltmj.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "530275",
+        "mallType": "WD",
+        "itemId": "7229559540",
+        "title": "S tricolor VTM recyclable logo pullover hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250118/m618ihlj_fv3p.jpg",
+        "price": "¥275.00",
+        "toPrice": "$43.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616523704",
+          "name": "Survival_cloth",
+          "logo": "https://si.geilicdn.com/wdseller1481079960-0ff900000182272db67e0a2102d0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142391921930829432",
+  "language": "en"
+}

@@ -1,0 +1,371 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "506432",
+        "mallType": "T1688",
+        "itemId": "834604414332",
+        "title": "High version Raff polo pony label half zipper pullover high neck long sleeve knit sweater classic casual long sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019zX3PN1I68sGgew3N_!!2218173800843-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "507276",
+        "mallType": "WD",
+        "itemId": "7307526279",
+        "title": "Autumn and winter casual fashion round neighbor collar hooded sweater BG02",
+        "picUrl": "https://si.geilicdn.com/open1664804022-1234478995-004e000001934dc57d950a239383_1200_1200.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1664804022",
+          "name": "TOPBUY",
+          "logo": "https://si.geilicdn.com/weidian1694295570-4b64000001933536889c0a20e284_1156_1156.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "507272",
+        "mallType": "T1688",
+        "itemId": "863586584562",
+        "title": "Embroidered Pony RL Hooded Cardigan Sweatshirt Embroidered Loose Large Size Cross Border Men's Polo Jacket Zipper Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PObUrx1Rh5OPh9PaG_!!2217560922142-0-cib.jpg",
+        "price": "¥34.90",
+        "toPrice": "$5.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217560922142",
+          "name": "上饶市禄瑶电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "489870",
+        "mallType": "TB",
+        "itemId": "612373352172",
+        "title": "(Pre Sell) Teenageclub 19 Bandana Pullover",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1645018426/O1CN01C9sbvU2C79svJkocR_!!1645018426.jpg",
+        "price": "¥310.76",
+        "toPrice": "$48.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "144859875",
+          "name": "TeenageClub",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2455704",
+        "mallType": "WD",
+        "itemId": "7524998685",
+        "title": "Autumn new versatile hooded sweatshirt 020",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-7a7000000197d58514e00a22d249_1200_1200.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1851689603",
+          "name": "Hype Buy",
+          "logo": "https://si.geilicdn.com/pcdecorate1974534978-46b7000001983715f0490a23041a-unadjust_512_512.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2455556",
+        "mallType": "WD",
+        "itemId": "7548172875",
+        "title": "Hoodie",
+        "picUrl": "https://si.geilicdn.com/open1762039621-252808396-720d000001966847badc0aa0834c_600_600.jpg",
+        "price": "¥166.00",
+        "toPrice": "$26.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794541533",
+          "name": "1:1A&amp;V",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2455354",
+        "mallType": "TB",
+        "itemId": "922756335927",
+        "title": "2025Predator Fg Falcon 25 Super-Top Large Tongue Berinham Star Same Style Football Shoes",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2049717208/O1CN01yzy90h237JvmikcIC_!!2049717208.png",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413056156",
+          "name": "卡卡米兰体育",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2455125",
+        "mallType": "WD",
+        "itemId": "7548606492",
+        "title": "Fashion Trend Sweater Set 034",
+        "picUrl": "https://si.geilicdn.com/pcitem901991832220-14f20000019965af219d0a239846_1200_1200.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2455080",
+        "mallType": "WD",
+        "itemId": "7529238855",
+        "title": "Fashionable and high quality sweater pants",
+        "picUrl": "https://si.geilicdn.com/open1819379021-1838589072-1b4b00000198cab564ad0aa0c791_800_800.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819379021",
+          "name": "好店",
+          "logo": "https://si.geilicdn.com/pcdecorate1927531510-4bca00000194d415c43e0a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2454426",
+        "mallType": "TB",
+        "itemId": "974539791882",
+        "title": "Halloween Children's Spring, Autumn, and Winter Heart-Shaped Fleece-Lined Hooded Sweatshirt for Boys and Girls, Children's Jacket with Zipper, Trendy Cardigan",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2901653224/O1CN01E6nGGA1Zge0MgPzCw_!!2901653224.png",
+        "price": "¥71.33",
+        "toPrice": "$11.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "341483965",
+          "name": "潮牌亲子服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "506347",
+        "mallType": "T1688",
+        "itemId": "706888642423",
+        "title": "FEAR OF GOD Europe and the United States tide brand ESSENTIALS reflective small label padded FOG fall and winter men and women hooded sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DPjoHv1MsSxDxhyv0_!!3540451490-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "498279",
+        "mallType": "T1688",
+        "itemId": "814051333997",
+        "title": "Europe and the United States hip-hop printing high street couple models loose hooded sweater casual pants sports suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fY4j9f1D7uMAteCGZ_!!2218236890170-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218236890170",
+          "name": "揭阳市揭东区锡场镇边韵服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "498271",
+        "mallType": "TB",
+        "itemId": "828840607956",
+        "title": "Vtm Talkypt 24ss Vitromeng style Wakan same washed and old hooded sweatshirt men and women alike",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2213077309110/O1CN017C1JKF2HARBtljm8A_!!2213077309110.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "191918907",
+          "name": "侯里蟹 Shop",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "489798",
+        "mallType": "TB",
+        "itemId": "864513781152",
+        "title": "Harajuku scuffers logo hoodies women sweatshirts gothic kore",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2218398248529/O1CN01kVkM1O2CsL4Cc5pHI_!!2218398248529.jpg",
+        "price": "¥114.11",
+        "toPrice": "$17.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "371509177",
+          "name": "君子兰好物",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "489736",
+        "mallType": "WD",
+        "itemId": "7326665169",
+        "title": "Carh@rt hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1841091927-791700000193ddce376c0a239646_800_800.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614741273",
+          "name": "SH—Clothes",
+          "logo": "https://si.geilicdn.com/wdseller1841091927-46b100000190b54906100a210349_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "489682",
+        "mallType": "T1688",
+        "itemId": "838557929999",
+        "title": "Trendy Brand Baseball Suit Spring and Autumn AM1R1 ICON New Casual All-match Stitching Contrast Women's Jacket Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aFKKpE2A5DKGqMxCC_!!2218164908151-0-cib.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBp6MSAcC19fNoNQ63aGA0HQ",
+          "name": "佛山市雅婷服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2274191",
+        "mallType": "WD",
+        "itemId": "7258975315",
+        "title": "H*ell*star (what*app: +8619105043580)",
+        "picUrl": "https://si.geilicdn.com/pcitem1849202325-3699000001914b6f5b9d0a811411_1200_1200.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1763185369",
+          "name": "Repsun whatapp: +8619105043580",
+          "logo": "https://si.geilicdn.com/pcdecorate1849202325-121b0000018f823cb11b0a2303ee-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2274066",
+        "mallType": "T1688",
+        "itemId": "832659348740",
+        "title": "chock \"Heart niche washed gray heavy appliqué high version embroidery live round neck imo sweatshirt source",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01a52AHC2JwBflFmVGJ_!!2215705769485-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215705769485",
+          "name": "即墨区理棠服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2273948",
+        "mallType": "WD",
+        "itemId": "7325740258",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1778752965-252808396-5eea000001929d7e6c9e0a239383_800_800.jpg",
+        "price": "¥177.00",
+        "toPrice": "$27.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615509721",
+          "name": "WWW——34-1",
+          "logo": "https://si.geilicdn.com/shopedit1848591094-437a000001963933a6090a23111a-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2273505",
+        "mallType": "WD",
+        "itemId": "7523692242",
+        "title": "Fashion Trend Hundred Sweatshirt 031-MLMLSPHO0202",
+        "picUrl": "https://si.geilicdn.com/open1801466197-1234478995-23850000019889726c000a23b4de_1200_1200.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801466197",
+          "name": "Supply Street",
+          "logo": "https://si.geilicdn.com/shopedit1900467718-5bc500000192e1b0977a0a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144561532553882295",
+  "language": "en"
+}

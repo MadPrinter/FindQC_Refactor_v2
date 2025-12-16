@@ -1,0 +1,373 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2902431",
+        "mallType": "TB",
+        "itemId": "874003697025",
+        "title": "Hex-V2",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/img/ibank/O1CN01gQc6e11kIn2OTjYkq_!!1001054661-0-cib.jpg",
+        "price": "¥313.49",
+        "toPrice": "$49.29",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2713348",
+        "mallType": "WD",
+        "itemId": "7570874123",
+        "title": "Grey round neck hoodie\n",
+        "picUrl": "https://si.geilicdn.com/pcitem1842086105-16a200000199de409a9f0a20e672-unadjust_1326_1315.png",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840972441",
+          "name": "Thunder 01",
+          "logo": "https://si.geilicdn.com/shopedit1842086105-06b80000019746ca6bf50a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2613536",
+        "mallType": "T1688",
+        "itemId": "846812832166",
+        "title": "华尔新款增白器油头渐变剃须刀推白剃胡器光头专用理发器光头神器",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XL3sL62JHspi7Jqpu_!!3359089397-0-cib.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3359089397",
+          "name": "深圳市龙华区新潮派电器商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900220",
+        "mallType": "TB",
+        "itemId": "591984186912",
+        "title": "Compatible with Peugeot Citroen multifunctional switch, driving computer display screen, various electrical connection plugs",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk1yiti_97h7.jpg",
+        "price": "¥23.89",
+        "toPrice": "$3.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34189795",
+          "name": "武汉鹏程汽配网店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1101967",
+        "mallType": "WD",
+        "itemId": "7422906090",
+        "title": "Sports small hook letter embroidery for old outerwear",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mgzmftpw_r25p.jpg",
+        "price": "¥478.00",
+        "toPrice": "$75.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2274274",
+        "mallType": "T1688",
+        "itemId": "874003697025",
+        "title": "HEX-V2",
+        "picUrl": "https://cdn.findqc.com/item/20250831/mezknwf9_5chi.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1001054661",
+          "name": "深圳市盛荣伟业科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146059351913299711",
+  "language": "en"
+}

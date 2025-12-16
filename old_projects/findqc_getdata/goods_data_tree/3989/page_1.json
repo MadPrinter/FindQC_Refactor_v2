@@ -1,0 +1,446 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3040586",
+        "mallType": "T1688",
+        "itemId": "584661501079",
+        "title": "新款韩版时尚女士手表女款生活防水气质简约大高中学生电子石英表",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011yMCcs25z1BnOXHna_!!2518777596-0-cib.jpg",
+        "price": "¥10.50",
+        "toPrice": "$1.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2518777596",
+          "name": "深圳市龙岗区美时佳表业商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3026336",
+        "mallType": "TB",
+        "itemId": "818010062087",
+        "title": "New Diary Watch with 28.5mm Sun Pattern Diamond Face 4R35 Modified to Fit NH35/36 Movement",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2218163196041/O1CN0116Jwzm1uUpgS9gcdM_!!2218163196041.jpg",
+        "price": "¥30.74",
+        "toPrice": "$4.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "243639636",
+          "name": "NH35机改装配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2097422",
+        "mallType": "T1688",
+        "itemId": "570703835524",
+        "title": "Retro Creative Twisted Electronic Clock Personalized Melting Home Living Room Decorative Clock Mute Bedroom Bedside Clock",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/8914356334_1468171495.jpg",
+        "price": "¥17.50",
+        "toPrice": "$2.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3944510455",
+          "name": "广州万乐家居有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1794288",
+        "mallType": "TB",
+        "itemId": "859251382076",
+        "title": "Watch movement replaces Swiss ETA Tianjin Seagull 2892A2 movement, finely ground fish scale pattern Geneva pattern engraving V8",
+        "picUrl": "https://cdn.findqc.com/item/20250720/mdaynwga_v2hl.jpg",
+        "price": "¥368.00",
+        "toPrice": "$57.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "236621313",
+          "name": "表叔配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "303318",
+        "mallType": "TB",
+        "itemId": "676815551987",
+        "title": "Watch Modified with Roman Numeral Calendar Dial 28.5mm Without Luminous Coating Suitable for Nh35 Movement Three-Dimensional Dial",
+        "picUrl": "https://cdn.findqc.com/item/20241203/m48hchtj_8d7b.jpg",
+        "price": "¥50.93",
+        "toPrice": "$8.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "490227800",
+          "name": "时配坊",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "62048",
+        "mallType": "TB",
+        "itemId": "769339189388",
+        "title": "Niche Design Geometric Pattern Inlaid with Sparkling Diamonds, Gold-Plated Earrings, European and American Style, Personalized, Suitable for Daily Wear, High-End Versatile Ear Studs",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mixbaz_1cwq.jpg",
+        "price": "¥121.47",
+        "toPrice": "$19.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "135802130",
+          "name": "AWW STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "57049",
+        "mallType": "T1688",
+        "itemId": "655414648630",
+        "title": "World Cup soccer club team logo logo keychain Champions League Real Madrid pendant cross-border new charm small gifts",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nq36ks_usvf.jpg",
+        "price": "¥1.80",
+        "toPrice": "$0.28",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "46491",
+        "mallType": "TB",
+        "itemId": "798014470253",
+        "title": "MiHoYo, a pure and unparalleled series of imitation pocket watch pendants from the \"MiHoYo/Collapse: Star Dome Railway\" series",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mf49d2_x6ac.jpg",
+        "price": "¥131.82",
+        "toPrice": "$20.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "452205058",
+          "name": "miHoYo旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "21440",
+        "mallType": "T1688",
+        "itemId": "815271298467",
+        "title": "New Watch Accessories Face 28.5MM Arabic Numeral Dial Suitable for Japan NH70/35/36 Movement",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfyni4_lnsa.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "17845",
+        "mallType": "T1688",
+        "itemId": "628269318944",
+        "title": "Large Thick Chain Classical Castle Pocket Watch Wholesale Castle Classical Vintage Style Quartz Watch 3007",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nev5q1_i3bb.jpg",
+        "price": "¥11.80",
+        "toPrice": "$1.86",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "13251",
+        "mallType": "TB",
+        "itemId": "665921814053",
+        "title": "Watch Dial 2021 Sunburst Gold Studs 28.5mm Roman Fitted Japan NH35 Automatic Movement Black",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mch1tx_3jvn.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114437749249890403",
+  "language": "en"
+}

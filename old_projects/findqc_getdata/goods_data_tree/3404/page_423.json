@@ -1,0 +1,361 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2305720",
+        "mallType": "TB",
+        "itemId": "880125998684",
+        "title": "Nike Men's Printed Loose Outdoor Hoodie Sweatshirt HF0339-247",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf3zy6ud_zllz.jpg",
+        "price": "¥174.40",
+        "toPrice": "$27.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "35754341",
+          "name": "锐杰体育 17年正品老店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2305749",
+        "mallType": "WD",
+        "itemId": "7532124301",
+        "title": "REP hoodie TRAM left and right label 58B",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf40c97z_xinz.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1570287",
+        "mallType": "T1688",
+        "itemId": "916693874336",
+        "title": "Triangle Graffiti Printed T-shirt Classic High Street Loose Phantom Dissolved Short Sleeve Men's and Women's Pure Cotton Half Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf3yk5l8_mcop.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219021605534",
+          "name": "广州市橙果贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2301477",
+        "mallType": "WD",
+        "itemId": "7313278692",
+        "title": "The new hooded sweatshirt 326 from the dual line Esse at the UNF factory",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf3wmosf_gr82.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850808757",
+          "name": "BE Shop",
+          "logo": "https://si.geilicdn.com/wdseller1910227527-704500000194209f23a30a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "340312",
+        "mallType": "TB",
+        "itemId": "826188034178",
+        "title": "Sp 5 Sweatshirt Spider Web European and American Rap Star Unisex Couple Trendy Hoodie Set",
+        "picUrl": "https://cdn.findqc.com/item/20241215/m4onijud_09sj.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104300079",
+          "name": "潮牌销售店",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 75,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2750",
+        "mallType": "TB",
+        "itemId": "763706333392",
+        "title": "Now. 23Fw Show Style 3B Sports Manchester United Football Hooded Printed Embroidered Loose Jacket Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m30ups_l056.jpg",
+        "price": "¥286.97",
+        "toPrice": "$45.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "304929077",
+          "name": "Apex Made",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 341,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "626445",
+        "mallType": "WD",
+        "itemId": "7250945132",
+        "title": "**********************",
+        "picUrl": "https://cdn.findqc.com/item/20250829/mewacoir_e3ri.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787182201",
+          "name": "至独嘉",
+          "logo": "https://si.geilicdn.com/shopedit1794237888-43e6000001963942522a0a210256-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2303983",
+        "mallType": "T1688",
+        "itemId": "848421257828",
+        "title": "2025 Goodrich Sportswear Set Hoodie Sweatshirt Set Pattern Printed Hoodie Two Piece Set Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf3ndl4p_qsn3.jpg",
+        "price": "¥42.99",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215372856352",
+          "name": "上饶市万翔服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2123",
+        "mallType": "T1688",
+        "itemId": "784373735596",
+        "title": "NOCTA Joint Edition Small Hook Logo Printed Sports Zipper Hooded Sports Casual Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2rwdl_gc6u.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRloWw5Q0CpxglLdPnuje3A",
+          "name": "武汉市东西湖区尚美服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 513,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "183511",
+        "mallType": "WD",
+        "itemId": "7273050130",
+        "title": "******",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mrh8sk_hwgp.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "95345",
+        "mallType": "TB",
+        "itemId": "828295581164",
+        "title": "Trendy American High Street Retro Vintage Graffiti Printed Men's Hoodie Hoodie Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mno3h3_myd3.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104300079",
+          "name": "潮牌销售店",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 212,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2303524",
+        "mallType": "T1688",
+        "itemId": "947694187223",
+        "title": "Spot 25-Year-Old Early Autumn Men's Hoodie American Casual Loose Jacquemus Long-Sleeved Sweatshirt Same Style for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf39rnw6_1h03.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTs7qiq0yVH33vrIOlbrc0g",
+          "name": "东莞市东城潮人来客服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2087359",
+        "mallType": "TB",
+        "itemId": "965669496753",
+        "title": "E593 inner double-layer hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf37asss_r1aw.jpg",
+        "price": "¥449.00",
+        "toPrice": "$70.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "154313",
+        "mallType": "TB",
+        "itemId": "778153655548",
+        "title": "Syna Tracksuit Sweatpants Sweatshirt American Street Style Uk Drip Drill Sports Suit Centralcee",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpoihn_xwcm.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "150351758",
+          "name": "跨境Trade Go shopping",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 53,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2188278",
+        "mallType": "T1688",
+        "itemId": "952213700122",
+        "title": "LF Majia Classic Small Logo Embroidered Autumn/Winter New Embroidered Logo Men's and Women's Same Style Double sided looped round neck sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf33caql_lpyi.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219853591468",
+          "name": "广州欧研服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 144,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2297701",
+        "mallType": "TB",
+        "itemId": "692800291633",
+        "title": "VLABMADE boxy short silhouette loose base solid color neutral off shoulder hooded zipper lightweight fleece sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf2ssttv_ksp4.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "162905685",
+          "name": "VLABMADE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "347034",
+        "mallType": "TB",
+        "itemId": "863393245441",
+        "title": "450g Union Kingdom Tracksuits Pure Cotton Fleece Short Wide Sweatshirt and Scimitar Sweatpants Set",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sl2zvo_wo8o.jpg",
+        "price": "¥190.43",
+        "toPrice": "$29.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113111492",
+          "name": "UnionKingdom",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 270,
+        "qcVideoCnt": 3,
+        "picWidth": "2230",
+        "picHeight": "2973"
+      },
+      {
+        "id": "2296859",
+        "mallType": "TB",
+        "itemId": "845613139161",
+        "title": "Nike Tech Fleece Men's Outdoor Comfortable Knitted Hoodie FB7917-010-063",
+        "picUrl": "https://cdn.findqc.com/item/20250902/mf2kaoc2_15wk.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57811021",
+          "name": "小杰体育正品折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1379321",
+        "mallType": "WD",
+        "itemId": "7443250472",
+        "title": "[A Batch] ceilingsuperior limit of cost performanceTN",
+        "picUrl": "https://cdn.findqc.com/item/20250828/mev5jxab_j68b.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1717982701",
+          "name": "BestValue Buy",
+          "logo": "https://si.geilicdn.com/weidian1944050038-6f2900000198e2ae7ef60a23038e_1128_1128.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147093001924851538",
+  "language": "en"
+}

@@ -1,0 +1,381 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2258463",
+        "mallType": "WD",
+        "itemId": "7533373557",
+        "title": "S Stone Hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1819971914-45370000018c6e1bb4290a2313e0_1080_1080.jpg",
+        "price": "¥75.90",
+        "toPrice": "$11.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620905725",
+          "name": "warm heart",
+          "logo": "https://si.geilicdn.com/wdseller1968691450-1b2c00000198e510ce9c0a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2257258",
+        "mallType": "WD",
+        "itemId": "7385572329",
+        "title": "41A2-1c",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-406300000194cd08478e0a20e2c5_314_314.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2257030",
+        "mallType": "TB",
+        "itemId": "902857227659",
+        "title": "Sp5der 555555 Hoodies Zipper Cardigan Embroidered Men's and Women's Hooded Sweatshirts",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2647352244/O1CN01jfnTWX1SRnoeEUNhu_!!2647352244.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "136414150",
+          "name": "无敌美男子工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2256637",
+        "mallType": "TB",
+        "itemId": "966694661076",
+        "title": "American Mertra splicing embroidery padded high street loose hooded sweater early fall men and women casual bat sleeve tide",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1885912624/O1CN01YZTmv91VFqMJIPa2j_!!1885912624.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "264073854",
+          "name": "潮男PENG",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2256617",
+        "mallType": "T1688",
+        "itemId": "681083203222",
+        "title": "Correct palm palm angel severed bear embroidered hooded sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019T0wq92Itbc1jkMVH_!!2213632049344-0-cib.jpg",
+        "price": "¥84.00",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213632049344",
+          "name": "上饶市致悦服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2256394",
+        "mallType": "WD",
+        "itemId": "7475804530",
+        "title": "WCX04",
+        "picUrl": "https://si.geilicdn.com/pcitem1954382050-2caf00000196f2e1bb220a207569_800_800.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1766529885",
+          "name": "OIC",
+          "logo": "https://si.geilicdn.com/pcdecorate1954382050-038000000197411ccf890a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2255189",
+        "mallType": "T1688",
+        "itemId": "816064767213",
+        "title": "American VLONE FOG hoodie for couples, high street hip-hop, autumn and winter pullover jacket, big V hoodie, trendy brand\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Hh763r24UxsbESve7_!!2218048897395-0-cib.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBsc3QLHsILUG12SD85BZ02A",
+          "name": "佛山市风一样贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2255159",
+        "mallType": "T1688",
+        "itemId": "804841980841",
+        "title": "Fashion Skeleton Hoodie Y2k Vintage Gothic Fall/Winter Hip Hop Long Sleeve Jacket Loose Hooded Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Aof1CS1spmTxYbWGp_!!2216455605816-0-cib.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216455605816",
+          "name": "沈阳市沈河区零令百货商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2254339",
+        "mallType": "TB",
+        "itemId": "765596928557",
+        "title": "Croteiz U.S. tide new embroidered letters street men and women loose casual zipper cardigan pullover sweater jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/409187313/O1CN01I73vxf23tPLrA5AOd_!!409187313.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156422319",
+          "name": "潮牌批发 一件代发",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2253452",
+        "mallType": "WD",
+        "itemId": "7531756594",
+        "title": "CJL-TOP plaid zipper hooded sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem333321600-2eb700000198bb97aedc0a2315ef_828_828.jpg",
+        "price": "¥300.00",
+        "toPrice": "$47.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333321600",
+          "name": "Alpha  Luckin",
+          "logo": "https://si.geilicdn.com/wdseller333321600-608500000199331fab3b0a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2253385",
+        "mallType": "WD",
+        "itemId": "7259616950",
+        "title": "F0G  Essenti@ls  Hoodies",
+        "picUrl": "https://si.geilicdn.com/pcitem1841091927-218d000001913f5ce7970a23037f_800_800.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614741273",
+          "name": "SH—Clothes",
+          "logo": "https://si.geilicdn.com/wdseller1841091927-46b100000190b54906100a210349_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2250429",
+        "mallType": "WD",
+        "itemId": "7271095536",
+        "title": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
+        "picUrl": "https://si.geilicdn.com/open1622703461-1234478995-7b8200000191e71706a40a210298_800_800.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622703461",
+          "name": "Trendybrandsmallshop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 144,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2250268",
+        "mallType": "WD",
+        "itemId": "7467959269",
+        "title": "clothing",
+        "picUrl": "https://si.geilicdn.com/pcitem901898590714-664600000193f6bdede90a2395a3_1200_1200.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "324194516",
+          "name": "Coco finds",
+          "logo": "https://si.geilicdn.com/shopedit324194516-3a6400000196531753df0a81347d-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2250187",
+        "mallType": "WD",
+        "itemId": "7449733254",
+        "title": "FG Padded 2256",
+        "picUrl": "https://si.geilicdn.com/open1752812698-1234478995-5bf3000001963fadf3cd0aa08290_1179_1179.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1752812698",
+          "name": "ZS factory新店",
+          "logo": "https://si.geilicdn.com/wdseller1639940264-48350000019625943e7b0a210349_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2250088",
+        "mallType": "TB",
+        "itemId": "842228405531",
+        "title": "Sweatshirt suit loose new sports and leisure jacket jacket hoodie 8454 trend knitting running zipper shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2200542779059/O1CN01ABHtpK2Gn4xRCiqtB_!!2200542779059.jpg",
+        "price": "¥123.00",
+        "toPrice": "$19.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "571620051",
+          "name": "精品户外运动批发供货",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2250023",
+        "mallType": "T1688",
+        "itemId": "729891457206",
+        "title": "New FOG hooded sweatshirt FEAR OF GOD compound line ESSENTIALS hooded fir men and women with the same paragraph fall and winter",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yg10xb1MsT033sRWC_!!3540451490-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3540451490",
+          "name": "深圳市宝安区松岗周末潮品服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2249657",
+        "mallType": "T1688",
+        "itemId": "946983320144",
+        "title": "Ga American Hooded Loose Letter Sweatshirt Trendy Brand Top Cross-Border Autumn and Winter Same Style for Men and Women Carhartt Embroider New Product",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01azzHyD1UrZM0afvar_!!2220104762571-0-cib.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVUJn3X52PFyCFUExf2rWmg",
+          "name": "广州和著服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2236733",
+        "mallType": "WD",
+        "itemId": "7522303776",
+        "title": "Erd Melancholy Rich Second Generation Mcdonald's Patch Zipper Hoodie Sweatshirt High Street Casual Cleanfit Jacket",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-2e7d000001987a618bc30aa0c791_1920_2560.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1624451139",
+          "name": "最佳店铺",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2235012",
+        "mallType": "T1688",
+        "itemId": "916271795857",
+        "title": "Pony embroidery men and women solid color zipper cardigan hooded jacket hoodie tide khaki color new, order notes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hGayBn1ZNPKgUMrVt_!!2219561013182-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219561013182",
+          "name": "海丰县城东镇设东贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2233104",
+        "mallType": "T1688",
+        "itemId": "937139821151",
+        "title": "24Fw Small Small Label Box Yang Mi's Same Style Hooded Zipper Sweatshirt Pants Suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IDke5p1i417LN9BZX_!!2219958794358-0-cib.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIkxX_NT6HnxQ1mfUGgFfeQ",
+          "name": "义乌市植音电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114502212137318223",
+  "language": "en"
+}

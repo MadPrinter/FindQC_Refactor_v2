@@ -1,0 +1,553 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1338325",
+        "mallType": "WD",
+        "itemId": "7311055716",
+        "title": "D-2 jeans collection (non-quality problems do not support no reason to return)",
+        "picUrl": "https://si.geilicdn.com/wdseller1799811745-55fa0000019366b9c14f0a210256_1179_1179.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802156977",
+          "name": "Rock Cat Store",
+          "logo": "https://si.geilicdn.com/wdseller1799811745-03320000019052d497520a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "968617",
+        "mallType": "WD",
+        "itemId": "7413257128",
+        "title": "XJXPCS new fashionable and versatile shorts-06",
+        "picUrl": "https://si.geilicdn.com/open1672216213-1234478995-2ade0000019570bee0d20a23b4de_1280_1280.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672216213",
+          "name": "Crazy Koala",
+          "logo": "https://si.geilicdn.com/shopedit1897196691-072e000001928fa9890e0a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2783827",
+        "mallType": "WD",
+        "itemId": "7575643668",
+        "title": "Fine plaid five quarter pants",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhhdk14c_nchv.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840972441",
+          "name": "Thunder 01",
+          "logo": "https://si.geilicdn.com/shopedit1842086105-06b80000019746ca6bf50a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2864684",
+        "mallType": "WD",
+        "itemId": "6248058716",
+        "title": "C printed short sleeved pink",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhguuyf5_xlhr.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "995319",
+        "mallType": "WD",
+        "itemId": "7411591659",
+        "title": "Full printed letter denim pants",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesccnb3_d6pv.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1615696",
+        "mallType": "WD",
+        "itemId": "7474068277",
+        "title": "Fine plaid five quarter pants",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcmij6h6_d6hl.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1228283",
+        "mallType": "WD",
+        "itemId": "7411946035",
+        "title": "Black laminated pants",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9q4mdx8_wcpw.jpg",
+        "price": "¥418.00",
+        "toPrice": "$65.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "995532",
+        "mallType": "WD",
+        "itemId": "7424528281",
+        "title": "Fine plaid five quarter pants",
+        "picUrl": "https://cdn.findqc.com/item/20250328/m8shersp_z0au.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 112,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "880465",
+        "mallType": "WD",
+        "itemId": "7247492383",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20250409/m99o9ze2_lc6h.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769151449",
+          "name": "顺泽鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182936",
+        "mallType": "WD",
+        "itemId": "6084918420",
+        "title": " Printed Webbing Stripe Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mra1y4_uunr.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67866",
+        "mallType": "WD",
+        "itemId": "6101976914",
+        "title": "Paris Letter Print Short Sleeve White",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mm2xbb_tv0i.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "43427",
+        "mallType": "WD",
+        "itemId": "7234490870",
+        "title": "Green printed T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdxwk4_7fvf.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1367236596",
+          "name": "Thunder02",
+          "logo": "https://si.geilicdn.com/shopedit1367236596-53c20000018dbcbe65270a22d246-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42694",
+        "mallType": "WD",
+        "itemId": "6101040383",
+        "title": "Cola Print Hoodie White",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdpv51_sgt9.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "38461",
+        "mallType": "WD",
+        "itemId": "6150029301",
+        "title": "Coke long sleeve t black",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nm22ko_xmir.jpg",
+        "price": "¥259.00",
+        "toPrice": "$40.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32389",
+        "mallType": "WD",
+        "itemId": "6101114679",
+        "title": "B Back Letter Print Short Sleeve White",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njtg8k_ho0v.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021148589382553889790",
+  "language": "en"
+}

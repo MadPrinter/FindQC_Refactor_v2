@@ -1,0 +1,365 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2594138",
+        "mallType": "WD",
+        "itemId": "7446072597",
+        "title": "North Punch Hooded Jacket Patchwork 4 Colors",
+        "picUrl": "https://si.geilicdn.com/pcitem1932471062-38fa0000019630a9383c0a23057e_1440_1920.jpg",
+        "price": "¥265.00",
+        "toPrice": "$41.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1695749165",
+          "name": "MY Department store",
+          "logo": "https://si.geilicdn.com/pcdecorate1932471062-00170000019668ecc9540a210256-unadjust_1023_947.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2042441",
+        "mallType": "WD",
+        "itemId": "7522195080",
+        "title": "2025 Casual Short Sleeve 3-Piece Set {No Returns for Quality Issues}",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-6c94000001987e0edfa90a23b491_1200_1200.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1768602549",
+          "name": "MagicBuy",
+          "logo": "https://si.geilicdn.com/shopedit1910834196-1691000001938661b02b0a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2131149",
+        "mallType": "T1688",
+        "itemId": "939674690143",
+        "title": "2025 Spring and Autumn New Outdoor Sports Couple Jacket Men's Jacket Windproof and Waterproof Windbreaker Men's Clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ALdt1D1V4qprlOYMp_!!2219416822600-0-cib.jpg",
+        "price": "¥82.00",
+        "toPrice": "$12.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBMvam62n_b2JxEi-3-aLXDw",
+          "name": "石狮市翰吉服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2266472",
+        "mallType": "WD",
+        "itemId": "7467380539",
+        "title": "CJl bird submachine jacket ZW",
+        "picUrl": "https://si.geilicdn.com/open333321600-1234478995-3e0d00000196a3f5a7fa0a8133b0_1080_1080.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333321600",
+          "name": "Alpha  Luckin",
+          "logo": "https://si.geilicdn.com/wdseller333321600-608500000199331fab3b0a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1018768",
+        "mallType": "T1688",
+        "itemId": "811187112798",
+        "title": "Cross-border Spring and Autumn Outdoor Jacket Men's Coat Jacket Men's Breathable Sportswear Waterproof Windbreaker Mountaineering Soft Shell Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01N6lRDN1YtAxFjuElb_!!2214207403116-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQiWKz_om4e70NN_wFZZcww",
+          "name": "石狮市华拓腾菲服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 73,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2397279",
+        "mallType": "T1688",
+        "itemId": "898195979144",
+        "title": "Bird Home High Version Alpha Series Same Style Military Bird Outdoor Windproof, Waterproof, Breathable Mountaineering Pressure Glue Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eo8JC428sYoQmduNm_!!2218855437988-0-cib.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhZJ8Cj1BNma-oF2mTAkQWg",
+          "name": "台州锦初服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "554286",
+        "mallType": "WD",
+        "itemId": "6071656886",
+        "title": "2330 Stone Island Stone Island 7-Zip Functional Outdoor Zip Jacket",
+        "picUrl": "https://si.geilicdn.com/open1648679456-1234478995-77670000018646b03c9e0a219249_1074_1074.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648679456",
+          "name": "萌萌出品（全店包邮 一件代发）",
+          "logo": "https://si.geilicdn.com/wdseller1420898802-23160000017a7cd73d650a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2564482",
+        "mallType": "WD",
+        "itemId": "7565343448",
+        "title": "Sayzzerr Lightning Link",
+        "picUrl": "https://si.geilicdn.com/pcitem1990362831-52d000000199870e803a0a20e273-unadjust_433_423.png",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1686665059",
+          "name": "lightning",
+          "logo": "https://si.geilicdn.com/pcdecorate1990362831-159f000001993ea9b8b80a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2191503",
+        "mallType": "T1688",
+        "itemId": "900725727761",
+        "title": "Taizhou bird family lightweight BETA SL new windproof and waterproof hard shell bias soft punching jacket LOGO",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ew2Nen1Ohb0abZ0Fo_!!2219413591737-0-cib.jpg",
+        "price": "¥251.30",
+        "toPrice": "$39.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219413591737",
+          "name": "三门县简亦冲锋衣经营部(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2760116",
+        "mallType": "T1688",
+        "itemId": "869521218798",
+        "title": "Spring and Autumn North Face Jacket Hooded New Outdoor Casual Sports Jacket Windproof and Waterproof Cross-Border",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010B5WZ81LuTHJtyu5Y_!!2218412101359-0-cib.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIOtTMh3fwPDO8Z5ejTEmuQ",
+          "name": "石狮市产禾服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2185789",
+        "mallType": "WD",
+        "itemId": "7511983044",
+        "title": "****** Products",
+        "picUrl": "https://si.geilicdn.com/pcitem1798464021-57700000019014ed286e0a210349_790_790.jpg",
+        "price": "¥186.00",
+        "toPrice": "$29.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699631517",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2182521",
+        "mallType": "T1688",
+        "itemId": "710370183945",
+        "title": "TNF1990 jacket and assault suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FcmnL11yx0Hnr4kyr_!!2213207416644-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwm-UO_OtMTFgK5B-YN5CzA",
+          "name": "晋江市亿瑞电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1657345",
+        "mallType": "WD",
+        "itemId": "7502178405",
+        "title": "ARC Outdoor Hard Shell Punching Jacket TERYX",
+        "picUrl": "https://si.geilicdn.com/open1773830057-1234478995-4dda0000019140ff0daf0a8115b5_800_800.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1753845725",
+          "name": "global fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate1957274275-3f1f00000197b69b37240a210256-unadjust_686_686.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2372348",
+        "mallType": "T1688",
+        "itemId": "946452326063",
+        "title": "Cross-border stone island stone island rushing jacket outdoor sleeve logo badge hooded jacket men and women with the same model",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jYvycp1PJbuQnCTc1_!!2219542581820-0-cib.jpg",
+        "price": "¥127.00",
+        "toPrice": "$19.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219542581820",
+          "name": "广州佐凯服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2173484",
+        "mallType": "WD",
+        "itemId": "7424237511",
+        "title": "Classic Fashion Jacket",
+        "picUrl": "https://si.geilicdn.com/open1634031542-1234478995-5c01000001959ac349610aa0834c_800_800.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1634031542",
+          "name": "PANDA KING SHOP",
+          "logo": "https://si.geilicdn.com/shopedit1697417568-19920000018e46247ea20a2102d0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1658781",
+        "mallType": "T1688",
+        "itemId": "843801706086",
+        "title": "Napapijri Zip-Up Men's Windproof and Waterproof Outdoor Windbreaker Jacket Casual Versatile Round Neck Long Sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NhltVp1cwca5ZfgDe_!!2201101213665-0-cib.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAewHdFcp1KI4HR9MO6RiCw",
+          "name": "广州市白云区衣布仕服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1110465",
+        "mallType": "WD",
+        "itemId": "2725613430",
+        "title": "Men's and women's windbreaker jacket 2024 spring and fall new collar windbreaker casual sports jacket 2027 M-5XL",
+        "picUrl": "https://si.geilicdn.com/pcitem1346408840-1bbb000001915eb9145c0a23041a_1024_1364.jpg",
+        "price": "¥112.00",
+        "toPrice": "$17.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1346408840",
+          "name": "小兔子外贸",
+          "logo": "https://si.geilicdn.com/bj-vshop-1346408840-1526322895527-559284031_656_656.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "377289",
+        "mallType": "WD",
+        "itemId": "7282617310",
+        "title": "Outdoor assault suit",
+        "picUrl": "https://si.geilicdn.com/open1360317772-1234478995-6e93000001924b1cf32a0a8133b5_1080_1080.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1360317772",
+          "name": "Stay real store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2355140",
+        "mallType": "WD",
+        "itemId": "7278804261",
+        "title": "3BQ04",
+        "picUrl": "https://si.geilicdn.com/wdseller1891614120-1c4f000001922d4fe2ce0a20e7c7_1290_1613.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145101272553926733",
+  "language": "en"
+}

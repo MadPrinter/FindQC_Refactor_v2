@@ -1,0 +1,261 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3462",
+        "mallType": "WD",
+        "itemId": "7235443021",
+        "title": "[In stock] Black and white slogan short sleeved print upgrade",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3e5y2_l9rt.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867534160",
+          "name": "Earlytom",
+          "logo": "https://si.geilicdn.com/wdseller1438793263-382e00000181aad375900a23034c_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3454",
+        "mallType": "WD",
+        "itemId": "7241684362",
+        "title": "**********************",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3e3be_bjqh.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787182201",
+          "name": "至独嘉",
+          "logo": "https://si.geilicdn.com/shopedit1794237888-43e6000001963942522a0a210256-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3461",
+        "mallType": "TB",
+        "itemId": "811248335776",
+        "title": "Lmyer Number Nine Skull Double-Headed Loose Casual Black and White Two-Tone Short Sleeve Couple Matching T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3e552_45lb.jpg",
+        "price": "¥91.12",
+        "toPrice": "$14.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "355030600",
+          "name": "LMYER",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3457",
+        "mallType": "WD",
+        "itemId": "7252167380",
+        "title": "Do-it-yourselfers clearance No returns or exchanges for non-quality issues",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3e46w_ddua.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858885532",
+          "name": "2December的小屋",
+          "logo": "https://si.geilicdn.com/wdseller1543338394-5bb800000185725383710a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 71,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3426",
+        "mallType": "T1688",
+        "itemId": "785063903426",
+        "title": "Summer Real Tennis Club T Shirt Print Cott",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3dt81_mn54.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByk5O7xe-QfizmDG_0ZdUlQ",
+          "name": "广州奥尔菲服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 532,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3398",
+        "mallType": "T1688",
+        "itemId": "703958940939",
+        "title": "Washed and worn high street solid color short sleeved American street five point t-shirt men's base summer Euro American ins China-Chic top",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3dahq_bc4o.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3378",
+        "mallType": "TB",
+        "itemId": "626946142450",
+        "title": "25 early fall new ins fashion tide brand dark R fake two abstract line letter patch long-sleeved T-shirt male",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3d46v_7srb.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108186519",
+          "name": "王牌高端服装",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3380",
+        "mallType": "TB",
+        "itemId": "815605404221",
+        "title": "Summer Polo Men's Lapel Short Sleeve t-shirt cotton men's polo shirt in stock",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3d5qk_di9x.jpg",
+        "price": "¥84.00",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3370",
+        "mallType": "TB",
+        "itemId": "805802430846",
+        "title": "Tide Stusi stus short sleeve t-shirt dice black eight high version seamless crew fabric 260g couple's clothing new",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3d19y_94nr.jpg",
+        "price": "¥55.90",
+        "toPrice": "$8.79",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3366",
+        "mallType": "WD",
+        "itemId": "7243190584",
+        "title": "Global Find-BEE【 🛒 GO ▶ https://solo.to/beeshop 】【 Spreadsheet 】 ▶ https://tinyurl.com/superBEEshop 】B-t short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3cwcl_fcm4.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1652038393",
+          "name": "WWTOP",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3353",
+        "mallType": "T1688",
+        "itemId": "738962319126",
+        "title": "Pure dollar ~ 23 classic models pony embroidery solid color round neck bottom loose long-sleeved blouse female four seasons hundred models",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3crob_7cqc.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3326",
+        "mallType": "T1688",
+        "itemId": "768169613603",
+        "title": "One for sending 2023 spring and fall new tide brand tiger head letters patch embroidery couple models terry round neck sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3c25v_urse.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3314",
+        "mallType": "T1688",
+        "itemId": "727111247982",
+        "title": "240g corteiz Alcatraz series T-shirt short sleeve letter Logo printed men's and women's double yarn fashion short sleeve tide",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3bpcd_kuf9.jpg",
+        "price": "¥41.00",
+        "toPrice": "$6.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnxGJPsV1VyVufRv_dFairQ",
+          "name": "镇平县启利贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 157,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3312",
+        "mallType": "TB",
+        "itemId": "785903845841",
+        "title": "667 jersey casual short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3bnqu_n00b.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "124663923",
+          "name": "Nothing2do",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 188,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3298",
+        "mallType": "TB",
+        "itemId": "828580778132",
+        "title": "【 In stock 】 24FW navy blue embroidered horse, washed and damaged short sleeved T-shirt polo shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3bsya_sorv.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "129728967",
+          "name": "MOON MADE",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 120,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021155326851914138511",
+  "language": "en"
+}

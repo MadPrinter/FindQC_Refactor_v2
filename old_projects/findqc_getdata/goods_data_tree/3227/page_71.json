@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1841681",
+        "mallType": "WD",
+        "itemId": "7503630127",
+        "title": "T-shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1968748602-187100000198276388e90a231177_1920_1920.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1734611453",
+          "name": "Fresh Findz",
+          "logo": "https://si.geilicdn.com/shopedit1968748602-326b000001986f0569be0a23111a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2881903",
+        "mallType": "TB",
+        "itemId": "697147817742",
+        "title": "2025 New Product, Heavy-Duty Washed and Distressed Basic Vintage Solid Color T-Shirt, Trendy Brand, Unisex Loose Fit Tee Short Sleeve",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/715116511/O1CN01flNIgD1xy5aelLxGa_!!715116511.jpg",
+        "price": "¥68.97",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105879719",
+          "name": "欧美潮流尖货",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1479316",
+        "mallType": "T1688",
+        "itemId": "566010940467",
+        "title": "Trendy brand HEYPLAY Japanese pure cotton short sleeve T-shirt heart men's and women's 18-year new camouflage big heart couples",
+        "picUrl": "https://cdn.findqc.com/item/20250608/mbmro13z_0qc1.jpg",
+        "price": "¥46.00",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzjKZsdB7lDRdJfUf-_KEbA",
+          "name": "深圳市宝安区新桥街道川久保玲制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 133,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "897293",
+        "mallType": "T1688",
+        "itemId": "854786702585",
+        "title": "Cross-border tide brand Casablanca Casablanca letter painted printed 380g terry round neck sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250227/m7mi7l4f_obnn.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5b49pyQkyfirkx8TrYuzag",
+          "name": "铅山县非浅电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 367,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "12812",
+        "mallType": "T1688",
+        "itemId": "819359619606",
+        "title": "Cross-border Foreign Trade Trendy Brand Short-sleeved Men's Letter Printing American Street Pure Cotton Loose Couple's Casual T-shirt Half-sleeved Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcc1ky_guhu.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBARKWrgm_pG7beBtwajqj6g",
+          "name": "广州市白云区三元里街小沐服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 438,
+        "qcVideoCnt": 33,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "58252",
+        "mallType": "TB",
+        "itemId": "702392272449",
+        "title": "Vujade006 Black and White Vd Printed Logo Crew Neck Short-Sleeve T-Shirt for Men, Youthful Trendy Kenijima Style Base Layer",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqgakl_l7tr.jpg",
+        "price": "¥123.52",
+        "toPrice": "$19.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "122132134",
+          "name": "B197 SHOP",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "41432",
+        "mallType": "TB",
+        "itemId": "625760487452",
+        "title": "Trendy Cartoon American-Style Loose-Fitting Pirates of the Caribbean Short-Sleeve Unisex Retro Oversized Heavyweight Cotton T-Shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmxeur_z2mp.jpg",
+        "price": "¥57.66",
+        "toPrice": "$9.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155082652",
+          "name": "Unity is strength",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1764316",
+        "mallType": "T1688",
+        "itemId": "711574059505",
+        "title": "Ftf American High Street Fashion Brand Short-Sleeved Letter Gallery Dept Printed T-Shirt Loose Casual Half-Sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0144jo331yr3KvHDvFl_!!2215688856631-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXt1DvseXCoyfDKtEKlIgIQ",
+          "name": "广州继德商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "11172",
+        "mallType": "T1688",
+        "itemId": "633663198868",
+        "title": "Wholesale HELLSTAR STUDIOS European and American high street skateboard printing meditation skull big logo men's and women's washing water t",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbjjnh_3yc1.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBs3JplBOlpts59POYDOe2tQ",
+          "name": "深圳市鑫泰都国际贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 139,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "224320",
+        "mallType": "T1688",
+        "itemId": "742555388599",
+        "title": "Correct Version VTM Witt Moe Letter Printing Men's and Women's Loose Casual Crewneck Short-sleeved T-shirt High Street Fashion Brand Cotton Tee",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p86ry_vq4v.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnDcscHc9CmUmQoCebjm3Mw",
+          "name": "镇平县田岸珠宝商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 162,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "900",
+        "mallType": "T1688",
+        "itemId": "801327491228",
+        "title": "Summer European and American Sports Quick-drying Clothes Short-sleeved T-shirt Men's Summer Loose Fitness Elastic Round Neck plus size Casual Top",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mzjzv8_ektv.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYn4MhQz4H4FLGbrjxjrdCw",
+          "name": "广州伈源休闲服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 579,
+        "qcVideoCnt": 14
+      },
+      {
+        "id": "1145281",
+        "mallType": "T1688",
+        "itemId": "782024024610",
+        "title": "Chrome Heart Croma Hooves Print Colorblock Rorless Cotton Crewneck Long-sleeved T-shirt Unisex",
+        "picUrl": "https://cdn.findqc.com/item/20250601/mbctbuks_qq8x.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFeBKs1lz18hmnXQZZ_98gQ",
+          "name": "佛山市禅城区大唛好潮服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 568,
+        "qcVideoCnt": 12
+      },
+      {
+        "id": "3085749",
+        "mallType": "T1688",
+        "itemId": "898845428013",
+        "title": "high quality ESSENTIALS short sleeve T-shirt hot floral 2025SS tide brand SShirt cross-border fog Ningbo factory goods",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Cjul3q2H4U3DBnIcd_!!2217554199097-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5Hnf_zE-ISa-rnaiZjL2Jg",
+          "name": "石狮市灵秀余珊珊服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2511796",
+        "mallType": "T1688",
+        "itemId": "891841425720",
+        "title": "Gallery Dept New God Answers Prayer Slogan Printed Loose Casual Short-Sleeved T-Shirt Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgm5toj1_esy9.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhEF_h32V4vXhK1cBc8d9pw",
+          "name": "上饶梵丽服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 5,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "2108917",
+        "mallType": "T1688",
+        "itemId": "904184905148",
+        "title": "High quality 1996 new love retro graffiti round neck T-shirt loose men and women casual half sleeved tee made of pure cotton",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01T1v7ue1pliCAyOywO_!!2219391975401-0-cib.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8DcStUTAlajA_t892Pb9lw",
+          "name": "东莞市长安仲夏印象服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3085606",
+        "mallType": "T1688",
+        "itemId": "725107217104",
+        "title": "Football Heavy Short-sleeved Men's American Style Retro Summer Cristiano Characters Short-sleeved T-shirt Pure Cotton Loose Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rubWas1WTrzxAtgYY_!!2209165032790-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBtvaMC73mNlRMuuMCrpj8Bg",
+          "name": "广州汕湛商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3081291",
+        "mallType": "T1688",
+        "itemId": "943601116107",
+        "title": "26新款俱乐部足球服巴黎切尔西曼联长袖球衣儿童成人训练服",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01e7b7ph1ocGQnjurt4_!!2219766795245-0-cib.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219766795245",
+          "name": "东莞市厚街弘株服饰贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3075347",
+        "mallType": "T1688",
+        "itemId": "809971161037",
+        "title": "跨境专供日系青春爱心纯棉短袖T恤夏季新款男装圆领休闲上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01koXHGA1JMuyPPd8GE_!!2998231015-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2998231015",
+          "name": "深圳市宝安区石岩梵翎希制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604085",
+        "mallType": "WD",
+        "itemId": "7285304779",
+        "title": "N*B *ape Summer Short Sleeve T-Shirt",
+        "picUrl": "https://si.geilicdn.com/wdseller1814780747-5c20000001927bd18e6f0a23038e_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661102153",
+          "name": "Luxury Fashion",
+          "logo": "https://si.geilicdn.com/wdseller1814780747-4e6b00000191b1e936eb0a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2612074",
+        "mallType": "WD",
+        "itemId": "7459458817",
+        "title": "CD-1清凉一夏，短袖相伴~（品质一流标签齐全）",
+        "picUrl": "https://si.geilicdn.com/pcitem1886999317-603a0000019812aceeeb0a23041a_1200_1200.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637944933",
+          "name": "MonkeyBuy",
+          "logo": "https://si.geilicdn.com/shopedit1886999317-1a0500000191a48bd11d0a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141318211924856044",
+  "language": "en"
+}

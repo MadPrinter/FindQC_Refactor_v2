@@ -1,0 +1,371 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "283971",
+        "mallType": "TB",
+        "itemId": "682220767179",
+        "title": "Full of high-end feel, genuine leather cross suede fabric, European square car cushion, pillow, sofa cushion",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m474gt15_mke3.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106400327",
+          "name": "老罗仓库",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182426",
+        "mallType": "TB",
+        "itemId": "643454248866",
+        "title": "Sugar small strip 12 points wa house scene furniture leather double sofa OB11 props wa with clay figures ornaments gsc",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr3o87_xrhx.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103211937",
+          "name": "糖小条的迷你小店",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67754",
+        "mallType": "T1688",
+        "itemId": "658630852889",
+        "title": "Amazon sofa cover full package elastic simple four seasons universal solid color sofa cover sofa cover cloth cross-border supply",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mm1mgx_vl53.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "66421",
+        "mallType": "TB",
+        "itemId": "609886341316",
+        "title": "New Halloween Pumpkin Cat Series Blanket Throw Blanket Sofa Cover Universal Cover Personalized Trendy Blanket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlm3bn_pr6b.jpg",
+        "price": "¥68.72",
+        "toPrice": "$10.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66362851",
+          "name": "小in家家居馆",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "53826",
+        "mallType": "TB",
+        "itemId": "679646049268",
+        "title": "Stussy Blanket, Niche Light Luxury Style Sofa Blanket, Nap Shawl, Throw Blanket, Bed Cover, Homestay Model Room Decoration",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nobj2n_klqy.jpg",
+        "price": "¥70.60",
+        "toPrice": "$11.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "212241442",
+          "name": "卖布的阿九",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35291",
+        "mallType": "TB",
+        "itemId": "720261475906",
+        "title": "Universal Sofa Cover, High-End Nordic Style, Autumn and Winter Cover, Full Cover Sofa Cushion Cover, Blanket, Suitable for All Seasons",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkjjvk_nnv6.jpg",
+        "price": "¥30.84",
+        "toPrice": "$4.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "359098656",
+          "name": "丝筑家居小店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021149222731914135248",
+  "language": "en"
+}

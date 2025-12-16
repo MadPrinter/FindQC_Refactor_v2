@@ -1,0 +1,389 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2719596",
+        "mallType": "TB",
+        "itemId": "743052518567",
+        "title": "High-Pixel High-Definition Dv Camera, Professional-Grade Handheld Flip-Top Campus Camera, Student Party Retro Ccd",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3199482733/O1CN01CcCRF01W3lLGpX9IX_!!3199482733.jpg",
+        "price": "¥101.79",
+        "toPrice": "$16.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "464253940",
+          "name": "一张纸科技",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604094",
+        "mallType": "T1688",
+        "itemId": "691463649224",
+        "title": "4K 30 meters waterproof WIFI sports DV camera F600 portable video camera 2 inch motorcycle recorder GoPro",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0136PN3Y1xkLh1gu6Eq_!!1083316481-0-cib.jpg",
+        "price": "¥31.00",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1083316481",
+          "name": "深圳市福田区中电信息时代广场丹泉通商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2503073",
+        "mallType": "T1688",
+        "itemId": "940605775752",
+        "title": "Cross-Border New 100W Super Fast Charging Comes with a Wired Power Bank That Can Charge Laptops and Large-Capacity Mobile Power Supplies",
+        "picUrl": "https://cdn.findqc.com/item/20251010/mgklrwk4_sciu.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNrBJ0NsA87iCl5QLdJJ2fw",
+          "name": "深圳市飞璇电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1204327",
+        "mallType": "T1688",
+        "itemId": "861606091247",
+        "title": "New true 4K HD sports camera bare bones waterproof gopro same camera sports DV outdoor camera",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000000116/O1CN01smPhE01CjAgICBmcB_!!6000000000116-0-tbvideo.jpg",
+        "price": "¥265.00",
+        "toPrice": "$41.67",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2439579",
+        "mallType": "TB",
+        "itemId": "900045489962",
+        "title": "Trendy Rhode Phone Case, Hailey Lip Case, Lipstick Phone Case, iPhone 15 Pro Lip Gloss Liquid 3D Silicone for iPhone 14/13 Pro Max, Huaqiangbei",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfuvebs8_nqem.jpg",
+        "price": "¥28.88",
+        "toPrice": "$4.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "130423558",
+          "name": "睿源数码配件",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1169272",
+        "mallType": "T1688",
+        "itemId": "546591581218",
+        "title": "Diamond Detector PenDiamond Detector PenDiamond Inspection Pen IIThermal conductivity meterHardness detection of authenticityJade jade crystalTools",
+        "picUrl": "https://cdn.findqc.com/item/20250514/man944jq_40f8.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1946584096",
+          "name": "莆田市秀屿区东峤林金统首饰设备店",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "64872",
+        "mallType": "TB",
+        "itemId": "678760071089",
+        "title": "Neighborhood 22Ss Wu/P-Toy Pet Puppy Doll Nbhd West Highland Doll Ornament",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjvp6e_i7te.jpg",
+        "price": "¥160.09",
+        "toPrice": "$25.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70097249",
+          "name": "你好 摇滚星球",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141110022553909230",
+  "language": "en"
+}

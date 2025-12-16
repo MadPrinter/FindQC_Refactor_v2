@@ -1,0 +1,505 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3151356",
+        "mallType": "WD",
+        "itemId": "7532598543",
+        "title": "#It is recognized that it is drunk and easy to use, and every woman dreams of it, men can take action # [2025 new version of the mystery of the sea repair essence four piece gift box] repair function yyds, a good thing for dogs to break their heads recently! T Bao Dai Dog 5000+synchronized on sale! The shopkeeper waited for months, finally welcoming\n",
+        "picUrl": "https://si.geilicdn.com/wdseller1349734018-3cc200000198d2bc9ef20a210139_1170_1560.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1342135773",
+          "name": "外贸集结号",
+          "logo": "https://si.geilicdn.com/bj-vshop-1342135773-1524075028796-1411703289_972_972.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2734714",
+        "mallType": "TB",
+        "itemId": "764644221966",
+        "title": "Over 80  Desire of the Hidden Shirt: Green Pear Madness, Non-Perfume, First Lady, White Witch, Goddess of Revenge Perfume Sample 2ml",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/203097370/O1CN01ico56A24JVlzfz9zD_!!203097370.jpg",
+        "price": "¥6.63",
+        "toPrice": "$1.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102450866",
+          "name": "傲娇嫩小排二",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554350",
+        "mallType": "T1688",
+        "itemId": "921690843140",
+        "title": "Europe and the United States counter brand H home and so on Tian Di cover packaging box silk scarf gift box scarf color box can be with a full set of",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01j5USql1hfHiooXGbO_!!1108274304-0-cib.jpg",
+        "price": "¥7.00",
+        "toPrice": "$1.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1108274304",
+          "name": "广州精码包装制品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2799811",
+        "mallType": "T1688",
+        "itemId": "966866013255",
+        "title": "Cross border exclusive for K18 hair mask, no wash version, hair care improvement and restoration agent, K18 hair conditioner 50ml",
+        "picUrl": "https://cdn.findqc.com/item/20251105/mhlr54z3_q3zz.jpg",
+        "price": "¥8.80",
+        "toPrice": "$1.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7EhmNV22ZjbbWX1mrlSAjw",
+          "name": "广州耀艺贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2061145",
+        "mallType": "T1688",
+        "itemId": "946382341030",
+        "title": "Cross-border foreign trade perfume gradient California dream pinnacle Siyang Infinity DAWN Ghost Saber Rose Getaway 100ml",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aJCCNn1kMuhDij0Ev_!!2220085504670-0-cib.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220085504670",
+          "name": "深圳市亿博优贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2235097",
+        "mallType": "TB",
+        "itemId": "616026631673",
+        "title": "Samples Miss Dior Flowering True Self Fragrance Combo Set Fragrance 5ml + Body Milk 20ml and Excessive Excessive Wilderness",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/4150171307/O1CN01sY4Egz1LWeW2e48YX_!!4150171307.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "229133825",
+          "name": "丁咪相遇",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2233113",
+        "mallType": "T1688",
+        "itemId": "914853127448",
+        "title": "350ml frosted tea bottle Eco Enzyme milk tea juice bottles light food fruit and vegetable juice minimalist glass bottles",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/8898493435_1385429225.jpg",
+        "price": "¥1.08",
+        "toPrice": "$0.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219700431328",
+          "name": "徐州金满贯玻璃制品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1199037",
+        "mallType": "T1688",
+        "itemId": "893689132445",
+        "title": "Cross border Shile Eye Cream face cream Night Cream essence Protective Facial Cleanser Day Cream Foot Cream Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm7bjh_59yr.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219383072444",
+          "name": "广州宁如硕贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2725853",
+        "mallType": "T1688",
+        "itemId": "957460376822",
+        "title": "Cross border foreign trade brand new version of Green Treasure bottle three piece set of new skin lotion 200ml new version of essence 50ml face cream 50ml",
+        "picUrl": "https://cdn.findqc.com/item/20251031/mhem7kvi_ci94.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAl02tC0QZyuDZTYcJowgaA",
+          "name": "广州烬余歌贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2799395",
+        "mallType": "T1688",
+        "itemId": "921999481932",
+        "title": "Anua Peach 70% Niacinamide Serum essence Toner essence 30ml Houttuynia Cordata Quercetin Facial Cleanser",
+        "picUrl": "https://cdn.findqc.com/item/20251031/mhelsalm_glri.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5IXpDGNTvharsoczGTeHow",
+          "name": "繁昌进（深圳）科技有限责任公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1085314",
+        "mallType": "T1688",
+        "itemId": "900128619063",
+        "title": "Cross border spot red bottle Anua black spot correction essence 10% nicotinamide+4% carbamic acid honey peach 70%",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrwpum_3t4c.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219392473678",
+          "name": "广州霞詹贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "535330",
+        "mallType": "WD",
+        "itemId": "7248369398",
+        "title": "Classic and trendy fashionable slippers (non refundable in winter)",
+        "picUrl": "https://cdn.findqc.com/item/20250118/m626iqzm_9ym6.jpg",
+        "price": "¥295.00",
+        "toPrice": "$46.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1705753433",
+          "name": "YMDD 1:1 WHATSAPP：+85263617466",
+          "logo": "https://si.geilicdn.com/wdseller1847466902-5a7e0000018e55f2c1100a813470_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "69472",
+        "mallType": "WD",
+        "itemId": "4390551912",
+        "title": "【Lao Zhao】「Mid-Autumn Gift」Genuine Huajingxing Stuffed Cup Old White Tea Small Square Combination Fuding White Tea 2016 Alpine Shoumei Tea A full set of gift box packaging",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmnhkn_n2e7.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1367435434",
+          "name": "老赵外贸微家居",
+          "logo": "https://si.geilicdn.com/wdseller1367435434-0d5100000179837341f50a21c2a7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146235041911211317",
+  "language": "en"
+}

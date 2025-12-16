@@ -1,0 +1,595 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2661027",
+        "mallType": "TB",
+        "itemId": "968043166861",
+        "title": "Foreign Trade Surplus Air Cushion Comb for Women, Specifically for Long Hair, Stimulates Scalp Meridians, Reduces Static Electricity, Portable Airbag Wooden Comb",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/4045906848/O1CN01QkBvGR20SRLyaruCe_!!4045906848.jpg",
+        "price": "¥37.52",
+        "toPrice": "$5.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "225541001",
+          "name": "丽丽的小店0117",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2902406",
+        "mallType": "TB",
+        "itemId": "705951098196",
+        "title": "Massage Comb Women's Special Anti static Comb Fluffy Head Top Mosquito Incense Comb Home Massage Air Cushion Pork Rib Comb Small",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk5gl0c_oa3u.jpg",
+        "price": "¥10.09",
+        "toPrice": "$1.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112062627",
+          "name": "曼莎梳屋",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899821",
+        "mallType": "WD",
+        "itemId": "7511885999",
+        "title": "Lili rhode limited edition gift box bag, cosmetics bag, storage bag, new 7-color silicone storage bag",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk113ti_vwji.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1978376",
+        "mallType": "TB",
+        "itemId": "839235148617",
+        "title": "Cross Bounce Bounce Curl Define Styling Brush Bounce Curl Define Styling Brush Comb",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/484698447/O1CN01FHkyAg2CGmYwJy5YA_!!484698447.jpg",
+        "price": "¥12.90",
+        "toPrice": "$2.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "162921514",
+          "name": "Nie pard聂豹甄选",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1300329",
+        "mallType": "WD",
+        "itemId": "3720616674",
+        "title": "2108 2-color hair! Daisen Yuanzhuang wide tooth comb+airbag comb set, anti-static bread massage air cushion, star recommended air cushion comb, fresh and fashionable",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh0umou4_yilx.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648679456",
+          "name": "萌萌出品（全店包邮 一件代发）",
+          "logo": "https://si.geilicdn.com/wdseller1420898802-23160000017a7cd73d650a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2600126",
+        "mallType": "WD",
+        "itemId": "6127923521",
+        "title": "【 𝐆𝐮𝐜𝐢 Floral Comb 】 The comb packaging is full of spring atmosphere! You can carry it with you, it's too practical. Even for the sake of appearance, you should buy the series! Invincible cuteness! Exquisite pig girl daily storage bangs helper combing hair every day, happy to see it 😄 What the whole internet is looking for is not for sale",
+        "picUrl": "https://cdn.findqc.com/item/20251010/mgkot9xa_1uak.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1383849752",
+          "name": "筱媛外贸",
+          "logo": "https://si.geilicdn.com/weidian1383849752-615b00000172d0f37ac10a21c2a8_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2590535",
+        "mallType": "TB",
+        "itemId": "525599996793",
+        "title": "Comb Female Angel Princess TT Anti-static Massage Hair Without Knotting Portable For Home kids Student Wooden Comb",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghjpj67_qycd.jpg",
+        "price": "¥12.60",
+        "toPrice": "$1.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113099699",
+          "name": "天使顺发梳",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2620331",
+        "mallType": "WD",
+        "itemId": "7434327273",
+        "title": "comb gift box",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghtbiir_1yp1.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787125025",
+          "name": "Apple果果",
+          "logo": "https://si.geilicdn.com/pccreshp1769897333-473700000188aaa5ccfd0a23034c_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1791276",
+        "mallType": "TB",
+        "itemId": "849500455713",
+        "title": "Zhang Xiaohui recommends the French LA BONNE BROSSE soft toothed bristle comb, pig bristle care hair comb, massage comb",
+        "picUrl": "https://cdn.findqc.com/item/20250719/mda2fzcw_hpx8.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "173200382",
+          "name": "哇!我发现你啦!",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1562738",
+        "mallType": "TB",
+        "itemId": "17123179038",
+        "title": "Niran 328 Anna Rose Magic Makeup Tool Square Rose Mirror Comb Combination Portable Mirror Comb Set",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcmda9pk_cpv2.jpg",
+        "price": "¥3.90",
+        "toPrice": "$0.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "61305657",
+          "name": "凰图复古镜子梳子收纳盒镜梳网批发",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "71182",
+        "mallType": "TB",
+        "itemId": "719402356489",
+        "title": "vmagiccare Smooth Mother-Daughter Comb Magic Mother-Daughter Comb Straight Hair Anti Knot Curly Hair",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mn99b5_zy05.jpg",
+        "price": "¥19.90",
+        "toPrice": "$3.13",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67495",
+        "mallType": "TB",
+        "itemId": "714730748056",
+        "title": "Allsmile Long-Handled Shampoo Brush Silicone Hair Washing Tool Special for Scalp Massage Shampoo Comb",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlyk6b_voob.jpg",
+        "price": "¥20.57",
+        "toPrice": "$3.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "282866941",
+          "name": "Allsmile哎哟咪旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "57802",
+        "mallType": "TB",
+        "itemId": "754542025048",
+        "title": "[In Stock] 23FW woven logo belt brown jacquard canvas woven D-ring buckle barrage long belt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqbd6d_cjap.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "461440803",
+          "name": "Makeprogress3店",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "50625",
+        "mallType": "TB",
+        "itemId": "709244918161",
+        "title": "Cross-Border Dark Gothic Fate Control Your Destiny Rock Punk Symbol Palm Storage Tray Personalized Home Decor Ornament",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgyzb9_zr6g.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34702029",
+          "name": "rockbaby奇异杂货铺",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "48960",
+        "mallType": "WD",
+        "itemId": "6768653577",
+        "title": "Supersonic",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgfta9_qv2l.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "335237266",
+          "name": "Beschan",
+          "logo": "https://si.geilicdn.com/wdseller335237266-3ab4000001885ca1d8a10a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "47263",
+        "mallType": "T1688",
+        "itemId": "562944187377",
+        "title": "Ten piece set of combs, hair accessories, hair tools, beauty styling combs, dyed hair combs, exclusively for cross-border use",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mfmjj8_zt7l.jpg",
+        "price": "¥3.50",
+        "toPrice": "$0.55",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "41809",
+        "mallType": "T1688",
+        "itemId": "731013413153",
+        "title": "Shake anti-static fluffy hair girls special air cushion comb massage comb net red hair comb airbag comb two sets",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdayiv_vjyi.jpg",
+        "price": "¥15.80",
+        "toPrice": "$2.48",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26429",
+        "mallType": "TB",
+        "itemId": "695881190134",
+        "title": "Beauty Counter Gift Amber/Tortoiseshell/Shell Comb with Protective Case Carrying Case",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3niguft_vya6.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16651",
+        "mallType": "TB",
+        "itemId": "759851395264",
+        "title": "Hair Dryer Brush One Hair Blower Electric Hot Air Travel Blo",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nek82j_8k7h.jpg",
+        "price": "¥68.12",
+        "toPrice": "$10.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "412738201",
+          "name": "人生在于奋斗28",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146455302553884720",
+  "language": "en"
+}

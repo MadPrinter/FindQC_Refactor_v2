@@ -1,0 +1,639 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2451363",
+        "mallType": "WD",
+        "itemId": "7553484088",
+        "title": "mobile phone cases",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfwydkkb_0d2a.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1778498787",
+          "name": "LC-bro",
+          "logo": "https://si.geilicdn.com/wdseller1699496634-649c000001994e0096bc0a23038e_902_900.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 104,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3103307",
+        "mallType": "TB",
+        "itemId": "688815433746",
+        "title": "Suitable for iPhone 17 Pro Max High-End Fashion Brand Stone Island Apple 16 Pro Max Phone Case 15 Plus Personalized Black 11 European and American Trendy Full-Cover Silicone Soft Case Xr 14 Pro X Rxs8 Simple",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/4016875560/O1CN01wiyqVm1qwWulPzG7E_!!4016875560.jpg",
+        "price": "¥21.02",
+        "toPrice": "$3.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "220018014",
+          "name": "My潮壳",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1562604",
+        "mallType": "WD",
+        "itemId": "7486330995",
+        "title": "Suitable for Apple phone cases, phone protective cases, hard cases",
+        "picUrl": "https://si.geilicdn.com/open1789062813-1234478995-1bc60000019740205f000aa08290_1381_1381.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789062813",
+          "name": "泰坦studios",
+          "logo": "https://si.geilicdn.com/shopedit1950171421-397e0000019933f38db00a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1843571",
+        "mallType": "WD",
+        "itemId": "7437329302",
+        "title": "[1:1] Factory direct sales, you can see thousands of product",
+        "picUrl": "https://si.geilicdn.com/open1665755157-1234478995-1a1a00000195e290042b0a8115c2_800_800.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665755157",
+          "name": "Dandy",
+          "logo": "https://si.geilicdn.com/wdseller1892601044-213d00000196097a66560a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3212363",
+        "mallType": "T1688",
+        "itemId": "852686172950",
+        "title": "潮牌克罗心iPhone17promax手机壳苹果16双层彩银15跨境十字架硬壳",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vbziS82AnBMYWVrKA_!!2218570258247-0-cib.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218570258247",
+          "name": "东莞市凯仕捷科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206898",
+        "mallType": "T1688",
+        "itemId": "929083072494",
+        "title": "Magnetic Magsafe Chameleon Laser Case Suitable for iPhone 17, 15 Pro Max, 12, 14, 13, 11, 16 Imd",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01OCmFin23jKm3oHrEK_!!2211640047291-0-cib.jpg",
+        "price": "¥3.90",
+        "toPrice": "$0.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9-X56munSYobldRgJ8oTrg",
+          "name": "深圳市奕彩数码科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206765",
+        "mallType": "T1688",
+        "itemId": "959844737005",
+        "title": "潮牌标签石头岛十字星适用iPhone14/15/16ProMax手机壳苹果12/13P",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QJiuUq1YrLdRULvCp_!!2220382863112-0-cib.jpg",
+        "price": "¥15.98",
+        "toPrice": "$2.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByF6mJ3JDCRlKXZi_WwFiIQ",
+          "name": "深圳钛如贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "416",
+        "mallType": "TB",
+        "itemId": "657824769550",
+        "title": "Suitable for Apple 13 Liquid Silicone Phone Case, iPhone 13 Pro Matte Skin-Feel Four-Pack Liquid Protective Case",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mzdv88_bg4h.jpg",
+        "price": "¥5.73",
+        "toPrice": "$0.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104606577",
+          "name": "润翔数码1",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 566,
+        "qcVideoCnt": 43,
+        "picWidth": "1200",
+        "picHeight": "1600"
+      },
+      {
+        "id": "1261346",
+        "mallType": "T1688",
+        "itemId": "904529443984",
+        "title": "New Aluminum Alloy Apple/Black Luggage Case All-inclusive Mobile Phone Case Apple Apple 16promax/15/14",
+        "picUrl": "https://cdn.findqc.com/item/20250604/mbhbra9f_o451.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRk439QoI_xN_1Q_NSmg7JQ",
+          "name": "东莞市虎门梦善潮壳电子商行",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 531,
+        "qcVideoCnt": 18,
+        "picWidth": "1080",
+        "picHeight": "1080"
+      },
+      {
+        "id": "1539042",
+        "mallType": "T1688",
+        "itemId": "908467418486",
+        "title": "Suitable for Apple 17Promax Mobile Phone Case Iphone15 Protective Cover 16E Mobile Phone Case 16Pro Big Brand 13Mini",
+        "picUrl": "https://cdn.findqc.com/item/20250801/mdsy8oft_v61s.jpg",
+        "price": "¥7.58",
+        "toPrice": "$1.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoy4AetUeKogvjzHC_1bm1w",
+          "name": "深圳市龙华区合泰兴数码商行",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 520,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "3096730",
+        "mallType": "WD",
+        "itemId": "7576656199",
+        "title": "R*E*P*铝*镁*合*金*系*列*适*用*1*6*P*r*o*M*a*x*苹*果*手*机*壳*i*P*h*o*n*e",
+        "picUrl": "https://si.geilicdn.com/open1734448301-1234478995-2fe700000199fc46a2af0a23b491_1919_1919.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1734448301",
+          "name": "LONG  SHOP",
+          "logo": "https://si.geilicdn.com/shopedit1935286818-56c1000001954b0183b70a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3173490",
+        "mallType": "TB",
+        "itemId": "984099942376",
+        "title": "CASOSEFY Liu Yuning Lisa Charmaine Sheh's same FLOORS BLOOM Murakami Takashi phone case Apple 17 Promax Sunflower iPhone 16/15/14/13 anti drop 17 protective case\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2219453636169/O1CN01gw6PS71vRSQgkObeg_!!2219453636169.jpg",
+        "price": "¥30.08",
+        "toPrice": "$4.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "349302381",
+          "name": "CASE代购商店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2783278",
+        "mallType": "WD",
+        "itemId": "6655913814",
+        "title": "Exquisite Details Crocodile Pattern Magsafe Magnetic Back Adhesive Card Bag Delicate Leather Full Set Packaging!",
+        "picUrl": "https://si.geilicdn.com/wdseller1698883880-42140000018acd1034720a813470_1169_1465.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1797253750",
+          "name": "绿水Club",
+          "logo": "https://si.geilicdn.com/wdseller1698883880-4a0b0000018ace0949210a207569_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1110443",
+        "mallType": "T1688",
+        "itemId": "834062653225",
+        "title": "Suitable for Apple 14Promax Liquid Silicone Mobile Phone Case Magnetic Iphone14Pro Animation 14Magsafe Case",
+        "picUrl": "https://cdn.findqc.com/item/20250405/m93bscs3_pr7z.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBABiz1CW_IUEgrwTbnVoKMg",
+          "name": "深圳市赢达利贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 127,
+        "qcVideoCnt": 11,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "3173504",
+        "mallType": "TB",
+        "itemId": "740804804533",
+        "title": "Suitable for iPhone Apple 17 Air Black Frame 16 Pro Max Acrylic Magsafe Magnetic 14 Plus Phone Case 13 One Piece 15 Protective Case 11 Justice 12 Luffy One Piece",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/298651140/O1CN01GPEPoD1KIAcJ4N1kS_!!298651140.jpg",
+        "price": "¥37.59",
+        "toPrice": "$5.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106462655",
+          "name": "乐美汇数码",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3202101",
+        "mallType": "T1688",
+        "itemId": "819729803208",
+        "title": "Ins Light Luxury Style Dog Elegant 17Promax Phone Case 15Promax Glass 14 Apple 15 Niche 14Pro Personalized",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fjWblv1RPgQ0HzibQ_!!2211437882104-0-cib.jpg",
+        "price": "¥11.00",
+        "toPrice": "$1.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4bMESgd6WDfkDRlZAscMmA",
+          "name": "深圳市桃心电子有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 163,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2636528",
+        "mallType": "T1688",
+        "itemId": "682383844227",
+        "title": "Suitable for New Iphone17 Mobile Phone Case 16Pro Apple Transparent Space Case Thickeneded Silicone Tpu Anti-Fall Soft Case",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01phnYvO2DCwe5hqTjc_!!2212500948574-0-cib.jpg",
+        "price": "¥1.28",
+        "toPrice": "$0.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEN48kmqByKG8NbzW8uxYyw",
+          "name": "深圳市爱康实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3153842",
+        "mallType": "T1688",
+        "itemId": "893121915629",
+        "title": "Suitable for iPhone16 phone case Apple 15PC12Promax13 cross-border 11 color silver IMD14 tide stone island 7",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tPYMF31yJA2XlNdUh_!!2219417646557-0-cib.jpg",
+        "price": "¥3.50",
+        "toPrice": "$0.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnPsr3urjGmoln0XJpkyCKw",
+          "name": "深圳歆视界网络科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2675418",
+        "mallType": "T1688",
+        "itemId": "855302648964",
+        "title": "For Apple iPhone14plus15 Fashion Brand 13 Acrylic 16promax Shirt Bear Polo Phone Case",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1muns7_2y03.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbDxkBvhzyUDU21o1mblONg",
+          "name": "高密市耐壳模具商行",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "11971",
+        "mallType": "T1688",
+        "itemId": "598600265221",
+        "title": "iPhone15promax for Apple 12pro Phone Case 14pro Protective Cover 16 Fashion Brand 13/XR",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbuex8_xgw8.jpg",
+        "price": "¥8.50",
+        "toPrice": "$1.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7G55SXBe0JuZBtvPcA33sw",
+          "name": "深圳市福田区永诚发通信科技商行",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146525261914137162",
+  "language": "en"
+}

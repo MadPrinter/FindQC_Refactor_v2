@@ -1,0 +1,638 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "264276",
+        "mallType": "T1688",
+        "itemId": "748299101403",
+        "title": "Autumn and winter R letter jacquard wool cap thickened large version flanging men's and women's all-match warm cap bird cold cap ~",
+        "picUrl": "https://cdn.findqc.com/item/20241130/m42xvf8u_g4bh.jpg",
+        "price": "¥19.00",
+        "toPrice": "$2.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBH9y8JUJS3GUrD9ZzS7C0fg",
+          "name": "义乌市呈圆电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 621,
+        "qcVideoCnt": 55,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "2410590",
+        "mallType": "T1688",
+        "itemId": "921358141984",
+        "title": "Autumn and Winter New Woolen Hats for Men and Women, Knitted Hats, Embroidered Hats, Trendy Cold Hats, Pullover Hats",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013s03Xb1EWT5vRO83U_!!2216561520359-0-cib.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfHWMV7fxMWfc8_6_UV24wg",
+          "name": "佛山市南海区元名莱服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2125565",
+        "mallType": "T1688",
+        "itemId": "921830268126",
+        "title": "23Sschrome Hearts Sanskrit Knitted Beanie 23 New Hats",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hwQyzC1Wn6X5LwM7Q_!!3931652832-0-cib.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfHWMV7fxMWfc8_6_UV24wg",
+          "name": "佛山市南海区元名莱服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "734274",
+        "mallType": "T1688",
+        "itemId": "846200285340",
+        "title": "Adult Autumn and Winter Simple Embroidery Knitted Hat Casual All-match Wool Hat for Men and Women Warm Ear Protection Hat for Foreign Trade",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgov28np_taot.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4R9HAglVWI6I814DSihIpg",
+          "name": "义乌市麦帽子电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 545,
+        "qcVideoCnt": 12
+      },
+      {
+        "id": "437166",
+        "mallType": "T1688",
+        "itemId": "688295303415",
+        "title": "Winter Hat Knitted European and American Fashion Woolen Hat with Large Brim Workwear Casual Warm Hat Pullover Cold Hat Ear Protection Against the Cold",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SY6qy325yZCxjZa4n_!!2214850517595-0-cib.jpg",
+        "price": "¥14.90",
+        "toPrice": "$2.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmu2VtrdaUQcsu2nazOODcQ",
+          "name": "广州亿盛帽业商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2540134",
+        "mallType": "WD",
+        "itemId": "7545273716",
+        "title": "New black embroidery C autumn and winter brimless small hat winter hat cold hat\n",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgm9d04s_1anv.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "321397970",
+          "name": "Reps",
+          "logo": "https://si.geilicdn.com/wdseller321397970-3db700000195164ecc260a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2883165",
+        "mallType": "WD",
+        "itemId": "7393105691",
+        "title": "Autumn and winter new warm wool cap European version of the tide of men and women knitted cap wrapped head ear protection cap outdoor windproof cold hat",
+        "picUrl": "https://si.geilicdn.com/weidian1796390085-15ea0000018dfe0e4e4d0a2102d0_966_966.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1814595117",
+          "name": "chrome",
+          "logo": "https://si.geilicdn.com/weidian1933202163-0c3b00000196b2d4456f0a23038e_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2983695",
+        "mallType": "WD",
+        "itemId": "7583243016",
+        "title": "LOU cap-P",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-2ac200000194cc2ab5190a2102c5_640_640.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1833307187",
+          "name": "TH3",
+          "logo": "https://si.geilicdn.com/shopedit2003470895-1e340000019a062389ec0a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2032621",
+        "mallType": "T1688",
+        "itemId": "955325709500",
+        "title": "勾勾帽子男女百搭棒球帽软顶秋冬款遮阳防晒帽显脸小大头围鸭舌帽",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vd5b2n1nfBLcrtTPn_!!2220334625116-0-cib.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-EtQfpV34JlPsr0s6uG5Ig",
+          "name": "广州春纷服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "221292",
+        "mallType": "WD",
+        "itemId": "7279101719",
+        "title": "Hundreds of fashion trend hat 3 (non-quality problems do not support no reason to return)",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3qanjep_k3o4.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794872805",
+          "name": "AQ",
+          "logo": "https://si.geilicdn.com/shopedit1891333630-564600000191ee5c7c4b0a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843384",
+        "mallType": "T1688",
+        "itemId": "903759284506",
+        "title": "New ball wool cap winter thickened outdoor warm knitted cap winter fashionable versatile leisure warm cap wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AgBT6l2K4t6rSUWpi_!!2216685779504-0-cib.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219559249166",
+          "name": "义乌市季布电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2734484",
+        "mallType": "WD",
+        "itemId": "7516636383",
+        "title": "GUCCI Double G Series GG Pattern Printed Exquisite and Beautiful Cotton Baseball Hat",
+        "picUrl": "https://si.geilicdn.com/wdseller901973009304-3c9d000001985647b4400a23041a_1320_990.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867887049",
+          "name": "OG WAVE",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2130027",
+        "mallType": "WD",
+        "itemId": "7518573766",
+        "title": "GUCCI Double G print baseball cap men's black",
+        "picUrl": "https://si.geilicdn.com/wdseller901973009304-372300000198564453c40a2303ee_1320_990.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867887049",
+          "name": "OG WAVE",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2140871",
+        "mallType": "T1688",
+        "itemId": "950684486312",
+        "title": "2025 New Trendy Brand Same Style Xts Knitted Wool Plush Characteristic Fashion Hat Y2K Knitted Hat",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mgzy4e7z_0kvk.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxfCJzp9vlgvJOfm5hO7nRg",
+          "name": "深圳市博利奥电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 7
+      },
+      {
+        "id": "476359",
+        "mallType": "TB",
+        "itemId": "752952689468",
+        "title": "CRTZ CORTIEZ Thick rope staff cold cap bunnie hand sewn",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/65389438/O1CN01LKHH4Q2JaeyLvYhaW_!!65389438.jpg",
+        "price": "¥56.52",
+        "toPrice": "$8.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "545473275",
+          "name": "highstreet socks",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2060261",
+        "mallType": "T1688",
+        "itemId": "944477146529",
+        "title": "High-End Version F Fashion Presbyopic Flat-Brim Baseball Cap Unisex Trendy Fashion Large Brim Hat Casual Duckbill Cap",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cXZKcz1xB5TMkTpd9_!!2216651276404-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYs_FAy7adJdJLMRmaXd4UQ",
+          "name": "义乌市堇宸制帽厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1280904",
+        "mallType": "T1688",
+        "itemId": "838369741076",
+        "title": "2024 Explosions City Fully Closed Flat Cap Lakers Non-adjustable Baseball Cap Travel Windproof Sunscreen Casual Cap",
+        "picUrl": "https://cdn.findqc.com/item/20250819/meikqihc_93l0.jpg",
+        "price": "¥16.50",
+        "toPrice": "$2.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIRAy4f-w-Y6ujj5c7PVMQ",
+          "name": "义乌市牛轰帽业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 2,
+        "picWidth": "772",
+        "picHeight": "772"
+      },
+      {
+        "id": "1889280",
+        "mallType": "T1688",
+        "itemId": "903335368449",
+        "title": "Cross-border American NY.SOX.LA fully enclosed baseball team Dodge baseball hat embroidered hip hop closed flat hat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01S4keGs1jdZScyRX4a_!!2219201904571-0-cib.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIrFj37ga4-RsfUj0oA-Agg",
+          "name": "莆田市荔城区黄石镇陈珍武百货零售超市",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3095134",
+        "mallType": "TB",
+        "itemId": "848094922713",
+        "title": "American Trendy Brand Corteiz Mask Alcatraz Mask ins High Street Unisex Street Pullover Hat for Autumn and Winter",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1758909839/O1CN01ceXtgv2MYJtZhSbTc_!!1758909839.jpg",
+        "price": "¥22.25",
+        "toPrice": "$3.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106546547",
+          "name": "海外小众设计师",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3107872",
+        "mallType": "T1688",
+        "itemId": "983205047541",
+        "title": "高端版本时尚经典刺绣墨镜一体棒球帽大帽围男女同款鸭舌帽遮阳帽",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01A3w5xv2Gdv8NWhMcs_!!2216866849039-0-cib.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216866849039",
+          "name": "广州振宝服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114730854194364967",
+  "language": "en"
+}

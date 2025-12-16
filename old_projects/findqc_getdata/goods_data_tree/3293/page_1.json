@@ -1,0 +1,624 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2160979",
+        "mallType": "T1688",
+        "itemId": "950254793548",
+        "title": "Large dog tooth card bag work card meal card card holder lanyard neck card bag ID bag student card wallet female applicable",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PDKfxw1lUzIT3jZbr_!!2219319104823-0-cib.jpg",
+        "price": "¥20.80",
+        "toPrice": "$3.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219319104823",
+          "name": "广州峰曜皮具商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 339,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1525342",
+        "mallType": "T1688",
+        "itemId": "915747951931",
+        "title": "Big Brand Card Holder, Card Insert, Work Id Card Holder, Lanyard, Halter Card Holder, Id Bag, Student Id Card Wallet, Suitable for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250725/mdi2w16j_62sj.jpg",
+        "price": "¥24.80",
+        "toPrice": "$3.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYyzTDO-gyUAqlfILbD2Asw",
+          "name": "深圳市宝安区易顺希数码店",
+          "type": "T1688"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 552,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "3135118",
+        "mallType": "T1688",
+        "itemId": "867311199098",
+        "title": "Embroidered Magnetic Phone Card Holder with Horse Head Design, Magnetic Back Sticker Suitable for iPhone 17, 14, Stylish 13 Invisible Magnetic Card Holder",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ACRscM1npG0b4GcII_!!2214926515138-0-cib.jpg",
+        "price": "¥24.80",
+        "toPrice": "$3.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYmPj4FHakmkididFfTNb8Q",
+          "name": "深圳市上疆模塑科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3041694",
+        "mallType": "WD",
+        "itemId": "7582738265",
+        "title": "Big card holder, card holder, work ID card clip, hanging rope, neck card holder, ID card holder, student ID card holder, wallet, suitable for both men and women",
+        "picUrl": "https://si.geilicdn.com/open1780109907-1780109907-4f080000019a1925022f0a231226_800_800.jpg",
+        "price": "¥39.80",
+        "toPrice": "$6.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780109907",
+          "name": "LunaTrade",
+          "logo": "https://si.geilicdn.com/shopedit1999873750-6f7d00000199e6dc040f0a8134f0-unadjust_800_600.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2715442",
+        "mallType": "T1688",
+        "itemId": "954818277246",
+        "title": "2025 European and American Cross-Border Spot Supply Macaron Color Pu Leather Small Wallet Women's Id Pula Work Card Trend",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01f9gC4u1tohGqTZ2ZS_!!2217283785949-0-cib.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaAYCPt3Mt9ONO1r-REZOBg",
+          "name": "深圳市龙岗区潮酷科技商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 90,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1706742",
+        "mallType": "TB",
+        "itemId": "927107823724",
+        "title": "Europe and the United States tide work card card holder men and women models work card access card ID card bank card protection set crossbody neck",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2581633584/O1CN01GAPzkp1cLWYd8fYrR_!!2581633584.jpg",
+        "price": "¥42.80",
+        "toPrice": "$6.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "374823071",
+          "name": "d[s374823071]",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1511947",
+        "mallType": "T1688",
+        "itemId": "927872641982",
+        "title": "Big card bag insert card work ID card holder lanyard neck dog teeth ID bag student ID wallet men and women applicable",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000002944/O1CN01dkS1ir1XcP3a7yTFL_!!6000000002944-0-tbvideo.jpg",
+        "price": "¥20.80",
+        "toPrice": "$3.27",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 498,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1853899",
+        "mallType": "TB",
+        "itemId": "952195112550",
+        "title": "高级感十字纹证件工牌卡套工作证收纳挂脖多卡位门禁卡插卡包挂绳",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/168205245/O1CN01t8uZL01ocGRDsaG6N_!!168205245.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107446177",
+          "name": "时髦果壳",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2161048",
+        "mallType": "T1688",
+        "itemId": "952733766020",
+        "title": "Card Holder Lanyard Tide Card Work Card Work Plate Work ID Student ID Lanyard Card Insert Card Big Card Case",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01li7BAK1jtbLxwGrO7_!!2220224584606-0-cib.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220224584606",
+          "name": "深圳市源头达人皮具有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1665122",
+        "mallType": "TB",
+        "itemId": "894373525311",
+        "title": "American tide dog teeth printing leather work permit lanyard work card card holder ID card bus card access card neck",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/168205245/O1CN01kl57C81ocGP1JWN8l_!!168205245.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107446177",
+          "name": "时髦果壳",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1314614",
+        "mallType": "TB",
+        "itemId": "898931759015",
+        "title": "Europe and the United States plaid hang tag work permit neck work permit access card holder leather crossbody lanyard documents multi-card position men and women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/168205245/O1CN01NE9amn1ocGQI8T9sg_!!168205245.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107446177",
+          "name": "时髦果壳",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1968271",
+        "mallType": "TB",
+        "itemId": "936892404234",
+        "title": "欧美潮牌徽标皮质工作证工牌挂脖套身份证银行卡门禁交通卡套男女",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2402704207/O1CN011OA9FK1gwrJLvOS6O_!!2402704207.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117113726",
+          "name": "新世觉潮壳店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1468389",
+        "mallType": "T1688",
+        "itemId": "917037180910",
+        "title": "Big Brand Card Holder, Card Insert, Work Id Card Holder, Lanyard, Halter Card Holder, Id Bag, Student Id Card Wallet, Suitable for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019TpcVA1WoTthIcA0d_!!2216228862835-0-cib.jpg",
+        "price": "¥24.90",
+        "toPrice": "$3.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB2CB8o3eeI2NWb_iksBJoEQ",
+          "name": "深圳市宝安区希诺数码商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 480,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1965322",
+        "mallType": "TB",
+        "itemId": "898840807726",
+        "title": "Large dog teeth work permit card holder ID card holder lanyard neck card bag ID bag student ID card men and women applicable",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1877384966/O1CN014sfG2A1mYTu3q1oD7_!!1877384966.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107344676",
+          "name": "M8 手机壳",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2102346",
+        "mallType": "T1688",
+        "itemId": "898890382927",
+        "title": "Big brand dog tooth card bag, work card clip, hanging rope, neck card bag, ID bag, student ID card, wallet, suitable for women's meal card",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZP3nWl1eIR6MzRkP2_!!2213996663848-0-cib.jpg",
+        "price": "¥20.80",
+        "toPrice": "$3.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoy4AetUeKogvjzHC_1bm1w",
+          "name": "深圳市龙华区合泰兴数码商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1735882",
+        "mallType": "T1688",
+        "itemId": "940198444552",
+        "title": "Trendy Card Holder with Card Slot for Work Id, Lanyard Neck Card Holder, Id Bag, Student Id Wallet for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NaYqZl2JQaREzuZ6S_!!2216785309416-0-cib.jpg",
+        "price": "¥18.80",
+        "toPrice": "$2.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9WeTSv29hyhsq4LTvb0iOg",
+          "name": "佛山市豪富静贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 498,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1735879",
+        "mallType": "T1688",
+        "itemId": "937499740602",
+        "title": "European and American Big-Name Hanging Neck Card Holder Work Card Holder Card Holder Long Lanyard Ins Style Export Card Holder Bank Card Holder",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010UiCJC1LWeiltsMMt_!!2281081307-0-cib.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBLRU07BFt8AwZOuMOqbIGQ",
+          "name": "深圳艾博卓盈科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 165,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1535306",
+        "mallType": "TB",
+        "itemId": "921899392255",
+        "title": "Trendy dog tooth work permit card set identity card bank card bus card access control card anti-loss card slung neck rope",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1103910347/O1CN01iUooSe1EQyUGyLBeH_!!1103910347.jpg",
+        "price": "¥26.80",
+        "toPrice": "$4.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104046240",
+          "name": "小公主工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 258,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1879573",
+        "mallType": "T1688",
+        "itemId": "932095948460",
+        "title": "New card holder fashionable removable chain card case hot sale work permit card case card holder card case spot wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CP4fQz2MzniNojV1A_!!2218622639899-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218622639899",
+          "name": "东莞市东城金景电子商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 258,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2045610",
+        "mallType": "TB",
+        "itemId": "916107134316",
+        "title": "Big card bag insert card work card holder lanyard neck card bag ID card bag student card wallet men and women applicable",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2581633584/O1CN01basaxq1cLWYCId4PE_!!2581633584.jpg",
+        "price": "¥42.80",
+        "toPrice": "$6.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "374823071",
+          "name": "d[s374823071]",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140514861911101111",
+  "language": "en"
+}

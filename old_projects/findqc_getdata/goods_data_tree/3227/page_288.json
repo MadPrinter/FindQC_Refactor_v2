@@ -1,0 +1,356 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "617328",
+        "mallType": "WD",
+        "itemId": "6155641976",
+        "title": "B Letter Logo Print Short Sleeve",
+        "picUrl": "https://si.geilicdn.com/pcitem901674870357-6f060000018a673695c70a2104c1-unadjust_537_666.png",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "167171804",
+          "name": "666factory",
+          "logo": "https://si.geilicdn.com/forward167171804-0221000001675af23cd10a02853e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2785156",
+        "mallType": "T1688",
+        "itemId": "937611347091",
+        "title": "Summer Men's Fashion T-shirt Top Luxury Brand Letter Print",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fpVOfW2IhFCxW4Epu_!!2218681079317-0-cib.jpg",
+        "price": "¥20.90",
+        "toPrice": "$3.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218681079317",
+          "name": "东莞市横沥漫彩服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2600576",
+        "mallType": "WD",
+        "itemId": "7496882395",
+        "title": "Ra*lph La*uren City Series Po*lo",
+        "picUrl": "https://si.geilicdn.com/open1684802429-1234478995-35dc00000197a70ae86a0aa0c791_862_916.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684802429",
+          "name": "speed",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2047792",
+        "mallType": "T1688",
+        "itemId": "709517080402",
+        "title": "FOG Repeat Line Season 8 ESSENTIALS Back Flocking Print Short Sleeve High Street Tide Loose Casual T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ypKjY91bqNOPCCVw7_!!2215684903516-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215684903516",
+          "name": "象山华红服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1873276",
+        "mallType": "T1688",
+        "itemId": "809463782586",
+        "title": "Cross-border foreign trade exclusively for cartoon Neptune MIXED EMOTION diamond octopus Patrick animation letters for men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TV2POQ21KwShiiuWz_!!2208483206967-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208483206967",
+          "name": "广州永耀服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1872607",
+        "mallType": "T1688",
+        "itemId": "909531254366",
+        "title": "American tide SYNA WORLD short sleeve men's and women's suits Drill wind high street hip hop ins summer casual shorts",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01K6r3dV1heMvFlhgYg_!!2218266314302-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218266314302",
+          "name": "广州潮疯街国际贸易商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 85,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1156363",
+        "mallType": "T1688",
+        "itemId": "901933462654",
+        "title": "Summer new cotton short-sleeved tide printed on the hook t-shirt men and women with the same couple loose sports and leisure T-shirts",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000000499/O1CN017fyKuS1FYafWxbJ6W_!!6000000000499-0-tbvideo.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2413893",
+        "mallType": "T1688",
+        "itemId": "883414847842",
+        "title": "Cross-border GALLERY DEPTFOG high street tide retro colorful loose couple short sleeve T-shirt men's half-sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mvqBSz1Fwrey9eTNW_!!2215489100552-0-cib.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215489100552",
+          "name": "汕头市澄海区颂邦服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2229953",
+        "mallType": "T1688",
+        "itemId": "910433003391",
+        "title": "Cross-border supply correct version of Canada E home solid color t-shirt tide simple embroidery badge short sleeve sleeve label men and women universal",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01MM64iP1JwBYJZnPun_!!2218201461092-0-cib.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218201461092",
+          "name": "广州小潮六服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 136,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2047362",
+        "mallType": "TB",
+        "itemId": "669375256144",
+        "title": "GA Short Sleeve Pure White Black Letter LOGO Simple T",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2212732435105/O1CN01fvGfkm1na8eyg6wYT_!!2212732435105.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "411308624",
+          "name": "tb6034025635的小店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 53,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2047337",
+        "mallType": "WD",
+        "itemId": "7380297567",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1831762514-252808396-4ee40000019359426f3d0a8115b5_952_1024.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1628294393",
+          "name": "LLL",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-41c30000018f93b4a0620a22d172-unadjust_604_604.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2046039",
+        "mallType": "T1688",
+        "itemId": "770719990109",
+        "title": "20SS Naomi Tee female model girl woman printing short-sleeved T-shirt cotton round neck bottoming shirt men's and women's models",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NxAZk71SBlq4cFiYR_!!3329672209-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3329672209",
+          "name": "深圳市宝安区狼道原创服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1872033",
+        "mallType": "T1688",
+        "itemId": "945471931183",
+        "title": "New Embroidered Cotton Short-Sleeved Summer Casual Sports Loose Round-Neck Large Size Embroidered Half-Sleeve T-Shirt Solid Color for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Gt3ZJd1sb7wWJRKgx_!!2220041405784-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBE1jsYQ7hjzxlxrpulsOrHA",
+          "name": "栖霞区诺柒服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 55,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1871945",
+        "mallType": "T1688",
+        "itemId": "897970997034",
+        "title": "2025 New Summer Couple Short Sleeve Versatile Badge Embroidered Letter Men's and Women's Comfortable Breathable Casual Round Neck T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eyriWy1aQtxOmkgoz_!!2218657813325-0-cib.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_pZp804al8ujrgFs0mTDUQ",
+          "name": "佛山市禅城区沨耘服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1871889",
+        "mallType": "T1688",
+        "itemId": "826555955317",
+        "title": "Verified VLONE FOG big V short sleeve Chinese Loong limited Fujiwara Haowang Yibo same fashion brand men's loose T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FzSMhw24SfqVHPOdx_!!2215632767390-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAX-JC3XJI3SNjfREoGmw6g",
+          "name": "铅山县世辉家贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1690009",
+        "mallType": "TB",
+        "itemId": "894613709530",
+        "title": "Drill style Syna World letter print summer men's and women's fashion casual versatile pure cotton short sleeved T-shirt trend",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1034922469/O1CN013GqDE91U6qvLJvj4v_!!1034922469.jpg",
+        "price": "¥54.00",
+        "toPrice": "$8.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103318446",
+          "name": "FFCP Studios",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1689674",
+        "mallType": "WD",
+        "itemId": "7450826726",
+        "title": "Versatile fashion short-sleeved T-shirt",
+        "picUrl": "https://si.geilicdn.com/open1806724293-1234478995-2b0400000196494099890aa0834c_1920_1920.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1806724293",
+          "name": "Lucky Life",
+          "logo": "https://si.geilicdn.com/weidian1877316552-0ac8000001936cb6f50b0a2301b4_1056_1056.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1510337",
+        "mallType": "T1688",
+        "itemId": "863513524190",
+        "title": "1688 clothing wholesale summer foreign trade men's short sleeved loose casual men's T-shirts running in the rivers and lakes, setting up stalls and sourcing goods",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XNvacz1Bs31Fxbj1j_!!0-0-cib.jpg",
+        "price": "¥2.90",
+        "toPrice": "$0.46",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "968868",
+        "mallType": "T1688",
+        "itemId": "782899544644",
+        "title": "Japanese tide t-shirt Kawaguchi play heart cotton short-sleeved embroidered small red heart men and women couples parent-child clothing Pauling",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01G8pq7n1WEIVJv8Lzd_!!2217746612756-0-cib.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "968869",
+        "mallType": "T1688",
+        "itemId": "767956868940",
+        "title": "Japanese tide t-shirt Kawaguchi play heart cotton short-sleeved embroidered small red heart men and women couples parent-child clothing Pauling",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000006184/O1CN01Au2JJC1vYKBkqlT6e_!!6000000006184-0-tbvideo.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144267131917130121",
+  "language": "en"
+}

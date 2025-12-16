@@ -1,0 +1,384 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2761189",
+        "mallType": "TB",
+        "itemId": "735379805017",
+        "title": "Atmega328P Microcontroller Development Board Is Compatible with the Expert Improved Version Motherboard Kit of Arduino Uno R3",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2212874682362/O1CN01WXo8zN1TJqNYPgbPn_!!2212874682362.jpg",
+        "price": "¥23.67",
+        "toPrice": "$3.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "309075811",
+          "name": "京源智能创客基地",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2195314",
+        "mallType": "TB",
+        "itemId": "694252058465",
+        "title": "Near Field Communication Module RC522RFID RFID IC Card Induction Module Card Reader Bidirectional Data Transmission",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2201492025661/O1CN01TX248r1rgn3BGXSfb_!!0-item_pic.jpg",
+        "price": "¥4.89",
+        "toPrice": "$0.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "527772216",
+          "name": "欣薇旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "907293",
+        "mallType": "T1688",
+        "itemId": "756511048681",
+        "title": "Carplay box to Android 11 system lossless upgrade Qualcomm 2290 UX999Simple 2G+16G",
+        "picUrl": "https://cdn.findqc.com/item/20250228/m7oa2i7c_94xv.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "694299",
+        "mallType": "TB",
+        "itemId": "689066974556",
+        "title": "Raspberry Pi Pico2 Development Board RP2350 Microcontroller Raspberry Pi Pico2 RP2040 Typec",
+        "picUrl": "https://cdn.findqc.com/item/20250202/m6mqws8v_snl3.jpg",
+        "price": "¥15.80",
+        "toPrice": "$2.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "505497901",
+          "name": "无名科技Nologo",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "522283",
+        "mallType": "T1688",
+        "itemId": "752246830077",
+        "title": "Promicro NRF52840 Development Board Wireless Bluetooth Module Bluetooth MESH 2.4GHz Protocol",
+        "picUrl": "https://cdn.findqc.com/item/20250117/m60r81at_bw9k.jpg",
+        "price": "¥13.31",
+        "toPrice": "$2.09",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "279281",
+        "mallType": "TB",
+        "itemId": "729260528560",
+        "title": "Promicro NRF52840 development board compatible with nice! Nano V2.0 with Bluetooth charging management",
+        "picUrl": "https://cdn.findqc.com/item/20241201/m45a00ua_kguk.jpg",
+        "price": "¥31.80",
+        "toPrice": "$5.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "505497901",
+          "name": "无名科技Nologo",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "12164",
+        "mallType": "TB",
+        "itemId": "624811420777",
+        "title": "Ch341A/B Programmer No-Disassembly Test Clip Sop8/16Bios Programming Cable Ic Test Cable Chip Programming Socket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbwkvz_s0ag.jpg",
+        "price": "¥4.98",
+        "toPrice": "$0.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "492161994",
+          "name": "touglesy旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147248742553914102",
+  "language": "en"
+}

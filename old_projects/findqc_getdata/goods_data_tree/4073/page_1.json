@@ -1,0 +1,622 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3184281",
+        "mallType": "T1688",
+        "itemId": "982966583885",
+        "title": "Wholesale EVA basketball mirror box, outdoor sports glasses, cycling glasses, black zipper bag, can be hung in a large box\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hArzMn1bzXRfBu6Lq_!!2212782963536-0-cib.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBclSIx0fKrrm4S0lYvCrwvQ",
+          "name": "广州市锦狮户外用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1573522",
+        "mallType": "T1688",
+        "itemId": "942825950822",
+        "title": "Europe and the United States cross-border sunglasses men and women TR retro oval round frame outdoor riding driving sunglasses minute",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01prbSCk1ThCm178SIN_!!2207567512413-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1482489",
+        "mallType": "T1688",
+        "itemId": "922447086023",
+        "title": "New Outdoor Sports Cycling Sunglasses for Men and Women, Trendy Retro Travel Driving Sunglasses 9437B",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YAWGFj1bzXVw26qwx_!!2212782963536-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB2Ps1IZJ7JWn6a22y0s2RyQ",
+          "name": "1688小店进货官方供应链",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2042525",
+        "mallType": "T1688",
+        "itemId": "908300155484",
+        "title": "Oakley OO9096 O Remember FUEL CELL Casual Outdoor Sports Goggles High-value Fashion Sunglasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01I1XUzU22hfi3OUY9Y_!!2219588717152-0-cib.jpg",
+        "price": "¥87.77",
+        "toPrice": "$13.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219588717152",
+          "name": "河东区凡曙贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "10581",
+        "mallType": "T1688",
+        "itemId": "773335912208",
+        "title": "PIT VIPER cross-border windproof riding glasses colorful coated sunglasses wholesale sports outdoor men's and women's sunglasses",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mb9zhq_xt5b.jpg",
+        "price": "¥10.50",
+        "toPrice": "$1.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYAIwuuT-FgDEPHJFsB-icg",
+          "name": "台州市雷蛇眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 376,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "1117",
+        "mallType": "TB",
+        "itemId": "645767881385",
+        "title": "New European and American Irregular Small-Frame Sunglasses 4361 European and American Trendy Anti-Uv Sunglasses Cross-Border Fashion",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3n8rzd5_d38f.jpg",
+        "price": "¥28.50",
+        "toPrice": "$4.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "215500341",
+          "name": "玉兰品衣服饰",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 159,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3064247",
+        "mallType": "T1688",
+        "itemId": "803134605986",
+        "title": "新款户外运动骑行防风遮阳太阳眼镜男女欧美炫彩墨镜机车大框显瘦",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gxQDLB1pYQczmBhj7_!!2217957265372-0-cib.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217957265372",
+          "name": "台州市椒江港丽眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3041197",
+        "mallType": "T1688",
+        "itemId": "706883546573",
+        "title": "Cross-border new men's polarized sunglasses outdoor leisure sports glasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pypNAe1bzXJ8pcYZR_!!2212782963536-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBclSIx0fKrrm4S0lYvCrwvQ",
+          "name": "广州市锦狮户外用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2013734",
+        "mallType": "T1688",
+        "itemId": "828621600128",
+        "title": "European and American new sports style sunglasses, female alien hollow glasses, Y2K trendy internet celebrity street photography, cycling sunglasses, male",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Hx6HkQ25rElfW9Isz_!!2217596577579-0-cib.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPTpNe_ibR3jvejRLpsBMHg",
+          "name": "台州市椒江博朗电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "426348",
+        "mallType": "WD",
+        "itemId": "7341020263",
+        "title": "P Goggles A",
+        "picUrl": "https://si.geilicdn.com/open1637992565-1234478995-3327000001941ccac70e0a22d234_690_690.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637992565",
+          "name": "Tuma",
+          "logo": "https://si.geilicdn.com/shopedit1911536218-0b7000000193d4b442250a23111a-unadjust_330_330.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1596892",
+        "mallType": "T1688",
+        "itemId": "911308723741",
+        "title": "Cycling Eyewear Oakley Sunglasses tr90 Running Sports Anti Glare Polarized Sunglasses",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000000686/O1CN015Wm17M1GwEkY8XTuC_!!6000000000686-0-tbvideo.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219642803431",
+          "name": "上海言绎迅贸易中心（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1556883",
+        "mallType": "T1688",
+        "itemId": "859657545284",
+        "title": "Cross-border outdoor windproof cycling glasses fashion dazzle color running sunscreen sunglasses bike large frame sports sunglasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01t5otJD1bzXVNelk9O_!!2212782963536-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2117226",
+        "mallType": "WD",
+        "itemId": "7387444276",
+        "title": "16A12-1c-1",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-367a00000194cc9d41dc0a20e2c5_690_690.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2235449",
+        "mallType": "WD",
+        "itemId": "7513665011",
+        "title": "Cycling Sports Sunglasses Cycling Driving UV Protection - MLMLSPTS0707",
+        "picUrl": "https://si.geilicdn.com/open1326912390-1234478995-65170000019840f36b630a23b491_800_800.jpg",
+        "price": "¥19.00",
+        "toPrice": "$2.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1326912390",
+          "name": "Kung-Fu",
+          "logo": "https://si.geilicdn.com/shopedit1326912390-465c000001922657a18d0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1675814",
+        "mallType": "T1688",
+        "itemId": "866766092286",
+        "title": "053 new Europe and the United States and the United States women and men fashion sports wind riding protection sunglasses large frame connected piece night vision goggles",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000005818/O1CN01FjBnU91sqhAvU5DWq_!!6000000005818-0-tbvideo.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216092886503",
+          "name": "台州市希年眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1481365",
+        "mallType": "WD",
+        "itemId": "7470538206",
+        "title": "Half frame sports, outdoor cycling, skiing, windproof sunglasses, sunglasses",
+        "picUrl": "https://si.geilicdn.com/wdseller1945831993-4b4400000196d930c6ae0a210256_1074_1074.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1862121501",
+          "name": "Calorie bomb",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2140131",
+        "mallType": "T1688",
+        "itemId": "632405479198",
+        "title": "Wholesale Cycling Glasses Outdoor Glasses Sports Men's Sunglasses Bicycle New Sunglasses 9270 Sunglasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017UtCiG1HYFU7rOl1q_!!3905630769-0-cib.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4-5ScvZlG_OJDPVZDtUzMQ",
+          "name": "临海市德锐思眼镜商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1972920",
+        "mallType": "T1688",
+        "itemId": "896279514688",
+        "title": "Stranger quality 2140 cross-border e-commerce foreign trade models retro rice nail sunglasses European and American women sunglasses men 6028",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018jQkbI1P5rzrnc55U_!!2215397301790-0-cib.jpg",
+        "price": "¥1.50",
+        "toPrice": "$0.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215397301790",
+          "name": "临海凯峰眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2071569",
+        "mallType": "T1688",
+        "itemId": "652968965073",
+        "title": "KDEAM new square outdoor polarized sunglasses European and American men and women sports colorful trend sunglasses KD332",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01M9I1RU1NvVEBQ5ifQ_!!3221661632-0-cib.jpg",
+        "price": "¥19.00",
+        "toPrice": "$2.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3221661632",
+          "name": "深圳市宝安区西乡朗乐眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1963926",
+        "mallType": "T1688",
+        "itemId": "707124283384",
+        "title": "Cross-border cycling glasses windproof polarized color-changing sports glasses men women outdoor dustproof full frame sunglasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gWuFfo1bzXWl9y2W5_!!2212782963536-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212782963536",
+          "name": "广州市锦狮户外用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021144547001924852781",
+  "language": "en"
+}

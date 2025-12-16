@@ -1,0 +1,615 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2579198",
+        "mallType": "WD",
+        "itemId": "7493325354",
+        "title": "Coconut SLIDE slippers bone white sand color warm sand yellow fluorescent green coffee dark brown light brown lake water blue collection LW",
+        "picUrl": "https://si.geilicdn.com/pcitem1434446409-57b1000001978cc6d5a80a210256_2086_2086.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1666374288",
+          "name": "PANDA VAULT(PV）",
+          "logo": "https://si.geilicdn.com/wdseller1434446409-1c8b00000198dd3551120a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2874373",
+        "mallType": "T1688",
+        "itemId": "646557280650",
+        "title": "Suitable for Apple Airpods Max headphone covers, head mounted earmuffs, sponge ear covers, cotton ear pads, ear caps, and leather covers",
+        "picUrl": "https://cdn.findqc.com/item/20251105/mhlqpn3d_mc7s.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb06Cuclw-iYHwKDwO_0qOQ",
+          "name": "深圳市格思创科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2895441",
+        "mallType": "TB",
+        "itemId": "827251780918",
+        "title": "Oseagleu-Shaped Pillow Protects the Cervical Spine, a Sleeping Artifact for Long-Distance Flights and High-Speed Trains, Travel Neck Pillow, Portable U-Shaped Headrest",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmagr3_4xmq.jpg",
+        "price": "¥60.80",
+        "toPrice": "$9.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107164095",
+          "name": "oseagle旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899769",
+        "mallType": "TB",
+        "itemId": "797240448516",
+        "title": "Nike Member Exclusive Birthday Gift Logo Hook Round Simple Modern Pillow Backrest Cushion",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk801of_7apt.jpg",
+        "price": "¥28.84",
+        "toPrice": "$4.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156749549",
+          "name": "大土狗体育 Dog sports",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2898845",
+        "mallType": "TB",
+        "itemId": "714103090358",
+        "title": "Shark Doll Internet Celebrity Same Style Ah Wu Doll Plush Toy Children's Sleeping Pillow Birthday Gift Girl Doll",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjyupht_a9r4.jpg",
+        "price": "¥26.73",
+        "toPrice": "$4.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "535305825",
+          "name": "盈利诺礼品店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2894242",
+        "mallType": "TB",
+        "itemId": "708259485309",
+        "title": "3D stereoscopic eye mask for sleep and shading, designed for men and women to help them sleep, breathable and non pressure eye mask for nap and sleep",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjtyh0e_djnf.jpg",
+        "price": "¥19.34",
+        "toPrice": "$3.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "226734486",
+          "name": "唐花生活",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975749",
+        "mallType": "WD",
+        "itemId": "7249952227",
+        "title": "Easting house accompanying neck neck pillow is here ~ licensable, two colors available, 360 ° ring support neck protection, physical intervention to prevent relief of cervical spine discomfort! Multi-functional traveling pillow, a good thing to sleep well! Office/car/business trip are necessary!",
+        "picUrl": "https://si.geilicdn.com/wdseller901257918-1ddc00000190bee5e4620a2396f4_1276_1702.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699229748",
+          "name": "明星潮牌单品",
+          "logo": "https://si.geilicdn.com/wdseller901257918-65490000017549a0d7770a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2637380",
+        "mallType": "TB",
+        "itemId": "863384267231",
+        "title": "Amazon's new Modal cotton blackout sleep eye mask multifunctional integrated blackout breathable travel pillow with eye mask",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mglmyppn_0iqg.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "311547581",
+          "name": "三瓣桔子",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2336113",
+        "mallType": "TB",
+        "itemId": "681231658791",
+        "title": "Stepping on poop like insoles, standing for a long time is not tiring, soft sole, military training, arch support, sports air cushion, shock absorption, sweat absorption, odor prevention, men's and women's styles",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf88t6ig_bndb.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "254999915",
+          "name": "蒲感旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2078362",
+        "mallType": "WD",
+        "itemId": "1467479196310967938873",
+        "title": "The standard for exporting latex pillows from Little Japan to five-star hotels is the A-class maternity and baby pillowcase from Kuna Yamashita",
+        "picUrl": "https://cdn.findqc.com/item/20250818/megkbz56_4h47.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1334664554",
+          "name": "新店🔍超值捡漏",
+          "logo": "https://si.geilicdn.com/bj-wd-1334664554-1522206227333-1494422906_1239_1191.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1615586",
+        "mallType": "WD",
+        "itemId": "7471879340",
+        "title": "Fashion slippers high version (no reason for return or exchange unless it is a quality issue)",
+        "picUrl": "https://cdn.findqc.com/item/20250811/me74uu9r_cmsc.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802156977",
+          "name": "Rock Cat Store",
+          "logo": "https://si.geilicdn.com/wdseller1799811745-03320000019052d497520a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1677295",
+        "mallType": "WD",
+        "itemId": "7461906400",
+        "title": "Lili - Spot foreign trade cotton striped five piece flat brimmed hat with heart-shaped letters for men and women, simple and fresh Japanese and Korean style spring and summer flat eye hat",
+        "picUrl": "https://cdn.findqc.com/item/20250708/mctq0vov_2mi5.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1201425",
+        "mallType": "WD",
+        "itemId": "7442507039",
+        "title": "YZSlide",
+        "picUrl": "https://cdn.findqc.com/item/20250617/mbzwusht_r2ri.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1762051309",
+          "name": "Ace",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 99,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "67625",
+        "mallType": "TB",
+        "itemId": "616220241677",
+        "title": "Pokémon Greatest Hits Sleeping Face Mini Dragon Neck Pillow U Pillow Plush Doll Pokémon Toys",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mm01u1_a18f.jpg",
+        "price": "¥48.80",
+        "toPrice": "$7.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110634724",
+          "name": "神奇公仔之家",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "66023",
+        "mallType": "TB",
+        "itemId": "587138602391",
+        "title": "Chihuahua Thailand natural latex pillow cervical vertebrae sleep aid memory pillow pillow core anti-mite anti-bacteria massage pillow",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlc52e_wwtu.jpg",
+        "price": "¥449.00",
+        "toPrice": "$70.60",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "59238",
+        "mallType": "WD",
+        "itemId": "7227591337",
+        "title": "Coconut SLIDE slippers bone white sand color warm sand yellow fluorescent green coffee dark brown light brown lake water blue collection LW/PK/foreign trade/seaweed mud/GX",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mhvfh4_f78w.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1792453529",
+          "name": "GOD",
+          "logo": "https://si.geilicdn.com/wdseller1843956808-59490000018ffdf9618b0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56964",
+        "mallType": "T1688",
+        "itemId": "693530985195",
+        "title": "Hilton latex pillow wholesale natural latex pillow core massage neck children latex pillow a pair of gift delivery",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npx6kt_744x.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "53412",
+        "mallType": "T1688",
+        "itemId": "645815815187",
+        "title": "Amazon model waterproof non-slip high-grade pet sofa cushion non-slip solid color waterproof sofa cushion cover sofa cover",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3no7os9_pwr8.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "51213",
+        "mallType": "T1688",
+        "itemId": "754019857767",
+        "title": "Amazon Cross Border White Bamboo Fiber Air Layer Sandwich Cotton Waterproof Pillow B&B Hotel Dormitory Pillow Protector Cover",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mh5irx_crya.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "49743",
+        "mallType": "TB",
+        "itemId": "741024246073",
+        "title": "Montgomery packaging box down jacket gift box clothes box gift bag coat duster handbag Montgomery handbag",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgozr4_0vjk.jpg",
+        "price": "¥5.80",
+        "toPrice": "$0.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "452470589",
+          "name": "七曼包装",
+          "type": "TB"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021149203682553893359",
+  "language": "en"
+}

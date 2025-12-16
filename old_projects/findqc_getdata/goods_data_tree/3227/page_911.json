@@ -1,0 +1,287 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "40409",
+        "mallType": "TB",
+        "itemId": "778364209976",
+        "title": "Eric Emanuel Ee Basic Shorts Fitness Mesh Pants Casual Shorts",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpse3_prqn.jpg",
+        "price": "¥24.49",
+        "toPrice": "$3.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "213428314",
+          "name": "小美特价外贸",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40379",
+        "mallType": "TB",
+        "itemId": "763026803320",
+        "title": "Hosono Seiichi Tainan Trading Co., Ltd. Bon Voyage Hosono Music Pure Cotton Loose-Fitting Drop-Shoulder Casual Short-Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpsz7_btg2.jpg",
+        "price": "¥143.59",
+        "toPrice": "$22.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "100228940",
+          "name": "Bad Taste",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40391",
+        "mallType": "WD",
+        "itemId": "7244950122",
+        "title": "P version] loew* loew* chest embroidery polo shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpmys_qyo0.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614136830",
+          "name": "Top3",
+          "logo": "https://si.geilicdn.com/wdseller1753177533-370d0000018a698c13400a22d3fa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40388",
+        "mallType": "T1688",
+        "itemId": "637927604161",
+        "title": "PALAIS 21SS spring and summer letters logo printing round neck short-sleeved t-shirt tide casual men and women short-sleeved T-shirt tide",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpez1_ifus.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40382",
+        "mallType": "T1688",
+        "itemId": "616449667264",
+        "title": "Osai loose tide male sports short-sleeved T-shirt men's summer cotton seven-quarter sleeve gym running training clothes",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpseu_8yix.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40383",
+        "mallType": "WD",
+        "itemId": "7251302499",
+        "title": "Hell-star No Guts No Glory T-Shirt Short Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpjhs_nt49.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40329",
+        "mallType": "TB",
+        "itemId": "737486064752",
+        "title": "CCmade cc home new seven-quarter sleeve vintage T Size: 42",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpuo3_bqtr.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40350",
+        "mallType": "TB",
+        "itemId": "673525466643",
+        "title": "Drew Smiling Face Short-Sleeve T-Shirt for Men, Trendy Brand, European and American High Street Style, Justin Bieber Loose Fit, Couple's Summer Pure Cotton Top",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpjvl_ktgc.jpg",
+        "price": "¥39.22",
+        "toPrice": "$6.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "166228501",
+          "name": "FOG高街潮品",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40338",
+        "mallType": "WD",
+        "itemId": "6704306242",
+        "title": "540 DGD",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmp87g_59q1.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1693737537",
+          "name": "火锅突击队",
+          "logo": "https://si.geilicdn.com/shopedit1762011362-5b810000018edbbafdb40a2104c1-unadjust_304_304.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40334",
+        "mallType": "TB",
+        "itemId": "701861900478",
+        "title": "WE11DONE TRACK2024 summer waves 1506 letters printed tide loose men and women short sleeve T-shirt ins",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpo5y_0msq.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40310",
+        "mallType": "TB",
+        "itemId": "732591927365",
+        "title": "Mrlee Independent Style Twisted Deconstructed Inverted Neckline Design Mud-Stained Distressed Oversized T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpju4_sy97.jpg",
+        "price": "¥307.61",
+        "toPrice": "$48.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "577995630",
+          "name": "MR LEE STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40305",
+        "mallType": "WD",
+        "itemId": "6509419164",
+        "title": "TIGER MADE IT YOURSELF] 3 MONTHS TIME EQUALS DETAILS BCA｜BCG｜PARIS｜BLCG 24SS SPRING/SUMMER NEW PRODUCTS LONG YEAR LIMITED FUN DOODLE DIY METAL METAL MULTI ELEMENTS LETTERS LOGO ART DOODLE PRINTED ROUND NECK SHORT SLEEVE T-SHIRT",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmph7m_97b1.jpg",
+        "price": "¥295.00",
+        "toPrice": "$46.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1792724804",
+          "name": "TIGER STORE",
+          "logo": "https://si.geilicdn.com/wdseller1493003882-498100000190980e79200a207569_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40303",
+        "mallType": "TB",
+        "itemId": "805580360566",
+        "title": "Subway Hooligan Shell Print Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpc8e_i3la.jpg",
+        "price": "¥111.64",
+        "toPrice": "$17.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40294",
+        "mallType": "TB",
+        "itemId": "624763627082",
+        "title": "Men's Short-Sleeve T-Shirt 2024 Summer New Korean Style Trendy Brand Men's Pure Cotton Simple Loose Top Plus Size",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpiz0_to5f.jpg",
+        "price": "¥20.39",
+        "toPrice": "$3.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102808464",
+          "name": "紫格服装服饰",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40293",
+        "mallType": "T1688",
+        "itemId": "722160665711",
+        "title": "Cross-border wholesale Japanese tide BAPE inverted letters apes printed 230 grams double yarn cotton short-sleeved T-shirt summer",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmp7qq_ofbj.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40282",
+        "mallType": "TB",
+        "itemId": "811361366247",
+        "title": "ERD 24SS Embroidered Sanskrit slogan Washed baseball duck cap DIE IN BED Melancholy rich boy",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmoe6m_y6y7.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40283",
+        "mallType": "T1688",
+        "itemId": "760309954969",
+        "title": "Nirvana Nirvana T-shirt rock American retro street loose high street small neckline vintage short sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpo2e_16pk.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021152558321916155785",
+  "language": "en"
+}

@@ -1,0 +1,381 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1399280",
+        "mallType": "WD",
+        "itemId": "7266999558",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/weidian1363222789-35b30000018e0da715be0a23954a_1000_1000.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1628294393",
+          "name": "LLL",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-41c30000018f93b4a0620a22d172-unadjust_604_604.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2608984",
+        "mallType": "T1688",
+        "itemId": "671176417730",
+        "title": "Trendy men's polo shirts, short sleeved men's t-shirts, wholesale fashion, western-style, heart embroidered lapel tops, manufacturer",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgdvw913_l6wc.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2998231015",
+          "name": "深圳市宝安区石岩梵翎希制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1002955",
+        "mallType": "T1688",
+        "itemId": "814875647524",
+        "title": "24Chrome Heart New Crow T-shirt Summer Short-sleeved European and American Street Hip-hop Men's and Women's Short-sleeved Series",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgdq5scq_g6xc.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBt9durMXnKAXycza_fBTG9g",
+          "name": "广州华尔尚服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 53,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2607045",
+        "mallType": "T1688",
+        "itemId": "825426391010",
+        "title": "2425 season Emperor's Club, Inter Milan, Argentina, England, Liverpool, Arsenal, Italy, jerseys and football jerseys",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgdp4jlh_4zgb.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217785371177",
+          "name": "广州越足运动服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2148188",
+        "mallType": "T1688",
+        "itemId": "964675223852",
+        "title": "轻奢风2025年男士长袖长裤休闲时尚简约潮流连帽衫工装裤阔腿男装",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgdh4epf_zwgd.jpg",
+        "price": "¥63.00",
+        "toPrice": "$9.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBp6MSAcC19fNoNQ63aGA0HQ",
+          "name": "佛山市雅婷服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2502725",
+        "mallType": "WD",
+        "itemId": "7503126197",
+        "title": "Stu22y short sleeved style 093",
+        "picUrl": "https://cdn.findqc.com/item/20250930/mg66kzb7_ogkz.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616049789",
+          "name": "ZS factory2",
+          "logo": "https://si.geilicdn.com/wdseller1965552696-487e00000197e0b8acdf0a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2604970",
+        "mallType": "TB",
+        "itemId": "741613831930",
+        "title": "Gallery Dept Classic Logo Letter Print Basic T-Shirt for Men and Women, Loose High Street Short-Sleeved Summer Style",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgdfic1y_2gg4.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103318446",
+          "name": "FFCP Studios",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261894",
+        "mallType": "T1688",
+        "itemId": "887752810150",
+        "title": "College Style Trendyy Summer New Niche Letter Embroidered Logo Casual Loose Short Sleeves for Men and Women Couples",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgdfxawz_fvs8.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7H8UzVzP0LZjCplV6qxfnw",
+          "name": "广州尔衣服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2482886",
+        "mallType": "WD",
+        "itemId": "7520036096",
+        "title": "New Fashion Versatile T-shirt -014",
+        "picUrl": "https://si.geilicdn.com/open1755195901-1234478995-1e480000019863781bd30aa0c791_1000_1000.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1755195901",
+          "name": "Grade A",
+          "logo": "https://si.geilicdn.com/pcdecorate1969177391-288800000197cfc398d40a2315ef-unadjust_655_655.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "466623",
+        "mallType": "WD",
+        "itemId": "7332128200",
+        "title": "M 6 palm number letter logo printed short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250407/m95y3him_7yqn.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1815675125",
+          "name": "888rep",
+          "logo": "https://si.geilicdn.com/wdseller1914072751-74fd0000019542449b720a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1136420",
+        "mallType": "T1688",
+        "itemId": "805398485930",
+        "title": "2024 Harajuku Broken Planet T-Shirt Print Cartoon Pattern T-Shirt Summer Oversized Casual Gothic T-Shirt for Men",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgd3qt8z_suqc.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGU_8EM53xVGZZsm3uz3wUQ",
+          "name": "揭阳市揭东区新亨镇纤沫服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1557417",
+        "mallType": "TB",
+        "itemId": "901971775685",
+        "title": "Now Erd Style Vintage Westcoast Series Washed Distressed Iron Cross Print Loose Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgd3qrw3_2d1m.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "488308967",
+          "name": "Aimhigh studio",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "930535",
+        "mallType": "WD",
+        "itemId": "7326517922",
+        "title": "American fashion brand short sleeved summer loose retro washed old high street T-shirt for men",
+        "picUrl": "https://cdn.findqc.com/item/20250313/m86nawbf_ljuw.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864913249",
+          "name": "JTC Jack&#39;s treasure chest",
+          "logo": "https://si.geilicdn.com/pcdecorate1775697816-2d580000019002b5b42f0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 83,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2599658",
+        "mallType": "WD",
+        "itemId": "7468749036",
+        "title": "051292 mk short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgcu0yji_kywb.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1709700",
+        "mallType": "WD",
+        "itemId": "7502638245",
+        "title": "Sup 24SS Ducati Soccer Jersey Printed Football Loose Sports Short Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgctmu40_88j7.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784633285",
+          "name": "Mia",
+          "logo": "https://si.geilicdn.com/shopedit1879614902-06060000019102130eb00a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 76,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2602288",
+        "mallType": "T1688",
+        "itemId": "729270984800",
+        "title": "American Style High Street Fashionable Brand RHUDE Simple Stroke Pattern Letter Printing Casual Loose Short-sleeved T-shirt for Men and Women Same Style for Summer",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgcqvtgk_l4zw.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNI2L5tlVzVOT9JPzkvK3fw",
+          "name": "广州市远潮服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2597287",
+        "mallType": "WD",
+        "itemId": "7543687708",
+        "title": "Peace Dove Angel Printed Short sleeved T-shirt REP240",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgcokbf1_2wtj.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1765554595",
+          "name": "Singor2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2601992",
+        "mallType": "TB",
+        "itemId": "728517677359",
+        "title": "Minimalist letter logo slogan sticker embroidered short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgcmf79n_dkp7.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "362886185",
+          "name": "Subway hooligan",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "454408",
+        "mallType": "TB",
+        "itemId": "861252741906",
+        "title": "Skyworld's new cross-border men's casual round neck long sleeved digital printed pullover for US, European and American foreign trade",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgclzo7w_ly4w.jpg",
+        "price": "¥86.00",
+        "toPrice": "$13.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "267232071",
+          "name": "Bluesky Store",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2597282",
+        "mallType": "WD",
+        "itemId": "7463759493",
+        "title": "New 270g double yarn fabric 26 count pure cotton foam short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgcj3i41_61mc.jpg",
+        "price": "¥158.34",
+        "toPrice": "$24.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146168741917119807",
+  "language": "en"
+}

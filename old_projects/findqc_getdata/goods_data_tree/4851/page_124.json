@@ -1,0 +1,337 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2226440",
+        "mallType": "WD",
+        "itemId": "7532042805",
+        "title": "3D Embroidered Hat, Baseball Hat, Sunshade Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250831/meze5l6l_16wu.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1722852227",
+          "name": "SpriteReps",
+          "logo": "https://si.geilicdn.com/shopedit1975175781-7bf600000198aea6eeef0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2347651",
+        "mallType": "TB",
+        "itemId": "952656758023",
+        "title": "2405 Fashionable Runner Illustration Headscarf Outdoor Cut Out Square Fancy Summer Scarf Puffy Elegant Style Headwear In Stock",
+        "picUrl": "https://cdn.findqc.com/item/20250913/mfhw1k8i_2lh4.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "445950550",
+          "name": "2405",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2257172",
+        "mallType": "T1688",
+        "itemId": "954699943417",
+        "title": "拉夫劳伦帽子扫码polo刺绣款夏季防晒软顶鸭舌帽遮阳男女棒球帽",
+        "picUrl": "https://cdn.findqc.com/item/20250913/mfhw19wa_zus7.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-EtQfpV34JlPsr0s6uG5Ig",
+          "name": "广州春纷服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1573881",
+        "mallType": "T1688",
+        "itemId": "924873857608",
+        "title": "Chrome Hearts American Trendy Brand New Couple Summer Trucker Cap Sun Hat Ready for Sale",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdv45ku5_fkpt.jpg",
+        "price": "¥35.80",
+        "toPrice": "$5.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiNsxQtTkcsJvTUx3MIEjsA",
+          "name": "深圳市龙华区库潮服饰批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2389691",
+        "mallType": "T1688",
+        "itemId": "729584843677",
+        "title": "Mesh Hat Spring and Summer 2024 New Style Dsq2 Boys and Girls Futuristic Hat Trendy Brand Baseball Cap Cross-Border Supply Dropshipping",
+        "picUrl": "https://cdn.findqc.com/item/20250913/mfhho2zr_ih2t.jpg",
+        "price": "¥32.50",
+        "toPrice": "$5.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBlaKmFVIsb12CU6cTQLRcVw",
+          "name": "建瓯市旭兴百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2388275",
+        "mallType": "T1688",
+        "itemId": "773065821887",
+        "title": "2024 New Men's Baseball Hat DSQ2 Summer Sunshade Hat Cross border Supply Men's and Women's Versatile Trendy Brand Hat dropshipping",
+        "picUrl": "https://cdn.findqc.com/item/20250913/mfh1wwfi_yblf.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8xuOAjWLvz6PQ9YS82pMYw",
+          "name": "福州市百乐汇服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2343182",
+        "mallType": "T1688",
+        "itemId": "967920663211",
+        "title": "热销跨境美式MLB全封闭洛杉矶道奇队棒球帽刺绣AA平沿帽尺寸帽潮",
+        "picUrl": "https://cdn.findqc.com/item/20250911/mff0jli8_32gw.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIrFj37ga4-RsfUj0oA-Agg",
+          "name": "莆田市荔城区黄石镇陈珍武百货零售超市",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2385142",
+        "mallType": "T1688",
+        "itemId": "895741363410",
+        "title": "Korean trendy brand Carhartt letter embroidered baseball cap for women, small face, versatile sun protection duck tongue cap, wholesale for children",
+        "picUrl": "https://cdn.findqc.com/item/20250912/mfgzb3zm_maxm.jpg",
+        "price": "¥14.50",
+        "toPrice": "$2.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219424254377",
+          "name": "义乌市鸿施日用品商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56574",
+        "mallType": "TB",
+        "itemId": "710347172689",
+        "title": "Love Peaked Cap",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2214753106694/O1CN01b6QgHW1zJu5WLx0Wz_!!2214753106694.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "342503660",
+          "name": "TOPAMX",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 115,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2292151",
+        "mallType": "WD",
+        "itemId": "7537630405",
+        "title": "Hat (Contact me for wholesale purchase, low price)",
+        "picUrl": "https://cdn.findqc.com/item/20250912/mfgl4o5e_phne.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1640467075",
+          "name": "TheBestCollection",
+          "logo": "https://si.geilicdn.com/pcdecorate1974497267-6a61000001982acaa2280a20e2c5-unadjust_360_360.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1623250",
+        "mallType": "T1688",
+        "itemId": "936546825029",
+        "title": "Laf Hat Rl Paul Small Logo Baseball Cap Unisex Duckbill Cap Large Brim High-Quality Polo Pony Hat Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250728/mdmubxp0_o1je.jpg",
+        "price": "¥9.50",
+        "toPrice": "$1.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219895084514",
+          "name": "义乌市云衡帽业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 225,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "2347592",
+        "mallType": "WD",
+        "itemId": "7444430480",
+        "title": "[DX30-5] new hat washed duck tongue cap women's baseball cap men's European and American",
+        "picUrl": "https://cdn.findqc.com/item/20250912/mfgfk2y5_f06p.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667032845",
+          "name": "超级牛",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424514-4cfb00000195e79975270a81347d-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2382610",
+        "mallType": "WD",
+        "itemId": "7076034032",
+        "title": "No.8 ball, Bonnie, cold hat, light European style",
+        "picUrl": "https://cdn.findqc.com/item/20250912/mffzk20g_teoj.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1378088195",
+          "name": "CND CLOTH",
+          "logo": "https://si.geilicdn.com/wdseller1378088195-5f6f000001739627e4360a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2075066",
+        "mallType": "T1688",
+        "itemId": "847032007414",
+        "title": "European and American Cross-border Hat Knitted Hat Winter Japanese Leisure Wool Hat Turn-up Baotou Ear Protection Cold Hat Cold-proof All-match",
+        "picUrl": "https://cdn.findqc.com/item/20250910/mfdmbi06_iw0g.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhgaJncqBh3VlG-viG0mTKQ",
+          "name": "义乌市町馨电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "868289",
+        "mallType": "WD",
+        "itemId": "7308213470",
+        "title": "Winter velvet men's and women's Lei Feng hats, cold proof skiing hats, thickened warm hats, windproof masks, Amazon ear protection hats",
+        "picUrl": "https://cdn.findqc.com/item/20250222/m7fh2ezq_r41o.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1835475968",
+          "name": "海绵宝宝 Spongebob",
+          "logo": "https://si.geilicdn.com/shopedit1977362831-198b00000198b0a35df90a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "859445",
+        "mallType": "T1688",
+        "itemId": "683528848132",
+        "title": "Masked scarf over hat all-in-one knitted woolen scarf winter warm solid color hat ear protection scarf ski cap",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000002565/O1CN01v9A6OM1Uooh0k0N1x_!!6000000002565-0-tbvideo.jpg",
+        "price": "¥18.30",
+        "toPrice": "$2.88",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "859298",
+        "mallType": "WD",
+        "itemId": "7236316716",
+        "title": "Cross-border new correct version of the G family baseball cap side strips fashionable versatile sunshade sunscreen duck tongue cap men and women universal",
+        "picUrl": "https://si.geilicdn.com/weidian1857297515-4f810000018f0c48c2950a20e35c_1080_1080.jpg",
+        "price": "¥31.00",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1697912505",
+          "name": "DAHi高定服饰",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2379170",
+        "mallType": "T1688",
+        "itemId": "919019119628",
+        "title": "ADBOZY Sad Boy Adjusting Cap Baseball Cap Sunscreen Sun Hat Embroidered Hat Little Head Adjusting",
+        "picUrl": "https://cdn.findqc.com/item/20250911/mffj44ln_ig0a.jpg",
+        "price": "¥23.50",
+        "toPrice": "$3.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGM-kx_01-FIePr2IOCCogA",
+          "name": "昌江区成书百货店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149089501917117512",
+  "language": "en"
+}

@@ -1,0 +1,392 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1125867",
+        "mallType": "WD",
+        "itemId": "7405433388",
+        "title": "High quality hoodie set 03",
+        "picUrl": "https://si.geilicdn.com/open1754045653-1848188377-1b2200000193bfa123f00a210298-unadjust_800_800.gif",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1640191541",
+          "name": "MangoBuy-1",
+          "logo": "https://si.geilicdn.com/shopedit1906472072-1caa000001932a2c2dfc0a207569-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 55,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "939647",
+        "mallType": "WD",
+        "itemId": "7399559879",
+        "title": "High quality shorts-SUP",
+        "picUrl": "https://si.geilicdn.com/pcitem901907517410-581700000194f4473e530a20e672-unadjust_800_800.gif",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1754045653",
+          "name": "Chinese Factory",
+          "logo": "https://si.geilicdn.com/shopedit1902740711-0e000000019367eb1e490a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1849573",
+        "mallType": "WD",
+        "itemId": "7301461552",
+        "title": "High quality shoes 037",
+        "picUrl": "https://si.geilicdn.com/pcitem901893105266-1920000001927a3d40690a2303ee-unadjust_800_800.gif",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1666244565",
+          "name": "Hacoo Buy",
+          "logo": "https://si.geilicdn.com/shopedit1905178241-27500000019363e8bd560a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1664770",
+        "mallType": "WD",
+        "itemId": "7484897676",
+        "title": "2nd generation Heartbeat Macaron Trendy Play Blind Box Disassembly Le Shou Fang Vinyl Plush Doll",
+        "picUrl": "https://si.geilicdn.com/open1854564045-1234478995-30ca000001973135116a0a23b491_1080_1080.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854564045",
+          "name": "Trendy Shop",
+          "logo": "https://si.geilicdn.com/pcdecorate1929805743-72300000019864e151d60a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2212298",
+        "mallType": "WD",
+        "itemId": "7446375705",
+        "title": "REP High Quality 1-CL-001",
+        "picUrl": "https://si.geilicdn.com/pcitem901883166076-21f5000001915efbdc650a230115-unadjust_900_900.png",
+        "price": "¥73.20",
+        "toPrice": "$11.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1731615349",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1912557549-57ec00000196b9cbdadb0a2315ef-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 95,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1911425",
+        "mallType": "WD",
+        "itemId": "7492786933",
+        "title": "P595 L*T 3in1",
+        "picUrl": "https://cdn.findqc.com/item/20250921/mftcmpsc_3s6q.jpg",
+        "price": "¥595.00",
+        "toPrice": "$93.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1612190937",
+          "name": "Bevs",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2291228",
+        "mallType": "WD",
+        "itemId": "7302554821",
+        "title": "Fashion Woolen Coat Knit (P-0061)",
+        "picUrl": "https://si.geilicdn.com/pcitem901901383085-4e1a0000019326385d960a239646_1200_1200.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1641796437",
+          "name": "UMI BUY",
+          "logo": "https://si.geilicdn.com/shopedit1901381675-3bd900000192bcbc93a40a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "25935",
+        "mallType": "WD",
+        "itemId": "4426184175",
+        "title": "NK Air Max 1 series small air cushion",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3niescy_s5kq.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1814230492",
+          "name": "（下单移步新店）",
+          "logo": "https://si.geilicdn.com/wdseller1551887071-54a30000019932f76ed30a8133cc_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 842,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2898596",
+        "mallType": "WD",
+        "itemId": "7280795826",
+        "title": "CO-1 2024 recommends globally popular fruit casual shoes (with original box OG quality)",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7x82g_sbmp.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637944933",
+          "name": "MonkeyBuy",
+          "logo": "https://si.geilicdn.com/shopedit1886999317-1a0500000191a48bd11d0a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1682041",
+        "mallType": "WD",
+        "itemId": "7427203713",
+        "title": "Fashion slippers (E-098)",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7s4n4_fh75.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1824281037",
+          "name": "A1 潮牌",
+          "logo": "https://si.geilicdn.com/shopedit1930404768-6e2200000194e9d02a1f0a2395a3-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899075",
+        "mallType": "WD",
+        "itemId": "5583444898",
+        "title": "Use AllChinabuy / Mulebuy / Superbuy / HooBuy / Basetao / CNFans Agent !  Air Force 1 35.5~47",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7yt4m_uaq0.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1352609626",
+          "name": "33Sports-Air Force 1",
+          "logo": "https://si.geilicdn.com/weidian1352609626-4dff0000018f563aa5560a8133cc_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2901115",
+        "mallType": "WD",
+        "itemId": "7477153442",
+        "title": "Embroidered letters in light green on the back",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk4kcv3_qwyt.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899655",
+        "mallType": "WD",
+        "itemId": "7488055031",
+        "title": "Front and back letter tape flower gray T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7zsn6_clej.jpg",
+        "price": "¥249.00",
+        "toPrice": "$39.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2184304",
+        "mallType": "WD",
+        "itemId": "7487365031",
+        "title": "OWN高品质1-ST-001",
+        "picUrl": "https://si.geilicdn.com/open1622673309-1234478995-35d900000197462e33790a23b491-unadjust_799_800.gif",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622673309",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "11997",
+        "mallType": "WD",
+        "itemId": "5763424684",
+        "title": "Chain embroidered round neck hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbumh0_a5w4.jpg",
+        "price": "¥349.00",
+        "toPrice": "$54.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2768282",
+        "mallType": "WD",
+        "itemId": "7523684026",
+        "title": "P485 GM SZ ",
+        "picUrl": "https://cdn.findqc.com/item/20251101/mhfu1hnn_qs71.jpg",
+        "price": "¥485.00",
+        "toPrice": "$76.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1612190937",
+          "name": "Bevs",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2143151",
+        "mallType": "WD",
+        "itemId": "7513919840",
+        "title": "Freps-高品质鞋002",
+        "picUrl": "https://si.geilicdn.com/pcitem901898887328-342600000192ae7dab4c0a230115-unadjust_799_800.gif",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1865721389",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2458620",
+        "mallType": "WD",
+        "itemId": "7495381066",
+        "title": "P620 ATM cotton jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mgumfjg0_l5yt.jpg",
+        "price": "¥620.00",
+        "toPrice": "$97.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1612190937",
+          "name": "Bevs",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2838234",
+        "mallType": "WD",
+        "itemId": "7474520771",
+        "title": "MM Belt Seven",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhdbciqd_63wv.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274399453",
+          "name": "CNMADE",
+          "logo": "https://si.geilicdn.com/pcdecorate1274399453-60fc00000193491051590a23037f-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2095477",
+        "mallType": "WD",
+        "itemId": "7512055631",
+        "title": "High quality casual shoes 024",
+        "picUrl": "https://si.geilicdn.com/pcitem901893019271-1b6f0000019270bb0bdf0a210349-unadjust_800_800.gif",
+        "price": "¥365.00",
+        "toPrice": "$57.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1865721389",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148090611914136476",
+  "language": "en"
+}

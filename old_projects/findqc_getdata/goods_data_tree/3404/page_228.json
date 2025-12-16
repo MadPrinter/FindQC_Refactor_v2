@@ -1,0 +1,385 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "466573",
+        "mallType": "WD",
+        "itemId": "7245599241",
+        "title": "High Street 1 Stream Sweatshirt Long Pants Set - SQ002heph",
+        "picUrl": "https://si.geilicdn.com/pcitem901875201278-64d100000195928674b50a230115-unadjust_1200_1200.png",
+        "price": "¥133.00",
+        "toPrice": "$20.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1664375585",
+          "name": "59buy",
+          "logo": "https://si.geilicdn.com/pcdecorate901857861682-4f0000000190bad994990a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "466529",
+        "mallType": "WD",
+        "itemId": "7341526318",
+        "title": "****** products",
+        "picUrl": "https://si.geilicdn.com/open1828016549-252808396-32d4000001941c3f78ed0aa0834c_800_800.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828016549",
+          "name": "我的小铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-249600000193b88380020a231316-unadjust_234_234.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "465324",
+        "mallType": "WD",
+        "itemId": "7310018553",
+        "title": "Cross border Classic Stone Solid Color Round Neck Badge Long Sleeve Hoodie for Men and Women Same Style Island Couple Correct Edition",
+        "picUrl": "https://si.geilicdn.com/open1671759537-1234478995-4ce600000193642958610a210298_800_800.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1671759537",
+          "name": "🔥Kevin store🎧",
+          "logo": "https://si.geilicdn.com/wdseller1797702549-53e000000194323b2dbc0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 54,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "90280",
+        "mallType": "WD",
+        "itemId": "7287467873",
+        "title": "RG 2024 Fall/Winter Long Sleeve T-Shirt Casual Clothing Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mndxh3_sc2y.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863516261",
+          "name": "Trendy Buy",
+          "logo": "https://si.geilicdn.com/shopedit1886196013-3dad00000193e98aafee0a20e284-unadjust_743_743.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "90293",
+        "mallType": "WD",
+        "itemId": "7272049012",
+        "title": "Striped Webbing High Street Casual Sports Jacket Couple Suit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnea98_7qb2.jpg",
+        "price": "¥116.00",
+        "toPrice": "$18.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684891361",
+          "name": "ThebigY store",
+          "logo": "https://si.geilicdn.com/wdseller1778358520-557d00000196f8821c200a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "218273",
+        "mallType": "T1688",
+        "itemId": "844276695247",
+        "title": "DRILL Style American Style Corteiz Alcatraz Island Hip-hop Hip-hop Embroidered Letters Crewneck Sweat Men's Fashionable Loose Top",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3q4pxew_zebl.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcIj7gnL5VjEKTzEgl7W6NQ",
+          "name": "广州狼潮服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 224,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3291",
+        "mallType": "T1688",
+        "itemId": "789628962179",
+        "title": "Carsicko love sports suit fleece-lined fabric sweater sports pants winter European and American hip hop fashion",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3bei0_k59k.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWDSvpdaGz0q0pcFuqfhUdg",
+          "name": "火焰(广州)服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 404,
+        "qcVideoCnt": 5,
+        "picWidth": "750",
+        "picHeight": "750"
+      },
+      {
+        "id": "1679458",
+        "mallType": "T1688",
+        "itemId": "824620706380",
+        "title": "Cross-border wholesale European and American tide brand AMIRI tide brand tears hooded vests cotton 320 grams couples with hoodies",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh5wcmpd_6n2n.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBzzGEO5M7dIHJAbLYkpwbw",
+          "name": "上饶市欧隆服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1803017",
+        "mallType": "WD",
+        "itemId": "7290352726",
+        "title": "Original round neck sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1420898802-6d2c0000018b6c8eae4e0a231418_1450_1589.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1750913753",
+          "name": "核桃",
+          "logo": "https://si.geilicdn.com/weidian1991015231-145000000199972d3f7a0a20e672_996_996.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1802893",
+        "mallType": "TB",
+        "itemId": "823688897175",
+        "title": "Cloud series FOG compound line ESSENTIALS round neck sweater small LOGO padded pullover high street casual men and women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1090806015/O1CN017ecTTz1uIvJbG39AK_!!1090806015.jpg",
+        "price": "¥69.90",
+        "toPrice": "$10.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101198640",
+          "name": "原创潮流社",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1802378",
+        "mallType": "TB",
+        "itemId": "756679485514",
+        "title": "Palm Palm Angels Angels Side Stripe Casual Sweatshirt Trendy Men and Women Couple Long Sleeve Sweatshirt Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/275526226/O1CN01hgcYmw1vrYom4XuAh_!!275526226.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "59196969",
+          "name": "艾阁丽潮流服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1802374",
+        "mallType": "WD",
+        "itemId": "7439117042",
+        "title": "Sp5der Young Thug Hoodie Pink Hoodie",
+        "picUrl": "https://si.geilicdn.com/open1646385709-1234478995-0de900000195f5777a240aa08290_1920_1920.jpg",
+        "price": "¥154.00",
+        "toPrice": "$24.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646385709",
+          "name": "9TOP",
+          "logo": "https://si.geilicdn.com/pcdecorate1933147477-261a0000019599f938470a23038e-unadjust_200_200.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 259,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1801265",
+        "mallType": "WD",
+        "itemId": "7444551014",
+        "title": "39A2-1c",
+        "picUrl": "https://si.geilicdn.com/open1828414221-1234478995-7a9500000196187ccc620a22d249_800_800.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1801259",
+        "mallType": "TB",
+        "itemId": "893061884473",
+        "title": "6Pm Hoodie Trendy High Street Fashion Classic Basic Embroidery Versatile Unisex Solid Color Raglan Sleeve Hooded Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2973405225/O1CN01xHjzls1oT6Tp7aVIh_!!2973405225.jpg",
+        "price": "¥103.46",
+        "toPrice": "$16.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "292978826",
+          "name": "TAKE YOUR TIMES",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 176,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1801015",
+        "mallType": "TB",
+        "itemId": "772007038940",
+        "title": "Camouflage head jacket hoodie printed zippered hoodie for me",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2212119492488/O1CN01yiJIO81UFYLKTt1O2_!!2212119492488.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "446801572",
+          "name": "clothing store 08",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1800854",
+        "mallType": "WD",
+        "itemId": "7463583721",
+        "title": "CJL-E Hooded Hoodie, Legged Pants, Loose Casual Set",
+        "picUrl": "https://si.geilicdn.com/open333321600-1234478995-7dfa00000196a67eca580a8133b0_1000_1000.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333321600",
+          "name": "Alpha  Luckin",
+          "logo": "https://si.geilicdn.com/wdseller333321600-608500000199331fab3b0a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1732304",
+        "mallType": "T1688",
+        "itemId": "876743209868",
+        "title": "High-end STON 20SS stone Compass badge basic functional men's and women's hooded jacket sweater cross-border e-commerce",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019lGQfR1XiMC6nCi97_!!2219176892957-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219176892957",
+          "name": "广州魔方服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1732303",
+        "mallType": "WD",
+        "itemId": "7405418424",
+        "title": "Spring and fall new casual sports air layer hooded jacket and sweat pants set-OK",
+        "picUrl": "https://si.geilicdn.com/open1725848333-252808396-3d4100000195454c45f10a231226_1280_1280.jpg",
+        "price": "¥395.87",
+        "toPrice": "$62.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1725848333",
+          "name": "OK BUY",
+          "logo": "https://si.geilicdn.com/shopedit1921187932-1c5e0000019472ad612b0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1732300",
+        "mallType": "WD",
+        "itemId": "7395135256",
+        "title": "NK_NC United Four Color Set-OK",
+        "picUrl": "https://si.geilicdn.com/pcitem1808630503-64580000018faf232ed80a23047e_4000_4000.jpg",
+        "price": "¥180.40",
+        "toPrice": "$28.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1725848333",
+          "name": "OK BUY",
+          "logo": "https://si.geilicdn.com/shopedit1921187932-1c5e0000019472ad612b0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 101,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1732290",
+        "mallType": "T1688",
+        "itemId": "904667455538",
+        "title": "Heavyweight cotton terry zipper cardigan hooded sweater men's spring and fall casual embroidery pony mall original clothes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YD6ojR2LxgE7Osaaj_!!2218765899759-0-cib.jpg",
+        "price": "¥58.60",
+        "toPrice": "$9.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218008392777",
+          "name": "跨境鞋服箱包店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144300582553875757",
+  "language": "en"
+}

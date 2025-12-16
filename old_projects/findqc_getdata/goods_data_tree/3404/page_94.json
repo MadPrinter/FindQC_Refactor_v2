@@ -1,0 +1,386 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2606659",
+        "mallType": "WD",
+        "itemId": "7512627411",
+        "title": "LJ02-小黑心刺绣秋冬长袖加绒卫衣+86 13656920862",
+        "picUrl": "https://si.geilicdn.com/open1698294973-1234478995-7e6f000001982d9b1eb60a231226_750_750.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1698294973",
+          "name": "Super Store",
+          "logo": "https://si.geilicdn.com/shopedit1962019827-386900000197889898870a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604939",
+        "mallType": "WD",
+        "itemId": "7240855704",
+        "title": "Kant 星 Gengar hoodie嘻哈街头紫色迷彩外套",
+        "picUrl": "https://si.geilicdn.com/pcitem1808630503-56ce0000018fa5123e2b0a20e284_1080_1080.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704512009",
+          "name": "微小店",
+          "logo": "https://si.geilicdn.com/wdseller1808630503-24340000018ec283e2b90a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604251",
+        "mallType": "TB",
+        "itemId": "847712381550",
+        "title": "Broken Planet Hoodie Camouflage Foam Letters Street Style Casual Sports Sweatshirt Patchwork Loose Fit ins",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1034922469/O1CN01BodyaF1U6qtG8DEJa_!!1034922469.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103318446",
+          "name": "FFCP Studios",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603880",
+        "mallType": "WD",
+        "itemId": "7564792936",
+        "title": "Fall and Winter Casual Fashion Hooded Sweatshirt 0001",
+        "picUrl": "https://si.geilicdn.com/pcitem1884595329-03370000019887920d160a207569_1200_1200.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1781267637",
+          "name": "Best Factory",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604656",
+        "mallType": "WD",
+        "itemId": "7543924216",
+        "title": "2488",
+        "picUrl": "https://si.geilicdn.com/open1648936853-1234478995-233100000193dd0adb180a232357_1200_1200.jpg",
+        "price": "¥132.00",
+        "toPrice": "$20.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621892861",
+          "name": "FLY BUY",
+          "logo": "https://si.geilicdn.com/pcdecorate901983179105-45d4000001995c7298070a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2615465",
+        "mallType": "WD",
+        "itemId": "7562706737",
+        "title": "CC979-时尚休闲运动套装",
+        "picUrl": "https://si.geilicdn.com/pcitem901894188906-5f56000001924d00b8010a23047e_1200_1200.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1757134115",
+          "name": "Top products",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2605101",
+        "mallType": "WD",
+        "itemId": "7525992696",
+        "title": "Trendy simple and versatile hoodie 14",
+        "picUrl": "https://si.geilicdn.com/open1697234781-1234478995-00fc000001989e838f6a0a8115c2_1200_1200.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1697234781",
+          "name": "Buy story",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604823",
+        "mallType": "WD",
+        "itemId": "7551910618",
+        "title": "JTsg-CP羽绒服卫衣-合集",
+        "picUrl": "https://si.geilicdn.com/open1800251485-252808396-398400000196e688a3120a23b491_1920_1920.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "212389832",
+          "name": "Devilreps",
+          "logo": "https://si.geilicdn.com/pcdecorate212389832-0a180000019a0c2f6fa00a2301b4-unadjust_528_528.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603383",
+        "mallType": "T1688",
+        "itemId": "823118391351",
+        "title": "Cross border foreign trade wholesale trend brand classic letter splashed ink graffiti print loose couple hoodie hoodie trend\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VPGRnu26m1sCSkIjJ_!!2215811247703-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJQs5eNm3_2Su40BzgVMlKg",
+          "name": "海丰县艺了个潮服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2605263",
+        "mallType": "T1688",
+        "itemId": "893303743393",
+        "title": "REPRESENT 秋冬新款 草写字母标语印花高街休闲黑色男女连帽卫衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017IyLPR1qvcN1NGkNH_!!2219456425558-0-cib.jpg",
+        "price": "¥47.00",
+        "toPrice": "$7.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219456425558",
+          "name": "铅山县肴子诺贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604863",
+        "mallType": "T1688",
+        "itemId": "922493055727",
+        "title": "【奥莱】秋冬加绒卫衣新潮牌圆领连帽t恤男运动休闲宽松防晒",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HiUcLY1E1KJK9dAUM_!!2219602400291-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219602400291",
+          "name": "揭阳市揭东区锡场镇槿熙服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603852",
+        "mallType": "WD",
+        "itemId": "7489475172",
+        "title": "59 Exclusive",
+        "picUrl": "https://si.geilicdn.com/open1682483570-1234478995-45020000019748d081fb0a23b491_800_800.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1682483570",
+          "name": "GOTA",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603274",
+        "mallType": "WD",
+        "itemId": "7318448926",
+        "title": " Fall new hooded sweatshirt size: S-2XL",
+        "picUrl": "https://si.geilicdn.com/pcitem1762210304-377d000001939ffe0a520a23111a_800_800.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1764356673",
+          "name": "HQ奢侈品",
+          "logo": "https://si.geilicdn.com/shopedit1762210304-27d90000018848dde2eb0a2102d0-unadjust_260_260.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603292",
+        "mallType": "WD",
+        "itemId": "7521573334",
+        "title": "Printed street suit sweater men's and women's fashion loose casual pullover shirt tide Y2K hip-hop fall and winter * no quality problems can not be returned without reason",
+        "picUrl": "https://si.geilicdn.com/open1769158365-252808396-4a5c00000198744970e50a23b4de_800_800.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769158365",
+          "name": "GZ-made",
+          "logo": "https://si.geilicdn.com/shopedit1956155466-1f3a00000197c5d2cba00a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603402",
+        "mallType": "WD",
+        "itemId": "7520094135",
+        "title": "E-1 put on this sweater, even yawning has its own sense of relaxation BGM (can scan the QR code)",
+        "picUrl": "https://si.geilicdn.com/pcitem1967539233-22e600000198500a3dec0a231177_1200_1200.jpg",
+        "price": "¥96.00",
+        "toPrice": "$15.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1636004093",
+          "name": "Trend Seize",
+          "logo": "https://si.geilicdn.com/shopedit1967539233-78d700000197b0ec6bab0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604707",
+        "mallType": "WD",
+        "itemId": "7566089764",
+        "title": "Fashion Sweatshirt (Non-Returnable)-010-Z57",
+        "picUrl": "https://si.geilicdn.com/pcitem1948096469-4c4200000197315333670a8133cc_800_800.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "213986479",
+          "name": "Top Buy",
+          "logo": "https://si.geilicdn.com/shopedit213986479-663d00000195f761ad5c0a2304aa-unadjust_250_250.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603722",
+        "mallType": "WD",
+        "itemId": "7561287827",
+        "title": "CT Sweatshirt Hoodie Zipper Hollow Meteor P048",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-6e40000001998cee4f290a20e2c5_667_667.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604494",
+        "mallType": "T1688",
+        "itemId": "982028593265",
+        "title": "Autumn and winter new European version of the sweater casual fashion shipping letters loose embroidery hooded padded long-sleeved spot the entire single",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BV1pBi1K6ihsEvcOh_!!2220825931115-0-cib.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220825931115",
+          "name": "温州楚深服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603796",
+        "mallType": "T1688",
+        "itemId": "975394949980",
+        "title": "American tide Mertra splicing embroidery padded high street loose fall and winter men and women casual bat sleeve hooded sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mVEAfi27PsRSntjkC_!!2215544457790-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215544457790",
+          "name": "镇平县启利贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603566",
+        "mallType": "WD",
+        "itemId": "7536423676",
+        "title": "ZZ018 Trendy Versatile Fashion Classic Suit",
+        "picUrl": "https://si.geilicdn.com/open1819467261-1234478995-4a320000019841901a260aa0c791_1200_1200.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819467261",
+          "name": "Superme",
+          "logo": "https://si.geilicdn.com/wdseller1969492450-605e000001985099e3580a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142401832553924448",
+  "language": "en"
+}

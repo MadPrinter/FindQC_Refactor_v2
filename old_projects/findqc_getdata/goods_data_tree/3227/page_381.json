@@ -1,0 +1,381 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2743004",
+        "mallType": "WD",
+        "itemId": "7553113700",
+        "title": "Arcmade Purple Label Short Sleeve Hidden Luxury Small Embroidery Low key Interpretation of Old Money Style",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mgzfcyyu_w13u.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2503606",
+        "mallType": "TB",
+        "itemId": "980415769283",
+        "title": "Cdd Regular Regular Long Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghjbe59_tf0s.jpg",
+        "price": "¥89.57",
+        "toPrice": "$14.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "468921244",
+          "name": "生活充满愉快",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1817451",
+        "mallType": "TB",
+        "itemId": "793738665431",
+        "title": "Summer personalized POLO shirt top shirt collar pearl buttons short-sleeved letter print T-shirt men's high-class sense of t-shirt tide card",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2838134059/O1CN01CynHOz1fr4gqoZ6j7_!!4611686018427387179-0-item_pic.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "151067912",
+          "name": "我爱文艺美型男",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1818239",
+        "mallType": "TB",
+        "itemId": "809588994685",
+        "title": "Megadeth imported European and American thrash metal rock cotton summer short-sleeved T-shirt B-1",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3322346474/O1CN01cqyAvJ1xh9671xte2_!!3322346474.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "233017580",
+          "name": "喵特MetalCat",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1821466",
+        "mallType": "WD",
+        "itemId": "7447211324",
+        "title": "T-shirt",
+        "picUrl": "https://si.geilicdn.com/open1791080881-252808396-783b0000019020135f080a8133b5_1920_1920.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1688018469",
+          "name": "胡奥",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817458",
+        "mallType": "TB",
+        "itemId": "875074947976",
+        "title": "In Stock! A top choice for spring and summer! Small Neckline Boxy Fit Vujade 006 Two Color Diamond Small Label Tee",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2207446945600/O1CN01hcyfFM1rEqzvsIcWG_!!2207446945600.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "556121735",
+          "name": "烹饪师made",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817999",
+        "mallType": "TB",
+        "itemId": "897787223297",
+        "title": "Design sense of niche loose medium-length couple with the same white printed short-sleeved T-shirt female ageing temperament bottoming shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3702295939/O1CN01nPj3iY1tk7H6uCZ9y_!!4611686018427383171-0-item_pic.jpg",
+        "price": "¥89.88",
+        "toPrice": "$14.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "418774405",
+          "name": "夕予旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1818266",
+        "mallType": "WD",
+        "itemId": "7322349889",
+        "title": "Men's and Women's Couple Loose T-Shirt Bottoming Shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1231267992-5eef00000193c43437090a2315ef_600_600.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1231267992",
+          "name": "ASEN",
+          "logo": "https://si.geilicdn.com/wdseller1231267992-76a000000191a894efbe0a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817364",
+        "mallType": "WD",
+        "itemId": "7274877033",
+        "title": "｜Clearance \" Four colors \" ｜Classic minimalist style \"J family\" chest big letters long-sleeved bottoming Heavyweight 320 grams Couple's model os loose fit D1#",
+        "picUrl": "https://si.geilicdn.com/wdseller1256149887-7e6a0000019213ee26930a230246_1284_1354.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1256149887",
+          "name": "哈狗帮帮帮起飞",
+          "logo": "https://si.geilicdn.com/pcdecorate1256149887-120500000173ad45be450a21c2a7-unadjust_297_297.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1823838",
+        "mallType": "TB",
+        "itemId": "719031359594",
+        "title": "SNOWDAY X STA co-branded men's and women's American basic logo short-sleeved T-shirt tide Basic TEE",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1702467859/O1CN01cCKj4E27vTWPDdArW_!!1702467859.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112322972",
+          "name": "SnowDay品牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1834467",
+        "mallType": "WD",
+        "itemId": "7460826776",
+        "title": "285#Stus*y Tee",
+        "picUrl": "https://si.geilicdn.com/pcitem1895556439-42bb0000019693e9c55d0a230115-unadjust_2880_2160.png",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1824895125",
+          "name": "repstreetclub",
+          "logo": "https://si.geilicdn.com/weidian1895556439-20350000019649ba86940a21146b_1124_1124.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1821424",
+        "mallType": "WD",
+        "itemId": "7464310482",
+        "title": "one ✅🟢 The highest version of hollow short lining",
+        "picUrl": "https://si.geilicdn.com/pcitem1940167021-768100000196b7a663950a239646_1500_2000.jpg",
+        "price": "¥410.00",
+        "toPrice": "$64.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1618900589",
+          "name": "Money tree",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817468",
+        "mallType": "TB",
+        "itemId": "733873932507",
+        "title": "RRL Men's Classic Logo Cotton Plain Knit T-Shirt RL91603",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3315538487/O1CN01vi3Xuf2CZ6HLPSDYf_!!0-item_pic.jpg",
+        "price": "¥1,390.00",
+        "toPrice": "$218.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "594561490",
+          "name": "RALPH LAUREN官方旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817600",
+        "mallType": "TB",
+        "itemId": "944839133681",
+        "title": "Nike / Nike official authentic summer new men's round neck breathable sports short sleeve T-shirt AJ7566-494",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/738840638/O1CN01LmTtGI1GaFXZUwVYh_!!0-item_pic.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68097684",
+          "name": "麦巨鞋类专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1816272",
+        "mallType": "WD",
+        "itemId": "7389256134",
+        "title": "***************",
+        "picUrl": "https://si.geilicdn.com/open1621283801-252808396-578e00000191f51b55210a239383_2500_2500.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817504",
+        "mallType": "WD",
+        "itemId": "7454557462",
+        "title": "M Mon Short Sleeve",
+        "picUrl": "https://si.geilicdn.com/pcitem1907900548-438b0000019657a172fb0a2396f4_1280_1280.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819093405",
+          "name": "Reps Find",
+          "logo": "https://si.geilicdn.com/pcdecorate1950647899-3e6400000196c86774a90a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817893",
+        "mallType": "TB",
+        "itemId": "760805448341",
+        "title": "Casablanca 早春新品纯棉短袖小众潮牌街头时尚休闲宽松男女T恤",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2217075303063/O1CN01boElF91YUu44PdO3K_!!2217075303063.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "256620357",
+          "name": "潮姐工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817317",
+        "mallType": "WD",
+        "itemId": "7406335469",
+        "title": "HE Short Sleeve Pink X Print 14HD",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-41bb000001955812fa720a210256_659_659.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817664",
+        "mallType": "TB",
+        "itemId": "925874442376",
+        "title": "2025 Casual Cotton Printed T-shirt for Women's Fashion T-shi",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3524031807/O1CN0195oyle1PDekPUeuG2_!!3524031807.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "325337962",
+          "name": "博博店铺",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1748501",
+        "mallType": "T1688",
+        "itemId": "851012958219",
+        "title": "American Style Trendy Brand SYNA WORLD Short Sleeve suit Drill Style High Street Hip Hop Ins Summer Casual Shorts for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20251020/mgzaalph_7cp4.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAycQOBVwxW3QKOIJftEWFg",
+          "name": "东莞市厚街西蜜欧服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 101,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145442821930826870",
+  "language": "en"
+}

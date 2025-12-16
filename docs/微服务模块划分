@@ -1,0 +1,24 @@
+1.service_spider（爬虫服务）
+从 findqc.com 爬取商品数据
+处理商品列表、详情、图片等
+输出：原始商品数据
+
+2.service_ai_pipe（AI 处理管道）
+调用 Qwen API（选图 + 初打标签）
+调用 Google Lens API（相似商品识别）
+调用 Qwen API（综合标签）
+输出：带 AI 标签的商品数据
+
+3.service_cluster（聚类服务）
+调用阿里云图搜 API
+按相似度分值聚类
+输出：聚类结果（cluster + members）
+
+4.shared_lib（共享库）
+数据库模型定义
+公共工具函数
+API 客户端封装
+
+5.消息队列（RabbitMQ）
+服务间异步通信
+任务队列管理

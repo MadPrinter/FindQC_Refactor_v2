@@ -1,0 +1,340 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2376464",
+        "mallType": "T1688",
+        "itemId": "951913554257",
+        "title": "Car Charger One to Five Super Fast Charging Car Cigarette Lighter Conversion Plug Car Charger",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkqhlm6_x85w.jpg",
+        "price": "¥15.80",
+        "toPrice": "$2.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBMO2IZXinZBtvQamc-AI4fA",
+          "name": "1688选品中心官方供应链",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1477856",
+        "mallType": "TB",
+        "itemId": "637057626368",
+        "title": "Duzhi Compatible Apple Aux Audio Cable for Car Use, 3.5mm Car Lossless Lightning Connection Cable for Car Phone Live Streaming, Audio Connection Cable, Apple to Audio Cable Adapter, Dedicated Port iPhone",
+        "picUrl": "https://cdn.findqc.com/item/20250614/mbvtli98_xon1.jpg",
+        "price": "¥23.21",
+        "toPrice": "$3.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113578264",
+          "name": "都芝旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "66722",
+        "mallType": "TB",
+        "itemId": "615953279583",
+        "title": "Car MP3 player multi-function Bluetooth receiver music U disk car cigarette lighter car QC30 charger",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlp1at_lrr3.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105662809",
+          "name": "源尚车品专营店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "64742",
+        "mallType": "TB",
+        "itemId": "748397575274",
+        "title": "McDonald's 67W Gallium Nitride Charger with Retractable Cable for iphone16 cell phone tablet ipad laptop macbook multi port fast charger pd british standard european standard travel plug 15",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mju8qm_4n19.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155832037",
+          "name": "倍小思数码折扣店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114733904194364577",
+  "language": "en"
+}

@@ -1,0 +1,364 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1636894",
+        "mallType": "WD",
+        "itemId": "7482454979",
+        "title": "New Fashion Hundred Short Sleeve-006-CNZB",
+        "picUrl": "https://si.geilicdn.com/open1658831453-1234478995-72510000019726c0e2030aa08290_1200_1200.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1658831453",
+          "name": "DripMill",
+          "logo": "https://si.geilicdn.com/shopedit1952637023-22f100000196ca6a80f80a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2495213",
+        "mallType": "TB",
+        "itemId": "851567350333",
+        "title": "Corteiz t Shirt American Trendy High Street Classic Basic Style Logo Print Unisex Pure Cotton Short-Sleeved T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2973405225/O1CN013Jposf1oT6S3tZhch_!!2973405225.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "292978826",
+          "name": "TAKE YOUR TIMES",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2432116",
+        "mallType": "WD",
+        "itemId": "7500999325",
+        "title": "New Fashion Hundred Short Sleeve-006",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-1f5200000197d506c18f0aa0c791_1200_1200.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1636819",
+        "mallType": "WD",
+        "itemId": "7322731336",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-725d00000190b44689e90a22d234_1920_1920.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 92,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1636692",
+        "mallType": "WD",
+        "itemId": "7404021777",
+        "title": "40A7-3c",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-0962000001954612e0680a2301b4_554_554.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1636620",
+        "mallType": "TB",
+        "itemId": "943719943291",
+        "title": "E590 Printed Long Sleeve T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/289554035/O1CN014Hzlkl1fg5C1JW9pK_!!289554035.png",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633917",
+        "mallType": "WD",
+        "itemId": "7491478885",
+        "title": "Short sleeves#",
+        "picUrl": "https://si.geilicdn.com/pcitem901961619676-68e600000198d83adb750a210256_800_800.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 104,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633795",
+        "mallType": "T1688",
+        "itemId": "897335745091",
+        "title": "Foreign Trade Wholesale Summer Tommy Short-Sleeved Men's Pure Cotton Lapel Tommy Men's T-Shirt Short-Sleeved Casual Half-Sleeved Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Z8ofRh2C3V7TwuSod_!!2219095748418-0-cib.jpg",
+        "price": "¥63.00",
+        "toPrice": "$9.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1AFa72_czUH-NJOE6IzW1g",
+          "name": "广州站西服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633615",
+        "mallType": "T1688",
+        "itemId": "890110287214",
+        "title": "2025 new foreign trade 3D digital printing l tide long short-sleeved letters printed summer couple T shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000007109/O1CN01h7nMSv22NyXgwDnAZ_!!6000000007109-0-tbvideo.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212494485580",
+          "name": "铅山县菊仙贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633506",
+        "mallType": "TB",
+        "itemId": "713145339140",
+        "title": "Palm Palm Angel Side Stripesd Casual Stand Collar Jacket Men's Sweatshirt Jacket Top Women's Spring & Fall Trend",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1758116570/O1CN01AVSiY81yP6z44TY1I_!!1758116570.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105529592",
+          "name": "阿三阿四",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633541",
+        "mallType": "T1688",
+        "itemId": "944935492093",
+        "title": "Cross-border high-quality Cough Syrup short-sleeved European and American stars with the same paragraph loose cotton round neck T-shirt short-sleeved spot",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000002721/O1CN01rFS1I01VyGlF6DQUS_!!6000000002721-0-tbvideo.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218892641773",
+          "name": "深圳市盐田区快易贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633542",
+        "mallType": "T1688",
+        "itemId": "914726064458",
+        "title": "Summer New Pure Cotton Short-Sleeved Trendy Brand Embroidered Checkmark T-Shirt for Men and Women, Student Couple Loose Sports T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IkEt291ZcyoTGWvHq_!!2219537143216-0-cib.jpg",
+        "price": "¥44.00",
+        "toPrice": "$6.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkL8SKwntkhTMuxbEquMikA",
+          "name": "广州相茹服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633340",
+        "mallType": "T1688",
+        "itemId": "877353109889",
+        "title": "Ralph Lauren Ralph Lauren oversize half-sleeve T-shirt for men and women printed cute tide bright color genderless",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017WC8Pk2IAGefhFL3J_!!2219158009245-0-cib.jpg",
+        "price": "¥57.80",
+        "toPrice": "$9.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219158009245",
+          "name": "佛山市湾流网络商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2321701",
+        "mallType": "TB",
+        "itemId": "785801427708",
+        "title": "Nike / Nike official authentic 2024 new summer men's short-sleeved trail running T-shirt DV9306-121",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/738840638/O1CN01ifu8d31GaFdlWhboO_!!0-item_pic.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68097684",
+          "name": "麦巨鞋类专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633299",
+        "mallType": "T1688",
+        "itemId": "820133849909",
+        "title": "Cross-border U.S. tide summer fashion men's short-sleeved T-shirt long section manufacturers 2024 trend of Europe and the United States Madonna print short-sleeved",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01EnPp4X1r8tnOxSWGA_!!2216588385587-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216588385587",
+          "name": "揭阳市揭东区新亨镇纤沫服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1496384",
+        "mallType": "T1688",
+        "itemId": "803688257120",
+        "title": "The original label one piece to send tide brand black eight St short-sleeved t-shirt correct high version seamless cylinder cloth foreign trade cross-border",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000000964/O1CN01FIHziV1IzYpo4FrhZ_!!6000000000964-0-tbvideo.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 253,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1314699",
+        "mallType": "T1688",
+        "itemId": "668862359000",
+        "title": "25FW hip-hop Europe and the United States high street ins men and women casual pants washed embroidery rivets zipper hooded sweater shorts",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nIwQZH1UCLgGOXoaW_!!2920992481-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1313351",
+        "mallType": "WD",
+        "itemId": "7254073675",
+        "title": "Cotton short sleeved T-shirt [to be shipped after the New Year]",
+        "picUrl": "https://si.geilicdn.com/open1663060185-1234478995-073200000190f4bbc7220a232357_800_800.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1663060185",
+          "name": "abc",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "942091",
+        "mallType": "WD",
+        "itemId": "7273711840",
+        "title": "Cotton short sleeved embroidered T-shirt",
+        "picUrl": "https://si.geilicdn.com/open1779104521-252808396-47ff00000190fd98c0990a210298_960_960.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1875660057",
+          "name": "得利优品",
+          "logo": "https://si.geilicdn.com/wdseller1840251789-680e0000018ec95cdfec0a22d4f5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 153,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "942072",
+        "mallType": "T1688",
+        "itemId": "815711806694",
+        "title": "Cross-border Casablanca summer American tide short-sleeved round neck t-shirt men and women with the same Casablanca letters printed",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01uAiIiM28VewNttoCG_!!2212227197938-0-cib.jpg",
+        "price": "¥47.00",
+        "toPrice": "$7.39",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 126,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143067621911212191",
+  "language": "en"
+}

@@ -1,0 +1,516 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2174979",
+        "mallType": "TB",
+        "itemId": "549796720695",
+        "title": "nike nike sports hairbands boys kids basketball jordan headbands sweat absorbent antiperspirant sweatband fitness female bandana",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2989039923/O1CN01JsSQja2NAn8V4aWsS_!!0-item_pic.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "275877499",
+          "name": "逸动运动户外专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3201294",
+        "mallType": "T1688",
+        "itemId": "845246171582",
+        "title": "字母发带运动头带女吸汗夏篮球跑步男健身导汗发箍瑜伽洗脸束发带",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WVLNCv2KogsAlmcny_!!2218788599604-0-cib.jpg",
+        "price": "¥6.64",
+        "toPrice": "$1.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218788599604",
+          "name": "义乌市夏厢家电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3147493",
+        "mallType": "T1688",
+        "itemId": "555943544026",
+        "title": "1PC黑底白字摩拖车汽车个性刺绣钥匙扣绣花飞行钥匙链",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01H4Crkd1YKMj6NGIiK_!!3340673040-0-cib.jpg",
+        "price": "¥1.70",
+        "toPrice": "$0.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3340673040",
+          "name": "深圳市唯创达科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2762555",
+        "mallType": "TB",
+        "itemId": "777582108434",
+        "title": "Sports Headband, Men's Headscarf, Sweat-Absorbent Headband, Women's Sweat-Guiding Band, Running Anti-Sweat Hair Band, Fitness Anti-Sweat Band",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3862288185/O1CN01RcMZIe2AKmjv7XMAB_!!3862288185.jpg",
+        "price": "¥30.58",
+        "toPrice": "$4.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "539099605",
+          "name": "高端进口用品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2719867",
+        "mallType": "T1688",
+        "itemId": "865457400758",
+        "title": "Cotton Embroidered Small Hook 2024 Men's and Women's Crewneck New Sports Loose Casual Summer Half-sleeved Top Short-sleeved T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01JMDOUT1zGhVv0VUNO_!!2218972736687-0-cib.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218972736687",
+          "name": "日照市东港区派涵服装商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2745490",
+        "mallType": "TB",
+        "itemId": "924690972715",
+        "title": "Sports Headband for Women, Non-Slip, Sweat-Wicking, Yoga, Running, Fitness Headband, Elastic Hairband, Sweat-Absorbent, Breathable, Anti-Sweat Headband",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh47xycp_ak2o.jpg",
+        "price": "¥30.70",
+        "toPrice": "$4.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "184655761",
+          "name": "轩可户外",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2170553",
+        "mallType": "TB",
+        "itemId": "633380431628",
+        "title": "Li Ning sports headband for men, sweat absorbing and antiperspirant headband for women, anti sweat running headband, headband for women, hair tie, forehead protection, wearing",
+        "picUrl": "https://cdn.findqc.com/item/20250821/meknafyu_m5ax.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72012185",
+          "name": "鑫焱运动户外专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1104281",
+        "mallType": "TB",
+        "itemId": "597257241336",
+        "title": "Tide Sup Hairband Netflix Reflective Sports Hip Hop Hairband ins Turban Hairband Headband Headwear Tide",
+        "picUrl": "https://cdn.findqc.com/item/20250403/m91gv364_f0ke.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "416628177",
+          "name": "oncity潮周刊",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "251639",
+        "mallType": "TB",
+        "itemId": "669132101197",
+        "title": "Sup Trendy Brand Wide Edge Men's and Women's Versatile Sports Yoga Running Headbands Ins Street Straightening Headbands Headbands Headbands Forehead Protection",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42paj7a_ebbe.jpg",
+        "price": "¥25.52",
+        "toPrice": "$4.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "386297232",
+          "name": "曼曼特惠店",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "69382",
+        "mallType": "TB",
+        "itemId": "801189359468",
+        "title": "alo yoga hair band high elastic breathable hair towel sweat absorbent sweat guide men and women's models yoga running fitness sports hair ties",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmmpf3_qdja.jpg",
+        "price": "¥16.31",
+        "toPrice": "$2.56",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "64322",
+        "mallType": "WD",
+        "itemId": "4419184775",
+        "title": "supreme20ss phantom sticker tide logo sticker correct waterproof stickers",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjpwps_i40g.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "231902",
+          "name": "苏坡密少年的一天",
+          "logo": "https://si.geilicdn.com/bj-wd-w231902-1524653502444-1823840786_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "60285",
+        "mallType": "TB",
+        "itemId": "599836777135",
+        "title": "NIKE hairbands sports running basketball yoga men and women hair ties leather band non-slip Nike thin headbands 3 packs",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3miaz5u_ii9v.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "175922483",
+          "name": "nike耐克威聚专卖店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "28924",
+        "mallType": "TB",
+        "itemId": "678913322600",
+        "title": "Elastic Headband with Seams for Running, Knitted Sports Headband, Sweat-Proof, Sweat-Wicking, Non-Slip, Activity Gift, Marathon, Free Shipping",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj271h_a4nu.jpg",
+        "price": "¥15.40",
+        "toPrice": "$2.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65572613",
+          "name": "鹏鹏宝贝屋",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16510",
+        "mallType": "TB",
+        "itemId": "689741089103",
+        "title": "Mountainfever Outdoor Sports Winter Cold-Proof Fleece Sports Elastic Ear Protection Headband",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nedpq6_s8yn.jpg",
+        "price": "¥71.76",
+        "toPrice": "$11.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "227146799",
+          "name": "MOUNTAIN FEVER 高山热",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141020782553873264",
+  "language": "en"
+}

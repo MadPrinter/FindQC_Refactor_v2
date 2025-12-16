@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2125671",
+        "mallType": "WD",
+        "itemId": "7457714425",
+        "title": "Washed T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250817/mefjhwcw_s8js.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1742857885",
+          "name": "阳光彩虹小白马",
+          "logo": "https://si.geilicdn.com/shopedit1950079127-607b000001992eed6a150a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2121137",
+        "mallType": "TB",
+        "itemId": "963967031190",
+        "title": "Crtzstar old mask headgear",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgne9uz8_qlix.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "447969573",
+          "name": "Rep reps",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2120793",
+        "mallType": "WD",
+        "itemId": "7519479093",
+        "title": "Zegn * Men's wool collar sweater with a lazy and stylish style, knitted sweater in two colors, business casual sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memfg2su_etvh.jpg",
+        "price": "¥69.90",
+        "toPrice": "$10.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "896627993",
+          "name": "NS男装原创设计",
+          "logo": "https://si.geilicdn.com/bj-wd-896627993-1514545020580-815922764_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2123724",
+        "mallType": "T1688",
+        "itemId": "781529499230",
+        "title": "跨境潮牌卡萨布兰卡短袖 幻境之门字母logo印花个性圆领男女同款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01C5VorT1SXkmaoS7kJ_!!2212744362257-0-cib.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216935747384",
+          "name": "上饶市欧隆服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2832155",
+        "mallType": "TB",
+        "itemId": "702791547730",
+        "title": "Heavyweight 270g! Washed and Distressed! American-Style Amekaji Ripped High-Weight Short-Sleeve T-Shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhdlx5wz_ruo6.jpg",
+        "price": "¥71.37",
+        "toPrice": "$11.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102246172",
+          "name": "Autismss宝藏屋",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2832139",
+        "mallType": "TB",
+        "itemId": "748964897572",
+        "title": "Autismss Treasure House Nine Inch Nails 9inch Nail Band Unisex Simple Couple Short Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhdlhn84_hxuf.jpg",
+        "price": "¥51.47",
+        "toPrice": "$8.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102246172",
+          "name": "Autismss宝藏屋",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2832076",
+        "mallType": "TB",
+        "itemId": "926636667168",
+        "title": "[Exclusive in Stock] Undercover 06Ss t Issue Klaus Black Printed Short Sleeve Tee Uc High Street",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhdiwfvg_nng6.jpg",
+        "price": "¥70.18",
+        "toPrice": "$11.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "495131552",
+          "name": "撕裂的天堂TEAR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1872886",
+        "mallType": "TB",
+        "itemId": "700335918280",
+        "title": "Vintage correct version 240g washed and aged white ink direct spray print vtg high street round neck short sleeved European and American",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhdf4p4m_zc77.jpg",
+        "price": "¥75.31",
+        "toPrice": "$11.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "189025876",
+          "name": "努力的皇帝哥",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1905730",
+        "mallType": "T1688",
+        "itemId": "920479728473",
+        "title": "High Quality American Street Hip Hop Printed Short Sleeve T-shirt Men's 2025 New Summer Trendy Brand Trendy Half Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhd8rmv3_fp4z.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSodJut_h4Qq7nDZyIcOeRw",
+          "name": "广州市集潮社服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "38223",
+        "mallType": "T1688",
+        "itemId": "761938276917",
+        "title": "Cross border high street CRTZ Devil's Island European and American retro letter LOGO printed street casual men's and women's short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nlvzoo_qywq.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnxGJPsV1VyVufRv_dFairQ",
+          "name": "镇平县启利贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2685656",
+        "mallType": "TB",
+        "itemId": "982333383861",
+        "title": "Cl0197 Long Sleeve 1996",
+        "picUrl": "https://cdn.findqc.com/item/20251020/mgyspwgz_cc0o.jpg",
+        "price": "¥212.76",
+        "toPrice": "$33.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "305541146",
+          "name": "Top",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 102,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2707324",
+        "mallType": "WD",
+        "itemId": "7562745761",
+        "title": "Five star printed T-shirt SB31",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhd71x94_rqbc.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1765554595",
+          "name": "Singor2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2611378",
+        "mallType": "TB",
+        "itemId": "980510923908",
+        "title": "【Bu Yun Kui】Blood-Colored Lover Mbv Kanye Style Pure Handmade Screen Printing with Thermosetting Ink Tee",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhd4hc1w_frs8.jpg",
+        "price": "¥201.73",
+        "toPrice": "$31.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "341238325",
+          "name": "步云魁丝印studio",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2016171",
+        "mallType": "T1688",
+        "itemId": "785650433509",
+        "title": "AMIRI Short-sleeved Leather Letter Embroidery Color Splash Ink Graffiti Letter Slogan Printed fog American Trendy T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh5wx65a_xinr.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBzzGEO5M7dIHJAbLYkpwbw",
+          "name": "上饶市欧隆服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "756150",
+        "mallType": "WD",
+        "itemId": "7389787040",
+        "title": "Letter print high version short sleeved T-shirt for men and women loose street trend",
+        "picUrl": "https://cdn.findqc.com/item/20250712/mczej5bs_uvhz.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "338114716",
+          "name": "Cool Hipster",
+          "logo": "https://si.geilicdn.com/vshop14363045282069674671.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1077593",
+        "mallType": "T1688",
+        "itemId": "785585902006",
+        "title": "Cross-border Men's Amiri Short-sleeved Summer Trendy Brand Street Classic Alphabet AMIRI Printed Series Loose T-shirt for Men",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh5wx6pa_vcpf.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBzzGEO5M7dIHJAbLYkpwbw",
+          "name": "上饶市欧隆服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2392002",
+        "mallType": "WD",
+        "itemId": "7527508843",
+        "title": "Factory High Quality Loose Short Sleeves 10",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh5wxca6_x7sp.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1851689603",
+          "name": "Hype Buy",
+          "logo": "https://si.geilicdn.com/pcdecorate1974534978-46b7000001983715f0490a23041a-unadjust_512_512.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1538282",
+        "mallType": "TB",
+        "itemId": "858396247000",
+        "title": "Kith Badman Bat Man Anniversary Collection B",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhd1ha8h_22xe.jpg",
+        "price": "¥110.48",
+        "toPrice": "$17.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "393210361",
+          "name": "最高荣誉",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1304961",
+        "mallType": "WD",
+        "itemId": "7461063846",
+        "title": "Cotton unisex T-shirt with printed short sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhd06yq0_u4rn.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864913249",
+          "name": "JTC Jack&#39;s treasure chest",
+          "logo": "https://si.geilicdn.com/pcdecorate1775697816-2d580000019002b5b42f0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "9940",
+        "mallType": "T1688",
+        "itemId": "653814842534",
+        "title": "Correct European and American fashion brand half sleeve men's and women's cartoon printed bear printed couple loose short sleeve T-shirt bottoming shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mav6zi_aupj.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTDo2IIHlSXL-WMSIsb0YLw",
+          "name": "广州肥仔服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 289,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145218081917112566",
+  "language": "en"
+}

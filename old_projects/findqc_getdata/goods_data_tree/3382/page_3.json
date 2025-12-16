@@ -1,0 +1,74 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "31834",
+        "mallType": "TB",
+        "itemId": "680714266022",
+        "title": "Nanmanshe genuine \"heavenly officials to give blessings\" manga peripheral Xie Ren flower city ghost town reunion acrylic standing card",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njpazi_0pfs.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "30154",
+        "mallType": "TB",
+        "itemId": "746738178037",
+        "title": "Mimachimu crash star dome railroad cos clothes Dr. Truth full set suit cosplay anime game costumes male",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nja5od_wcna.jpg",
+        "price": "¥668.00",
+        "toPrice": "$105.04",
+        "status": "normal",
+        "categoryId": 18,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "14395",
+        "mallType": "TB",
+        "itemId": "756071996401",
+        "title": "Dimensional Yihonkai Impact Star Dome Railway Cos Suit Sand Gold Cosplay Anime Game Costume Complete Set",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcwfcu_prcb.jpg",
+        "price": "¥699.00",
+        "toPrice": "$109.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "379347003",
+          "name": "次元依品牌店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "14278",
+        "mallType": "TB",
+        "itemId": "662534748875",
+        "title": "Anime Demon Slayer Children's Cosplay Costume Kamado Tanjirou Nezuko Hashibira Inosuke Cosplay Outfit Set",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcup8i_ilex.jpg",
+        "price": "¥24.09",
+        "toPrice": "$3.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "114764615",
+          "name": "漫之屋动漫坊",
+          "type": "TB"
+        },
+        "categoryId": 32,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141196781917131459",
+  "language": "en"
+}

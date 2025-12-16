@@ -1,0 +1,384 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1439393",
+        "mallType": "WD",
+        "itemId": "7468696531",
+        "title": "Rear printing",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh97rpkj_crku.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2735741",
+        "mallType": "TB",
+        "itemId": "856711939476",
+        "title": "At Absurd Town Two-Dimensional Anime Y2K Couple Style Short-Sleeved Yabi Cute Kawaii Black and White T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh617fog_00il.jpg",
+        "price": "¥79.78",
+        "toPrice": "$12.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "306439237",
+          "name": "荒诞小镇 ABSURD",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1501299",
+        "mallType": "WD",
+        "itemId": "7471096580",
+        "title": "【 DX19 】 Summer New Cotton Round Neck Short Sleeve Men's T-shirt Solid Color Casual Fashion Half Sleeve Bottom Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mh08qiyw_s1oj.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 288,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "3762",
+        "mallType": "WD",
+        "itemId": "4297246560",
+        "title": "Limited time discount on Nx Stussy city limited edition couple short sleeved shirt (navy green, white, black) by Wang Yibo (in stock)",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3jcgh_1j8t.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "343709482",
+          "name": "潮室66",
+          "logo": "https://si.geilicdn.com/wdseller343709482-01bd0000017b958723570a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 204,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1508282",
+        "mallType": "WD",
+        "itemId": "7466757467",
+        "title": "Produced by Youmi, SS25 Monc-MonK style wool embroidered short sleeved shirt/pure wool felt/latest Japanese Bailingda embroidery machine/Xinjiang long staple cotton/British Gaoshi thread",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8wuj6d_0a7s.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2772439",
+        "mallType": "WD",
+        "itemId": "7456055999",
+        "title": "Jenny Turtle's independent VFW24 show style embroidered bead round neck short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8wupqi_i0yf.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2561021",
+        "mallType": "WD",
+        "itemId": "7518410719",
+        "title": "【M】 New double ring five bar short sleeved black",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgggb7vg_s92s.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802771872",
+          "name": "鲨鱼饲养员 Shark breeder",
+          "logo": "https://si.geilicdn.com/wdseller1425026222-11d200000192ba3610ae0a23111a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1855387",
+        "mallType": "TB",
+        "itemId": "956865408575",
+        "title": "Nettspend 2025 Early Life Crisis Merch Tour Limited Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1oln0i_lcna.jpg",
+        "price": "¥70.65",
+        "toPrice": "$11.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 1,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "2675488",
+        "mallType": "T1688",
+        "itemId": "892069566188",
+        "title": "Foreign Trade Ancient Pure Cotton 2025 Summer New T-shirt Cartoon Printed Casual All-match Cartoon T-shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1muo6k_1sn0.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvmr53n05kE-wxA1EQNC24Q",
+          "name": "广州依棠服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1136669",
+        "mallType": "T1688",
+        "itemId": "885572639949",
+        "title": "Correct Edition MB Short Sleeve Men's and Women's Couple Dress Colorful Wings Feather T-shirt Marcelo European and American Fashion Brand Classic Half Sleeve T",
+        "picUrl": "https://cdn.findqc.com/item/20250810/me5n2nf0_8za4.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVet7lIMIxlEI9DoMcC7XEA",
+          "name": "广州大魔国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2560675",
+        "mallType": "T1688",
+        "itemId": "917095240919",
+        "title": "Men's Brazil flag printing factory direct personalized wind gradient design round neck short sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1ls5cu_ujyw.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgHuSUWIcI2Zrl-VQRN9lZA",
+          "name": "上饶市贝菲尔服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "17890",
+        "mallType": "T1688",
+        "itemId": "751647035617",
+        "title": "Japanese national team jersey 2023 cartoon special anime version Football Junior football uniform short sleeve big empty wing football",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3new9ay_qz1f.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvtmxYW0qcPDDFMdcgni8KQ",
+          "name": "广州白云区绫致服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 165,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1500314",
+        "mallType": "T1688",
+        "itemId": "891207817125",
+        "title": "230g heavy cotton washed old retro T-shirt tide brand American high street tide brand class clothing diy printing logo",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8qeqyf_v2l0.jpg",
+        "price": "¥20.98",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHDLzaYrHY_LM6JDqrNcsyQ",
+          "name": "上海纽衣纺织品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2725794",
+        "mallType": "T1688",
+        "itemId": "976580060482",
+        "title": "高版本 迪家2025秋季新款Pari*标志贴布刺绣休闲宽松男女短袖T恤",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8qeqkt_0da9.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB43c0D9eZAcHe9Z2FTn_aSA",
+          "name": "广州青澜服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2695650",
+        "mallType": "TB",
+        "itemId": "948028653302",
+        "title": "Porsche 911 Car 993Gt2 American Retro 80S Short-Sleeved T-Shirt Men's Digital Direct Injection Heavy Half Sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8qeqki_gbn5.jpg",
+        "price": "¥41.16",
+        "toPrice": "$6.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "478830324",
+          "name": "BOMBA STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2050752",
+        "mallType": "T1688",
+        "itemId": "916645195809",
+        "title": "Cross-border wholesale a generation of hair ape casual loose couples short sleeve T-shirt men and women with camouflage printed round neck",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8qer4y_kzs7.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIaI0BcHvaLEuHxZA3MWYMw",
+          "name": "南宁市良庆区杰毅鑫服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "37276",
+        "mallType": "TB",
+        "itemId": "761971107357",
+        "title": "ins American-Style Heavy Vintage Embroidered Circle Retro Unisex Loose Hip-Hop Oversized Short-Sleeve T-Shirt Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nl7iad_1zcl.jpg",
+        "price": "¥106.88",
+        "toPrice": "$16.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "254401958",
+          "name": "33 TRENTE",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 330,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2193289",
+        "mallType": "T1688",
+        "itemId": "931047188172",
+        "title": "Rbs Men's 305g Heavyweight Fog Pure Cotton Short-Sleeved American Loose T-Shirt Pure Color Basic Oversize Short-Sleeved",
+        "picUrl": "https://cdn.findqc.com/item/20250908/mfat2wqz_9wr1.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBruHxeZ1TvnGIcSHzEV1OFw",
+          "name": "中山市瑞搏斯服装店",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2,
+        "picWidth": "1125",
+        "picHeight": "1125"
+      },
+      {
+        "id": "2120477",
+        "mallType": "TB",
+        "itemId": "956665136630",
+        "title": "Mowalola London Opium Yvl Style Red Angel War Horse Embroidered Slim Polo Shirt Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250824/mep2pw13_2z1c.jpg",
+        "price": "¥102.15",
+        "toPrice": "$16.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "462531624",
+          "name": "Infine",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 2,
+        "picWidth": "1916",
+        "picHeight": "2556"
+      },
+      {
+        "id": "2755069",
+        "mallType": "T1688",
+        "itemId": "984659626560",
+        "title": "潮牌新款秋冬款刺绣字母连帽卫衣宽松休闲百搭纯棉男女情侣同款",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8ofzy1_vh2q.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBjYK269EhZ0jni2KKt5zghw",
+          "name": "广州新羚服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145291772553888233",
+  "language": "en"
+}

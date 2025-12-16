@@ -1,0 +1,342 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "436509",
+        "mallType": "TB",
+        "itemId": "863895002728",
+        "title": "E584 Printed Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250410/m9bdgo5i_8kzs.jpg",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "436331",
+        "mallType": "WD",
+        "itemId": "7264600325",
+        "title": "[9.5/10] LAT French 25 Year Autumn New Men's Zipper Hoodie Coat 2702",
+        "picUrl": "https://cdn.findqc.com/item/20250731/mdqeg9o9_x9v7.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708531204",
+          "name": "French fish",
+          "logo": "https://si.geilicdn.com/weidian1487675303-18ed00000179a1d9e6190a217216_1312_1312.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "435285",
+        "mallType": "TB",
+        "itemId": "786863574656",
+        "title": "Trendy SY tracksuit hooded sweatshirt long pants set",
+        "picUrl": "https://cdn.findqc.com/item/20250430/ma3nhl0i_hccc.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "124663923",
+          "name": "Nothing2do",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 55,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "434276",
+        "mallType": "WD",
+        "itemId": "7283412502",
+        "title": "RH Sweatshirt POLO Black and White Colorblock 89E",
+        "picUrl": "https://cdn.findqc.com/item/20250103/m5gbl491_391w.jpg",
+        "price": "¥208.00",
+        "toPrice": "$32.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "434271",
+        "mallType": "WD",
+        "itemId": "7277555610",
+        "title": "Lens Sweatshirt Set",
+        "picUrl": "https://cdn.findqc.com/item/20250103/m5fsnod5_bcmw.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704512009",
+          "name": "微小店",
+          "logo": "https://si.geilicdn.com/wdseller1808630503-24340000018ec283e2b90a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "426394",
+        "mallType": "WD",
+        "itemId": "7338531629",
+        "title": "High quality set CE-C001",
+        "picUrl": "https://cdn.findqc.com/item/20250714/md394x6g_0uk5.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1610848089",
+          "name": "MangoBuy",
+          "logo": "https://si.geilicdn.com/shopedit1847703580-53810000019077726ce90a2102c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "425279",
+        "mallType": "T1688",
+        "itemId": "682558197118",
+        "title": "Cross-border foreign trade tide brand classic models red lettering gold label embroidery round neck sweater loose men and women couples versatile hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250102/m5e92l60_94fc.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "423325",
+        "mallType": "TB",
+        "itemId": "801528704808",
+        "title": "ins American Street Style Creative Geometric Pattern Print Vintage Distressed Hoodie Unisex Loose Hip-Hop Sweatshirt Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250702/mclqdrk8_ejv7.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "254401958",
+          "name": "33 TRENTE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "417272",
+        "mallType": "WD",
+        "itemId": "7316058251",
+        "title": "suit",
+        "picUrl": "https://cdn.findqc.com/item/20241231/m5cbf77h_11k9.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "418303",
+        "mallType": "T1688",
+        "itemId": "851459064982",
+        "title": "2024 autumn and winter new trendy unisex printed cross-border loose Harajuku ins hooded sweatshirt jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250126/m6cfxpda_jpzf.jpg",
+        "price": "¥59.90",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBlq2DYXytB87Sy-xw6GCKkw",
+          "name": "深圳市德依迪电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "417317",
+        "mallType": "WD",
+        "itemId": "7259605670",
+        "title": "BRO hoodie zipper with black planet D116 in the middle",
+        "picUrl": "https://cdn.findqc.com/item/20250101/m5d8ynp7_nmvk.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "417310",
+        "mallType": "WD",
+        "itemId": "7250386250",
+        "title": "HE Sweatshirt Hoodie Black White Long Striped Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250101/m5d67myr_z4d9.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "417298",
+        "mallType": "WD",
+        "itemId": "7283349108",
+        "title": "VI Sweatshirt Hoodie Ballerina Avatar 15B",
+        "picUrl": "https://cdn.findqc.com/item/20250101/m5cvpnze_amti.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "417286",
+        "mallType": "WD",
+        "itemId": "7298437150",
+        "title": "k+l printed hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241231/m5cm5ziw_hj74.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1740512853",
+          "name": "happy time",
+          "logo": "https://si.geilicdn.com/shopedit1900256189-196800000192a8b98b1c0a20e2c5-unadjust_352_352.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "417285",
+        "mallType": "WD",
+        "itemId": "7310117376",
+        "title": "【 Hell Series 】 High Street Washed Old Heavy Industry Head Printed Casual Hoodie Couple's Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241231/m5clqn8b_mlkn.jpg",
+        "price": "¥205.00",
+        "toPrice": "$32.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "411716067",
+          "name": "Top outfit",
+          "logo": "https://si.geilicdn.com/shopedit411716067-19ac0000019971e8cc690a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "415275",
+        "mallType": "T1688",
+        "itemId": "847001013115",
+        "title": "Original development: Ac washed old studios, faded, blurred, blurred logo, round neck long sleeved sweatshirt, trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241231/m5c78icj_q6hv.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcrqIbd_lqzmodLNlceKlFg",
+          "name": "常州宇选电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "413310",
+        "mallType": "TB",
+        "itemId": "850196446757",
+        "title": "Single-Stitched Vtg Erd Short Wide-Fit Hooded Sweatshirt, Washed Black Sweatshirt, Thickened 550g",
+        "picUrl": "https://cdn.findqc.com/item/20241231/m5bqh6x7_lyue.jpg",
+        "price": "¥171.81",
+        "toPrice": "$27.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125347768",
+          "name": "YGN098单缝制造",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "413290",
+        "mallType": "WD",
+        "itemId": "7287042427",
+        "title": "st jersey foreign trade single wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20241231/m5bkjp2m_ad8f.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1729064756",
+          "name": "做点有意义的事",
+          "logo": "https://si.geilicdn.com/wdseller1515917576-1dbb0000017baf4e595c0a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148096052553907588",
+  "language": "en"
+}

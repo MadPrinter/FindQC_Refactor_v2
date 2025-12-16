@@ -1,0 +1,641 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2199346",
+        "mallType": "WD",
+        "itemId": "7448826865",
+        "title": "[DX38] G0AT",
+        "picUrl": "https://si.geilicdn.com/pcitem1810691551-445700000190fdfb656f0a23038e_1080_1080.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1804228360",
+          "name": "AB-WG",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2229775",
+        "mallType": "T1688",
+        "itemId": "896646526868",
+        "title": "Cross-border running sports suit men's spring and fall quick-drying outdoor morning running training clothes fall and winter fitness clothes jacket men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mz9ibc1oe5zNDQCR8_!!2212454665249-0-cib.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212454665249",
+          "name": "石狮市崛夜雪锋服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1892385",
+        "mallType": "T1688",
+        "itemId": "950870851321",
+        "title": "Outdoor Sportswear Men's Training Clothing Quick Dry Top Half Zipper Long Sleeve Long Pants",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016wzpji2KcKC7xufe9_!!2220216549577-0-cib.jpg",
+        "price": "¥36.34",
+        "toPrice": "$5.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220216549577",
+          "name": "上海乐宅居科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3104850",
+        "mallType": "TB",
+        "itemId": "897912055663",
+        "title": "2025Men's Suit Two-Piece Tracksuit Casual Sports Jacket+Trou",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2219438423469/O1CN01eRBYOZ1bUqzZRyjbz_!!2219438423469.jpg",
+        "price": "¥101.92",
+        "toPrice": "$16.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "451842384",
+          "name": "青木子男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "847333",
+        "mallType": "T1688",
+        "itemId": "856754378268",
+        "title": "corteiz Alcatraz New American Style Street Ins Hooded Sweatshirt Cardigan Zipper Jacket Loose Sweatpants suit",
+        "picUrl": "https://cdn.findqc.com/item/20250221/m7dlur3v_2nyd.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPFKciTKd6g4PTkvU3Xgjdg",
+          "name": "佛山江思电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 504,
+        "qcVideoCnt": 2,
+        "picWidth": "799",
+        "picHeight": "1066"
+      },
+      {
+        "id": "3103984",
+        "mallType": "T1688",
+        "itemId": "860720266658",
+        "title": "秋冬加绒外套运动服男休闲三条杠套装户外跑步卫衣卫裤两件套整套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LKfMJT1nTjO6cdx2H_!!2213290855091-0-cib.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213290855091",
+          "name": "揭阳市粤美服装实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2742893",
+        "mallType": "WD",
+        "itemId": "7542690427",
+        "title": "DX38] Zipper Hooded Jacket Straight Through Sweatpants Casual Sports Suit",
+        "picUrl": "https://si.geilicdn.com/pcitem901940024420-340700000198645744cf0a8134f0_1279_1706.jpg",
+        "price": "¥289.00",
+        "toPrice": "$45.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3202942",
+        "mallType": "WD",
+        "itemId": "7440259596",
+        "title": "A三条潮流-套装",
+        "picUrl": "https://si.geilicdn.com/open2108960-1234478995-28c400000195f69a2c170a231226_1170_1166.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2108960",
+          "name": "Affordable    SHOP",
+          "logo": "https://si.geilicdn.com/shopeditw2108960-1661000001974b444eec0a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2503289",
+        "mallType": "WD",
+        "itemId": "7490027910",
+        "title": "A Di Trend Set",
+        "picUrl": "https://si.geilicdn.com/open1809771836-1234478995-1a4e0000019750c36fba0a23b4de_800_800.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809771836",
+          "name": "Street Pulse",
+          "logo": "https://si.geilicdn.com/wdseller1553638582-2db300000197497eb29b0a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049571",
+        "mallType": "WD",
+        "itemId": "7528922247",
+        "title": "运动连帽夹克休闲裤外套  套装WhatsApp+86 19172868689",
+        "picUrl": "https://si.geilicdn.com/wdseller1888543492-730100000192e1caf6740a210139_1170_1169.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1654750211",
+          "name": "B--h",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3191639",
+        "mallType": "T1688",
+        "itemId": "727026254205",
+        "title": "Spring and Autumn Casual Sports suit Men's Long-sleeved Cardigan Sweater Handsome Three-pole College Couple's Loose Two-piece Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01irsW5P1kyvM5DJUGE_!!2215949434753-0-cib.jpg",
+        "price": "¥8.50",
+        "toPrice": "$1.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBg8G9BHCloZ3qmVoh-IaVQQ",
+          "name": "揭阳市揭东区新亨镇佳洪服装网店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3187730",
+        "mallType": "WD",
+        "itemId": "7521632533",
+        "title": "RX10-----聚酯纤维3件套(7天预售，定制版不退不换)",
+        "picUrl": "https://si.geilicdn.com/open1831604845-1234478995-67ea0000019888899de60a8115c2_800_800.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1831604845",
+          "name": "department store",
+          "logo": "https://si.geilicdn.com/shopedit1939814983-21100000019601848ce00a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2912015",
+        "mallType": "WD",
+        "itemId": "7491552182",
+        "title": "LL55-24 fall and winter new sports set-WhatsApp +86 13656920862findsspreadsheet.com",
+        "picUrl": "https://si.geilicdn.com/open1648936853-1234478995-74ac000001975f2a0d5f0a23b4de_1440_1920.jpg",
+        "price": "¥465.60",
+        "toPrice": "$73.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648936853",
+          "name": "StyleTransit",
+          "logo": "https://si.geilicdn.com/shopedit1898318301-4f3900000198d55a5daa0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2873762",
+        "mallType": "WD",
+        "itemId": "7567295833",
+        "title": "HJHX-New Autumn and Winter Quick Dry Sports Hooded Windproof Suit Loose Casual Pants Men's Drawstring Thin Quick Dry Pants-WhatsApp +86 185 6795 5052",
+        "picUrl": "https://si.geilicdn.com/pcitem901972742651-67c800000199aa7abb6e0a2315ef_1529_1600.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867502173",
+          "name": "Perfect quality shop",
+          "logo": "https://si.geilicdn.com/shopedit1952691964-51d900000197ff02727a0a2301b4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3175873",
+        "mallType": "WD",
+        "itemId": "7459374445",
+        "title": "运动装二",
+        "picUrl": "https://si.geilicdn.com/open1806724293-1234478995-2386000001969dd867ed0aa08290_2000_2000.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1806724293",
+          "name": "Lucky Life",
+          "logo": "https://si.geilicdn.com/weidian1877316552-0ac8000001936cb6f50b0a2301b4_1056_1056.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1209398",
+        "mallType": "T1688",
+        "itemId": "895420146138",
+        "title": "Hot selling Amazon men's spring and autumn jackets, long pants, hooded sports and leisure sets, hooded sets, casual new sports items",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eHppCE22y9xYq7NUC_!!2218518827188-0-cib.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLXPp4o2nOKg8uenqkWt7Og",
+          "name": "常熟市梅李镇涅涅服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2594302",
+        "mallType": "WD",
+        "itemId": "7555322179",
+        "title": "Hook label sweater (pants) high quality",
+        "picUrl": "https://si.geilicdn.com/pcitem1988643421-351c0000019992cbb6330a231177_1280_960.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1766748771",
+          "name": "High-quality 1：1",
+          "logo": "https://si.geilicdn.com/wdseller1988643421-330f00000199ac62ed480a210256_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3172993",
+        "mallType": "WD",
+        "itemId": "7430204307",
+        "title": "A迪潮流套装-0217",
+        "picUrl": "https://si.geilicdn.com/open1639875853-1234478995-082400000195b9a620550a8115c2_800_800.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639875853",
+          "name": "welcome",
+          "logo": "https://si.geilicdn.com/wdseller1920080181-24880000019590566eb00a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1789616",
+        "mallType": "TB",
+        "itemId": "773363972190",
+        "title": "2024 Spring and Autumn New Trendy Brand Jacket New Hoodie American Retro Wide Pants Drawstring Knitted Sports Coat",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3020269996/O1CN01chEScG2NiE53Ct3RD_!!3020269996.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "438756711",
+          "name": "篮球周边服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3074527",
+        "mallType": "T1688",
+        "itemId": "909851409600",
+        "title": "Men's 2025 New Ice Silk Sports Casual suit Men's Summer Breathable Thin Short-sleeved T-shirt/Pants Two-piece Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PJLcev1oe5zEveSkD_!!2212454665249-0-cib.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBS-H7tXkn-sQOo-2DG8CxjQ",
+          "name": "石狮市奥斯卡丹服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114543060194369797",
+  "language": "en"
+}

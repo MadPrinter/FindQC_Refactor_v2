@@ -1,0 +1,299 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "182843",
+        "mallType": "WD",
+        "itemId": "4425180622",
+        "title": "330GPolo Double Belly Hoodie/16, Fall/Winter Ralph Lauren Men's Solid Color Double Belly Hoodie Hoodie Loose Long Sleeve Paul Polo",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr7vxi_rj0n.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1224398227",
+          "name": "小麋鹿",
+          "logo": "https://si.geilicdn.com/wdseller1224398227-0a7b0000017221d1c1b20a21c2a7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182821",
+        "mallType": "WD",
+        "itemId": "7262384015",
+        "title": "080125 heima",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr7m1o_w6pi.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 54,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182829",
+        "mallType": "TB",
+        "itemId": "779333000408",
+        "title": "Sports Set Autumn/Winter New Collaboration Street Style Zipper Hoodie Straight-Leg Sweatpants Sports Casual Suit for Men",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr7nwc_lwed.jpg",
+        "price": "¥224.69",
+        "toPrice": "$35.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "308640679",
+          "name": "小艾Windrunner",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182820",
+        "mallType": "WD",
+        "itemId": "7267159314",
+        "title": "0828158  heima",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr7l5h_koax.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 61,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182795",
+        "mallType": "WD",
+        "itemId": "7258611248",
+        "title": "Special Fashion Trend Sweatshirt 2 (non-refundable and non-exchangeable)",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr7a19_r39v.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659908729",
+          "name": "goodboy-2",
+          "logo": "https://si.geilicdn.com/shopedit1860731751-23de0000019107de32bc0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182781",
+        "mallType": "TB",
+        "itemId": "821947447552",
+        "title": "Printed looped hooded sweatshirt REP218",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr755w_mhvs.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107748732",
+          "name": "Singor2",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182776",
+        "mallType": "TB",
+        "itemId": "821832651534",
+        "title": "Saint michael vintage heavy duty washed and aged cotton hoodie sweatshirt fall jacket for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr75iq_nd01.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182777",
+        "mallType": "TB",
+        "itemId": "654787100690",
+        "title": "Fog Multi-Line Essentials High Street Loose Fleece-Lined Zip-Up Hooded Cardigan Sweatshirt Autumn and Winter Jacket for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr72e7_8rhi.jpg",
+        "price": "¥160.21",
+        "toPrice": "$25.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "576936539",
+          "name": "C JEVON",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182709",
+        "mallType": "TB",
+        "itemId": "821297815179",
+        "title": "ESSENTIALS flocked three stripes sweater round neck American high street loose men and women with the same FOG tide fall and winter",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr6bld_2x1r.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "120790555",
+          "name": "郑有钱 Studio",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182692",
+        "mallType": "TB",
+        "itemId": "689681667619",
+        "title": "American Version of Nocta Golf Co-Branded with Drake Golf Sweatshirt, High Collar, Small High Collar, Quick-Drying Long-Sleeve T-Shirt, High Street Fashion",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr61sa_8lh4.jpg",
+        "price": "¥169.76",
+        "toPrice": "$26.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "509052073",
+          "name": "原73工作室",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182685",
+        "mallType": "TB",
+        "itemId": "608961977085",
+        "title": "2023 new cute cute kawaii stereo 3D flocking bear bear loose thin section pullover sweater with",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5xy1_bdc9.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182682",
+        "mallType": "WD",
+        "itemId": "7262209691",
+        "title": "New Fall Trend Casual Suit 032",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5wlo_3tny.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659908729",
+          "name": "goodboy-2",
+          "logo": "https://si.geilicdn.com/shopedit1860731751-23de0000019107de32bc0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182663",
+        "mallType": "WD",
+        "itemId": "7221333754",
+        "title": "FOG ESSENTIALS Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5of2_dolr.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1815391017",
+          "name": "WANG",
+          "logo": "https://si.geilicdn.com/wdseller1825303765-164000000193543e28980a2304aa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182666",
+        "mallType": "WD",
+        "itemId": "7243197261",
+        "title": "uncharted",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5oul_3tnx.jpg",
+        "price": "¥114.60",
+        "toPrice": "$18.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840466345",
+          "name": "莫非潮服商行",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182622",
+        "mallType": "WD",
+        "itemId": "7264641056",
+        "title": "Spring and Autumn Thin Pony Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr56pr_8a4d.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1745746777",
+          "name": "Ecobloom",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182589",
+        "mallType": "WD",
+        "itemId": "5553178619",
+        "title": "fog subline flocked printed hooded sweatshirt custom woven custom dyed 400g 32s brushed fabric hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr4wzy_5x59.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794856096",
+          "name": "俱乐部",
+          "logo": "https://si.geilicdn.com/wdseller1423580647-68b4000001721bad51be0a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148356881916155582",
+  "language": "en"
+}

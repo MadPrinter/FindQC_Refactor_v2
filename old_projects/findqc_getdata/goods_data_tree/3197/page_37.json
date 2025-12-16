@@ -1,0 +1,84 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "6985",
+        "mallType": "TB",
+        "itemId": "641932313572",
+        "title": "Dark Style 21/Ss Main Line Solid Color Thin Pure Cotton Slim Fit Crew Neck Close-Fitting Unisex Short-Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9m7eu_gclq.jpg",
+        "price": "¥134.84",
+        "toPrice": "$21.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72511782",
+          "name": "贵族范",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6737",
+        "mallType": "TB",
+        "itemId": "749493530800",
+        "title": "Autumn and Winter Milky Skirt, Chic and Unique Light Purple Long Skirt, Waist-Cinching, Gentle Style, Knitted Pink Hooded Dress",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9jf3t_oqmd.jpg",
+        "price": "¥133.97",
+        "toPrice": "$21.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "220862837",
+          "name": "衣如初见之家",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6542",
+        "mallType": "TB",
+        "itemId": "705752987100",
+        "title": "Sexy tight long sleeve crewneck short skirt Sexy long sleeve crewneck short skirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9hm8p_n1ju.jpg",
+        "price": "¥48.40",
+        "toPrice": "$7.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "533515867",
+          "name": "YIHAIWANGLUO",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6499",
+        "mallType": "TB",
+        "itemId": "618436423984",
+        "title": "Summer French-Style Vacation Striped S-Line Elegant Waist-Slimming Women's Gentle Chanel-Style Long Knitted Camisole Dress",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9h8sy_0wxu.jpg",
+        "price": "¥294.68",
+        "toPrice": "$46.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112227182",
+          "name": "MUKA家",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140584841914137387",
+  "language": "en"
+}

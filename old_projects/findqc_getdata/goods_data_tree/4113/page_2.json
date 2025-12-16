@@ -1,0 +1,392 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2450419",
+        "mallType": "WD",
+        "itemId": "7547401729",
+        "title": "LXS18 high quality shoes",
+        "picUrl": "https://si.geilicdn.com/open1676673283-1234478995-13e500000198c69ebab10aa0c791-unadjust_637_800.gif",
+        "price": "¥298.00",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1676673283",
+          "name": "Global Fashion Selection",
+          "logo": "https://si.geilicdn.com/wdseller1971883450-782100000198e6d608a30a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2378425",
+        "mallType": "WD",
+        "itemId": "7544205734",
+        "title": "New fashionable and versatile tide shoes-008-jum",
+        "picUrl": "https://si.geilicdn.com/open1830128381-1234478995-662800000197f3fdfdb10a22d249_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830128381",
+          "name": "SourceDock",
+          "logo": "https://si.geilicdn.com/pcdecorate1968389199-126a00000197eeb5cd720a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2376718",
+        "mallType": "WD",
+        "itemId": "7488723659",
+        "title": "New Fashion Hundred Hipster Shoes-008-Boi",
+        "picUrl": "https://si.geilicdn.com/open1672216213-1234478995-42450000019335699a310a22d234_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785130653",
+          "name": "SOFUN-FASHION",
+          "logo": "https://si.geilicdn.com/shopedit1950350917-59f2000001966ba9360e0a2102c5-unadjust_741_741.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2374061",
+        "mallType": "WD",
+        "itemId": "7544552214",
+        "title": "High quality high street trendy sports shoes and casual shoes TOP-70w",
+        "picUrl": "https://si.geilicdn.com/open1793126893-1234478995-584a000001966c7c15d30a8115c2_1200_1200.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1878756643",
+          "name": "YKC clothing shoe store 1:1-A3",
+          "logo": "https://si.geilicdn.com/wdseller1984311395-7d480000019ada2e35890a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2030551",
+        "mallType": "WD",
+        "itemId": "7520550929",
+        "title": "New Fashion Hundred Hipster Shoes-008",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-7e4200000197d52ac5fc0a8133b0_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1686431939",
+          "name": "C L O.",
+          "logo": "https://si.geilicdn.com/pcdecorate1979316816-2b6d000001987d3139ec0a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2408972",
+        "mallType": "WD",
+        "itemId": "7538845761",
+        "title": "New Fashion Versatile Trendy Shoes -008",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-7e4200000197d52ac5fc0a8133b0_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1693963683",
+          "name": "Trend Factory",
+          "logo": "https://si.geilicdn.com/pcdecorate1987113204-5aa5000001990412c9d80a207569-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 66,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1616056",
+        "mallType": "WD",
+        "itemId": "7484391820",
+        "title": "New fashionable and versatile tide shoes-022-CNZB",
+        "picUrl": "https://si.geilicdn.com/open1658831453-1234478995-744d0000019726c95eea0aa08290_1200_1200.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1658831453",
+          "name": "DripMill",
+          "logo": "https://si.geilicdn.com/shopedit1952637023-22f100000196ca6a80f80a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1951209",
+        "mallType": "WD",
+        "itemId": "7489987447",
+        "title": "New Fashion Hundred Hipster Shoes-008",
+        "picUrl": "https://si.geilicdn.com/open1648536540-1234478995-09ba00000197633fc0230a22d249_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648536540",
+          "name": "SOURCE9",
+          "logo": "https://si.geilicdn.com/wdseller1552183537-3d5d000001969963dea60a210256_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1790122",
+        "mallType": "WD",
+        "itemId": "7491961080",
+        "title": "New fashion hundred tide shoes-014",
+        "picUrl": "https://si.geilicdn.com/open1783991630-1234478995-22a400000197640272360a23b4de_1200_1200.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1783991630",
+          "name": "TopMade",
+          "logo": "https://si.geilicdn.com/pcdecorate901983317115-2ae10000019975f20a240a20e284-unadjust_516_516.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1775837",
+        "mallType": "WD",
+        "itemId": "7415142159",
+        "title": "S*PE*ZIAL UP NYC Batch",
+        "picUrl": "https://si.geilicdn.com/pcitem1906283102-2f9b000001961f26c88e0a20e7c7-unadjust_2480_2480.gif",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1774979637",
+          "name": "UPNYC",
+          "logo": "https://si.geilicdn.com/wdseller1906283102-23310000019321b320850a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1622755",
+        "mallType": "WD",
+        "itemId": "7458255702",
+        "title": "New Fashion Versatile Trendy Shoes -008",
+        "picUrl": "https://si.geilicdn.com/open1672216213-1234478995-42450000019335699a310a22d234_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787977117",
+          "name": "LookNice",
+          "logo": "https://si.geilicdn.com/wdseller1951013041-62f600000196729613bf0a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "347412",
+        "mallType": "WD",
+        "itemId": "7256878917",
+        "title": "F0Xr 1 shoes",
+        "picUrl": "https://cdn.findqc.com/item/20241218/m4tq6206_590g.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1761500601",
+          "name": "sam shopping",
+          "logo": "https://si.geilicdn.com/pcdecorate901881361375-4cd8000001914b4304730a210256-unadjust_590_590.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 184,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2080712",
+        "mallType": "WD",
+        "itemId": "7484310972",
+        "title": "New fashionable and versatile trendy shoes-FW2C",
+        "picUrl": "https://si.geilicdn.com/open1672216213-1234478995-42450000019335699a310a22d234_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1714358237",
+          "name": "BROVIBE",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2396992",
+        "mallType": "WD",
+        "itemId": "7524517531",
+        "title": "New fashionable and versatile tide shoes-008-VEC",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-7e4200000197d52ac5fc0a8133b0_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830128381",
+          "name": "SourceDock",
+          "logo": "https://si.geilicdn.com/pcdecorate1968389199-126a00000197eeb5cd720a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2710388",
+        "mallType": "WD",
+        "itemId": "7533305355",
+        "title": "High quality shoes 4-yas",
+        "picUrl": "https://si.geilicdn.com/open1830128381-1234478995-789000000197f40a3e970a22d249-unadjust_637_800.gif",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830128381",
+          "name": "SourceDock",
+          "logo": "https://si.geilicdn.com/pcdecorate1968389199-126a00000197eeb5cd720a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2028438",
+        "mallType": "WD",
+        "itemId": "7467832545",
+        "title": "New fashionable and versatile tide shoes-008-zow",
+        "picUrl": "https://si.geilicdn.com/open1672216213-1234478995-42450000019335699a310a22d234_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785130653",
+          "name": "SOFUN-FASHION",
+          "logo": "https://si.geilicdn.com/shopedit1950350917-59f2000001966ba9360e0a2102c5-unadjust_741_741.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 120,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1305323",
+        "mallType": "WD",
+        "itemId": "7279490294",
+        "title": "270 cushioned and breathable sports and leisure running shoes shoes",
+        "picUrl": "https://si.geilicdn.com/pcitem1857988414-7452000001922c546dbc0a23038e_1280_1280.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832710585",
+          "name": "Milan Shoes &amp; Clothing",
+          "logo": "https://si.geilicdn.com/shopedit1857988414-4cf60000019a307f5d090a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 78,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "221343",
+        "mallType": "WD",
+        "itemId": "7292181989",
+        "title": "rep sneaker collection (tiny dirt is normal) YHH06",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3qnm671_4jei.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834518869",
+          "name": "TigerBuy",
+          "logo": "https://si.geilicdn.com/shopedit1900469054-18de00000192c6d32c360a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 135,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2486925",
+        "mallType": "WD",
+        "itemId": "7485871181",
+        "title": "High quality shoes 4",
+        "picUrl": "https://si.geilicdn.com/open1842365021-1234478995-3bac000001973bb6b9b20a23b4de-unadjust_637_800.gif",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1842365021",
+          "name": "LumiFit",
+          "logo": "https://si.geilicdn.com/shopedit1952633067-2c5e00000196ceda1bca0a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "353360",
+        "mallType": "WD",
+        "itemId": "7322666352",
+        "title": "rep sneaker collection (tiny dirt is normal) YHH06",
+        "picUrl": "https://cdn.findqc.com/item/20241220/m4wjhuyh_1lg7.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "491195045",
+          "name": "Puffbuy",
+          "logo": "https://si.geilicdn.com/shopedit491195045-566d00000193bedae2e80a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145032891924858365",
+  "language": "en"
+}

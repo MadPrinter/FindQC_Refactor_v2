@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2024186",
+        "mallType": "WD",
+        "itemId": "7452517527",
+        "title": "Long sleeved T-shirt 1005-4011054",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me1fqkbd_vnyv.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1786856",
+        "mallType": "TB",
+        "itemId": "941053499868",
+        "title": "【In Stock】 ERD 24FW Logo T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me1e5oiu_5n7d.jpg",
+        "price": "¥101.11",
+        "toPrice": "$15.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "367289135",
+          "name": "157Club",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2023623",
+        "mallType": "T1688",
+        "itemId": "826736726812",
+        "title": "Cross border dropshipping 2024 summer new trend off white high-quality unisex T-shirt print",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me1cen7o_drrx.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214170225335",
+          "name": "铅山县世辉家贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "805303",
+        "mallType": "WD",
+        "itemId": "7274747733",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me19qhr7_fxes.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675444645",
+          "name": "WG",
+          "logo": "https://si.geilicdn.com/shopedit1884592270-4ba500000195d22b306e0a2315ef-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1889569",
+        "mallType": "TB",
+        "itemId": "878999394597",
+        "title": "Funny Kanye West Meme T-Shirt Retro Hip Hop Rap Style T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250802/mdu3qp7s_db4u.jpg",
+        "price": "¥50.24",
+        "toPrice": "$7.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "259688842",
+          "name": "若若精品小店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1877604",
+        "mallType": "TB",
+        "itemId": "660641962905",
+        "title": "Foreign Trade Original D Western Men's T-shirt Printed Summer Trend Skateboarding Street Dance Extreme Sports",
+        "picUrl": "https://cdn.findqc.com/item/20250802/mdu4ctmx_4n3k.jpg",
+        "price": "¥24.80",
+        "toPrice": "$3.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "370843787",
+          "name": "乐乐外贸店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1386782",
+        "mallType": "T1688",
+        "itemId": "917252851938",
+        "title": "Cross-border Supply Correct Edition STONE Stone Foundation POLO Shirt Small Label Embroidered Badge Men's and Women's Casual T-Shirt Lap",
+        "picUrl": "https://cdn.findqc.com/item/20250615/mbxdnki0_gxhv.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZje5mu8WhxAVK0fUWsNl3Q",
+          "name": "宁德市蕉城区蕉南寇蒂服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 49,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1889456",
+        "mallType": "T1688",
+        "itemId": "919693631864",
+        "title": "Pure Black High-Gram Heavy Xinjiang Long-Staple Cotton T-Shirt Men's Stiff Pure Cotton Short-Sleeved American Couple Half-Sleeve 2025",
+        "picUrl": "https://cdn.findqc.com/item/20250802/mdu0zu71_qtjt.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8hhrqYadDNsEgl3v1kj3lA",
+          "name": "河北锐酷服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1658439",
+        "mallType": "TB",
+        "itemId": "941300661737",
+        "title": "Exclusive Bmc White Wheat Spike Bb Embroidery Washed Vintage Polo Shirt Short Slim Fit Short Sleeve Small Fit",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me1636qj_zv8k.jpg",
+        "price": "¥202.62",
+        "toPrice": "$31.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "564588365",
+          "name": "bad mood club",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1764464",
+        "mallType": "T1688",
+        "itemId": "901095192257",
+        "title": "2025 New European and American Cross border Fashion Casual Personalized Loose Letter Printed Summer High Street Top Polo Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250802/mdtzt87d_464d.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7GSOTW8xGpG-aBcxhso0Gw",
+          "name": "义乌市界峰电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "994310",
+        "mallType": "WD",
+        "itemId": "6396611612",
+        "title": "《𝙉𝙚𝙬 ♈ PRADA \" 🏖  Prada's new 23 year collection features a triangular logo on the chest, made of 230g double stranded 32 count tightly woven cotton fabric, which is soft.",
+        "picUrl": "https://cdn.findqc.com/item/20250726/mdke348y_z2bm.jpg",
+        "price": "¥141.67",
+        "toPrice": "$22.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1972000",
+        "mallType": "T1688",
+        "itemId": "903654307106",
+        "title": "Classic summer new item Α MI crochet letter unisex couple casual round neck versatile cotton short sleeved top",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me1488u9_eyv4.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212913358791",
+          "name": "广州市甲乙丙丁服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2018152",
+        "mallType": "TB",
+        "itemId": "838279677426",
+        "title": "UFC appearance suit black gold classic MMA training short sleeved Sanda boxing suit fighting Muay Thai mixed martial arts top",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me11udev_8huq.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "551579906",
+          "name": "WBC世界拳击理事会",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1946680",
+        "mallType": "WD",
+        "itemId": "7515221665",
+        "title": "NBA Compression Shirts",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me134d56_5qob.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622852062",
+          "name": "Eric篮球鞋",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1946702",
+        "mallType": "WD",
+        "itemId": "7520098338",
+        "title": "Short sleeved European and American street half sleeved t-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me134bva_13g5.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1722852227",
+          "name": "SpriteReps",
+          "logo": "https://si.geilicdn.com/shopedit1975175781-7bf600000198aea6eeef0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1772354",
+        "mallType": "WD",
+        "itemId": "7506683439",
+        "title": "Skeleton Rock Band unisex loose short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me12nmmr_qap9.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1838614637",
+          "name": "ACT Studio",
+          "logo": "https://si.geilicdn.com/shopedit1938853209-19910000019971e51ac50a2396f4-unadjust_585_585.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2018015",
+        "mallType": "TB",
+        "itemId": "871403119789",
+        "title": "Super handsome! DARCSPORT Wolf Head Fan Ma Yong Jiro Washed Short Sleeve Ins Men's and Women's Sports Leisure Loose Round Neck",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me10ir25_3uyo.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "383442565",
+          "name": "tb617923705",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2017960",
+        "mallType": "T1688",
+        "itemId": "814557931983",
+        "title": "Representative Heavy Metal Band Joint Tombstone Statue of Liberty Printed American Retro High Street Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0zwwsr_v0ib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3842684351",
+          "name": "成华区捣腾捣腾服装店（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1889724",
+        "mallType": "TB",
+        "itemId": "946013533830",
+        "title": "European and American High-Quality Vale Vintage Washed and Distressed Portrait Letter Print T-Shirt Hip-Hop Couple Loose Short-Sleeve Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdvewcys_wpgg.jpg",
+        "price": "¥80.62",
+        "toPrice": "$12.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "254401958",
+          "name": "33 TRENTE",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2017900",
+        "mallType": "TB",
+        "itemId": "703485881350",
+        "title": "FOG Double Line ESSENTIALS Back Plush Letter Short Sleeve High Street Casual Loose Hip Hop Couple Round Neck T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0ywwkp_yv6n.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106038660",
+          "name": "接头小霸王",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147380641924856372",
+  "language": "en"
+}

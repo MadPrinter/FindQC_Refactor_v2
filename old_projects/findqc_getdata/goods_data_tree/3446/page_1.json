@@ -1,0 +1,632 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2229587",
+        "mallType": "T1688",
+        "itemId": "903367965524",
+        "title": "Exquisite diamonds shining imitation natural pink shell hollow lucky four-leaf clover pull bracelet female niche light luxury hand jewelry",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011TldK21HHIxoZVLhJ_!!2209803430732-0-cib.jpg",
+        "price": "¥6.50",
+        "toPrice": "$1.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209803430732",
+          "name": "义乌市葳航贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2037426",
+        "mallType": "T1688",
+        "itemId": "914155349198",
+        "title": "Cross-border special Pan family bracelet necklace ring packaging box jewelry high-end packaging developed jewelry box",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01csuMUr1bEp8iEaKzR_!!2219479863434-0-cib.jpg",
+        "price": "¥2.00",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219479863434",
+          "name": "海丰县梅陇镇新款潘多拉首饰厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206717",
+        "mallType": "T1688",
+        "itemId": "717344876820",
+        "title": "亚马逊热销四叶草五花手链女链条真空电镀18K钛钢贝母轻奢风",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016WzSJW1NOWv1SC00p_!!2215771221560-0-cib.jpg",
+        "price": "¥8.90",
+        "toPrice": "$1.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215771221560",
+          "name": "东莞市铭鼎五金饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1364928",
+        "mallType": "T1688",
+        "itemId": "922273991277",
+        "title": "Cross-Border Popular Titanium Steel Magnetic Bracelet for Men, Non-Fading, Adjustable, High-End French Crocodile Pattern Bracelet Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250613/mbtpel51_y6id.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHE9yShMVktgq19bIck13Ew",
+          "name": "东莞市怡齐饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 565,
+        "qcVideoCnt": 10
+      },
+      {
+        "id": "52059",
+        "mallType": "T1688",
+        "itemId": "711003350677",
+        "title": "Pyc m Style 20Ss Classic Digital Logo Strap Bracelet Ins Show Normcore Style Bracelet Titanium Steel Bracelet for Men",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nn3dcl_8e47.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLPJ0JQ2pxL4tNSz4nMT2eg",
+          "name": "新枭(台州市)电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 113,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3096875",
+        "mallType": "T1688",
+        "itemId": "791051684177",
+        "title": "新款潘家串珠手链串珠吊坠爱心基础链工厂批发",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vut3QQ1vV7S8aSUTB_!!2215715136177-0-cib.jpg",
+        "price": "¥4.61",
+        "toPrice": "$0.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215715136177",
+          "name": "义乌市祥喆电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206665",
+        "mallType": "T1688",
+        "itemId": "696467308184",
+        "title": "Cross-border European and American Heavy Industry Luxury Full Diamond Shaped Bracelet Women's Flash Imported High Carbon Diamond Bracelet",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0177bOsF1noL09AogX6_!!2214960795136-0-cib.jpg",
+        "price": "¥34.00",
+        "toPrice": "$5.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmmw4tK8OrKZD9rQGp-KLDw",
+          "name": "东阳市璨妮贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206671",
+        "mallType": "T1688",
+        "itemId": "677064991369",
+        "title": "RAKOL 跨境新品高质量铜镶AAA级锆石手链女气质新娘宴会百搭手饰",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xRtGax1xiyk9iPEUT_!!3582956478-0-cib.jpg",
+        "price": "¥30.80",
+        "toPrice": "$4.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3582956478",
+          "name": "义乌市芮蔻饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3203185",
+        "mallType": "T1688",
+        "itemId": "939682236599",
+        "title": "流行潮牌泰银时尚欧美风间花船锚款式2.0通用表链&苹果手表链",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QUCLRn1fzmDhlO9qk_!!2219162834078-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219162834078",
+          "name": "海丰县梅陇镇唯钰首饰厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1247274",
+        "mallType": "T1688",
+        "itemId": "691353889105",
+        "title": "1017 Alloy Transparent Trendy Brand Personalized Metal Functional Wind Buckle Bracelet ALYX Official Website Couple Same Style Bracelet\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VxIa3C27ScWFzXoGm_!!3843297796-0-cib.jpg",
+        "price": "¥16.50",
+        "toPrice": "$2.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBShO2UcGTvtc-Z6WfygGd-w",
+          "name": "义乌市酬德电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2955606",
+        "mallType": "WD",
+        "itemId": "7574896815",
+        "title": "G0AT",
+        "picUrl": "https://si.geilicdn.com/open1621630073-252808396-30fa000001934e52bba60a210559_2532_2532.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1807496083",
+          "name": "2号商店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3202356",
+        "mallType": "T1688",
+        "itemId": "919019119040",
+        "title": "驴家竹节手链钛钢淬火古巴嘻哈拼色系列复古手链小红书跨境爆款批",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01c1d2eP1TLg91MUaPm_!!2219721672366-0-cib.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219721672366",
+          "name": "广州宝绿贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2122585",
+        "mallType": "T1688",
+        "itemId": "824116200234",
+        "title": "新款高版本古家系列复古双G手链爱无畏互扣珐琅虎头蛇形手环手镯",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nETEdU1OeOApEI16Z_!!2218384411730-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218384411730",
+          "name": "广州璀璨银饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3202178",
+        "mallType": "T1688",
+        "itemId": "843437255155",
+        "title": "复古花型重工钥匙扣骰子挂件穿搭配饰包包挂饰cleanfit潮流小众款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qOc0SQ1YdbfqhUdUC_!!2217593503082-0-cib.jpg",
+        "price": "¥9.50",
+        "toPrice": "$1.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217593503082",
+          "name": "佛山市禅城区艾恩优选贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3200185",
+        "mallType": "T1688",
+        "itemId": "782109644816",
+        "title": "Panjia s925 sterling silver base snake bone chain with DIY loose beads Mickey rose gold five-pointed star bracelet",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Y8tQng2Gnzn6AdqvM_!!2217586529061-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBH1vmK7e-66Eq_0tE3hwmMA",
+          "name": "海丰县梅陇镇潘多拉源头首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3199999",
+        "mallType": "T1688",
+        "itemId": "982302026582",
+        "title": "梵潘多拉帝925纯银镀银蛇骨链厚银爱心经典蛇骨手链DIY基础链高版",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Iy4v5O1EfAo7k3xmN_!!2217102570378-0-cib.jpg",
+        "price": "¥14.00",
+        "toPrice": "$2.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217102570378",
+          "name": "海丰县梅陇镇潘多拉戒指首饰厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2243555",
+        "mallType": "WD",
+        "itemId": "7532687543",
+        "title": "New Fashion Hundred Bracelet-015",
+        "picUrl": "https://si.geilicdn.com/open1851689603-1234478995-390c00000198c181e03d0aa0c791_2048_2048.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848876445",
+          "name": "TrendyU",
+          "logo": "https://si.geilicdn.com/wdseller1951015104-648400000196729261ae0a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1872379",
+        "mallType": "T1688",
+        "itemId": "697280407341",
+        "title": "Europe and the United States wind new teardrop-shaped row of diamonds full of diamond zircon bracelet atmosphere gorgeous shiny light luxury hand jewelry cross-border supplies",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011lcFK61noL07N30G6_!!2214960795136-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214960795136",
+          "name": "东阳市璨妮贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1572266",
+        "mallType": "T1688",
+        "itemId": "936726844965",
+        "title": "Titanium Steel Bracelet Big Crocodile Men's and Women's Adjustable Strap French Accessible Luxury 18K Gold Hot-Selling Bracelet with Packaging Box",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mchqvu8j_1w8l.jpg",
+        "price": "¥2.99",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8OP-BnRiY9XBYmJNoL-vXg",
+          "name": "义乌市元越饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 523,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "2373310",
+        "mallType": "T1688",
+        "itemId": "928519578443",
+        "title": "Panjia White Copper Silver Plated Sublime Heart Necklace Bracelet Ring Ear Stud Earrings Shining suit Cross-border Trade Hot Sale",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhhfg7yr_lq73.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVLWAQr-XR91Fla81fkHbBQ",
+          "name": "广州致顺饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3,
+        "picWidth": "800",
+        "picHeight": "800"
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141394601913292437",
+  "language": "en"
+}

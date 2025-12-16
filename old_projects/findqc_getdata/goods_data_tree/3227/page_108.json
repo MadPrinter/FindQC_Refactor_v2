@@ -1,0 +1,366 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2476146",
+        "mallType": "WD",
+        "itemId": "7238764104",
+        "title": "***************",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-30250000018f5c9ffc700a8133b5_800_800.jpg",
+        "price": "¥147.00",
+        "toPrice": "$23.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2477470",
+        "mallType": "WD",
+        "itemId": "7480711633",
+        "title": "wenyu T240\nT234\nT337\nT238\nT339\n1018\nT286\nT236\nT338\nT284\nT282\nT274\nT266\nT280\nT270\nT264\nT276\nT268\nT262",
+        "picUrl": "https://si.geilicdn.com/pcitem949985859-0742000001971a0e88660a8133cc_1080_1350.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2476084",
+        "mallType": "WD",
+        "itemId": "7322880727",
+        "title": "McDonald's cpfm T-Shirt Loose men's and women's foam portrait TS Summer American short sleeves",
+        "picUrl": "https://si.geilicdn.com/pcitem1231267992-72f600000193ca06f6ec0a811411_600_600.jpg",
+        "price": "¥92.00",
+        "toPrice": "$14.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1231267992",
+          "name": "ASEN",
+          "logo": "https://si.geilicdn.com/wdseller1231267992-76a000000191a894efbe0a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2103761",
+        "mallType": "T1688",
+        "itemId": "921209311567",
+        "title": "Cross border Pujia 2025 Summer New Metal Triangle Logo Series High Version Short Sleeve T-shirt for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01EaVF4y224k3D4xuHl_!!2219457227067-0-cib.jpg",
+        "price": "¥42.80",
+        "toPrice": "$6.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUuJemymEjwJPKkbapfFVtw",
+          "name": "揭阳市揭东区新亨镇集超服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2104028",
+        "mallType": "T1688",
+        "itemId": "884926365858",
+        "title": "Rapper Drake T Shirt Men Women Fashion T-shirts Cotton Tshir",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YeD3wL1neGT1hlbBG_!!2218414715114-0-cib.jpg",
+        "price": "¥21.60",
+        "toPrice": "$3.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212885500942",
+          "name": "东莞市艺潮馆电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1947504",
+        "mallType": "T1688",
+        "itemId": "921046133691",
+        "title": "Cross border trendy brand Chrome Heart long sleeved T-shirt for both men and women, loose long sleeved, in stock wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Zq3vDn2GDM5jJGVfB_!!2219001998981-0-cib.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBREjQF09KNUFRgZP3Yc4Fhw",
+          "name": "广州欣胧服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1787158",
+        "mallType": "WD",
+        "itemId": "7491721477",
+        "title": "短袖#",
+        "picUrl": "https://si.geilicdn.com/open1735853037-1234478995-5d8c000001977817f4420a8115c2_800_800.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1435761",
+        "mallType": "T1688",
+        "itemId": "902098794667",
+        "title": "New fall FOG ICON influx of padded double row letters printed round neck sweater casual men and women hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qf4TUd1nmy2zhcE5J_!!2218351735133-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218351735133",
+          "name": "广州市番禺区一生潮牌服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1385381",
+        "mallType": "T1688",
+        "itemId": "913783993686",
+        "title": "AMI youth loose cotton embroidered t-shirt short-sleeved male tide round neck casual versatile street fashion youth T-shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000003031/O1CN01KRgjDV1YGFWVcV0xY_!!6000000003031-0-tbvideo.jpg",
+        "price": "¥31.50",
+        "toPrice": "$4.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219595906266",
+          "name": "铅山县岩坑电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 232,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1250332",
+        "mallType": "WD",
+        "itemId": "7334157511",
+        "title": "Original quality RL embroidered hooded zipper shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem348781449-0b3e0000019401d47e430a230115_1159_1159.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "348781449",
+          "name": "Smile",
+          "logo": "https://si.geilicdn.com/wdseller348781449-590c0000019a2616c06d0a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 70,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1249269",
+        "mallType": "T1688",
+        "itemId": "901182403141",
+        "title": "Cross-border chrome hearts Crocodile Jupiter cross Sanskrit appliqué print embroidery men's and women's loose short-sleeved T-shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000000346/O1CN01eSXh5u1EQW4a4Uv1a_!!6000000000346-0-tbvideo.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1248635",
+        "mallType": "T1688",
+        "itemId": "892232532646",
+        "title": "STU Original Label Chicago Bears Football Jerseys Embroidered American Football Jerseys Legendary Team Short Sleeve Wholesale",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000006008/O1CN01C99Dns1uFiZk4LymD_!!6000000006008-0-tbvideo.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1077494",
+        "mallType": "T1688",
+        "itemId": "816034183348",
+        "title": "2024 spot rlaf pony label embroidered women's round neck short-sleeved t-shirt versatile casual support one for sending",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000002324/O1CN01TXxEUq1T2RQdQ0sHg_!!6000000002324-0-tbvideo.jpg",
+        "price": "¥32.90",
+        "toPrice": "$5.17",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2475323",
+        "mallType": "WD",
+        "itemId": "7553996037",
+        "title": "MK Sweatshirt-Enter store, more 500+ items",
+        "picUrl": "https://si.geilicdn.com/open1683882435-1234478995-148900000198a2ff2f540a8133b0_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1618187037",
+          "name": "Fashion Reps",
+          "logo": "https://si.geilicdn.com/shopedit1948096469-682a0000019966fcd9ce0a2102c5-unadjust_128_128.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2474358",
+        "mallType": "WD",
+        "itemId": "7449898434",
+        "title": "****",
+        "picUrl": "https://si.geilicdn.com/open1621630073-252808396-6dc00000019641d262f50a23b491_750_750.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2297713",
+        "mallType": "TB",
+        "itemId": "789474596525",
+        "title": "Get money for charity 260 grams heavyweight cotton! Sketch vintage American letter couples dresses men's and women's baggy",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/839766424/O1CN011o1SQL1xKFHMzIszY_!!839766424.jpg",
+        "price": "¥18.80",
+        "toPrice": "$2.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70838935",
+          "name": "搞钱做慈善工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2297709",
+        "mallType": "WD",
+        "itemId": "7538719100",
+        "title": "GS.37763822",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-565200000198f18fe3180a22d249_799_799.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1865721389",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2103959",
+        "mallType": "T1688",
+        "itemId": "920897587322",
+        "title": "Gallery基础款字母logo印花休闲男女宽松潮牌短袖T恤情侣装",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01F7aXj52DaJ7ceNtmJ_!!2219634088625-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219634088625",
+          "name": "上饶乾星服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2102632",
+        "mallType": "WD",
+        "itemId": "7497540220",
+        "title": "Lili - New Polo Shirt Men's Short Sleeve Chicago Royal Leisure Sports Color blocked Cotton Embroidery European Size Cross border Foreign Trade",
+        "picUrl": "https://si.geilicdn.com/open949985859-1838589072-4fae00000197a05200ba0a8115c2_499_496.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2102399",
+        "mallType": "T1688",
+        "itemId": "895612191178",
+        "title": "Cross-border High Version Trendy Brand Short-sleeved Men's and Women's Cartoon Color Letters Camouflage Printed Cotton Loose T-shirt Half-sleeved Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01JCyAfZ28BVW9lRkPC_!!2218189817894-0-cib.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBARKWrgm_pG7beBtwajqj6g",
+          "name": "广州市白云区三元里街小沐服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141595811911159200",
+  "language": "en"
+}

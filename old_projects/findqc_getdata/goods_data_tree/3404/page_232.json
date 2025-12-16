@@ -1,0 +1,364 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1262184",
+        "mallType": "TB",
+        "itemId": "837626042571",
+        "title": "DestroyLonely Ken Carson A Great Chaos Face Hoddie Zipper Hoodie",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2212643669335/O1CN01TVRQ7X2IpUGdbml2V_!!2212643669335.jpg",
+        "price": "¥182.78",
+        "toPrice": "$28.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1265311",
+        "mallType": "T1688",
+        "itemId": "850607318122",
+        "title": "Cross border Spring and Autumn Hook Logo Coat Embroidered Solid Color Hoodie Unisex One Piece Hair Collection",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017EQF7K1SHGfUmofOu_!!2218396052221-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJW6Y3ZUEWTKB5AXdkwraYw",
+          "name": "广州至高服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1262267",
+        "mallType": "TB",
+        "itemId": "741005219104",
+        "title": "2023 autumn and winter New arrival men's Casual sports Outwear Loose Knitting hooded windproof Outwear zipper jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3020269996/O1CN01H8zQPU2NiDxFgXQOR_!!3020269996.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "438756711",
+          "name": "篮球周边服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261815",
+        "mallType": "WD",
+        "itemId": "7289251499",
+        "title": "Stylish and versatile hoodie 10195-007(xp1)",
+        "picUrl": "https://si.geilicdn.com/pcitem901875201278-04a300000192a2bdede00a210139_1200_1200.jpg",
+        "price": "¥161.00",
+        "toPrice": "$25.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1664375585",
+          "name": "59buy",
+          "logo": "https://si.geilicdn.com/pcdecorate901857861682-4f0000000190bad994990a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1197277",
+        "mallType": "T1688",
+        "itemId": "803152713389",
+        "title": "FOG compound line ESSENTIALS heavyweight high street tide hooded sweater padded spring and fall couple jacket men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01C3VoQw1Eg5SzXwaCC_!!2217367370380-0-cib.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1091684",
+        "mallType": "WD",
+        "itemId": "7268729102",
+        "title": "Couple Sweatshirt Hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1840527334-59bd00000191c610e7eb0a2396f4_1200_1200.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1800311577",
+          "name": "digital product",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1091713",
+        "mallType": "TB",
+        "itemId": "847225797026",
+        "title": "Spring and Autumn Paul's Long Sleeve Sweatshirt Made of Pure Cotton, Solid Color Embroidery, Pony Zipper Pullover, Cardigan, One Piece Hair Collection",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2208169578173/O1CN01B3Vojs2AFI34BQnvG_!!2208169578173.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "394407746",
+          "name": "YH六连拍",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "918429",
+        "mallType": "T1688",
+        "itemId": "685926922963",
+        "title": "Autumn Japanese tide long-sleeved sweater women's models Hooded Sweatshirt Cartoon Patterns",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019nKrqg1JMun9Ccg6E_!!2998231015-0-cib.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "918405",
+        "mallType": "T1688",
+        "itemId": "788835700092",
+        "title": "2024 Spring Autumn Sports Casual Two Color Knit Hooded Zipper Men's 490 Jacket",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000005101/O1CN01wiMVTg1nYJHdJiwGe_!!6000000005101-0-tbvideo.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "918362",
+        "mallType": "WD",
+        "itemId": "7398885760",
+        "title": "Black fabric green border printed knitted set SY-83",
+        "picUrl": "https://si.geilicdn.com/wdseller1274221412-16bf0000019522a3f3da0a207569_1284_1284.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274221412",
+          "name": "Elephant",
+          "logo": "https://si.geilicdn.com/wdseller1274221412-77390000018f660dd8030a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "678307",
+        "mallType": "T1688",
+        "itemId": "842120987755",
+        "title": "American AM1R1 ICON Street Fashion Brand Splash Ink Simple Letter LOGO Printed Loose Hoodie Men's Hooded Sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019UF3oY1WYuQi0qH8R_!!2218631672801-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4CCBvwf9OMV_6WDfvQ7dLg",
+          "name": "广州耀颖国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "471385",
+        "mallType": "WD",
+        "itemId": "7318561294",
+        "title": "Pony Embroidered Logo Hooded Zipper Jacket No Sale After 12.26",
+        "picUrl": "https://si.geilicdn.com/pcitem1899933383-03f5000001941b91819e0a81347d_1544_1921.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1748174421",
+          "name": "Boutique｜LJR 陆续发货",
+          "logo": "https://si.geilicdn.com/shopedit1899933383-2462000001935fae72c30a2396f4-unadjust_347_347.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "471374",
+        "mallType": "WD",
+        "itemId": "7334357666",
+        "title": "High quality AGT set",
+        "picUrl": "https://si.geilicdn.com/open1684891361-1234478995-5af400000190bad929d20a232357_1920_1920.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1754045653",
+          "name": "Chinese Factory",
+          "logo": "https://si.geilicdn.com/shopedit1902740711-0e000000019367eb1e490a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 214,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1796325",
+        "mallType": "WD",
+        "itemId": "6786242758",
+        "title": "R-panel plaid hoodie white",
+        "picUrl": "https://si.geilicdn.com/pcitem1678115151-00280000018b826006cf0a22d3fa_450_460.jpg",
+        "price": "¥349.00",
+        "toPrice": "$54.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1795308",
+        "mallType": "WD",
+        "itemId": "7483529920",
+        "title": "[DX19] Sweatshirt 666",
+        "picUrl": "https://si.geilicdn.com/open1791080881-252808396-0a8c0000019014af58750a210298_1080_1080.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1792860",
+        "mallType": "T1688",
+        "itemId": "680040158442",
+        "title": "European and American Cross-Border Wholesale Star Print Hooded Cardigan Zipper Loose Men's and Women's Trendy Sweatshirt Jacket Fn",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014Gnx1J1nb3TlyiFYN_!!2213298175107-0-cib.jpg",
+        "price": "¥31.00",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBamQoyLBhkzwY2L-1q6ZXzQ",
+          "name": "中山市米浪电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1736160",
+        "mallType": "TB",
+        "itemId": "709017936842",
+        "title": "ESSENTIALS compound line tide fall and winter hoodie padded sweater men and women couples loose large size jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2648261225/O1CN01Kkve7H1Kv6A0c8wwG_!!2648261225.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "289371854",
+          "name": "耶和华G",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1597415",
+        "mallType": "T1688",
+        "itemId": "945165305089",
+        "title": "Cross-Border New Spring & Fall Hooded Suits for Men and Women Nk Sports Casual Suits Sports Fashion Jackets and Pants Trendy Brand Wear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018LWLnp29JaBevwcKr_!!2210855628047-0-cib.jpg",
+        "price": "¥83.99",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB2t8ZXyPWtYeGlJQWBqs_Kw",
+          "name": "上饶市明垚服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 71,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1597119",
+        "mallType": "TB",
+        "itemId": "737293560192",
+        "title": "American fall and winter tide street hip-hop graffiti print men and women hooded sweatshirt loose men's hoodie jacket man",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2911353512/O1CN01Yknhen1boXr55dvW1_!!2911353512.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "162503766",
+          "name": "0潮牌搬运工0",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1596952",
+        "mallType": "T1688",
+        "itemId": "855026669993",
+        "title": "2024 spring and fall hot models retro skull pattern 3d printing sweater men and women trend pullover hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01JnNpwu1t7dyccGAYO_!!2218494985855-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218494985855",
+          "name": "广州市白云区京溪街桦乐服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144336912553924207",
+  "language": "en"
+}

@@ -1,0 +1,388 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "461342",
+        "mallType": "WD",
+        "itemId": "7259691080",
+        "title": "Fashion sweatshirt and pants (0722)",
+        "picUrl": "https://si.geilicdn.com/open1812523301-1234478995-0909000001914081ec700a22d234_1024_1365.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812523301",
+          "name": "W2C",
+          "logo": "https://si.geilicdn.com/shopedit1881677880-29d6000001913a041cdf0a20e7c7-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 142,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1964288",
+        "mallType": "T1688",
+        "itemId": "840124148479",
+        "title": "Paul Ralph Pony 6 Pairs Black White Gray Mid Cotton Socks Casual Sports Towel Bottom Men's Socks Sports Socks",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nECNUc1TkPXafFzeP_!!2206858682420-0-cib.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206858682420",
+          "name": "义乌市萌叔电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "466472",
+        "mallType": "TB",
+        "itemId": "737516888227",
+        "title": "Men I-D-I-L Clothing Jacket 018 In-Stock Special Line Processing",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2383104376/O1CN01veQ0C61iCG8MA8Yb9_!!2383104376.jpg",
+        "price": "¥1,450.00",
+        "toPrice": "$228.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263736799",
+          "name": "JIEYI②",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1800544",
+        "mallType": "WD",
+        "itemId": "7261712846",
+        "title": "High quality 3-001",
+        "picUrl": "https://si.geilicdn.com/pcitem901893018460-1a100000019214570e9a0a239646-unadjust_799_800.gif",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848188377",
+          "name": "Reps_Clothes",
+          "logo": "https://si.geilicdn.com/shopedit1850836603-653d00000190880fe7200a2301b4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1378288",
+        "mallType": "WD",
+        "itemId": "7427330289",
+        "title": "N * K tech fleece set (ME-0202)",
+        "picUrl": "https://si.geilicdn.com/open1860739466-1234478995-42ed00000194641999800a239383_828_826.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1849153909",
+          "name": "New gad",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2665307",
+        "mallType": "TB",
+        "itemId": "983873804659",
+        "title": "Camouflage Cargo Pants",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2220822088329/O1CN01IS9tZc2BOjvVCsSe5_!!2220822088329.jpg",
+        "price": "¥275.00",
+        "toPrice": "$43.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "598931081",
+          "name": "Mystery Shop 2店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1446274",
+        "mallType": "WD",
+        "itemId": "7275317988",
+        "title": "LF Wool Lamb Jacket",
+        "picUrl": "https://si.geilicdn.com/open1826006405-1234478995-4dd40000019210123d0f0aa0233d_1080_1080.jpg",
+        "price": "¥429.00",
+        "toPrice": "$67.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1826006405",
+          "name": "Ideal shop",
+          "logo": "https://si.geilicdn.com/shopedit1872339478-05e900000192998ebefd0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1198305",
+        "mallType": "WD",
+        "itemId": "7237149636",
+        "title": "L Fashion Sneakers (M-0015)",
+        "picUrl": "https://si.geilicdn.com/open1704920025-1234478995-5c220000018f1fb368900a232357_1000_1000.jpg",
+        "price": "¥580.00",
+        "toPrice": "$91.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704920025",
+          "name": "M1 BUY",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1011696",
+        "mallType": "WD",
+        "itemId": "7374122145",
+        "title": "Freps-High Quality Shoes Casual Shoes 33",
+        "picUrl": "https://si.geilicdn.com/pcitem901893105266-16d000000192378758ce0a8134f0-unadjust_800_800.gif",
+        "price": "¥348.00",
+        "toPrice": "$54.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1624782517",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1909693762-320100000196b9a44ae80a8133cc-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "471371",
+        "mallType": "WD",
+        "itemId": "7347987682",
+        "title": "High Quality Sweatshirt Set 03 AGT",
+        "picUrl": "https://si.geilicdn.com/open1754045653-1848188377-1b2200000193bfa123f00a210298-unadjust_800_800.gif",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1754045653",
+          "name": "Chinese Factory",
+          "logo": "https://si.geilicdn.com/shopedit1902740711-0e000000019367eb1e490a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1082455",
+        "mallType": "WD",
+        "itemId": "7266561703",
+        "title": "New G/X batch AJ4 SALE Welfare Specials Specials Non-Returns",
+        "picUrl": "https://si.geilicdn.com/wdseller1798085564-18f600000191b3893a7b0a239646_1290_878.jpg",
+        "price": "¥290.00",
+        "toPrice": "$45.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639476913",
+          "name": "YYDS",
+          "logo": "https://si.geilicdn.com/wdseller1798085564-579f0000018ac3b6c5ff0a20e35c_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2474889",
+        "mallType": "WD",
+        "itemId": "7310580961",
+        "title": "Casual Long Sleeve (pls contact WhatsApp: +1(346)256-7125, if u need size recommendation)",
+        "picUrl": "https://si.geilicdn.com/pcitem1847703580-4500000001929b420e580a2315ef-unadjust_800_800.gif",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1754045653",
+          "name": "Chinese Factory",
+          "logo": "https://si.geilicdn.com/shopedit1902740711-0e000000019367eb1e490a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "352358",
+        "mallType": "WD",
+        "itemId": "7237061416",
+        "title": "Fashion Backpack K4-02378",
+        "picUrl": "https://cdn.findqc.com/item/20241220/m4vm4qm4_6rbx.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704920025",
+          "name": "M1 BUY",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1939333",
+        "mallType": "WD",
+        "itemId": "7513790756",
+        "title": "Fashion set (P-0084)",
+        "picUrl": "https://si.geilicdn.com/pcitem901901383085-168000000193aea7b1480a210349_1200_1200.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832658589",
+          "name": "西瓜潮牌",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "340369",
+        "mallType": "WD",
+        "itemId": "7306096091",
+        "title": "Fashion Woolen Coat Knit (ME-0177)",
+        "picUrl": "https://cdn.findqc.com/item/20241215/m4p9k9la_pfii.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809036581",
+          "name": "AI BUY",
+          "logo": "https://si.geilicdn.com/shopedit1882019540-74360000019294827dc40a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1045320",
+        "mallType": "WD",
+        "itemId": "7388520340",
+        "title": "Summer short-sleeved T-shirt (ME-026)",
+        "picUrl": "https://si.geilicdn.com/open1824281037-1234478995-102c00000194e4e85d1d0a8133b5_1200_1200.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1824281037",
+          "name": "A1 潮牌",
+          "logo": "https://si.geilicdn.com/shopedit1930404768-6e2200000194e9d02a1f0a2395a3-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2628911",
+        "mallType": "T1688",
+        "itemId": "840122048683",
+        "title": "Single pair Paul Ralph Pony black and white gray polyester cotton socks low-top boat socks casual sports towel bottom men's socks",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01krR0Nz1TkPXcNN2sh_!!2206858682420-0-cib.jpg",
+        "price": "¥4.00",
+        "toPrice": "$0.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206858682420",
+          "name": "义乌市萌叔电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1567297",
+        "mallType": "WD",
+        "itemId": "7355530151",
+        "title": "High quality set (pls contact WhatsApp: +1 (346) 256-7125, if u need size recommendation) Sup",
+        "picUrl": "https://si.geilicdn.com/pcitem1847703580-093500000192527eb7dc0a231316-unadjust_800_800.gif",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1754045653",
+          "name": "Chinese Factory",
+          "logo": "https://si.geilicdn.com/shopedit1902740711-0e000000019367eb1e490a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1033174",
+        "mallType": "WD",
+        "itemId": "7405457216",
+        "title": "Summer Sports Short Sleeve Set (E-079)",
+        "picUrl": "https://si.geilicdn.com/pcitem901925468797-6517000001954560fef50a239646_7680_7680.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718289365",
+          "name": "First Supplier",
+          "logo": "https://si.geilicdn.com/shopedit1904439756-57d3000001949725defb0a23038e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 143,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2070791",
+        "mallType": "WD",
+        "itemId": "7294661269",
+        "title": "Classic Versatile Down Cotton Jacket (P-0038)",
+        "picUrl": "https://si.geilicdn.com/pcitem901901383085-34ec00000192d76667700a2315ef_1200_1200.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1641796437",
+          "name": "UMI BUY",
+          "logo": "https://si.geilicdn.com/shopedit1901381675-3bd900000192bcbc93a40a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148075281913205258",
+  "language": "en"
+}

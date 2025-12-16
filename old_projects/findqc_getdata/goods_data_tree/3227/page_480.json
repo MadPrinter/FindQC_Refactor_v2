@@ -1,0 +1,373 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2181712",
+        "mallType": "TB",
+        "itemId": "915582121843",
+        "title": "Uniqlo Women's UT Ai Yazawa Printed Short sleeved T-shirt 480164",
+        "picUrl": "https://cdn.findqc.com/item/20250825/meqrrqv2_ogpq.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57303596",
+          "name": "优衣库官方旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2069581",
+        "mallType": "T1688",
+        "itemId": "919117389447",
+        "title": "LULU Original Swiftly Tech T-shirt 2.0 Long Sleeve Yoga Top Comfortable and Breathable Fitness Clothing for Women",
+        "picUrl": "https://cdn.findqc.com/item/20250825/meqrzfjn_8fj6.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB3IHWQBqL1k1DVpN9O2H_qQ",
+          "name": "莆田市秀屿区平海语萱服装店",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2262340",
+        "mallType": "TB",
+        "itemId": "797784005677",
+        "title": "Xiao Chen's story is about 260 grams of heavyweight pure cotton! American style eyes and face pure cotton couple loose short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexrl8jn_6age.jpg",
+        "price": "¥18.80",
+        "toPrice": "$2.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "122697387",
+          "name": "小陈故事多原创工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386640",
+        "mallType": "T1688",
+        "itemId": "901502202589",
+        "title": "Cross-border Trendy Brand Triangle Standard Summer Men's Simple Printed 100 Cotton Casual Short-sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250806/mdyu2e47_vi4q.jpg",
+        "price": "¥42.90",
+        "toPrice": "$6.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUuJemymEjwJPKkbapfFVtw",
+          "name": "揭阳市揭东区新亨镇集超服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 255,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "224234",
+        "mallType": "WD",
+        "itemId": "7229399200",
+        "title": "Ch Heart Tee",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p5ixb_lve8.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648195145",
+          "name": "BRAND COLLECT",
+          "logo": "https://si.geilicdn.com/shopedit1816205840-18940000018c297bd1820a23132e-unadjust_596_596.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 160,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "459",
+        "mallType": "TB",
+        "itemId": "769243464905",
+        "title": "24-25 huang ma home jersey Real Madrid football uniform",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2cfzq_cyyg.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "566835888",
+          "name": "博邦体育",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "6142",
+        "mallType": "TB",
+        "itemId": "715435350018",
+        "title": "Palm Palm Angel FOG Broken Bear Cartoon Men's and Women's T-shirt Angels Loose Short Sleeve Spring/Summer Couple's Top",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9drea_ximv.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "344251317",
+          "name": "深圳南山线上工厂",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2262205",
+        "mallType": "T1688",
+        "itemId": "949845504338",
+        "title": "Cross-Border 2025 Summer New Style 260g Combed Cotton Double Yarn Metal Texture Tape Printed Logo Men's and Women's T-Shirt Trend",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexm2lwt_wq2x.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0WlKlKQagU-rIMeKKm1deQ",
+          "name": "广州尚伊嘉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2262143",
+        "mallType": "T1688",
+        "itemId": "804435549719",
+        "title": "Cross border wholesale AM1R1 ICON correct version splashed ink flow paint camouflage starry sky graffiti letter short sleeved couple T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexkn558_sfvt.jpg",
+        "price": "¥47.00",
+        "toPrice": "$7.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217367370380",
+          "name": "佛山市南海区潮疯街贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1562611",
+        "mallType": "WD",
+        "itemId": "7497580073",
+        "title": "Mickey Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexl1bzw_owj7.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "427127125",
+          "name": "smallrep",
+          "logo": "https://si.geilicdn.com/shopedit427127125-370500000197a70c84ca0a23111a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2261965",
+        "mallType": "WD",
+        "itemId": "6536867840",
+        "title": "Ami T-shirt p 99 yuan",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexhw8g8_bvrr.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1798584048",
+          "name": ".",
+          "logo": "https://si.geilicdn.com/weidian1450586499-51540000019a2041c0890a23111a_1118_1118.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2252365",
+        "mallType": "T1688",
+        "itemId": "936052086830",
+        "title": "YOUNG LA trendy brand American fitness sports short sleeved loose oversized mesh quick drying breathable trendy T-shirt top for men",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexhi83h_61ak.jpg",
+        "price": "¥31.50",
+        "toPrice": "$4.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215562741675",
+          "name": "铅山县铭新服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2261879",
+        "mallType": "T1688",
+        "itemId": "737498387937",
+        "title": "1977 T-shirts 22 styles 1977 short sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexgoi4u_tsx9.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216476787987",
+          "name": "宁波市海曙永泰服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 54,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2252358",
+        "mallType": "TB",
+        "itemId": "946275367314",
+        "title": "Season 2526 Galatasaray jersey second away short sleeved football jersey team kit football jersey",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexesch5_tqwd.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "455119179",
+          "name": "嘉年华泰版球衫店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2189608",
+        "mallType": "TB",
+        "itemId": "964009709102",
+        "title": "Tyler tee character printed T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexesb1v_3dev.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "447969573",
+          "name": "Rep reps",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2259755",
+        "mallType": "WD",
+        "itemId": "7533631434",
+        "title": "【 Ready to ship 】 Blsj badge embroidered short sleeved shirt with slight fading and sanding, fine badge embroidery, precise positioning by Bailingda, and dyeing of custom woven ready to wear pieces",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mex5q0yq_ywlh.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1781357740",
+          "name": "2ERO",
+          "logo": "https://si.geilicdn.com/wdseller1532431741-2dd90000019790b8a4cb0a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2259529",
+        "mallType": "TB",
+        "itemId": "848429238186",
+        "title": "Only making American retro style! Original shoulder version! SATOSHI washed American short sleeved heavyweight hip-hop T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mex319bt_i6kl.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263616202",
+          "name": "Artistic Resear",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "598479",
+        "mallType": "WD",
+        "itemId": "7255313170",
+        "title": "TOP007-lili",
+        "picUrl": "https://si.geilicdn.com/weidian949985859-4d9b00000190fea7b3320a8133cc_1080_1080.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "598449",
+        "mallType": "WD",
+        "itemId": "7322354332",
+        "title": "****** products",
+        "picUrl": "https://si.geilicdn.com/pcitem901944408488-79120000019700107cc20a23a2b8_800_800.jpg",
+        "price": "¥67.00",
+        "toPrice": "$10.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828016549",
+          "name": "我的小铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-249600000193b88380020a231316-unadjust_234_234.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "598346",
+        "mallType": "T1688",
+        "itemId": "826471152495",
+        "title": "24 CASA Casablanca spring and summer new phantasmagoria door starry castle letter logo short sleeve couple T",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019tNe8t1Xuipgvfy1m_!!2216567592984-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147053031914132521",
+  "language": "en"
+}

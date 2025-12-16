@@ -1,0 +1,324 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1839519",
+        "mallType": "WD",
+        "itemId": "5867073467",
+        "title": "[Flagship Store in Stock] 25SS Early Spring New V Pharrell · SKI Skiing Series Merino Wool Collar Hot Bead Letter Wool Jacket Jacket for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250725/mdhrll49_76ud.jpg",
+        "price": "¥837.21",
+        "toPrice": "$131.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "335669248",
+          "name": "CLC-STUDIO",
+          "logo": "https://si.geilicdn.com/wdseller335669248-28cc00000197cd20ab000a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1808085",
+        "mallType": "TB",
+        "itemId": "860953492012",
+        "title": "【 Rare 1of1 】 Original by Xiaobo Ji, Fog5th Season 5, 1of1 All Star Medal Embroidered Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250722/mde0d6pk_eak4.jpg",
+        "price": "¥748.33",
+        "toPrice": "$117.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "396967806",
+          "name": "小波吉PRODUCE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1807616",
+        "mallType": "WD",
+        "itemId": "7447355893",
+        "title": "AK03",
+        "picUrl": "https://cdn.findqc.com/item/20250722/mddlvwqr_ggah.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1752812698",
+          "name": "ZS factory新店",
+          "logo": "https://si.geilicdn.com/wdseller1639940264-48350000019625943e7b0a210349_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1792321",
+        "mallType": "WD",
+        "itemId": "7507962423",
+        "title": "High quality denim suit - as",
+        "picUrl": "https://cdn.findqc.com/item/20250725/mdilv1da_ebwd.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743145053",
+          "name": "COME-SHOP-N1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1735737",
+        "mallType": "T1688",
+        "itemId": "886843635149",
+        "title": "High Ceiling Donkey Bugs Bunny Towel Embroidered Wool Stitching Leather Men's and Women's Baseball Suit Jacket Coat",
+        "picUrl": "https://cdn.findqc.com/item/20250713/md1uc7wp_2tlu.jpg",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvUz1k4FQplBN74zW0g8C0A",
+          "name": "广州约清服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1679402",
+        "mallType": "TB",
+        "itemId": "849243526946",
+        "title": "PAIKI \"Empire of Cyrus\" Dark Wizard Hat Coat Velvet Hooded Zipper Hoodie for Men, Versatile in Autumn and Winter",
+        "picUrl": "https://cdn.findqc.com/item/20250708/mctyry6q_rd7m.jpg",
+        "price": "¥328.00",
+        "toPrice": "$51.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "489970111",
+          "name": "PAIKI",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1677302",
+        "mallType": "TB",
+        "itemId": "738936803977",
+        "title": "Boyue Metal Button Zhongshan Suit Jacket National Trend Light Mature Style Retro Padded Shoulder Men's Suit Tang Suit Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250708/mcu09wvd_lwnk.jpg",
+        "price": "¥78.90",
+        "toPrice": "$12.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125171570",
+          "name": "BOYUE原创工作室",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1654741",
+        "mallType": "T1688",
+        "itemId": "641146170151",
+        "title": "Wholesale of trendy brand side black and white striped men's and women's loose jackets, palm angel campus retro sports and leisure jackets",
+        "picUrl": "https://cdn.findqc.com/item/20250706/mcr7cvsd_ks5p.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210803131394",
+          "name": "广州市玩道服饰贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1618389",
+        "mallType": "TB",
+        "itemId": "946753912776",
+        "title": "550g Union Kingdom Boxy Washed Zip-Up Independent Brand Washed Zipper Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250706/mcr56o7n_ainu.jpg",
+        "price": "¥285.70",
+        "toPrice": "$44.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113111492",
+          "name": "UnionKingdom",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1576318",
+        "mallType": "TB",
+        "itemId": "785193751534",
+        "title": "JENNIE's upper body: JACQUEMUS style ribbon logo snap button pure black long sleeved denim shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mcinu0fp_uyrk.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "162621665",
+          "name": "We Margiela",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1561149",
+        "mallType": "TB",
+        "itemId": "928395269660",
+        "title": "Mowalola Ksubi Leopard Print Casual Zip-Up Hoodie, Unisex, ins Style Mastery",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md6jhh97_09az.jpg",
+        "price": "¥305.94",
+        "toPrice": "$48.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "599091193",
+          "name": "v7ion",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1556428",
+        "mallType": "WD",
+        "itemId": "6430384868",
+        "title": "ABling Signature Letter Embroidered Baseball Jacket SLP Style",
+        "picUrl": "https://cdn.findqc.com/item/20250626/mccob54z_hahm.jpg",
+        "price": "¥720.00",
+        "toPrice": "$113.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1776460930",
+          "name": "ABling-1",
+          "logo": "https://si.geilicdn.com/wdseller1566917349-398d0000017b8ec1f97e0a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508510",
+        "mallType": "T1688",
+        "itemId": "687138885231",
+        "title": "NEEDLES TRACK Velvet Butterfly Embroidery Japanese Vintage Ribbon Campus Style Men's and Women's Jacket Sports Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250617/mc0ahz5r_ol9p.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWtHTfLif8QxYhHyjplpdbA",
+          "name": "广州汇安宸电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508451",
+        "mallType": "WD",
+        "itemId": "7406035304",
+        "title": "High quality denim suit 01",
+        "picUrl": "https://cdn.findqc.com/item/20250617/mbzdhqo4_lviv.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1691720597",
+          "name": "Cheapbuy",
+          "logo": "https://si.geilicdn.com/shopedit1898283710-233c000001928471eacc0a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1476477",
+        "mallType": "TB",
+        "itemId": "899500317552",
+        "title": "90s Original Color Type2 Short Width Red Ear Tannin Original Cow Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250610/mbq2v6cr_yrz9.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "483684652",
+          "name": "80 shop",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1476470",
+        "mallType": "TB",
+        "itemId": "846419239123",
+        "title": "CASA towel fabric full width jacquard pure cotton with edging embroidery badge single breasted short sleeved shirt set for men",
+        "picUrl": "https://cdn.findqc.com/item/20250610/mbpu7z6r_px4f.jpg",
+        "price": "¥438.00",
+        "toPrice": "$68.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "472529553",
+          "name": "MAHU工作室",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1430370",
+        "mallType": "WD",
+        "itemId": "7304265124",
+        "title": "【 Capped 】 Ba Show 22Fw Sport 3b Embroidered Double Bright Thread Versatile Sports Style Coat/Pants Set Welfare Price Bailingda Fengshen Embroidery!",
+        "picUrl": "https://cdn.findqc.com/item/20250530/mb9u4ft4_s2g7.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1642490898",
+          "name": "Crazylab",
+          "logo": "https://si.geilicdn.com/wdseller1587984037-30130000019364cd22060a81347d_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141234941913201433",
+  "language": "en"
+}

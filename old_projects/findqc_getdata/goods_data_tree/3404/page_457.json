@@ -1,0 +1,363 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1652801",
+        "mallType": "WD",
+        "itemId": "7306000178",
+        "title": "Fashion hoodie K3-0070 w2crep.com",
+        "picUrl": "https://cdn.findqc.com/item/20250706/mcqltg7o_dx23.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1725200113",
+          "name": "CN Fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate901899444631-680100000192b902f9940a23041a-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1651299",
+        "mallType": "TB",
+        "itemId": "755540076722",
+        "title": "Authentic Nike Men's Autumn and Winter Running Sports Training Fleece-Lined Quick-Drying Warm Pullover Long-Sleeved Dd5663-010",
+        "picUrl": "https://cdn.findqc.com/item/20250705/mcqeylvh_4bl2.jpg",
+        "price": "¥224.86",
+        "toPrice": "$35.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "593134696",
+          "name": "老井运动 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1634257",
+        "mallType": "T1688",
+        "itemId": "845300184023",
+        "title": "High quality cross-border CEL classic capsule series micro label letter printed unisex hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcovqakk_ae7h.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhvsQOWn3xqjjYocQMJJIow",
+          "name": "广州俊兴服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1618914",
+        "mallType": "T1688",
+        "itemId": "855940813966",
+        "title": "Cross border foreign trade men's autumn and winter pullover Polo sweatshirt, casual sports jacket, embroidered with horse logo and flannel hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcnhm2k5_h6i9.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210065967403",
+          "name": "广州市都帝服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1618782",
+        "mallType": "WD",
+        "itemId": "7445080118",
+        "title": "Alo hoodie yoga clothing for women in Europe and America, autumn style round neck sports, loose and fashionable long sleeved pullover top, fitness suit",
+        "picUrl": "https://cdn.findqc.com/item/20250729/mdo9ku9r_nxg4.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735969156",
+          "name": "AlOyogo",
+          "logo": "https://si.geilicdn.com/wdseller1489596767-6147000001910f7bd61c0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1600773",
+        "mallType": "WD",
+        "itemId": "7310683368",
+        "title": "SupÓme FW 23 BIG LOGO JACQÓUARD HOODIE",
+        "picUrl": "https://cdn.findqc.com/item/20250702/mcm3dvi7_y58z.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1725200113",
+          "name": "CN Fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate901899444631-680100000192b902f9940a23041a-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1600457",
+        "mallType": "TB",
+        "itemId": "809569268713",
+        "title": "Corteiz Devil's Island hoodie full range casual street hooded pullover print men's and women's sports outerwear ins",
+        "picUrl": "https://cdn.findqc.com/item/20250702/mclxk9zc_l7l2.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "311589425",
+          "name": "SPACE TRASH",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1599020",
+        "mallType": "WD",
+        "itemId": "7413583820",
+        "title": "GM Clearance: 420g Heavy duty Water Wash ❗ Ba Home Letter Plush Logo Hoodie with Three Full Labels",
+        "picUrl": "https://cdn.findqc.com/item/20250708/mcu79y4t_hblb.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1624136722",
+          "name": "GM三千万",
+          "logo": "https://si.geilicdn.com/wdseller1588091525-6cb50000017d29632c130a20e35c_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1599019",
+        "mallType": "WD",
+        "itemId": "7400205695",
+        "title": "[GM Welfare] Kanye Vulture S2 Trial Hearing: Limited Edition for Haikou Area. We have informed you about the hooded sweatshirt with a 380g loop (the original price will be restored from time to time)",
+        "picUrl": "https://cdn.findqc.com/item/20250708/mcu7a113_6x2i.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1624136722",
+          "name": "GM三千万",
+          "logo": "https://si.geilicdn.com/wdseller1588091525-6cb50000017d29632c130a20e35c_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1598750",
+        "mallType": "T1688",
+        "itemId": "809145246909",
+        "title": "Tilani Men's Clothing 2025 Spring & Fall Pure Color Basic Sports Suit American Trendy Brand Velvet Thickeneded Sweatshirt and Sweatpants",
+        "picUrl": "https://cdn.findqc.com/item/20250712/md01zq9k_x26d.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSuu0as_JWEX6-tL7ACfVhQ",
+          "name": "中山市提拉尼服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1598407",
+        "mallType": "WD",
+        "itemId": "7502063982",
+        "title": "Autumn and winter new high neck heart-shaped sweater men's and women's striped youth peach heart AMI CLAMS casual pullover knitted sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250713/md1g0jau_wsin.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1755749501",
+          "name": "CNshopping",
+          "logo": "https://si.geilicdn.com/shopedit1965087475-755700000197c560b57b0a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1596981",
+        "mallType": "T1688",
+        "itemId": "895153100852",
+        "title": "High-Quality Corteiz American Street Hip-Hop Embroidered Letter Hoodie Jacket Men's Trendy Brand Sports Suit",
+        "picUrl": "https://cdn.findqc.com/item/20250702/mcln2cr4_rr0l.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGkRYK_S1xkDnaHAPNS961A",
+          "name": "广州潮次方服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1596302",
+        "mallType": "TB",
+        "itemId": "941785046323",
+        "title": "Nettspend X Wasted Youth Heavy Weight American-Style Heavyweight Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250702/mcl1b2or_fkpl.jpg",
+        "price": "¥245.88",
+        "toPrice": "$38.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "285285199",
+          "name": "Sample room",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1591306",
+        "mallType": "TB",
+        "itemId": "814636250542",
+        "title": "Erd Melancholic Rich Second Generation 22Fw Zurich Grid Chest Logo Illness Grid Print Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250702/mckvqife_7ugu.jpg",
+        "price": "¥338.00",
+        "toPrice": "$53.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "450728876",
+          "name": "Roniny",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1583138",
+        "mallType": "WD",
+        "itemId": "7251525851",
+        "title": "R2114-H48",
+        "picUrl": "https://cdn.findqc.com/item/20250701/mckbige7_99kg.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758289665",
+          "name": "ROCKET1",
+          "logo": "https://si.geilicdn.com/weidian901842075230-78c1000001913c5a71590a20e7c7_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1581453",
+        "mallType": "WD",
+        "itemId": "7310234000",
+        "title": "Factory autumn and winter casual fashion hooded sweatshirt - catta",
+        "picUrl": "https://cdn.findqc.com/item/20250701/mcjbneav_2c89.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1692591749",
+          "name": "powerball-Finds",
+          "logo": "https://si.geilicdn.com/shopedit1871584920-0017000001934ed51ef00a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1580528",
+        "mallType": "T1688",
+        "itemId": "872315151513",
+        "title": "24 fleece-lined embroidery in stock cross-border European and American foreign trade S letter joint series loose simple terry suit",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mcj10avl_9u5w.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvfgAAO1YAZb7_qOJBRJSVg",
+          "name": "广州奇诺服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1576317",
+        "mallType": "WD",
+        "itemId": "7447927843",
+        "title": "FG velvet 2238",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mcinn6x5_0paj.jpg",
+        "price": "¥122.00",
+        "toPrice": "$19.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1752812698",
+          "name": "ZS factory新店",
+          "logo": "https://si.geilicdn.com/wdseller1639940264-48350000019625943e7b0a210349_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1576315",
+        "mallType": "TB",
+        "itemId": "873614279327",
+        "title": "ERD style West Coast Choppers American high street cross hoodie men's hooded loose zipper top",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mciluuua_09sz.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "373553884",
+          "name": "SAMPLES",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147366031914134489",
+  "language": "en"
+}

@@ -1,0 +1,436 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2073941",
+        "mallType": "T1688",
+        "itemId": "852314242089",
+        "title": "Compatible LEGO Flower Bouquet Building Blocks Roses Perpetual Flower Valentine's Day Flower Building Blocks Arrangement Puzzle Toys Girls Birthday",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01OgMtAb1WbelYJwiZy_!!2216843552807-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216843552807",
+          "name": "汕头市澄海区稚思玩具厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "717125",
+        "mallType": "T1688",
+        "itemId": "850334197503",
+        "title": "Compatible with LEGO Building Blocks 10328 Eternal Flowers Roses Valentine's Day Gift 10280 Bouquet Assembly Toy",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8yo6qe_oxyx.jpg",
+        "price": "¥7.00",
+        "toPrice": "$1.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHYlpVs2eIruL1jp3xHqGAw",
+          "name": "深圳市福田区金佳奇玩具商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 123,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2687527",
+        "mallType": "TB",
+        "itemId": "955540646064",
+        "title": "10 pieces of 1.8cm wide black small rose bow accessories, cute handmade DIY decorative materials, clothing accessories",
+        "picUrl": "https://cdn.findqc.com/item/20251020/mgyoxmwl_g7p5.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "179337712",
+          "name": "可爱多辅料",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1248515",
+        "mallType": "T1688",
+        "itemId": "671383621301",
+        "title": "KT Cat Doll Doll Children's Birthday Gift: A Starry Sky Dried Flower Bouquet for a Girl's Best Friend and Girlfriend Graduation",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mgh2e336_1rpw.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208636935723",
+          "name": "义乌御星商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1381359",
+        "mallType": "T1688",
+        "itemId": "853225772315",
+        "title": "Cross-Border Compatible Lego Rose Bouquet Assembled Educational Building Block Toys Girls Chinese Valentine's Day Gift 1032",
+        "picUrl": "https://cdn.findqc.com/item/20250520/mawnkd5y_nf9t.jpg",
+        "price": "¥23.50",
+        "toPrice": "$3.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUkIONR_bxPFcV3PZwQ_RTg",
+          "name": "佛山市禅城区积趣味玩具厂",
+          "type": "T1688"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "193276",
+        "mallType": "T1688",
+        "itemId": "722242857245",
+        "title": "Cross-border fall window stickers leaves double-sided printing static stickers window door decoration maple leaves Thanksgiving glass stickers",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqwk27_bt2t.jpg",
+        "price": "¥6.99",
+        "toPrice": "$1.10",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "65742",
+        "mallType": "T1688",
+        "itemId": "688448735485",
+        "title": "Christmas celebration supplies creative transparent ice bar pendant new Christmas tree decoration threaded pendant tree hanging ornaments",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mkq0o1_6w8s.jpg",
+        "price": "¥1.45",
+        "toPrice": "$0.23",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "59278",
+        "mallType": "TB",
+        "itemId": "713037194717",
+        "title": "Puzzle Building Blocks 10313 Flower Bouquet 10314 Eternal Flower Bouquet Children's Educational Toys Boys and Girls Holiday Gifts",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mhvy2w_mp0m.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "47230",
+        "mallType": "TB",
+        "itemId": "639627946727",
+        "title": "Bouquet of flowers Xinjiang cotton 40460 rose flower arrangement children's educational puzzle building block toy gift flowers",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mfk3cv_tl7a.jpg",
+        "price": "¥10.99",
+        "toPrice": "$1.73",
+        "status": "normal",
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "9437",
+        "mallType": "TB",
+        "itemId": "769037267251",
+        "title": "Perpetual Flower BouquetPuzzle Building BlocksGirls SunflowersRed RosesTeachersValentine's DayVase ArrangementBirthday Gift",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3maoqpq_0ymf.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3153",
+        "mallType": "TB",
+        "itemId": "638529475931",
+        "title": "China Building Blocks Flower Bouquet 10280 Fresh Flowers Bonsai Orchids Roses Perpetual Flower Arrangement Building Blocks Toys Girls Series",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m38cz4_04gp.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "categoryId": 25,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114656513249892240",
+  "language": "en"
+}

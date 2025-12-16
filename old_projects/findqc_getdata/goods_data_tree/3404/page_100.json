@@ -1,0 +1,386 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2553795",
+        "mallType": "WD",
+        "itemId": "7481677563",
+        "title": "[DX38-1] 2225",
+        "picUrl": "https://si.geilicdn.com/wdseller1891614120-3ffd0000019203dd3a030a210139_896_896.jpg",
+        "price": "¥117.00",
+        "toPrice": "$18.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2553429",
+        "mallType": "T1688",
+        "itemId": "980404369332",
+        "title": "跨境外贸批发B家巴黎胶带印花欧美高街宽松潮流连帽卫衣男女同款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kO4FbU2HFw0MAiJpG_!!2219648649122-0-cib.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219648649122",
+          "name": "广州奈瑜贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2556555",
+        "mallType": "WD",
+        "itemId": "7562817659",
+        "title": "Habitat Hoodie-Enter store, more 500+ items",
+        "picUrl": "https://si.geilicdn.com/open1849235651-1234478995-7dcf00000198a264eb630a22d249-unadjust_1200_1200.png",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832636589",
+          "name": "WINTER BUY",
+          "logo": "https://si.geilicdn.com/shopedit1935497113-093e000001992a75c39c0a230115-unadjust_650_650.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2555239",
+        "mallType": "WD",
+        "itemId": "7558291608",
+        "title": "迪R家连帽卫衣.25秋冬季新款CD徽章刺绣圆领套头男女长袖",
+        "picUrl": "https://si.geilicdn.com/pcitem1922988361-72d300000199772f21870a2315ef_1080_1080.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1807790477",
+          "name": "Budget clothes",
+          "logo": "https://si.geilicdn.com/shopedit1922988361-0ed400000195fc78752e0a23041a-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554410",
+        "mallType": "WD",
+        "itemId": "7551823234",
+        "title": "LJF89-高品质卫衣套装03+8613400682077",
+        "picUrl": "https://si.geilicdn.com/pcitem901971898638-0ce0000001986fbad2fb0a207569-unadjust_1200_1200.png",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1782037557",
+          "name": "Welcome to shop products",
+          "logo": "https://si.geilicdn.com/shopedit1906105813-798e0000019451415d6b0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1872013",
+        "mallType": "T1688",
+        "itemId": "865803898904",
+        "title": "Ralph RL Pullover Polo Sweater Casual Sports Jacket Pony Embroidered Thin Velvet Hoodie Cross-border Couple",
+        "picUrl": "https://cdn.findqc.com/item/20250728/mdm2l65j_f6i3.jpg",
+        "price": "¥89.25",
+        "toPrice": "$14.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBCJXgaip1w7aF07F3f1Em1Q",
+          "name": "莆田市城厢区先潮牌服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 112,
+        "qcVideoCnt": 5,
+        "picWidth": "750",
+        "picHeight": "750"
+      },
+      {
+        "id": "866542",
+        "mallType": "TB",
+        "itemId": "867324724543",
+        "title": "Cross-Border Classic Stone Solid Color Crew Neck Badge Long-Sleeve Sports Sweatshirt Unisex Couple Correct Version",
+        "picUrl": "https://cdn.findqc.com/item/20250730/mdox5df9_kwpo.jpg",
+        "price": "¥90.76",
+        "toPrice": "$14.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102190617",
+          "name": "小众服饰潮品汇",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 385,
+        "qcVideoCnt": 7
+      },
+      {
+        "id": "1901451",
+        "mallType": "T1688",
+        "itemId": "945456708132",
+        "title": "Cross-Border Classic Stone Stone Pure Color Round Neck Badge Long-Sleeved Sweatshirt for Men and Women Same Style Island Couple Correct Version",
+        "picUrl": "https://cdn.findqc.com/item/20251016/mgsk1hvp_yds3.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdDiywGVgz-BOmxs5_58eaA",
+          "name": "中山市森影服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 169,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "302452",
+        "mallType": "T1688",
+        "itemId": "806508283942",
+        "title": "American-Style Reflective Cortiez Jacket Printed Jacket Stand-Up Collar Suit Zipper Casual Pants Alcatraz Hooded Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241205/m4a7rx8e_1zbf.jpg",
+        "price": "¥59.90",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWDSvpdaGz0q0pcFuqfhUdg",
+          "name": "火焰(广州)服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2554279",
+        "mallType": "WD",
+        "itemId": "7559493057",
+        "title": "田径体育速干裤长裤紧身裤透气拉链高弹运动裤训练反光跑步裤非质量问题不退不换-Whatsapp +86 182 5902 4114",
+        "picUrl": "https://si.geilicdn.com/pcitem901971902089-221200000199809549fc0a23111a_1170_1147.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1643175405",
+          "name": "Trendy sneakers and apparel",
+          "logo": "https://si.geilicdn.com/shopedit1944702635-111b00000196528fd6910a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2553285",
+        "mallType": "WD",
+        "itemId": "7311632166",
+        "title": "ST￥169-230 休闲长袖",
+        "picUrl": "https://si.geilicdn.com/pcitem901782690343-0c6f0000018dad77317d0a22d50c_1200_1200.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1754045653",
+          "name": "Chinese Factory",
+          "logo": "https://si.geilicdn.com/shopedit1902740711-0e000000019367eb1e490a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2556664",
+        "mallType": "WD",
+        "itemId": "7543352789",
+        "title": "Factory high quality fall and winter new classic hot hooded sweater set ce23",
+        "picUrl": "https://si.geilicdn.com/pcitem901908374288-238900000194129004770a2315ef_2400_2400.jpg",
+        "price": "¥118.80",
+        "toPrice": "$18.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784277725",
+          "name": "4号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2567024",
+        "mallType": "WD",
+        "itemId": "7545260684",
+        "title": "Autumn new men's hot selling round neck embroidered sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-784500000194dab58b450a239383_800_800.jpg",
+        "price": "¥82.80",
+        "toPrice": "$13.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784277725",
+          "name": "4号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554919",
+        "mallType": "WD",
+        "itemId": "7561997847",
+        "title": "FF01-CP Clothes Pants Collection",
+        "picUrl": "https://si.geilicdn.com/open1800251485-252808396-398400000196e688a3120a23b491_1920_1920.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1656423203",
+          "name": "Top products 3",
+          "logo": "https://si.geilicdn.com/wdseller1984500653-564600000199dd34970c0a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2553912",
+        "mallType": "WD",
+        "itemId": "7526391909",
+        "title": "WT05 高品质连帽衫",
+        "picUrl": "https://si.geilicdn.com/open1820978691-1234478995-165a00000198ad012e170a8133b0_2560_2560.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1820978691",
+          "name": "Wear Wander",
+          "logo": "https://si.geilicdn.com/shopedit1971459813-615100000198b225f89c0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554754",
+        "mallType": "T1688",
+        "itemId": "842774533277",
+        "title": "Cross border American fashion brand ERD melancholic second-generation vintage letter printed hoodie for men and women, loose hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgl8pqkc_2hy4.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218455957329",
+          "name": "广州潼成国际贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2553698",
+        "mallType": "TB",
+        "itemId": "978394454947",
+        "title": "Windbreaker Jacket for Spring and Autumn, Hard-Wearing Knitted Outdoor Sports Hooded Windproof Top, Versatile Cardigan Jacket for Women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2215843100396/O1CN01ZvRK7J1EnPvworprA_!!2215843100396.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "549762694",
+          "name": "米特兰代购",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2553329",
+        "mallType": "WD",
+        "itemId": "7536154614",
+        "title": "时尚短袖长袖卫衣套装-17",
+        "picUrl": "https://si.geilicdn.com/open1874679197-1234478995-72c8000001986f0d8a770a8115c2_651_651.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622332707",
+          "name": "An ordinary store-B3",
+          "logo": "https://si.geilicdn.com/shopedit1984214934-577c00000198ff8d8ae20a811411-unadjust_612_612.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554782",
+        "mallType": "T1688",
+        "itemId": "786474727673",
+        "title": "全拉链连帽衫卫衣哥特式高街全拉链超大外套男女街头服饰y2外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vjnP7M1Cv5BvDReMK_!!2214282480142-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214282480142",
+          "name": "深圳市宝安区英伦酷童针织制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554480",
+        "mallType": "WD",
+        "itemId": "7257865527",
+        "title": "全棉潮流高品质卫衣套装",
+        "picUrl": "https://si.geilicdn.com/pcitem1360317772-56a200000190b5a468140a2303ee_750_750.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659295412",
+          "name": "Adam clothes",
+          "logo": "https://si.geilicdn.com/shopedit1516753669-2df80000019a63041c9b0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142449462553878378",
+  "language": "en"
+}

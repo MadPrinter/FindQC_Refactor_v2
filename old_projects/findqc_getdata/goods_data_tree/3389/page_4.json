@@ -1,0 +1,376 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1018283",
+        "mallType": "T1688",
+        "itemId": "890209486661",
+        "title": "Tide Brand Sun Protection Clothing Men's Summer Outdoor Running Fitness Training Breathable Hooded Sports Casual Woven",
+        "picUrl": "https://cdn.findqc.com/item/20250505/mab80hox_yc9c.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4aMr2VH6VAyH8N6pisFTyg",
+          "name": "石狮市三淼服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 524,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2599335",
+        "mallType": "TB",
+        "itemId": "681441480548",
+        "title": "European and American Autumn New Commuter OL Fashion V-neck Strap Waist Fold Mid to Long Seven Sleeve Dress DRESS",
+        "picUrl": "https://cdn.findqc.com/item/20251106/mhn59cj3_dwd7.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60600705",
+          "name": "日韩藏衣阁",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2710566",
+        "mallType": "T1688",
+        "itemId": "982104203369",
+        "title": "2025新款同某款男款运动透气外套独立站亚马逊运动登山夹克套装",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KajFW92Ida4UaP1yX_!!2220862579309-0-cib.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBM0-VdRwqTgz5guk2xlfK_g",
+          "name": "广州昕燃贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2147394",
+        "mallType": "T1688",
+        "itemId": "837320415015",
+        "title": "Europe Station Qiantang Item No. 221 Jacket Control Price 268",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Kj6w701KJXhFXGQHK_!!2216554891143-0-cib.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216554891143",
+          "name": "南和县一萱服装门市",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "942042",
+        "mallType": "T1688",
+        "itemId": "834234715779",
+        "title": "Autumn hot item versatile casual high-end jacket for men's sun protection trend new 2024 hooded jacket fashionable",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014Es8qQ2I4lrhAVb0e_!!2216040859233-0-cib.jpg",
+        "price": "¥77.00",
+        "toPrice": "$12.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216040859233",
+          "name": "海城市加贝男装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3027470",
+        "mallType": "T1688",
+        "itemId": "945087616070",
+        "title": "法系2025秋季速干休闲涤纶连帽薄款防晒衣男士夹克户外登山外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017YDf8T20FcEgnPVA6_!!2219788946820-0-cib.jpg",
+        "price": "¥199.92",
+        "toPrice": "$31.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219788946820",
+          "name": "义乌市兼朦电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2125340",
+        "mallType": "T1688",
+        "itemId": "919784217011",
+        "title": "Stone Home Island 25 Spring Summer New Waterproof Breathable Portable Zipper Hooded Sun Protector Skin Suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012kHPWK2GfIHOyjBmG_!!2219020049042-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219020049042",
+          "name": "常熟市莫城街道英卡恩服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261778",
+        "mallType": "T1688",
+        "itemId": "782898589482",
+        "title": "Chinese Style Tang Suit Chen Guoxi's Same Style Stand-up Collar Buckle New Chinoiserie Three-stripe Silk Jacket Men's and Women's Zipper Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01x01Lfj2D2s6MuSqsN_!!2217732418552-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7OKzNAf19Qm8rvzKP-BW_w",
+          "name": "常熟市琴川街道小何穿搭服饰工作室",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1947357",
+        "mallType": "T1688",
+        "itemId": "940338629508",
+        "title": "Summer Sun Protection Windbreaker Men's and Women's Jackets Quick-Drying Tops Hooded Woven Casual Sports Training",
+        "picUrl": "https://cdn.findqc.com/item/20250926/mg00nnrl_5w0j.jpg",
+        "price": "¥87.20",
+        "toPrice": "$13.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBohjW6zG58QBVUJ-3CdQyrw",
+          "name": "栖霞区禾季服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 359,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1249103",
+        "mallType": "T1688",
+        "itemId": "901146435207",
+        "title": "25 spring and summer new NK reflective men's sunscreen skin jacket hooks printed basic men and women couples hooded jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wk7Xqw2KUzpGdBM0N_!!2218546749561-0-cib.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218546749561",
+          "name": "天台翠琴电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1583066",
+        "mallType": "WD",
+        "itemId": "7388565471",
+        "title": "Special clearance of Nanquan original factory medium and long/regular/long Kensington windbreakers",
+        "picUrl": "https://si.geilicdn.com/wdseller1620030239-11170000019500ebbfb40a207569_1134_1920.jpg",
+        "price": "¥588.00",
+        "toPrice": "$92.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1790726218",
+          "name": "严格的麦兜",
+          "logo": "https://si.geilicdn.com/weidian1620030239-1aa90000017e9598592d0a21146b_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2472891",
+        "mallType": "WD",
+        "itemId": "7543386603",
+        "title": "High quality 4-RC-001",
+        "picUrl": "https://si.geilicdn.com/open1848188377-1848188377-006500000191d4a342140a210559_1000_1250.jpg",
+        "price": "¥348.00",
+        "toPrice": "$54.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784277725",
+          "name": "4号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346772",
+        "mallType": "WD",
+        "itemId": "7271695433",
+        "title": "******",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sb3sfh_81f2.jpg",
+        "price": "¥285.00",
+        "toPrice": "$44.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1580339",
+        "mallType": "TB",
+        "itemId": "837907924488",
+        "title": "Nike/Nike Men's Sports Training Running Organizer Hooded Sunscreen Woven Jacket CZ9071-379",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1741827128/O1CN01KHFidb22Wg9OZWRT0_!!1741827128.jpg",
+        "price": "¥379.00",
+        "toPrice": "$59.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106666964",
+          "name": "运动的橙子潮流店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1556853",
+        "mallType": "T1688",
+        "itemId": "797028928551",
+        "title": "Cross-border purchasing sunscreen clothing men's new ice silk quick dry breathable hooded sunscreen skin coat outdoor mountaineering fishing clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0121XV971tQQA65U6Of_!!2214307725896-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214307725896",
+          "name": "晋江市永和镇君君保罗服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1019103",
+        "mallType": "TB",
+        "itemId": "878869063577",
+        "title": "Nike/Nike Men's Spring Sports Running Training Casual Breathable Woven Hooded Jacket Dd4747-084",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2662416142/O1CN01wK1Zzl1vF5gpM2niZ_!!2662416142.jpg",
+        "price": "¥296.71",
+        "toPrice": "$46.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "182169120",
+          "name": "博诚体育 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2838241",
+        "mallType": "T1688",
+        "itemId": "841922506888",
+        "title": "High-definition independent men's and women's models splicing logo knitted punching jacket hooded loose warm fall and winter models jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xM9WQq28lER066A2c_!!2217550377972-0-cib.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217550377972",
+          "name": "义乌市江渚电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "716970",
+        "mallType": "WD",
+        "itemId": "7239602150",
+        "title": "***************",
+        "picUrl": "https://si.geilicdn.com/pcitem1799783535-33200000018f7b20b6780a2315ef_960_960.jpg",
+        "price": "¥595.00",
+        "toPrice": "$93.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2082000",
+        "mallType": "T1688",
+        "itemId": "926432872742",
+        "title": "Stone Island Ghost Compass Badge Work Jacket Men's and Women's Couple Loose Casual Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01W9yS5y1XIFe72SNjx_!!2219347882900-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkCgB4vMyCtonLp2I0VSqzQ",
+          "name": "广州财韵坊服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1573916",
+        "mallType": "T1688",
+        "itemId": "780913006510",
+        "title": "European station 2024 spring and summer new men's Korean Slim hooded jacket sunscreen coat large size printing jacket",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000007253/O1CN01HLF1AL23RvNlvMcZx_!!6000000007253-0-tbvideo.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206676671611",
+          "name": "杭州市上城区哲烊服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141227681911151555",
+  "language": "en"
+}

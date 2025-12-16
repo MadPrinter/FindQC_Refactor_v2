@@ -1,0 +1,336 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1395325",
+        "mallType": "WD",
+        "itemId": "7289946779",
+        "title": "CARH 100001 YLCPH",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb3bpqi7_u3sf.jpg",
+        "price": "¥262.24",
+        "toPrice": "$41.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780570389",
+          "name": "青龙",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1395322",
+        "mallType": "T1688",
+        "itemId": "673578003208",
+        "title": "2022SS New 1977 Plush Short Sleeve ESSENTIALS Flash Trendy T-shirt All Cotton Cross border",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb3axe3p_j6rf.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1395307",
+        "mallType": "T1688",
+        "itemId": "896361812533",
+        "title": "2425 English Premier League Crystal Palace Manchester City Celtic set cross-border non quality issues non refundable",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb2rl4t4_plba.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1395271",
+        "mallType": "TB",
+        "itemId": "901113480125",
+        "title": "24-25 ba li three player jersey Paris football jersey",
+        "picUrl": "https://cdn.findqc.com/item/20250524/mb2c7nnu_8y9j.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "566835888",
+          "name": "博邦体育",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1395285",
+        "mallType": "T1688",
+        "itemId": "892945787830",
+        "title": "Cross-border 25ss Luojia high quality Embroidered logo Loose Cotton Short-sleeved Men's and Women's Casual Fashion Versatile T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb2fg83d_9dci.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBsJIbVY-8_ki8d1ZN_hjd7w",
+          "name": "广州奢简贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 71,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1395284",
+        "mallType": "T1688",
+        "itemId": "852725718732",
+        "title": "Gymshark Muscle Shark American Trendy Brand Sports Fitness Heavy Weight Cotton Printed Short Sleeve T-shirt Cross border Exclusive",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb2f3wqa_xyx4.jpg",
+        "price": "¥69.99",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1395275",
+        "mallType": "TB",
+        "itemId": "598091615640",
+        "title": "Gosha Russian letter Pocchr pure cotton short sleeved European and American trendy youth simple letter T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250524/mb2e3tty_bpc8.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "451418549",
+          "name": "LUKOVAC",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1394279",
+        "mallType": "TB",
+        "itemId": "914334527619",
+        "title": "Printed unisex 215",
+        "picUrl": "https://cdn.findqc.com/item/20250524/mb29ynv9_fv4g.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "522551464",
+          "name": "Singor5",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1394004",
+        "mallType": "T1688",
+        "itemId": "908551858064",
+        "title": "Brand sports quick drying short sleeved t-shirt men's summer new running top ice silk fitness badminton suit men's clothing",
+        "picUrl": "https://cdn.findqc.com/item/20250731/mdqeg8sv_r3ke.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217899822270",
+          "name": "广州安耐运动服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 112,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1393922",
+        "mallType": "TB",
+        "itemId": "928800050506",
+        "title": "MM Style No.23 jersey",
+        "picUrl": "https://cdn.findqc.com/item/20250619/mc2ekr7j_bk94.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258373061",
+          "name": "MadMan2024",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1393796",
+        "mallType": "WD",
+        "itemId": "7474604761",
+        "title": "2 ERO Embroidered T-shirt available for sale at 18:00 and shipped at 20:00",
+        "picUrl": "https://cdn.findqc.com/item/20250530/mbaze49s_zn9t.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1781357740",
+          "name": "2ERO",
+          "logo": "https://si.geilicdn.com/wdseller1532431741-2dd90000019790b8a4cb0a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1393639",
+        "mallType": "T1688",
+        "itemId": "905737077063",
+        "title": "New STU Trendy Brand Touring Classic Spring/Summer Unisex Short Sleeve T-shirt Pure Cotton T-shirt Top",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb2sh5fj_98ji.jpg",
+        "price": "¥34.00",
+        "toPrice": "$5.35",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1393624",
+        "mallType": "T1688",
+        "itemId": "908225379405",
+        "title": "Cross border high version CH Krojia new cross Sanskrit embroidery unisex casual loose short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb2rcxcg_ei7n.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219001998981",
+          "name": "广州冬禧服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1393502",
+        "mallType": "TB",
+        "itemId": "674196233182",
+        "title": "Authentic Nike Summer New Men's Running, Sports Training, Fitness, Breathable, Speed drying Short sleeved T-shirt CZ9185",
+        "picUrl": "https://cdn.findqc.com/item/20250531/mbbl2mhw_3tci.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "593134696",
+          "name": "老井运动 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1393322",
+        "mallType": "TB",
+        "itemId": "923689946096",
+        "title": "Nettspend VLONE White and Blue Nettpendant TOUR Wide Thread Small Collar T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250608/mbnk60hl_tia6.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "285285199",
+          "name": "Sample room",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1393486",
+        "mallType": "T1688",
+        "itemId": "898144046917",
+        "title": "RL Ralph Pony Mark Pure Cotton Couples Top Men's Solid Color American Short-sleeved T-shirt Women's Round Neck Embroidery Summer",
+        "picUrl": "https://cdn.findqc.com/item/20250603/mbfjvf1x_pieu.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0b2RCDekW1-lm6sHS1wWsw",
+          "name": "普宁市梅塘宜佳服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1393503",
+        "mallType": "T1688",
+        "itemId": "896294106711",
+        "title": "Cross border American fashion brand heavyweight retro hell star futuristic printed casual loose round neck short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb2hneio_hww5.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214000174363",
+          "name": "佛山博渊贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1393282",
+        "mallType": "T1688",
+        "itemId": "807957173654",
+        "title": "2024 Summer New Foreign Trade European and American Trendy Brand Hell Star Men's and Women's Large Loose Head Casual Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250524/mb1wa7qs_cpky.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218164908151",
+          "name": "佛山市雅婷服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 109,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1392393",
+        "mallType": "TB",
+        "itemId": "771575608957",
+        "title": "Casablanca Blue Gradient Wave Pattern High End Short Sleeve Shirt for Men's Loose Casual Travel Vacation Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250527/mb63p7q0_lxnr.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "212892669",
+          "name": "Embiid 线上商店",
+          "type": "TB"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 2
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148468041911109955",
+  "language": "en"
+}

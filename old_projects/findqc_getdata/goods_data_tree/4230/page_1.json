@@ -1,0 +1,621 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2482704",
+        "mallType": "T1688",
+        "itemId": "874438013510",
+        "title": "European brand's new men's Modal double-sided brushed silicone hot stamping label breathable boxed flat corner underwear three pack",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yzCGoM1IFlCNQnH8O_!!2217751970864-0-cib.jpg",
+        "price": "¥64.00",
+        "toPrice": "$10.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBolzykwen3X_z0UkI84XjbQ",
+          "name": "晋州市盈锦针织品店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2631093",
+        "mallType": "T1688",
+        "itemId": "887675027720",
+        "title": "跨境恶魔岛Corteiz套装卫衣长裤嘻哈男秋冬季ins高街连帽衫女",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jqpYB8266Lt0Ty28b_!!2219067187612-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219067187612",
+          "name": "上饶市悦燕服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2207863",
+        "mallType": "WD",
+        "itemId": "7333045574",
+        "title": "Sweatshirt Foam Printed Short Sleeve T-Shirt Short Pants Set-CY",
+        "picUrl": "https://si.geilicdn.com/pcitem901898590714-23a700000193b3cf94fc0a2102c5_1200_1200.jpg",
+        "price": "¥104.00",
+        "toPrice": "$16.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1638272729",
+          "name": "HaloPanda",
+          "logo": "https://si.geilicdn.com/pcdecorate1849784164-6b4700000191a344080d0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1850208",
+        "mallType": "T1688",
+        "itemId": "935079964029",
+        "title": "YZY kanye yeezy kanye Vultures1 album cover peripheral long-sleeved T-shirt men and women with the same tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BI40rv1uVkUEsJGhM_!!2219820536043-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219820536043",
+          "name": "佛山市南海区铭扬辰服装加工厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2066445",
+        "mallType": "T1688",
+        "itemId": "923824956078",
+        "title": "2025 new Europe and the United States clothing cross-border foreign trade Amazon women's cross-border goods cardigan long-sleeved pants fashion suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01f3vpTT1Xg4F2wRXqb_!!2200740292952-0-cib.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2200740292952",
+          "name": "广州紫萌轩服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1566401",
+        "mallType": "T1688",
+        "itemId": "913199596492",
+        "title": "Luxury Plush Unisex Bathrobe with Sash Pockets Long Sleeves",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ePWcVm1PWtNIBf8er_!!2219069121849-0-cib.jpg",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2264801",
+        "mallType": "T1688",
+        "itemId": "890411082359",
+        "title": "FC1332 Europe and the United States sexy geometric bust high elastic speed dry package hip shorts set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01z5nxV71rrKGyTO4ou_!!2217091355684-0-cib.jpg",
+        "price": "¥39.80",
+        "toPrice": "$6.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217091355684",
+          "name": "佛山市丰创服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1382001",
+        "mallType": "WD",
+        "itemId": "7442554593",
+        "title": "【DX44】Sweatshirt Foam Printed Short Sleeve T-shirt Short Pants Set",
+        "picUrl": "https://si.geilicdn.com/pcitem901898590714-23a700000193b3cf94fc0a2102c5_1200_1200.jpg",
+        "price": "¥104.00",
+        "toPrice": "$16.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667032845",
+          "name": "超级牛",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424514-4cfb00000195e79975270a81347d-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "996395",
+        "mallType": "T1688",
+        "itemId": "891910696083",
+        "title": "Amazon Quick Sale Amazon Sourcing SynaWord American Loose Sweatshirt Hoodie Sweatpants Y2K Men's and Women's Tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WMMuIn2Nde9YoPy8u_!!2218377799986-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2237745",
+        "mallType": "T1688",
+        "itemId": "947524267889",
+        "title": "Corteiz Alcatraz vintage print American tide high street loose cardigan hooded sweater casual pants suit men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TwfMyh1JwBZgue72j_!!2218201461092-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218201461092",
+          "name": "广州小潮六服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1865283",
+        "mallType": "T1688",
+        "itemId": "818274528599",
+        "title": "2024.XH805 Cross-border Europe and the United States fashion positioning printing pants set cross-border Europe and the United States printing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013sRoJB1mBa2AZeWmP_!!2215418864916-0-cib.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215418864916",
+          "name": "广州玛佳丽服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2233047",
+        "mallType": "TB",
+        "itemId": "934081405447",
+        "title": "Children's black and white hip-hop street dance annual repertoire clothing June 1 boys and girls HIPHOP practice clothes frame drum performance clothes",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3187787320/O1CN01vfOaI523wcGLUXiVh_!!3187787320.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "543996720",
+          "name": "兜哥潮品 原创少儿街舞潮牌hiphop舞蹈服装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902992",
+        "mallType": "TB",
+        "itemId": "673188275020",
+        "title": "Apricot colored grooved pattern human silk fabric texture, vertical feeling, creative base, shirt, skirt, clothing designer fabric",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk86ozy_ad5l.jpg",
+        "price": "¥3.10",
+        "toPrice": "$0.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108718617",
+          "name": "匠心设计师面料工坊",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899455",
+        "mallType": "TB",
+        "itemId": "947799899784",
+        "title": "Dreaming Spring Branch Original Ming Dynasty Round Neck Half Sleeve Short Shirt Big Swing Elastic Half Skirt Chinese Style Hanfu Han Elements Daily",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk056pt_tja5.jpg",
+        "price": "¥131.39",
+        "toPrice": "$20.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "35864831",
+          "name": "拟梦 国风原创工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2898929",
+        "mallType": "TB",
+        "itemId": "828933066978",
+        "title": "Dark rickRO women's personalized patchwork thin mesh long batfly sleeves exposed navel short top knitted T-shirt 25Owens",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjz1btc_vnpi.jpg",
+        "price": "¥266.30",
+        "toPrice": "$41.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "140534664",
+          "name": "ADGUYS暗黑服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2379343",
+        "mallType": "T1688",
+        "itemId": "909779825527",
+        "title": "European and American trendy street skeleton heart print basic zipper short cardigan women's two-piece set high waisted straight leg pants",
+        "picUrl": "https://cdn.findqc.com/item/20251028/mha7tbef_9hlm.jpg",
+        "price": "¥67.80",
+        "toPrice": "$10.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzV5lqYsmoouaPYj63buMxg",
+          "name": "铅山县童康服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2896556",
+        "mallType": "TB",
+        "itemId": "746435321247",
+        "title": "Dream like osmanthus makes Chinese style original imitation mink fur sweater, airplane sleeve jacket, daily Hanfu ten torn skirt, warm autumn and winter",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjwcmtl_z1je.jpg",
+        "price": "¥132.99",
+        "toPrice": "$20.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "35864831",
+          "name": "拟梦 国风原创工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2183863",
+        "mallType": "TB",
+        "itemId": "959798868695",
+        "title": "美国进口2025新款花印花潮牌同款连帽卫衣欧美宽松连帽衫男女卫衣",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2200544764581/O1CN01nbJiEM1ji9SHaG7Q9_!!2200544764581.jpg",
+        "price": "¥145.60",
+        "toPrice": "$22.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "209325901",
+          "name": "文淘北京",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2060041",
+        "mallType": "TB",
+        "itemId": "936539776810",
+        "title": "Corteiz Vibe American retro street hip-hop padded hooded sweatshirt men's tide sports suit jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1769895168/O1CN01ri13Fo1o2zvkNuYgv_!!1769895168.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105627051",
+          "name": "飞翔的心服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1468299",
+        "mallType": "WD",
+        "itemId": "7469263795",
+        "title": "【 DX44 】 Sweatshirt Foam Printed Short Sleeve T-shirt Short Pants Set",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1ciy5l_v6so.jpg",
+        "price": "¥104.00",
+        "toPrice": "$16.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145357342553874966",
+  "language": "en"
+}

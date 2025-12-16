@@ -1,0 +1,383 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3188070",
+        "mallType": "WD",
+        "itemId": "7550941857",
+        "title": "rl hoodie-高质量卫衣",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-2ffe00000198c1c38d170a23b491_1200_1200.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1635218211",
+          "name": "1号商店",
+          "logo": "https://si.geilicdn.com/wdseller1984574574-5a64000001996c0f62dd0a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3122546",
+        "mallType": "TB",
+        "itemId": "991284665269",
+        "title": "Number (N)Ine Ss00 Lambretta Hoodie Retro Print N9 Hooded Sweatshirt Pullover",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2212643669335/O1CN0198zBaO2IpUNL9nd4s_!!2212643669335.jpg",
+        "price": "¥171.51",
+        "toPrice": "$26.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2106811",
+        "mallType": "WD",
+        "itemId": "7488742322",
+        "title": "25ss Basketball series logo embroidered letter printed black hoodie (in stock)",
+        "picUrl": "https://si.geilicdn.com/wdseller1846720803-7c3300000198a3b11a860a8133cc_1179_1959.jpg",
+        "price": "¥329.00",
+        "toPrice": "$51.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1658217817",
+          "name": "Ash Made",
+          "logo": "https://si.geilicdn.com/wdseller1846720803-773b0000018e7f4d443b0a23043f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3184195",
+        "mallType": "WD",
+        "itemId": "7574245482",
+        "title": "************",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-7baa00000190a20636750a8133b5_973_1297.jpg",
+        "price": "¥527.00",
+        "toPrice": "$82.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1807496083",
+          "name": "2号商店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3062079",
+        "mallType": "WD",
+        "itemId": "7602143663",
+        "title": "Youth Trendy Shoes - Co branded Hoodie www.findsspreadsheet.com",
+        "picUrl": "https://si.geilicdn.com/open1367350623-1234478995-424700000197bbe4bfce0a231226_800_800.jpg",
+        "price": "¥264.00",
+        "toPrice": "$41.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648936853",
+          "name": "StyleTransit",
+          "logo": "https://si.geilicdn.com/shopedit1898318301-4f3900000198d55a5daa0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3152231",
+        "mallType": "WD",
+        "itemId": "7585349867",
+        "title": "Cross border new alo yoga hooded metal silver plated autumn and winter casual loose comfortable hoodie men's and women's pullover hoodie\n",
+        "picUrl": "https://si.geilicdn.com/open1780109907-1780109907-645e0000019a2beb148a0a8133b0_600_800.jpg",
+        "price": "¥66.99",
+        "toPrice": "$10.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780109907",
+          "name": "LunaTrade",
+          "logo": "https://si.geilicdn.com/shopedit1999873750-6f7d00000199e6dc040f0a8134f0-unadjust_800_600.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2504101",
+        "mallType": "TB",
+        "itemId": "977377534654",
+        "title": "Number(N)Ine Style Ss04 the Clash Gray Double Skull Print Casual Hooded Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2025450085/O1CN01liB29o1CUykxPNFe1_!!2025450085.jpg",
+        "price": "¥271.53",
+        "toPrice": "$42.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109469774",
+          "name": "何洪生made",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2364501",
+        "mallType": "WD",
+        "itemId": "7542200130",
+        "title": "BR Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxns3l2_yvrt.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "347333",
+        "mallType": "T1688",
+        "itemId": "811920345627",
+        "title": "Cross-border wholesale Hellstar Hell Star wash water old hoodie sweater trousers suit men's and women's tide brand",
+        "picUrl": "https://cdn.findqc.com/item/20241218/m4sy3mq6_rxsp.jpg",
+        "price": "¥81.00",
+        "toPrice": "$12.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBd0QtuKMyacxKrIYru3CZhg",
+          "name": "佛山市禅城区幼晨曦服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 258,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "2501970",
+        "mallType": "WD",
+        "itemId": "7552558692",
+        "title": "【 DX29-6 】 Hooded Large Coat Autumn Zipper Loose Long Sleeve Top\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901940024420-17cf000001992daa39670a239646_4590_3442.jpg",
+        "price": "¥153.00",
+        "toPrice": "$24.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646048669",
+          "name": "Giant panda 🐼",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "10022",
+        "mallType": "TB",
+        "itemId": "700475659584",
+        "title": "Classic Small Logo Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3maw4dd_rnmk.jpg",
+        "price": "¥267.26",
+        "toPrice": "$42.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "342503660",
+          "name": "TOPAMX",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 145,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3134209",
+        "mallType": "T1688",
+        "itemId": "903267369382",
+        "title": "European and American fashion personality trend 47 star pure cotton pullover loose hoodie wholesale for teenage students' couple jackets\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011uEN5D2KWN18ITsqT_!!2219534509564-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkLKBuQljc-Oxei9dHnbNUQ",
+          "name": "广州时理云莱服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "319587",
+        "mallType": "WD",
+        "itemId": "7297245921",
+        "title": "R Fashion Fall/Winter Hooded Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241210/m4i5qy95_rx4x.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1765992741",
+          "name": "3M fashion",
+          "logo": "https://si.geilicdn.com/shopedit1881657422-3ef300000192f4ea34430a22d172-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3187779",
+        "mallType": "WD",
+        "itemId": "7583279034",
+        "title": "24冬季新款欧美小众IS经典款logo闪粉印花半高领女式棉质立领卫衣",
+        "picUrl": "https://si.geilicdn.com/open1789896019-1789896019-62800000019a10dd69960a8133b0_800_800.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789896019",
+          "name": "Kopiax",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-4e3500000199f1873e460a8133cc_1080_1440.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "626289",
+        "mallType": "T1688",
+        "itemId": "664405431503",
+        "title": "21 fall and winter new Europe and the United States women's classic flocking logo printing black and white cotton round neck pullover sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eTVcDF211F5PKwZUV_!!2212390316924-0-cib.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212390316924",
+          "name": "广州伊易服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2619612",
+        "mallType": "TB",
+        "itemId": "982010867316",
+        "title": "【Custom Plain Version】 Rhinestone Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgng6zcw_wxie.jpg",
+        "price": "¥359.96",
+        "toPrice": "$56.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "183667809",
+          "name": "Evaclothing",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "3093912",
+        "mallType": "T1688",
+        "itemId": "976531546584",
+        "title": "430g heavy-duty American style dark pocket and fleece hooded sweatshirt set oversized loose and lazy casual curved knife sweatpants",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dKNGJO1JLXuPwkE1P_!!2725581012-0-cib.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRm06_YwHZoNeBZA6lKFKkQ",
+          "name": "义乌市莫芎电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2853099",
+        "mallType": "WD",
+        "itemId": "7587057210",
+        "title": "Hot stamping hoodie",
+        "picUrl": "https://si.geilicdn.com/wdseller902005152311-59ab0000019a2aa7bc790a21146b_800_800.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1875944813",
+          "name": "Dragon",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "3050773",
+        "mallType": "T1688",
+        "itemId": "987017362111",
+        "title": "美式潮牌AM1R1 ICON街头泼墨字母LOGO印花宽松帽衫男连帽卫衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lpFVmn1TEoFUYy98R_!!2220483872351-0-cib.jpg",
+        "price": "¥151.00",
+        "toPrice": "$23.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4LZewbE2CakRqmJgRgY9pg",
+          "name": "睢宁骐坤申服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3187527",
+        "mallType": "WD",
+        "itemId": "7488299986",
+        "title": "小怪兽纯棉卫衣",
+        "picUrl": "https://si.geilicdn.com/weidian1942973884-1bb5000001974178fb900a20e273_800_800.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1673704173",
+          "name": "Hip-Hop Kid",
+          "logo": "https://si.geilicdn.com/weidian1942973884-1b7500000195e2317b330a207569_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141432702553890192",
+  "language": "en"
+}

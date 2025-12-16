@@ -1,0 +1,601 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2633862",
+        "mallType": "TB",
+        "itemId": "631892081858",
+        "title": "Chicken Brand Model Tool Storage Rack Chicken Rack K1 Wooden Box Desktop Organizer",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mguj1ikp_nakp.jpg",
+        "price": "¥101.41",
+        "toPrice": "$15.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "148472899",
+          "name": "CM鸡当家",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 7
+      },
+      {
+        "id": "3184357",
+        "mallType": "TB",
+        "itemId": "584065831243",
+        "title": "Mt08/Mt09/Mt10 Madworks Basic Shape Engraved Plate",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/755542637/O1CN01tFPLcs1VLnBcBWyef_!!755542637.jpg",
+        "price": "¥36.19",
+        "toPrice": "$5.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "366992045",
+          "name": "MADWORKS模型工具店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2450920",
+        "mallType": "TB",
+        "itemId": "972465394753",
+        "title": "Fashion Purple Brand Straight-leg Denim Washed and Distressed Jeans Retro Ripped Handsome American Style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2329873831/O1CN01vwaOkK1eAePrWohoj_!!2329873831.jpg",
+        "price": "¥173.00",
+        "toPrice": "$27.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "453968425",
+          "name": "我要开911targa",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899221",
+        "mallType": "TB",
+        "itemId": "710353833864",
+        "title": "Ldpe10Ml Liquid Spring Powder Bottle Powder Dropper Bottle Rinse Wrinkle Spray Bottle Screen Printing Plastic Bottle",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/img/ibank/O1CN01oM1sSk27iePrUkyMi_!!2215572317831-0-cib.jpg",
+        "price": "¥0.20",
+        "toPrice": "$0.03",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "506272",
+        "mallType": "T1688",
+        "itemId": "859955566607",
+        "title": "Cross-border European and American Purple Brand Straight Jeans Jeans Washed Old Retro Ripped-hole Duffy Handsome American",
+        "picUrl": "https://cdn.findqc.com/item/20250801/mdsrc1wr_d3cw.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBL81wpaFiF6Fs5kQhkhno_w",
+          "name": "广州潮疯街国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 283,
+        "qcVideoCnt": 12
+      },
+      {
+        "id": "2560504",
+        "mallType": "TB",
+        "itemId": "903787881399",
+        "title": "Bmc Push Knife, Japanese Imported Marking Knife, Model Marking Knife, Gundam Military Model Figure Modification Tool Set, in Stock",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2207458408433/O1CN01MkqkGm2CAN46q6iPO_!!2207458408433.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "462958505",
+          "name": "模型工具百宝箱",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2033240",
+        "mallType": "T1688",
+        "itemId": "913652049304",
+        "title": "Cross-border Europe and the United States Purple Brand straight jeans jeans washed vintage holes ruffled handsome American ensemble",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01U4Gv1O1heMtlHRhAx_!!2218266314302-0-cib.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219678665061",
+          "name": "广州鑫蕴阁服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2109435",
+        "mallType": "T1688",
+        "itemId": "889797034444",
+        "title": "Fair Stripes 10th Anniversary Jersey Number Alphabet Number Heat Transfer Decal Jersey Supplies",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HE3Cfc21CEtsAb9uX_!!2212915636948-0-cib.jpg",
+        "price": "¥1.50",
+        "toPrice": "$0.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212915636948",
+          "name": "广州福雕服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2080330",
+        "mallType": "T1688",
+        "itemId": "932716223939",
+        "title": "跨境欧美Purple Brand直筒牛仔裤jeans水洗做旧复古破洞痞帅美式",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eD6NqQ1PJbttSXbIg_!!2219542581820-0-cib.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219542581820",
+          "name": "广州佐凯服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905533",
+        "mallType": "TB",
+        "itemId": "682869757188",
+        "title": "KMC perfectly fits the inner container of the game king Wanzhi card size, gold and silver transparent back matte black ultra hard card cover",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9j4zi_25oa.jpg",
+        "price": "¥19.90",
+        "toPrice": "$3.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "115236575",
+          "name": "Underground Sea",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2903138",
+        "mallType": "TB",
+        "itemId": "755439879990",
+        "title": "Pull the elevator auxiliary door lock contact hall floor door lock switch T-shaped Fomat Fu door lock suitable for Thyssen accessories",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk87mya_a3jy.jpg",
+        "price": "¥18.42",
+        "toPrice": "$2.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63186665",
+          "name": "宁波拉把电梯配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2439417",
+        "mallType": "TB",
+        "itemId": "815074999938",
+        "title": "New Champions League Jersey Collection Adult Size Jersey Number Letter Armband Number Heat Transfer Stickers for Jerseys",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhh2wrmv_p504.jpg",
+        "price": "¥1.03",
+        "toPrice": "$0.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "180629513",
+          "name": "福雕球号部落企业店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2782391",
+        "mallType": "T1688",
+        "itemId": "675555543095",
+        "title": "Fluid Bear White Embryo Wholesale Handmade DIY Violent Bear Large Vinyl Doll Decoration Bearbrick Cross border Style",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh5ok6um_e4q3.jpg",
+        "price": "¥0.47",
+        "toPrice": "$0.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdAYLLOLQS2Mp_drhU_vFwg",
+          "name": "东阳市茉铭电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2512114",
+        "mallType": "TB",
+        "itemId": "821950796823",
+        "title": "Model Toy Eye Stickers Ms100 Gundam Zaku One-Eyed Series Modification Metal Colorful Luminous/Sight Stickers",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgdgbiqu_9z3p.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116212207",
+          "name": "楽漫模玩",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2511842",
+        "mallType": "TB",
+        "itemId": "680103922730",
+        "title": "Gundam Model Straight Head Elbow Round Head Tweezers Soft Clay Clay Clay Hand-Made DIY Making Tools",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgdgpj47_mmu4.jpg",
+        "price": "¥2.78",
+        "toPrice": "$0.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72455618",
+          "name": "小熊模玩[原模工聚]",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "390393",
+        "mallType": "T1688",
+        "itemId": "600667145406",
+        "title": "Factory wholesale hair styling tools electric push clippers non-slip cover net red electric push cover silicone cover oil head push non-slip protective cover",
+        "picUrl": "https://cdn.findqc.com/item/20241227/m55khd35_773u.jpg",
+        "price": "¥1.40",
+        "toPrice": "$0.22",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "248382",
+        "mallType": "WD",
+        "itemId": "7278313507",
+        "title": "C ribbon half zipper jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241125/m3wnirtk_4wha.jpg",
+        "price": "¥389.00",
+        "toPrice": "$61.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "197285",
+        "mallType": "TB",
+        "itemId": "829760406295",
+        "title": "Tbtlv2 Foot Pads Vxe Mad R Ptfe Teflon High-Purity Smooth Mouse Anti-Spill Adhesive Foot Pads",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njoxb9_cxnw.jpg",
+        "price": "¥29.74",
+        "toPrice": "$4.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71424340",
+          "name": "TBTL外设一原BTL纯手工外设定制一",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "37342",
+        "mallType": "TB",
+        "itemId": "544731714213",
+        "title": "Watch repair tool, double ended ear batch watch strap disassembly and assembly tool, ear fork watch strap steel strap adjuster",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nl80ow_hzrx.jpg",
+        "price": "¥0.36",
+        "toPrice": "$0.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "126441323",
+          "name": "FENG FENG 手表配件店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021148099472553925714",
+  "language": "en"
+}

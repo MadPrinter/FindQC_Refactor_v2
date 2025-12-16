@@ -1,0 +1,456 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3180029",
+        "mallType": "WD",
+        "itemId": "7468569564",
+        "title": "【OG】YE*EY SL1DE",
+        "picUrl": "https://si.geilicdn.com/pcitem1833424671-580200000196c87bf7730a20e672_1200_1200.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614216041",
+          "name": "Cool Kicks",
+          "logo": "https://si.geilicdn.com/wdseller1833424671-32e40000018d69a4252f0a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2088",
+        "mallType": "WD",
+        "itemId": "7239230421",
+        "title": "RS337【G*X/L*W Batch】Y*eezy Sli*de(Size up 1-2, shoes are smaller) what*app: +8619105043580",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2rjxw_vivb.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1763185369",
+          "name": "Repsun whatapp: +8619105043580",
+          "logo": "https://si.geilicdn.com/pcdecorate1849202325-121b0000018f823cb11b0a2303ee-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 562,
+        "qcVideoCnt": 14
+      },
+      {
+        "id": "2228830",
+        "mallType": "T1688",
+        "itemId": "676256282528",
+        "title": "圆柄未开刃蝴蝶练习刀美国蝴蝶刀梳子CSgo户外训练刀折叠训练梳",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016LmggZ251wBNvWaKO_!!2212727737467-0-cib.jpg",
+        "price": "¥3.50",
+        "toPrice": "$0.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212727737467",
+          "name": "阳江市江城区顺铠工贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1581493",
+        "mallType": "WD",
+        "itemId": "7340700982",
+        "title": "****** products",
+        "picUrl": "https://si.geilicdn.com/open1651987361-1234478995-72960000018978cf46960a210559_2048_2048.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828016549",
+          "name": "我的小铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-249600000193b88380020a231316-unadjust_234_234.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "796278",
+        "mallType": "WD",
+        "itemId": "7362304065",
+        "title": "Slippers for men and women",
+        "picUrl": "https://si.geilicdn.com/open1651987361-1234478995-35870000018978cf32330a22d595_2048_2048.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615509721",
+          "name": "WWW——34-1",
+          "logo": "https://si.geilicdn.com/shopedit1848591094-437a000001963933a6090a23111a-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2302544",
+        "mallType": "WD",
+        "itemId": "7449691713",
+        "title": "Men's and women's slippers in the same style",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf300ds2_ow9n.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614498093",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-0be40000019522797ea80a21146b-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "487334",
+        "mallType": "TB",
+        "itemId": "524507948010",
+        "title": "Dark Pioneer Epoxy Four Seasons Handmade Distressed Titanium Ice Cone Dissolving Melted Lava Wax Horse Leather Men's Boots",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexbqzqu_mh8l.jpg",
+        "price": "¥1,018.09",
+        "toPrice": "$160.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33571825",
+          "name": "奥地利手工融化溶解滴胶研究所 企业店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "596346",
+        "mallType": "WD",
+        "itemId": "7268499234",
+        "title": "YZSlide",
+        "picUrl": "https://cdn.findqc.com/item/20250522/mayo7k3u_8p0u.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1814294629",
+          "name": "Tate",
+          "logo": "https://si.geilicdn.com/weidian1886243235-5a4800000192942d767e0a23041a_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 116,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "248375",
+        "mallType": "WD",
+        "itemId": "7241031787",
+        "title": "Summer new men's and women's couple sports slippers, personalized casual slippers",
+        "picUrl": "https://cdn.findqc.com/item/20241125/m3wnhgm0_tp96.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1815550969",
+          "name": "汇锦鞋品",
+          "logo": "https://si.geilicdn.com/shopedit1866172634-16d10000018fcdf307750a2315ef-unadjust_680_680.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 90,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182399",
+        "mallType": "WD",
+        "itemId": "7230216200",
+        "title": "YZ  Slide",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr3cph_10jc.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1837165401",
+          "name": "YE-Sneaker",
+          "logo": "https://si.geilicdn.com/shopedit1847073643-75060000018e521eb34c0a22d4f5-unadjust_464_464.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143371201913204314",
+  "language": "en"
+}

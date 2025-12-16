@@ -1,0 +1,638 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2437475",
+        "mallType": "WD",
+        "itemId": "7547353003",
+        "title": "T227#",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgqyz7m0_5j24.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "322338468",
+          "name": "Amy Beanie",
+          "logo": "https://si.geilicdn.com/wdseller322338468-599c0000018ec861a74b0a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2914752",
+        "mallType": "WD",
+        "itemId": "7566722519",
+        "title": "Imitation cashmere living room carpet bedroom bedside blanket 2025 New arrival study cloakroom Non Slip Abrasion Resistant floor mat can be customized",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-0e8300000199bd3f550e0a22d249-unadjust_750_1000.png",
+        "price": "¥70.20",
+        "toPrice": "$11.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743677485",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1931680837-3bfe00000196b9a749100a231316-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1664712",
+        "mallType": "TB",
+        "itemId": "761637000196",
+        "title": "Green wetgrass wetgrass fujiwara hiroshi cashew flower offwhite co-branded ow living room shoes wall-to-wall carpet customized",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1746748375/O1CN01xBJ2Ko2Bjo4pzbvMl_!!1746748375.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105561272",
+          "name": "盛瑞隆地毯",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2190237",
+        "mallType": "WD",
+        "itemId": "7524700459",
+        "title": "Pad",
+        "picUrl": "https://si.geilicdn.com/open1700008665-252808396-2ef900000191b84c7b0c0a210298_620_620.jpg",
+        "price": "¥86.00",
+        "toPrice": "$13.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1669680323",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3154295",
+        "mallType": "WD",
+        "itemId": "7581652601",
+        "title": " be16802&04",
+        "picUrl": "https://si.geilicdn.com/pcitem902001014202-60b90000019a13dd9dfe0a230115_1440_1920.jpg",
+        "price": "¥467.00",
+        "toPrice": "$73.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621679699",
+          "name": "Colareps-5",
+          "logo": "https://si.geilicdn.com/pcdecorate902000753197-3c9c00000199f15208960a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1880142",
+        "mallType": "WD",
+        "itemId": "7323279860",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1700008665-252808396-02f800000191b84d2ca80a232357_800_800.jpg",
+        "price": "¥86.00",
+        "toPrice": "$13.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "256360",
+        "mallType": "TB",
+        "itemId": "628860126201",
+        "title": "Fashionable Brand Supreme Handmade Acrylic Carpet Tufting Bedside Rug for Bedroom Thickened and Washable in Stock",
+        "picUrl": "https://cdn.findqc.com/item/20241128/m4099nht_d8sd.jpg",
+        "price": "¥92.58",
+        "toPrice": "$14.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62762981",
+          "name": "Queen A 潮流家居地毯",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3004535",
+        "mallType": "T1688",
+        "itemId": "769577133105",
+        "title": "Spot Living Room Carpet Velvet Whole House Sofa Carpet Bedroom Thick Cotton Bottom Washable Short Velvet Floor Mat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UPmhwh1JuoF8rQNog_!!3167641089-0-cib.jpg",
+        "price": "¥13.50",
+        "toPrice": "$2.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZYKg-TQcdbAsMVGhQ0YG-Q",
+          "name": "天津陆赢地毯有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633401",
+        "mallType": "TB",
+        "itemId": "694340271015",
+        "title": "Wetgrass wetgrass carpet green shag co-branded tide living room bedroom bedside showroom decoration background",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1802398142/O1CN01B0yEeR2A15n1SjnDu_!!1802398142.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108178297",
+          "name": "oO地毯",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225275",
+        "mallType": "WD",
+        "itemId": "7260696063",
+        "title": "Billiard Black 8 carpet",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rfvdj9_bt4h.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648195145",
+          "name": "BRAND COLLECT",
+          "logo": "https://si.geilicdn.com/shopedit1816205840-18940000018c297bd1820a23132e-unadjust_596_596.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895202",
+        "mallType": "T1688",
+        "itemId": "804978862245",
+        "title": "Cross-border Amazon Dollar Carpet E-sports Game Room Full Carpet Living Room Sofa Coffee Table Mat Bedroom Bedside Blanket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NWpEd92LqoEFcaDHm_!!2217673929744-0-cib.jpg",
+        "price": "¥2.88",
+        "toPrice": "$0.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdvCa0s2ahT-ey_PkgYIZuQ",
+          "name": "天津市武清区双玮地毯厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2853230",
+        "mallType": "WD",
+        "itemId": "4068059564",
+        "title": "7103, this is the explosive clearance! Annual Drunken Strong Collaboration! IKEA off carpet! The whole nation is crazily fighting! Selling on the floor at the entrance to grab goods is it! Public price of 2w! Various sizes meet your needs!\n",
+        "picUrl": "https://si.geilicdn.com/pcitem1358604434-1fb200000175516658f50a217216_700_525.jpg",
+        "price": "¥19.00",
+        "toPrice": "$2.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1358604434",
+          "name": "新一休精品严选 诚招代里",
+          "logo": "https://si.geilicdn.com/bj-vshop-1358604434-1535457496928-1887987616_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2787771",
+        "mallType": "T1688",
+        "itemId": "902577464830",
+        "title": "Ins Style Diatom Mud Floor Mat Absorbs Water, Is Stain-Resistant and Easy to Care For, Non-Slip Mat, Household Asymmetrical Bedroom Bedside Carpet",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0133ksrP1FJ1DK3zX1V_!!2218499290465-0-cib.jpg",
+        "price": "¥31.40",
+        "toPrice": "$4.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218499290465",
+          "name": "天津市武清区亿舟地毯厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "284113",
+        "mallType": "TB",
+        "itemId": "694625008380",
+        "title": "Autonomous Margiela Trendy Brand Carpet for Home Use, Non-Slip, Suitable for Bedroom, Coffee Table, Bedside, Balcony, Window Area",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m4753ylq_e5up.jpg",
+        "price": "¥57.47",
+        "toPrice": "$9.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "130694790",
+          "name": "Neverisland 潮毯",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283551",
+        "mallType": "TB",
+        "itemId": "532546067017",
+        "title": "Fashionable British fashion brand, living room, study room, round carpet, tufting, hand woven acrylic thick bedroom, bedside, no wash",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m473mcxp_2cc3.jpg",
+        "price": "¥113.48",
+        "toPrice": "$17.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62762981",
+          "name": "Queen A 潮流家居地毯",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283550",
+        "mallType": "TB",
+        "itemId": "668752335935",
+        "title": "Spot Fashion Trendy Brand Coffee Flower Handmade Irregular Carpet Tufting Acrylic Thick Non Washable Living Room Bedroom Decoration\n",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m473nwt4_gqa0.jpg",
+        "price": "¥111.15",
+        "toPrice": "$17.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62762981",
+          "name": "Queen A 潮流家居地毯",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2051604",
+        "mallType": "WD",
+        "itemId": "7500135388",
+        "title": "G0AT",
+        "picUrl": "https://si.geilicdn.com/open1700008665-252808396-02f800000191b84d2ca80a232357_800_800.jpg",
+        "price": "¥86.00",
+        "toPrice": "$13.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899373",
+        "mallType": "WD",
+        "itemId": "7438213214",
+        "title": "be0010553&27",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjzx76a_pkw4.jpg",
+        "price": "¥153.00",
+        "toPrice": "$24.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1742618381",
+          "name": "Colareps-3",
+          "logo": "https://si.geilicdn.com/shopedit1921722480-179e00000196e9c68a640a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2215165",
+        "mallType": "TB",
+        "itemId": "939730532876",
+        "title": "Black eight round carpet 8 billiard floor mat non-slip living room coffee table blanket boys bedroom room decoration gaming chair",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2218983310744/O1CN01V1AIn91HMnjieGk0d_!!4611686018427381144-0-item_pic.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "395597956",
+          "name": "海螺日记家居旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2168438",
+        "mallType": "WD",
+        "itemId": "6279384145",
+        "title": "The Dior Placemats for the Home collection is a selection that brings the art of living and hospitality to life, and once again, it has renewed its image in my mind as a place where I no longer think of the little black dress, the toffee bag, and the exquisite pieces, this pattern of flowers and animals, vividly adorns the dining room, and is a perfect example of how to make the most of the world's most beautiful and beautiful places.",
+        "picUrl": "https://si.geilicdn.com/wdseller901257918-602e00000187ea8ad9ed0a231565_1080_810.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699229748",
+          "name": "明星潮牌单品",
+          "logo": "https://si.geilicdn.com/wdseller901257918-65490000017549a0d7770a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114925019194345747",
+  "language": "en"
+}

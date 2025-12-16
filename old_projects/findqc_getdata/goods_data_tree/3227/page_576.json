@@ -1,0 +1,364 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1515361",
+        "mallType": "WD",
+        "itemId": "7459643760",
+        "title": "**",
+        "picUrl": "https://cdn.findqc.com/item/20250720/mdb38h3t_pm4h.jpg",
+        "price": "¥122.00",
+        "toPrice": "$19.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614498093",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-0be40000019522797ea80a21146b-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1514430",
+        "mallType": "WD",
+        "itemId": "7486721724",
+        "title": "ALO short sleeved small label color A07",
+        "picUrl": "https://cdn.findqc.com/item/20250620/mc4giul4_sk9b.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1514428",
+        "mallType": "WD",
+        "itemId": "7218527854",
+        "title": "REP short sleeved R three little angels Chubi 62E",
+        "picUrl": "https://cdn.findqc.com/item/20250620/mc490si6_gbr4.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1514421",
+        "mallType": "WD",
+        "itemId": "7447295241",
+        "title": "A06",
+        "picUrl": "https://cdn.findqc.com/item/20250711/mcyivpal_faxc.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1752812698",
+          "name": "ZS factory新店",
+          "logo": "https://si.geilicdn.com/wdseller1639940264-48350000019625943e7b0a210349_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1514375",
+        "mallType": "WD",
+        "itemId": "7446695941",
+        "title": "R92423-H45",
+        "picUrl": "https://cdn.findqc.com/item/20250616/mbycxngq_6xd0.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1829168265",
+          "name": "ROCKET4",
+          "logo": "https://si.geilicdn.com/weidian1811741420-7c1b000001913c5d2fa10a20e273_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1514368",
+        "mallType": "T1688",
+        "itemId": "893317408193",
+        "title": "Cross border American original Sup funny graffiti letters BOX classic printed short sleeved T-shirt street American fashion brand",
+        "picUrl": "https://cdn.findqc.com/item/20250616/mby9t2yu_d9m7.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1514328",
+        "mallType": "T1688",
+        "itemId": "897737154426",
+        "title": "RL Ralph Pony Logo Pure Cotton Solid Color Short Sleeve V-neck Embroidered Summer Slimming Top Bottom T-shirt Women's American Style",
+        "picUrl": "https://cdn.findqc.com/item/20250618/mc1mwavr_16fc.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1514282",
+        "mallType": "TB",
+        "itemId": "872299936223",
+        "title": "Ss24 Varsity Tee Cartoon Logo letter Print Round Neck Short Sleeve T-Shirt Unisex Base Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250628/mcfyim47_4he4.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "464464911",
+          "name": "大S潮牌社",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1514283",
+        "mallType": "TB",
+        "itemId": "885468055056",
+        "title": "American China-Chic Relaxed Leisure 2025 Summer Embroidery Round Neck Short Sleeve T-shirt Men's and Women's Relaxed Fashion Large",
+        "picUrl": "https://cdn.findqc.com/item/20250626/mccyp60x_qyqe.jpg",
+        "price": "¥50.90",
+        "toPrice": "$8.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "387308728",
+          "name": "A78服饰旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1512300",
+        "mallType": "T1688",
+        "itemId": "911937667133",
+        "title": "2025 Summer New Basic Classic Solid Color Short Sleeve Embroidered Small Label Round Neck Base T-shirt Men's and Women's Trendy LF",
+        "picUrl": "https://cdn.findqc.com/item/20250615/mbwor1cz_nqj8.jpg",
+        "price": "¥61.50",
+        "toPrice": "$9.67",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1512208",
+        "mallType": "WD",
+        "itemId": "7467267884",
+        "title": "BBR Double-Print T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250616/mby1lzkl_rbtv.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1723687097",
+          "name": "Madebykungfu",
+          "logo": "https://si.geilicdn.com/wdseller1855819126-13ec0000018ef0425f300a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1511332",
+        "mallType": "WD",
+        "itemId": "7454159167",
+        "title": "In stock/BAIWANMADE//Jacquard short sleeves with cuffs",
+        "picUrl": "https://cdn.findqc.com/item/20250619/mc339dk5_uhkc.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1868092506",
+          "name": "百万made（唯一老店）",
+          "logo": "https://si.geilicdn.com/weidian1641207557-708b00000193ca15941c0a207569_1096_1096.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1510395",
+        "mallType": "T1688",
+        "itemId": "862748387927",
+        "title": "ARTIE Men's Wear | 2025 Niche Trendy Brand 275g Shoulder Beating Splicing Pick up Special Car Workers Men's Short Sleeve T-shirt Trend",
+        "picUrl": "https://cdn.findqc.com/item/20250615/mbxge85k_54wx.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1510391",
+        "mallType": "T1688",
+        "itemId": "885091931384",
+        "title": "ARTIE Men's Wear | 2025 Cross border Direct Laundry for Vintage Men's Short sleeved T-Shirts with Bamboo Knot Cotton Wax Printing Laundry T",
+        "picUrl": "https://cdn.findqc.com/item/20250729/mdnj59j8_nsab.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2631375602",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1510377",
+        "mallType": "TB",
+        "itemId": "934960745210",
+        "title": "Navy blue shoulder short sleeved T-shirt for women's summer new design, pleated waist cinched round neck slim fit and slimming short top",
+        "picUrl": "https://cdn.findqc.com/item/20250615/mbwzhvjs_t6ob.jpg",
+        "price": "¥666.00",
+        "toPrice": "$104.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103776580",
+          "name": "d[s103776580]",
+          "type": "TB"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1510299",
+        "mallType": "TB",
+        "itemId": "921242416052",
+        "title": "Madman Ate Style Independent Design Style Personalized Custom Short-Sleeve New arrival (Best Quality)",
+        "picUrl": "https://cdn.findqc.com/item/20250614/mbwbquxd_40u4.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258373061",
+          "name": "MadMan2024",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 57,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1510284",
+        "mallType": "T1688",
+        "itemId": "894435379598",
+        "title": "VINTAGE ICON Cross-border Wholesale American Washed Vintage Skull Print Men's and Women's Loose Round Neck Short Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250702/mckwcpf8_cckx.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb8FkoU0hPgp7_jekWrAdjA",
+          "name": "深圳市奕程贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1509056",
+        "mallType": "TB",
+        "itemId": "928618402469",
+        "title": "Damaged short sleeved T-shirt V5200 made of adhesive fabric",
+        "picUrl": "https://cdn.findqc.com/item/20250624/mcao92i0_gye5.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "522551464",
+          "name": "Singor5",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1509041",
+        "mallType": "T1688",
+        "itemId": "743101818616",
+        "title": "Trendy High Street TS collaboration portrait casual short sleeved round neck pure cotton T-shirt top for men and women, wholesale for foreign trade",
+        "picUrl": "https://cdn.findqc.com/item/20250624/mcacz7cs_9cfe.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrllKraWDzK3igLwMOWMjpw",
+          "name": "广州奕程贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1509037",
+        "mallType": "T1688",
+        "itemId": "928135047136",
+        "title": "Ceiling On Running Performance Quick drying Short sleeved Mountain Outdoor Sports Breathable Running Couple T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250624/mca9tytf_tvlq.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219636174907",
+          "name": "广州冈仁波齐服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148238412553902467",
+  "language": "en"
+}

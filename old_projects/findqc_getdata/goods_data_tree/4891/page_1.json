@@ -1,0 +1,371 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2900013",
+        "mallType": "TB",
+        "itemId": "683524672926",
+        "title": "Gillette Gravity Box Matte Knife Box Silver Storage for Men's Travel and Business Travel, Convenient to Carry, Sharp Speed Five Geely Magnetic Attraction",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk1hs79_itf4.jpg",
+        "price": "¥14.35",
+        "toPrice": "$2.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "145737308",
+          "name": "男士剃须刀正品店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2772468",
+        "mallType": "T1688",
+        "itemId": "694017766250",
+        "title": "USB 2.5G wired network card suitable for laptops, desktop computers, gigabit high-speed gray plug and play",
+        "picUrl": "https://cdn.findqc.com/item/20251028/mh9xhqg3_hqf5.jpg",
+        "price": "¥31.36",
+        "toPrice": "$4.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJXeb_XVL5Cgn4N9NwU5L8g",
+          "name": "深圳市华翔骏科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "463355",
+        "mallType": "TB",
+        "itemId": "599086517980",
+        "title": "intel AX210 AX200 wifi7 wireless network card bluetooth laptop desktop computer receiver BE200",
+        "picUrl": "https://cdn.findqc.com/item/20250109/m5oa8ddh_6lhh.jpg",
+        "price": "¥14.00",
+        "toPrice": "$2.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "336695788",
+          "name": "群盛数码无线网卡批发",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "199361",
+        "mallType": "TB",
+        "itemId": "693528313266",
+        "title": "Beisi Bluetooth Adapter Desktop Computer USB Module Wireless Earphones Mouse 5.3 Driver free Receiver",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nuivq0_z1z1.jpg",
+        "price": "¥57.90",
+        "toPrice": "$9.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105359256",
+          "name": "鑫鼎数码专营店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67509",
+        "mallType": "TB",
+        "itemId": "677089756278",
+        "title": "Wifi6 Wireless Network Card Ax210/Ax200 Gigabit 5g Dual-Band 1800m Desktop Computer Bluetooth 5.2 Built-In Pcie Enhanced Network Signal Wifi Receiver",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlyo49_vl7g.jpg",
+        "price": "¥39.37",
+        "toPrice": "$6.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71595831",
+          "name": "奋威数码专营店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "46592",
+        "mallType": "T1688",
+        "itemId": "570315363029",
+        "title": "7260NGW AC 1200M 2.4G/5G Dual Band Gigabit M2 Built-in WIFI Wireless Card 4.0 Bluetooth",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mf5nck_slna.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147374341916158121",
+  "language": "en"
+}

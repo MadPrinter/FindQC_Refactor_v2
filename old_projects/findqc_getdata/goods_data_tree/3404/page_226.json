@@ -1,0 +1,383 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1963013",
+        "mallType": "WD",
+        "itemId": "7480606083",
+        "title": "Remy Martin Casual Jacket Top",
+        "picUrl": "https://si.geilicdn.com/pcitem1706177933-3ad1000001971822cb1e0a231316_800_800.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1800654350",
+          "name": "荞麦星期一",
+          "logo": "https://si.geilicdn.com/wdseller1706177933-0414000001842a4ca5f70a23056b_132_132.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1962572",
+        "mallType": "WD",
+        "itemId": "7267506893",
+        "title": "High version M/port fall and winter hoodie sweatshirt jacket",
+        "picUrl": "https://si.geilicdn.com/open1804138897-1234478995-51c200000191c0ade1980a210559_1080_1080.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1804138897",
+          "name": "Maketheone-Tech",
+          "logo": "https://si.geilicdn.com/wdseller1785215318-19580000018e41300db90a210244_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1962569",
+        "mallType": "T1688",
+        "itemId": "930654270216",
+        "title": "Cross-border foreign trade STONE stone four pass island classic paragraph cardigan sweater hoodie long-sleeved zipper jacket men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01761ZON1pHU4PbhpTQ_!!2219552035335-0-cib.jpg",
+        "price": "¥83.00",
+        "toPrice": "$13.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219552035335",
+          "name": "广州六便士批发商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1962388",
+        "mallType": "T1688",
+        "itemId": "890289082832",
+        "title": "Large LOGO hoodie Sweatshirt long sleeve casual versatile",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FwAeNY21EWsb3K91I_!!2219421716953-0-cib.jpg",
+        "price": "¥173.00",
+        "toPrice": "$27.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219421716953",
+          "name": "上海家信沐贸易商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1898169",
+        "mallType": "WD",
+        "itemId": "7288214587",
+        "title": "20241016 hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1868424702-055900000192952048f10a23041a_800_800.jpg",
+        "price": "¥330.00",
+        "toPrice": "$51.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1741590021",
+          "name": "PPP78",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897940",
+        "mallType": "TB",
+        "itemId": "840860801093",
+        "title": "Cross-Border Fashion Hoodie, Trendy Hoodie, Cross-Border Trendy Hooded Fashion Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/4276247960/O1CN01dTrVqK28fjgSGwQc6_!!4276247960.jpg",
+        "price": "¥36.01",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "227998583",
+          "name": "鑫鑫的衣橱",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897604",
+        "mallType": "T1688",
+        "itemId": "887969099753",
+        "title": "Synaworld three-dimensional foam printing padded hoodie men and women loose casual sweater pants suit couples",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LzbU711RlfK4InfRk_!!2217570122152-0-cib.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217875484710",
+          "name": "广州酷轩依服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2487250",
+        "mallType": "WD",
+        "itemId": "7530295062",
+        "title": "Trendy casual suit 17",
+        "picUrl": "https://si.geilicdn.com/pcitem1939810301-2e7300000198a713bf910a2315ef_1200_1200.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1748890388",
+          "name": "Amy shop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2486369",
+        "mallType": "WD",
+        "itemId": "7530809773",
+        "title": "LA Couple style embroidered hooked casual sweatshirt couple style embroidered hooded casual sweatshirt 489307 E",
+        "picUrl": "https://si.geilicdn.com/pcitem901950661277-669a00000198d210ed920a2103bd_1080_1080.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1748273649",
+          "name": "repprince",
+          "logo": "https://si.geilicdn.com/wdseller1783010891-28a400000196420d8d950a81347d_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2485931",
+        "mallType": "WD",
+        "itemId": "7525884072",
+        "title": "热销",
+        "picUrl": "https://si.geilicdn.com/open1644832861-1234478995-2574000001989d28f4d60a231226_736_920.jpg",
+        "price": "¥300.00",
+        "toPrice": "$47.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1644832861",
+          "name": "Cocofinds offcial",
+          "logo": "https://si.geilicdn.com/shopedit1952081269-5706000001975d4476f80a23057e-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2438164",
+        "mallType": "TB",
+        "itemId": "975511386079",
+        "title": "Osamason Jumpout Tour Zip Hoodie Venue Limited Edition Zip-Up Hoodie Sweatshirt Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2212643669335/O1CN017rCQBP2IpUMauLeob_!!2212643669335.jpg",
+        "price": "¥196.12",
+        "toPrice": "$30.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1808069",
+        "mallType": "WD",
+        "itemId": "7438462540",
+        "title": "terry hoodie sweater",
+        "picUrl": "https://si.geilicdn.com/open1841026309-252808396-480600000195eef9f1a70a22d249_1200_1200.jpg",
+        "price": "¥172.00",
+        "toPrice": "$27.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1807738",
+        "mallType": "TB",
+        "itemId": "947190365174",
+        "title": "Spring and Autumn RL Long Sleeve Hoodie for Men's Casual Solid Color Embroidered Pony Logo Zipper cardigan Hoodie",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3995607385/O1CN01k6tfNu24QO0zxIWkO_!!3995607385.jpg",
+        "price": "¥63.00",
+        "toPrice": "$9.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "556014483",
+          "name": "豫发K",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1728529",
+        "mallType": "T1688",
+        "itemId": "876246401730",
+        "title": "American fashion brand AKIMBO retro high street hooded sweatshirt men's and women's loose casual sweatpants set jacket shorts",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZP8BsP1qSlPNxIvH5_!!2218500885495-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218500885495",
+          "name": "广州琉佰欣贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2308406",
+        "mallType": "WD",
+        "itemId": "7539007339",
+        "title": "Embroidery pullover sports men's style youth solid color casual versatile",
+        "picUrl": "https://si.geilicdn.com/pcitem1922988361-3e340000019842b43ced0a231316_540_540.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1807790477",
+          "name": "Budget clothes",
+          "logo": "https://si.geilicdn.com/shopedit1922988361-0ed400000195fc78752e0a23041a-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2307836",
+        "mallType": "WD",
+        "itemId": "7468718212",
+        "title": "CJL-R*L zip-up sweatshirt zw",
+        "picUrl": "https://si.geilicdn.com/open333321600-1234478995-332800000196a3f314dd0a8115c2_1200_1200.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333321600",
+          "name": "Alpha  Luckin",
+          "logo": "https://si.geilicdn.com/wdseller333321600-608500000199331fab3b0a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2307682",
+        "mallType": "WD",
+        "itemId": "7527672045",
+        "title": "Trendy Sweatshirt Pants",
+        "picUrl": "https://si.geilicdn.com/open1819427907-1838589072-587f00000198bbaa3ff00a8115c2_800_800.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819427907",
+          "name": "有个店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2307562",
+        "mallType": "T1688",
+        "itemId": "946962716103",
+        "title": "Southern Oil High Version GU Home New Classic Autumn and Winter Series High Weight Heavy Hooded Full Print Hoodie and Pants Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Q0oDTY1D4FER9RG5i_!!2219815330162-0-cib.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXzlYVRV9BCbLxvJvLqF2Eg",
+          "name": "广州诗梵服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 152,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2259090",
+        "mallType": "WD",
+        "itemId": "7528493063",
+        "title": "HO88-RL High Quality Kit",
+        "picUrl": "https://si.geilicdn.com/open1742170557-1234478995-68ac00000198c2ac259f0aa043f9_1920_1920.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1742170557",
+          "name": "Quality products BUY",
+          "logo": "https://si.geilicdn.com/shopedit1963014259-75b90000019787ffa20c0a2395a3-unadjust_351_351.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1618486",
+        "mallType": "T1688",
+        "itemId": "812383042606",
+        "title": "2023 cross-border American high street hipster letters printed sweater set men and women hip-hop street loose hooded sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fVIOOy1D7uIjuThXX_!!2218236890170-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218236890170",
+          "name": "揭阳市揭东区锡场镇边韵服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144284682553870956",
+  "language": "en"
+}

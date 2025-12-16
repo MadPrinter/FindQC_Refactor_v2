@@ -1,0 +1,318 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1226359",
+        "mallType": "WD",
+        "itemId": "7437431856",
+        "title": "Stusey letter logo teddy bear pattern printed short sleeved T-shirt for both men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250430/ma3oukfg_ezic.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1870735213",
+          "name": "Pizza",
+          "logo": "https://si.geilicdn.com/wdseller1941292992-435e00000199297aef7f0a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1226338",
+        "mallType": "WD",
+        "itemId": "7425943788",
+        "title": "ST 100219 HMCP",
+        "picUrl": "https://cdn.findqc.com/item/20250425/m9w6pxxh_xxjb.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1653446037",
+          "name": "应龙",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1226336",
+        "mallType": "TB",
+        "itemId": "626842116525",
+        "title": "Gman High Street FOG ESSENTIALS double line chest three-dimensional letters round neck Loose Long sleeves teeshirt 6 colors",
+        "picUrl": "https://cdn.findqc.com/item/20250422/m9ri0yro_o5gc.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33564382",
+          "name": "Gman Club",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1226291",
+        "mallType": "T1688",
+        "itemId": "900097908155",
+        "title": "Cross border trendy brand BAPE Ape Head Camouflage Short Sleeve Foreign Trade Wholesale Men's and Women's Shark 270g Heavy T-shirt One Piece dropshipping",
+        "picUrl": "https://cdn.findqc.com/item/20250526/mb4r567r_g5uw.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1225285",
+        "mallType": "T1688",
+        "itemId": "692154495493",
+        "title": "24 Cross border Foreign Trade Wholesale Summer New European and American Trendy Brand LONE Short Sleeve Butterfly Big V Letter Printed Men's and Women's T-shirts",
+        "picUrl": "https://cdn.findqc.com/item/20250426/m9xtbuwp_4uvn.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1222382",
+        "mallType": "TB",
+        "itemId": "814967335048",
+        "title": "EE basic short sleeved unisex European and American style",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9pu853n_zkmc.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1222376",
+        "mallType": "T1688",
+        "itemId": "773699101597",
+        "title": "Kapok foam printed fashionable loose fitting men's and women's short sleeved T-shirt casual shorts set",
+        "picUrl": "https://cdn.findqc.com/item/20250520/mavajhau_5uhf.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216891680514",
+          "name": "一鹿（广州）服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221684",
+        "mallType": "T1688",
+        "itemId": "890648891625",
+        "title": "American fashion brand STU short sleeved t-shirt black collection printed short sleeved t-shirt casual couple unisex",
+        "picUrl": "https://cdn.findqc.com/item/20250531/mbbl3k2u_dr7y.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215442394186",
+          "name": "广州奇诺服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221649",
+        "mallType": "T1688",
+        "itemId": "867598590282",
+        "title": "Summer European and American sports quick drying short sleeved t-shirt men's summer loose fit fitness elastic round neck plus size casual top",
+        "picUrl": "https://cdn.findqc.com/item/20250427/m9ztmpui_wrne.jpg",
+        "price": "¥24.76",
+        "toPrice": "$3.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217320314045",
+          "name": "跨境一路发发工厂店",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 269,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221433",
+        "mallType": "T1688",
+        "itemId": "891637275126",
+        "title": "2025s Summer Comme des Garcons New Kawajiu Love Letter Printed Pullover Short Sleeve for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250625/mcc4cbif_udo4.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFLu4k8M5kSz6cCJN01npdA",
+          "name": "广州依新依意服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 92,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1220271",
+        "mallType": "TB",
+        "itemId": "884308503155",
+        "title": "Short sleeved men's trendy casual solid color small label embroidered cotton men's short sleeved t-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250424/m9unery0_j5al.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1214279",
+        "mallType": "WD",
+        "itemId": "7389258785",
+        "title": "White jersey C-51",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9piq1x7_jedq.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850874573",
+          "name": "Elephant-Brother",
+          "logo": "https://si.geilicdn.com/wdseller1274221412-646300000194d9d377ec0a230115_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1214272",
+        "mallType": "WD",
+        "itemId": "7392670710",
+        "title": "021385 Liangyuan made old short sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9p9k7me_ywzt.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1214274",
+        "mallType": "WD",
+        "itemId": "7250700202",
+        "title": "Ami Love 2024 Autumn Classic Big Zhangzi Short sleeved T-shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9pdzv13_m5ew.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1726894405",
+          "name": "Stella Pulse Store",
+          "logo": "https://si.geilicdn.com/wdseller1875244695-4d090000019a72ea02e70a239646_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1213314",
+        "mallType": "WD",
+        "itemId": "7417306494",
+        "title": "OFF WHITE T-SHIRT -P1",
+        "picUrl": "https://cdn.findqc.com/item/20250516/maptbdmg_v99r.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1612964397",
+          "name": "Hebe",
+          "logo": "https://si.geilicdn.com/weidian1932968054-5c8a0000019517362bf20a811411_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 108,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1207300",
+        "mallType": "T1688",
+        "itemId": "867949089666",
+        "title": "Paris High Version B Home T-shirt 25s Spring/Summer New Collection Heavy Cotton Printed Short Sleeve T Casual Versatile Unisex",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9ozsm6p_cbmq.jpg",
+        "price": "¥68.80",
+        "toPrice": "$10.82",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1207299",
+        "mallType": "T1688",
+        "itemId": "891900258761",
+        "title": "American Hell Hell Star Short-Sleeved T-Shirt Men's Ins High Street T-Shirt Couple's Bottoming Shirt Pure Cotton Breathable",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9oy8g66_e1vi.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQZt5h5MdXWsN5Bv0hvwe_Q",
+          "name": "深圳市宝安区学谦数码印花服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1207297",
+        "mallType": "WD",
+        "itemId": "7392276947",
+        "title": "GALLERY short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9oxfmb3_g7hp.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1155015821",
+          "name": "kmns order boy",
+          "logo": "https://si.geilicdn.com/wdseller1155015821-549000000195b0361e5c0a23038e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149139181917133847",
+  "language": "en"
+}

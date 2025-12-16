@@ -1,0 +1,143 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "180251",
+        "mallType": "WD",
+        "itemId": "7262644139",
+        "title": "082401  heima",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqges0_knsw.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 107,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180226",
+        "mallType": "WD",
+        "itemId": "7269195580",
+        "title": "Sports printed hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqg8mm_uvny.jpg",
+        "price": "¥318.00",
+        "toPrice": "$50.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1367236596",
+          "name": "Thunder02",
+          "logo": "https://si.geilicdn.com/shopedit1367236596-53c20000018dbcbe65270a22d246-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180209",
+        "mallType": "WD",
+        "itemId": "6748426201",
+        "title": "American trendy brand Kanye bat foam printed fleece hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqg6bu_3h2l.jpg",
+        "price": "¥181.67",
+        "toPrice": "$28.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180142",
+        "mallType": "TB",
+        "itemId": "831463353526",
+        "title": "Nike Official Outlets Women's Oversize Style Crew Neck Sweatshirt for the Year of Birth and New Year Fz6537",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqftqm_l0ti.jpg",
+        "price": "¥150.97",
+        "toPrice": "$23.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "432854941",
+          "name": "NIKE官方outlets店",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180066",
+        "mallType": "TB",
+        "itemId": "845985820751",
+        "title": "Facemask zip up hoodie gray mask jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqff2o_nvea.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "476776567",
+          "name": "十三行尾单清仓",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 77,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180057",
+        "mallType": "WD",
+        "itemId": "7059633843",
+        "title": "GA hoodie black big GA white French A382",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqfd0o_coyp.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180030",
+        "mallType": "WD",
+        "itemId": "7298276510",
+        "title": "Fashion Trend Casual Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqf74n_p8n9.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1633909750",
+          "name": "kkkkkone",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148430321930823057",
+  "language": "en"
+}

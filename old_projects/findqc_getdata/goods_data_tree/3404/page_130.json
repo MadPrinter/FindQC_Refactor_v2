@@ -1,0 +1,380 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1005305",
+        "mallType": "WD",
+        "itemId": "7272742752",
+        "title": "******",
+        "picUrl": "https://si.geilicdn.com/open1700008665-252808396-59e100000192042513060a239383_981_981.jpg",
+        "price": "¥222.00",
+        "toPrice": "$34.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1957561",
+        "mallType": "WD",
+        "itemId": "7313393821",
+        "title": "clothes 155",
+        "picUrl": "https://si.geilicdn.com/open908419528-1838589072-486c00000193864ccbf70a8133b5_800_800.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "908419528",
+          "name": "夜色的小货铺",
+          "logo": "https://si.geilicdn.com/vshop908419528-1458556494.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1957382",
+        "mallType": "T1688",
+        "itemId": "872608357811",
+        "title": "Grailz Project gr Heavyweight False Two Piece Patchwork Aged Destruction Dirty Dye Hoodie Sweatshirt Cardigan Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010Ox1W9230uK4KjD5C_!!2213007237194-0-cib.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213007237194",
+          "name": "三亚崖州区傲铁升百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1957356",
+        "mallType": "TB",
+        "itemId": "766316498113",
+        "title": "broken planet american gothic dark bat broken planet foam print hooded sweatshirt set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2217322426749/O1CN01KiYsCy1zj5yGW5blb_!!2217322426749.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "363721741",
+          "name": "周舟",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261648",
+        "mallType": "T1688",
+        "itemId": "890815338016",
+        "title": "FOG rewire ESSENTIALS FW22 chest flocked double row hooded sweatshirt American high street tide couple",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000006169/O1CN01dkv3G31vRSMgUHRCm_!!6000000006169-0-tbvideo.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "805693",
+        "mallType": "T1688",
+        "itemId": "856243524476",
+        "title": "CORTEIZ Alcatraz UKDripDrill wind Europe and the United States rap hip-hop gray padded zipper sweater pants tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YvUKUN26mwhP6I7P6_!!2218504567705-0-cib.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218504567705",
+          "name": "镇平县茂先商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2430522",
+        "mallType": "WD",
+        "itemId": "7543812297",
+        "title": "Pullover Loose Hooded Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1865483811-252808396-6ec000000199276a5c050a8115c2_1920_1920.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1865483811",
+          "name": "黑豹",
+          "logo": "https://si.geilicdn.com/pcdecorate901984967618-11d700000199101ed56c0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2430727",
+        "mallType": "WD",
+        "itemId": "7464588488",
+        "title": "Grams Double Yarn Cotton Men's and Women's Printed Long Sleeve T-Shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1943649200-274a00000196baef1d450a8133cc_1179_1526.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1627975405",
+          "name": "McDonald&#39;s",
+          "logo": "https://si.geilicdn.com/shopedit1943649200-5d5600000198439dcf7d0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2423952",
+        "mallType": "T1688",
+        "itemId": "972321894708",
+        "title": "Cross-border fall and winter FOG loose casual letters printed men and women ensemble high street hooded sweater basic trend sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RzrfXr2A5DQ6RHYr5_!!2218164908151-0-cib.jpg",
+        "price": "¥87.00",
+        "toPrice": "$13.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218164908151",
+          "name": "佛山市雅婷服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2483296",
+        "mallType": "WD",
+        "itemId": "7493866444",
+        "title": "B hoodie",
+        "picUrl": "https://si.geilicdn.com/open1739333861-1234478995-39e80000019779bca1990a23b4de_1179_1142.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1739333861",
+          "name": "Taste Life",
+          "logo": "https://si.geilicdn.com/wdseller1889207262-30cb000001927621a49a0a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2436742",
+        "mallType": "WD",
+        "itemId": "7550740766",
+        "title": "HM17--CP Down Sweatshirt-Collection",
+        "picUrl": "https://si.geilicdn.com/open1800251485-252808396-398400000196e688a3120a23b491_1920_1920.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1861809981",
+          "name": "Studio de mode parisien 1:1Top",
+          "logo": "https://si.geilicdn.com/shopedit1961150822-4a180000019778939aab0a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2307291",
+        "mallType": "WD",
+        "itemId": "7540924242",
+        "title": "Pullover Sweatshirt Hooded Casual",
+        "picUrl": "https://si.geilicdn.com/pcitem1922988361-4f730000019842d31e960a21146b_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1807790477",
+          "name": "Budget clothes",
+          "logo": "https://si.geilicdn.com/shopedit1922988361-0ed400000195fc78752e0a23041a-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2306230",
+        "mallType": "TB",
+        "itemId": "846604529375",
+        "title": "Suit cross-border sports men and women spring and autumn air layer cotton knitted hooded zipper shirt sports leisure jacket sweat pants",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2214901693661/O1CN011BtCwa1cumzyBCR7K_!!2214901693661.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "559719317",
+          "name": "钱途辉黄",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2306218",
+        "mallType": "WD",
+        "itemId": "7521823943",
+        "title": "LL77-Autumn and winter casual fashion sweater whatsapp+13256727890",
+        "picUrl": "https://si.geilicdn.com/open1669672189-1234478995-04d800000198321797db0a231226_1000_1000.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1669672189",
+          "name": "Top Fashion Stores",
+          "logo": "https://si.geilicdn.com/shopedit1968041856-356e000001983284f9cf0a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2306212",
+        "mallType": "WD",
+        "itemId": "7522900465",
+        "title": "Vintage Gothic Rock Monogrammed Sweatshirt Hoodie",
+        "picUrl": "https://si.geilicdn.com/open1722852227-1234478995-5b4b0000019897bc7d8e0a23b4de_1066_1066.jpg",
+        "price": "¥157.00",
+        "toPrice": "$24.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1722852227",
+          "name": "SpriteReps",
+          "logo": "https://si.geilicdn.com/shopedit1975175781-7bf600000198aea6eeef0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2424793",
+        "mallType": "WD",
+        "itemId": "7540172221",
+        "title": "PG16-Zipper Casual Jacket (Non-quality problems do not support no reason to return) +86 19959480034",
+        "picUrl": "https://si.geilicdn.com/pcitem1945850569-77b7000001990e340a3f0a23057e_1200_1200.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1808294941",
+          "name": "Noble Factory （1:1 Quality）",
+          "logo": "https://si.geilicdn.com/wdseller1945850569-60f90000019ab0cdd2550a2301b4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2111463",
+        "mallType": "T1688",
+        "itemId": "736919433348",
+        "title": "Cross-border hot pick Europe and the United States ESSENTIALS tide brand padded sweater men's FOG sweater jacket explosion hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oTM07x1MsT0lVeNcz_!!3540451490-0-cib.jpg",
+        "price": "¥67.00",
+        "toPrice": "$10.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3540451490",
+          "name": "深圳市宝安区松岗周末潮品服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 96,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2109800",
+        "mallType": "WD",
+        "itemId": "7285752858",
+        "title": "Minimally stylish and comfortable hooded sweatshirt L-001",
+        "picUrl": "https://si.geilicdn.com/pcitem901897921344-380100000192bc9e82580a8134f0_1200_1200.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1697135169",
+          "name": "Welfare Shop",
+          "logo": "https://si.geilicdn.com/wdseller901897616982-0c1f00000192708836bb0a23111a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2098282",
+        "mallType": "WD",
+        "itemId": "7428719445",
+        "title": "2025ss B055 suit",
+        "picUrl": "https://si.geilicdn.com/pcitem1885302871-309b000001988e173f130a2304aa_1200_1200.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1613983141",
+          "name": "Stone（The only store）",
+          "logo": "https://si.geilicdn.com/wdseller1885302871-183f000001959ec097630a2301b4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1598327",
+        "mallType": "WD",
+        "itemId": "7248452400",
+        "title": "N-K Joint NC Sportswear",
+        "picUrl": "https://si.geilicdn.com/pcitem1872449391-21d100000192bbe023840a81347d_1200_1200.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1857621381",
+          "name": "big boy",
+          "logo": "https://si.geilicdn.com/shopedit1872449391-4df000000193d3461f7b0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143082162553879201",
+  "language": "en"
+}

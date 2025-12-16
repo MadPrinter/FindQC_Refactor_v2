@@ -1,0 +1,376 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1965271",
+        "mallType": "WD",
+        "itemId": "7503481841",
+        "title": "Fashionable and trendy loose and versatile short sleeves 001",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdwjipx0_8sgi.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "908363001",
+          "name": "TOPBUY1",
+          "logo": "https://si.geilicdn.com/weidian908363001-5be1000001988a100cc10a2315ef_1156_1156.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1963556",
+        "mallType": "TB",
+        "itemId": "901823418919",
+        "title": "F1 Mercedes Benz 2025 Mercedes Benz Racing T-shirt Team Collar Black Short Sleeve Polo",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdwf1yvv_c0mu.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68960092",
+          "name": "XY新英体育",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1855332",
+        "mallType": "T1688",
+        "itemId": "730199220181",
+        "title": "Paris High Quality B Home 15 Color Cola Wave Printed Short Sleeve High Version Unisex B Trendy Brand T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250731/mdr5tekw_l17n.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216143627439",
+          "name": "佛山市禅城区捷奕出品服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1963029",
+        "mallType": "T1688",
+        "itemId": "895026265905",
+        "title": "American style high street cross-border AMIRI summer letter splashed cashew flower round neck short sleeved loose fitting couple T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdw6v81e_nrxa.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217902461155",
+          "name": "广州叁百服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 317,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1962834",
+        "mallType": "TB",
+        "itemId": "672427413908",
+        "title": "European and American anime 'The Boonlocks' rural T-shirt loose vintage high street men and women heavyweight cotton short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdw4deun_1ha4.jpg",
+        "price": "¥36.75",
+        "toPrice": "$5.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "190576232",
+          "name": "Call me宝藏店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1962669",
+        "mallType": "T1688",
+        "itemId": "839152787815",
+        "title": "New European and American street fashion brand TAPOUT printed T-shirt fake two-piece top casual hip-hop long sleeved T-shirt wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdw2d3c4_lf4g.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214282480142",
+          "name": "深圳市宝安区英伦酷童针织制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1962771",
+        "mallType": "TB",
+        "itemId": "802289223776",
+        "title": "Subway Hooligan RU283 Retro American Moonlight Hill Printed Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdw3no3q_8pd9.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "362886185",
+          "name": "Subway hooligan",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1962463",
+        "mallType": "WD",
+        "itemId": "7461750427",
+        "title": "He11star T Shirt - Three",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdvzyy2b_d9w6.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274399453",
+          "name": "CNMADE",
+          "logo": "https://si.geilicdn.com/pcdecorate1274399453-60fc00000193491051590a23037f-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1962364",
+        "mallType": "TB",
+        "itemId": "919221315519",
+        "title": "2526 on the new Real Madrid Barcelona Asenna Pamela Skar Cai Siye Cameroon Brazil Special Edition jersey",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdvydf4h_980k.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "212061028",
+          "name": "莉莉爱运动",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1958180",
+        "mallType": "TB",
+        "itemId": "919562942542",
+        "title": "【 In Stock 】 ERD Melancholy Rich Second Generation 25ss Masked Girls' Short Sleeves with Raglan Sleeves for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdvvjfoz_y5fx.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "353291780",
+          "name": "SET SAIL线上",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1957750",
+        "mallType": "TB",
+        "itemId": "881165147820",
+        "title": "2526 season Brazilian jersey home short sleeved football jersey team kit football jersey",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdvq0gne_fw50.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "455119179",
+          "name": "嘉年华泰版球衫店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1957768",
+        "mallType": "T1688",
+        "itemId": "894828271708",
+        "title": "Cross border Street Supreme American Trendy Brand BOX Short Sleeve Milan Cross Classic Letter T-shirt Loose Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdvpzbvv_92ic.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218949997026",
+          "name": "上饶市森万服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1957604",
+        "mallType": "TB",
+        "itemId": "783498207172",
+        "title": "Children of the Rich Depressed by the Second Generation of Wealth Erd Portrait Long-Sleeved Tee",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdvo4b4z_62jq.jpg",
+        "price": "¥132.56",
+        "toPrice": "$20.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "537195986",
+          "name": "massism",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1957448",
+        "mallType": "TB",
+        "itemId": "693817761241",
+        "title": "AMOROUS HOMELESS 260g heavyweight pure cotton! Retro loose versatile trendy street short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdvlz4ng_d8e9.jpg",
+        "price": "¥49.80",
+        "toPrice": "$7.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "150282459",
+          "name": "造物GOODGOD",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1951259",
+        "mallType": "T1688",
+        "itemId": "874557062330",
+        "title": "GALLERY DEPT Foreign Trade Trendy Brand Cross border New Short sleeved T-shirt Men's Letter Printed Loose Leisure Pure Cotton",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdvj5xul_wd6z.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219114582112",
+          "name": "深圳市龙华新区尚潮服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1951051",
+        "mallType": "TB",
+        "itemId": "937657972845",
+        "title": "Small round neck heavyweight washed short sleeved shirt 235",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdvbm6t7_8ftx.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "522551464",
+          "name": "Singor5",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1950920",
+        "mallType": "TB",
+        "itemId": "704667078236",
+        "title": "ESSENTIALS short sleeved front velvet letter print men's summer trendy brand coral red fog double line",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdv44yqp_vqfq.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60023852",
+          "name": "富贵潮哥哥",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1950325",
+        "mallType": "WD",
+        "itemId": "7487739691",
+        "title": "Stu237p",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mduswcbq_m6qv.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794769037",
+          "name": "Stylark",
+          "logo": "https://si.geilicdn.com/shopedit1921722622-385800000195b800951f0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1948009",
+        "mallType": "TB",
+        "itemId": "890842966887",
+        "title": "YOUNG LA Men's Extra Large T-shirt Cotton Round Neck Loose Short Sleeve Gym Fitness T-shirt 300g Fabric",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mduokj81_3eol.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "274561799",
+          "name": "Muscle Star健身装备企业店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1948140",
+        "mallType": "WD",
+        "itemId": "7452675117",
+        "title": "LA Large Print Short Sleeve T-shirt 2565 E",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mduqj53h_h6ro.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1748273649",
+          "name": "repprince",
+          "logo": "https://si.geilicdn.com/wdseller1783010891-28a400000196420d8d950a81347d_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147470781917133212",
+  "language": "en"
+}

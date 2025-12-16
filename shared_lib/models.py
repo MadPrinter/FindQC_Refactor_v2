@@ -138,10 +138,6 @@ class ProductTag(Base):
     season: Mapped[Optional[str]] = mapped_column(Text, nullable=True, comment="季节：春夏/秋冬/四季等")
     environment: Mapped[Optional[str]] = mapped_column(Text, nullable=True, comment="适用环境：室内/户外/运动等")
     
-    # 预留字段，方便后续AI扩展
-    keywords: Mapped[Optional[str]] = mapped_column(Text, nullable=True, comment="其他关键词/Tags，逗号分隔")
-    ai_confidence: Mapped[Optional[float]] = mapped_column(Float, nullable=True, comment="AI打标置信度 0-1")
-    
     # 时间戳
     updated_at: Mapped[Optional[datetime]] = mapped_column(DATETIME, nullable=True, comment="最后更新时间")
     

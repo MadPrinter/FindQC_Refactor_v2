@@ -1,0 +1,631 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2697532",
+        "mallType": "T1688",
+        "itemId": "923053940924",
+        "title": "Factory Direct Sale Classic 10 Velvet 101801 Double-Breasted Cashmere Coat for Women, Mid-Length Silhouette, High-End Lined Outerwear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GL2P1m1kqE1wWiNXs_!!2218580194734-0-cib.jpg",
+        "price": "¥890.00",
+        "toPrice": "$139.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1rHfLOMfBqm4J_cI5nQnlg",
+          "name": "辛集市润磊制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3049555",
+        "mallType": "T1688",
+        "itemId": "873062486465",
+        "title": "ZAR秋季新款女装欧美风法式设计感混纺配围巾大衣外套 2095141",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01H0JXxV1mbEGVgnlSM_!!2217948634972-0-cib.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217948634972",
+          "name": "苏州雅尔泰服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3050642",
+        "mallType": "T1688",
+        "itemId": "831652694982",
+        "title": "Stunningly Invincible 2025 Autum New Double-Sided Velvet Outwear Mid-Length Stand-Up Collar Woolen Double-Breasted Outwear for Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Nl46la1qXnkYEsqIz_!!2458895506-0-cib.jpg",
+        "price": "¥349.00",
+        "toPrice": "$54.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgCMYu-BCUnn3Z23l4S7ldA",
+          "name": "海宁宁派服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1,
+        "picWidth": "800",
+        "picHeight": "1067"
+      },
+      {
+        "id": "2735633",
+        "mallType": "T1688",
+        "itemId": "975185650789",
+        "title": "口碑线！走岛国单！空气层质感运动连帽卫衣潮牌落肩宽松上衣外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ILOLBZ1iTfK9jfG7h_!!2220499234414-0-cib.jpg",
+        "price": "¥78.91",
+        "toPrice": "$12.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfipUm20GJpi7oOqtAy3M4Q",
+          "name": "义乌市时心服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2761245",
+        "mallType": "T1688",
+        "itemId": "832721470219",
+        "title": "Cross-border POLENS pea bag new niche design armpit bag paris lychee cowhide shoulder slanting cross fashion",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ImfV151pbB1xkKsE7_!!2218531905378-0-cib.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218531905378",
+          "name": "广州新佰伦皮具厂(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3130936",
+        "mallType": "T1688",
+        "itemId": "908910414344",
+        "title": "2025新款跨境外贸欧美女装亚马逊大翻领毛呢时尚短款腰带大衣外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fTTCj71ZeLyzz0wLN_!!2218932563219-0-cib.jpg",
+        "price": "¥61.00",
+        "toPrice": "$9.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218932563219",
+          "name": "广州衣佰服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "22462",
+        "mallType": "TB",
+        "itemId": "703686999037",
+        "title": "New Birkenstock-Style Shoes with Cork Flat Soles, Genuine Leather Upper, Thick Soles for Height Increase, Unisex Closed-Toe Slippers, Birkenstock-Style Comfortable Casual Trendy Shoes",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ngop3q_d92r.jpg",
+        "price": "¥185.48",
+        "toPrice": "$29.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "418189235",
+          "name": "勃肯鞋之家",
+          "type": "TB"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 492,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3004684",
+        "mallType": "TB",
+        "itemId": "988861532827",
+        "title": "Make Friends with This Blended Short Lapel Jacket for Men and Women, Autumn and Winter American Retro Cleanfit Slim-Fit Regular Shoulder Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3559469549/O1CN012NGeAN2KPV84rM7fM_!!4611686018427384301-0-item_pic.jpg",
+        "price": "¥143.16",
+        "toPrice": "$22.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "412070929",
+          "name": "柳步旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2630838",
+        "mallType": "TB",
+        "itemId": "892310827533",
+        "title": "Spring New Women's Clothing French Niche Lapel Long-Sleeved Wool Blend Elegant Coat 2096756",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/345828840/O1CN01LLNxC22FAmG305EPz_!!345828840.png",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60404122",
+          "name": "SHH STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2630807",
+        "mallType": "TB",
+        "itemId": "896725984226",
+        "title": "Autumn New Product: Women's Bat Sleeves, Flip Collar, Suede Texture Effect, Pilot Jacket, Coat 4344155",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mgh4giq7_kipi.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60404122",
+          "name": "SHH STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603657",
+        "mallType": "T1688",
+        "itemId": "838971519601",
+        "title": "Cross-border Europe and the United States women's wear speedy sell-through explosion retro brown zipper long-sleeved short jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NSpudq1OjQaHHLe7K_!!2217134111741-0-cib.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217134111741",
+          "name": "常熟市希瓦娜贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2606723",
+        "mallType": "TB",
+        "itemId": "974525665160",
+        "title": "2025 Autumn New Women's Lapel Long Sleeve Wool Blend Coat with Belt and Shoulder Pads 8493754",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/474977443/O1CN013CLj4Z24qx0Sho5nA_!!474977443.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62486425",
+          "name": "ZASHOP女装正品折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2347474",
+        "mallType": "WD",
+        "itemId": "7422891132",
+        "title": "R91765-H76",
+        "picUrl": "https://si.geilicdn.com/pcitem901768577241-518700000195882bf1410a2395a3_828_828.jpg",
+        "price": "¥328.00",
+        "toPrice": "$51.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1696259265",
+          "name": "ROCKET3",
+          "logo": "https://si.geilicdn.com/wdseller901765162150-069a000001948c2b506b0a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2965511",
+        "mallType": "TB",
+        "itemId": "832395954152",
+        "title": "Unique and super beautiful deep winter black cow horn button woolen coat for women, 2025 new woolen coat, thickened short version",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2207427433494/O1CN01DOI7GT1bgIqHpe4IB_!!2207427433494.jpg",
+        "price": "¥173.53",
+        "toPrice": "$27.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "213702309",
+          "name": "SMM STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2856639",
+        "mallType": "T1688",
+        "itemId": "985926624644",
+        "title": "亚马逊欧美跨境2025秋冬爆款女式毛呢外套纯色翻领双排扣呢子大衣",
+        "picUrl": "https://cdn.findqc.com/item/20251105/mhlcbgka_zgff.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJ_7S0LPiXcBvVADrwM2Fbg",
+          "name": "东莞市素桐服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2076399",
+        "mallType": "T1688",
+        "itemId": "907112551724",
+        "title": "Spot new cross-border foreign trade European and American women's clothing autumn and winter big collar woolen short style thick long sleeved coat women's coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UCtiXu2HE6NEoY94Q_!!1117559118-0-cib.jpg",
+        "price": "¥51.00",
+        "toPrice": "$8.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKVNXJph02LEacFNj5R3YDQ",
+          "name": "上海逸歌实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2618567",
+        "mallType": "T1688",
+        "itemId": "778803895482",
+        "title": "慵懒感小香风过膝中长款针织开衫女宽松甜美软糯温柔纯色毛衣外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VRjE8v1nAx4fz49Uz_!!2217487355050-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217487355050",
+          "name": "桐乡市濮院鸿恩服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2397265",
+        "mallType": "T1688",
+        "itemId": "731341954447",
+        "title": "Korean tweed jacket female 2024 fall and winter new small long section of French wool tweed coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wD4btT1kQ7GJt2n9W_!!2208149694677-0-cib.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208149694677",
+          "name": "广州歌索服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1314780",
+        "mallType": "TB",
+        "itemId": "886154093448",
+        "title": "WCH spring and summer new electroplated silver letters fashion street trend versatile belt belt men and women with models",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3355144400/O1CN017jDtml1iNFinTE9ON_!!3355144400.jpg",
+        "price": "¥38.80",
+        "toPrice": "$6.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "504681194",
+          "name": "WEN CIHAM",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2653373",
+        "mallType": "T1688",
+        "itemId": "899869709089",
+        "title": "European and American Cross-border 2025 Spring and Summer Women's Women's Jacket Elegant Elegant with Vertical Collar and Breasted Short Loose Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Pko8zE1CyI3UM9idO_!!2214916390149-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBuos5RwECOMzuZSTcDo-9nQ",
+          "name": "广州市双丛鹰服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140591841911156218",
+  "language": "en"
+}

@@ -1,0 +1,380 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "488318",
+        "mallType": "TB",
+        "itemId": "774820403805",
+        "title": "Knitted Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250821/meklohg6_znww.jpg",
+        "price": "¥40.54",
+        "toPrice": "$6.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "179530508",
+          "name": "GIGI88",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2168959",
+        "mallType": "TB",
+        "itemId": "921841167331",
+        "title": "Stu Branch Pattern Baseball Cap with Print, Niche American Street Style, Versatile for Spring and Summer, Unisex",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mekjgvfr_he1b.jpg",
+        "price": "¥192.32",
+        "toPrice": "$30.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "179000078",
+          "name": "ND SHOP",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 79,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2168528",
+        "mallType": "T1688",
+        "itemId": "880354602252",
+        "title": "2024 New Foreign Trade Wholesale SOX Fully Sealed Baseball Hat Hip Hop Hat Fully Closed Male and Female Couple Flat Edge Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mekh0dj9_0934.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219193932785",
+          "name": "福州市鼓楼区富思邦百货商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2078367",
+        "mallType": "WD",
+        "itemId": "7525195296",
+        "title": "3M Reflective NOTCA Face Mask Cover with Bag",
+        "picUrl": "https://cdn.findqc.com/item/20250818/megjq5e3_g5gx.jpg",
+        "price": "¥37.00",
+        "toPrice": "$5.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1234071531",
+          "name": "VSocks",
+          "logo": "https://si.geilicdn.com/bj-wd-1234071531-1530980275279-767585428_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2159019",
+        "mallType": "WD",
+        "itemId": "7308197717",
+        "title": "Security of clearance sales hats - No returns or exchanges",
+        "picUrl": "https://cdn.findqc.com/item/20250820/mejz3w8v_htbr.jpg",
+        "price": "¥19.90",
+        "toPrice": "$3.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2154395",
+        "mallType": "T1688",
+        "itemId": "778888838279",
+        "title": "Long term in stock cross-border correct version embroidered hat VINTAGE CAPS HATS",
+        "picUrl": "https://cdn.findqc.com/item/20250820/mejk68jt_zpwg.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211742161365",
+          "name": "长汀县乐潮服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2153114",
+        "mallType": "T1688",
+        "itemId": "731777687300",
+        "title": "217 # Foreign Trade Brand Hat Men's and Women's Winter Versatile Knitted Hat Fashion Outdoor Warm Knitted Hat Baotou Cold Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250820/mejd66tp_m4ei.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216146861354",
+          "name": "深圳市宝安区艾美薇贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2151661",
+        "mallType": "WD",
+        "itemId": "7433159133",
+        "title": "Clearance of final goods, contact customer service GREY 0531",
+        "picUrl": "https://cdn.findqc.com/item/20250820/mej2iwwf_w4bz.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615217637",
+          "name": "O",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "638395",
+        "mallType": "WD",
+        "itemId": "7316329068",
+        "title": "Hat (W2C-0064)",
+        "picUrl": "https://cdn.findqc.com/item/20250819/mehususc_b988.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646458249",
+          "name": "Maly store",
+          "logo": "https://si.geilicdn.com/shopedit1813344124-67e0000001954b56464c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2138908",
+        "mallType": "T1688",
+        "itemId": "779633539045",
+        "title": "Summer G Home Synchronized New Old Flower Letter Large Edge Fisherman Hat European and American Big Brand Fan Men's and Women's Pot Hat Internet Celebrity Same Style",
+        "picUrl": "https://cdn.findqc.com/item/20250819/mehkihqx_yald.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216685779504",
+          "name": "义乌市熙琰制帽厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2137170",
+        "mallType": "T1688",
+        "itemId": "936060999653",
+        "title": "Alo top hat for sun protection, men's and women's outdoor sports, tennis, comfortable and lightweight, with mesh sweatband inside",
+        "picUrl": "https://cdn.findqc.com/item/20250819/mehgfxjz_8q9g.jpg",
+        "price": "¥13.30",
+        "toPrice": "$2.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217535180375",
+          "name": "义乌市黎郅电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "968895",
+        "mallType": "WD",
+        "itemId": "7261616299",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20250819/mehg2wmt_gblm.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "355437",
+        "mallType": "TB",
+        "itemId": "765269215876",
+        "title": "Hat fully enclosed, non adjustable, hip-hop, street dance, embroidery, foreign trade baseball cap, reverse wearing size cap, casual curved brim hat",
+        "picUrl": "https://cdn.findqc.com/item/20241222/m4ytgmgg_1gag.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "293529718",
+          "name": "外贸出口帽子批发Hat factor",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2135819",
+        "mallType": "T1688",
+        "itemId": "923408767157",
+        "title": "Spot Outdoor Fisherman's Hat Trendy Brand Hip Hop Cowboy Hat Mountaineering Fishing Sunshade Hat Jungle Sunscreen Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250818/meh75uzx_x7cr.jpg",
+        "price": "¥15.68",
+        "toPrice": "$2.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217018585733",
+          "name": "义乌市义翎电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2135712",
+        "mallType": "T1688",
+        "itemId": "835474124149",
+        "title": "Men's Outdoor Mountaineering Quick drying Waterproof Duck Tongue Hat Patagonia Travel Sunscreen Fishing Couple Adjustable Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250818/meh6fvev_s50a.jpg",
+        "price": "¥13.50",
+        "toPrice": "$2.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218615889903",
+          "name": "义乌市乾町电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1187542",
+        "mallType": "WD",
+        "itemId": "7433253153",
+        "title": "Tail clearance, contact customer service FIVE BADAG",
+        "picUrl": "https://cdn.findqc.com/item/20250818/meh6v50o_a8k4.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615217637",
+          "name": "O",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1935402",
+        "mallType": "WD",
+        "itemId": "7513028215",
+        "title": "💥 Factory direct sales-Trendy and comfortable baseball cap 01",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me9m8fcv_bkbi.jpg",
+        "price": "¥38.25",
+        "toPrice": "$6.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830485821",
+          "name": "Fashion Boy",
+          "logo": "https://si.geilicdn.com/shopedit1961211538-0eaf00000198c17f7b0b0a231316-unadjust_460_460.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1346315",
+        "mallType": "T1688",
+        "itemId": "891449578509",
+        "title": "Brand Adjusting Cap M L B Bend Along Baseball Cap Sunscreen Sun Hat Embroidered Hat Multi-color Optional",
+        "picUrl": "https://cdn.findqc.com/item/20250818/meg9nbue_9bfl.jpg",
+        "price": "¥16.80",
+        "toPrice": "$2.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGM-kx_01-FIePr2IOCCogA",
+          "name": "昌江区成书百货店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 66,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2130165",
+        "mallType": "T1688",
+        "itemId": "833755372875",
+        "title": "Cross border foreign trade autumn and winter checkered rolled edge woolen hat women's internet famous solid color cold hat warm leather label knitted hat",
+        "picUrl": "https://cdn.findqc.com/item/20250818/meg5flj9_jgjx.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215527350170",
+          "name": "广州广潮帽业商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 126,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2127732",
+        "mallType": "WD",
+        "itemId": "7268914623",
+        "title": "R46096-H28",
+        "picUrl": "https://cdn.findqc.com/item/20250817/meftltff_f9tt.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758289665",
+          "name": "ROCKET1",
+          "logo": "https://si.geilicdn.com/weidian901842075230-78c1000001913c5a71590a20e7c7_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114917019194364937",
+  "language": "en"
+}

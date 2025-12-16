@@ -1,0 +1,389 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2630950",
+        "mallType": "TB",
+        "itemId": "949458274353",
+        "title": "Golf Club Tlm New Spider Men's and Women's Red Spider Spider Putter Four-Color Free Club Cover",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2201225179599/O1CN012LNSXC2KmOuIqprq4_!!2201225179599.jpg",
+        "price": "¥368.00",
+        "toPrice": "$57.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "223893012",
+          "name": "友为高尔夫体育用品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2373700",
+        "mallType": "T1688",
+        "itemId": "743710827722",
+        "title": "Watch Accessories Silver Black Crown Handle Modified SKx007NH35 Time Adjustment Steel Head Pineapple Handle",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012OLYAm1KogWSldhLB_!!2200716251211-0-cib.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBCsm2ZHXHI8w65KK2IijB3w",
+          "name": "广州市越秀区隆铂钟表配件商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902355",
+        "mallType": "TB",
+        "itemId": "899849709319",
+        "title": "Suitable for Chunfeng 675Sr-R Engine Guard, Body Anti-Fall Ball, Horn Handguard, Modified Protective Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk5bje5_lok4.jpg",
+        "price": "¥60.09",
+        "toPrice": "$9.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "586465569",
+          "name": "Yolense机车改装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2745282",
+        "mallType": "TB",
+        "itemId": "955072564928",
+        "title": "Suitable for Honda CBR650R CB650R frame side cover decorative cover stainless steel sticker R-type patch",
+        "picUrl": "https://cdn.findqc.com/item/20251023/mh32eb6t_ckzz.jpg",
+        "price": "¥20.69",
+        "toPrice": "$3.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "465347872",
+          "name": "维米迪贸易精品改装店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "62511",
+        "mallType": "TB",
+        "itemId": "706490098541",
+        "title": "For Springbok 450SR Modified Tank Mesh Radiator Protection Mesh Cover with Large Seat New Higher Windshield",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mj2i73_9j5h.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34791",
+        "mallType": "TB",
+        "itemId": "670820511457",
+        "title": "New Watch Accessories, Colorful Watch Hands, Black Oil Without Luminous, Suitable for Installing Nh35/36/4R/7S Movements",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkgf0a_0rdq.jpg",
+        "price": "¥7.22",
+        "toPrice": "$1.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113880341",
+          "name": "外贸加工厂",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32697",
+        "mallType": "T1688",
+        "itemId": "733271043157",
+        "title": "Ro Style 23ss New Niche Design Classic Lock Buckle Bracelet 925 Silver Men and Women Couples Splicing Bracelet",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njule9_kdbw.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLPJ0JQ2pxL4tNSz4nMT2eg",
+          "name": "新枭(台州市)电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147572101916154282",
+  "language": "en"
+}

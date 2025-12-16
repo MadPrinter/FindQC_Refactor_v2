@@ -1,0 +1,631 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3036348",
+        "mallType": "TB",
+        "itemId": "904895568484",
+        "title": "Pmo Wave75 Rain75 Aluminum Wireless Bluetooth Tri-Mode Customizable Rgb Hot-Swappable Quick-Release Mechanical Keyboard",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2249946504/O1CN01OF5b491xut3ZiKdwD_!!2249946504.jpg",
+        "price": "¥475.41",
+        "toPrice": "$74.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113702512",
+          "name": "in外设皂品",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2708065",
+        "mallType": "WD",
+        "itemId": "7478430984",
+        "title": "be0013577&R03",
+        "picUrl": "https://si.geilicdn.com/pcitem901947578693-1a22000001970ba8e0aa0a2303ee_508_574.jpg",
+        "price": "¥279.00",
+        "toPrice": "$43.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1686806285",
+          "name": "Colareps-4",
+          "logo": "https://si.geilicdn.com/shopedit1921722671-2a9b00000196cf9ebbf10a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3032416",
+        "mallType": "T1688",
+        "itemId": "863884758900",
+        "title": "AULA Wolf Spider WIN60/68HE Magnetic Axis Mechanical Keyboard Customized FPS Fearless Contract R for Esports Games\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lhHYTf1QC6zb7jA7d_!!2216697701939-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBu4wX503jK1QEZq7ukzwSJg",
+          "name": "广州亿隆数码科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2426652",
+        "mallType": "TB",
+        "itemId": "679025370031",
+        "title": "Keycap Hall Prism Light Pbt Side Engraved Translucent Oem Height 64 68 84 87 104 8.0 Mechanical Keyboard",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2459583338/O1CN01LJ6EiU1aWqyUApv6e_!!0-item_pic.jpg",
+        "price": "¥249.00",
+        "toPrice": "$39.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117148064",
+          "name": "键帽馆",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2580450",
+        "mallType": "TB",
+        "itemId": "726682430314",
+        "title": "Razer/Razer hunting soul light Spider MINI 61 key RGB optical axis FPS professional gaming mechanical keyboard CSGO",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/68069607/O1CN012NttkQ2Kq3tImMrWV_!!68069607.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63458636",
+          "name": "RZ外设一号店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2131647",
+        "mallType": "T1688",
+        "itemId": "799021964108",
+        "title": "Wolf Trail LT75 High-value Tri-mode Gaming Mechanical Keyboard Customized Hot-swappable Bluetooth Wireless Keyboard",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013tt9o91DDP8ymPaY3_!!3931690182-0-cib.jpg",
+        "price": "¥245.00",
+        "toPrice": "$38.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3931690182",
+          "name": "深圳市跬步电子有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1236402",
+        "mallType": "WD",
+        "itemId": "7328073534",
+        "title": "YLK-💥$2.80💥 with box quality wallet! @ AGTFIND Exclusive Offers + enter the store to see more!",
+        "picUrl": "https://si.geilicdn.com/pcitem1907900548-01c6000001951807175f0a20e284-unadjust_545_547.png",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1644229429",
+          "name": "SHOP",
+          "logo": "https://si.geilicdn.com/pcdecorate1907900548-2019000001951892838f0a239846-unadjust_563_563.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 51,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604779",
+        "mallType": "T1688",
+        "itemId": "763741581705",
+        "title": "Bluetooth the third mock examination mechanical keyboard 61 key RGB light-emitting tea axis E-sports wireless game keyboard factory sales",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FfV8fh296IkUYG4PH_!!2893928018-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBm6uHqIoY-BtWHIkvNXAwCw",
+          "name": "东莞市般若电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2907193",
+        "mallType": "TB",
+        "itemId": "750097788701",
+        "title": "Daryouek75 mechanical keyboard side carved the third mock examination wireless game customized full key hot plug gateway structure",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhki7msy_ixyf.jpg",
+        "price": "¥246.48",
+        "toPrice": "$38.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "272782155",
+          "name": "达尔优新致纵远专卖店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2906674",
+        "mallType": "TB",
+        "itemId": "882985949026",
+        "title": "Vika WK87 the third mock examination mechanical keyboard gateway structure customized wired wireless bluetooth office video game",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkexfrw_h2f8.jpg",
+        "price": "¥170.47",
+        "toPrice": "$26.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "438972807",
+          "name": "维咖旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895890",
+        "mallType": "TB",
+        "itemId": "808620228293",
+        "title": "VTERK75 Youth Edition Knob Smart Screen Wireless Bluetooth the third mock examination Girls Game RGB Customized Mechanical Keyboard",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjv8vyv_9754.jpg",
+        "price": "¥206.54",
+        "toPrice": "$32.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "483665047",
+          "name": "FEKER外设",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2123299",
+        "mallType": "T1688",
+        "itemId": "964385442998",
+        "title": "YC-M1002 Wireless Bluetooth Keyboard iOS/Android/Windows Compatible Silent One Piece Shipping Cross Border",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013FemyE1S0K52gEwer_!!2220067062184-0-cib.jpg",
+        "price": "¥22.56",
+        "toPrice": "$3.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220483865955",
+          "name": "武汉津海莲科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2029534",
+        "mallType": "TB",
+        "itemId": "908339228751",
+        "title": "wooting60 side engraved keycaps PBT original translucent five-sided heat sublimation little girl Sakura keycaps atk68",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/819022526/O1CN01bjI0WR1UWxVcqnyLW_!!819022526.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101790737",
+          "name": "双符外设键鼠",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1948183",
+        "mallType": "WD",
+        "itemId": "7491670411",
+        "title": "Side-engraved translucent keycaps with micro-brushed surface gradient mechanical keyboards",
+        "picUrl": "https://si.geilicdn.com/open1667032845-252808396-377f000001977797a1090a231226_800_800.jpg",
+        "price": "¥39.10",
+        "toPrice": "$6.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667032845",
+          "name": "超级牛",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424514-4cfb00000195e79975270a81347d-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2764305",
+        "mallType": "TB",
+        "itemId": "905511801739",
+        "title": "WOB rainy75 mechanical keyboard aluminum alloy wireless Bluetooth customized computer e-sports game Office rain 75",
+        "picUrl": "https://cdn.findqc.com/item/20251023/mh3bsa7g_kb1m.jpg",
+        "price": "¥596.88",
+        "toPrice": "$93.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "528677812",
+          "name": "WOB数码旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1872897",
+        "mallType": "T1688",
+        "itemId": "897867127964",
+        "title": "Factory stock wholesale original original height PBT five-sided heat sublimation keycaps cross-border amazon personalized",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Mt8XnF1lBkdB6pY1g_!!2219081144781-0-cib.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219081144781",
+          "name": "沈阳宇涵电子有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1849255",
+        "mallType": "TB",
+        "itemId": "628111275716",
+        "title": "Kemai 2 (CronusZen) wired wireless converter adapter for different platforms gamepad PS4 XB1 NS",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2912713504/O1CN01ud5NaR1bksrgGslTW_!!2912713504.jpg",
+        "price": "¥780.00",
+        "toPrice": "$122.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "174248708",
+          "name": "炜珲电子",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1735932",
+        "mallType": "T1688",
+        "itemId": "791511765863",
+        "title": "BOW Mechanical Keyboard G87U full-key insertion and extraction axis notebook desktop all-in-one universal gaming keyboard",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tcokDw1xVhBOfbLQB_!!2210880946449-0-cib.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210880946449",
+          "name": "深圳市航世电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1647149",
+        "mallType": "TB",
+        "itemId": "799403896528",
+        "title": "HP Hewlett-Packard official mechanical keyboard and mouse set wired gaming special side engraved men and women notebook desktop",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/133668489/O1CN01fp0eac2Ca1DjfzKxc_!!4611686018427387529-0-item_pic.jpg",
+        "price": "¥161.25",
+        "toPrice": "$25.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57301367",
+          "name": "惠普中国官方旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1647150",
+        "mallType": "TB",
+        "itemId": "930995281880",
+        "title": "Liberty Wolf M96 Dual-mode Bluetooth Wireless Keyboard Charging Model Silent Laptop MAC PBT Ball Cap with Screen",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2212762527975/O1CN01nvDjfi28mbZSeCmWN_!!0-item_pic.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "567879040",
+          "name": "自由狼旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141035071917136488",
+  "language": "en"
+}

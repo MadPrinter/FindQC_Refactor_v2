@@ -1,0 +1,382 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2745851",
+        "mallType": "WD",
+        "itemId": "7573381792",
+        "title": "****Product",
+        "picUrl": "https://si.geilicdn.com/pcitem1827918087-5f26000001928af504d30a2301b4_473_733.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1807496083",
+          "name": "2号商店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2683462",
+        "mallType": "T1688",
+        "itemId": "910260132099",
+        "title": "HH factory directly supplies 2425 children's football jerseys, cross-border jerseys, Brazil Miami Paris Arsenal Inter Milan series",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZzuuwY1zaOZZqRQqX_!!2219338206730-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLOMLCsxpWRD5psGxlVfj-Q",
+          "name": "广州明跃运动服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2077505",
+        "mallType": "WD",
+        "itemId": "7490094407",
+        "title": "Fashion casual T-shirts 27-53号DZ",
+        "picUrl": "https://si.geilicdn.com/open1834095317-1234478995-3c2500000196711050370a22d249_1200_1200.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834095317",
+          "name": "Bearbuy",
+          "logo": "https://si.geilicdn.com/wdseller1902888278-673600000192e1cd63cc0a210349_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2430787",
+        "mallType": "WD",
+        "itemId": "7544380345",
+        "title": "G32 S*ol*an*o Hoody GTX 25",
+        "picUrl": "https://si.geilicdn.com/pcitem1329468934-0db3000001992aaeea7f0a230115-unadjust_628_590.png",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1329468934",
+          "name": "DreamRemake2",
+          "logo": "https://si.geilicdn.com/shopedit1329468934-062100000197bafb32870a20e7c7-unadjust_89_89.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2509958",
+        "mallType": "WD",
+        "itemId": "7526886228",
+        "title": "Cotton double yarn men's T-shirt short sleeve high quality-MLMLSPTS0303",
+        "picUrl": "https://si.geilicdn.com/open1668613661-1234478995-3b7a00000198a7b5df330a22d249_1120_1120.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668613661",
+          "name": "OMGBUY-R",
+          "logo": "https://si.geilicdn.com/shopedit1946845501-1c8d00000197596bd7460a2301b4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2070850",
+        "mallType": "T1688",
+        "itemId": "922879062211",
+        "title": "High-quality RL Paul pony label men's long-sleeved polo shirt cotton lapel t-shirt long-sleeved men's casual polo shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015QXYbE1RtS68VeTdH_!!2217845332169-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219800503790",
+          "name": "广州旗运服装厂(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2126234",
+        "mallType": "T1688",
+        "itemId": "895486595914",
+        "title": "Short-sleeved men's T-shirt summer 75 cotton loose casual versatile half-sleeved chest embossed youth round neck T-shirt men's clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cePdxk1zOUGJEkD96_!!2218442126704-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218442126704",
+          "name": "嘉兴市秀洲区洪合镇悦诗风服装经营部(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1539006",
+        "mallType": "WD",
+        "itemId": "7345214526",
+        "title": "FOG New Repeat Line Chest Silicone Letters Loose High Street Short Sleeve T-Shirt Men's",
+        "picUrl": "https://si.geilicdn.com/open1671759537-1234478995-680d000001942d8e0d190aa08290_800_800.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1671759537",
+          "name": "🔥Kevin store🎧",
+          "logo": "https://si.geilicdn.com/wdseller1797702549-53e000000194323b2dbc0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2071597",
+        "mallType": "TB",
+        "itemId": "962219439921",
+        "title": "2025 New Hot Sale ndy Printed Nude Project Men Women Vacati",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2200744293193/O1CN01rqN4Hh1ZSRieqr4O6_!!2200744293193.jpg",
+        "price": "¥38.90",
+        "toPrice": "$6.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "309343339",
+          "name": "My departments store",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2130130",
+        "mallType": "T1688",
+        "itemId": "942984494772",
+        "title": "25Ss Cross-Border High-Quality Tower Tape Printed Letters Distressed Short-Sleeved T-Shirt Loose and Versatile One Piece Wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01U5qN6P1KNfKnbn6LA_!!2217551301152-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBj9_yDsfWum-d_tv7co5tDw",
+          "name": "深圳市宝安区顺腾服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3185489",
+        "mallType": "WD",
+        "itemId": "7464331974",
+        "title": "音乐家MINA跨文化联名磨破限量款短袖T恤",
+        "picUrl": "https://si.geilicdn.com/weidian1354170554-71f700000196b5edb2900a2396f4_2048_2048.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1354170554",
+          "name": "先生请留步【新店】",
+          "logo": "https://si.geilicdn.com/bj-wd-1354170554-1528490168173-1765097195_1125_1125.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2307764",
+        "mallType": "T1688",
+        "itemId": "746459870083",
+        "title": "Trendy Gallery Basic Logo Printed Heavy Cotton Long Sleeve Base Shirt for Men and Women Couple T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kGe3n522Ah0ajuZ6l_!!2822597080-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNQKVTupm5E3ey5YYoF49JQ",
+          "name": "广州独道潮牌服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 232,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3189313",
+        "mallType": "WD",
+        "itemId": "7421949183",
+        "title": "031319 jieyu printed short sleeved shirt\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901913009389-52fe000001958eaa0b1f0a21146b_1080_1441.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2790185",
+        "mallType": "WD",
+        "itemId": "7573594092",
+        "title": "撞色连帽卫衣男妇运动休闲长裤套装10/16",
+        "picUrl": "https://si.geilicdn.com/pcitem1968904846-10e600000199e2f0b7320a239646_2500_2500.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1849310973",
+          "name": "Fashion clothing",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3004578",
+        "mallType": "WD",
+        "itemId": "7566802023",
+        "title": "High weight Magira hoodie for men and women, loose embroidered pure cotton couple round neck hooded sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1872407805-1234478995-59f300000199bdff01da0a8115c2_1280_1280.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1872407805",
+          "name": "Marshall Reps",
+          "logo": "https://si.geilicdn.com/shopedit1968034876-742d00000198aea55ad50a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1071369",
+        "mallType": "T1688",
+        "itemId": "783240839390",
+        "title": "Cross-Border Wholesale 2024 Summer New Trendy Brand Classic Lightning Print Men's and Women's Cotton Short-Sleeved T-Shirts",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017StPVM1o3ub4vRkA8_!!3596815170-0-cib.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBzzGEO5M7dIHJAbLYkpwbw",
+          "name": "上饶市欧隆服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2400873",
+        "mallType": "T1688",
+        "itemId": "795311939305",
+        "title": "AM cross-border shin Europe and the United States and the United States high street rhinestone washed holes patches patch patchwork hot drill jeans beggar pants male",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Fd2aAk1EqAAqRyJUW_!!2217557510402-0-cib.jpg",
+        "price": "¥58.50",
+        "toPrice": "$9.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217557510402",
+          "name": "广州骉腾服装实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1435371",
+        "mallType": "T1688",
+        "itemId": "910355788604",
+        "title": "Flocking Letter essentials Short-sleeved T-shirt Men's and Women's Hip-hop Half-sleeved Fashion Brand High Street FOG American Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01J1YxqZ1nyPxFuYuln_!!2219376595158-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBs4KouyvXO_Bj4zjecvOM-g",
+          "name": "上饶市飞邦服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 504,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2382946",
+        "mallType": "TB",
+        "itemId": "971814298312",
+        "title": "Osamason \"Jumpout Tour\" Black T-Shirt Tour Venue Limited Edition Printed Short-Sleeve T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2212643669335/O1CN01z1GkLB2IpUMV9Waks_!!2212643669335.jpg",
+        "price": "¥71.40",
+        "toPrice": "$11.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2893580",
+        "mallType": "WD",
+        "itemId": "7586857389",
+        "title": "Yappy tee puppy T-shirt",
+        "picUrl": "https://si.geilicdn.com/wdseller901958339969-48bb0000019a340bb8390a8134f0_1134_942.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "507105153",
+          "name": "Dragon",
+          "logo": "https://si.geilicdn.com/wdseller507105153-19c1000001951ceded450a2395d6_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140499641914136271",
+  "language": "en"
+}

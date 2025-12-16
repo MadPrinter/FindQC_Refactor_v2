@@ -1,0 +1,322 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3278",
+        "mallType": "T1688",
+        "itemId": "737960020229",
+        "title": "KND STONE 2023SWEATER 23820 Men's Fashion Sweater Hand-dyed Crafted Oversize",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3b3yu_zvde.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3273",
+        "mallType": "T1688",
+        "itemId": "782127429587",
+        "title": "Trendy Brand New Letter Printed Logo Crewneck Short-sleeved Men's Casual Loose T-shirt Couple's Same Style All-match Top",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3b8vx_jl9l.jpg",
+        "price": "¥26.40",
+        "toPrice": "$4.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaR1_2lnbuK-BRDLV8Y7ubQ",
+          "name": "深圳市龙华区优姿服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 413,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3261",
+        "mallType": "TB",
+        "itemId": "676416268824",
+        "title": "Fried Chicken Shop Tee Desperado Pollos Hermanos Cotton Short Sleeve Gildan Heavyweight Cotton American Tide",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3asgd_0t5t.jpg",
+        "price": "¥48.80",
+        "toPrice": "$7.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109902101",
+          "name": "Gus经理室",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3252",
+        "mallType": "TB",
+        "itemId": "696677676012",
+        "title": "Bladee 333 Dreaming in a Dream Swedish Drain Gang Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3am6h_nnlb.jpg",
+        "price": "¥49.76",
+        "toPrice": "$7.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102646157",
+          "name": "Cock Burst",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3249",
+        "mallType": "TB",
+        "itemId": "646843846781",
+        "title": "21SS KAPITAL Kazuhiro Hirata Japanese trend cotton loose splicing bone print model short sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3ajgz_x1be.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3241",
+        "mallType": "WD",
+        "itemId": "6459054497",
+        "title": "B foam printed short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3a6i0_vjby.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "167171804",
+          "name": "666factory",
+          "logo": "https://si.geilicdn.com/forward167171804-0221000001675af23cd10a02853e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3210",
+        "mallType": "TB",
+        "itemId": "719540773701",
+        "title": "(Summer Selection) 0Pium Style Destroyed Waistcoat Short-Sleeved Bottoming Playboi Carti Same Style Pure Cotton",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m39hlm_50fr.jpg",
+        "price": "¥131.24",
+        "toPrice": "$20.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263269114",
+          "name": "VOGUE ITEMS",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3196",
+        "mallType": "TB",
+        "itemId": "803735557950",
+        "title": "Travis collaborates with McDonald's short sleeved American street heavyweight men's and women's loose utopian T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m394gn_6l6k.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "330280718",
+          "name": "韩炫风潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 96,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3191",
+        "mallType": "TB",
+        "itemId": "722830106752",
+        "title": "COR font short sleeve t-shirt men and women hundred loose sailboat tee",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m38yql_d3mb.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "123870755",
+          "name": "ulsloqjn",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 97,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3183",
+        "mallType": "TB",
+        "itemId": "705593054495",
+        "title": "2023 SS Hellstar Studios T-shirt European and American trendy brand pure cotton printed loose short sleeved tee",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m38wsk_r7q1.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "129220862",
+          "name": "异型潮品",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 484,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3163",
+        "mallType": "TB",
+        "itemId": "720584606804",
+        "title": "Represent Short-Sleeve Doberman Shark Washed Vintage American Fog Unisex Couple Loose Trendy Brand T-Shirt Summer",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m38kr3_bke6.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68255558",
+          "name": "VLONE SALUTE潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 147,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3140",
+        "mallType": "TB",
+        "itemId": "654993860868",
+        "title": "South Park South Park Surrounding Area Shrekland Cartoon Anime Short-Sleeved Unisex Oversized Trendy T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3n8sof1_t5sg.jpg",
+        "price": "¥55.37",
+        "toPrice": "$8.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "499711341",
+          "name": "奥斯熊旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3139",
+        "mallType": "TB",
+        "itemId": "670509987073",
+        "title": "Subway Hooligan bb Tee",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3n8sd49_ou6w.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 85,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3137",
+        "mallType": "TB",
+        "itemId": "710383016168",
+        "title": "AL Short Sleeve White Inkjet Large Fuzzy Logo 94E",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m384no_vg1c.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "411308624",
+          "name": "tb6034025635的小店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3126",
+        "mallType": "TB",
+        "itemId": "768857136580",
+        "title": "(0pium) 32 weave double yarn heavyweight cotton basic cotton loose breathable short-sleeved carti same style",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m381sq_6nte.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3107",
+        "mallType": "TB",
+        "itemId": "675024191355",
+        "title": "Anime seven dragon ball UFC Goku 250g heavy cotton cartoon ancient large size round neck printed tide T-shirt retro cartoon",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m37una_4u1k.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "491536859",
+          "name": "胶囊工作室 CapsuleCorp",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3105",
+        "mallType": "TB",
+        "itemId": "611524268185",
+        "title": "Homemade niche design creative simple print short half sleeve oldschool lazy style loose T-shirt for couples",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m37pga_oshp.jpg",
+        "price": "¥49.80",
+        "toPrice": "$7.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "289789800",
+          "name": "雾都记忆工作室",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3097",
+        "mallType": "TB",
+        "itemId": "714534927088",
+        "title": "Travis Scott Niche Trendy Brand Summer American Loose Vtg Short-Sleeved Ts Mcdonald's Joint Foam T-Shirt for Men",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m37ls2_n93a.jpg",
+        "price": "¥90.54",
+        "toPrice": "$14.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "214133650",
+          "name": "金钱slave",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 130,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202115533375249878752",
+  "language": "en"
+}

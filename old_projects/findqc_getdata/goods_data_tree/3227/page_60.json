@@ -1,0 +1,355 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1682182",
+        "mallType": "TB",
+        "itemId": "823595484284",
+        "title": "Mzc Camo College Abc Classic Camouflage Ape Head Short Sleeve Tide Men Women Couple Round Neck T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3545687738/O1CN01Wzmvvi2723olvfbKS_!!3545687738.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "486227135",
+          "name": "MZC折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1506347",
+        "mallType": "T1688",
+        "itemId": "626972945491",
+        "title": "Five Color Striped Small Red Heart Embroidered Cotton Long Sleeve Autumn Round Neck Cotton Striped Long Sleeve Red Heart",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/9065552729_963077021.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3118152",
+        "mallType": "WD",
+        "itemId": "7499680973",
+        "title": " R96067-H2",
+        "picUrl": "https://si.geilicdn.com/pcitem901818229972-6f5100000197c8cfac6a0a23037f_1352_1351.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2746325",
+        "mallType": "T1688",
+        "itemId": "784812548725",
+        "title": "Foreign trade in Europe and the United States women's 2024 summer new sexy slightly transparent letters printed thin straight jumpsuit female wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01C5aFqg1cRvzVffweM_!!2215746923598-0-cib.jpg",
+        "price": "¥13.50",
+        "toPrice": "$2.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215746923598",
+          "name": "中山市超会购电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3117645",
+        "mallType": "T1688",
+        "itemId": "826073083263",
+        "title": "In-Stock Cross-Border High Version Chrome Hearts 24 New Wholesale Sanskrit Same Style Short-Sleeve Trendy Brand",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kojJct1arvGfhtJB6_!!2218394303384-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9MdTqRAepH0ZM_zo_KEJmQ",
+          "name": "广州凡苑服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2120587",
+        "mallType": "T1688",
+        "itemId": "952629820477",
+        "title": "Rl Short-Sleeved Polo Shirt Pony Logo Embroidered Summer Men's Polo Shirt Top Lapel T-Shirt Casual",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vhjrgo1e2PGvvNeOx_!!2219478253813-0-cib.jpg",
+        "price": "¥30.59",
+        "toPrice": "$4.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEJcPsjGkNpIwCh2ZCau2ZQ",
+          "name": "铅山县栗通电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2842061",
+        "mallType": "T1688",
+        "itemId": "949468456567",
+        "title": "Tide BAPE co-branded half-sleeve TEE tops men and women with the same ape long-sleeved head senior loose short-sleeved shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IQiDkT2CVthzaduaJ_!!2219211888480-0-cib.jpg",
+        "price": "¥34.00",
+        "toPrice": "$5.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219211888480",
+          "name": "上饶市泽俊服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2737443",
+        "mallType": "WD",
+        "itemId": "7554246402",
+        "title": "【DX20】Vintage washed and old casual loose short sleeve round neck",
+        "picUrl": "https://si.geilicdn.com/open1794541533-252808396-3fd4000001995fb20e9d0a23b491_1280_1280.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794541533",
+          "name": "1:1A&amp;V",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1581505",
+        "mallType": "WD",
+        "itemId": "7499114955",
+        "title": "B's short sleeved shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1922034803-118500000197c1dd27ee0a2315ef_1200_1200.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1856575629",
+          "name": "Nolan Store",
+          "logo": "https://si.geilicdn.com/wdseller1922034803-0c2c00000199208a83f40a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3117323",
+        "mallType": "WD",
+        "itemId": "7568136688",
+        "title": "明星同款MJL经典长袖",
+        "picUrl": "https://si.geilicdn.com/open1700008665-252808396-582900000191d5b390580aa0233d_1920_1920.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812658717",
+          "name": "Super Buyer",
+          "logo": "https://si.geilicdn.com/weidian1946616010-331500000198328360d10a2396f4_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3117349",
+        "mallType": "WD",
+        "itemId": "7562612521",
+        "title": "幻境迷幻印花圆领男女短袖T恤",
+        "picUrl": "https://si.geilicdn.com/pcitem1773215124-1a9d0000018e588bb0510a20e273_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1773889811",
+          "name": "Market Street",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1503908",
+        "mallType": "T1688",
+        "itemId": "920853316873",
+        "title": "25 Summer New AC Logo Letter Embroidered Short Sleeve T-shirt Trendy Brand Male and Female Couple Same Style Round Neck Loose and Simple",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RaJXqA1fomhjNWV6C_!!2219349204054-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219349204054",
+          "name": "广州阔野服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048814",
+        "mallType": "T1688",
+        "itemId": "924320098783",
+        "title": "24Ralph Lauren Ralph Lauren Short-Sleeved Pony Logo Classic Knitted Twist Embroider Slim Polo Lapel Short-Sleeved",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kE4faw1t3yqyEWygJ_!!2219814765847-0-cib.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBeb4ej3bDH7D9JJKAUYrMaA",
+          "name": "广州尚约服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2214786",
+        "mallType": "T1688",
+        "itemId": "808431656483",
+        "title": "2024 Chrome Hearts horseshoe print color blocked shoulder and long sleeved T-shirt breathable quick drying for both men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aDzBPl1sCOQE2sZj1_!!2218005685730-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRGf0eVVDgm2Dw99e3rzvxw",
+          "name": "佛山市南海区太古奢潮服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1986773",
+        "mallType": "T1688",
+        "itemId": "945926952410",
+        "title": "25-26 New Bundesliga Hansa Rostock jersey Pfannen Berisha away sports soccer jersey",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01q0GPkg1moyBmfjNG6_!!2213234265002-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213234265002",
+          "name": "佛山市南海区联之叶贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2708269",
+        "mallType": "WD",
+        "itemId": "7517091065",
+        "title": "【 Random Comparison of Ceiling 】 White Triangle Short T, Prad * 25 Spring/Summer Latest Short Sleeve T-shirt",
+        "picUrl": "https://si.geilicdn.com/wdseller1475200836-04b2000001985b2480630a2304aa_1290_1676.jpg",
+        "price": "¥349.00",
+        "toPrice": "$54.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1756772952",
+          "name": "Meet Paris",
+          "logo": "https://si.geilicdn.com/wdseller1475200836-168f00000170e6a4b0100a217216_750_716.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2707977",
+        "mallType": "TB",
+        "itemId": "975524751308",
+        "title": "2025 Spring and Autumn New Usa Team Shield Men's Basketball Training Sports Quick-Drying Long-Sleeve Shooting Jersey T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1968011995/O1CN01PSzf0d1QblF20KneM_!!1968011995.jpg",
+        "price": "¥71.98",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108465105",
+          "name": "橙子运动折扣店l",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2710376",
+        "mallType": "TB",
+        "itemId": "744363716967",
+        "title": "Zhou Bichang with short sleeve retro Women's Big 18 Change concert T-shirt bibizzhou pen pen boss Zhou",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/4117986718/O1CN01Pnw5zj1zUtesT4VKh_!!0-item_pic.jpg",
+        "price": "¥60.59",
+        "toPrice": "$9.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333578346",
+          "name": "乔治甲克车旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2707884",
+        "mallType": "TB",
+        "itemId": "765589851957",
+        "title": "ART Fashion Street Fashion Influencer Ins Versatile Casual Short sleeved T-shirt Oversized Vintage",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1756216250/O1CN01DnAKHL1w2YKlCZdtd_!!1756216250.jpg",
+        "price": "¥40.25",
+        "toPrice": "$6.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105423417",
+          "name": "Mist Clad 雾衣",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141237551917111792",
+  "language": "en"
+}

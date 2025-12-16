@@ -1,0 +1,313 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1484355",
+        "mallType": "WD",
+        "itemId": "7387611898",
+        "title": "Autumn Classic Small Embroidered Love Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250610/mbpcbs8u_zex7.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1839935861",
+          "name": "Meichao Street Hoodie",
+          "logo": "https://si.geilicdn.com/pcdecorate1913026462-33a100000194cc752fb90a2395d6-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1484334",
+        "mallType": "WD",
+        "itemId": "7468363904",
+        "title": "T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250726/mdj6eb6d_8s40.jpg",
+        "price": "¥96.00",
+        "toPrice": "$15.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659999653",
+          "name": "我的店铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-641800000193b565e3020a23038e-unadjust_288_288.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 61,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1483005",
+        "mallType": "T1688",
+        "itemId": "752021616858",
+        "title": "Two-line ESSENTIALS Niche Trendy Brand Summer Pure Cotton Loose Men's Short-sleeved T-shirt Distinctive Casual All-match",
+        "picUrl": "https://cdn.findqc.com/item/20250610/mbpb5bym_gf2t.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBG6fPXqG8SUOsl2hQdByJEA",
+          "name": "即墨区麦欧欧服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1482918",
+        "mallType": "T1688",
+        "itemId": "893675570812",
+        "title": "Jersey Spain Portugal Italy Brazil Clothing National Team T-Shirt Training Uniform Football Fans",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcnhmnyr_kpgy.jpg",
+        "price": "¥34.88",
+        "toPrice": "$5.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxPdq8sAQVeY7-syLV4FHGg",
+          "name": "广州零零壹运动服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1483001",
+        "mallType": "T1688",
+        "itemId": "901450184032",
+        "title": "Pony Foreign Trade Summer Paul Polo Shirt Men's Short-sleeved T-shirt Lapel Pony Embroidered Cotton Casual Wear",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mchsif5q_b8m1.jpg",
+        "price": "¥29.88",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-YNtXPssT6q1N_qa3i3v6A",
+          "name": "上饶市禾帝服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 397,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1482821",
+        "mallType": "T1688",
+        "itemId": "900030444588",
+        "title": "Correct EVISU short sleeved summer heavyweight Fushen waves big M graffiti Damo trendy brand 2025 new print cross-border",
+        "picUrl": "https://cdn.findqc.com/item/20250609/mbp2soxe_4who.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218749064247",
+          "name": "广州如水服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1482719",
+        "mallType": "T1688",
+        "itemId": "901918829037",
+        "title": "2526 new club AC Real Madrid Manchester City Chelsea Mexico Dortmund Barcelona home and away Thai version jersey",
+        "picUrl": "https://cdn.findqc.com/item/20250623/mc81nbbc_obg9.jpg",
+        "price": "¥28.50",
+        "toPrice": "$4.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217596671188",
+          "name": "佛山市南海区迪力尼体育服装商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 122,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1482428",
+        "mallType": "TB",
+        "itemId": "650573503374",
+        "title": "Back logo letter short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250609/mbo9sahl_blwv.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113677911",
+          "name": "Singor1",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 77,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1481281",
+        "mallType": "WD",
+        "itemId": "7453048115",
+        "title": "Alien printed T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250608/mbnrtgjc_rfx5.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1479231",
+        "mallType": "T1688",
+        "itemId": "903242996330",
+        "title": "Correct version 300g short sleeved lightning printed loose T-shirt luxury short sleeved men's antique T-shirt high version",
+        "picUrl": "https://cdn.findqc.com/item/20250614/mbv3u7xo_7qlw.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6LQYTgbrAhXtch0xzv24qA",
+          "name": "泉州市鸿亮商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1479157",
+        "mallType": "T1688",
+        "itemId": "898649028078",
+        "title": "2025 Trendy Men's Letter Printing Short-sleeved T-shirt Cotton Crewneck Loose Casual Pullover Breathable Base Top",
+        "picUrl": "https://cdn.findqc.com/item/20250609/mbo02ajk_137c.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhjpQo6myUjtHIXtx_cHzPw",
+          "name": "广州衣杞画服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 49,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1478998",
+        "mallType": "T1688",
+        "itemId": "774018846030",
+        "title": "Green Fork New Stockx Original Essentials Short Sleeve SS22 T-shirt Trendy High Street FOG One Item One Size",
+        "picUrl": "https://cdn.findqc.com/item/20250609/mbnvo6a3_05t5.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRNqqj2QI_SNRKOugOw0Rzw",
+          "name": "宁波黑曜石服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 109,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1478588",
+        "mallType": "T1688",
+        "itemId": "895933887391",
+        "title": "Yizhi 210g heavyweight cool short sleeved T-shirt for men's summer 2025 new breathable quick drying ice silk T-shirt top",
+        "picUrl": "https://cdn.findqc.com/item/20250608/mbni26ge_ezbu.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1478533",
+        "mallType": "T1688",
+        "itemId": "879235347906",
+        "title": "2025 Spring/Summer New Travis Scott 300g Heavy duty Short Sleeve T-shirt American Retro Pure Cotton Double Yarn Direct Spray t",
+        "picUrl": "https://cdn.findqc.com/item/20250608/mbnayvp0_sif4.jpg",
+        "price": "¥48.90",
+        "toPrice": "$7.69",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1478291",
+        "mallType": "WD",
+        "itemId": "7443554631",
+        "title": "********",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mchf0uag_og3a.jpg",
+        "price": "¥46.00",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1477882",
+        "mallType": "TB",
+        "itemId": "808313270150",
+        "title": "Kk66 Actual Hateplayboi Carti Rolling Loud Miami Limited Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250611/mbrawvyo_4ghz.jpg",
+        "price": "¥69.99",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1477823",
+        "mallType": "WD",
+        "itemId": "7400780619",
+        "title": "022438 xiaoxiao printed short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250619/mc2tu0br_a6b4.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148322062553899580",
+  "language": "en"
+}

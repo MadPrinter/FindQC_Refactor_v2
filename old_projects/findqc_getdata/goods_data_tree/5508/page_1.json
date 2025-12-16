@@ -1,0 +1,458 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2167481",
+        "mallType": "WD",
+        "itemId": "7490371472",
+        "title": "be0013982&51",
+        "picUrl": "https://si.geilicdn.com/pcitem901947578693-40920000019753f79dfc0a239846_552_537.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1686806285",
+          "name": "Colareps-4",
+          "logo": "https://si.geilicdn.com/shopedit1921722671-2a9b00000196cf9ebbf10a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1300432",
+        "mallType": "WD",
+        "itemId": "7437498520",
+        "title": "Be0010620&27",
+        "picUrl": "https://si.geilicdn.com/pcitem1921722480-76b000000195e65b5ab40a811411_1984_2976.jpg",
+        "price": "¥153.00",
+        "toPrice": "$24.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1742618381",
+          "name": "Colareps-3",
+          "logo": "https://si.geilicdn.com/shopedit1921722480-179e00000196e9c68a640a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1972419",
+        "mallType": "WD",
+        "itemId": "7274252902",
+        "title": "🎶Heavy new product!JBL Portable Gold Nugget Small Stereo Bluetooth AudioWant to enjoy high-quality music anytime, anywhere?G04 Gold Nugget 4 Generation Portable Tandem Wireless Bluetooth Stereo Bass Mini Small Sound, make your music dream come true!",
+        "picUrl": "https://si.geilicdn.com/wdseller901257918-2735000001920d7a81ca0a20e672_1079_1439.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699229748",
+          "name": "明星潮牌单品",
+          "logo": "https://si.geilicdn.com/wdseller901257918-65490000017549a0d7770a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899696",
+        "mallType": "WD",
+        "itemId": "7426248219",
+        "title": "Be0010067&38",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk0o83e_cw8s.jpg",
+        "price": "¥338.00",
+        "toPrice": "$53.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1742618381",
+          "name": "Colareps-3",
+          "logo": "https://si.geilicdn.com/shopedit1921722480-179e00000196e9c68a640a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2478372",
+        "mallType": "WD",
+        "itemId": "7412577004",
+        "title": "be008751&27",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfv5om5g_jcv5.jpg",
+        "price": "¥291.00",
+        "toPrice": "$45.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1756602125",
+          "name": "Colareps-2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1598537",
+        "mallType": "WD",
+        "itemId": "7390563174",
+        "title": "be005170&17",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcmvcvxw_50yy.jpg",
+        "price": "¥106.00",
+        "toPrice": "$16.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708932877",
+          "name": "Colareps",
+          "logo": "https://si.geilicdn.com/shopedit1921721977-3d4300000196e9f2910a0a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1477626",
+        "mallType": "WD",
+        "itemId": "7388778120",
+        "title": "be004573&42",
+        "picUrl": "https://cdn.findqc.com/item/20250616/mbyfpybi_1ppf.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708932877",
+          "name": "Colareps",
+          "logo": "https://si.geilicdn.com/shopedit1921721977-3d4300000196e9f2910a0a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1457370",
+        "mallType": "WD",
+        "itemId": "7386913783",
+        "title": "Be004530&42 in total",
+        "picUrl": "https://cdn.findqc.com/item/20250621/mc5nkpdx_5iz7.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708932877",
+          "name": "Colareps",
+          "logo": "https://si.geilicdn.com/shopedit1921721977-3d4300000196e9f2910a0a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1424348",
+        "mallType": "WD",
+        "itemId": "7390734872",
+        "title": "be005166&17",
+        "picUrl": "https://cdn.findqc.com/item/20250605/mbis5v5t_scu2.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708932877",
+          "name": "Colareps",
+          "logo": "https://si.geilicdn.com/shopedit1921721977-3d4300000196e9f2910a0a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1204374",
+        "mallType": "WD",
+        "itemId": "7405951264",
+        "title": "be008102&26",
+        "picUrl": "https://cdn.findqc.com/item/20250519/maujhuex_fc52.jpg",
+        "price": "¥213.00",
+        "toPrice": "$33.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1756602125",
+          "name": "Colareps-2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114918414194362914",
+  "language": "en"
+}

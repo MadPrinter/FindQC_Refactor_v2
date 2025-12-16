@@ -1,0 +1,69 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "16829",
+        "mallType": "WD",
+        "itemId": "6440395634",
+        "title": "H40 CN  N1ke SB Dunk Low Concepts Blue Lobster-313170 342",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nelxb5_k38w.jpg",
+        "price": "¥400.00",
+        "toPrice": "$62.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1753723858",
+          "name": "CNFactory2",
+          "logo": "https://si.geilicdn.com/shopedit1598594944-142f0000018617b347180a2313a2-unadjust_123_123.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16714",
+        "mallType": "WD",
+        "itemId": "7237970387",
+        "title": "DJ6188-001",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3neklhh_d4xm.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "160885222",
+          "name": "Budgetshoes",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "10828",
+        "mallType": "WD",
+        "itemId": "4984641593",
+        "title": "H38 N1ke SB Dunk Low StrangeLove Skateboards CT2552-800",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbf376_w6ve.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1611117650",
+          "name": "CNFactory",
+          "logo": "https://si.geilicdn.com/weidian1594556374-27ca0000017cb7f7c5100a207569_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145144542553892658",
+  "language": "en"
+}

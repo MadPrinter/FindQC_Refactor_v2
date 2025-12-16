@@ -1,0 +1,592 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3099702",
+        "mallType": "WD",
+        "itemId": "7570703889",
+        "title": "雪-N三色休闲板鞋",
+        "picUrl": "https://si.geilicdn.com/pcitem1666260523-18fe00000190f48c8eaf0a239646_1024_1024.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639542179",
+          "name": "Chic Vault Global",
+          "logo": "https://si.geilicdn.com/shopedit1987193824-327300000199128eeb7d0a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3036698",
+        "mallType": "TB",
+        "itemId": "15595299759",
+        "title": "Mastermind Japan Mmj Wallet All-Alloy Stereo Skull Gold Wallet",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/11871460/T2UEJxXnVMXXXXXXXX_!!11871460.jpg",
+        "price": "¥35.57",
+        "toPrice": "$5.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33052327",
+          "name": "Shop 70",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2920680",
+        "mallType": "TB",
+        "itemId": "744923873932",
+        "title": "Outdoor hiking, camping, camping, adventure, backpacker, northern face, chums, extreme water cup, logo, helmet, sticker painting",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/61713294/O1CN01kUnARA1aChHa3BoWz_!!61713294.jpg",
+        "price": "¥1.05",
+        "toPrice": "$0.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34602704",
+          "name": "贴艺坊贴纸店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2631161",
+        "mallType": "WD",
+        "itemId": "7261792987",
+        "title": "************",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-5d9500000190bfb960750a210559_1024_1024.jpg",
+        "price": "¥107.00",
+        "toPrice": "$16.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603469",
+        "mallType": "WD",
+        "itemId": "7566539984",
+        "title": "ice-ZY-1 Newest Hot Style Hooded Sweatshirt Suit Down Jacket (You can scan the QR code) (TOP QUALITY)",
+        "picUrl": "https://si.geilicdn.com/pcitem1886196013-74cb00000192f7d55e8f0a2304aa_1200_1200.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639542179",
+          "name": "Chic Vault Global",
+          "logo": "https://si.geilicdn.com/shopedit1987193824-327300000199128eeb7d0a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2366071",
+        "mallType": "TB",
+        "itemId": "771514778873",
+        "title": "Full Diamond Cuban Necklace Rhombus Diamond Cuban Chain Diamond Men's Hip-Hop American Rap Men's Thick Chain",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2698441241/O1CN01bigYQh1L2QYlUqfHp_!!2698441241.jpg",
+        "price": "¥25.80",
+        "toPrice": "$4.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "286660029",
+          "name": "AYU 潮饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2898449",
+        "mallType": "TB",
+        "itemId": "815128961602",
+        "title": "Suitable for Air Force Sneakers, Dunk Shoelace Buckle, Metal Hook, Shoe Buckle, Detachable Shoe Modification Decorative Accessories, Trendy Brand",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7xeqy_rkxc.jpg",
+        "price": "¥14.37",
+        "toPrice": "$2.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125852118",
+          "name": "KuKu PINS",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900821",
+        "mallType": "TB",
+        "itemId": "918011196767",
+        "title": "Labubu Car Metal Stickers Cartoon Cute Stickers Window Glass Decoration Labubu Motorcycle Electric Scooter",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk3pi6t_9d90.jpg",
+        "price": "¥19.94",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "337839257",
+          "name": "车品宝车品专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2844279",
+        "mallType": "TB",
+        "itemId": "991430452421",
+        "title": "U-Dolomi Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20251103/mhircnfu_yqeu.jpg",
+        "price": "¥205.87",
+        "toPrice": "$32.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "186831244",
+          "name": "pengreps",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1923858",
+        "mallType": "WD",
+        "itemId": "7516358078",
+        "title": "KARMANISTIC Wardrobe Aromatherapy Wardrobe Clothes Hanging Fragrant Pieces Bedroom Room Car Lasting Fragrant Pieces Decoration-KARMANISTIC",
+        "picUrl": "https://si.geilicdn.com/pcitem901965113164-3fb300000197bf920a490a2315ef_750_1000.jpg",
+        "price": "¥6.60",
+        "toPrice": "$1.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1625782829",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2538414",
+        "mallType": "TB",
+        "itemId": "784286061906",
+        "title": "2024 New High-End Hair Clip with Letters, Korean Retro Spring Clip, Elegant Back-Of-Head Updo Barrette Hair Accessory",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgne9qhn_8djw.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111384375",
+          "name": "梁COCO发饰",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2078602",
+        "mallType": "T1688",
+        "itemId": "760090719151",
+        "title": "Fashion fashion brand embroidery cloth stickers brand logo clothes decoration patch stickers famous brand ironing stickers",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me9y9u7j_p1zm.jpg",
+        "price": "¥0.45",
+        "toPrice": "$0.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBU62wBl1P6cAqaXKX-J3HQ",
+          "name": "广州市海珠区七彩刺绣商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "58087",
+        "mallType": "T1688",
+        "itemId": "805994173806",
+        "title": "McDonald's personalized creative car stickers motorcycle helmet electric car electric car decoration reflective waterproof stickers",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqe47t_hbtn.jpg",
+        "price": "¥1.00",
+        "toPrice": "$0.16",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1412303",
+        "mallType": "T1688",
+        "itemId": "886380972564",
+        "title": "Driver's License Cover 2025 New Multifunctional Real Soft Leather Driver's License Card Holder All-In-One Motor Vehicle Driver's License Protective Cover",
+        "picUrl": "https://cdn.findqc.com/item/20250601/mbcxxt45_1fx6.jpg",
+        "price": "¥5.10",
+        "toPrice": "$0.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTPWMAbkTOFYKXcY6kTvciQ",
+          "name": "广州欧邦皮具商行",
+          "type": "T1688"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "799350",
+        "mallType": "WD",
+        "itemId": "7289833411",
+        "title": "Xinhua Qiangbei fourth generation headphone buds 3",
+        "picUrl": "https://cdn.findqc.com/item/20250301/m7pjdjb0_c2o6.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684891361",
+          "name": "ThebigY store",
+          "logo": "https://si.geilicdn.com/wdseller1778358520-557d00000196f8821c200a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "413278",
+        "mallType": "TB",
+        "itemId": "755094098704",
+        "title": "Corteiz Syna Gallery Dept Sticker Set of Stickers",
+        "picUrl": "https://cdn.findqc.com/item/20241231/m5bg9hjg_2pm7.jpg",
+        "price": "¥12.41",
+        "toPrice": "$1.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "545473275",
+          "name": "highstreet socks",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "200320",
+        "mallType": "TB",
+        "itemId": "667179635534",
+        "title": "Yuehu Huaqiang North Loda 1571AM V Bluetooth headset pro2 top 1562AE for apple air4",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3oc9zn1_4khk.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "476653296",
+          "name": "悦虎洛达直营店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "68781",
+        "mallType": "TB",
+        "itemId": "545134513797",
+        "title": "The fastest Gulf Coast car stickers Hornet SuperBee large displacement self-absorption V8 tuning car stickers car window gas tank stickers",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmew9r_jvsc.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34491698",
+          "name": "『湾岸车贴店』潮车贴工作室",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146245281917112496",
+  "language": "en"
+}

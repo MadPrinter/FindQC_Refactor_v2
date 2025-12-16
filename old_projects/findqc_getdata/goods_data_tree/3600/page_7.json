@@ -1,0 +1,382 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2628278",
+        "mallType": "T1688",
+        "itemId": "860661393425",
+        "title": "冬季新款大鹅羽绒服加厚保暖超长款女士加拿大同款外套22派克大衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01poZ1Vo2CpagaD5edI_!!2219011488523-0-cib.jpg",
+        "price": "¥310.00",
+        "toPrice": "$48.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219011488523",
+          "name": "龙港市潮集服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3202730",
+        "mallType": "WD",
+        "itemId": "7584415533",
+        "title": "【NFC】高版品质蒙玛雅黑色经典羽绒舒适保暖防寒连帽外套批发跨",
+        "picUrl": "https://si.geilicdn.com/open1622517075-1622517075-7eaa0000019a251ebbc50aa081c2_799_1066.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622517075",
+          "name": "Janekrep",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-6d8b00000199f23ea2530a20e7c7-unadjust_1024_1024.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 168,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2023451",
+        "mallType": "T1688",
+        "itemId": "740048322717",
+        "title": "2023 黒锦白鸭绒男女同穿短款羽绒服女 2023新款高端加厚情侣连帽外",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vHoebi1MPc44DXwLr_!!2215978691427-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215978691427",
+          "name": "平湖锦虎羽绒服有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2830244",
+        "mallType": "WD",
+        "itemId": "7285553901",
+        "title": "UF-1 2024 winter classic beauty warm cotton jacket men's and women's couple (TOP quality)",
+        "picUrl": "https://si.geilicdn.com/open1863516261-1234478995-6e6700000192766fb61f0a239383_1200_1200.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863516261",
+          "name": "Trendy Buy",
+          "logo": "https://si.geilicdn.com/shopedit1886196013-3dad00000193e98aafee0a20e284-unadjust_743_743.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2503276",
+        "mallType": "WD",
+        "itemId": "7529705080",
+        "title": "Top batch / 90% duck down warm down jacket with NFC",
+        "picUrl": "https://si.geilicdn.com/wdseller1869801865-06a60000019971624cbc0a231177_1200_1200.jpg",
+        "price": "¥498.00",
+        "toPrice": "$78.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3051105",
+          "name": "潮牌Ostar  Shop",
+          "logo": "https://si.geilicdn.com/wdseller1869801865-61cb0000019619b560480a20e2c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2014902",
+        "mallType": "T1688",
+        "itemId": "825742499621",
+        "title": "Langford Wyndham # 22 Women Coyote Fur Swoded Mysti Parka",
+        "picUrl": "https://cdn.findqc.com/item/20251004/mgc84os2_odc7.jpg",
+        "price": "¥549.00",
+        "toPrice": "$86.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBS4CNBe5hcdHyU0WvaftmAg",
+          "name": "深圳市欧之洲实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2266647",
+        "mallType": "WD",
+        "itemId": "7329142976",
+        "title": "Canada Goose Crofton 2227Men's and Women's Same Light and Thin",
+        "picUrl": "https://si.geilicdn.com/open1808369621-1234478995-772900000193f222d8040a232357_1082_1078.jpg",
+        "price": "¥588.00",
+        "toPrice": "$92.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1808369621",
+          "name": "3ant",
+          "logo": "https://si.geilicdn.com/wdseller1904788446-0a4a00000193251e8cfe0a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 176,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3202398",
+        "mallType": "TB",
+        "itemId": "858094479217",
+        "title": "Autumn and Winter Men's down Jacket Trendy Brand 2025 New Version Link for Mcmilan",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/411258569/O1CN01x8OfVz2DAezWoVLiE_!!411258569.jpg",
+        "price": "¥665.64",
+        "toPrice": "$104.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109474767",
+          "name": "BizyBoy",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3173166",
+        "mallType": "T1688",
+        "itemId": "903605553965",
+        "title": "Putian High Version Himalayan down Jacket Embroidered Multi-Pocket Hooded Parka Couple Style Jacket Trendy",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01M0vmmY1hUkeURo1IQ_!!2219527134281-0-cib.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB85zQw4cb4CH0hINij5ov6A",
+          "name": "莆田市城厢区艾尚北衣鹅服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "95312",
+        "mallType": "T1688",
+        "itemId": "829496297406",
+        "title": "Cross-Border Specially Designed for Shida Goose 17 Styles of Men's and Women's Jackets for Couples, Winter Thickeneded down Jackets Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnnce0_2cji.jpg",
+        "price": "¥295.00",
+        "toPrice": "$46.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkWVE6Lxu6P3YMAHPvT88eA",
+          "name": "莆田市荔城区纯优百货店",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 507,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "2382921",
+        "mallType": "T1688",
+        "itemId": "851157635549",
+        "title": "Spot Winter Casual Hooded Cotton Jacket Thick Jacket Solid Color Cold proof High end Cotton Jacket European and American Cross border Women's Coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01y9AXyR1Fsk4V1rHr8_!!2215676150543-0-cib.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkNZVsrD_5p1rAUKIJVZtTA",
+          "name": "汕头妍希科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2419266",
+        "mallType": "WD",
+        "itemId": "7521185747",
+        "title": "Winter new down jacket -009",
+        "picUrl": "https://si.geilicdn.com/pcitem901963150773-66f00000019883a0803a0a23037f_1200_1200.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700486773",
+          "name": "Sumlly Shopping",
+          "logo": "https://si.geilicdn.com/weidian1912928605-3248000001945f2e43f90a8134f0_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2310642",
+        "mallType": "T1688",
+        "itemId": "923256262500",
+        "title": "Macmillan Men's Shorts Hooded Warm Jacket17 #",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01F6sTt91c9cBmuLq0H_!!2218532613558-0-cib.jpg",
+        "price": "¥450.00",
+        "toPrice": "$70.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBCdHxI5f0MBPdFRZIlHjwSA",
+          "name": "东莞大朗馨绒服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2543371",
+        "mallType": "WD",
+        "itemId": "7544246399",
+        "title": "Scissors Collection",
+        "picUrl": "https://si.geilicdn.com/pcitem901880731787-2b4c00000199293b2f260a23047e_1440_1920.jpg",
+        "price": "¥375.00",
+        "toPrice": "$58.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629391697",
+          "name": "RepTigerSupply",
+          "logo": "https://si.geilicdn.com/weidian1788880988-2ebf000001937ca639f50a23038e_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "143321",
+        "mallType": "WD",
+        "itemId": "7272066808",
+        "title": "1996 Cotton Jacket Co branded Splicing Collection",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mplz17_k2s8.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "238424219",
+          "name": "SUDU-gadgets",
+          "logo": "https://si.geilicdn.com/wdseller238424219-53dd0000018cdad711910a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2831692",
+        "mallType": "WD",
+        "itemId": "7520559753",
+        "title": "080604 Jiujiang Down Jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem901913009389-6813000001987dbceabe0a2102c5_1440_1920.jpg",
+        "price": "¥650.00",
+        "toPrice": "$102.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2195492",
+        "mallType": "T1688",
+        "itemId": "960183485541",
+        "title": "纯原美版北1996冬季棉棉服700蓬男女同款防风面包服潮",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgos3mbr_dy6y.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb10KdQb4IQdBxT1qLc7FDg",
+          "name": "广州图件商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 81,
+        "qcVideoCnt": 15
+      },
+      {
+        "id": "3133330",
+        "mallType": "WD",
+        "itemId": "7616013204",
+        "title": "2025 Winter Heat King # 【 Drilling into the Clouds 】 Kai L Stone 5000GT Flat Replacement Outdoor Lightweight High Fluffy Windproof and Waterproof Thick Hooded Cotton Jacket for Men and Women\n",
+        "picUrl": "https://si.geilicdn.com/wdseller1710443740-63b90000019aa0b44a8f0a2303ee_1288_1288.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1370237163",
+          "name": "王麻子666",
+          "logo": "https://si.geilicdn.com/bj-wd-1370237163-1532683066728-889635542_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2826809",
+        "mallType": "T1688",
+        "itemId": "723304631050",
+        "title": "Seasonal luxury 2024 burst models black gold short thickened commuting warm hooded temperament leisure down jacket winter",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017RgNkB1kiR5X5ARox_!!3934284717-0-cib.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3934284717",
+          "name": "平湖匠芯服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2738002",
+        "mallType": "WD",
+        "itemId": "7571620142",
+        "title": "Vest stand up collar vest NFC",
+        "picUrl": "https://si.geilicdn.com/wdseller254254139-227d00000199d4b330e70a21146b_1180_1572.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "254254139",
+          "name": "leo zuo56",
+          "logo": "https://si.geilicdn.com/wdseller254254139-37dc00000196d2729fcf0a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142425591930822790",
+  "language": "en"
+}

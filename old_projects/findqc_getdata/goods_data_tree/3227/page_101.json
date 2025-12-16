@@ -1,0 +1,385 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1615913",
+        "mallType": "WD",
+        "itemId": "7349224142",
+        "title": "tee 124",
+        "picUrl": "https://si.geilicdn.com/open1799136933-1838589072-2a29000001943c23c8670a210559_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1799136933",
+          "name": "Best Budget Buys",
+          "logo": "https://si.geilicdn.com/pcdecorate1883963414-7def000001942ae941930a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1331293",
+        "mallType": "TB",
+        "itemId": "894977397843",
+        "title": "Detw 25Ss*《Rebellion》Original Niche Light Cyberpunk Print Slogan Slim Fit High-End Short-Sleeve Unisex T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3791109895/O1CN01qfDtuR2Mxy6ybWlbd_!!3791109895.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "207944051",
+          "name": "DETW OnLine",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1275314",
+        "mallType": "WD",
+        "itemId": "7441826342",
+        "title": "2025 summer new printed pullover pure cotton short sleeved T-shirt",
+        "picUrl": "https://si.geilicdn.com/open1839861941-252808396-71450000019593333e840aa0834c_1067_1067.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1679418085",
+          "name": "Northsong",
+          "logo": "https://si.geilicdn.com/shopedit1889981767-6cbf0000019246d0b1210a22d172-unadjust_195_195.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2868281",
+        "mallType": "WD",
+        "itemId": "7425086234",
+        "title": "Hellstar Fashion Short Sleeve",
+        "picUrl": "https://si.geilicdn.com/pcitem1932139461-52220000019593ec0b710a20e672_800_800.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1792297005",
+          "name": "Horizon Lux",
+          "logo": "https://si.geilicdn.com/pcdecorate1932139461-33160000019847221af80a81347d-unadjust_611_611.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2677717",
+        "mallType": "WD",
+        "itemId": "7458302606",
+        "title": "Vintage Washed Suicideboys G59 T Shirt I Want To Die In\nVintage",
+        "picUrl": "https://si.geilicdn.com/pcitem1231267992-2d8d000001967e35154e0a811411_1000_1000.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1231267992",
+          "name": "ASEN",
+          "logo": "https://si.geilicdn.com/wdseller1231267992-76a000000191a894efbe0a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2065077",
+        "mallType": "T1688",
+        "itemId": "840749214783",
+        "title": "Trendy Brand Bape Collaboration Half-Sleeve Tee Top Unisex Camouflage High-End Loose Short-Sleeve T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aMpfSc1jKn7lrloif_!!2217524274530-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBzzGEO5M7dIHJAbLYkpwbw",
+          "name": "上饶市欧隆服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1966441",
+        "mallType": "WD",
+        "itemId": "7458572467",
+        "title": "rl-collar embroidery damascus city model",
+        "picUrl": "https://si.geilicdn.com/open1673704173-1234478995-5b8f000001968abce55d0aa0834c_365_481.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1673704173",
+          "name": "Hip-Hop Kid",
+          "logo": "https://si.geilicdn.com/weidian1942973884-1b7500000195e2317b330a207569_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1966439",
+        "mallType": "WD",
+        "itemId": "7441812920",
+        "title": "High quality cotton T-shirt 8006",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-4ab500000195ad9077e40a23b4de_800_800.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779779637",
+          "name": "MangoBuy-A",
+          "logo": "https://si.geilicdn.com/shopedit1905370046-4fa1000001931f90c0a80a2395d6-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1965870",
+        "mallType": "TB",
+        "itemId": "916252633146",
+        "title": "VALE HIP HOP VINTAGE SUMMER T SHIRT US Tide Street Loose Heavyweight Short Sleeve T-Shirt for Men",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2973405225/O1CN01OyV2p11oT6UkRSpgJ_!!2973405225.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "292978826",
+          "name": "TAKE YOUR TIMES",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1966121",
+        "mallType": "WD",
+        "itemId": "7485676271",
+        "title": "Ni vest t-shirt sun protection",
+        "picUrl": "https://si.geilicdn.com/pcitem1910531722-4338000001968fdba1fd0a81347d_1279_1706.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1782084925",
+          "name": "YYDS",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1965304",
+        "mallType": "WD",
+        "itemId": "7388277977",
+        "title": "[9/10] 2025 Spring new crocodile T-shirt men's casual fashion letters printed cotton round neck short sleeve short sleeve T-shirt",
+        "picUrl": "https://si.geilicdn.com/weidian1487675303-694600000194fccfd3210a230115_1496_1496.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708531204",
+          "name": "French fish",
+          "logo": "https://si.geilicdn.com/weidian1487675303-18ed00000179a1d9e6190a217216_1312_1312.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1965519",
+        "mallType": "T1688",
+        "itemId": "794064449916",
+        "title": "Europe and the United States station tide T-shirt men's spring and summer love spray paint personalized short-sleeved loose casual round neck top tide ins",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ERLRAE1oiDTAd0QyB_!!2217826685258-0-cib.jpg",
+        "price": "¥17.50",
+        "toPrice": "$2.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217826685258",
+          "name": "信州区迎风服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1805307",
+        "mallType": "WD",
+        "itemId": "7475335650",
+        "title": "***************",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-15290000018fde8f3f210a210298_750_750.jpg",
+        "price": "¥173.00",
+        "toPrice": "$27.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1459137",
+        "mallType": "T1688",
+        "itemId": "853554366498",
+        "title": "Spring and Autumn Winter Embroidered Round Neck Hoodie for Men and Women, Casual New Style, Long Short, Low key, Sporty Trend",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01MS6T3b1J01F2R3lo0_!!2216889390965-0-cib.jpg",
+        "price": "¥61.00",
+        "toPrice": "$9.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4D0eVXlC0pNiyqH5u7bfxA",
+          "name": "广州粤潮国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1459134",
+        "mallType": "WD",
+        "itemId": "7441590952",
+        "title": "High street niche hip hop foam print casual sports suit men and women loose thick drawstring shorts",
+        "picUrl": "https://si.geilicdn.com/open1646385709-1234478995-4c0300000195fb6bb32a0a231226_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646385709",
+          "name": "9TOP",
+          "logo": "https://si.geilicdn.com/pcdecorate1933147477-261a0000019599f938470a23038e-unadjust_200_200.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1364990",
+        "mallType": "T1688",
+        "itemId": "778213512048",
+        "title": "Europe and the United States tide brand cross-border foreign trade amiri high-quality men's short-sleeved loose T-shirt round neck pullover cotton letter printing",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000000816/O1CN012JjlcS1Htm8GLVZHO_!!6000000000816-0-tbvideo.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217515354665",
+          "name": "城阳区尘衣舍服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3021642",
+        "mallType": "WD",
+        "itemId": "7460037201",
+        "title": "UF  经典时尚百搭T恤短裤",
+        "picUrl": "https://si.geilicdn.com/pcitem901915242485-6373000001956aafdcb70a210256-unadjust_1200_1200.png",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "293074353",
+          "name": "King buy",
+          "logo": "https://si.geilicdn.com/wdseller293074353-57ad0000019610822e390a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2866280",
+        "mallType": "WD",
+        "itemId": "7429748800",
+        "title": "a meter Sweatshirt multicolor 8",
+        "picUrl": "https://si.geilicdn.com/pcitem1909146406-4e9400000194d434f2560a81347d_1080_1080.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1729489589",
+          "name": "dripcloset",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2864486",
+        "mallType": "T1688",
+        "itemId": "706057372844",
+        "title": "Cross-border wholesale fashion brand bape shark head camouflage T-shirt 3D digital printing loose short sleeve adult children code",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KWtEho1FsHV1iUIes_!!2215421220542-0-cib.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZMkoeZiGMfL8r2iZwkShoQ",
+          "name": "上饶市远灿服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2615753",
+        "mallType": "WD",
+        "itemId": "7392538614",
+        "title": "RL Franchise Store-018时尚短袖",
+        "picUrl": "https://si.geilicdn.com/open1864556589-1234478995-7817000001950a7dd7040a8133b0_2000_2000.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864556589",
+          "name": "XY shop",
+          "logo": "https://si.geilicdn.com/wdseller1932053849-384e0000019a10f2e1350a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141544742553884699",
+  "language": "en"
+}

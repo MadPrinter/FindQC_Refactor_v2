@@ -1,0 +1,593 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3102558",
+        "mallType": "T1688",
+        "itemId": "798873181539",
+        "title": "Original Handmade Wearing Armor Cute Sweet Girl Pink and Tender Girl Heart Skirt Rabbit Girl Fake Nail Art Patch Finished Product",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jJcGDI2BQZNGpzokL_!!2215611978333-0-cib.jpg",
+        "price": "¥13.80",
+        "toPrice": "$2.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBE_tT1cX7ETg4_zajuvwPCQ",
+          "name": "连云港奈蔻美甲有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2902373",
+        "mallType": "TB",
+        "itemId": "718104376141",
+        "title": "Kigurumi oversized metal screw free retro round frame glasses with ultra light, slim legs and slim frame",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk5cpuj_6qsn.jpg",
+        "price": "¥20.63",
+        "toPrice": "$3.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "286730638",
+          "name": "薮猫工业 Serval Industry",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2845162",
+        "mallType": "TB",
+        "itemId": "767055404784",
+        "title": "【Heart of Desire】Galaxy and You Japanese-Style Lace Clothing Mass-Produced Subculture Autumn Thin Knit Sweater in Stock",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/86940122/O1CN014tNZQN1ClvJYj2Pyc_!!86940122.jpg",
+        "price": "¥222.81",
+        "toPrice": "$35.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70040347",
+          "name": "银河与你GingaU",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2874931",
+        "mallType": "TB",
+        "itemId": "949764475897",
+        "title": "Handmade Strawberry Series 2-inch Mini Album Storage ID Photos, Head Stickers, Photos, Stamps Collection Album",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1046425625/O1CN01L6AKvT1rQIwTIhoFI_!!1046425625.jpg",
+        "price": "¥24.49",
+        "toPrice": "$3.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "281706120",
+          "name": "小妲己手作",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2906825",
+        "mallType": "TB",
+        "itemId": "771154072758",
+        "title": "Labubu Doll Face Mask 17cm Baby Space Mask Labubu Cloth Dust Mask Transparent Acrylic Hemisphere",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkfurbe_pmbp.jpg",
+        "price": "¥14.38",
+        "toPrice": "$2.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66344967",
+          "name": "东莞市美华工艺制品厂直销店8",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902573",
+        "mallType": "TB",
+        "itemId": "939787225438",
+        "title": "Quan Zhilong concert style suit set suitable for Labubu dolls of first, second, and third generations",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk62iko_6x6l.jpg",
+        "price": "¥34.86",
+        "toPrice": "$5.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36835850",
+          "name": "公仔的新衣NewCloth",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2764379",
+        "mallType": "TB",
+        "itemId": "604888080700",
+        "title": "Heng Toys Semi-Plastic Jointed 1/12 Female Body and 1/6 Semi-Plastic Female Body in 2 Different Scales Are in Stock",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhd370d3_jvu3.jpg",
+        "price": "¥40.86",
+        "toPrice": "$6.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "126841950",
+          "name": "兵人总动员",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2404293",
+        "mallType": "TB",
+        "itemId": "572745995431",
+        "title": "Piccodo, in stock, genuine body9, solid body, p9, movable doll, 12 points BJD, doll body, doll",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkevomk_yxlz.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36814089",
+          "name": "Piccodo Doll自营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2320345",
+        "mallType": "TB",
+        "itemId": "771536731336",
+        "title": "[Cloud Eye] Cloud Dream Collection BJD Eye Beads Real Wind Dark Pupil Two Pair Free Shipping Time: 15 Days Left",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf7mhj2v_co92.jpg",
+        "price": "¥46.00",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "294622241",
+          "name": "宵宵的娃屋",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2252283",
+        "mallType": "TB",
+        "itemId": "810532440417",
+        "title": "POPMART Bubble Mart LABUBU MOKOKO Sweetheart Series Vinyl Plush Doll Decoration Blind Box",
+        "picUrl": "https://cdn.findqc.com/item/20250829/mevr61iy_z87x.jpg",
+        "price": "¥298.00",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "357203761",
+          "name": "MMV TOY",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1914275",
+        "mallType": "TB",
+        "itemId": "879545549733",
+        "title": "Wet body original subculture Gothic wasteland style long sleeved loose washed vintage T-shirt unisex top",
+        "picUrl": "https://cdn.findqc.com/item/20250731/mdqgbri5_iirg.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36796940",
+          "name": "湿体WETBODY",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1833280",
+        "mallType": "TB",
+        "itemId": "896341761673",
+        "title": "First and second generation canvas clothes, vinyl dolls, blind boxes, small fragrant style skirts, sitting party dresses, accessories",
+        "picUrl": "https://cdn.findqc.com/item/20250724/mdgl9p9q_m6qd.jpg",
+        "price": "¥25.99",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "539144855",
+          "name": "可爱娃衣屋",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1798324",
+        "mallType": "TB",
+        "itemId": "903360359330",
+        "title": "1020cm Baby Clothes Moving Object Cloak Starfish Head Cover Cute Cake Cotton Small Cloak Doll Dress Up",
+        "picUrl": "https://cdn.findqc.com/item/20250721/mdcr69of_62kn.jpg",
+        "price": "¥16.60",
+        "toPrice": "$2.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "311355539",
+          "name": "多力鱼小卖部",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1677327",
+        "mallType": "WD",
+        "itemId": "7274747227",
+        "title": "R47045",
+        "picUrl": "https://cdn.findqc.com/item/20250708/mcuh9xnc_747d.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758289665",
+          "name": "ROCKET1",
+          "logo": "https://si.geilicdn.com/weidian901842075230-78c1000001913c5a71590a20e7c7_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1437403",
+        "mallType": "TB",
+        "itemId": "595544122522",
+        "title": "Bjd Pupil Mold Resin Eye Drops Mold New Multi Arc Cubeco Original",
+        "picUrl": "https://cdn.findqc.com/item/20250602/mbebils7_1rfo.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "118335752",
+          "name": "Cubeco人形小物配件馆",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1429423",
+        "mallType": "TB",
+        "itemId": "915540517540",
+        "title": "Lolitaroji gentle countryside ballet stockings children spring bow mid tube socks Lolita cotton socks sweet",
+        "picUrl": "https://cdn.findqc.com/item/20250531/mbbbhqth_t1k3.jpg",
+        "price": "¥17.80",
+        "toPrice": "$2.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "151098133",
+          "name": "roji roji",
+          "type": "TB"
+        },
+        "categoryId": 34,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1380411",
+        "mallType": "TB",
+        "itemId": "861381664972",
+        "title": "POPMART Bubble Mart Hirono 8th Generation x CLOT Blind Box Ono Handmade Fashion Toy Gift Ornament",
+        "picUrl": "https://cdn.findqc.com/item/20250522/may8cgxm_e6yb.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "204269481",
+          "name": "POP泡泡盲盒",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1182290",
+        "mallType": "TB",
+        "itemId": "603655259767",
+        "title": "ICY DBS baby doll with regular skin, white skin, daily burning, black skin, no makeup, bald head, and body. Suitable for wearing wigs to change the baby's appearance",
+        "picUrl": "https://cdn.findqc.com/item/20250415/m9ig2ow9_lsp6.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71335014",
+          "name": "ICY DBS小布娃娃",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147287411911103130",
+  "language": "en"
+}

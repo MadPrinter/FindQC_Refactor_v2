@@ -1,0 +1,104 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3058",
+        "mallType": "WD",
+        "itemId": "6673845032",
+        "title": "Sporty 3B black and red streamline damaged washed hat with missing corners baseball cap",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m36pj4_d7r7.jpg",
+        "price": "¥124.00",
+        "toPrice": "$19.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858885532",
+          "name": "2December的小屋",
+          "logo": "https://si.geilicdn.com/wdseller1543338394-5bb800000185725383710a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3007",
+        "mallType": "TB",
+        "itemId": "742090144280",
+        "title": "Vujade007 New Black Wool Lapel Jacket, Popular Autumn and Winter New Warm Shirt Kenijima",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m360y7_ic61.jpg",
+        "price": "¥363.95",
+        "toPrice": "$57.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "122132134",
+          "name": "B197 SHOP",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2966",
+        "mallType": "TB",
+        "itemId": "682219696736",
+        "title": "American Style Represent Sweatshirt, Vintage Washed and Distressed Doberman Vintage Pure Cotton Shark Loose Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3n8sqvt_8nwb.jpg",
+        "price": "¥161.52",
+        "toPrice": "$25.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "151712799",
+          "name": "LKN STUDIOS",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 196,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2945",
+        "mallType": "WD",
+        "itemId": "6715310831",
+        "title": "【 Carti Same Style 】 7KeySS23 Half Gloss Cowhide Hooded Street Bomber Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m34ehc_okc1.jpg",
+        "price": "¥2,780.00",
+        "toPrice": "$437.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "596361215",
+          "name": "7Keys",
+          "logo": "https://si.geilicdn.com/wdseller596361215-79d60000018b1d269de50a23132e_1170_1167.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2883",
+        "mallType": "TB",
+        "itemId": "702363600529",
+        "title": "Mrlee Independent Style Must-Have Item Vtm18Aw Racing Suit Double-Sided Reflective Embroidered Patchwork Bomber",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m33aqi_ytxf.jpg",
+        "price": "¥1,458.47",
+        "toPrice": "$229.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "577995630",
+          "name": "MR LEE STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147595221924859154",
+  "language": "en"
+}

@@ -1,0 +1,397 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1897939",
+        "mallType": "T1688",
+        "itemId": "720315372480",
+        "title": "For Xbox Series X/S Wireless Grip Xss Xss Gamepad Neutral 2.4G Grip PC",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QQbZWY1cra42rHyUJ_!!2215870473654-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215870473654",
+          "name": "深圳市运之生电子有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897943",
+        "mallType": "T1688",
+        "itemId": "720932208877",
+        "title": "多功能款共享街机游戏手柄共享主机有线手柄xbox 360有线游戏手柄",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/5422476856_1133207265.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2990104056",
+          "name": "深圳市泽瑞科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2347695",
+        "mallType": "TB",
+        "itemId": "758098720114",
+        "title": "Fishing Prohibit Xbox Series X Game Controller Protective Cover Silicone Cover Cute Anti-Slip Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20250909/mfc6ld8s_m0ns.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "447539692",
+          "name": "摸鱼禁止",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1522555",
+        "mallType": "T1688",
+        "itemId": "712124672282",
+        "title": "Hot selling for PC xboxoneseries wireless vibration controller xboxseries Bluetooth controller yellow",
+        "picUrl": "https://cdn.findqc.com/item/20250618/mc0zcr5g_biew.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "categoryId": 19,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1081316",
+        "mallType": "T1688",
+        "itemId": "566974236688",
+        "title": "Suitable for WII game console mushroom head handle cap WII left handle joystick cap NGC chicken leg handle dedicated joystick cap",
+        "picUrl": "https://cdn.findqc.com/item/20250331/m8wkwr27_i0v6.jpg",
+        "price": "¥0.90",
+        "toPrice": "$0.14",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "95287",
+        "mallType": "TB",
+        "itemId": "569842605631",
+        "title": "Xbox Series controller joystick cap FPS competitive height increasing anti slip universal Xbox One S/X silicone cap",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnm89d_c6la.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104770594",
+          "name": "魔都严选",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 93,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "45031",
+        "mallType": "TB",
+        "itemId": "731086135665",
+        "title": "Xbox Series Starfield X/S Controller Accessories Xsx Xss Starfield Limited Edition Shell",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3meh4lr_vinr.jpg",
+        "price": "¥10.31",
+        "toPrice": "$1.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "233401576",
+          "name": "广东瑞博智能科技有限公司",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7447",
+        "mallType": "T1688",
+        "itemId": "708132541983",
+        "title": "New G60S PRO dual-mode Bluetooth 2.4G wireless voice flying mouse keyboard touchpad mouse backlit remote control",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9s6dc_vva0.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "categoryId": 19,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021149217581930820187",
+  "language": "en"
+}

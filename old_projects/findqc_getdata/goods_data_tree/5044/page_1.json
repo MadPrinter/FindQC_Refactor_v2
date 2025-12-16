@@ -1,0 +1,648 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2336222",
+        "mallType": "WD",
+        "itemId": "7485816063",
+        "title": "Fall and winter casual fashion hooded sweater sweatpants down jacket-001",
+        "picUrl": "https://si.geilicdn.com/open1842365021-1234478995-3fe8000001973a41217d0aa08290-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1842365021",
+          "name": "LumiFit",
+          "logo": "https://si.geilicdn.com/shopedit1952633067-2c5e00000196ceda1bca0a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2681783",
+        "mallType": "WD",
+        "itemId": "7569716308",
+        "title": "Fall and winter casual fashion hooded sweater sweatpants down jacket",
+        "picUrl": "https://si.geilicdn.com/open1801848893-1234478995-1b5c00000198741450b10a8115c2-unadjust_800_800.gif",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1826036269",
+          "name": "CN Shop",
+          "logo": "https://si.geilicdn.com/weidian1933178602-2d16000001974b94cda80a2395a3_990_990.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3134136",
+        "mallType": "WD",
+        "itemId": "7575632578",
+        "title": "Autumn and winter casual fashion hooded sweatshirt, sweatpants, down jacket -001 ath\n",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-4e0f00000197d55c81f60a22d249-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830128381",
+          "name": "SourceDock",
+          "logo": "https://si.geilicdn.com/pcdecorate1968389199-126a00000197eeb5cd720a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1441656",
+        "mallType": "WD",
+        "itemId": "7456242745",
+        "title": "Fall and winter casual fashion hooded sweater sweatpants down jacket-001",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-16fb0000019363860b6f0a23111a-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848876445",
+          "name": "TrendyU",
+          "logo": "https://si.geilicdn.com/wdseller1951015104-648400000196729261ae0a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2609546",
+        "mallType": "WD",
+        "itemId": "7521663013",
+        "title": "Fall and winter casual fashion hooded sweater sweatpants down jacket-001",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-4e0f00000197d55c81f60a22d249-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1632381885",
+          "name": "DripCore",
+          "logo": "https://si.geilicdn.com/pcdecorate1902144425-4f8600000197683de6cf0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1848525",
+        "mallType": "WD",
+        "itemId": "7503970358",
+        "title": "Autumn and winter casual fashion hooded sweatshirt, sweatpants, down jacket -001",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-4e0f00000197d55c81f60a22d249-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2555214",
+        "mallType": "WD",
+        "itemId": "7498483541",
+        "title": "Autumn and winter casual fashion hooded sweater sweatpants down jacket-001-CN",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-16fb0000019363860b6f0a23111a-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785130653",
+          "name": "SOFUN-FASHION",
+          "logo": "https://si.geilicdn.com/shopedit1950350917-59f2000001966ba9360e0a2102c5-unadjust_741_741.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2733169",
+        "mallType": "WD",
+        "itemId": "7518912127",
+        "title": "Autumn and winter casual fashion hooded sweater sweatpants down jacket YHH01--C60N",
+        "picUrl": "https://si.geilicdn.com/open1813519773-1234478995-332200000198696457b60aa043f9-unadjust_800_800.gif",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1813519773",
+          "name": "Flying Pig Fashion",
+          "logo": "https://si.geilicdn.com/pccreshp1951011963-5609000001966c5d6efb0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1976274",
+        "mallType": "WD",
+        "itemId": "7455641842",
+        "title": "Autumn and winter casual fashion hooded sweater sweatpants down jacket YHH01",
+        "picUrl": "https://si.geilicdn.com/open1796353693-1234478995-309e000001966c6aef200aa08290-unadjust_800_800.gif",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1796353693",
+          "name": "SLPBUY",
+          "logo": "https://si.geilicdn.com/shopedit1950344346-4c9e000001966ade43bc0a23111a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1558729",
+        "mallType": "WD",
+        "itemId": "7470704890",
+        "title": "Fall and winter casual fashion hooded sweater sweatpants down jacket-001-ice",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-16fb0000019363860b6f0a23111a-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785130653",
+          "name": "SOFUN-FASHION",
+          "logo": "https://si.geilicdn.com/shopedit1950350917-59f2000001966ba9360e0a2102c5-unadjust_741_741.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1729161",
+        "mallType": "WD",
+        "itemId": "7481933494",
+        "title": "Autumn and winter casual fashion hooded sweatshirt, sweatpants, down jacket -001 coco",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-16fb0000019363860b6f0a23111a-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785130653",
+          "name": "SOFUN-FASHION",
+          "logo": "https://si.geilicdn.com/shopedit1950350917-59f2000001966ba9360e0a2102c5-unadjust_741_741.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1813278",
+        "mallType": "WD",
+        "itemId": "7454087575",
+        "title": "Sneakers (No.961-No. 980) orders customized within 7-10 days, non refundable  made-to-order, no exchange and return",
+        "picUrl": "https://si.geilicdn.com/wdseller927881720-6f6e0000019670b6d8d80a2395a3_1009_1009.jpg",
+        "price": "¥750.00",
+        "toPrice": "$117.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "927881720",
+          "name": "Neon-RG",
+          "logo": "https://si.geilicdn.com/wdseller927881720-65910000018e9ebbca370a210349_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "784293",
+        "mallType": "WD",
+        "itemId": "7327185495",
+        "title": "Autumn and winter casual fashion hooded sweatshirt, sweatpants, down jacket YHH01",
+        "picUrl": "https://si.geilicdn.com/open1874129237-1234478995-6a3100000193e2bdad900a232357-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1874129237",
+          "name": "Snap Wolf",
+          "logo": "https://si.geilicdn.com/shopedit1900462010-02a500000193ddde888a0a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 140,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2042335",
+        "mallType": "WD",
+        "itemId": "7523464692",
+        "title": "CN autumn and winter lazy wearing artifact hooded sports hoodie, sweatpants, down jacket",
+        "picUrl": "https://si.geilicdn.com/open1822330477-1234478995-3a0800000198881e07be0a8133b0-unadjust_800_800.gif",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1822330477",
+          "name": "XISTYLE",
+          "logo": "https://si.geilicdn.com/wdseller1940244487-6f310000019610edac380a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2200992",
+        "mallType": "WD",
+        "itemId": "7501205000",
+        "title": "Autumn and winter casual fashion hooded sweatshirt, sweatpants, down jacket -001-ACZB",
+        "picUrl": "https://si.geilicdn.com/open1658831453-1234478995-504300000197316dd0090a8115c2-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1658831453",
+          "name": "DripMill",
+          "logo": "https://si.geilicdn.com/shopedit1952637023-22f100000196ca6a80f80a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1305369",
+        "mallType": "WD",
+        "itemId": "7399218490",
+        "title": "Fall and winter casual fashion hooded sweater sweatpants down jacket YHH01-bull",
+        "picUrl": "https://si.geilicdn.com/open1812353429-1234478995-27ec0000019523c8e50f0aa0834c-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812353429",
+          "name": "Shoe Bandit",
+          "logo": "https://si.geilicdn.com/shopedit1897036566-78d5000001929e17095f0a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2391311",
+        "mallType": "WD",
+        "itemId": "7514583804",
+        "title": "Autumn and winter casual fashion hooded sweatshirt, sweatpants, down jacket -001",
+        "picUrl": "https://cdn.findqc.com/item/20251016/mgsype0g_uw1x.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1851689603",
+          "name": "Hype Buy",
+          "logo": "https://si.geilicdn.com/pcdecorate1974534978-46b7000001983715f0490a23041a-unadjust_512_512.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "898292",
+        "mallType": "WD",
+        "itemId": "7302254349",
+        "title": "Fashionable and versatile round neck hoodie collection YHH26",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-47e100000193aac5fef40a23057e-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672216213",
+          "name": "Crazy Koala",
+          "logo": "https://si.geilicdn.com/shopedit1897196691-072e000001928fa9890e0a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "898306",
+        "mallType": "WD",
+        "itemId": "7393462235",
+        "title": "Fall and winter casual fashion hooded sweater sweatpants down jacket YHH01-MBWZ-SY",
+        "picUrl": "https://si.geilicdn.com/open1637372245-1234478995-1fd100000194fa16f2bb0a239383-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637372245",
+          "name": "Crazy Koala6",
+          "logo": "https://si.geilicdn.com/shopedit1900477981-61c100000192e1c1bbdb0a2102c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 174,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2454455",
+        "mallType": "WD",
+        "itemId": "7546784067",
+        "title": "Autumn and winter casual fashion hooded sweatshirt, sweatpants, down jacket -001",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-4e0f00000197d55c81f60a22d249-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 54,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021148055341924854199",
+  "language": "en"
+}

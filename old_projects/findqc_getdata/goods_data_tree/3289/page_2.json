@@ -1,0 +1,48 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "21299",
+        "mallType": "TB",
+        "itemId": "713775146072",
+        "title": "Bbm Magic Mirror Powder Is More Advanced Than Cp Sealing Layer, with a Phantom-Like, High-End Pearlescent Effect, Fairy-Like Shell-Like Mirror Surface, Magic Mirror Pearl Shell",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfy9mt_yuv1.jpg",
+        "price": "¥30.05",
+        "toPrice": "$4.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "174458699",
+          "name": "GULAURI古莱丽旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "17638",
+        "mallType": "TB",
+        "itemId": "717589255954",
+        "title": "Gulaili Flagship Store New Product Small Gold Bar All-Purpose Blending Liquid Gel Blush Quick Gradient Nail Polish Transparent Nail Polish",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3neti3k_no84.jpg",
+        "price": "¥17.38",
+        "toPrice": "$2.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "174458699",
+          "name": "GULAURI古莱丽旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140509371911152398",
+  "language": "en"
+}

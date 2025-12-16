@@ -1,0 +1,82 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "55934",
+        "mallType": "TB",
+        "itemId": "717595722088",
+        "title": "Spain M Department Men's wool cashmere blend colorblocking half-zipper long-sleeved sweater T780",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npf899_987j.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "46332",
+        "mallType": "TB",
+        "itemId": "694135631184",
+        "title": "Light mature wind fall and winter new lapel zipper tweed jacket men's short loose casual trend men's jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mf2v46_s3q3.jpg",
+        "price": "¥79.90",
+        "toPrice": "$12.56",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36809",
+        "mallType": "TB",
+        "itemId": "42805863782",
+        "title": "Men's cashmere wool coat, autumn and winter clothing, British style short style, trendy lapel, double row buttoned woolen suit jacket, jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nl226j_jz72.jpg",
+        "price": "¥699.00",
+        "toPrice": "$109.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57255947",
+          "name": "NOTITLE 设计师明星定制店",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "33921",
+        "mallType": "TB",
+        "itemId": "688121619752",
+        "title": "NANS] Wool Blend Silhouette Tweed Jacket with Special Mixed Color Water Wave Curl Texture Design",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk7do6_kw0u.jpg",
+        "price": "¥799.00",
+        "toPrice": "$125.64",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "13132",
+        "mallType": "TB",
+        "itemId": "757373436902",
+        "title": "Our Legacy Black Wool Blend Double Breasted Button-down Collar Men's and Women's Mohair Solid Color Long Coat Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcg0cy_4sfw.jpg",
+        "price": "¥738.00",
+        "toPrice": "$116.05",
+        "status": "normal",
+        "categoryId": 32,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148599062553926621",
+  "language": "en"
+}

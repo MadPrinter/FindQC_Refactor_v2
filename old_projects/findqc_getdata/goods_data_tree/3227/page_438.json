@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "434306",
+        "mallType": "T1688",
+        "itemId": "779842276274",
+        "title": "Cross-border European and American Fashion Brand GALLERY DEPT Letter Slogan Pattern Printed Short-sleeved T-shirt High Street Half-sleeved T-shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250103/m5gxqt3r_lt8r.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBM7dd3nJ_OBquuRq02OeK_w",
+          "name": "广州市玩道服饰贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1600947",
+        "mallType": "WD",
+        "itemId": "7267704970",
+        "title": "BACK Original Paris Believe City Night View Short sleeved T-shirt Tee",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxct7x1_9hq4.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1713420088",
+          "name": "BACK STUDIO",
+          "logo": "https://si.geilicdn.com/wdseller1479876283-3caa00000191d9b493c70a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2027495",
+        "mallType": "WD",
+        "itemId": "7512667151",
+        "title": "HFsMade independent ch scroll short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfx7iytu_4qxj.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791683814",
+          "name": "HFsMade",
+          "logo": "https://si.geilicdn.com/weidian1675979477-2704000001824fb73c180a22d30f_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2491752",
+        "mallType": "WD",
+        "itemId": "7539699120",
+        "title": "Produced by Gm/Classic Triangle Brand Tank Top",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfx25gqw_m5eu.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2243496",
+        "mallType": "TB",
+        "itemId": "914615491495",
+        "title": "Feellikechiefkeef2015 Slogan Printed 230g Heavy Cotton Short-Sleeved Vintage T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfwt9rqc_cuv8.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "448824090",
+          "name": "YIMENGLIN线上商店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2490671",
+        "mallType": "TB",
+        "itemId": "870658192170",
+        "title": "Saint Vintage American High Street Loose VTG Short sleeved T-shirt Men's Printed TEE Alphabet Portrait T-shirt Street",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfwsedbf_us8h.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103318446",
+          "name": "FFCP Studios",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2084607",
+        "mallType": "T1688",
+        "itemId": "897624396630",
+        "title": "Cross-Border Corteiz Alcatraz Short-Sleeved American Street High Street European and American Style Hip-Hop Men's and Women's Casual T-Shirt Half-Sleeved Trend",
+        "picUrl": "https://cdn.findqc.com/item/20250909/mfbik1z8_ehic.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBn8LmhS6DdBHcu2Ba_UZGhQ",
+          "name": "佛山市南海区占有量服饰贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 102,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "467157",
+        "mallType": "WD",
+        "itemId": "7242475124",
+        "title": "2024 Fashion Men's City Edition Top T Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfwo0poh_dc13.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "312768324",
+          "name": "花椒C姐🍀",
+          "logo": "https://si.geilicdn.com/wdseller312768324-41fa0000018a0f12b4740a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1807537",
+        "mallType": "TB",
+        "itemId": "842275893683",
+        "title": "Fashionable and trendy English signature printed cotton round neck short sleeved TEE T-shirt hooded sweatshirt for couples",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfwhc9hq_02rj.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "293339032",
+          "name": "TYX WORLDWIDE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1014303",
+        "mallType": "T1688",
+        "itemId": "786139875666",
+        "title": "Brand Logo Ice Silk Speed Drying Sports Elastic Short Sleeve T-shirt for Men in Summer, Loose, Breathable, Fitness, Want to Relax Half Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfwg1xsg_k20j.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1uPFCM08y-2dtKvFU7belA",
+          "name": "中山启鹏服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2360309",
+        "mallType": "WD",
+        "itemId": "7519457102",
+        "title": "AC washed vintage print 1996 short sleeved hoodie hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250918/mfp25vwq_9j0l.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "411716067",
+          "name": "Top outfit",
+          "logo": "https://si.geilicdn.com/shopedit411716067-19ac0000019971e8cc690a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1147280",
+        "mallType": "T1688",
+        "itemId": "782323635033",
+        "title": "24ss Summer Beautiful Fashion T-shirt Vintage High Street fog Loose Printed Cotton Short-sleeved T-shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250918/mfp6g9pr_zu4b.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoHYZ1sOqvaOlDk5pw4Espw",
+          "name": "广州潮玛贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2359855",
+        "mallType": "TB",
+        "itemId": "974858373552",
+        "title": "Character Print Short Sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfwawoa5_mcv4.jpg",
+        "price": "¥140.11",
+        "toPrice": "$22.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "181307",
+        "mallType": "TB",
+        "itemId": "836729220696",
+        "title": "Subway Hooligan B383 Printed Short Sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqrgub_4iiw.jpg",
+        "price": "¥122.70",
+        "toPrice": "$19.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1582619",
+        "mallType": "WD",
+        "itemId": "7478352461",
+        "title": "【 DX38-1 】 Sports bodysuit, short sleeved quick drying running training suit, blue ball football vest, fitness high elasticity T-shirt, base coat",
+        "picUrl": "https://cdn.findqc.com/item/20250908/mfawft9d_9q8z.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667032845",
+          "name": "超级牛",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424514-4cfb00000195e79975270a81347d-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "436969",
+        "mallType": "TB",
+        "itemId": "740280330259",
+        "title": "Subway hooligan Figure Print Short-sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfw96whh_zcy5.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 47,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2412634",
+        "mallType": "TB",
+        "itemId": "963586166273",
+        "title": "25-26 a Sen Na Erke Jersey Football Uniform",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfw96wgy_4f3z.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "379790794",
+          "name": "广州运动体育",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2422449",
+        "mallType": "T1688",
+        "itemId": "763219994035",
+        "title": "ARTIE men's clothing | 2024 Summer 275g batik distressed wormhole edging retro T-shirt men's European and American fashion brand short sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfw96xrg_k47m.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1150329",
+        "mallType": "TB",
+        "itemId": "907188517296",
+        "title": "Mm Spider Jersey Personalized Custom Discount Price",
+        "picUrl": "https://cdn.findqc.com/item/20250614/mbvhzhjm_b912.jpg",
+        "price": "¥100.44",
+        "toPrice": "$15.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "468921244",
+          "name": "生活充满愉快",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2211",
+        "mallType": "TB",
+        "itemId": "798219996153",
+        "title": "Lmyer Number Nine 01Ss Archive Skull Necklace Distressed Washed Short-Sleeved Loose T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2tc4h_ztnc.jpg",
+        "price": "¥90.39",
+        "toPrice": "$14.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "355030600",
+          "name": "LMYER",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 119,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114631230249874934",
+  "language": "en"
+}

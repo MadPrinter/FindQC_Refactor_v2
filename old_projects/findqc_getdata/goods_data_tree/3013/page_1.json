@@ -1,0 +1,607 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3195329",
+        "mallType": "T1688",
+        "itemId": "899485067524",
+        "title": "American Style Trendy Brand YOUNGLA New Men's Cotton Oversized T-Shirt Trendy Jogger Gym Sports Casual Short Sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YEmBsU1OFCS31hw3R_!!2215562741675-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBl1blWvjZLjj31rPAaXwpWw",
+          "name": "铅山县铭新服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3137506",
+        "mallType": "TB",
+        "itemId": "983802932883",
+        "title": "Cleanfit Black Short Fencing Jacket Men's Autum Asymmetrical Design Multi-Form American Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3559469549/O1CN01xWbWSy2KPV7vCfHrB_!!4611686018427384301-0-item_pic.jpg",
+        "price": "¥154.42",
+        "toPrice": "$24.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "412070929",
+          "name": "柳步旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2682147",
+        "mallType": "TB",
+        "itemId": "760796135882",
+        "title": "Justice League Batman cos Bruce Wayne cosplay Bodice Clothes Performance Suit",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2210575838057/O1CN01NCt26229OA16nNnWo_!!2210575838057.jpg",
+        "price": "¥245.10",
+        "toPrice": "$38.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "240982982",
+          "name": "漫天鑫",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1796506",
+        "mallType": "TB",
+        "itemId": "905064180439",
+        "title": "Undercover 06Ss Swirl Dissolution Archive Single Shoulder Crossbody Distressed Envelope Zipper Hobo Bag",
+        "picUrl": "https://cdn.findqc.com/item/20250905/mf70dbnw_a6ln.jpg",
+        "price": "¥304.97",
+        "toPrice": "$47.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "336502708",
+          "name": "Sleepboy",
+          "type": "TB"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2228343",
+        "mallType": "T1688",
+        "itemId": "844515661657",
+        "title": "Needles tracksuits Butterfly Velvet Cardigan Retro Ribbed Zipper Jacket Pants Sport Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VcLDRq2DYvsZ0oaux_!!2210892998622-0-cib.jpg",
+        "price": "¥250.00",
+        "toPrice": "$39.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzRWJjMVUfuMQAR834YLTwQ",
+          "name": "广州市白云区永平妮可服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "598486",
+        "mallType": "TB",
+        "itemId": "772368947069",
+        "title": "ins National Trend Design New Chinoiserie Stand Collar Buttoned Jacket for Men in Autum Loose and Versatile Suede Tang Suit Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/767275558/O1CN01SIGTKY1qvcMJgqwWh_!!767275558.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "69802292",
+          "name": "GOUP潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1996240",
+        "mallType": "TB",
+        "itemId": "860123407876",
+        "title": "*RYE CHASIN Shibuya Shibuya Shibuya Tohya Gokudo Heavy Dragon Embroidery Two-Sided Denim Jeans in Primary Colors",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1955315533/O1CN01Mo1fRa1qkARw6HPyW_!!1955315533.jpg",
+        "price": "¥428.00",
+        "toPrice": "$67.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "152101162",
+          "name": "原野追逐RYE CHASIN",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2145621",
+        "mallType": "T1688",
+        "itemId": "672895857421",
+        "title": "2025 New Muslim Middle East Arabia Dubai Malaysia Men's Loose Robe Button Down Shirt Men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eHWZ1X1zyCx0jOkEW_!!2208515246782-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208515246782",
+          "name": "深圳市南山区宇欣服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1974339",
+        "mallType": "T1688",
+        "itemId": "777299588485",
+        "title": "Cross-border wholesale AMIRI 2024 summer ice silk fashion casual beach men's cardigan short sleeve shirt suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01iRhDy31cHrGvFmJj4_!!2215654103576-0-cib.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215654103576",
+          "name": "中山市弘迪服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1436275",
+        "mallType": "T1688",
+        "itemId": "857102770752",
+        "title": "2025 New Middle East Solid Color Muslim Medium Sleeve Embroidered Ethnic Style Moroccan Men's Robe Positive Size",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000002547/O1CN013nLZR31UgZpb1ZhLn_!!6000000002547-0-tbvideo.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2091328",
+        "mallType": "TB",
+        "itemId": "759393043531",
+        "title": "Corteiz hoodie set embroidered small label European and American star style UKDRIPDRILL street plush insulation",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2216882395939/O1CN01mLJaHI1tk799k8vGy_!!2216882395939.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "353881675",
+          "name": "星马豪的冲锋号Tang",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 61,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1862834",
+        "mallType": "WD",
+        "itemId": "7448447379",
+        "title": "customizable",
+        "picUrl": "https://si.geilicdn.com/open1873588517-252808396-6aea00000196467f95190aa08290_1200_1200.jpg",
+        "price": "¥300.00",
+        "toPrice": "$47.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873588517",
+          "name": "Alon",
+          "logo": "https://si.geilicdn.com/shopedit1881520285-61720000019a63e6e5870a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1658520",
+        "mallType": "T1688",
+        "itemId": "861222325227",
+        "title": "Cross Border Polyester Men's Robe Qatar Standing Collar Robe Pocket Design Arab Middle East Dubai Tour Costume",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hz2mOi1fl7V1yfbYq_!!962314046-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "962314046",
+          "name": "义乌市雅辛服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905570",
+        "mallType": "TB",
+        "itemId": "548096114189",
+        "title": "Autumn Chinese Style Modern Tang Suit for Men, Ancient Style Youth Improved Version Hanfu, Monk Clothing, Layperson Clothing, Zen Meditation Clothing, Tea Person Clothing",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9n2u2_51tz.jpg",
+        "price": "¥80.61",
+        "toPrice": "$12.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "278073948",
+          "name": "衣聚汇中国风男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896453",
+        "mallType": "TB",
+        "itemId": "694227717593",
+        "title": "British Green Porridge Classic Jun Style Parka Cotton Coat",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjw6vme_5r62.jpg",
+        "price": "¥410.04",
+        "toPrice": "$64.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34433394",
+          "name": "VV衣林小二",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1898030",
+        "mallType": "T1688",
+        "itemId": "803188019252",
+        "title": "2024新款小众设计新中式国风衬衫高级感痞帅长袖外套潮衬衣男生款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tLpctp24jA9BzeUle_!!2215931747426-0-cib.jpg",
+        "price": "¥44.00",
+        "toPrice": "$6.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215931747426",
+          "name": "揭阳市揭东区锡场镇易创电子商务工作室",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2123130",
+        "mallType": "T1688",
+        "itemId": "963611001421",
+        "title": "跨境电商 外贸  成人情侣割绒提花纯棉浴袍 高档浴袍长袖酒店",
+        "picUrl": "https://cdn.findqc.com/item/20250908/mfb95maw_opxa.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAPShnWm78E6vJ0aTGmFBYA",
+          "name": "广州金宝汇服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2181475",
+        "mallType": "T1688",
+        "itemId": "702692539014",
+        "title": "ARTIE men's high-grade breathable diamond pattern waffle shorts suit loose casual top wide leg shorts",
+        "picUrl": "https://cdn.findqc.com/item/20250825/meqrzfpn_veyu.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2175276",
+        "mallType": "WD",
+        "itemId": "7307660183",
+        "title": "Channel Bull Products LP Nuoyoupianya Official Website ♥ spot ♥ Cotton bullet woven long sleeved lapel logo embroidered men's thin coat with double pockets workwear style shirt, weight 230, casual style cardigan, button engraved 25 year new G2421055955",
+        "picUrl": "https://cdn.findqc.com/item/20250821/meljer9b_asak.jpg",
+        "price": "¥499.00",
+        "toPrice": "$78.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791660632",
+          "name": "梦想港湾 精品服饰",
+          "logo": "https://si.geilicdn.com/pcdecorate901645523796-1cc50000018011542f190a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140076421917913913",
+  "language": "en"
+}

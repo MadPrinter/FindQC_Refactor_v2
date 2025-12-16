@@ -1,0 +1,588 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2645483",
+        "mallType": "WD",
+        "itemId": "7549246016",
+        "title": "Pants, yoga camisoles, running sports, tight fitting suit, shawl bra, hip lifting shorts, long sleeved fitness pants, new DF *, no quality issues, no reason for return",
+        "picUrl": "https://si.geilicdn.com/open1769158365-252808396-12a000000199383cb3a90a22d249_731_731.jpg",
+        "price": "¥106.96",
+        "toPrice": "$16.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769158365",
+          "name": "GZ-made",
+          "logo": "https://si.geilicdn.com/shopedit1956155466-1f3a00000197c5d2cba00a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3134974",
+        "mallType": "T1688",
+        "itemId": "756729089661",
+        "title": "跨境连体塑身衣女收腹裤开档提臀塑形吊带束腹束身连体衣Shapewea",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yaJ48c2KRmtBAcVLs_!!2215148409554-0-cib.jpg",
+        "price": "¥9.80",
+        "toPrice": "$1.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216338490374",
+          "name": "汕头市潮阳区贵屿雅曦梦针织内衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2407047",
+        "mallType": "T1688",
+        "itemId": "819514025520",
+        "title": "Cross-border one-piece shapeships women's belly-breasted open-file hip-lifting shapeships suspenders underwear corset",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013a9Whn1ZZlww9xeIp_!!2861133209-0-cib.jpg",
+        "price": "¥9.50",
+        "toPrice": "$1.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBchjrD707Rwl1YV1HmcGyJQ",
+          "name": "汕头市潮阳区贵屿嘉鹏针织内衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2738781",
+        "mallType": "T1688",
+        "itemId": "909312844551",
+        "title": "2025 Amazon Europe and America Spring/Summer New Cross border Sports and Leisure Women's Sexy Tight Long Sleeve Speaker Two piece Set",
+        "picUrl": "https://cdn.findqc.com/item/20251020/mgyj55b9_61kd.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBCStpHO2q8yP-BOvqlK6I6Q",
+          "name": "东莞市衣佳依服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1914281",
+        "mallType": "T1688",
+        "itemId": "676626246738",
+        "title": "Amazon European and American one-piece corset sexy backless close fitting gathering underwear belly cinching wholesale waist cinching",
+        "picUrl": "https://cdn.findqc.com/item/20250731/mdqjnedw_yudn.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "966170912",
+          "name": "汕头市右形服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1609191",
+        "mallType": "T1688",
+        "itemId": "719060499916",
+        "title": "Cross border shaping bodysuits from Europe and America, Skims shapewear, gathering and lifting buttocks and belly cinching pants, women's oversized open cut flat corner pants",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcn7sfyn_p72d.jpg",
+        "price": "¥12.60",
+        "toPrice": "$1.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215362626902",
+          "name": "汕头市潮阳区贵屿妍越盛针织内衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1551311",
+        "mallType": "TB",
+        "itemId": "828839515032",
+        "title": "Skims cross-border European and American tight fitting one-piece shapewear with suspenders for effective shaping, waist cinching, abdomen cinching, exposed back, triangular jumpsuit",
+        "picUrl": "https://cdn.findqc.com/item/20250626/mcc9il2d_xw2c.jpg",
+        "price": "¥20.41",
+        "toPrice": "$3.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "224204520",
+          "name": "海华工厂",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1222242",
+        "mallType": "T1688",
+        "itemId": "784693557564",
+        "title": "GU66X Series G-letter Embroidered Perspective Underwear Set for Women in Europe and America",
+        "picUrl": "https://cdn.findqc.com/item/20250521/may3umq1_xkmz.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "311307",
+        "mallType": "T1688",
+        "itemId": "683782513954",
+        "title": "Cross-border one-piece shapewear female tummy-tucking pants open to lift the buttocks shaping sling underwear elastic corset belly beautiful body corset",
+        "picUrl": "https://cdn.findqc.com/item/20241206/m4bx70at_nfyr.jpg",
+        "price": "¥11.00",
+        "toPrice": "$1.73",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "187273",
+        "mallType": "T1688",
+        "itemId": "603884283537",
+        "title": "Hot selling body shaping clothes with adjustable bra and adjustable chest support for postpartum tummy cinching and waist cinching",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mrp0xm_8ahb.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206526825442",
+          "name": "汕头市潮阳区谷饶娟芝梦服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "181721",
+        "mallType": "TB",
+        "itemId": "761132428468",
+        "title": "Fashion leather cloth splicing mesh complex craft sexy hollow strapping shapewear one-piece Z3567L",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqvg0d_fo1x.jpg",
+        "price": "¥59.99",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180015",
+        "mallType": "TB",
+        "itemId": "821941023915",
+        "title": "Latex Ammonia Mirror Standing Collar Zipper Sleeveless Jumpsuit Role Play Split Suit Stretchy Suspender Leather Stockings Gloves",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqf5by_bpwe.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "475182461",
+          "name": "炫舞依",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "141400",
+        "mallType": "T1688",
+        "itemId": "670070435617",
+        "title": "Foreign trade explosion models one-piece shapewear Europe and the United States and the United States big yards tight body suit side zipper buttock slimming clothes manufacturers",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpkyyl_30mq.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "120319",
+        "mallType": "T1688",
+        "itemId": "752026247688",
+        "title": "Halloween Spider Man costume, Asuka cosplay jumpsuit, Daji sexy uniform, Ayanami bodysuit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3moc76i_zsfx.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFcRg_6w5N2xEnIDFBkmA3w",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67374",
+        "mallType": "TB",
+        "itemId": "762940551037",
+        "title": "Australia's well-known corset underwear pressure belly one-piece sculpted shapewear wear-free bra bottoming tight jumpsuit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlx4xi_ugyy.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67309",
+        "mallType": "T1688",
+        "itemId": "798286442408",
+        "title": "TK6321 Cross border source of European and American new women's sexy cotton thread washed faded suspender jumpsuit shorts",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlwbar_h62j.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2205929484920",
+          "name": "泉州彤凯服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "51644",
+        "mallType": "T1688",
+        "itemId": "743510671568",
+        "title": "Europe and the United States speedway new shapewear love lace backless sexy erotic lingerie jumpsuit spot wholesale female",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mhfilq_6lr0.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "47829",
+        "mallType": "TB",
+        "itemId": "753600382032",
+        "title": "SP new cattle goods corset jumpsuit wear-free bra halter one-piece plastic underwear female large breasts show small tummy tuck underwear",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mg419y_vwt8.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "44334",
+        "mallType": "T1688",
+        "itemId": "644180770968",
+        "title": "Amazons One-piece Corset Tummy Tucking Hip Lifting Tights Body Underwear Shapewear One-piece Zipper Bodysuit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3me8iqc_b63e.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32276",
+        "mallType": "TB",
+        "itemId": "685137441453",
+        "title": "Women's new lace embroidered letters jumpsuit triangle cup without breast pads without steel support hollow see-through sexy underwear",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njstat_prhv.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156088115",
+          "name": "女装精品服饰007",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146171862553886808",
+  "language": "en"
+}

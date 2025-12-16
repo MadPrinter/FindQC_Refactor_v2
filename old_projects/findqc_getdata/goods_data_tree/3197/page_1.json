@@ -1,0 +1,631 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3212628",
+        "mallType": "WD",
+        "itemId": "7550557009",
+        "title": "New Autumn and Winter Women's Lapel Long-Sleeved Double-Breasted Lambswool Fleece Long Outwear 1255700",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-3edf00000198e22197d40aa043f9_800_800.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854689181",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1040506",
+        "mallType": "T1688",
+        "itemId": "839696344705",
+        "title": "2025 Autumn and Winter New Style Spray Horse Wash, Distressed, Frayed and Ripped Velvet Sweatshirt and Sweatpants Set Cross-Border Supply",
+        "picUrl": "https://cdn.findqc.com/item/20250708/mcu9dxg7_59b1.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 132,
+        "qcVideoCnt": 8
+      },
+      {
+        "id": "3203133",
+        "mallType": "WD",
+        "itemId": "7575571384",
+        "title": "2024秋季新款跨境eBay亚马逊WISH欧美运动休闲套装女DH9837",
+        "picUrl": "https://si.geilicdn.com/open1780109907-1780109907-51b300000199ee68dc0e0a231226_799_1066.jpg",
+        "price": "¥66.00",
+        "toPrice": "$10.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780109907",
+          "name": "LunaTrade",
+          "logo": "https://si.geilicdn.com/shopedit1999873750-6f7d00000199e6dc040f0a8134f0-unadjust_800_600.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 79,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3165098",
+        "mallType": "T1688",
+        "itemId": "868680890292",
+        "title": "Pure desire spicy girl high neck versatile long sleeved dress for women's autumn and winter new collection waist cinching fluffy skirt slimming bottom skirt short skirt\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011ODTNG2KOaGRPDsiO_!!2215694459547-0-cib.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLA3cx17fmXroNBBwRUGX7Q",
+          "name": "广州娇婷蕾服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "3102473",
+        "mallType": "T1688",
+        "itemId": "836931625158",
+        "title": "Cross-Border Hot-Selling Cotton Pajamas, Round Neck, Short-Sleeved Ruffled Shorts, European and American Sexy Casual Wearable Home Clothes for Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017Gqd2m1NoB1EdjVlq_!!2217279741616-0-cib.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwyvzEJjtVNPjuxWE3aptBQ",
+          "name": "普宁市池尾洛斯服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3111327",
+        "mallType": "T1688",
+        "itemId": "701144835891",
+        "title": "Skirt Gentle Style Lapel Puff Sleeve Mid-length Shirt Skirt Women's Lace-up Slimming Hollow Design French Dress",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010F0vyx1Zi0ugcyPma_!!2213263983227-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBD2xKTORVjneByV0jP7VRjg",
+          "name": "广州蒲桃服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3111342",
+        "mallType": "T1688",
+        "itemId": "935809390943",
+        "title": "Celebrity Tweed Style Lapel Short-Sleeved Dress Women's New Metal Buckle Waist Slimming Look Fishtail Cut Out Knitted Long Skirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01EEmIpJ1Zi1AQSOB30_!!2213263983227-0-cib.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBD2xKTORVjneByV0jP7VRjg",
+          "name": "广州蒲桃服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3189273",
+        "mallType": "TB",
+        "itemId": "938770199865",
+        "title": "Korean Style Hello Kitty Eco-Friendly Portable Shopping Bag with Cartoon Print, Large Capacity Tote Shoulder Bag",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2201547488158/O1CN01dMAOuY2A8QAVoCKpV_!!2201547488158.jpg",
+        "price": "¥27.53",
+        "toPrice": "$4.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "546238119",
+          "name": "千与千千好物",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3065480",
+        "mallType": "TB",
+        "itemId": "970342824152",
+        "title": "Lazy Didi London Weekend Modern Coat with Waist-Cinching Large Skirt Hem Trench Coat Mid-Length Old Money Style Waist-Tightening Coat",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/4199942968/O1CN01P2dwKY1XnOboXrnR6_!!4199942968.jpg",
+        "price": "¥408.11",
+        "toPrice": "$64.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "247506636",
+          "name": "Lazy Didi",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2878647",
+        "mallType": "T1688",
+        "itemId": "774868559503",
+        "title": "INS hot sale in Europe and the United States cross-border women's knitted sleeveless undershirt package hip long skirt suit two temperament Amazon explosion",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gFiCSo1ccT5hyv6su_!!2216801523621-0-cib.jpg",
+        "price": "¥31.90",
+        "toPrice": "$5.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216801523621",
+          "name": "佛山市南海区睿维思服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2874673",
+        "mallType": "TB",
+        "itemId": "981236076129",
+        "title": "KittyBxllet Original [Thorn Rose/Long Sleeve] Leilei Lace Off Shoulder Short Sleeve Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2201720790577/O1CN015mKOAd1G8JcqiHT58_!!2201720790577.jpg",
+        "price": "¥68.97",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "318429002",
+          "name": "kittyBxllet",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2846286",
+        "mallType": "TB",
+        "itemId": "915572896583",
+        "title": "Small-Sized Women's Shawl to Wear with a Dress, High-End Square Scarf, Travel Shawl, Mid-Length, Luxurious Feel, Warm Neck Scarf, Trendy",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2210433769346/O1CN01Ba6Lxx2IuWgGudMl1_!!2210433769346.jpg",
+        "price": "¥72.53",
+        "toPrice": "$11.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "528918059",
+          "name": "紫丁风铃百货店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2845071",
+        "mallType": "T1688",
+        "itemId": "931561625301",
+        "title": "2025 Summer New Nordic Girls' Grape Embroidered Dress for Outward Fashion Trends, Little Girls' Skirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017q6BJj2FJwCb3SZTH_!!2218697818860-0-cib.jpg",
+        "price": "¥56.90",
+        "toPrice": "$8.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnKsQlJ1DIIGRh6MzpcB7og",
+          "name": "广州沐叁服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2806393",
+        "mallType": "T1688",
+        "itemId": "802769269760",
+        "title": "SOEUR French Niche Design Women's Bag Top Layer Cowhide Small Square Bag Advanced Texture Tofu Bag Shoulder Crossbody Bag",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01OVA1cj1QhiGJroONI_!!2215564792008-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRbBZ3074oUT-ix8mNup8tQ",
+          "name": "广州雯棠箱包厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3127992",
+        "mallType": "WD",
+        "itemId": "7578457982",
+        "title": "美纹纸印花T恤",
+        "picUrl": "https://si.geilicdn.com/pcitem1842086105-6e9600000199faa8b2400a20e284-unadjust_734_728.png",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840972441",
+          "name": "Thunder 01",
+          "logo": "https://si.geilicdn.com/shopedit1842086105-06b80000019746ca6bf50a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3060533",
+        "mallType": "TB",
+        "itemId": "989748937422",
+        "title": "French-Style Light Luxury High-End Blue Embroidered Jacquard Dress for Women, Slimming Waist, New Bow-Knot Slit Long Dress",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2207374471901/O1CN01U4ePnY1Pui1Lt321T_!!4611686018427384541-0-item_pic.jpg",
+        "price": "¥210.83",
+        "toPrice": "$33.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "475084900",
+          "name": "芷如芸旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2787341",
+        "mallType": "TB",
+        "itemId": "985111018178",
+        "title": "Plus-Size Women's Clothing for Adults, Slightly Chubby Women, New Winter Style, Slimming Polo Collar Sweater Dress, Aqua Blue, Lazy Style Dress",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2038214509/O1CN01dHrkIw1jBAxRCQxmh_!!2038214509.jpg",
+        "price": "¥208.91",
+        "toPrice": "$32.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109858388",
+          "name": "张大人订制大码女装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1169368",
+        "mallType": "T1688",
+        "itemId": "828178016145",
+        "title": "DS427 couple hoodie with large maple leaf print DSQ new autumn and winter round neck long sleeved base shirt European style cross-border hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nXj3Fv2AglnEB1yGV_!!2213303508233-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBjU4guc7q4bQsUm9rxTJUlQ",
+          "name": "何峰",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2759990",
+        "mallType": "T1688",
+        "itemId": "734717409201",
+        "title": "New cross-border Amazon Europe and the United States dresses women's sense backless short adjustable neck satin dresses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DIGifl2EeiMlQpEhF_!!2212878748770-0-cib.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212878748770",
+          "name": "广州悠缇亚服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2760036",
+        "mallType": "T1688",
+        "itemId": "872685880778",
+        "title": "2025 Spring New Cross-border European and American Women's Hot Girls Style Sexy Backless Strap Mesh Stitching Neck dress",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aopAqD1o4pThkFX1c_!!2211235275172-0-cib.jpg",
+        "price": "¥26.80",
+        "toPrice": "$4.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7ajrmybIKEmqh4TAfc16-Q",
+          "name": "广州市白云区宏林制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140311331916154792",
+  "language": "en"
+}

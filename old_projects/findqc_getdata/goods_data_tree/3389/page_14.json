@@ -1,0 +1,341 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2243640",
+        "mallType": "WD",
+        "itemId": "7513567986",
+        "title": "Coat#",
+        "picUrl": "https://cdn.findqc.com/item/20250912/mfgry9wt_a7p4.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2380360",
+        "mallType": "T1688",
+        "itemId": "681211269174",
+        "title": "Autumn and winter hooded sports jacket sweatshirt men's quick drying long sleeved outdoor fitness running casual windbreaker in stock wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250912/mffmz36g_bm04.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2207357747157",
+          "name": "广州步外云订单电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2369001",
+        "mallType": "TB",
+        "itemId": "940525373682",
+        "title": "Nike/Nike Authentic New Men's Running Sports Hooded Woven Jacket FN3306-476",
+        "picUrl": "https://cdn.findqc.com/item/20250910/mfd4hkrg_tmsi.jpg",
+        "price": "¥249.00",
+        "toPrice": "$39.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "121135575",
+          "name": "进击得潮流运动",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2368987",
+        "mallType": "T1688",
+        "itemId": "885444897741",
+        "title": "American style spliced contrasting stand up collar assault trench coat for men's spring and autumn fashion brand loose hip-hop sports jacket jacket 0249",
+        "picUrl": "https://cdn.findqc.com/item/20250910/mfd4ba7n_mlmn.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215601581648",
+          "name": "石狮市密密服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "971777",
+        "mallType": "WD",
+        "itemId": "7322767541",
+        "title": "Woven Color blocked Coat - Black and Red SY-59",
+        "picUrl": "https://cdn.findqc.com/item/20250909/mfbpwr36_f2lz.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274221412",
+          "name": "Elephant",
+          "logo": "https://si.geilicdn.com/wdseller1274221412-77390000018f660dd8030a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1483180",
+        "mallType": "T1688",
+        "itemId": "920756739612",
+        "title": "Cross-border Foreign Trade CP Correct Edition ins Lens Men's and Women's Functional Jacket Jacket Jacket Loose Outdoor Windbreaker",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf87b9a8_imdh.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBB9BJmQDFAiUXGRGbOsAkeA",
+          "name": "跨境北美热卖频道",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2253629",
+        "mallType": "T1688",
+        "itemId": "904500799379",
+        "title": "Swedish Trendy Brand AS Barne Style Tooling Jacket Vintage Stitching Lap Zipper Jacket Solid Color Men's and Women's Short Loose",
+        "picUrl": "https://cdn.findqc.com/item/20250905/mf5zaezl_01hi.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByDs7DQH1i5Y0E3zdMfwVSg",
+          "name": "上海幕漾服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2244279",
+        "mallType": "TB",
+        "itemId": "921813108112",
+        "title": "Lulu men's skin jacket Pace Breaker men's woven quick drying sports windbreaker fitness running lightweight jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250904/mf4jxj18_qbjr.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "210421363",
+          "name": "CINPV服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2305899",
+        "mallType": "TB",
+        "itemId": "936694083676",
+        "title": "Nike men's summer lightweight hooded sports casual breathable loose running jacket DD4747",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf42mmg7_of02.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "406117283",
+          "name": "健翔体育",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2297105",
+        "mallType": "T1688",
+        "itemId": "958706039489",
+        "title": "Alo Summer New Sunscreen Clothing Outdoor Men's and Women's Couple's Ultra Thin UV resistant Hooded Jacket Stormtrooper",
+        "picUrl": "https://cdn.findqc.com/item/20250902/mf2mh35e_xu14.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219755002202",
+          "name": "广州张耐耐服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "401485",
+        "mallType": "WD",
+        "itemId": "7322835905",
+        "title": "Woven color blocked jacket - white blocked deep blue SY-61",
+        "picUrl": "https://cdn.findqc.com/item/20250101/m5cpx8hw_96qu.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274221412",
+          "name": "Elephant",
+          "logo": "https://si.geilicdn.com/wdseller1274221412-77390000018f660dd8030a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "205329",
+        "mallType": "T1688",
+        "itemId": "821880249704",
+        "title": "European Goods Light Luxury Fashionable Simple Men's Hooded Jacket 2024 Spring and Autumn New Popular Men's Popular Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ovcus_qyxj.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1qO_sd0H45Xk7v9daB5HqA",
+          "name": "沧州高新区尚衣哲服装店",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 321,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2290371",
+        "mallType": "TB",
+        "itemId": "838056566301",
+        "title": "24FW Jacket 4942",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2218575759731/O1CN01k3UB2c2Lkr9j736aM_!!2218575759731.jpg",
+        "price": "¥397.94",
+        "toPrice": "$62.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "257507014",
+          "name": "潮牌一号1968",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "638289",
+        "mallType": "WD",
+        "itemId": "7248298845",
+        "title": "22SS jakcet 2731",
+        "picUrl": "https://cdn.findqc.com/item/20250623/mc94lrcj_uwg6.jpg",
+        "price": "¥398.00",
+        "toPrice": "$62.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1775281049",
+          "name": "潮牌一号1968",
+          "logo": "https://si.geilicdn.com/shopedit1843669675-5a7500000194253745c90a23047e-unadjust_362_362.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2114395",
+        "mallType": "T1688",
+        "itemId": "884617061184",
+        "title": "2025 New Golf Jacket Casual Hooded Windbreaker Bomber Jacket Sportswear Zipper Spring Summer Fashion",
+        "picUrl": "https://cdn.findqc.com/item/20250826/merwb8ve_1jku.jpg",
+        "price": "¥71.00",
+        "toPrice": "$11.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrGqVY2ZbMqCOTD2O_py0TA",
+          "name": "东莞市新可贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2120790",
+        "mallType": "WD",
+        "itemId": "7527323743",
+        "title": "Clearance of isolated items~Special 58 free shipping~Direct reduction of 110! ARC'T Men's Outdoor Lightweight Breathable Sunscreen Clothing with UV Protection, Hooded Zipper Skin Coat",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mekp3zyv_rtep.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "896627993",
+          "name": "NS男装原创设计",
+          "logo": "https://si.geilicdn.com/bj-wd-896627993-1514545020580-815922764_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1658592",
+        "mallType": "T1688",
+        "itemId": "902197767072",
+        "title": "Cross-Border t Madejkh Unisex Functional Softshell Jacket Loose Outdoor Waterproof Style Functional Windbreaker",
+        "picUrl": "https://cdn.findqc.com/item/20250819/meiivlll_todp.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9m3RDTjMAzWuTvVuix-lKA",
+          "name": "麻城市昆致贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "930484",
+        "mallType": "T1688",
+        "itemId": "831188457448",
+        "title": "Wholesale men's spring and autumn jackets for foreign trade, stand collar loose woven windproof sports and leisure jackets 02420195",
+        "picUrl": "https://cdn.findqc.com/item/20250819/mehxatcw_czjs.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210900876775",
+          "name": "石狮市卡里幽前服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141303321913208796",
+  "language": "en"
+}

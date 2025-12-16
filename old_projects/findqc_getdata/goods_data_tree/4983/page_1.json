@@ -1,0 +1,426 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "418276",
+        "mallType": "WD",
+        "itemId": "7220554043",
+        "title": "S24Ultra(Cnfans/hoobuy can’t ship phones, please use other agents to buy) or contact me directly ",
+        "picUrl": "https://si.geilicdn.com/wdseller238424219-02340000018e3c4bc26d0a2311c9_1280_1606.jpg",
+        "price": "¥950.00",
+        "toPrice": "$149.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "238424219",
+          "name": "SUDU-gadgets",
+          "logo": "https://si.geilicdn.com/wdseller238424219-53dd0000018cdad711910a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2044394",
+        "mallType": "T1688",
+        "itemId": "747357470794",
+        "title": "Cross-border panoramic room mini computer chassis desktop tempered glass side perspective gaming water-cooling main chassis",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kQW3gh2CMHDOZIb2g_!!2208695678459-0-cib.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208695678459",
+          "name": "广州米酷电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895842",
+        "mallType": "TB",
+        "itemId": "923866061363",
+        "title": "10-Inch 5U6U Home Desktop Open Rack Home Monitoring Network Cabinet Simple Rack Audio Stand",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmbvt7_ybbw.jpg",
+        "price": "¥6.25",
+        "toPrice": "$0.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "433843545",
+          "name": "固奕精密制造",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 53,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2249436",
+        "mallType": "T1688",
+        "itemId": "799112457937",
+        "title": "Amazon Cross border Prism Mini Computer Case Desktop Tempered Glass Side Transparent Gaming Water Cooling Main",
+        "picUrl": "https://cdn.findqc.com/item/20250828/mev24md4_cf89.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3605656389",
+          "name": "广州柏爵电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "181945",
+        "mallType": "TB",
+        "itemId": "653536015224",
+        "title": "PS5 console replacement case DIY accessories modification side plate optical drive version digital version of the game console cover black frosted",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqxx0h_7rqx.jpg",
+        "price": "¥79.99",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "373399905",
+          "name": "文德楼数码企业店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "71167",
+        "mallType": "TB",
+        "itemId": "734296183542",
+        "title": "Ps5 Console Spider-Man Case Ps5 Game Console Spider-Man Limited Edition Case Ps5 Cooling Case",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mn8zvb_0t3j.jpg",
+        "price": "¥13.36",
+        "toPrice": "$2.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "379880145",
+          "name": "双骑士电玩",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67996",
+        "mallType": "TB",
+        "itemId": "623207410176",
+        "title": "Antec P101 HDD Cage for 3.5-inch HDD or 2.5-inch SSD Expansion Slot 2 HDD Bays",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mm4e2k_5ujr.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "17357",
+        "mallType": "TB",
+        "itemId": "694466338448",
+        "title": "Fish Nest S5Max Case White Matx Motherboard Sfx Power Supply Mid-Tower Side-Transparent Desktop Mini Itx Computer Empty Case",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nermnw_cnvp.jpg",
+        "price": "¥81.29",
+        "toPrice": "$12.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "491915053",
+          "name": "北鱼数码专营店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "12857",
+        "mallType": "TB",
+        "itemId": "607592651028",
+        "title": "In Stock Lzmod Mini A24-V5 2.0 Dual-Slot Independent Graphics Card 1U Power Supply Itx Case Double-Sided Chamfered",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mccivl_aatv.jpg",
+        "price": "¥463.94",
+        "toPrice": "$72.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "206098240",
+          "name": "LZmod工作室",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147566051913208479",
+  "language": "en"
+}

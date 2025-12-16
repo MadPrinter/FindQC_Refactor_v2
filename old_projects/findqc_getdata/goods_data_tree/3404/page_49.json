@@ -1,0 +1,365 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "346527",
+        "mallType": "WD",
+        "itemId": "7296281921",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saplz0_1ygj.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1628294393",
+          "name": "LLL",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-41c30000018f93b4a0620a22d172-unadjust_604_604.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3158880",
+        "mallType": "T1688",
+        "itemId": "847114212311",
+        "title": "Cross-border Trendy Brand Rhude Totem Letter Printed High Street American Style Vintage Men's and Women's Loose Pure Cotton Hooded Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yVnBFO1wD5WU8trei_!!2209273606273-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEzEEIgpjrUJUfAlUejVLRw",
+          "name": "广州市白云区黄石扎西德勒服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "717254",
+        "mallType": "WD",
+        "itemId": "7251028637",
+        "title": "High Street Trend Fashion 6-007",
+        "picUrl": "https://si.geilicdn.com/pcitem901891552790-7da90000019207db57980a230115_1200_1200.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "164348760",
+          "name": "cost price",
+          "logo": "https://si.geilicdn.com/pcdecorate901871536886-38ca00000190ba3ff52d0a20e2c5-unadjust_710_710.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 224,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3158850",
+        "mallType": "WD",
+        "itemId": "7569062442",
+        "title": "LJF52-时尚卫衣套装  (非质量问题不支持无理由退换货)1:1高质量+8613400682077",
+        "picUrl": "https://si.geilicdn.com/pcitem901971376224-25f000000198e5c6f8d90a210256-unadjust_1200_1200.png",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1800878541",
+          "name": "Pesanal FLOSHION SOLE",
+          "logo": "https://si.geilicdn.com/pcdecorate1930642838-5ad9000001985ffbd7d50a210139-unadjust_634_634.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3158827",
+        "mallType": "WD",
+        "itemId": "7389179178",
+        "title": "22",
+        "picUrl": "https://si.geilicdn.com/open1819379021-1838589072-427100000194f385db660a239383_800_800.jpg",
+        "price": "¥82.00",
+        "toPrice": "$12.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819379021",
+          "name": "好店",
+          "logo": "https://si.geilicdn.com/pcdecorate1927531510-4bca00000194d415c43e0a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3090325",
+        "mallType": "T1688",
+        "itemId": "943468536384",
+        "title": "2025新款大P家普达拉棉正确版本宽松奢侈卫衣长袖原版高版高质量",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gp1e4v1RHRG9ObRuG_!!2219839632086-0-cib.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219839632086",
+          "name": "广州奢核服装厂(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3036630",
+        "mallType": "WD",
+        "itemId": "7537161969",
+        "title": "24AW Stone Island pure cotton armband logo base long sleeved thin hoodie gz",
+        "picUrl": "https://si.geilicdn.com/wdseller1021608260-0a46000001937698384e0a20e284_1165_1063.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1781892771",
+          "name": "D-SHARK fashion store",
+          "logo": "https://si.geilicdn.com/pcdecorate1986258967-493200000198fa44e0d50a8134f0-unadjust_200_200.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2168357",
+        "mallType": "T1688",
+        "itemId": "907848794335",
+        "title": "Cross-Border Dropshipping 2025 New Classic Printed Black 8 Sweatshirt Parade Youth Pullover Couple Sweatshirt Loose",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014oiNm529vb3sb08YQ_!!2219115438130-0-cib.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBePc3r149oBc2vZEtvuLHSA",
+          "name": "广州佳园服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2732571",
+        "mallType": "T1688",
+        "itemId": "948591179562",
+        "title": "2025 men's hoodie semi cardigan stand up collar spring and autumn new style embroidered small horse logo trendy casual thread zipper sweater\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010AhQBY1zuY1MjaFvv_!!2219453466774-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQoVNq5lTCVDWB14cJksxmw",
+          "name": "上饶市艾勇服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2844447",
+        "mallType": "WD",
+        "itemId": "7581711889",
+        "title": "DU， 10.24-Autumn/Winter New Small Label Embroidered Zipper cardigan Sweater Coat",
+        "picUrl": "https://si.geilicdn.com/pcitem1960619614-4b670000019a13ffaaf80a2304aa_2000_2000.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1764019005",
+          "name": "WufeiBuy",
+          "logo": "https://si.geilicdn.com/weidian1960619614-50920000019725f7beda0a23037f_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2590732",
+        "mallType": "WD",
+        "itemId": "7540668384",
+        "title": "Autumn and Winter Casual Fashion Hoodie 032",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-79d600000197d58458ff0a22d249_800_800.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1693963683",
+          "name": "Trend Factory",
+          "logo": "https://si.geilicdn.com/pcdecorate1987113204-5aa5000001990412c9d80a207569-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2864745",
+        "mallType": "WD",
+        "itemId": "7578514983",
+        "title": "hoodie\n",
+        "picUrl": "https://si.geilicdn.com/pcitem1944767919-38c80000019a0610230c0a2103bd-unadjust_800_800.png",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3157278",
+        "mallType": "WD",
+        "itemId": "7445804959",
+        "title": "/门口 连帽衫 卫衣 拉链",
+        "picUrl": "https://si.geilicdn.com/open1805522381-1234478995-104b000001962b5068b20aa0834c_1080_1080.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1805522381",
+          "name": "奥特曼",
+          "logo": "https://si.geilicdn.com/weidian1930676905-2a1b00000195dc52a10f0a210256_656_656.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3021843",
+        "mallType": "WD",
+        "itemId": "7590363888",
+        "title": "Hoodie (no quality issues, returns or exchanges are not supported)",
+        "picUrl": "https://si.geilicdn.com/pcitem1989252654-42060000019a3a6588750a23047e-unadjust_205_193.png",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1744208227",
+          "name": "Yitec store",
+          "logo": "https://si.geilicdn.com/weidian1960184286-440400000199284797bd0a811411_640_640.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1557231",
+        "mallType": "T1688",
+        "itemId": "894770433981",
+        "title": "Corteiz British Hip-Hop Street Dance Hooded Sweatshirt Jacket Men's Loose Sports Suit Straight-Leg Sweatpants",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ce9cFr2HTfpbDtV0v_!!2219394769152-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGkRYK_S1xkDnaHAPNS961A",
+          "name": "广州潮次方服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 477,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3050470",
+        "mallType": "T1688",
+        "itemId": "949847459271",
+        "title": "350g Thin Cotton Fabric 150kg Wearable |   Family Matching Outfits |   Autumn and Winter Hook-Neck Sweatshirt Nk6541 #",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FzRDes1DKH7U3Xbam_!!2219798060197-0-cib.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6AknMd9tRiF6iUHC6nF8uA",
+          "name": "广州致然科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1697",
+        "mallType": "TB",
+        "itemId": "770079816140",
+        "title": "Real American Fashion Brand Faith Hoodie Maitreya Buddha Sports Hoodie Large Size Loose Zipper Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3n1wpv3_slsl.jpg",
+        "price": "¥101.51",
+        "toPrice": "$15.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333544208",
+          "name": "TR牛仔裤",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 195,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2583478",
+        "mallType": "WD",
+        "itemId": "7561979521",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1787182201-252808396-57a90000018f859f6f620a210298_800_800.jpg",
+        "price": "¥131.79",
+        "toPrice": "$20.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1824975481",
+          "name": "Kama",
+          "logo": "https://si.geilicdn.com/wdseller1860902102-27f8000001989a4188a50a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2121120",
+        "mallType": "T1688",
+        "itemId": "965926074381",
+        "title": "2022SS带帽卫衣前后黑植绒ESSENTIALS潮牌Flash跨境Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250829/mew728hy_w41v.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWJpAX1Ml7oscoB2p4HVoAg",
+          "name": "宁波市鄞州钟公庙宜山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 371,
+        "qcVideoCnt": 7
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142026142553886246",
+  "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "4412",
+        "mallType": "TB",
+        "itemId": "725322991698",
+        "title": "[in Stock] Grailz Learl Heavy-Duty Fleece Bomber Jacket with Zipper Flight Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3u0p7_mh4a.jpg",
+        "price": "¥358.45",
+        "toPrice": "$56.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106346518",
+          "name": "东旭Hp三店 High Point",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3889",
+        "mallType": "TB",
+        "itemId": "653846291857",
+        "title": "Two Moons Is High Street Vibe Functional Style Jacket American Hip-Hop Towel Embroidery Baseball Jacket Spring and Autumn Coat Men's Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3kzeq_h44u.jpg",
+        "price": "¥163.40",
+        "toPrice": "$25.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "254262862",
+          "name": "TWO MOONS 两个月亮",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2938",
+        "mallType": "TB",
+        "itemId": "697064015979",
+        "title": "Autonomous heavy industry washed and done old big destruction vile cotton jacket loose silhouette wasteland style hooded bomber",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m34d3l_70kd.jpg",
+        "price": "¥988.00",
+        "toPrice": "$155.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "564588365",
+          "name": "bad mood club",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114700600194347349",
+  "language": "en"
+}

@@ -1,0 +1,589 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3173274",
+        "mallType": "T1688",
+        "itemId": "831629556319",
+        "title": "Outdoor sun protection clothing for couples, summer skin clothing, hooded thin design, breathable men's sun protection clothing, contrasting colors for couples\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AvlI4a1qYic7Vax8g_!!2216990285508-0-cib.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOiiXPfAHGeMZ1yfE1u7FUA",
+          "name": "石狮市雅欢迪服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2900850",
+        "mallType": "TB",
+        "itemId": "912268326134",
+        "title": "Summer Golf Sunscreen Jacket Men's Jacket Lightweight and Cool Loose GOLF Sunscreen Jacket Men's Thin Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk3tma3_b3w6.jpg",
+        "price": "¥90.33",
+        "toPrice": "$14.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "385749507",
+          "name": "沐希高 尔夫用品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2291998",
+        "mallType": "T1688",
+        "itemId": "923455564212",
+        "title": "Breathable Sun Protection Clothing for Men, Ice Silk Summer Fishing Leisure, Versatile Anti-Uv Sports Outdoor Sun Protection Clothing Beibei",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KItEO61nrY1Pr2a5A_!!2219635725143-0-cib.jpg",
+        "price": "¥67.00",
+        "toPrice": "$10.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1U16B-vD5HSbFgaGQybZ-w",
+          "name": "石狮市珀豪服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3131825",
+        "mallType": "T1688",
+        "itemId": "929227521057",
+        "title": "Sun Protection Clothing for Men 2025 Summer New Ice Silk Ultra-Thin Sun Protection Clothing Outdoor Cycling Fishing Skin Clothing for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01E2e7fT1uzyclyOFUy_!!2219868336109-0-cib.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWB8JEQzEydrprhbWgJ3Nwg",
+          "name": "石狮市奥烨服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2359963",
+        "mallType": "TB",
+        "itemId": "914701860161",
+        "title": "Spring and Autumn High Quality Men's Mesh Stormwear Youth Outdoor Waterproof Nylon Jacket Men's Jacket Jacket Jacket\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3807441358/O1CN01wX3YW11Lu0uINSoeM_!!3807441358.jpg",
+        "price": "¥276.48",
+        "toPrice": "$43.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "237955241",
+          "name": "外贸休闲精品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1236337",
+        "mallType": "WD",
+        "itemId": "7443465627",
+        "title": "***********",
+        "picUrl": "https://si.geilicdn.com/pcitem1783353089-5386000001982c2dcb990a231177_656_520.jpg",
+        "price": "¥117.00",
+        "toPrice": "$18.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2418857",
+        "mallType": "TB",
+        "itemId": "698045541232",
+        "title": "Under Armour Ua Out the Storm Men's Quick-Drying Fitness Running Sports jacket 1376794",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/801920640/O1CN01DSeKpP1GbAYOyhfNn_!!4611686018427385472-0-item_pic.jpg",
+        "price": "¥446.00",
+        "toPrice": "$70.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "444784078",
+          "name": "OKOK1111",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1503505",
+        "mallType": "T1688",
+        "itemId": "631877881584",
+        "title": "Long-sleeved sports jacket men's summer sunscreen quick dry breathable thin running jacket training yoga fitness jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cfO0VU1a3ztRQaBU1_!!2883793275-0-cib.jpg",
+        "price": "¥31.75",
+        "toPrice": "$4.99",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1981361",
+        "mallType": "T1688",
+        "itemId": "708729624688",
+        "title": "Summer sunscreen clothing men original yarn type skin coat lightweight breathable cardigan hooded skin coat outdoor fishing sunscreen clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018ylLUe1escAnTYzZV_!!2207588583927-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2207588583927",
+          "name": "义乌市蓬生服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901804",
+        "mallType": "T1688",
+        "itemId": "899737324023",
+        "title": "Cross-border Protective clothing sun protection clothing skin clothing coat badge Hooded jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01iriNPi1RIoQ94vX59_!!2219456842089-0-cib.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFbJD9CYUuqje9g_b2wqKfw",
+          "name": "常熟市莫城街道星昊潮流服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2207462",
+        "mallType": "T1688",
+        "itemId": "669413122806",
+        "title": "Sunscreen clothing men and women summer long jacket wholesale development of advertising shirts anti-ultraviolet ice silk skin clothing sunscreen clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mWM7Vg22dXq7t9dcr_!!2211454947143-0-cib.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211454947143",
+          "name": "义乌市祎心服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2073602",
+        "mallType": "T1688",
+        "itemId": "788887580919",
+        "title": "Skin suit custom printed LOGO enterprise group building work clothes thin section of spring and summer models of men and women quick-drying sunscreen clothing cycling clothes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017jcIHO20KC58DqXnP_!!2212351986830-0-cib.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212351986830",
+          "name": "义乌市劲锋服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2822725",
+        "mallType": "T1688",
+        "itemId": "857085347984",
+        "title": "SI Metal Nylon Textured 2024 Spring New Stone Fashion Casual Men's Jacket Coat High Goods into the Island",
+        "picUrl": "https://cdn.findqc.com/item/20251028/mhaik4v6_soij.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBCwnKPtnX7lNCSexZkloicA",
+          "name": "平阳县亿途电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 47,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2023834",
+        "mallType": "T1688",
+        "itemId": "901435174063",
+        "title": "American Bata pata outdoor sunscreen clothing men and women summer breathable quick-drying windbreaker ultra-thin skin coat ice silk jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016NGXoz1dT8gaIsFD5_!!2218330803736-0-cib.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219415270331",
+          "name": "三门县孤狼服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1872401",
+        "mallType": "T1688",
+        "itemId": "736574300107",
+        "title": "UPF50 + new summer sunscreen clothing hooded UV protection breathable ice silk jacket light fishing outdoor clothing outside men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017iajyh1YhGiWTmPS8_!!2216434993090-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216434993090",
+          "name": "石狮市鑫峰狼服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1665291",
+        "mallType": "WD",
+        "itemId": "7498430033",
+        "title": "Sunscreen clothing",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfvzmq9w_jnhm.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1329468934",
+          "name": "DreamRemake2",
+          "logo": "https://si.geilicdn.com/shopedit1329468934-062100000197bafb32870a20e7c7-unadjust_89_89.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2059341",
+        "mallType": "TB",
+        "itemId": "934094924830",
+        "title": "25FW Jacket 5302",
+        "picUrl": "https://cdn.findqc.com/item/20250919/mfpvzp9l_mno4.jpg",
+        "price": "¥410.00",
+        "toPrice": "$64.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "257507014",
+          "name": "潮牌一号1968",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "942044",
+        "mallType": "T1688",
+        "itemId": "891179887337",
+        "title": "2025 Couple Outdoor Sports Fishing Thin Rice UV Hooded Breathable Sunscreen Clothes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PMX4XH1l1DW3Iozn1_!!2218603384758-0-cib.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxgWc8bbFNYK7vpLuq3-dGg",
+          "name": "晋江市永和镇瑞思达服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114115946249896782",
+  "language": "en"
+}

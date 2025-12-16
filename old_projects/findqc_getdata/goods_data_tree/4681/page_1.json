@@ -1,0 +1,629 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3351",
+        "mallType": "WD",
+        "itemId": "6717669669",
+        "title": "C vintage J130 washed zipper hooded jacket jacket jh",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3cqwv_g5ga.jpg",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707804864",
+          "name": "不二家",
+          "logo": "https://si.geilicdn.com/weidian1417299265-7f700000018ece14a7660a23136f_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 510,
+        "qcVideoCnt": 17
+      },
+      {
+        "id": "3099814",
+        "mallType": "WD",
+        "itemId": "7322616808",
+        "title": "1:1 复古外套",
+        "picUrl": "https://si.geilicdn.com/open1704425445-1234478995-2b0200000193bb1455520a239383_1544_1921.jpg",
+        "price": "¥368.00",
+        "toPrice": "$57.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704425445",
+          "name": "Good Buy",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3099649",
+        "mallType": "TB",
+        "itemId": "985056765364",
+        "title": "Ts Embroidered Letter Logo Winter Thickened Hooded Cotton Jacket Unisex Zipper Cardigan Cotton Coat",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3876282014/O1CN0187ckEF1QkSly8p7g9_!!3876282014.jpg",
+        "price": "¥173.12",
+        "toPrice": "$27.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "435895133",
+          "name": "FUXIXI潮牌工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633357",
+        "mallType": "T1688",
+        "itemId": "841093771088",
+        "title": "Putian High Version Himalayan Down Jacket Embroidered Multi-Bag Hooded Top Jacket for Men and Women Couple",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016rzF3r2AJs0HXwtAz_!!2217010558183-0-cib.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNh1LkLUHGP3ASvoNYGCQzg",
+          "name": "莆田市城厢区艺玖大鹅服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3195782",
+        "mallType": "T1688",
+        "itemId": "966224308519",
+        "title": "外贸卡美式J130加厚重磅古着哈特夹克帆布水洗做旧连帽工装棉外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qonN0S1k00uBwlKKP_!!2575154620-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwwaEiIRFp7q4orNSKym0wg",
+          "name": "石狮市卡莎诺服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "254281",
+        "mallType": "WD",
+        "itemId": "7272328972",
+        "title": "Python lined real fur collar MA-1 short couple hooded jacket pie overcoming coat jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241127/m3zdotcc_w144.jpg",
+        "price": "¥339.00",
+        "toPrice": "$53.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "160536078",
+          "name": "simple不太潮",
+          "logo": "https://si.geilicdn.com/wdseller160536078-1cab000001917d061c390a210349_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3192888",
+        "mallType": "T1688",
+        "itemId": "908767365851",
+        "title": "Autumn and Winter New Lamb Wool Jacket Men's Fashion Trend Couple's Lamb Wool Stand Collar Jacket Color Matching Men's Cotton Coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZSdXzE20L6vxA1eSs_!!2214518306832-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiO8qVhXAiaZWDUfmAgb1Bg",
+          "name": "石狮市文尚服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1320538",
+        "mallType": "T1688",
+        "itemId": "816871845992",
+        "title": "Bread clothing cotton jacket men's hooded thickened warm winter new men Korean version of the youth casual cold cotton-padded jacket",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000000471/O1CN01CYxcOz1FLlX21bGCm_!!6000000000471-0-tbvideo.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2690904",
+        "mallType": "WD",
+        "itemId": "7570759531",
+        "title": "Mo lamb fleece hoodie",
+        "picUrl": "https://si.geilicdn.com/weidian1872339478-018300000199dbd8b9690a81347d_1440_1920.jpg",
+        "price": "¥638.00",
+        "toPrice": "$100.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848972357",
+          "name": "Adam",
+          "logo": "https://si.geilicdn.com/shopedit1874119249-0bc5000001909e05d0d80a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2636504",
+        "mallType": "T1688",
+        "itemId": "752128611455",
+        "title": "Z home 2024 winter casual models men thickened warm hooded two-sided wear aviator jacket jacket cotton 3833310",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xQomHR1ThCblF2My4_!!2216882792413-0-cib.jpg",
+        "price": "¥134.90",
+        "toPrice": "$21.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216882792413",
+          "name": "常熟市莫城街道阿木村服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "853643",
+        "mallType": "TB",
+        "itemId": "729572296746",
+        "title": "From Street Heavy Industry Vintage Bow and Arrow Bag Single Shoulder Crossbody Bag Archive Tactical Vibe Outdoor Backpack",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/346392213/O1CN01acm5iE1SDbP4gzSQp_!!346392213.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71788017",
+          "name": "FROM THE STREET 来自街头",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3026906",
+        "mallType": "TB",
+        "itemId": "989304612296",
+        "title": "Winter Jacket Outdoor Men Women Hoodie Faux Fur Coat Men's and Women's Outerwear",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2583370420/O1CN01DPkg7U1EyPRk6yuDt_!!2583370420.jpg",
+        "price": "¥154.44",
+        "toPrice": "$24.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "126296178",
+          "name": "YJ258 Store",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2792726",
+        "mallType": "TB",
+        "itemId": "933462027675",
+        "title": "Pure Yuan Spain MD high-end series 100% pure fine wool college style pilot jacket baseball suit B667B",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2920050543/O1CN01edHJuO1Fsk7nsWN3O_!!2920050543.jpg",
+        "price": "¥298.25",
+        "toPrice": "$46.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "295431845",
+          "name": "衣源外贸服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2509490",
+        "mallType": "WD",
+        "itemId": "7542933746",
+        "title": "N~K down jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1987293456-04e100000199144217340a23047e_1080_1080.jpg",
+        "price": "¥588.00",
+        "toPrice": "$92.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1733316515",
+          "name": "星星",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2826474",
+        "mallType": "TB",
+        "itemId": "742850426370",
+        "title": "Tongzhou Paul Autumn and Winter Men's down Cotton Jacket, Fake Two-Piece Hooded Couple's Cotton Coat, Trendy Brand, Thickened Loose Outerwear",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2216346572759/O1CN01uk8blN1WFfdDrUgOe_!!2216346572759.jpg",
+        "price": "¥67.80",
+        "toPrice": "$10.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "355491162",
+          "name": "同舟保罗户外男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2290375",
+        "mallType": "T1688",
+        "itemId": "834601695602",
+        "title": "Cross-border pata pata Classic Retro-X fleece jacket faux lambswool stand-up collar zipper jacket jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jQ1pLG1acLoKU9MNE_!!2217605143350-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217605143350",
+          "name": "上海孙朋贸易商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5868",
+        "mallType": "WD",
+        "itemId": "7264379588",
+        "title": "Men's high-end new thick short hooded windproof outdoor warm sports down jacket, pony",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m99ovl_mdnl.jpg",
+        "price": "¥588.00",
+        "toPrice": "$92.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1745746777",
+          "name": "Ecobloom",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 196,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2759773",
+        "mallType": "T1688",
+        "itemId": "858726429722",
+        "title": "High-End Custom Diamond-Patterned American-Style Embroidered Stand-Collar Veteran Cotton Jacket for Men and Women, American Style",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ebZ45S28lES5Yzxyr_!!2217550377972-0-cib.jpg",
+        "price": "¥235.00",
+        "toPrice": "$36.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOrF2V_bk3Wiuh4SjPXrUHw",
+          "name": "义乌市江渚电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1775663",
+        "mallType": "TB",
+        "itemId": "851374411476",
+        "title": "【Vaka Typeshyt】2024Fw Basic Cotton Jacket, Winter Windproof, Warm, Thickened, Detachable Fur Collar",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2216721502045/O1CN01WvNFX31Qyf3jKV1Qx_!!2216721502045.jpg",
+        "price": "¥495.09",
+        "toPrice": "$77.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "369373411",
+          "name": "VAKA TYPESHYT",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2712908",
+        "mallType": "T1688",
+        "itemId": "860843958419",
+        "title": "2.0 Trapstar HOODED PUFFER JACKET Men's Jacket Quality UK Feather Cotton Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WICQR01fg58x3ghck_!!2211898564035-0-cib.jpg",
+        "price": "¥328.00",
+        "toPrice": "$51.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBF_tlgEM7tsbZ-hoDswF4FA",
+          "name": "仙居县晨一工艺品厂(普通合伙)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146553771911217765",
+  "language": "en"
+}

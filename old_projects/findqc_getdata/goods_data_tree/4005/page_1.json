@@ -1,0 +1,624 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2683481",
+        "mallType": "TB",
+        "itemId": "852513679649",
+        "title": "Angel Wings Scattered Bucket Cartoon Golf Hat Clip Outdoor Sports Metal Badge Personalized Backpack Accessories",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/4005344355/O1CN01xr9Au31i2dsMe8plQ_!!4005344355.jpg",
+        "price": "¥3.13",
+        "toPrice": "$0.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "363980147",
+          "name": "Habit maker",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2404258",
+        "mallType": "T1688",
+        "itemId": "566935425922",
+        "title": "Metal refrigerator stickers from the United States, England, Italy, Malaysia, Dubai, Belgium, India, Israel, new three-dimensional magnetic commemorative high-end",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/8909900613_1607675775.jpg",
+        "price": "¥4.50",
+        "toPrice": "$0.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXIoWpxa1N4MhhtzkzGKlZg",
+          "name": "上海市黄浦区宇豪工艺品商店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2081602",
+        "mallType": "WD",
+        "itemId": "7358467107",
+        "title": "Holey Shoes Collection",
+        "picUrl": "https://si.geilicdn.com/open1808531213-1234478995-50340000019450e64e700a8133b5_1164_1164.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1808531213",
+          "name": "Wood table guy2",
+          "logo": "https://si.geilicdn.com/wdseller1921579797-1be800000194591f01190a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2906960",
+        "mallType": "TB",
+        "itemId": "925974966031",
+        "title": "New hole shoes, accessories, flower shoes, decorative accessories, DIY cartoon shoe buckles, cute marine animals, seashells, starfish",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkgj6xd_jxe9.jpg",
+        "price": "¥2.58",
+        "toPrice": "$0.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "389997198",
+          "name": "UU鞋花",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905535",
+        "mallType": "TB",
+        "itemId": "948657427810",
+        "title": "New Croc Shoe Accessories Shoe Charms Cartoon Shoe Decorations DIY Accessories Cute Winnie the Pooh Universal Shoe Buckles",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9j73e_p9g8.jpg",
+        "price": "¥2.56",
+        "toPrice": "$0.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "389997198",
+          "name": "UU鞋花",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902924",
+        "mallType": "TB",
+        "itemId": "927586469572",
+        "title": "New Crocs Shoe Accessories, High-End DIY Shoe Buckle Accessories, Cartoon Children's Shoe Charms, Jurassic Dinosaur World Series",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk85n5q_89n5.jpg",
+        "price": "¥2.60",
+        "toPrice": "$0.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "389997198",
+          "name": "UU鞋花",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2285915",
+        "mallType": "TB",
+        "itemId": "964099812267",
+        "title": "JuiceWRLD Juice Block Hanging Card Toy Goodbye&Good Riddance Album, Surrounding People",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh5i12kc_sfzi.jpg",
+        "price": "¥59.07",
+        "toPrice": "$9.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "271470707",
+          "name": "YWMontana",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2660740",
+        "mallType": "TB",
+        "itemId": "644778308342",
+        "title": "French Staub Enamel Ceramic 12cm Chinese-Style Fruit Salad Dessert Rice Bowl 14cm Noodle Bowl Rainbow 6-Piece Set",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgqc3zte_75us.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33557033",
+          "name": "精致生活小馆",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1483230",
+        "mallType": "T1688",
+        "itemId": "819833671815",
+        "title": "49pcs milk tea coffee hole shoes flower shoe buckle PVC sole buckle hole shoes diy accessories Zhibixing accessories",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000002418/O1CN01Fkm1Bw1TjUe0JUe7n_!!6000000002418-0-tbvideo.jpg",
+        "price": "¥0.26",
+        "toPrice": "$0.04",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2173727",
+        "mallType": "TB",
+        "itemId": "938490469206",
+        "title": "Dubai Refrigerator Magnet Magnetic Souvenir Sailboat Hotel Uae Harry Fanta Refrigerator Magnet",
+        "picUrl": "https://cdn.findqc.com/item/20250824/mepe99g4_5e6e.jpg",
+        "price": "¥5.38",
+        "toPrice": "$0.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "229484862",
+          "name": "Orange or Banana",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "2084768",
+        "mallType": "TB",
+        "itemId": "835958186977",
+        "title": "Scottish Edinburgh Tourist Attractions Castle Stereo Painted Relief Refrigerator Magnet Collection Souvenir Magnetic Sticker",
+        "picUrl": "https://cdn.findqc.com/item/20250824/mepe9by9_rrlx.jpg",
+        "price": "¥12.96",
+        "toPrice": "$2.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "266078190",
+          "name": "Fridge乔治玛丽",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1,
+        "picWidth": "1000",
+        "picHeight": "1000"
+      },
+      {
+        "id": "2173676",
+        "mallType": "TB",
+        "itemId": "914281549075",
+        "title": "World Travel Commemorative Collection Germany Berlin Munich Cultural and Creative Fridge Magnets Home Decoration Crafts Magnets",
+        "picUrl": "https://cdn.findqc.com/item/20250824/mep2xldu_of2g.jpg",
+        "price": "¥7.72",
+        "toPrice": "$1.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "264968222",
+          "name": "一只鱼旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1,
+        "picWidth": "600",
+        "picHeight": "800"
+      },
+      {
+        "id": "2173888",
+        "mallType": "TB",
+        "itemId": "659161101086",
+        "title": "Lisbon, Portugal: Local Architecture, Cultural Landscape, Creative Tourism, Commemorative Decoration Crafts, Magnet Refrigerator Stickers",
+        "picUrl": "https://cdn.findqc.com/item/20250824/mepe99ib_tfb1.jpg",
+        "price": "¥2.80",
+        "toPrice": "$0.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36799651",
+          "name": "冰箱贴批发",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2173832",
+        "mallType": "T1688",
+        "itemId": "896641171396",
+        "title": "Cross border e-commerce source, creative magnets, refrigerator stickers, 3D painted decorative crafts wholesale from various parts of Spain",
+        "picUrl": "https://cdn.findqc.com/item/20250824/mepe97ky_hiaj.jpg",
+        "price": "¥4.50",
+        "toPrice": "$0.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_QI8IwCKtglo47EmdYGprg",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2173875",
+        "mallType": "TB",
+        "itemId": "871103173083",
+        "title": "Türkiye Istanbul Bottle Opener Refrigerator Sticker Tourist Souvenir Personalized Creative Home Decoration Magnet",
+        "picUrl": "https://cdn.findqc.com/item/20250824/mep2pvar_8p9y.jpg",
+        "price": "¥9.60",
+        "toPrice": "$1.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "599295402",
+          "name": "织梦小舍",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "303458",
+        "mallType": "TB",
+        "itemId": "646570789159",
+        "title": "Nintendo Gameboy Color Gbc Buttons High-Quality Original Feel Buttons",
+        "picUrl": "https://cdn.findqc.com/item/20241204/m49uoha9_ntwc.jpg",
+        "price": "¥6.16",
+        "toPrice": "$0.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65440350",
+          "name": "老任粉丝团",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205031",
+        "mallType": "TB",
+        "itemId": "765778558511",
+        "title": "Korean Huginn and Muninn Official Website Cute Cow Cat Black Cat Luggage Stickers Traceless Planner Stickers",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ov59u_cpmh.jpg",
+        "price": "¥12.29",
+        "toPrice": "$1.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "119197371",
+          "name": "小狐狸的小狸猫",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "60177",
+        "mallType": "TB",
+        "itemId": "657122675292",
+        "title": "[Ready Stock] 08/24 Armor Armband",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mi9526_mqdb.jpg",
+        "price": "¥70.96",
+        "toPrice": "$11.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65711382",
+          "name": "Pro Soccer球衣装备店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35123",
+        "mallType": "TB",
+        "itemId": "777746212986",
+        "title": "Crocs Crocs accessories hole shoes flower cartoon cute KT cat head shoes buckle accessories KT Kitty five sets",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nki6e1_bvei.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34312",
+        "mallType": "TB",
+        "itemId": "583513150115",
+        "title": "Korean Creative 3D Refrigerator Magnets ins Food Toy Magnetic Cute Decorative Magnets Afternoon Tea Magnets",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nka18c_68iy.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34382225",
+          "name": "OknanaHome",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021144425831911108874",
+  "language": "en"
+}

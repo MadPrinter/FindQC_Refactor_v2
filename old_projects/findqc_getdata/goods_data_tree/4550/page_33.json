@@ -1,0 +1,357 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1805464",
+        "mallType": "WD",
+        "itemId": "7435057908",
+        "title": "Autumn and Winter Casual Fashion Hoodie 036",
+        "picUrl": "https://si.geilicdn.com/open1622168813-1234478995-412d00000195d06efe4b0a231226_1000_1000.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622168813",
+          "name": "CROWN SHOP",
+          "logo": "https://si.geilicdn.com/shopedit1942721790-0984000001967c90d2170a2304aa-unadjust_200_200.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1616255",
+        "mallType": "T1688",
+        "itemId": "816517922547",
+        "title": "American retro cross-border wholesale Alcatraz embroidered collar padded zipper jacket high street men's and women's casual pants",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01a6BagW1gLl8jpKeMn_!!2217262484126-0-cib.jpg",
+        "price": "¥63.00",
+        "toPrice": "$9.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217262484126",
+          "name": "广州良衣贸易商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1612273",
+        "mallType": "WD",
+        "itemId": "7489117550",
+        "title": "Pressed Rubber Pocket Jacket Black 6PM-14",
+        "picUrl": "https://si.geilicdn.com/wdseller1929751886-608b000001974595f74a0a23c286_1284_1284.jpg",
+        "price": "¥208.00",
+        "toPrice": "$32.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850874573",
+          "name": "Elephant-Brother",
+          "logo": "https://si.geilicdn.com/wdseller1274221412-646300000194d9d377ec0a230115_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1544314",
+        "mallType": "T1688",
+        "itemId": "918644441075",
+        "title": "Ultra-thin breathable sunscreen clothing men 2025 summer new sunscreen clothing jacket jacket thin section of casual sports windbreaker",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xeYxCZ1knTa0byyd5_!!2212352144728-0-cib.jpg",
+        "price": "¥4.99",
+        "toPrice": "$0.78",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 116,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "466432",
+        "mallType": "T1688",
+        "itemId": "817330366187",
+        "title": "Europe and the United States and the United States camouflage leaves printed hooded sweater men and women couple models American retro street hip-hop loose pullovers",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nkJRum1uxgbkmcWZK_!!2215786716104-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215786716104",
+          "name": "义乌市程恬网络科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1549129",
+        "mallType": "T1688",
+        "itemId": "905325475342",
+        "title": "Europe and the United States high street ins the same paragraph tide men and women jacket deerskin velvet thickening zipper large pockets jacket jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TmqLBk1Bs33U1graV_!!0-0-cib.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2113865",
+        "mallType": "T1688",
+        "itemId": "869703544469",
+        "title": "Higher version of the 1990 rushing jacket correct U.S. version of the three-in-one men and women couples with the same outdoor waterproof windproof mountaineering clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xtV8hk24RIlJ2WjLx_!!2219116837387-0-cib.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219116837387",
+          "name": "广州潮一鞋服商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2113842",
+        "mallType": "T1688",
+        "itemId": "576086928526",
+        "title": "Double sided BF loose short couple retro air force pilot jacket, MA1 baseball jacket, ins men's jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/9310663491_1744201465.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBa8xD9zx8WBdIlaWD6hOPkg",
+          "name": "福建省晋江市龙湖南浔菲利服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2111684",
+        "mallType": "T1688",
+        "itemId": "944186732040",
+        "title": "Cross-border European station high-end Monja jacket recycled nylon windproof sunscreen zipper hooded windbreaker jacket jacket men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SxJPt21TdXbXUdh1C_!!2219650122405-0-cib.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219650122405",
+          "name": "余姚市凯星集服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2110140",
+        "mallType": "T1688",
+        "itemId": "910266285303",
+        "title": "European station tide brand jacket men's summer thin Slim casual youth windproof simple fashion hooded sunscreen clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qdYAex2I4lvJdbhqZ_!!2219526389233-0-cib.jpg",
+        "price": "¥47.98",
+        "toPrice": "$7.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219526389233",
+          "name": "丹阳市云阳镇洁之宇百货商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2110065",
+        "mallType": "T1688",
+        "itemId": "837103628048",
+        "title": "Foreign trade sources one on behalf of the RL Ralph pony classic retro lapel zipper old cadres jacket couple of the same paragraph",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018fss5p1L5At453Hzh_!!2218601201247-0-cib.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218601201247",
+          "name": "义乌市玺乐服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1904213",
+        "mallType": "T1688",
+        "itemId": "880692545530",
+        "title": "F1 Embroidered Racing Suit Ferrari Jacket Thin American Street Hip Hop Trend Jacket Vintage Motorcycle Riding",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Q3AXmk2J3EBMYVHUd_!!2219153719365-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219153719365",
+          "name": "深圳市览城服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1904215",
+        "mallType": "T1688",
+        "itemId": "858984180792",
+        "title": "2025 Spring and Autumn New Cross-border Jacket Amazon Sporty Black Printed Casual Loose Long-sleeved Coat Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Yr6XPq1jYX4jI00Lk_!!2218927504560-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBa_MdisR7BLte-FETNbKJIQ",
+          "name": "广州依鸣惊人服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1800403",
+        "mallType": "WD",
+        "itemId": "7497234215",
+        "title": "Jacket#",
+        "picUrl": "https://si.geilicdn.com/open1735853037-1234478995-74b700000197a85be8fc0a8115c2_1080_1080.jpg",
+        "price": "¥284.99",
+        "toPrice": "$44.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1446319",
+        "mallType": "T1688",
+        "itemId": "782018680789",
+        "title": "23 new cross-border tide brand Chrome Hearts Crowe Sanskrit embroidery appliquéd leather denim high work washed jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Q6acb41EWT4IsSuc2_!!2216561520359-0-cib.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1265417",
+        "mallType": "WD",
+        "itemId": "7261836027",
+        "title": "************",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-41e600000190d8c620c20aa0233d_1074_1074.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1196273",
+        "mallType": "TB",
+        "itemId": "846040302789",
+        "title": "Cabinet 799! Men's 2024 Winter Fashion Collar Zipper Long Sleeve Mouth Decoration Texture Jacket Coat 0706512",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2212336833369/O1CN01FkAQjI1al3NbfscIr_!!2212336833369.jpg",
+        "price": "¥149.34",
+        "toPrice": "$23.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "525790634",
+          "name": "ZABA男装工厂店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1095438",
+        "mallType": "T1688",
+        "itemId": "856056382357",
+        "title": "High Version Cross-border Donkey Home Letter logo Towel Embroidered Ten Thousand Needles Embroidered Baseball Suit Coat Jacket for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016H3ZjD1IDTEVgp17m_!!2217072520859-0-cib.jpg",
+        "price": "¥215.00",
+        "toPrice": "$33.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB43c0D9eZAcHe9Z2FTn_aSA",
+          "name": "广州青澜服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1092314",
+        "mallType": "WD",
+        "itemId": "7342961896",
+        "title": "Special discount fitness training Hoodies",
+        "picUrl": "https://si.geilicdn.com/wdseller212273008-1c300000019421f0f9c50a231316_828_828.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "212273008",
+          "name": "The Sarah&#39;s Choice",
+          "logo": "https://si.geilicdn.com/weidian212273008-337b000001971ba3fda30a20e273_1152_1152.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1011649",
+        "mallType": "T1688",
+        "itemId": "840949663544",
+        "title": "2024 fall Slim stand-up collar jacket casual triangle label metal jacket trend male net red hundred with thin tops",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000002506/O1CN01xTnsb11UNnWQsN4nR_!!6000000002506-0-tbvideo.jpg",
+        "price": "¥37.00",
+        "toPrice": "$5.82",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146560741917131775",
+  "language": "en"
+}

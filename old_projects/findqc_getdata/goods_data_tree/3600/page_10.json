@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3053939",
+        "mallType": "WD",
+        "itemId": "7551969665",
+        "title": "SHCPFZ新款时尚百搭羽绒服-009",
+        "picUrl": "https://si.geilicdn.com/pcitem901983308669-3143000001995a913bcf0a231316_1440_1920.jpg",
+        "price": "¥729.00",
+        "toPrice": "$114.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1632381885",
+          "name": "DripCore",
+          "logo": "https://si.geilicdn.com/pcdecorate1902144425-4f8600000197683de6cf0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048903",
+        "mallType": "WD",
+        "itemId": "7573062237",
+        "title": "Moose 05/06 Scissors Down Jacket Hooded Fox Fur Collar 3q\n",
+        "picUrl": "https://si.geilicdn.com/open1780109907-1780109907-07a000000199ec2b1e270a23b491_1440_1920.jpg",
+        "price": "¥445.00",
+        "toPrice": "$69.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780109907",
+          "name": "LunaTrade",
+          "logo": "https://si.geilicdn.com/shopedit1999873750-6f7d00000199e6dc040f0a8134f0-unadjust_800_600.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3063140",
+        "mallType": "T1688",
+        "itemId": "896615259836",
+        "title": "M mengjia spring and autumn ladies light round neck sweater stitching down jacket 90 white duck down slim casual coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01c4OXci1yoIukwtODy_!!2217717326625-0-cib.jpg",
+        "price": "¥550.00",
+        "toPrice": "$86.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_q16Omkmyp0QikLcixoLTA",
+          "name": "莆田市秀屿区冠顶鞋服商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3051564",
+        "mallType": "TB",
+        "itemId": "844556723976",
+        "title": "Soft-Shell Light Luxury Casual down Jacket for Men 2025 Outdoor Thickened Men's 90 White Duck down Coat Versatile Winter Clothing",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2974155355/O1CN01LUqBQb1pQdvlbFtus_!!2974155355.jpg",
+        "price": "¥338.11",
+        "toPrice": "$53.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "268117060",
+          "name": "YIKUNZ潮流搭配ins超火",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048467",
+        "mallType": "T1688",
+        "itemId": "991734307181",
+        "title": "《毒家版高品质》现货RL家2025新款女士老钱风针织拼接羽绒服外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017utfkZ1d7cBqFVyjp_!!2220909573689-0-cib.jpg",
+        "price": "¥839.00",
+        "toPrice": "$131.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBlLAqa2agQTepsWVVdzmIog",
+          "name": "常州笋牵恋商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049683",
+        "mallType": "T1688",
+        "itemId": "976405865366",
+        "title": "跨境 Ralph Lauren/拉夫劳伦经典款可拆卸帽羽绒服羽绒服外套1282",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WVKmiv1M0sqN1T90E_!!2219449361373-0-cib.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_q16Omkmyp0QikLcixoLTA",
+          "name": "莆田市秀屿区冠顶鞋服商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3052242",
+        "mallType": "WD",
+        "itemId": "7604213111",
+        "title": "时尚户外保暖羽绒服TOP（1：1高版本）-20w",
+        "picUrl": "https://si.geilicdn.com/open1863516261-1234478995-06cf000001936e6a71460a210298_1200_1200.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1878756643",
+          "name": "YKC clothing shoe store 1:1-A3",
+          "logo": "https://si.geilicdn.com/wdseller1984311395-7d480000019ada2e35890a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048748",
+        "mallType": "WD",
+        "itemId": "7606190048",
+        "title": "羽绒棉服外套男宽松连帽棉衣加厚保暖套头夹克棉袄",
+        "picUrl": "https://si.geilicdn.com/open1838185197-1234478995-0c980000019a7c3b536e0a22d249_475_475.jpg",
+        "price": "¥348.00",
+        "toPrice": "$54.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1838185197",
+          "name": "TJ  Department",
+          "logo": "https://si.geilicdn.com/shopedit1943468612-570a00000199382810d50a239646-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049526",
+        "mallType": "WD",
+        "itemId": "7603966022",
+        "title": "QLH25-纯色棉服运动套装+86 19959480034",
+        "picUrl": "https://si.geilicdn.com/pcitem1980390250-657c0000019a1ad284600a23111a-unadjust_1200_1200.png",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1737128957",
+          "name": "TOP High quality",
+          "logo": "https://si.geilicdn.com/wdseller1970092633-061300000198991d28710a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049371",
+        "mallType": "WD",
+        "itemId": "7537809079",
+        "title": "2024新款北家羽绒服-CY",
+        "picUrl": "https://si.geilicdn.com/pcitem901861462944-5b7b00000191a7af90e70a2396f4-unadjust_825_833.png",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1823022805",
+          "name": "smle buy",
+          "logo": "https://si.geilicdn.com/pcdecorate901974800764-0793000001993262e0c30a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049729",
+        "mallType": "T1688",
+        "itemId": "980994753723",
+        "title": "跨境 Ralph Lauren/拉夫劳伦经典款可拆卸帽羽绒服羽绒服外套1282",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WVKmiv1M0sqN1T90E_!!2219449361373-0-cib.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220874827104",
+          "name": "莆田市城厢区度啡附商贸行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048755",
+        "mallType": "WD",
+        "itemId": "7569967041",
+        "title": "情侣款剪刀羽绒服男女士短款外套银狐夹克-CY",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-7873000001989d11559a0a23b491_1080_1080.jpg",
+        "price": "¥626.00",
+        "toPrice": "$98.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832488339",
+          "name": "Spreadsheetbuy",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048503",
+        "mallType": "T1688",
+        "itemId": "990321091488",
+        "title": "高版本~2025秋冬立领拉夫RL麻花针织袖拼接羽绒服假两件轻薄外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016N5Yaz1qsPf9gBs3b_!!2220346175551-0-cib.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220346175551",
+          "name": "广州陌上如玉服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049715",
+        "mallType": "T1688",
+        "itemId": "982484904815",
+        "title": "跨境 Ralph Lauren/拉夫劳伦经典款可拆卸帽羽绒服羽绒服外套1282",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WVKmiv1M0sqN1T90E_!!2219449361373-0-cib.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcNVwgPrw9l6OXkWWOa3Bdg",
+          "name": "莆田市城厢区科布一贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048779",
+        "mallType": "WD",
+        "itemId": "7606096298",
+        "title": "SJSQ-TOP qualityMEN  KO 羽绒服+86 183 5930 5797",
+        "picUrl": "https://si.geilicdn.com/pcitem1952693057-50930000019a44359e360a20e672-unadjust_1200_1200.png",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621679363",
+          "name": "Dress Domain",
+          "logo": "https://si.geilicdn.com/shopedit1972687266-0adc00000199483637170a231177-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3198852",
+        "mallType": "WD",
+        "itemId": "7586377667",
+        "title": "现货蒙家高版本M家25秋冬短款面料面包羽绒服男女同款可拆卸帽子",
+        "picUrl": "https://si.geilicdn.com/open1780109907-1780109907-45570000019a31d7f0450a8133b0_1080_1080.jpg",
+        "price": "¥500.00",
+        "toPrice": "$78.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780109907",
+          "name": "LunaTrade",
+          "logo": "https://si.geilicdn.com/shopedit1999873750-6f7d00000199e6dc040f0a8134f0-unadjust_800_600.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3198767",
+        "mallType": "WD",
+        "itemId": "7581810660",
+        "title": "男女同款连帽现货加厚保暖外套DM",
+        "picUrl": "https://si.geilicdn.com/pcitem1922988361-6bf30000019952abd6f70a8133cc_1920_1920.jpg",
+        "price": "¥259.00",
+        "toPrice": "$40.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1617346517",
+          "name": "SSLL",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2751360",
+        "mallType": "WD",
+        "itemId": "7550259031",
+        "title": "Winter vest coat",
+        "picUrl": "https://si.geilicdn.com/weidian212273008-50590000019a05199e690a23047e_1920_1440.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "212273008",
+          "name": "The Sarah&#39;s Choice",
+          "logo": "https://si.geilicdn.com/weidian212273008-337b000001971ba3fda30a20e273_1152_1152.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3198376",
+        "mallType": "T1688",
+        "itemId": "989556171116",
+        "title": "跨境Wyndham大鹅羽绒服29款加拿大3808男短款外套真狼毛双口袋",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018VRoti21bQkYJLG2A_!!2220748467003-0-cib.jpg",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220748467003",
+          "name": "广州繁希服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1156499",
+        "mallType": "T1688",
+        "itemId": "837563307804",
+        "title": "Color collision windproof hooded cotton jacket thickened warm trend leisure loose down jacket outdoor sports windproof bread clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wWmBFw1Bs2zgZLRkY_!!0-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142448012553884591",
+  "language": "en"
+}

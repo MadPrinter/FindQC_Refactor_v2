@@ -1,0 +1,452 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2874795",
+        "mallType": "T1688",
+        "itemId": "689927399533",
+        "title": "Free shipping a generation of screwdriver set Hot ratchet multi-function screwdriver Computer mobile phone repair tool home",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012fbF9e1hYruVviBb3_!!2527254290-0-cib.jpg",
+        "price": "¥2.00",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_kAS6nKcv6l64SX-cP4-jg",
+          "name": "汕头市澄海区卓群五金塑料制品厂",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1810484",
+        "mallType": "WD",
+        "itemId": "7228067815",
+        "title": "The Chao brand electric toothbrush 9 series toothbrush has a five level cleaning mode function, with three levels of force to choose from. The cleaning mode has a cleaning effect on dental plaque.",
+        "picUrl": "https://si.geilicdn.com/weidian323676306-4cd00000018e3319f23d0a20e2c5_1080_1070.jpg",
+        "price": "¥255.00",
+        "toPrice": "$40.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "323676306",
+          "name": "潮牌潮品潮流",
+          "logo": "https://si.geilicdn.com/weidian323676306-5d1a00000172939585de0a21c2a8_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2511831",
+        "mallType": "TB",
+        "itemId": "645171308678",
+        "title": "Dispai portable electric polishing pen, hand-held combat damage small mini, handheld polishing carving",
+        "picUrl": "https://cdn.findqc.com/item/20251004/mgbv0qr6_md6o.jpg",
+        "price": "¥16.80",
+        "toPrice": "$2.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102523719",
+          "name": "DSPIAE迪斯派",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2355349",
+        "mallType": "TB",
+        "itemId": "935045118135",
+        "title": "Upgraded Screwdriver Suit in 115 Multi-Functional Precision Screwdriver Bit Watch and Mobile Phone Repair Tool",
+        "picUrl": "https://cdn.findqc.com/item/20250909/mfbo71on_8fw6.jpg",
+        "price": "¥5.01",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "458274474",
+          "name": "雅图索优品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2123447",
+        "mallType": "T1688",
+        "itemId": "608733621415",
+        "title": "Cotton shoelaces in black, white, and beige, suitable for high and low tops, 1970s thick soled canvas sports shoes, men's and women's board shoe straps",
+        "picUrl": "https://cdn.findqc.com/item/20250817/meezvr5r_t2z1.jpg",
+        "price": "¥0.84",
+        "toPrice": "$0.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2621266960",
+          "name": "石狮市环兴鞋带织造有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1778275",
+        "mallType": "TB",
+        "itemId": "578133030608",
+        "title": "Watch repair tools, clocks, computers, watch repair tools, screwdrivers, small screwdrivers, small screwdrivers, straight and cross shaped screwdrivers",
+        "picUrl": "https://cdn.findqc.com/item/20250718/md7obd9f_4jtw.jpg",
+        "price": "¥1.60",
+        "toPrice": "$0.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112692739",
+          "name": "非凡手表配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "891273",
+        "mallType": "T1688",
+        "itemId": "564613603325",
+        "title": "Watch Tool 2068 Band Cutting Device Needle Combination 6 Set Cutting Steel Strap Changing Strap Aperture Size",
+        "picUrl": "https://cdn.findqc.com/item/20250225/m7kgqmya_gjcs.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "63131",
+        "mallType": "T1688",
+        "itemId": "595485875330",
+        "title": "Timex Strap Link Removal Tool Watch Replacement Kit, Watch Bracelet Removal Kit, 29 pcs",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjctj3_64dg.jpg",
+        "price": "¥16.84",
+        "toPrice": "$2.65",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "51424",
+        "mallType": "TB",
+        "itemId": "794641074953",
+        "title": "Multifunctional Screwdriver Set S2 Material Precision 25-in-1 Bit Combination Mobile Phone and Computer Repair Tool Screwdriver",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mh7ztf_aer4.jpg",
+        "price": "¥18.16",
+        "toPrice": "$2.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "487623660",
+          "name": "五金店铺直销",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "43449",
+        "mallType": "TB",
+        "itemId": "683577026484",
+        "title": "A Must-Have at Home! a Multi-Functional 25-in-1 Precision Manual Screwdriver Set with Great Appearance and Performance, Perfect as a Gift",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdy44c_kb0v.jpg",
+        "price": "¥15.14",
+        "toPrice": "$2.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111613376",
+          "name": "大老王十年外贸店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "8216",
+        "mallType": "T1688",
+        "itemId": "597130785070",
+        "title": "Watch Repair Tools/Henbo Screwdriver/Henbo Special Driver/U-Shape Screwdriver",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3ma0rby_h70z.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021144596212553920001",
+  "language": "en"
+}

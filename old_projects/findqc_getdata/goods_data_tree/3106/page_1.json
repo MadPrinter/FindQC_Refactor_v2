@@ -1,0 +1,449 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3206784",
+        "mallType": "T1688",
+        "itemId": "927336040926",
+        "title": "rhode海莉Haileyskin新品腮红棒piggy/freckle唇颊两用腮红膏",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0111qFdf1PEZXaMs5zO_!!2218383721809-0-cib.jpg",
+        "price": "¥5.87",
+        "toPrice": "$0.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218383721809",
+          "name": "广州市图君盛电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3126325",
+        "mallType": "TB",
+        "itemId": "821772247773",
+        "title": "Judydoll Orange Blossom Blush Cream Powder Contouring and Blushing All-In-One Multi-Use Palette Premium Rouge Highlighter Contouring for Women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1756873150/O1CN01reIJhZ1Z8kbF9uAIk_!!1756873150.jpg",
+        "price": "¥54.75",
+        "toPrice": "$8.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105397544",
+          "name": "kyeonglee在首尔",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3063367",
+        "mallType": "T1688",
+        "itemId": "874353692803",
+        "title": "New version of foreign trade color makeup D home background relief permanent monochrome powder blusher plate beginner makeup eye shadow 4.4g",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mKvUWw1M0QQfPh8yx_!!2219121191372-0-cib.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiEsV-IyKcV-J-w7PX2J4UA",
+          "name": "义乌市又宛电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2504115",
+        "mallType": "TB",
+        "itemId": "762694940011",
+        "title": "New Little Angel! Flower Knows Little Angel Cream Blush, Creates a Plumping Effect, Concealer, New Embossed Blush",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1731937590/O1CN01gG5wAi25wH3YzNkDY_!!1731937590.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113140717",
+          "name": "一只懒蛋代购酱",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2247458",
+        "mallType": "T1688",
+        "itemId": "904889248773",
+        "title": "New version of foreign trade makeup Di D home backstage embossed constant single color blush palette beginner makeup and cultivation eyeshadow 4.4g",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pWnsp71bVJOScueuJ_!!2219548313470-0-cib.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219548313470",
+          "name": "广州凌景何贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2670204",
+        "mallType": "T1688",
+        "itemId": "933005930125",
+        "title": "Huda Beauty Loose Powder Easy Bake Setting Powder Powder Cake هودا الجمال",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mh0f23ud_ri2z.jpg",
+        "price": "¥29.99",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqkKxo_iFXz4LR_1VYBwaCA",
+          "name": "上海天王卡玩具商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1340291",
+        "mallType": "T1688",
+        "itemId": "901790973932",
+        "title": "Cross-border explosions 12-color concealer blush plate makeup 12-1 multi-color matte blush rouge concealer plate cream",
+        "picUrl": "https://cdn.findqc.com/item/20250515/maozk218_oxr1.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxF4iwgNPKDWImAUDXr3S3g",
+          "name": "广州智吸纳贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 26,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1576303",
+        "mallType": "TB",
+        "itemId": "584816954855",
+        "title": "[Makeup gift] 3CE monochrome powder blusher small square expands and contracts, highlights, looks and multi-purpose official girl",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mci96e4w_rmvw.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "227910826",
+          "name": "3CE官方旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1361289",
+        "mallType": "WD",
+        "itemId": "4420796247",
+        "title": "20SS Supreme Debossed Glass Ashtray Two Color Crystal Ashtray Trendy Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20250619/mc2y6gn0_0vw3.jpg",
+        "price": "¥66.00",
+        "toPrice": "$10.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "231902",
+          "name": "苏坡密少年的一天",
+          "logo": "https://si.geilicdn.com/bj-wd-w231902-1524653502444-1823840786_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "48700",
+        "mallType": "TB",
+        "itemId": "695716761246",
+        "title": "Zhu Zhan Red Chamber Chunshu Rc Multi-Use Cream Crystal Limited Edition Silk Shadow Blush Eyeshadow Lipstick Lip Balm",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgd90u_1nnt.jpg",
+        "price": "¥16.46",
+        "toPrice": "$2.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "456682411",
+          "name": "吃土少女买买买",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140166131911153161",
+  "language": "en"
+}

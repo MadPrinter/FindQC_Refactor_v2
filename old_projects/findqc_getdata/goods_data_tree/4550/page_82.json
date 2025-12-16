@@ -1,0 +1,183 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "229399",
+        "mallType": "WD",
+        "itemId": "7245446227",
+        "title": "Gray and White Trench Coat C-25",
+        "picUrl": "https://cdn.findqc.com/item/20241122/m3sbg7be_53m9.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274221412",
+          "name": "Elephant",
+          "logo": "https://si.geilicdn.com/wdseller1274221412-77390000018f660dd8030a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "229371",
+        "mallType": "TB",
+        "itemId": "824855730408",
+        "title": "Trendy Sweatshirt Multi-Color Suit Customization",
+        "picUrl": "https://cdn.findqc.com/item/20241122/m3sbdm25_fqt5.jpg",
+        "price": "¥225.39",
+        "toPrice": "$35.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "516513794",
+          "name": "3madman",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 86,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205396",
+        "mallType": "TB",
+        "itemId": "832053804954",
+        "title": "(Now) Vitements 19Aw Alpha Industries Tribal Bomber Blue Cotton Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42oxm6g_u26m.jpg",
+        "price": "¥926.89",
+        "toPrice": "$145.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263269114",
+          "name": "VOGUE ITEMS",
+          "type": "TB"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204968",
+        "mallType": "WD",
+        "itemId": "7255301308",
+        "title": "(In stock) Self owned NiuNiu/Retro Corduroy Cotton Jacket with Collar and Zipper/3M New Cheryl Cotton Fillet/Natural Selection Horn Buckle/3D Stereoscopic Cutting/Xinjiang Long staple Cotton",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42otyef_lkca.jpg",
+        "price": "¥478.00",
+        "toPrice": "$75.16",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204652",
+        "mallType": "TB",
+        "itemId": "739825792424",
+        "title": "Men's Outwear Autumn and Winter 2025 New Hooded Jacket Korean Style Trendy Fleece-Lined Thickened Mid-Length Windbreaker Cotton-Padded Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42oskd8_l65l.jpg",
+        "price": "¥41.18",
+        "toPrice": "$6.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "348283088",
+          "name": "卡瓦度旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204530",
+        "mallType": "TB",
+        "itemId": "730943298970",
+        "title": "Unblank Vintage Washed and Aged J130 American Men's Workwear Hoodie Jacket 3M New Cheryl Cotton Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42orzjo_p4pj.jpg",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108923552",
+          "name": "Unblank",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204274",
+        "mallType": "TB",
+        "itemId": "740947982746",
+        "title": "ANGELKING Sailboat Woven Jacket Coat Windbreaker Unisex",
+        "picUrl": "https://cdn.findqc.com/item/20241120/m3ops1wv_hyid.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200494",
+        "mallType": "TB",
+        "itemId": "827187796474",
+        "title": "(Bangbang made) 24ss Graffiti Stained Tattoo Pattern Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ofdr4m_jxs4.jpg",
+        "price": "¥9,999.00",
+        "toPrice": "$1,572.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "300311748",
+          "name": "邦邦 made",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200481",
+        "mallType": "TB",
+        "itemId": "809389343196",
+        "title": "(Rare) Vtm Ss17 Runway Detachable Reversible Cotton Jacket ins Trending Item",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3oezmfu_e7aq.jpg",
+        "price": "¥802.35",
+        "toPrice": "$126.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263269114",
+          "name": "VOGUE ITEMS",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200414",
+        "mallType": "TB",
+        "itemId": "831880395955",
+        "title": "Casual De Wei High-Weight Ma Jia Style Cleanfit Knitwear Sweater Wool Cardigan Coat High-Neck Men's",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3odw415_ig8f.jpg",
+        "price": "¥121.76",
+        "toPrice": "$19.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333395203",
+          "name": "不挣钱的惠州人",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147352001914130999",
+  "language": "en"
+}

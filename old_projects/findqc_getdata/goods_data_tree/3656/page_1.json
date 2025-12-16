@@ -1,0 +1,493 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3111475",
+        "mallType": "WD",
+        "itemId": "7602132145",
+        "title": "Double Eleven Special Offer: Astro Boy 1.0 Outdoor Hooded Jacket Cotton Jacket\n",
+        "picUrl": "https://si.geilicdn.com/pcitem727423186-799c0000019a7ab20a1b0a23037f_1438_1918.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "727423186",
+          "name": "REP Emperor",
+          "logo": "https://si.geilicdn.com/wdseller727423186-6f0400000198118992270a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048448",
+        "mallType": "TB",
+        "itemId": "976017525770",
+        "title": "Winter Bird⃝͌Home Atom Hoody Outdoor Sports Casual Fashion Couple's Warm Hooded Cotton Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2216623039267/O1CN01rGpUGj2IKLRVZP1S7_!!2216623039267.jpg",
+        "price": "¥492.31",
+        "toPrice": "$77.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "578213169",
+          "name": "XX户外集中营",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1928134",
+        "mallType": "WD",
+        "itemId": "7311963830",
+        "title": "St*ne Island Jacket",
+        "picUrl": "https://si.geilicdn.com/open1831945424-1234478995-18fa000001936a20be070a8115b5_800_800.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1831945424",
+          "name": "Reps Designer",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2955484",
+        "mallType": "WD",
+        "itemId": "7598758694",
+        "title": "macai black/Distortion（Real down）",
+        "picUrl": "https://si.geilicdn.com/pcitem2006634428-1e640000019a7245fc9a0a231177-unadjust_543_586.png",
+        "price": "¥700.00",
+        "toPrice": "$110.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1817771187",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2374133",
+        "mallType": "WD",
+        "itemId": "7545056401",
+        "title": "Kaishi cotton coat anti splash P cotton warm outdoor hiking hooded cotton jacket 9.9 qJ",
+        "picUrl": "https://si.geilicdn.com/pcitem1417299265-3773000001992d1830df0a21146b_1440_1920.jpg",
+        "price": "¥285.00",
+        "toPrice": "$44.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707804864",
+          "name": "不二家",
+          "logo": "https://si.geilicdn.com/weidian1417299265-7f700000018ece14a7660a23136f_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2660447",
+        "mallType": "TB",
+        "itemId": "695632609562",
+        "title": "Nike/Nike Men's Running Sports Training Casual Windproof Warm Lightweight Down Jacket DD5668-010",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgm3ogb0_0vxb.jpg",
+        "price": "¥649.00",
+        "toPrice": "$102.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "182169120",
+          "name": "博诚体育 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2252328",
+        "mallType": "TB",
+        "itemId": "839817191260",
+        "title": "【 Clearance 】 Andema UA Autumn Men's Sports Jacket Warm Training Casual Running Coat Cotton Coat 1378057",
+        "picUrl": "https://cdn.findqc.com/item/20250829/mewrmyko_f2mx.jpg",
+        "price": "¥504.71",
+        "toPrice": "$79.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "524837351",
+          "name": "安德玛宏程有志专卖店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204518",
+        "mallType": "WD",
+        "itemId": "6171427850",
+        "title": "Item No. 32609 1990 Punching Jacket Jacket, classic model, fabric quality is fully upgraded, double zipper can take the inner liner, the ** version of their mouths, suede lining, the size is on the large side, the maximum can be worn 240 kg",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42orvuu_lh5x.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "203659635",
+          "name": "「移步新店」 BAT SHOP蝙蝠商社  上新下单都去新店",
+          "logo": "https://si.geilicdn.com/bj-vshop-203659635-1497498288063-638755670_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "194272",
+        "mallType": "TB",
+        "itemId": "846063798328",
+        "title": "DAG stoic MIG4.0 military fan outdoor winter ski cotton anti-cold cold thickened warm clothes jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqvpne_rc4n.jpg",
+        "price": "¥408.00",
+        "toPrice": "$64.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "114971339",
+          "name": "DAG工作室",
+          "type": "TB"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "65268",
+        "mallType": "TB",
+        "itemId": "687396865973",
+        "title": "Vietnam Production Dollar Single! Fall and Winter P Cotton Gold Label Eco-Friendly Lightweight Warm Hooded Cotton Jacket Fluorine Free Waterproof-2DWT24",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mk1xks_eooi.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "categoryId": 33,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "21763",
+        "mallType": "TB",
+        "itemId": "674365781667",
+        "title": "NJWN J1A-GT 3-in-1 Urban Functional Outdoor Pressurized Rubber Windproof Waterproof Hooded Sweatshirt Non-ACRONYM",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ng15rh_g13r.jpg",
+        "price": "¥968.00",
+        "toPrice": "$152.21",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "18908",
+        "mallType": "WD",
+        "itemId": "7224193549",
+        "title": "For 330\nAr Series Leaf Cold Wx Lt Gen 2 Windproof Warm Hooded Cotton Jacket 2nd Generation Military Niao Cotton Jacket.\n",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nf60lg_psvi.jpg",
+        "price": "¥330.00",
+        "toPrice": "$51.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1623955380",
+          "name": "潮集",
+          "logo": "https://si.geilicdn.com/wdseller1489341215-01ff0000017520d36eae0a217205_640_640.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "12300",
+        "mallType": "TB",
+        "itemId": "745009363642",
+        "title": "Smooth hair force push tripod! High-end Light Warm Men's Outdoor Lightweight P Cotton Waterproof Warm Standing Collar Cotton Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mby63p_pwng.jpg",
+        "price": "¥143.00",
+        "toPrice": "$22.49",
+        "status": "normal",
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143077011911106560",
+  "language": "en"
+}

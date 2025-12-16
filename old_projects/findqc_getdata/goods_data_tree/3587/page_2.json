@@ -1,0 +1,386 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2232877",
+        "mallType": "WD",
+        "itemId": "7521710353",
+        "title": "T8NF Colorblocked Retro Sport Stand Collar Long Sleeve Down Jacket",
+        "picUrl": "https://si.geilicdn.com/open1712888821-1234478995-1e2d0000019888b96cab0a22d249_1170_1170.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1712888821",
+          "name": "youngstarz (shoes)",
+          "logo": "https://si.geilicdn.com/wdseller1917456644-0229000001946857da350a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2183107",
+        "mallType": "T1688",
+        "itemId": "890384478363",
+        "title": "Cross-border new pata bata outdoor couple models soft shell rushing jacket windproof waterproof hooded jacket jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01e6BLLj1u6Yg0xE6Ai_!!2219356945988-0-cib.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219356945988",
+          "name": "宁海极简服装商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3064275",
+        "mallType": "WD",
+        "itemId": "7477117488",
+        "title": "高端口袋男女羽绒服派克连帽情侣加厚工装保暖大衣防风外套",
+        "picUrl": "https://si.geilicdn.com/open1815755824-1234478995-1ec600000196fdd89ef10a23b491_750_750.jpg",
+        "price": "¥470.00",
+        "toPrice": "$73.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1815755824",
+          "name": "piglet",
+          "logo": "https://si.geilicdn.com/wdseller901978924869-589700000199c683ee3b0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2983762",
+        "mallType": "WD",
+        "itemId": "7592801842",
+        "title": "Wyndham 29 Men/Women Coyote Hooded Down Jacket 3808M",
+        "picUrl": "https://si.geilicdn.com/wdseller1963375471-3b3f0000019a456d3cde0a2315ef_1288_1288.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1671846845",
+          "name": "best jacket factory",
+          "logo": "https://si.geilicdn.com/wdseller1963375471-12860000019a78586f8c0a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1479173",
+        "mallType": "T1688",
+        "itemId": "798094853853",
+        "title": "2025 Winter Korean Style Men's down Jacket, Non-Iron Treatment, Cotton Long Fashion Urban Hooded Coat for Extreme Cold",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WlWRKp22ux6h75ksa_!!2212344817181-0-cib.jpg",
+        "price": "¥600.00",
+        "toPrice": "$94.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEg8hk1Lzx6TuhS6zpgTXqA",
+          "name": "城厢区龙桥向永超服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1019031",
+        "mallType": "WD",
+        "itemId": "7308230768",
+        "title": "Freps-High Quality Casual Shoes 006",
+        "picUrl": "https://si.geilicdn.com/pcitem901898887328-2f9a00000192a94e0ef40a23057e-unadjust_800_800.gif",
+        "price": "¥204.00",
+        "toPrice": "$32.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1817828565",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1902461191-578800000196b9cb17c30a2315ef-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604816",
+        "mallType": "WD",
+        "itemId": "7551144346",
+        "title": "Camad@ G005e Down Coat",
+        "picUrl": "https://si.geilicdn.com/open1720914037-1234478995-20e7000001943c69c43a0a8133b5_1080_1080.jpg",
+        "price": "¥569.00",
+        "toPrice": "$89.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1740798630",
+          "name": "SOMO",
+          "logo": "https://si.geilicdn.com/wdseller1670823589-57f70000018f4cf7bbc50a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1424714",
+        "mallType": "WD",
+        "itemId": "7311531419",
+        "title": "Winter new 1996 men's down jacket men's American classic embroidery loose fashion casual trend men's jacket",
+        "picUrl": "https://si.geilicdn.com/open1648936853-1234478995-6c8b0000019370da4b570a8115b5_1066_1066.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648936853",
+          "name": "StyleTransit",
+          "logo": "https://si.geilicdn.com/shopedit1898318301-4f3900000198d55a5daa0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3086563",
+        "mallType": "WD",
+        "itemId": "7608551584",
+        "title": "29 types of foreign trade goose down jackets from Canada, Wyndhaw men's style, overcome challenges with wolf fur collar, outdoor leisure versatile",
+        "picUrl": "https://si.geilicdn.com/pcitem1960431235-03a70000019a8d8eeeec0a23047e_1080_1080.jpg",
+        "price": "¥462.00",
+        "toPrice": "$72.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710611773",
+          "name": "2025GOBUY",
+          "logo": "https://si.geilicdn.com/wdseller1960431235-5e0c000001988ff44d550a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2068676",
+        "mallType": "WD",
+        "itemId": "7521607151",
+        "title": "CF winter warm heart must have! Light and warm, fashionable and versatile, down cotton jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1967540221-4ad5000001987424953e0a2396f4_1200_1200.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "165821798",
+          "name": "Tmi Shop",
+          "logo": "https://si.geilicdn.com/shopedit165821798-7ad600000193fc327cd90a231316-unadjust_492_492.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2389392",
+        "mallType": "WD",
+        "itemId": "7542208050",
+        "title": "Nine colors (15 new colors added) 1996 down and cotton jacket comes standard with a genuine tote bag made of high-quality down cotton, full and elastic with excellent resilience. Imported machine, precision embroidery, factory customized zipper, 15 new colors added",
+        "picUrl": "https://si.geilicdn.com/wdseller1424843450-43830000017cf30acfdf0a20e2c5_1170_780.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2258800",
+        "mallType": "WD",
+        "itemId": "7513373282",
+        "title": "N Jacket Coat Set-MLMLSPHO0202",
+        "picUrl": "https://si.geilicdn.com/open1326912390-1234478995-74a9000001982c572ce70a23b4de_1080_1080.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1326912390",
+          "name": "Kung-Fu",
+          "logo": "https://si.geilicdn.com/shopedit1326912390-465c000001922657a18d0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3085449",
+        "mallType": "WD",
+        "itemId": "7204094541",
+        "title": "17款大鹅 Canad* Goos* Macmillan 羽绒服",
+        "picUrl": "https://si.geilicdn.com/wdseller1814780747-18dc0000018d427c22c10a231179_960_1363.jpg",
+        "price": "¥699.00",
+        "toPrice": "$109.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661102153",
+          "name": "Luxury Fashion",
+          "logo": "https://si.geilicdn.com/wdseller1814780747-4e6b00000191b1e936eb0a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1248993",
+        "mallType": "T1688",
+        "itemId": "831429666728",
+        "title": "Beibei 2024 Men's Winter Clothing Printed New Coat TNF Thickened Fashionable Men's and Women's Cotton Clothes Windproof Casual All-match",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aAuew71oVqvamFmC3_!!2211149215231-0-cib.jpg",
+        "price": "¥93.50",
+        "toPrice": "$14.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBn8LmhS6DdBHcu2Ba_UZGhQ",
+          "name": "佛山市南海区占有量服饰贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2913511",
+        "mallType": "WD",
+        "itemId": "7584574141",
+        "title": "High quality casual trendy jacket with patchwork hooded cotton jacket, please add WhatsApp:+14027075283 if you need size guide",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-68d600000199c320dcf20a23b4de_1439_1920.jpg",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1625782829",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3147682",
+        "mallType": "T1688",
+        "itemId": "982005147324",
+        "title": "大鹅男士羽绒服13款Lang ford保暖外套2062MA冬季中长款外套高端",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011IipIQ2LsBY1iJ8Wd_!!2220842699747-0-cib.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPHD48q9luAPLORBFK9RZhw",
+          "name": "莆田市秀屿区东庄呗鹅百货店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2596968",
+        "mallType": "WD",
+        "itemId": "7308342879",
+        "title": "Freps-High Quality Casual Shoes 008",
+        "picUrl": "https://si.geilicdn.com/pcitem901898887328-6b6200000192c789558d0a23041a-unadjust_799_800.gif",
+        "price": "¥756.00",
+        "toPrice": "$118.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1817828565",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1902461191-578800000196b9cb17c30a2315ef-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2332400",
+        "mallType": "T1688",
+        "itemId": "954243575692",
+        "title": "Winter New Couple American 1996 Embroidered Thick Cotton Coat Warm and Casual Cotton Clothes Outdoor Trendy Bread Coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011fVp3V1Y23BagSIBF_!!2218579983000-0-cib.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJq9ItVaR574gmwIYWF3euQ",
+          "name": "佛山市南海区亨瑞跨境服装贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2975946",
+        "mallType": "T1688",
+        "itemId": "942038857269",
+        "title": "Cross-Border High-End Version of the 1996 American-Style Men's Cotton Loose 700-Fill Power Puffer Jacket with Embroidery, Winter Edition",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pBh0WX2935wsXN0xc_!!2220007468011-0-cib.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOL5PKWm8lTy_LEOC-mog7Q",
+          "name": "义乌市蒲娅服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2419684",
+        "mallType": "WD",
+        "itemId": "7552434140",
+        "title": "TNF Classic Jacket 1990 Special Offer",
+        "picUrl": "https://cdn.findqc.com/item/20250921/mftcms2a_iecf.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867856861",
+          "name": "BRMADE",
+          "logo": "https://si.geilicdn.com/wdseller901963457920-2e4c000001975d0e16bd0a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 138,
+        "qcVideoCnt": 14
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114234783194363014",
+  "language": "en"
+}

@@ -1,0 +1,637 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3097320",
+        "mallType": "WD",
+        "itemId": "7573724697",
+        "title": "Versatile fashionable down jacket834",
+        "picUrl": "https://si.geilicdn.com/open1812172141-1234478995-46de00000195b596baea0a231226_1080_1080.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850795603",
+          "name": "blesspenn2",
+          "logo": "https://si.geilicdn.com/weidian2000506705-75e400000199e91668bb0a20e672_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049369",
+        "mallType": "TB",
+        "itemId": "984788798525",
+        "title": "Trapstar Cotton Jacket Drill European and American Hip Hop Drip Winter Men's and Women's Cotton Classic Style Star Same Coat",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1758909839/O1CN01KBzEYT2MYJzHx3gBy_!!1758909839.jpg",
+        "price": "¥183.20",
+        "toPrice": "$28.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106546547",
+          "name": "海外小众设计师",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049103",
+        "mallType": "T1688",
+        "itemId": "649345258284",
+        "title": "新款现货智能发热棉服男女充电加热棉衣USB发热电热马甲保暧外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TsQevT1h0WUktaR7V_!!1728784215-0-cib.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1728784215",
+          "name": "石狮市正泰鑫服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048290",
+        "mallType": "WD",
+        "itemId": "7594288093",
+        "title": "秋冬保暖棉服",
+        "picUrl": "https://si.geilicdn.com/pcitem979960728-5652000001987df234f60a210139_1200_1200.jpg",
+        "price": "¥386.00",
+        "toPrice": "$60.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1749755059",
+          "name": "Star Dream Clothing Pavilion",
+          "logo": "https://si.geilicdn.com/shopedit2006493445-5c090000019a81f3b8470a207569-unadjust_589_589.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3065614",
+        "mallType": "WD",
+        "itemId": "7552556016",
+        "title": "(110-180) Soft and lightweight down cotton children's down cotton jacket, winter new children's clothing 0903",
+        "picUrl": "https://si.geilicdn.com/wdseller1444539219-38ef000001995224cf150a240147_1440_1440.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864128688",
+          "name": "夏夏童品（童鞋童装）",
+          "logo": "https://si.geilicdn.com/wdseller1444539219-1bf200000179006d0b570a217216_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3086414",
+        "mallType": "T1688",
+        "itemId": "994094045875",
+        "title": "F1赛车服刺绣夹克全款式复古机车骑行服棒球服加棉f1外套支持定制",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017hL37t1drPnWKR32h_!!2219401663789-0-cib.jpg",
+        "price": "¥82.00",
+        "toPrice": "$12.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4iS11u76PeJPRy6ix0O2ww",
+          "name": "深圳市基盛户外用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2305288",
+        "mallType": "WD",
+        "itemId": "7494627409",
+        "title": "Outdoor Travel Punching Jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem901901383085-1cc9000001933dd51b910a23041a_1200_1200.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1755133309",
+          "name": "UMI  001",
+          "logo": "https://si.geilicdn.com/shopedit1966143279-159500000197a5219b4c0a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2335404",
+        "mallType": "TB",
+        "itemId": "864834067534",
+        "title": "Nike/Nike Authentic New Men's Off Road Running Spliced Warm Loose Cotton Jacket FZ0004-010",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/738840638/O1CN01ZCV4SV1GaFhmsQsWt-738840638.jpg",
+        "price": "¥789.00",
+        "toPrice": "$124.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104577226",
+          "name": "冲鸭运动正品折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2914326",
+        "mallType": "WD",
+        "itemId": "7573424278",
+        "title": "c.k Hooded Down Jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1932471062-55010000019944e1cd040a23041a_1440_1920.jpg",
+        "price": "¥306.18",
+        "toPrice": "$48.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1643765139",
+          "name": "Heart-rending",
+          "logo": "https://si.geilicdn.com/shopedit1998448171-185500000199e794a7dc0a20e7c7-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "38356",
+        "mallType": "T1688",
+        "itemId": "742952291182",
+        "title": "Korean style ins embroidered animal solid color hooded sweater cover fleece-lined thick long sleeve warm loose zipper suit",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nlv7jo_s0tk.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKcMNfL1uyZjwdGYJ_Y9Aog",
+          "name": "佛山市佰岁服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "331442",
+        "mallType": "T1688",
+        "itemId": "803627171915",
+        "title": "Croteiz American Street Style Cotton Jacket with Correct Version Small Logo Embroidery Ins Trendy Winter Thickened Warm Coat",
+        "picUrl": "https://cdn.findqc.com/item/20241213/m4lwxhed_gutc.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOn9TUxGLrZlN81fUqBaUfQ",
+          "name": "广州市番禺区盛潮衣商贸商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 203,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2762556",
+        "mallType": "T1688",
+        "itemId": "750390575119",
+        "title": "2023 winter American retro embroidery suede cotton jacket men and women tide loose lamb wool warm coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01h08VxR235wYKnfyaN_!!2208868997205-0-cib.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208868997205",
+          "name": "玉环星晟服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2805257",
+        "mallType": "T1688",
+        "itemId": "985090003895",
+        "title": "Winter cotton jacket NOCTA cotton jacket stand up collar bread jacket star style shiny down cotton jacket wholesale for foreign trade",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wv7tby2CVRL4gymuJ_!!2220079998479-0-cib.jpg",
+        "price": "¥126.00",
+        "toPrice": "$19.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXw7vyQ9ThzcHh9kA9eFakA",
+          "name": "广州逾昭电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2733024",
+        "mallType": "WD",
+        "itemId": "7568394232",
+        "title": "jl23-a di s large size new high quality jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem901971869584-295a00000198f65061bb0a20e7c7_1280_1280.jpg",
+        "price": "¥167.00",
+        "toPrice": "$26.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1625577027",
+          "name": "copyclub",
+          "logo": "https://si.geilicdn.com/shopedit1977601266-39db00000198645f712d0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2733297",
+        "mallType": "WD",
+        "itemId": "7551797719",
+        "title": "Fashion Cotton Suit RE",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-3c3e00000198506f67ad0aa0c791_1200_1200.jpg",
+        "price": "¥300.00",
+        "toPrice": "$47.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1715655427",
+          "name": "My small shop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2711157",
+        "mallType": "WD",
+        "itemId": "7566524840",
+        "title": "Ralph Lauren Lauren 2025 Autumn/Winter",
+        "picUrl": "https://si.geilicdn.com/weidian1425960945-4d3600000199a52265b70a20e7c7_2048_2048.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622399072",
+          "name": "TOPKIDS欧美大牌定制童装",
+          "logo": "https://si.geilicdn.com/weidian1425960945-58660000018c4b0dff2d0a8133ca_974_974.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2698966",
+        "mallType": "WD",
+        "itemId": "7570853149",
+        "title": "eight thousand two hundred and three",
+        "picUrl": "https://si.geilicdn.com/wdseller1947147904-225200000199de7c1de60a20e672_1288_1288.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604335",
+        "mallType": "T1688",
+        "itemId": "905924795167",
+        "title": "Trapstar cotton clothing Drill Europe and the United States hip-hop drip winter men and women plus cotton classic paragraph star with the same paragraph jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018M1nD61oAKFbv0VSZ_!!2219421745184-0-cib.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219421745184",
+          "name": "小宝国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2605129",
+        "mallType": "TB",
+        "itemId": "851866707112",
+        "title": "Melard Fur Collar Cotton Jacket for Men and Women, Winter High-End American Retro Short Cotton Coat, Thickened Padded Hooded Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgdi3ye8_qaya.jpg",
+        "price": "¥100.83",
+        "toPrice": "$15.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112659548",
+          "name": "喜欢就穿",
+          "type": "TB"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3071329",
+        "mallType": "TB",
+        "itemId": "858654976543",
+        "title": "Brand Export~ Counter Clearance Gp Stand-Up Collar Cotton Jacket, Unisex, 2025 Winter, Loose Casual Thickened Top",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2215157626698/O1CN01ElZ2BM1zLjrbvvDga_!!4611686018427385674-0-item_pic.jpg",
+        "price": "¥37.88",
+        "toPrice": "$5.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "490031715",
+          "name": "GP服饰配件旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021142030392553928935",
+  "language": "en"
+}

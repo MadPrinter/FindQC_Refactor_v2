@@ -1,0 +1,43 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "21568",
+        "mallType": "TB",
+        "itemId": "584874913549",
+        "title": "Hairdressing Professional Spray Bottle Supplies Tools High-Pressure Beauty Spray Ultra-Fine Water Bottle Hydration Bottle Liquid",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ng0tyi_55l8.jpg",
+        "price": "¥7.98",
+        "toPrice": "$1.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110515102",
+          "name": "柏韵姿美发用品工具",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "20873",
+        "mallType": "T1688",
+        "itemId": "643517399738",
+        "title": "Coriton Electric Grinder Crossborder Gravity Sensor Mini Smart Salt & Pepper Mill Electric Grinder",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfscls_37c8.jpg",
+        "price": "¥17.90",
+        "toPrice": "$2.81",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142245692553904767",
+  "language": "en"
+}

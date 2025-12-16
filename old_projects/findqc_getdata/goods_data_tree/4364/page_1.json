@@ -1,0 +1,359 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "195275",
+        "mallType": "TB",
+        "itemId": "561598873466",
+        "title": "Peter Rabbit in the Garden Features a Variety of Festive American Country-Style Christmas, Thanksgiving, and Halloween Pure Cotton Fabric Tablecloths",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ne37bb_nqki.jpg",
+        "price": "¥60.72",
+        "toPrice": "$9.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33632751",
+          "name": "维也纳森林家居 美式乡村范儿经典家纺聚集地",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "70205",
+        "mallType": "TB",
+        "itemId": "744419302445",
+        "title": "2025 New Year Tablecloth Waterproof and Oil-Proof No-Wash Tablecloth Year of the Snake New Year Festive Atmosphere Red Fortune Coffee Table Cloth",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmvbhu_jowb.jpg",
+        "price": "¥22.34",
+        "toPrice": "$3.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "67331665",
+          "name": "仁泰旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "37248",
+        "mallType": "WD",
+        "itemId": "7239247103",
+        "title": "Blue Suit Jacquard Trousers",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nl7hoz_57hy.jpg",
+        "price": "¥468.00",
+        "toPrice": "$73.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1367236596",
+          "name": "Thunder02",
+          "logo": "https://si.geilicdn.com/shopedit1367236596-53c20000018dbcbe65270a22d246-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "9673",
+        "mallType": "TB",
+        "itemId": "714358364126",
+        "title": "Tablecloth for Wedding Coffee Table, Red Wedding Celebration Rectangular Tablecloth, New Chinese Style Wedding with Double Happiness Character, Round Table Red Tablecloth",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3marvqi_cwn5.jpg",
+        "price": "¥35.48",
+        "toPrice": "$5.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "185744525",
+          "name": "ug居家日用旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6928",
+        "mallType": "TB",
+        "itemId": "602863986434",
+        "title": "ins Korean Style 3D Luminous Led Digital Clock, Simple and Versatile Wall Clock for Home, Electronic Clock, Creative Desktop Alarm Clock",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9lflv_80pm.jpg",
+        "price": "¥16.39",
+        "toPrice": "$2.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58700204",
+          "name": "洪亮电子礼品",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146006112553928207",
+  "language": "en"
+}

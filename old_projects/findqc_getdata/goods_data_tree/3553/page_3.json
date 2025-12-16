@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2486652",
+        "mallType": "WD",
+        "itemId": "7535048837",
+        "title": "GVCI sweater",
+        "picUrl": "https://si.geilicdn.com/pcitem1911604505-05f900000198efc2b5920a23111a_3024_3024.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1720914037",
+          "name": "RepFshion",
+          "logo": "https://si.geilicdn.com/shopedit1911604505-4b5100000196aad7310b0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2436775",
+        "mallType": "WD",
+        "itemId": "7504076102",
+        "title": "Autumn and Winter Fashion Versatile Sweater Knit Sweater 005",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-6c2a00000197d57a792d0a8133b0_2000_2000.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3156893",
+        "mallType": "T1688",
+        "itemId": "870837942942",
+        "title": "High Version R Ravolo Horse Embroidered Twist Sweater Crewneck Turtleneck Knitted Shirt Casual All-Match Old Money Style Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RNsQdG1XnOY4DcTwg_!!2219125512968-0-cib.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8PqkJYmv7J25Q03eIF0xQA",
+          "name": "广州奕宸服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2787431",
+        "mallType": "T1688",
+        "itemId": "844992023039",
+        "title": "Autumn and Winter New Thick Sweater Men's Korean Style Fashionable Loose Light Luxury Lapel Knit Sweater with Button",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CVfrhh1Lj1Lv6MF2s_!!2210991021334-0-cib.jpg",
+        "price": "¥39.50",
+        "toPrice": "$6.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBg2sPn1C6Ph2PPUYjVs4iJA",
+          "name": "广州衣品汇服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2786379",
+        "mallType": "TB",
+        "itemId": "986564366361",
+        "title": "Erd21Aw Smoker-Style Patchwork Irregular V-Neck Sweater 100% Wool, the Melancholic Rich Kid",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2215491692738/O1CN01vuIjgh1W63WfUPARV_!!2215491692738.jpg",
+        "price": "¥407.71",
+        "toPrice": "$64.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "462838309",
+          "name": "轨迹made",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3147951",
+        "mallType": "WD",
+        "itemId": "7591470244",
+        "title": "卡通熊毛衣女针织衫 2025新羊毛混纺提花刺绣卡通熊公仔长袖圆领",
+        "picUrl": "https://si.geilicdn.com/open1789896019-1789896019-05bf0000019a4117d83d0a23b4de_800_800.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789896019",
+          "name": "Kopiax",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-4e3500000199f1873e460a8133cc_1080_1440.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975372",
+        "mallType": "T1688",
+        "itemId": "764433489482",
+        "title": "Christmas and New Year's collection! Autumn and winter women's teddy bear handmade jacquard cotton blended round neck pullover sweater sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010olzmM24aSZxDJGZH_!!2215510567407-0-cib.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpCHXhZxRZ-pZq01ojJzoYg",
+          "name": "东莞市大朗小林源头服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2773104",
+        "mallType": "T1688",
+        "itemId": "906555822334",
+        "title": "ZARZ self-made European and American style new women's classic style tassel embellished plaid knitted jacket 4331004",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ExuuZU1Gduu95Y14K_!!2218562770646-0-cib.jpg",
+        "price": "¥66.00",
+        "toPrice": "$10.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqdiaL2UPYlYaoCiFxavdaQ",
+          "name": "昆山市帝铺纺织品商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2759590",
+        "mallType": "T1688",
+        "itemId": "982322372578",
+        "title": "Strong customer exclusive link, starting from 10 pieces, jacquard embroidery cartoon bear sweater, women's foreign trade cross-border source",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017Zk0u01q94Rb7gr7q_!!2815455452-0-cib.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1YAmqrY35gslwSFMp-G0LQ",
+          "name": "东莞市大朗爱玲服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2759598",
+        "mallType": "T1688",
+        "itemId": "942065793761",
+        "title": "Autumn and Winter Women's Temperament Featured Long Dress Jacket Bear Embroidery Letter Round Neck Knit Pullover Warm",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KJNGDH2IvRULTdweX_!!2219333029348-0-cib.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219333029348",
+          "name": "汕头市澄海区树佳服饰厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2384898",
+        "mallType": "WD",
+        "itemId": "7528710874",
+        "title": "XS05--High quality fashion casual sweater",
+        "picUrl": "https://si.geilicdn.com/open1617149909-1234478995-6fa500000198b1828f030aa0c791_1200_1200.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1617149909",
+          "name": "Tomibuy",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 76,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2117244",
+        "mallType": "T1688",
+        "itemId": "944342526837",
+        "title": "Ami round neck sweater classic love jacquard pullover knit sweater casual loose lazy feeling top cross-border delivery",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Htdoph1cHP0FyspgG_!!2218169993575-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218169993575",
+          "name": "佛山市南海区艾米潮奢服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2368796",
+        "mallType": "T1688",
+        "itemId": "739137567788",
+        "title": "Fashion Trendy European 2023 New Round Neck Sweater Men and Women Same Style Chest Letter Jacquard Foreign Trade Cross border",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01OwLeqn2CJ4QW5HWYz_!!2215802788452-0-cib.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNNdwC6zyQOrx_LZKu2UIZQ",
+          "name": "广州璇妮服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3041359",
+        "mallType": "T1688",
+        "itemId": "976171562621",
+        "title": "卡通刺绣小熊圆领毛衣减龄休闲百搭上衣25秋冬新款针织衫男女同款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HZWiRw2IqP9kdxBC0_!!2217595199337-0-cib.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbDeyx3kPrvpeaxT7vSxSdw",
+          "name": "东莞市大朗寻她服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2976189",
+        "mallType": "WD",
+        "itemId": "7448668957",
+        "title": "sl 字母提花长袖毛衣",
+        "picUrl": "https://si.geilicdn.com/open1813287069-1234478995-3f860000019647ab86550aa0834c_1280_1920.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1813287069",
+          "name": "Tasteful",
+          "logo": "https://si.geilicdn.com/shopedit1948854083-0950000001965870ffbd0a2303ee-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2636003",
+        "mallType": "T1688",
+        "itemId": "927793280621",
+        "title": "Wide winter lazy wind sweater 2024 signature knitwear black tops new loose men and women glutinous mohair letters",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dYncQu1wIaJWRcwNX_!!2219514896285-0-cib.jpg",
+        "price": "¥145.89",
+        "toPrice": "$22.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219838130694",
+          "name": "平阳县祈裕电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3096050",
+        "mallType": "WD",
+        "itemId": "7602382482",
+        "title": "时尚潮流毛衣（W2C-150）www.findsspreadsheet.com",
+        "picUrl": "https://si.geilicdn.com/pcitem901903636310-663b00000195077c47400a2301b4_1080_1080.jpg",
+        "price": "¥69.60",
+        "toPrice": "$10.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648936853",
+          "name": "StyleTransit",
+          "logo": "https://si.geilicdn.com/shopedit1898318301-4f3900000198d55a5daa0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "319571",
+        "mallType": "T1688",
+        "itemId": "768311330197",
+        "title": "Cartoon Bear Knitwear Letter Knitwear Top for Women Exquisite Jacquard Cartoon Bear Sweater High Quality Autumn and Winter",
+        "picUrl": "https://cdn.findqc.com/item/20241210/m4hu08ap_jhun.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfccMqVe7RtDlGwuJm1A_SA",
+          "name": "东莞市大朗茜茜服饰批发部",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 323,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2734365",
+        "mallType": "WD",
+        "itemId": "7562810269",
+        "title": "GS.39774973",
+        "picUrl": "https://si.geilicdn.com/pcitem1851173126-12e600000192419363fb0a210139_1280_1920.jpg",
+        "price": "¥235.00",
+        "toPrice": "$36.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1716372755",
+          "name": "BEST SHOP",
+          "logo": "https://si.geilicdn.com/pcdecorate1995447126-57070000019998b2184a0a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1355",
+        "mallType": "T1688",
+        "itemId": "739671089502",
+        "title": "2025 Autumn/Winter New Cotton Heavy Cartoon Bear Round Neck College Style Age-Reducing Versatile Sweater for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3n05qpv_8302.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpCHXhZxRZ-pZq01ojJzoYg",
+          "name": "东莞市大朗小林源头服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 329,
+        "qcVideoCnt": 2
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114226987194342504",
+  "language": "en"
+}

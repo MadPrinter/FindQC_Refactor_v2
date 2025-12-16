@@ -1,0 +1,48 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "13275",
+        "mallType": "TB",
+        "itemId": "723197111613",
+        "title": "Summer light imported tri-acetate fabric stretch double-sided satin skin-friendly silky breathable cheongsam dress pants shirt fabrics",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mche5q_j7ky.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "130912005",
+          "name": "奕晨阳光纺织",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "12632",
+        "mallType": "TB",
+        "itemId": "679755259280",
+        "title": "Blue Bridesmaid Dress Summer 2025 New French Style Wedding Sister Group Fairy Evening Dress High-End Banquet Elegant Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mc8dd8_iq8z.jpg",
+        "price": "¥140.13",
+        "toPrice": "$22.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "114462052",
+          "name": "斯洛雅诚旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143594391917113501",
+  "language": "en"
+}

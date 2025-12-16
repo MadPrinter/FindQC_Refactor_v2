@@ -1,0 +1,323 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1174901",
+        "mallType": "WD",
+        "itemId": "7399108357",
+        "title": "GUCC# 2023 baseball cap",
+        "picUrl": "https://si.geilicdn.com/open1802122381-1234478995-13a4000001953096c4b50a8115c2-unadjust_800_800.png",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802122381",
+          "name": "硕鼎潮流男装",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1174333",
+        "mallType": "T1688",
+        "itemId": "896776384639",
+        "title": "Cross border Jordan duckbill cap, deep top, hard top, embroidered, outdoor sun shading, casual baseball cap, mesh cap, foreign trade new style",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01de6NCq258oP4zecR3_!!2218478047482-0-cib.jpg",
+        "price": "¥19.00",
+        "toPrice": "$2.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBplTwqJtwT7U8iwNgSxEjhQ",
+          "name": "莆田市城厢区环宇澄乐贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1174332",
+        "mallType": "T1688",
+        "itemId": "848852098955",
+        "title": "Trendy new sunscreen sports duck tongue cap men and women sun hat son flyers Joe sports baseball casual cap",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000005361/O1CN01xG3BDk1pTOJVnlN4C_!!6000000005361-0-tbvideo.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2373063",
+        "mallType": "T1688",
+        "itemId": "935984916255",
+        "title": "Cross border high version Devil's Island American hip-hop baseball cap West Coast Crtz mesh patchwork duckbill cap trend",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CgrDti1FfSdjTcPpG_!!2216891680514-0-cib.jpg",
+        "price": "¥38.80",
+        "toPrice": "$6.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpFj8PLxgL0hsKlR9Yhsirw",
+          "name": "一鹿（广州）服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "822690",
+        "mallType": "T1688",
+        "itemId": "711130703797",
+        "title": "Fashion Travis Scott McDonald's co-branded men's and women's unisex flat-brimmed cap fashionable trend versatile baseball cap",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000004267/O1CN01byz4871hOKq3RrZS1_!!6000000004267-0-tbvideo.jpg",
+        "price": "¥14.38",
+        "toPrice": "$2.26",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "820676",
+        "mallType": "WD",
+        "itemId": "7343185055",
+        "title": "Warm Fashion Knit Hat 001YHH40",
+        "picUrl": "https://si.geilicdn.com/open1874129237-1234478995-6c0800000194269a0db10a210559_2000_2000.jpg",
+        "price": "¥57.00",
+        "toPrice": "$8.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1874129237",
+          "name": "Snap Wolf",
+          "logo": "https://si.geilicdn.com/shopedit1900462010-02a500000193ddde888a0a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "820596",
+        "mallType": "T1688",
+        "itemId": "818532491572",
+        "title": "G's high quality candy color old flower letters baseball cap European and American big brand fashion hundred matching trend duck tongue cap wholesale",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000000527/O1CN01XF38Vo1FlPhWNb1LG_!!6000000000527-0-tbvideo.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "820579",
+        "mallType": "WD",
+        "itemId": "7304432380",
+        "title": "O E M 1: 1#1",
+        "picUrl": "https://si.geilicdn.com/open1867107493-1838589072-4f5a000001932b26a5030aa08290_800_800.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867107493",
+          "name": "hahabuy",
+          "logo": "https://si.geilicdn.com/shopedit1883595500-0f8b000001930fda03cd0a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2389415",
+        "mallType": "TB",
+        "itemId": "950314430507",
+        "title": "Cool European Style L Brand Double C Tweed Style g Brand Ny Hat Men's All Year Round Fashion Baseball Cap Women's Hard-Brimmed Sun Hat",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2977511143/O1CN01EzehB11KJXm8e3ubu_!!2977511143.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "250966242",
+          "name": "美胸时尚内衣",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "796968",
+        "mallType": "TB",
+        "itemId": "844046998095",
+        "title": "stone cold cap",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/4084171057/O1CN01GmpY1R1Jg9dp2kjAV_!!4084171057.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "476776567",
+          "name": "十三行尾单清仓",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "796655",
+        "mallType": "T1688",
+        "itemId": "824070081080",
+        "title": "Japanese version of the north family quick-drying breathable large-brimmed fisherman's hat men's summer sunscreen sun hat female travel outdoor women beach hat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01szupbh1KrtO8BQDe8_!!2218372531218-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218372531218",
+          "name": "中山市元妙福电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "796648",
+        "mallType": "T1688",
+        "itemId": "833582202916",
+        "title": "2024 new hard top baseball cap sunscreen sun shading duck tongue cap men and women Korean version of the obvious face hat outdoor street cap",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000000558/O1CN01oRbgHN1FzbzS4jaUf_!!6000000000558-0-tbvideo.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "795356",
+        "mallType": "T1688",
+        "itemId": "706028715299",
+        "title": "Cross-border new correct version of the G family baseball cap side strips fashionable versatile sunshade sunscreen duck tongue cap men and women universal",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yDNxwK25C0xItisa6_!!2215058207489-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2376559",
+        "mallType": "T1688",
+        "itemId": "799848406389",
+        "title": "Hyunya the same fisherman hat Japanese retro grinding edge fisherman hat children spring and summer outing sun hat Korean version of the basin hat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cEuPAv1Gs75ywRjmL_!!2217964130677-0-cib.jpg",
+        "price": "¥11.50",
+        "toPrice": "$1.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217964130677",
+          "name": "台州市黄岩升笙服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533390",
+        "mallType": "TB",
+        "itemId": "898642404886",
+        "title": "shell hat adjustable duck tongue cap embroidered letters sunshade street Europe and the United States niche dome hundred hats summer",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2210749411287/O1CN01prQpN71LNUmIMK6Qz_!!2210749411287.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "176363325",
+          "name": "赚个跑腿费",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1527048",
+        "mallType": "TB",
+        "itemId": "811221368924",
+        "title": "Yqtstudio Graffiti Lips Sex Letters Colorful Patchwork Horse Hoof Flower Trendy Mesh Trucker Hat Trendy",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2200592639458/O1CN01ioG54S2JjoxTK66Ri_!!2200592639458.jpg",
+        "price": "¥101.99",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "468741747",
+          "name": "YQTSTUDIO",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1523209",
+        "mallType": "T1688",
+        "itemId": "923354659616",
+        "title": "2025 new full print old flower letters baseball cap Europe and the United States cross-border foreign trade duck tongue cap men and women fashion high-quality shade",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016N0CRE1khWVQ6SKR5_!!2219510554715-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "991431",
+        "mallType": "WD",
+        "itemId": "7393326133",
+        "title": "Fashion Hat DS",
+        "picUrl": "https://si.geilicdn.com/pcitem901930100954-6ddd000001951c15cc960a2395a3_1200_1200.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779371725",
+          "name": "MadeBy China",
+          "logo": "https://si.geilicdn.com/shopedit1930097084-3b5000000194e46137f90a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "991366",
+        "mallType": "T1688",
+        "itemId": "864205770465",
+        "title": "Foreign trade explosion models sicko foam sponge baseball cap outdoor mesh duck tongue cap summer sunshade breathable mesh cap",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000005688/O1CN01wdmqIo1rt9qB3Zain_!!6000000005688-0-tbvideo.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148303311916159127",
+  "language": "en"
+}

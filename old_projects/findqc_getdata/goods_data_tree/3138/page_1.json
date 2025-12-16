@@ -1,0 +1,632 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3060412",
+        "mallType": "WD",
+        "itemId": "7500201012",
+        "title": "Fashion Cartoon Graffiti Stickers Guitar Skateboarding Luggage PVC Waterproof DIY Stickers",
+        "picUrl": "https://si.geilicdn.com/open1645496285-252808396-1eb700000197bb0732150a231226_1000_1000.jpg",
+        "price": "¥15.90",
+        "toPrice": "$2.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3192376",
+        "mallType": "TB",
+        "itemId": "601016462733",
+        "title": "50-Piece Set of Popular Ape Head Stickers for Luggage, Skateboards, Notebooks, and Planners",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1601480274/O1CN01Qll5TL1DtX74P6a6g_!!1601480274.jpg",
+        "price": "¥13.54",
+        "toPrice": "$2.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "470897351",
+          "name": "Wrysunny貼紙",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2920679",
+        "mallType": "TB",
+        "itemId": "673304900183",
+        "title": "50 Outdoor Skiing Brand Logo Stickers for Trams, Motorcycles, Snowboards, Skateboards, Helmet Decorations, Waterproof Stickers",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1940875308/O1CN01ltjQPN1p574Im8S0y_!!1940875308.jpg",
+        "price": "¥9.10",
+        "toPrice": "$1.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "128065815",
+          "name": "车酷车贴",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3167277",
+        "mallType": "T1688",
+        "itemId": "680767782520",
+        "title": "50 American TV series, internet celebrities, funny expressions, graffiti stickers, suitcases, laptops, water bottles, guitars, mobile phone decorations stickers\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01p10raB1RwCGlDV4EI_!!2213066302175-0-cib.jpg",
+        "price": "¥3.32",
+        "toPrice": "$0.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBx7hF5RWV4iJssr6HwSBFhQ",
+          "name": "金华市惟祺电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26503",
+        "mallType": "TB",
+        "itemId": "608394947113",
+        "title": "Red Classic Supreme Suitcase Waterproof Trendy Case Laptop Scooter Simple Trendy Brand Sticker",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nigpr9_ke6u.jpg",
+        "price": "¥1.32",
+        "toPrice": "$0.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "489778641",
+          "name": "③号包装辅材店",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1,
+        "picWidth": "620",
+        "picHeight": "562"
+      },
+      {
+        "id": "3050957",
+        "mallType": "T1688",
+        "itemId": "702210946088",
+        "title": "Cross border Hollow Knight 2 Silk Song Game Graffiti Stickers Motorcycle Car Interior Stickers",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FADzRK1zPrDoFXeDf_!!2214837866707-0-cib.jpg",
+        "price": "¥7.30",
+        "toPrice": "$1.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnu8X7_zDMm3gTveDLwB1-g",
+          "name": "义乌市赫兴文化用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3093785",
+        "mallType": "T1688",
+        "itemId": "940975031218",
+        "title": "50 pieces/set of personalized creative parody logo desktop decoration stickers, luggage waterproof and non adhesive removable stickers",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hY5MZn1LpQxjESfMN_!!2219522041348-0-cib.jpg",
+        "price": "¥2.60",
+        "toPrice": "$0.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7irTPFILApzbMI3uZAr9oQ",
+          "name": "金华市润色文化创意有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2697442",
+        "mallType": "T1688",
+        "itemId": "753472913430",
+        "title": "60 Minecraft Animation Graffiti Stickers Cartoon Cute Phone Case Water Cup Notebook Decorative Stickers",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nyOPNN1QNYmO0kEgp_!!2206676631964-0-cib.jpg",
+        "price": "¥2.80",
+        "toPrice": "$0.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaaJIRJW_pVaiDl1-yxG-8A",
+          "name": "合肥淮西商业咨询服务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2697436",
+        "mallType": "T1688",
+        "itemId": "736811094684",
+        "title": "100 cartoon teddy bear graffiti stickers decorative luggage car phone case water cup waterproof stickers wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YrVqMw1UhURUXsIL3_!!2215681132549-0-cib.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDJSPxdXLy5w0LaCi3LCnhA",
+          "name": "蚌埠市尧汐文化创意有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1792471",
+        "mallType": "WD",
+        "itemId": "7425015794",
+        "title": "Hm Duck Sticker Light",
+        "picUrl": "https://cdn.findqc.com/item/20250720/mdav8g7f_vxd3.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1378088195",
+          "name": "CND CLOTH",
+          "logo": "https://si.geilicdn.com/wdseller1378088195-5f6f000001739627e4360a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "325273",
+        "mallType": "TB",
+        "itemId": "739841408672",
+        "title": "Sticker",
+        "picUrl": "https://cdn.findqc.com/item/20241210/m4h8oy6n_drfc.jpg",
+        "price": "¥9.09",
+        "toPrice": "$1.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "545473275",
+          "name": "highstreet socks",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2856530",
+        "mallType": "TB",
+        "itemId": "919621385519",
+        "title": "Cross-Border New Rhythm Box Themed Birthday Party Supplies Disposable Paper Plates Napkins Banners Flags Tableware",
+        "picUrl": "https://cdn.findqc.com/item/20251105/mhlfcsy9_yqhz.jpg",
+        "price": "¥9.34",
+        "toPrice": "$1.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "194907230",
+          "name": "三叶草节日",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2900647",
+        "mallType": "TB",
+        "itemId": "946641710980",
+        "title": "[in Stock] Collecta 151 Shock Coins Ex Booster Pack Coin Set Pokémon Cards",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhknukje_tlw0.jpg",
+        "price": "¥110.53",
+        "toPrice": "$17.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "143041529",
+          "name": "墩墩卡店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2906259",
+        "mallType": "TB",
+        "itemId": "673026511765",
+        "title": "IEDM Love Electric Music Bounce Di Fan TECHNO Reflective Fan Nightclub Laser UV Folding Fan Electric Syllable RAVE Equipment Fan",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkcw2sg_7s2h.jpg",
+        "price": "¥50.14",
+        "toPrice": "$7.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "145489480",
+          "name": "iEDM爱电音潮流店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1870150",
+        "mallType": "TB",
+        "itemId": "10947049350",
+        "title": "Red hipster suitcase stickers laptop hipster guitar skateboarding stickers waterproof gray adhesive non-marking stickers",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/56828480/TB2RQ3Jq3oQMeJjy1XaXXcSsFXa_!!56828480.jpg",
+        "price": "¥1.20",
+        "toPrice": "$0.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34389968",
+          "name": "小P贴纸铺",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1870142",
+        "mallType": "TB",
+        "itemId": "719438902720",
+        "title": "Spot Sup pen boxlogo sticker ANDREI MOLODKIN ballpoint pen sticker",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2210384914492/O1CN01G3rXhK1j3NyD08Yk9_!!2210384914492.jpg",
+        "price": "¥16.66",
+        "toPrice": "$2.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "516771738",
+          "name": "大梦一场工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1392325",
+        "mallType": "TB",
+        "itemId": "672139069928",
+        "title": "Trendy Large Stickers for Luggage, Computers, Skateboards, Motorcycles, Refrigerators, and Suitcases with a Unique Style, Waterproof",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb2hmwtg_vm6k.jpg",
+        "price": "¥1.83",
+        "toPrice": "$0.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "170106210",
+          "name": "無貼不潮",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 122,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "13292",
+        "mallType": "TB",
+        "itemId": "705422207329",
+        "title": "Trendy Brand Sup Stickers Boxlogo Sticker Skateboard Stickers from Various Eras James Jebbia",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mchgwq_0sr8.jpg",
+        "price": "¥7.11",
+        "toPrice": "$1.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "516771738",
+          "name": "大梦一场工作室",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 76,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1516975",
+        "mallType": "T1688",
+        "itemId": "739234154950",
+        "title": "50 pieces cross-border new ape head graffiti waterproof stickers trolley case skateboard guitar refrigerator phone case water Cup",
+        "picUrl": "https://cdn.findqc.com/item/20250617/mbzw24gd_dgva.jpg",
+        "price": "¥2.80",
+        "toPrice": "$0.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaaJIRJW_pVaiDl1-yxG-8A",
+          "name": "合肥淮西商业咨询服务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2603524",
+        "mallType": "T1688",
+        "itemId": "730114054633",
+        "title": "50 Pieces of Tervis Scott Graffiti Stickers Waterproof Suitcase Notebook Skateboard Removable Stickers Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20251009/mgj52xo1_l0ys.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBlzhcYlzD9VoBBSXAOxDLHA",
+          "name": "怀远县贴画坊文化创意有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140219251916153370",
+  "language": "en"
+}

@@ -1,0 +1,626 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2078020",
+        "mallType": "T1688",
+        "itemId": "909575643939",
+        "title": "Ice Silk Sun Protection Riding Mask Summer Full Face Neck Protection Sun Protection Headgear Outdoor Fishing Mountaineering Face Protection Hat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01z3TSP91EnPtQeBLxN_!!2844300396-0-cib.jpg",
+        "price": "¥1.00",
+        "toPrice": "$0.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQd6TPFbiIBsbdQVWTqS3VA",
+          "name": "义乌市恩续服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2,
+        "picWidth": "1280",
+        "picHeight": "1280"
+      },
+      {
+        "id": "1314733",
+        "mallType": "T1688",
+        "itemId": "837008693506",
+        "title": "Ski mask face warm head cover men and women fleece face mask thin face riding windproof cold hood protective gear equipment",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000003353/O1CN01VkU38x1adj0uvaS12_!!6000000003353-0-tbvideo.jpg",
+        "price": "¥12.90",
+        "toPrice": "$2.03",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2908078",
+        "mallType": "TB",
+        "itemId": "991262636070",
+        "title": "Winter Tactical Camouflage Outdoor Warm Cycling Hood Motorcycle Helmet Liner Ski Hood",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2215163632703/O1CN01zOr8mP1Vq1fMeM2FN_!!2215163632703.jpg",
+        "price": "¥32.22",
+        "toPrice": "$5.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "398423909",
+          "name": "2022诚信户外用品运动鞋店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3051212",
+        "mallType": "WD",
+        "itemId": "7604906593",
+        "title": "Hip Hop Mask 70",
+        "picUrl": "https://si.geilicdn.com/pcitem1952892442-2e2400000198e1fa72bd0a207569_1136_1136.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1767890531",
+          "name": "CN BUY",
+          "logo": "https://si.geilicdn.com/shopedit1989258756-1d260000019a4dd8e5820a231177-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2247607",
+        "mallType": "WD",
+        "itemId": "7533147310",
+        "title": "Camouflage Pro Hyperwarm Hood Collection Cocoa Face Mask Headcover Camouflage Series",
+        "picUrl": "https://cdn.findqc.com/item/20251006/mgeo1hmf_xtrd.jpg",
+        "price": "¥37.00",
+        "toPrice": "$5.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1847561709",
+          "name": "Highstreet CND ISLAND",
+          "logo": "https://si.geilicdn.com/wdseller1575136538-7c5400000195f1126c630a23057e_1242_1245.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1617330",
+        "mallType": "T1688",
+        "itemId": "945361488583",
+        "title": "Headgear Popular Foreign Trade Motorcycle Bicycle Riding Sun Protection Mask Windproof and Sandproof Neck Guard Summer Cross-Border Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250707/mcsuwoew_ja5s.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfORNXrhTbPk5lWqHSv5Y8g",
+          "name": "广州数彩印花有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 196,
+        "qcVideoCnt": 16
+      },
+      {
+        "id": "2898906",
+        "mallType": "TB",
+        "itemId": "625933401615",
+        "title": "Winter Warm Headwear Hat Men's Riding Fishing Headcover Windproof Motorcycle Full Face Women's Helmet Inner Cold Mask",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjyzt6t_j1jw.jpg",
+        "price": "¥7.98",
+        "toPrice": "$1.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "338468330",
+          "name": "nabaoduo旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896815",
+        "mallType": "TB",
+        "itemId": "908263588321",
+        "title": "Popular Headgear for Motorcycle and Bicycle Riding, Sun Protection Face Mask, Windproof and Sandproof Neck Protector, Summer Cross-Border Wholesale",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/img/ibank/O1CN01z3fdb41u2tY4g1N5U_!!2216951685980-0-cib.jpg",
+        "price": "¥18.41",
+        "toPrice": "$2.89",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3182274",
+        "mallType": "T1688",
+        "itemId": "991117373705",
+        "title": "跨境爆款巴拉克拉法帽户外抗寒滑雪帽子男骑行防风透气防护套头帽",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zXGvun1xQCZoF7BXc_!!2217544916437-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217544916437",
+          "name": "东莞市中升体育用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2845144",
+        "mallType": "TB",
+        "itemId": "965570858835",
+        "title": "Celebrity-Style Ski Mask, Face Protection, Good Elasticity, Strong Breathability, Windproof and Waterproof",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2219001436769/O1CN01quD8x81zsG3K3wy42_!!4611686018427386465-0-item_pic.jpg",
+        "price": "¥53.69",
+        "toPrice": "$8.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "487039508",
+          "name": "tb68879680030",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3156061",
+        "mallType": "T1688",
+        "itemId": "988170321953",
+        "title": "爆款户外骑行滑雪防寒保暖防尘面罩头套围脖外贸防沙护脖头罩外贸",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dgS5dW2Lz3Uc3WebH_!!2220675859762-0-cib.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBotUzrpHIb6jbirm8Zv_cPQ",
+          "name": "义乌市努比电子商务有限责任公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2789923",
+        "mallType": "WD",
+        "itemId": "7581011176",
+        "title": "SJSH-TOP quality嘻哈面罩+86 183 5930 5797",
+        "picUrl": "https://si.geilicdn.com/pcitem1952892442-2e2400000198e1fa72bd0a207569_1136_1136.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621679363",
+          "name": "Dress Domain",
+          "logo": "https://si.geilicdn.com/shopedit1972687266-0adc00000199483637170a231177-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1986567",
+        "mallType": "TB",
+        "itemId": "947011046902",
+        "title": "Breathing Color-Changing Mask, Temperature-Sensitive Winter Windproof and Warm Headgear, Knitted Hat, Pullover Hat, Trendy Clothing Accessories, Sun Protection",
+        "picUrl": "https://cdn.findqc.com/item/20250920/mfrdegy5_hqki.jpg",
+        "price": "¥84.62",
+        "toPrice": "$13.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "464787872",
+          "name": "魔法小铺8",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1846946",
+        "mallType": "T1688",
+        "itemId": "943186946239",
+        "title": "Cross-Border Balaclava Balaclava Men's Windproof Warm Headgear Outdoor Cycling Motorcycle Ski Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250914/mfiqwgqy_zc9z.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6wbPKsL_VMmFvq1q9P8BBA",
+          "name": "郑州市惠济区悦动针织商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 100,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3206",
+        "mallType": "TB",
+        "itemId": "755350736482",
+        "title": "Syna World Balaclava 3m Reflective Reflective Headgear",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m399xt_gypm.jpg",
+        "price": "¥46.27",
+        "toPrice": "$7.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "545473275",
+          "name": "highstreet socks",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2613566",
+        "mallType": "TB",
+        "itemId": "981482222891",
+        "title": "Cross-border Best Selling Hook Head cover motorcycle bicycle Cycling mask All Year Round windproof breathable face protection neck cover",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2212351883134/O1CN01q9cvek1Z1QMcsMLgA_!!2212351883134.jpg",
+        "price": "¥21.90",
+        "toPrice": "$3.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "441288142",
+          "name": "竹外桃花出墙来的小店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2553292",
+        "mallType": "WD",
+        "itemId": "7553190683",
+        "title": "法国精选嘻哈面罩质量好",
+        "picUrl": "https://si.geilicdn.com/pcitem1952892442-2e2400000198e1fa72bd0a207569_1136_1136.jpg",
+        "price": "¥54.00",
+        "toPrice": "$8.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629528547",
+          "name": "FRANCE",
+          "logo": "https://si.geilicdn.com/shopedit1992232559-701c0000019a5717c3950a23038e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4087",
+        "mallType": "T1688",
+        "itemId": "654018261946",
+        "title": "2025 Autumn and Winter New Running and Cycling Sports Pullover Neck Warmer Ear Muffs Warm Windproof Breathable Football Mask",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3nm91_64pq.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLQIdyJgKGltzgJHKaYns3g",
+          "name": "东莞市逸驰体育用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 4,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "1901942",
+        "mallType": "T1688",
+        "itemId": "944801597072",
+        "title": "Cross-Border Popular Balaclava Outdoor Cold-Resistant Ski Hat Men's Cycling Windproof Breathable Protective Hood",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me9beksb_hegb.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaeUq5yc254vAq_wtpHFfmA",
+          "name": "武汉市硚口区奉翔针织厂",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 305,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "3044799",
+        "mallType": "TB",
+        "itemId": "755046368580",
+        "title": "Nocta Ski Mask Face Protection Warm Helmet Headgear Unisex Face Slimming Mask Quick-Drying Cycling Windproof",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1953482285/O1CN017MGOKY1SkZuwRydVt_!!1953482285.jpg",
+        "price": "¥155.71",
+        "toPrice": "$24.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109662437",
+          "name": "有钱就完事了",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143326161913296728",
+  "language": "en"
+}

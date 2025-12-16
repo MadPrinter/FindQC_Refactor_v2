@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2073398",
+        "mallType": "WD",
+        "itemId": "7477348562",
+        "title": "Personalized pattern classic letter short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghuw75l_ndmx.jpg",
+        "price": "¥133.00",
+        "toPrice": "$20.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672878880",
+          "name": "AKRep Studio",
+          "logo": "https://si.geilicdn.com/shopedit1422394722-45d300000196e31ec2d60a21146b-unadjust_736_736.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1033152",
+        "mallType": "TB",
+        "itemId": "779567587200",
+        "title": "Summer Armband Short Seeved functional style armband short sleeved shirt with quick drying round neck base for summer",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghuhyze_6o91.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104496470",
+          "name": "小怪兽的石头island",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2540494",
+        "mallType": "T1688",
+        "itemId": "976595099844",
+        "title": "原标高版本DO家 经典新款字母前后幅Logo刺绣毛圆领长袖男女卫衣",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghstkw5_kas2.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhvsQOWn3xqjjYocQMJJIow",
+          "name": "广州俊兴服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2599315",
+        "mallType": "T1688",
+        "itemId": "956634736160",
+        "title": "25夏季新款拉夫战马学院风时尚韩系针织刺绣针织短袖麻花女连衣裙",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghstkn4_mrip.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFTTeZq6MFaWizL-ca2xODQ",
+          "name": "广州玛莎琦服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2540331",
+        "mallType": "T1688",
+        "itemId": "704166284521",
+        "title": "2025 Ice Silk Short-Sleeved T-Shirt Men's Thin Ice Silk Quick-Drying Short-Sleeved Ice-Feel Sports Half-Sleeved Plus Fat Plus Size Inner Wear",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgg74jko_5vfp.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBjI3TUv3jEKoPZKBe5wxWxA",
+          "name": "石狮市克莱纳斯服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2560601",
+        "mallType": "T1688",
+        "itemId": "873316730325",
+        "title": "American retro james 44,000 printed short sleeve T-shirt washed heavy Vintage small neckline",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghstkfy_emcl.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoLQeikMafakTHBLtmt9TLQ",
+          "name": "上饶市漫辉服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1564570",
+        "mallType": "T1688",
+        "itemId": "930898920415",
+        "title": "2025 Summer European and American Amazon Men's Quick-Drying Ice Silk Sports T-Shirt Short-Sleeved Breathable Sunscreen Running Wear Fitness Clothing",
+        "picUrl": "https://cdn.findqc.com/item/20251004/mgbtu9ci_m1e7.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRt13dO1i3bL6sMsaVYqVVQ",
+          "name": "广西可牛运动服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2534541",
+        "mallType": "TB",
+        "itemId": "862200327199",
+        "title": "Big Sale Leakage ~ Foreign Trade Tail Goods Surplus American Street Heavyweight Pure Cotton Short-Sleeved T-Shirts for Men and Women Loose Couple Tops",
+        "picUrl": "https://cdn.findqc.com/item/20251003/mgakyfsr_n2gb.jpg",
+        "price": "¥9.99",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116759300",
+          "name": "Mananses Vietnam",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1690212",
+        "mallType": "TB",
+        "itemId": "774533633003",
+        "title": "Vlone Fog Corteiz European and American Long-Sleeve T-Shirt for Men, Color-Blocked Raglan, Spring and Autumn, Alcatraz Drill Street Fashion",
+        "picUrl": "https://cdn.findqc.com/item/20251003/mgakyflr_66on.jpg",
+        "price": "¥81.36",
+        "toPrice": "$12.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103318446",
+          "name": "FFCP Studios",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2511329",
+        "mallType": "T1688",
+        "itemId": "969697593368",
+        "title": "原标2025春夏新款潮牌stu经典巡游印花字母男女同款短袖一件代发",
+        "picUrl": "https://cdn.findqc.com/item/20251003/mgakyhjf_b8bh.jpg",
+        "price": "¥37.00",
+        "toPrice": "$5.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBeU067AmzlgCKM7Ec9qEHMw",
+          "name": "深圳市澳黛莉服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "346666",
+        "mallType": "WD",
+        "itemId": "7300034313",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sax9gq_z1s8.jpg",
+        "price": "¥133.00",
+        "toPrice": "$20.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675444645",
+          "name": "WG",
+          "logo": "https://si.geilicdn.com/shopedit1884592270-4ba500000195d22b306e0a2315ef-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2074295",
+        "mallType": "T1688",
+        "itemId": "931838212726",
+        "title": "Essentials Multi-Line Letter Flocking Pants Ss22 Men's High Street Drawstring Trendy Casual Pants Leggings Sweatpants",
+        "picUrl": "https://cdn.findqc.com/item/20251002/mg94743d_5kga.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_nD2u8Q54y1Sk8-_X7PGoQ",
+          "name": "宁波市创衣服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2560612",
+        "mallType": "T1688",
+        "itemId": "872342062702",
+        "title": "Team USA MVP Curry James Durant Retro Digital Direct Jet Breathable Printed Short Sleeve Retro T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghq1880_jde1.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoLQeikMafakTHBLtmt9TLQ",
+          "name": "上饶市漫辉服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2356821",
+        "mallType": "WD",
+        "itemId": "7539599767",
+        "title": "Short sleeved T-shirt with S ã o Paulo limited edition round neck American casual loose half sleeve - LMLSPTS0303",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghns5zb_ukhf.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1725432739",
+          "name": "BiuBiuBiu",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1556427",
+        "mallType": "TB",
+        "itemId": "900758788808",
+        "title": "【 In Stock 】 ERD24FW Christina Shattered Girl Portrait Printed Vintage Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghmgkl9_d0tp.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "383556858",
+          "name": "乌龙茶FDA",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2511671",
+        "mallType": "WD",
+        "itemId": "7507079176",
+        "title": "Stu22y short sleeved style 308",
+        "picUrl": "https://cdn.findqc.com/item/20251003/mgahmwwy_ph4x.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616049789",
+          "name": "ZS factory2",
+          "logo": "https://si.geilicdn.com/wdseller1965552696-487e00000197e0b8acdf0a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2181598",
+        "mallType": "WD",
+        "itemId": "7524968563",
+        "title": "Spot V New Japanese Imported Rainbow Precision Bead Embroidered Long staple Cotton Short sleeved T-shirt Thursday Members Buy First Friday Non members Release Same Style as JJ Lin",
+        "picUrl": "https://cdn.findqc.com/item/20251003/mgahn2r3_y2mj.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735775997",
+          "name": "JUDX出品（唯一店铺）",
+          "logo": "https://si.geilicdn.com/shopedit1967891636-12dd00000198a8c0f2800a20e273-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2514034",
+        "mallType": "WD",
+        "itemId": "7506811846",
+        "title": "Stu22y short sleeved style 264",
+        "picUrl": "https://cdn.findqc.com/item/20251003/mgahmxna_dhh1.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616049789",
+          "name": "ZS factory2",
+          "logo": "https://si.geilicdn.com/wdseller1965552696-487e00000197e0b8acdf0a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1572323",
+        "mallType": "T1688",
+        "itemId": "890435006714",
+        "title": "Cross-border special for the new nba short sleeve shooting suit American basketball short sleeve Lakers net warrior cotton short sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20251003/mgahmv4l_nye9.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBMSKGWPiXnF15-Ptycxqatw",
+          "name": "上饶市冠隆服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2540648",
+        "mallType": "TB",
+        "itemId": "976187391951",
+        "title": "Popular Gymshark Vital Phantom Seamless Long-Sleeve Men's American-Style Sports Fitness High-Elastic Training Tight-Fitting T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghc7jsi_pb36.jpg",
+        "price": "¥140.91",
+        "toPrice": "$22.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "136766091",
+          "name": "gym铁友馆",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114612657194369971",
+  "language": "en"
+}

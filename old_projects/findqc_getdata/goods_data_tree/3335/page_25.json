@@ -1,0 +1,340 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "953366",
+        "mallType": "WD",
+        "itemId": "7409962039",
+        "title": "******Product",
+        "picUrl": "https://cdn.findqc.com/item/20250718/md84uu1b_qogu.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828016549",
+          "name": "我的小铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-249600000193b88380020a231316-unadjust_234_234.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1950944",
+        "mallType": "TB",
+        "itemId": "684635212136",
+        "title": "Saz Niche Double-Layered Necklace for Men with Diamond-Encrusted Zircon, Trendy Brand, Versatile, High-End Feel, Winding Collarbone Chain, Women's Accessory",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdv5tu3h_rvnu.jpg",
+        "price": "¥28.67",
+        "toPrice": "$4.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "64837559",
+          "name": "SAZ原创饰品店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1161376",
+        "mallType": "WD",
+        "itemId": "7322224893",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-2e6200000190f72f54210a232357_1280_1280.jpg",
+        "price": "¥54.00",
+        "toPrice": "$8.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2461475",
+        "mallType": "T1688",
+        "itemId": "918479903553",
+        "title": "Saturn Series Classic Diamond Shiny Small Saturn Necklace NANA Punk Couple European and American Light Luxury Niche Collarbone Chain",
+        "picUrl": "https://cdn.findqc.com/item/20250925/mfz5yy94_2djl.jpg",
+        "price": "¥3.90",
+        "toPrice": "$0.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_HIU-ME00pLo9EcBCXTv8A",
+          "name": "义乌市隽莘饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2482397",
+        "mallType": "T1688",
+        "itemId": "772348856397",
+        "title": "Men's Cuban hip hop twist chain hiphop trendy male cross pendant necklace bracelet jewelry suit",
+        "picUrl": "https://cdn.findqc.com/item/20250925/mfz5yz93_nx2n.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBL9n_NGnCGRA-7PRaCMJbWg",
+          "name": "义乌市宸翰饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "21083",
+        "mallType": "TB",
+        "itemId": "560537396342",
+        "title": "Apostle Walker Le Shao Zhou Baihao Same Necklace Men's and Women's Couple Long Woolen Chain Sword Cross Alloy",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfwqua_3iu5.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58466335",
+          "name": "伢克迪",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1576375",
+        "mallType": "T1688",
+        "itemId": "832847917483",
+        "title": "NANA Vivian West Dowager Classic Three-Dimensional Saturn Water Drop Pearl Necklace Female Punk Godmother Vintage Woolen Chain",
+        "picUrl": "https://cdn.findqc.com/item/20250701/mcjqrhnv_mg2z.jpg",
+        "price": "¥3.80",
+        "toPrice": "$0.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGwZK_72wdKTt40zOTpbGFA",
+          "name": "义乌市郴颐电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2181359",
+        "mallType": "T1688",
+        "itemId": "813477615953",
+        "title": "Dijia Classic CD Letter Pearl Chain Handmade DIY Bracelet Light Luxury Jewelry Internet Celebrity Popular Women's Neck Chain",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxns2ia_bhg4.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVEomisFDh39nqI_2GtZakQ",
+          "name": "海丰县梅陇镇香高品首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2493315",
+        "mallType": "T1688",
+        "itemId": "898563000249",
+        "title": "Titanium steel bracelet, men's basic chain combination, no fading, high-end feeling, Cuban chain, women's versatile keel chain design, jewelry",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxj9yxk_3fin.jpg",
+        "price": "¥1.88",
+        "toPrice": "$0.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwfc7oMz-m6hnYRWg6Os6IQ",
+          "name": "义乌市潮邦饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2486677",
+        "mallType": "TB",
+        "itemId": "938806473786",
+        "title": "(Rare) Mowalola 24ss Stealing Rice Metal Portrait Double Women Kneeling Worship Buckle Belt Belt",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfvsqznx_ntln.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "215720698",
+          "name": "PLAYSONGS",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2080891",
+        "mallType": "T1688",
+        "itemId": "853204782953",
+        "title": "T family enamel heart benchmarking sterling silver S925 thick silver Seiko niche luxury necklace women's all-match clavicle chain",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfl9cs71_d91r.jpg",
+        "price": "¥14.00",
+        "toPrice": "$2.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBCEiJ76sD10c6kKKR3MIqRg",
+          "name": "海丰县梅陇镇利梵首饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2388922",
+        "mallType": "TB",
+        "itemId": "966814606380",
+        "title": "C Family Factory! Leather Strap with Adjustable Length, Minimalist High-End Metal Crossbody Leather Strap for Women",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfnf9owp_9ftc.jpg",
+        "price": "¥45.80",
+        "toPrice": "$7.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "203092079",
+          "name": "CASE潮壳空间",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2461493",
+        "mallType": "TB",
+        "itemId": "564440901585",
+        "title": "Watch out for the necklace",
+        "picUrl": "https://cdn.findqc.com/item/20250921/mftpqnqw_3ppo.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70789866",
+          "name": "艾妮庚精品首饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2389266",
+        "mallType": "T1688",
+        "itemId": "933475802833",
+        "title": "2025 New Mint Green Rhombus Necklace for Women French Accessible Luxury Exquisite Elegant High-Value Neck Chain Clavicle Chain",
+        "picUrl": "https://cdn.findqc.com/item/20250918/mfp2lh6m_o9v0.jpg",
+        "price": "¥5.99",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVyZVYrsfem6-XeHTfMI0Wg",
+          "name": "义乌市锦凯饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2426735",
+        "mallType": "T1688",
+        "itemId": "707809241953",
+        "title": "Hip hop style European and American retro silver pendant jewelry Thai silver style trendy boat anchor military flower necklace pendant necklace",
+        "picUrl": "https://cdn.findqc.com/item/20250918/mfoxg4fk_cren.jpg",
+        "price": "¥7.00",
+        "toPrice": "$1.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB28m0i8thh0ikfoGf0dMYfQ",
+          "name": "义乌市股今电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2388456",
+        "mallType": "T1688",
+        "itemId": "914726230446",
+        "title": "Fashion Ch Hip-Hop Nightclub Trendy Brand Cross Necklace Handmade Chain Valentine's Day Gift Retro Alloy Hanging Chain",
+        "picUrl": "https://cdn.findqc.com/item/20250916/mflzj9re_q6kp.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBamGQvHsAwvRNTCKX7hdAMg",
+          "name": "义乌市喆智电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2425115",
+        "mallType": "WD",
+        "itemId": "6380646665",
+        "title": "Article number 60930",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfnxem24_q5fh.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "203659635",
+          "name": "「移步新店」 BAT SHOP蝙蝠商社  上新下单都去新店",
+          "logo": "https://si.geilicdn.com/bj-vshop-203659635-1497498288063-638755670_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2364657",
+        "mallType": "WD",
+        "itemId": "7236920395",
+        "title": "(In stock) Self owned BA24SS new retro sword necklace, diamond necklace, letter in stock? The final batch of clearance",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfnvvc8z_9xbf.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1350023534",
+          "name": "需要钱不是朋友club",
+          "logo": "https://si.geilicdn.com/wdseller1350023534-5e2b00000174c4b0d04c0a217216_959_959.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141233091917137894",
+  "language": "en"
+}

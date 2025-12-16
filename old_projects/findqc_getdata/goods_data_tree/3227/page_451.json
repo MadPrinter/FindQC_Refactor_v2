@@ -1,0 +1,383 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "941973",
+        "mallType": "T1688",
+        "itemId": "891239539658",
+        "title": "Trendy brand short sleeved t-shirt dice black eight ice cream basic style American couple outfit summer",
+        "picUrl": "https://cdn.findqc.com/item/20250429/ma1vihvj_cnjf.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218687517880",
+          "name": "广州世誉箱包商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 108,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "939574",
+        "mallType": "WD",
+        "itemId": "7390142772",
+        "title": "SUP T-shirt Specials",
+        "picUrl": "https://si.geilicdn.com/open1778777241-1234478995-094e00000194fb64d2050a8133b5_800_800.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1778777241",
+          "name": "SMARTBUY",
+          "logo": "https://si.geilicdn.com/shopedit1842056477-04c90000019367a827f40a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "939465",
+        "mallType": "WD",
+        "itemId": "7321210287",
+        "title": "****** products",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-29cb0000018f43a8e34f0a8115b5_500_646.jpg",
+        "price": "¥102.00",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828016549",
+          "name": "我的小铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-249600000193b88380020a231316-unadjust_234_234.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2403965",
+        "mallType": "TB",
+        "itemId": "674552911460",
+        "title": "Extra Large Size for Plus-Size Women 150kg Slimming Short-Sleeve Bear Graffiti Pure Cotton Top ins Trendy Brand Loose Couple T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfl3mwg5_jipj.jpg",
+        "price": "¥30.94",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "526513337",
+          "name": "大码女装胖mm自制",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2408738",
+        "mallType": "WD",
+        "itemId": "7448256165",
+        "title": "Reasonable Broken Star",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfl0zd01_5d34.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2403853",
+        "mallType": "T1688",
+        "itemId": "782037370358",
+        "title": "2024 Summer New European and American Trendy Brand Men's and Women's Large Size Loose Short Sleeve Round Neck T-shirt Retro Versatile Casual Half Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkxhn57_86ln.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb8FkoU0hPgp7_jekWrAdjA",
+          "name": "深圳市奕程贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2403807",
+        "mallType": "TB",
+        "itemId": "967666456132",
+        "title": "American high-quality vintage skull letter printed short sleeved street retro unisex loose casual T-shirt trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkv1kdp_fdk4.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "254401958",
+          "name": "33 TRENTE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2253566",
+        "mallType": "WD",
+        "itemId": "7534348159",
+        "title": "Cross horseshoe print men's and women's short sleeved T-shirt series wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkv0w6a_ybba.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1729594541",
+          "name": "Good Product",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2347509",
+        "mallType": "TB",
+        "itemId": "901840503772",
+        "title": "Black Boxy Short-Sleeved T-Shirt for Men and Women, Summer Loose Deconstructed Space Cotton T-Shirt, Heavy Five-Quarter Sleeve Top",
+        "picUrl": "https://cdn.findqc.com/item/20250910/mfdka7ji_7xah.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "234082391",
+          "name": "qotriock旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2403713",
+        "mallType": "T1688",
+        "itemId": "852866444700",
+        "title": "Kith Treats Pocket Ice Cream Honey Print Short Sleeve Loose Round Neck Tee for Men and Women Couple Back Bee",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkn60co_n3cj.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6JhR62c4HMIxd6AwkUsYRA",
+          "name": "广州奇喜服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4594",
+        "mallType": "WD",
+        "itemId": "3356836049",
+        "title": "20ss trendy brand new bbr basic unisex round neck T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3y0rm_31js.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2226433",
+        "mallType": "WD",
+        "itemId": "7508829342",
+        "title": "Cross border Luo Jia high-quality embroidered logo loose short sleeved men's and women's casual fashion versatile T-shirt trendy brand",
+        "picUrl": "https://cdn.findqc.com/item/20250831/mezdp2u0_sp1t.jpg",
+        "price": "¥213.00",
+        "toPrice": "$33.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1759745973",
+          "name": "Viva Mart",
+          "logo": "https://si.geilicdn.com/wdseller1911115083-0a520000019702ad23c90a210256_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2403654",
+        "mallType": "WD",
+        "itemId": "7524216629",
+        "title": "Gift box delivery - special price for broken codes [spot welfare price] Guangzhou Ceiling Quality Heavy Industry High Quality Guangzhou Ceiling Quality Heavy Industry High Quality Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkg5z7d_xsdh.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1714467102",
+          "name": "小六外贸",
+          "logo": "https://si.geilicdn.com/wdseller1730445636-4f830000019a1e9e9dcb0a231177_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2404292",
+        "mallType": "WD",
+        "itemId": "6525087817",
+        "title": "Chinese men's basketball team, Wujie men's basketball, quick drying long sleeves, T-shirts, training clothes, sports shooting court clothes, sportswear",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkevtz8_6wx6.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718816544",
+          "name": "空中花园",
+          "logo": "https://si.geilicdn.com/wdseller1423237814-20ad0000018a642f7be30a23136f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1314397",
+        "mallType": "WD",
+        "itemId": "7388258223",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkevl19_es0d.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2406609",
+        "mallType": "T1688",
+        "itemId": "645930911621",
+        "title": "AMIRI21SS Leaf Letter Printed T-shirt 200g Cotton",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkadahd_4cjr.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206595308001",
+          "name": "桐城市珈恩制衣有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2404289",
+        "mallType": "TB",
+        "itemId": "848264238162",
+        "title": "European and American Ro Style Dark High Street Ultra-Slim Wool-Blend Striped Long-Sleeve Base Shirt with Round Neck for Autumn and Winter, Warm and Fashionable for Men",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkasyfg_xxdg.jpg",
+        "price": "¥180.75",
+        "toPrice": "$28.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106169498",
+          "name": "DKISSHDW高端男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2406219",
+        "mallType": "WD",
+        "itemId": "7476261453",
+        "title": "Z War Horse Short T Popular Promotion - gt",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfk70m70_cm8v.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668008861",
+          "name": "w2c",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2404286",
+        "mallType": "T1688",
+        "itemId": "768990517114",
+        "title": "320g heavyweight American pure cotton short sleeved T-shirt, couple solid color top, casual plus size base shirt, men's and women's base shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfk7gchn_dy8t.jpg",
+        "price": "¥24.50",
+        "toPrice": "$3.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217301229657",
+          "name": "海丰县城东镇罗嘉文服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1337854",
+        "mallType": "WD",
+        "itemId": "7454990028",
+        "title": "Women's round neck T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfk7g2fc_4r6v.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1726065093",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/wdseller1878576038-224c000001928e6bffcf0a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114641541137315407",
+  "language": "en"
+}

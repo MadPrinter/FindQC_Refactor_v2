@@ -1,0 +1,484 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1764290",
+        "mallType": "TB",
+        "itemId": "690221488525",
+        "title": "White pure desire style lace camisole vest for women, French chic with chest cushion and cross tie top",
+        "picUrl": "https://cdn.findqc.com/item/20250803/mdv4dazl_88ex.jpg",
+        "price": "¥26.80",
+        "toPrice": "$4.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105092960",
+          "name": "壹号人家女装",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "946275",
+        "mallType": "WD",
+        "itemId": "7247494807",
+        "title": "ST short sleeved classic 8 table tennis 06B",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mcj1v04f_yw20.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 47,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "783275",
+        "mallType": "T1688",
+        "itemId": "827856792198",
+        "title": "Quick drying sports and fitness vest for women, including chest pads, high elasticity, quick drying, neck hanging, beautiful back, yoga bra top, hair replacement",
+        "picUrl": "https://cdn.findqc.com/item/20250212/m70xxc31_buv3.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUVqjSipxHHAltbIkC0iqww",
+          "name": "广州市布履服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67112",
+        "mallType": "TB",
+        "itemId": "643951964241",
+        "title": "new Unif Cute Body Cropped Bustier Clothes for Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mltbxe_q1u3.jpg",
+        "price": "¥69.90",
+        "toPrice": "$10.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "210255650",
+          "name": "yuejiaxin的小店",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "54212",
+        "mallType": "TB",
+        "itemId": "573908097071",
+        "title": "Foreign trade original single bra DKNY home seamless non-steel ring three rows of two buttons ultra-comfortable small insert bra without trace",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nohj29_5bvh.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "50426",
+        "mallType": "TB",
+        "itemId": "733764314137",
+        "title": "New French pure desire ice silk with bra pad camisole undershirt female inner summer back underwear outside top ins",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgwobl_ha6p.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "49082",
+        "mallType": "TB",
+        "itemId": "698895329190",
+        "title": "ZA spring and summer new strapless straight neck knit fabric zipper top 2248332 3067005 2248707",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgh6rg_4xh8.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60404122",
+          "name": "SHH STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "43860",
+        "mallType": "T1688",
+        "itemId": "782431483375",
+        "title": "1u the same dumpling bag large capacity fitness yoga bag shoulder armpit women's bag crescent moon bag splash-proof three colors can be selected",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3me27z3_cydd.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "categoryId": 17,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36789",
+        "mallType": "TB",
+        "itemId": "613835079023",
+        "title": "Foreign trade dkny sports models bra small chest type running maternity underwear female without steel ring thin section sexy gathered yoga",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nl21ju_relo.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36665",
+        "mallType": "TB",
+        "itemId": "772925920490",
+        "title": "Canadian Red Card W Top Women's Black Waist Slim Fit Sleeveless Bright Face Dark Buckle Skincare Tank Top",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkzo0l_b91n.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34255539",
+          "name": "The Sunday品质女装批发店",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29436",
+        "mallType": "TB",
+        "itemId": "613904483977",
+        "title": "Japanese-Made Home-Style Single-Shoulder Pleated Bag, Folded Nylon Crossbody Bag ins Same Style Unisex Minimalist Solid Color Shoulder Bag",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj4yki_9nx2.jpg",
+        "price": "¥108.26",
+        "toPrice": "$17.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "235712939",
+          "name": "宅家褶皱店2025",
+          "type": "TB"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "23296",
+        "mallType": "TB",
+        "itemId": "810414988047",
+        "title": "Girl's medium to long thin base anti glare straight back lace camisole vest with detachable shoulder straps and strapless bra",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nhy54l_t3ax.jpg",
+        "price": "¥34.90",
+        "toPrice": "$5.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "500372242",
+          "name": "蓓莱芬旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16370",
+        "mallType": "WD",
+        "itemId": "5978011587",
+        "title": "Laperla noblewoman new French deep V water light glaze cat claw cup nude sling without trace back bra",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3necpmq_8uz1.jpg",
+        "price": "¥106.00",
+        "toPrice": "$16.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "311594078",
+          "name": "米澜时尚 外贸精品尾货 批发城 ～",
+          "logo": "https://si.geilicdn.com/wdseller311594078-26d800000170f2136fea0a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114020530194349821",
+  "language": "en"
+}

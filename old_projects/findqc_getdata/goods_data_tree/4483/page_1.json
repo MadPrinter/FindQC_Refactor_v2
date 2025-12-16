@@ -1,0 +1,635 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3005042",
+        "mallType": "WD",
+        "itemId": "7251055702",
+        "title": "R22024-H65",
+        "picUrl": "https://si.geilicdn.com/pcitem901882847512-77bf0000019200e1b9020a20e672_1080_1080.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "939723",
+        "mallType": "WD",
+        "itemId": "7253767822",
+        "title": "R19016-H55",
+        "picUrl": "https://cdn.findqc.com/item/20250305/m7uwmuzd_730k.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758289665",
+          "name": "ROCKET1",
+          "logo": "https://si.geilicdn.com/weidian901842075230-78c1000001913c5a71590a20e7c7_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 95,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2222804",
+        "mallType": "WD",
+        "itemId": "7531241853",
+        "title": "New Reflective Line Windbreaker Set",
+        "picUrl": "https://si.geilicdn.com/pcitem1941018259-681d00000198d687516e0a23047e-unadjust_840_838.png",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1875944813",
+          "name": "Dragon",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3130866",
+        "mallType": "WD",
+        "itemId": "7270025950",
+        "title": "R46109-H28",
+        "picUrl": "https://si.geilicdn.com/pcitem901883038688-42b500000191de8c5ef20a20e273_800_800.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758289665",
+          "name": "ROCKET1",
+          "logo": "https://si.geilicdn.com/weidian901842075230-78c1000001913c5a71590a20e7c7_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3066797",
+        "mallType": "WD",
+        "itemId": "7252433772",
+        "title": "R2088-H48",
+        "picUrl": "https://si.geilicdn.com/pcitem901883038688-39af00000191551c66730a20e7c7_800_800.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758289665",
+          "name": "ROCKET1",
+          "logo": "https://si.geilicdn.com/weidian901842075230-78c1000001913c5a71590a20e7c7_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1951061",
+        "mallType": "T1688",
+        "itemId": "904100748600",
+        "title": "A meter m foreign trade wholesale ri new short sleeved flower shirt retro Hawaiian shorts couple set cross-border high zheng",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mPyfOb1MRu9hRozhp_!!2210988121432-0-cib.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4D0eVXlC0pNiyqH5u7bfxA",
+          "name": "广州粤潮国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1881134",
+        "mallType": "WD",
+        "itemId": "7464929804",
+        "title": "Cotton Shorts Short Sleeve Complete Series",
+        "picUrl": "https://si.geilicdn.com/open1746485826-1234478995-01ae00000196bf31d0010aa0834c_1920_1920.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746485826",
+          "name": "HIGH",
+          "logo": "https://si.geilicdn.com/wdseller1570262848-0c5d00000196f2bb64380a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1293553",
+        "mallType": "WD",
+        "itemId": "7399642431",
+        "title": "D *T *Foam *Wood *Cotton **Flower High Street Loose Street Shorts",
+        "picUrl": "https://si.geilicdn.com/open1812268077-1234478995-50230000019532da5f0a0aa0834c_1920_1920.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812268077",
+          "name": "Trendy front line",
+          "logo": "https://si.geilicdn.com/shopedit1932304976-29b600000195952dd3670a2303ee-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1294184",
+        "mallType": "T1688",
+        "itemId": "902286097538",
+        "title": "Cross border 2024 Spring/Summer Kanye Same Style Foam Cotton Flower High Street Loose Street Shorts for Men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01elEwSX27OV8F1Yc9A_!!2218103397787-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209431557532",
+          "name": "佛山市禅城区尚九潮流时装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 120,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2151789",
+        "mallType": "WD",
+        "itemId": "7439063283",
+        "title": "/foam kapok high street loose street shorts",
+        "picUrl": "https://si.geilicdn.com/open1805522381-1234478995-4a9600000195f7ca02f30a22d249_1920_1920.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1805522381",
+          "name": "奥特曼",
+          "logo": "https://si.geilicdn.com/weidian1930676905-2a1b00000195dc52a10f0a210256_656_656.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "503343",
+        "mallType": "T1688",
+        "itemId": "727300403088",
+        "title": "Spot corteiz splicing jacket jacket men and women in Europe and the United States tide windproof sports coat street breathable hooded",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qMsrjN1KRKI6lvohh_!!2215002491160-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215002491160",
+          "name": "义乌市后周服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1014311",
+        "mallType": "T1688",
+        "itemId": "768125670772",
+        "title": "Cross-border wholesale Denim Europe and the United States tide kapok short-sleeved set of foam printed high street T-shirt men and women summer FOG",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000007758/O1CN01KSforv27BDbPtNhhu_!!6000000007758-0-tbvideo.jpg",
+        "price": "¥44.16",
+        "toPrice": "$6.94",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1319392",
+        "mallType": "WD",
+        "itemId": "7448466948",
+        "title": "D*E*N*I*M* *T*E*A*R*S* *Wood*Cotton*Flower*Foam*Print*Flower*Short*Sleeve*T*Shirt*Loose*Couple*Short*Pants*Set",
+        "picUrl": "https://si.geilicdn.com/open1707284461-1234478995-6ef600000196353e2c600aa08290_1920_1920.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707284461",
+          "name": "Rsleosreps",
+          "logo": "https://si.geilicdn.com/shopedit1944959597-2a100000019638e07d980a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2800038",
+        "mallType": "TB",
+        "itemId": "739772091940",
+        "title": "23 Autumn/Winter Couple Style Striped Color-Block Embroidered Logo Motorcycle Glossy Black Leather Baseball Jacket Stand Collar Coat Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhhhhjlc_hg2f.jpg",
+        "price": "¥437.40",
+        "toPrice": "$68.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "261604786",
+          "name": "7t线上店",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2289271",
+        "mallType": "T1688",
+        "itemId": "903647593981",
+        "title": "Beimei raincoat electric car long full body rainstorm prevention adult external riding single men's electric car poncho",
+        "picUrl": "https://cdn.findqc.com/item/20250901/mf14aavn_y0ih.jpg",
+        "price": "¥44.00",
+        "toPrice": "$6.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211858242067",
+          "name": "湖南备美户外用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2060546",
+        "mallType": "WD",
+        "itemId": "7251398437",
+        "title": "R2060-H48",
+        "picUrl": "https://cdn.findqc.com/item/20250811/me68pes8_lmf1.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758289665",
+          "name": "ROCKET1",
+          "logo": "https://si.geilicdn.com/weidian901842075230-78c1000001913c5a71590a20e7c7_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "985274",
+        "mallType": "TB",
+        "itemId": "737052302866",
+        "title": "KAWS co-branded 1986 splicing waterproof windproof outdoor punching jacket men and women couple models into Tibet travel jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250313/m867ja5f_ciaa.jpg",
+        "price": "¥309.00",
+        "toPrice": "$48.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125399301",
+          "name": "和彦祖一样酷",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "886548",
+        "mallType": "T1688",
+        "itemId": "810910652416",
+        "title": "Cross-border 2024 spring and summer D T Kanye with foam kapok high street loose street shorts men",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mcj2g47v_b0t8.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB75FlI2o3PZR_mzHVyGBgwQ",
+          "name": "广州斯诺潮玩服饰贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 115,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346359",
+        "mallType": "WD",
+        "itemId": "7246758120",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sagli1_dnmd.jpg",
+        "price": "¥336.00",
+        "toPrice": "$52.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "115331",
+        "mallType": "WD",
+        "itemId": "7251924735",
+        "title": "R31003-H66",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mo0be5_j1d5.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114621601137315345",
+  "language": "en"
+}

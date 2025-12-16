@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2392218",
+        "mallType": "WD",
+        "itemId": "7527063408",
+        "title": "New fashionable versatile T-shirt-008",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-5b2c00000197d50907d30a23b491-unadjust_1200_1200.png",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2025199",
+        "mallType": "TB",
+        "itemId": "834064507577",
+        "title": "2000s High Street Shirts Y2K Mens Graphic Print Oversized T",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2208535776348/O1CN01eZ7vI21wlRDQk8zmH_!!2208535776348.jpg",
+        "price": "¥61.00",
+        "toPrice": "$9.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "459141453",
+          "name": "To bring happiness",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2025422",
+        "mallType": "WD",
+        "itemId": "7470562414",
+        "title": "24ssCH Sanskrit Printing Heavy Industry Direct Spray Ice Hockey Clothes for Foreign Trade Trendy Brands, Loose Short Sleeves, Men's and Women's Shorts",
+        "picUrl": "https://si.geilicdn.com/open247994257-1234478995-3c1d00000196d988aa6e0a23b491_800_800.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "247994257",
+          "name": "Alina",
+          "logo": "https://si.geilicdn.com/shopedit247994257-0d1a000001975a80c6040a207569-unadjust_480_480.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843760",
+        "mallType": "WD",
+        "itemId": "7429880558",
+        "title": "CHCrwHearCollection",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-26b30000018f43a7cd470a8115b5_1080_1080.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843522",
+        "mallType": "WD",
+        "itemId": "7447210195",
+        "title": "Jerseys 2012-Basi ~ Santos ~ Jerseys Santos Commemorative Soccer Jerseys",
+        "picUrl": "https://si.geilicdn.com/open1684891361-1234478995-45c2000001963971263c0a23b491_1562_1562.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684891361",
+          "name": "ThebigY store",
+          "logo": "https://si.geilicdn.com/wdseller1778358520-557d00000196f8821c200a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1659364",
+        "mallType": "WD",
+        "itemId": "7430145920",
+        "title": "Short sleeved T-shirt 198-3834",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-62c80000018fdbdce2e40a239631_1119_1119.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1658986",
+        "mallType": "TB",
+        "itemId": "929857678635",
+        "title": "Hengyuanxiang Cross-Border Trade Pure Cotton Men's Summer Trendy Short-Sleeve Polo Shirt Solid Color Breathable Youth Turn-Down Collar",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2215267162153/O1CN01s548ef1Rm7mxZFZJv_!!2215267162153.jpg",
+        "price": "¥123.79",
+        "toPrice": "$19.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "391570421",
+          "name": "川修优店的小店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1654319",
+        "mallType": "T1688",
+        "itemId": "912933463350",
+        "title": "Paris jersey Barcelona Inter Milan Arsenal AC Liverpool Ajax Napoli Atletico Madrid football jersey",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BxXqkj1nTH1b8RAwy_!!2219659155090-0-cib.jpg",
+        "price": "¥31.00",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219659155090",
+          "name": "广州市梦幻运动服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1654318",
+        "mallType": "T1688",
+        "itemId": "939050545052",
+        "title": "2225 Soccer Jerseys Football Jersey Brazil Argentina Morocco Portugal Italy Short Sleeve Cross Border",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000007510/O1CN013bjnud25LdW92rS7M_!!6000000007510-0-tbvideo.jpg",
+        "price": "¥34.80",
+        "toPrice": "$5.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219976781427",
+          "name": "广州足梦工坊服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1293970",
+        "mallType": "WD",
+        "itemId": "7443663894",
+        "title": "040516 HS Printed Short Sleeve",
+        "picUrl": "https://si.geilicdn.com/pcitem901913009389-2efe00000196103b9eb60a2395d6_1440_2160.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1293293",
+        "mallType": "TB",
+        "itemId": "820774525651",
+        "title": "Independent 24 Autum New arrival Ch Style Embroider Henry Collar Waffle Knit Long sleeves Relaxed Fit T-Shirt Unisex",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/336148346/O1CN01R6Hxc02BWWbcXO1lx_!!336148346.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "122619958",
+          "name": "吾關",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1293582",
+        "mallType": "T1688",
+        "itemId": "705090448522",
+        "title": "Europe and the United States station new cotton T-shirt men's tide letters spray-painted personalized short-sleeved loose casual round neck tops",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000002331/O1CN01xIndfM1T5e2y4HKfz_!!6000000002331-0-tbvideo.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1032698",
+        "mallType": "T1688",
+        "itemId": "893176804663",
+        "title": "2025 Factory Direct Summer New T-Shirt Heavy Base Shirt Men's Pure Cotton Fashion Brand Men's Short-sleeved Casual Loose",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nlG51Z1mEKTDy9I7P_!!2215836154922-0-cib.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB96Wo275kjcUh6ZJa0C6weg",
+          "name": "上饶市森利服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "744360",
+        "mallType": "WD",
+        "itemId": "7247635735",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-65110000018f57b5a5630a239631_800_800.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769151449",
+          "name": "顺泽鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2885280",
+        "mallType": "WD",
+        "itemId": "7585152997",
+        "title": "Heavyweight Long Sleeve",
+        "picUrl": "https://si.geilicdn.com/wdseller902005152311-6e510000019a2a9120ed0a2102b1_1290_1562.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1875944813",
+          "name": "Dragon",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2391880",
+        "mallType": "WD",
+        "itemId": "7441278719",
+        "title": "【DX26】Summer Short Sleeve Shorts Set",
+        "picUrl": "https://si.geilicdn.com/pcitem901857861682-715c0000018f85db50b30a20e672_828_828.jpg",
+        "price": "¥173.80",
+        "toPrice": "$27.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615844877",
+          "name": "MlodyGee",
+          "logo": "https://si.geilicdn.com/shopedit1919750623-2b520000019604df61e40a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2391377",
+        "mallType": "WD",
+        "itemId": "7518912366",
+        "title": "Embroidered striped long sleeved shirt\n",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-17690000019859f114e40a8115c2_750_1000.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1720195805",
+          "name": "5号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2207906",
+        "mallType": "T1688",
+        "itemId": "952230011489",
+        "title": "2025 Cross border T-shirt with smiling face, water drinking print, high street fashion top, versatile, hot selling wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BoDL451Cv5JbPhgOj_!!2214282480142-0-cib.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkTGoyLtU-1ddTNDHhd4pGA",
+          "name": "深圳市宝安区英伦酷童针织制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2024184",
+        "mallType": "WD",
+        "itemId": "7266464415",
+        "title": "Men's and women's round neck fashion padded thickened cotton long-sleeved sweater",
+        "picUrl": "https://si.geilicdn.com/open1719588686-1234478995-021200000191b3ffc0080a22d234_640_640.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1719588686",
+          "name": "SX Market",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2023583",
+        "mallType": "WD",
+        "itemId": "7328103964",
+        "title": "Summer washed and aged vintage short sleeve t-shirt",
+        "picUrl": "https://si.geilicdn.com/open1862210469-252808396-452500000193df1295140a8133b5_800_800.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1862210469",
+          "name": "季夏Jiva",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114229505249891625",
+  "language": "en"
+}

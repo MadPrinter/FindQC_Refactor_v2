@@ -1,0 +1,385 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1314981",
+        "mallType": "WD",
+        "itemId": "7258302139",
+        "title": "Balenciaga logo reflective printed short sleeved shirt (the only versatile fabric with reflective printing in recent years)",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg55ljtl_17wo.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828074954",
+          "name": "Koi出品",
+          "logo": "https://si.geilicdn.com/wdseller901932698471-7aeb000001990450013c0a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2369869",
+        "mallType": "WD",
+        "itemId": "7538750880",
+        "title": "GS.19877563",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg51mhow_a85k.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1865721389",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1808290",
+        "mallType": "TB",
+        "itemId": "815654126224",
+        "title": "Sanyuan Kangyu [MMY] Japanese high-end Sun Made washed gradient distressed short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg50roqt_qs8t.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "249021363",
+          "name": "白手起个家",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2459298",
+        "mallType": "WD",
+        "itemId": "7528927445",
+        "title": "Monkey style number B227",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxnrz9o_1nt4.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616049789",
+          "name": "ZS factory2",
+          "logo": "https://si.geilicdn.com/wdseller1965552696-487e00000197e0b8acdf0a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1478655",
+        "mallType": "T1688",
+        "itemId": "893064922116",
+        "title": "European and American leisure all-match men's and women's spring and summer new simple letter logo printed knitted short sleeve T-shirt 260g",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me9e4zq1_45ew.jpg",
+        "price": "¥66.00",
+        "toPrice": "$10.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4lxxUu8teuEbEwbmiiWQFA",
+          "name": "广州服道服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 140,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1457318",
+        "mallType": "WD",
+        "itemId": "7460734842",
+        "title": "AC letter printed T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg4rnpex_v924.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867150125",
+          "name": "善解人衣",
+          "logo": "https://si.geilicdn.com/shopedit1934672132-3e660000019a3bc4d19a0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2378295",
+        "mallType": "T1688",
+        "itemId": "843246962690",
+        "title": "555555 beauty tide Young Thug with Sp5der Hoodie foam letters men's and women's hooded sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250921/mftacbpe_m1dm.jpg",
+        "price": "¥67.00",
+        "toPrice": "$10.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBov1x70RpDzuEI4dYMppmBA",
+          "name": "中山市润鑫正电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2461964",
+        "mallType": "T1688",
+        "itemId": "936337282454",
+        "title": "Nylon few fold zipper short sleeved top! Loose collared casual casual shirt for lazy people, short sleeved for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg4kdkkw_kksf.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4R8sPVUYVftyQ8ShS3bIhg",
+          "name": "常熟市莫城街道日潮岛服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1360",
+        "mallType": "TB",
+        "itemId": "770939300665",
+        "title": "Decapitated Bear T-Shirt with Foam Print on the Back, Loose Fit, Unisex Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3n05rcf_b4hc.jpg",
+        "price": "¥90.24",
+        "toPrice": "$14.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "243772568",
+          "name": "Sunshine trend",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 348,
+        "qcVideoCnt": 3,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "1889460",
+        "mallType": "T1688",
+        "itemId": "895600302099",
+        "title": "Spring and summer new FOG ICON line letter printing round neck pullover short sleeve men and women fleece-lined hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxdp172_kwbb.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBn8LmhS6DdBHcu2Ba_UZGhQ",
+          "name": "佛山市南海区占有量服饰贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1891660",
+        "mallType": "T1688",
+        "itemId": "745917384337",
+        "title": "High Quality Large Size European and American Trendy Brand Off Ow Geometric Arrow Pattern Printed T-Shirt for Men and Women Short-Sleeved Cross-Border",
+        "picUrl": "https://cdn.findqc.com/item/20250823/meo16nzv_hrda.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdTuNZII7YoB8BCLhyODk1g",
+          "name": "广州星盛品牌管理有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3,
+        "picWidth": "1200",
+        "picHeight": "1200"
+      },
+      {
+        "id": "2536415",
+        "mallType": "WD",
+        "itemId": "7539784166",
+        "title": "Valley Collection 3",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg4e541x_2e9t.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "768382",
+        "mallType": "T1688",
+        "itemId": "810504023178",
+        "title": "CorrecT Version of KANYE Sanfang JoinT Peace Dove ShorT-sleeved T-shirT Casual American High STreeT Hooded SweaTshirT for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg47h28h_a7g0.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBp6MSAcC19fNoNQ63aGA0HQ",
+          "name": "佛山市雅婷服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1018382",
+        "mallType": "TB",
+        "itemId": "810918106627",
+        "title": "Wang Youbing Studio weighs 260G! Solid color simple and versatile short sleeved T-shirt retro vintage top",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg43by4k_p03a.jpg",
+        "price": "¥39.80",
+        "toPrice": "$6.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101298388",
+          "name": "王有病工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2533052",
+        "mallType": "WD",
+        "itemId": "7401589876",
+        "title": "CHT short sleeved logo embroidered K035",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg43bumw_2doz.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2532826",
+        "mallType": "TB",
+        "itemId": "949817406698",
+        "title": "Breathedivity quick drying high elasticity tight fitting men's long sleeved small high neck trendy cool printed muscle t-shirt thin",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg42h30v_z5kl.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "554776319",
+          "name": "爱上了健身官方店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2534302",
+        "mallType": "WD",
+        "itemId": "7269291458",
+        "title": "Mingxian Micro Label Sham Shui Po District",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg41o8aa_318g.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1378088195",
+          "name": "CND CLOTH",
+          "logo": "https://si.geilicdn.com/wdseller1378088195-5f6f000001739627e4360a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1916472",
+        "mallType": "WD",
+        "itemId": "7509805507",
+        "title": "Ape short sleeved shirt: 278#",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg42h1zl_gsct.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1752812698",
+          "name": "ZS factory新店",
+          "logo": "https://si.geilicdn.com/wdseller1639940264-48350000019625943e7b0a210349_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2532474",
+        "mallType": "TB",
+        "itemId": "956020920885",
+        "title": "European and American funny cute cat retro washed black distressed printed short sleeved t-shirt men's and women's trendy brand hip-hop top",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg3zhsyo_1g4r.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65914677",
+          "name": "威凡服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2379021",
+        "mallType": "WD",
+        "itemId": "7545207479",
+        "title": "Fashionable and trendy loose and versatile short sleeves YHH24",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg3xre48_ql5m.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1660742301",
+          "name": "Supercats",
+          "logo": "https://si.geilicdn.com/shopedit1949380991-5cab000001992d737e5d0a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146242451930828665",
+  "language": "en"
+}

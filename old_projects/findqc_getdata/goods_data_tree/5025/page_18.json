@@ -1,0 +1,49 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "4070",
+        "mallType": "TB",
+        "itemId": "811842396153",
+        "title": "Madman Pp Style Graffiti Line Short-Sleeved Jersey Personalized Customization",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3ndg6_vei0.jpg",
+        "price": "¥184.49",
+        "toPrice": "$29.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258373061",
+          "name": "MadMan2024",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3133",
+        "mallType": "WD",
+        "itemId": "5738736393",
+        "title": "Coke Hoodie Beige\n",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m382u3_1jev.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114815886249877625",
+  "language": "en"
+}

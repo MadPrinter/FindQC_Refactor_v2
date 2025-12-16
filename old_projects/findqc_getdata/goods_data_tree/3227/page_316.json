@@ -1,0 +1,382 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2905971",
+        "mallType": "WD",
+        "itemId": "7310223712",
+        "title": "Paris short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkbfc12_rnfn.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1803420425",
+          "name": "taiji",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905979",
+        "mallType": "WD",
+        "itemId": "7313894214",
+        "title": "230g double yarn fabric new short sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkbgqgr_kdau.jpg",
+        "price": "¥141.67",
+        "toPrice": "$22.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905975",
+        "mallType": "TB",
+        "itemId": "876451470825",
+        "title": "Left small label black arrow gray set 41136278",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkbgjcd_7n30.jpg",
+        "price": "¥180.34",
+        "toPrice": "$28.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "492571643",
+          "name": "黑波776",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895980",
+        "mallType": "TB",
+        "itemId": "899404918855",
+        "title": "Cooperation Women's Shoulder Master t Round Neck T-Shirt 25 Spring and Summer New Short-Sleeved Plain White T-Shirt 465754 / 474404",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmd76i_binb.jpg",
+        "price": "¥38.82",
+        "toPrice": "$6.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "151668560",
+          "name": "日系女装老菠萝衣橱",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2903324",
+        "mallType": "T1688",
+        "itemId": "781517043782",
+        "title": "GALLERY DEPT summer short sleeved t-shirt Hong Kong style five quarter sleeve printed top 22 Korean version trendy new half sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmgss4_1nno.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBzzGEO5M7dIHJAbLYkpwbw",
+          "name": "上饶市欧隆服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895919",
+        "mallType": "WD",
+        "itemId": "5896235876",
+        "title": "《𝙉𝙚𝙬 ♈ Casablanca 🏖 Casablanca 23 new short sleeved T-shirt ✈️ The airplane letter logo print is made of 230g double stranded 32 thread tight double yarn cotton fabric, which is soft.",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmbxbr_nx7v.jpg",
+        "price": "¥141.67",
+        "toPrice": "$22.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895853",
+        "mallType": "WD",
+        "itemId": "7504146082",
+        "title": "Trendy brand arte new flowers, leaves, roses, letter prints, men's and women's couple short sleeved t-shirts trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmbqp7_twmd.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1656438637",
+          "name": "BudgetBonanza",
+          "logo": "https://si.geilicdn.com/shopedit1941497109-312300000195d1db5da90a81347d-unadjust_682_682.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895801",
+        "mallType": "WD",
+        "itemId": "7243886077",
+        "title": "25SS Spring/Summer New BLCG Basketball Series 01 BASKETBALL Series Large silhouette unisex short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmbow7_5gbd.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "335669248",
+          "name": "CLC-STUDIO",
+          "logo": "https://si.geilicdn.com/wdseller335669248-28cc00000197cd20ab000a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895792",
+        "mallType": "TB",
+        "itemId": "771979281234",
+        "title": "NEW BALANCE NB 2024 Spring/Summer Men's and Women's New Sports Fashion Casual Short sleeved T-shirt AMT42323",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmbybm_sz1k.jpg",
+        "price": "¥224.67",
+        "toPrice": "$35.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "67311209",
+          "name": "爱拍运动",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895760",
+        "mallType": "TB",
+        "itemId": "910290868502",
+        "title": "2025 PATTA Chlorophyll 20 Years Anniv T-shirt Black Unisex F",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmbvyz_uuv5.jpg",
+        "price": "¥112.66",
+        "toPrice": "$17.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "222888744",
+          "name": "嘻嘻哈哈8",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895754",
+        "mallType": "WD",
+        "itemId": "7474009547",
+        "title": "Stuss short sleeved, style 376",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmbnyw_cvng.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "214515634",
+          "name": "CH Fashion",
+          "logo": "https://si.geilicdn.com/wdseller214515634-6dc400000193a717cc9d0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895752",
+        "mallType": "WD",
+        "itemId": "7450380121",
+        "title": "13L-41116",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmbppw_mtww.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "252002335",
+          "name": "lemon3",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1636347",
+        "mallType": "WD",
+        "itemId": "7491652550",
+        "title": "Second batch of restocking) Chicken legs made inside out instruction manual T-shirt washed black/ivory white/garment dyeing/fixed dyeing yarn back label/reverse cuff process design",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm7t08_6vmz.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221936",
+        "mallType": "TB",
+        "itemId": "905065864134",
+        "title": "ALD American style trendy brand retro simple casual loose printed puppy pure cotton short sleeved T-shirt in stock",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm7c9y_5lzs.jpg",
+        "price": "¥113.30",
+        "toPrice": "$17.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "478341726",
+          "name": "AI Tide thing",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "805344",
+        "mallType": "WD",
+        "itemId": "7240203755",
+        "title": "Arte Cotton Versatile T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm7e3h_871q.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704512009",
+          "name": "微小店",
+          "logo": "https://si.geilicdn.com/wdseller1808630503-24340000018ec283e2b90a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2262076",
+        "mallType": "TB",
+        "itemId": "963955551052",
+        "title": "No Time 4 Luv4 T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhd5rkl0_f1mb.jpg",
+        "price": "¥41.14",
+        "toPrice": "$6.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "447969573",
+          "name": "Rep reps",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2264450",
+        "mallType": "TB",
+        "itemId": "871043541498",
+        "title": "Represent American Niche Trendy Brand High Street Retro Vintage Short-Sleeved Loose Casual Round Neck T-Shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhd71xfb_kjxs.jpg",
+        "price": "¥59.37",
+        "toPrice": "$9.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2754839",
+        "mallType": "WD",
+        "itemId": "7455571010",
+        "title": "XJXPCS New Fashionable Versatile T-Shirt-02",
+        "picUrl": "https://cdn.findqc.com/item/20251028/mha88yda_ssxa.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1796353693",
+          "name": "SLPBUY",
+          "logo": "https://si.geilicdn.com/shopedit1950344346-4c9e000001966ade43bc0a23111a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2905906",
+        "mallType": "TB",
+        "itemId": "869694740021",
+        "title": "Straw slogan letter printed short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkb4zfm_m7ks.jpg",
+        "price": "¥111.83",
+        "toPrice": "$17.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "592054163",
+          "name": "Singor3",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905899",
+        "mallType": "TB",
+        "itemId": "786132219973",
+        "title": "FOG FEA OF GOD Double Line ESSENTIALS American Trendy Brand Men's Couple Pure Cotton Short sleeved T-shirt Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkb3qpf_xvs8.jpg",
+        "price": "¥46.73",
+        "toPrice": "$7.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "145512645",
+          "name": "陈大赚 Studio",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144506821916154197",
+  "language": "en"
+}

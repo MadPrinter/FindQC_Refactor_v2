@@ -1,0 +1,104 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "5032",
+        "mallType": "WD",
+        "itemId": "7242107834",
+        "title": "uncharted",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m46x7p_d252.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840466345",
+          "name": "莫非潮服商行",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4039",
+        "mallType": "WD",
+        "itemId": "7238339700",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3mqvn_cl43.jpg",
+        "price": "¥47.00",
+        "toPrice": "$7.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 81,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4015",
+        "mallType": "T1688",
+        "itemId": "772668600662",
+        "title": "Stainless Steel Three-color Classic Sansheng III Ring Hand Rope Fashion Simple Advanced Sense Classic Cross-border Explosions Tide",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3mav7_szzx.jpg",
+        "price": "¥5.50",
+        "toPrice": "$0.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDKaGPiz4F6nOUWXR2tfMwg",
+          "name": "东莞市长安盛鑫饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 257,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3877",
+        "mallType": "TB",
+        "itemId": "652068531703",
+        "title": "David customized 925 sterling silver cross insert coarse mineral bracelet for couples, high-end plaid men's style, internet celebrity",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3ktet_vlb7.jpg",
+        "price": "¥2,050.00",
+        "toPrice": "$322.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36089321",
+          "name": "David925",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3841",
+        "mallType": "TB",
+        "itemId": "741548424159",
+        "title": "Hip hop style cross flower splicing old style men's bracelet women's European and American versatile niche design love couple hand jewelry",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3kcm7_1ky2.jpg",
+        "price": "¥18.90",
+        "toPrice": "$2.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155349944",
+          "name": "H1007 Store",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142155962553901099",
+  "language": "en"
+}

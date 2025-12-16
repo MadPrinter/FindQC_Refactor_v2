@@ -1,0 +1,25 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "8792",
+        "mallType": "T1688",
+        "itemId": "776224678076",
+        "title": "Factory stock computerized embroidery label creative skull embroidery fabric patch embroidery label cross embroidery badge patch patch patch",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mael05_g15o.jpg",
+        "price": "¥0.48",
+        "toPrice": "$0.08",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146146431917914799",
+  "language": "en"
+}

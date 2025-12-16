@@ -1,0 +1,550 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2619297",
+        "mallType": "TB",
+        "itemId": "642768295879",
+        "title": "Martin Margiela Martin Margiela 1989-2009 Women's Series Fashion Clothing Design Book Original Edition",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2817547410/O1CN01OyN9hl24bpkDAgvSq_!!0-item_pic.jpg",
+        "price": "¥160.21",
+        "toPrice": "$25.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "149901363",
+          "name": "耕耘艺术书社",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "822620",
+        "mallType": "WD",
+        "itemId": "7388147988",
+        "title": "Branded T-Shirt Blindbox (200+ Styles)",
+        "picUrl": "https://si.geilicdn.com/pcitem1448784466-16c600000194df7666270a2102c5-unadjust_800_800.png",
+        "price": "¥39.50",
+        "toPrice": "$6.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1803103600",
+          "name": "Squirrel",
+          "logo": "https://si.geilicdn.com/pccreshp1448784466-72310000019467ee3ad70a20e672-unadjust_430_430.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 176,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902867",
+        "mallType": "TB",
+        "itemId": "672142862371",
+        "title": "CK Calvin Klein American men's elastic signature letter waistband mid size boxer underwear NB2975",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk73sbg_pl1t.jpg",
+        "price": "¥141.88",
+        "toPrice": "$22.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60355196",
+          "name": "奢华广场美国代购",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2102617",
+        "mallType": "TB",
+        "itemId": "764302500103",
+        "title": "Color Code+Color Code II Application: Taisho Showa's Color Book",
+        "picUrl": "https://cdn.findqc.com/item/20250818/megwr934_vlx7.jpg",
+        "price": "¥58.50",
+        "toPrice": "$9.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156812751",
+          "name": "东方设计书店",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1494764",
+        "mallType": "T1688",
+        "itemId": "823796080929",
+        "title": "Customized card stickers, credit card stickers, cross-border popular chip bank card stickers, customizable with pictures.",
+        "picUrl": "https://cdn.findqc.com/item/20250614/mbvo3b01_4u9l.jpg",
+        "price": "¥2.00",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "categoryId": 25,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "248522",
+        "mallType": "TB",
+        "itemId": "783003799776",
+        "title": "Pony Paulie series game book optional bracelet dress up handmade book / 1000 sticker book / diamond sticker coloring book / bedtime story book / concentration / secret garden 3-6-12 years old kindergarten middle class enlightenment children",
+        "picUrl": "https://cdn.findqc.com/item/20241125/m3wocimy_ld5b.jpg",
+        "price": "¥11.43",
+        "toPrice": "$1.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66842650",
+          "name": "浙江外文图书专营店",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67562",
+        "mallType": "TB",
+        "itemId": "633493524759",
+        "title": "Reinventing Happiness to Live the Way You Want English version of TheSubtleArtofNotGivingaF*ck",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlza8j_3gev.jpg",
+        "price": "¥16.80",
+        "toPrice": "$2.64",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "61753",
+        "mallType": "TB",
+        "itemId": "617834209326",
+        "title": "The Fine Art of Small Talk English Edition",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3miu3vz_8byw.jpg",
+        "price": "¥16.80",
+        "toPrice": "$2.64",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "49376",
+        "mallType": "TB",
+        "itemId": "675034309125",
+        "title": "[Agent] Jojo's Bizarre Adventure Supermodel Bucciarati Tattoo Color Paper Badge Fan Merchandise Temp",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mglk2p_3wvu.jpg",
+        "price": "¥20.45",
+        "toPrice": "$3.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "67383475",
+          "name": "五年高考 三年模拟",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "46878",
+        "mallType": "T1688",
+        "itemId": "775507462855",
+        "title": "COLOUR Japanese Magazine Appendix Style Trendy Brand Trendy Black Fashion Classic Style Single Shoulder Crossbody Bag Double Zipper Chest Bag",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mf9f2q_l6ga.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBn8LmhS6DdBHcu2Ba_UZGhQ",
+          "name": "佛山市南海区占有量服饰贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "37288",
+        "mallType": "TB",
+        "itemId": "662493940546",
+        "title": "Stock Original The Science of Supercars The Science of Supercars",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nl7qvh_ppb5.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66755743",
+          "name": "集美轩书坊",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "28673",
+        "mallType": "TB",
+        "itemId": "622491501412",
+        "title": "On the genetics of Morals Oxford Worlds classes English original Oxford World Classics series moral Genealogy Nietzsche [Chinese original]]",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj0v5k_ag5x.jpg",
+        "price": "¥82.81",
+        "toPrice": "$13.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71392189",
+          "name": "中华商务图书专营店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16288",
+        "mallType": "TB",
+        "itemId": "674263315652",
+        "title": "English Original 100 Deadly Skills 100 Deadly Skills Navy SEAL ClintEmerson English Edition Imported English Original books",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3n8layn_jrpi.jpg",
+        "price": "¥45.70",
+        "toPrice": "$7.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116391529",
+          "name": "大成文汇图书专营店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15584",
+        "mallType": "TB",
+        "itemId": "544551400222",
+        "title": "The Art of War by Sun Tzu: Collins Classic Literature, Sun Tzu: Military Philosophy, Military Classics, English Version, Imported English Book, Collins Classics",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ndzeqa_nojf.jpg",
+        "price": "¥26.07",
+        "toPrice": "$4.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "129473070",
+          "name": "瑞雅图书专营",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15431",
+        "mallType": "TB",
+        "itemId": "43019479375",
+        "title": "Authentic Journey to the West Dvd Disc Six-Part Children's Version Cctv 86 Edition Collector's Old Version High-Definition Complete Series Television Disc",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ne102c_po1h.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "115839260",
+          "name": "大杉音像专营店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "13475",
+        "mallType": "TB",
+        "itemId": "761335712187",
+        "title": "Mastering the Conversation Negotiating Strong English Never Split the Difference Tips Strategies",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcj7gp_4nxy.jpg",
+        "price": "¥16.80",
+        "toPrice": "$2.64",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "9404",
+        "mallType": "T1688",
+        "itemId": "689973995632",
+        "title": "Japanese miscellaneous appendix models camouflage ape head summer bucket bag influx of fashion waterproof bag spot supply",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3maofm6_fp83.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "categoryId": 17,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021148403061917132499",
+  "language": "en"
+}

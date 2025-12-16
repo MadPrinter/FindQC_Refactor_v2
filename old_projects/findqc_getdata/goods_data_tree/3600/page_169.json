@@ -1,0 +1,357 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "539273",
+        "mallType": "WD",
+        "itemId": "7369854648",
+        "title": "T-N-F Cotton jacket (high quality)",
+        "picUrl": "https://si.geilicdn.com/open1806115317-1234478995-4b6800000194691a6aa20aa08290_1066_1066.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1806115317",
+          "name": "sesame",
+          "logo": "https://si.geilicdn.com/weidian1916347310-391100000194137160a50a21146b_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2234607",
+        "mallType": "TB",
+        "itemId": "877178233703",
+        "title": "CP1158 CP Pro-Tek Hooded Padded Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250826/meso3sdr_voil.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "445752720",
+          "name": "HypeStreet",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2232503",
+        "mallType": "TB",
+        "itemId": "940539858110",
+        "title": "Spring and Autumn High Quality Men's Mesh Stormwear Youth Outdoor Waterproof Nylon Jacket Men's Jacket Jacket Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesgunxb_a9fj.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "294193084",
+          "name": "我没碰过钱 对钱没兴趣",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "387329",
+        "mallType": "WD",
+        "itemId": "7310721150",
+        "title": "MayaDownJackets",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesdx9ri_qsza.jpg",
+        "price": "¥550.00",
+        "toPrice": "$86.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1726894405",
+          "name": "Stella Pulse Store",
+          "logo": "https://si.geilicdn.com/wdseller1875244695-4d090000019a72ea02e70a239646_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "250272",
+        "mallType": "TB",
+        "itemId": "842080034181",
+        "title": "Autumn and Winter European High-End Men's Wool Sleeve Knit Patchwork down Jacket Versatile Hoodie Coat Trendy Brand",
+        "picUrl": "https://cdn.findqc.com/item/20241126/m3xg4yn4_to61.jpg",
+        "price": "¥498.00",
+        "toPrice": "$78.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "368307682",
+          "name": "涵涵家高端欧货",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 204,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2228998",
+        "mallType": "TB",
+        "itemId": "855173482889",
+        "title": "ACG Same Style Urban Outdoor Sports Warm Cotton Jacket with Lightweight and Fluffy Hoodie, American Trendy Men's and Women's Breadms",
+        "picUrl": "https://cdn.findqc.com/item/20250826/merphmvj_epdp.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "182090871",
+          "name": "云梦泽国潮高性价比服装店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "511694",
+        "mallType": "WD",
+        "itemId": "7263630044",
+        "title": "20240824 coat",
+        "picUrl": "https://si.geilicdn.com/pcitem1868424702-589e0000019191e6e2990a20e35c_960_960.jpg",
+        "price": "¥310.00",
+        "toPrice": "$48.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1741590021",
+          "name": "PPP78",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "508287",
+        "mallType": "WD",
+        "itemId": "7313880023",
+        "title": "Down jacket (80 high pile)",
+        "picUrl": "https://si.geilicdn.com/pcitem1798464021-48f40000019276aa66e10a20e7c7_960_1440.jpg",
+        "price": "¥550.00",
+        "toPrice": "$86.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2222527",
+        "mallType": "WD",
+        "itemId": "7269219236",
+        "title": "090721 suya",
+        "picUrl": "https://cdn.findqc.com/item/20250825/mer5a29s_r0v6.jpg",
+        "price": "¥580.00",
+        "toPrice": "$91.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "487289",
+        "mallType": "T1688",
+        "itemId": "852390548133",
+        "title": "Canadian Country Lodge Lodge Men's Down Hoodie Goose Lightweight Down Jacket 5078M",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gy74ta1YhGqrPfOpX_!!2218323713090-0-cib.jpg",
+        "price": "¥700.00",
+        "toPrice": "$110.07",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2208291",
+        "mallType": "WD",
+        "itemId": "6958438093",
+        "title": "Mon Montbeliard Down Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250824/meplwkac_4urw.jpg",
+        "price": "¥620.00",
+        "toPrice": "$97.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661102153",
+          "name": "Luxury Fashion",
+          "logo": "https://si.geilicdn.com/wdseller1814780747-4e6b00000191b1e936eb0a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "466814",
+        "mallType": "WD",
+        "itemId": "7350267423",
+        "title": "Boutique 3D",
+        "picUrl": "https://si.geilicdn.com/open1859392485-1234478995-4e8d000001928480a0e70a8115b5-unadjust_500_500.gif",
+        "price": "¥255.00",
+        "toPrice": "$40.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1859392485",
+          "name": "Good value for money",
+          "logo": "https://si.geilicdn.com/wdseller1891615333-6f700000019200228e240a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "462329",
+        "mallType": "WD",
+        "itemId": "7295109980",
+        "title": "Alphabet fluffy spliced bread down cotton jacket hooded men's and women's jackets coat",
+        "picUrl": "https://si.geilicdn.com/pcitem1863871221-691100000192d15631980a23111a_1280_1280.jpg",
+        "price": "¥289.00",
+        "toPrice": "$45.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769823481",
+          "name": "潮流时尚",
+          "logo": "https://si.geilicdn.com/weidian1863871221-224600000193a49974300a231316_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2191547",
+        "mallType": "T1688",
+        "itemId": "836194409194",
+        "title": "Big goose down jacket Macmillan 17 Canadian style down jacket 3804M",
+        "picUrl": "https://cdn.findqc.com/item/20250823/menill3l_cz6r.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBabEzVWq-qbY5r0ZA3g8IWQ",
+          "name": "莆田市秀屿区瑞达兴服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2189993",
+        "mallType": "T1688",
+        "itemId": "840082839735",
+        "title": "Cross border foreign trade goose down jacket 29 models Wyndhaw thick waterproof wolf fur collar 3808M big couple style white duck down",
+        "picUrl": "https://cdn.findqc.com/item/20250823/men9llnn_lxet.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxb7uDfwoaMH2IMYCXUzvGA",
+          "name": "荔城区黄石林俊福服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2187968",
+        "mallType": "T1688",
+        "itemId": "852099772572",
+        "title": "M new matte maya winter new matte down jacket men's and women's bread clothing classic thick coat tide",
+        "picUrl": "https://cdn.findqc.com/item/20250823/men2s3eg_cwi9.jpg",
+        "price": "¥580.00",
+        "toPrice": "$91.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218423490848",
+          "name": "莆田市秀屿区瑞达兴服饰店（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2047811",
+        "mallType": "T1688",
+        "itemId": "947864878952",
+        "title": "Correct American Version 1996 Embroidered Three-Logo down Cotton Jacket for Men and Women, Outdoor Warm Puffer Jacket, Couple Style Coat",
+        "picUrl": "https://cdn.findqc.com/item/20250817/mef3snln_2sb9.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQOQfChjOjZW2HEDPAaxkSw",
+          "name": "广州颜方休商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2183244",
+        "mallType": "T1688",
+        "itemId": "848161722095",
+        "title": "M 24 new ladies stand collar white wool knitted stitching light down jacket soft waxy goose down cardigan coat",
+        "picUrl": "https://cdn.findqc.com/item/20250822/mem8imxv_ta67.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBU4_Hyvr4OGyxe58zIVDO2A",
+          "name": "莆田市秀屿区卡努服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2175801",
+        "mallType": "T1688",
+        "itemId": "839875839985",
+        "title": "Palm Moose 2025 New # 12 Men Fur Hooded Stag down Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250822/melqxr14_q340.jpg",
+        "price": "¥599.00",
+        "toPrice": "$94.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmHge03Akzs4TMHQLnVwWHA",
+          "name": "泉州市宝丝林服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144544832553889448",
+  "language": "en"
+}

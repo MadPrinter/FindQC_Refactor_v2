@@ -1,0 +1,606 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2939271",
+        "mallType": "WD",
+        "itemId": "7578505680",
+        "title": "High-quality fashionable sports and casual shoes 04",
+        "picUrl": "https://si.geilicdn.com/pcitem901893019271-7adb0000019266639f010a23047e-unadjust_799_800.gif",
+        "price": "¥403.20",
+        "toPrice": "$63.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784277725",
+          "name": "4号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2874936",
+        "mallType": "TB",
+        "itemId": "959788600238",
+        "title": "New Lyrical Poem Dedicated to Dreams, Film Cutting Sticker Book, Full Volume, Thick and High Beauty, Handheld Account, DIY Decorative Collage",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2216897348343/O1CN01iEpAok2BV9SHZNU3T_!!2216897348343.jpg",
+        "price": "¥7.00",
+        "toPrice": "$1.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "335457523",
+          "name": "快乐的小癫子",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2262196",
+        "mallType": "T1688",
+        "itemId": "674913945473",
+        "title": "跨境爱家钛钢H字母手镯窄版爱家珐琅手镯18k金玫瑰金情侣手镯代发",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011OO86I1onFd0JPotC_!!2214087435269-0-cib.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214087435269",
+          "name": "东莞市莞城唐潮人饰品商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2472587",
+        "mallType": "WD",
+        "itemId": "7543386595",
+        "title": "High quality fashion sports casual shoes 04",
+        "picUrl": "https://si.geilicdn.com/pcitem901893019271-7adb0000019266639f010a23047e-unadjust_799_800.gif",
+        "price": "¥403.20",
+        "toPrice": "$63.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784277725",
+          "name": "4号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2906487",
+        "mallType": "TB",
+        "itemId": "918976173382",
+        "title": "Tight waistband, rope tie, black waistband, drawstring, men's and women's sports pants, waistband, hoodie, hat, flat rope, decorative strap",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkdzvw9_oyad.jpg",
+        "price": "¥5.85",
+        "toPrice": "$0.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108521982",
+          "name": "三爱家居旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905461",
+        "mallType": "TB",
+        "itemId": "779266830598",
+        "title": "Free shipping BDSM electrostatic tape sealing, teaching women how to bundle and bind adult sexual products, couple style sex toys",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9biwb_wggc.jpg",
+        "price": "¥5.04",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33499638",
+          "name": "私密宝贝情趣馆",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2831880",
+        "mallType": "WD",
+        "itemId": "7519706046",
+        "title": "Air Force 1 Low FJ7740-610",
+        "picUrl": "https://cdn.findqc.com/item/20251103/mhiuf5lb_0aha.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1670920649",
+          "name": "LX Factory",
+          "logo": "https://si.geilicdn.com/weidian1648522646-15180000018c77d859230a231418_1148_1148.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2797701",
+        "mallType": "WD",
+        "itemId": "7568751990",
+        "title": "KZ God Edition Special Offer Dunk Aj1 New Inverted Hook Loss making Clearance Opportunity (Do not place an order if there is no stock)",
+        "picUrl": "https://cdn.findqc.com/item/20251026/mh7nbkqo_uh3t.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1638087569",
+          "name": "PasserBy【新店】",
+          "logo": "https://si.geilicdn.com/wdseller1785843172-23b500000192156b98a30a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1923305",
+        "mallType": "T1688",
+        "itemId": "769343354675",
+        "title": "Erotica 10 meters duct tape static no adhesive tape erotica flirtation bondage mandatory bondage hand k sex toys",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VV8CXz1GiUmMDIjW5_!!2952980656-0-cib.jpg",
+        "price": "¥2.30",
+        "toPrice": "$0.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2952980656",
+          "name": "无锡圣地安科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2289317",
+        "mallType": "TB",
+        "itemId": "598952157684",
+        "title": "Handbag Tape Basic Girl Color and Paper Tape Set Whole Roll Cheap DIY Decorative Stickers Handbag Film",
+        "picUrl": "https://cdn.findqc.com/item/20250902/mf23ji1p_x649.jpg",
+        "price": "¥3.98",
+        "toPrice": "$0.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101205078",
+          "name": "喵小姐手账研习社",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2240363",
+        "mallType": "TB",
+        "itemId": "956616498647",
+        "title": "Forever Begins With You Acrylic Multi Insertion Scene Plaque",
+        "picUrl": "https://cdn.findqc.com/item/20250828/mevdvl44_k831.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "452205058",
+          "name": "miHoYo旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2229484",
+        "mallType": "T1688",
+        "itemId": "672822401357",
+        "title": "Banknote hairpin rich willful euro micro-narrowing hairpin ing funny simulation cute student duckbill clip three-dimensional",
+        "picUrl": "https://cdn.findqc.com/item/20250826/merspgde_f1ia.jpg",
+        "price": "¥1.20",
+        "toPrice": "$0.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFrIzbGP4tSqEkrq4x2T_RQ",
+          "name": "义乌市花信电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1563134",
+        "mallType": "T1688",
+        "itemId": "887943098847",
+        "title": "Kulomi roll stickers, children's stickers, girls' cartoon accounts, Sanrio decorative stickers, kindergarten rewards, cute",
+        "picUrl": "https://cdn.findqc.com/item/20250705/mcq0tfve_odcf.jpg",
+        "price": "¥0.55",
+        "toPrice": "$0.09",
+        "status": "normal",
+        "categoryId": 41,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1432260",
+        "mallType": "TB",
+        "itemId": "903268423112",
+        "title": "Foreign Trade Fashion Brand Casablanca Summer Tennis Club Thin Set Summer Casual Short-Sleeved Shirt and Shorts",
+        "picUrl": "https://cdn.findqc.com/item/20250623/mc91hryf_aeb9.jpg",
+        "price": "¥109.56",
+        "toPrice": "$17.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156422319",
+          "name": "潮牌批发 一件代发",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1317312",
+        "mallType": "TB",
+        "itemId": "902513543111",
+        "title": "Pokémon Ptcg Card Eevee Themed Collection Card Album Card Mat Friends' Reunion Card Mat Card Display Frame",
+        "picUrl": "https://cdn.findqc.com/item/20250605/mbisy65d_dlob.jpg",
+        "price": "¥10.35",
+        "toPrice": "$1.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "64858983",
+          "name": "百变怪TCG卡牌",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1055320",
+        "mallType": "TB",
+        "itemId": "627362909264",
+        "title": "Drama, opera, Beijing opera, makeup tape, adhesive tape, eyebrow hanging and headband tape, flesh colored transparent tape, double eyelid patch",
+        "picUrl": "https://cdn.findqc.com/item/20250327/m8r1cl5c_fgq9.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107279450",
+          "name": "中原戏装中原店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "422274",
+        "mallType": "WD",
+        "itemId": "6519505455",
+        "title": "OG-1 High",
+        "picUrl": "https://cdn.findqc.com/item/20250101/m5e0huyz_nriu.jpg",
+        "price": "¥439.00",
+        "toPrice": "$69.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204398",
+        "mallType": "WD",
+        "itemId": "7239052570",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42or55e_oa0u.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "70688",
+        "mallType": "T1688",
+        "itemId": "771703089534",
+        "title": "Source manufacturers 8cm modern style sofa cover cushions curtains Hanfu horse skirt decorative accessories jacquard ribbon",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mn1yzf_wqk0.jpg",
+        "price": "¥3.80",
+        "toPrice": "$0.60",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146275861930826232",
+  "language": "en"
+}

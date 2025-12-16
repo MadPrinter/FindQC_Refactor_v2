@@ -1,0 +1,625 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3195779",
+        "mallType": "T1688",
+        "itemId": "800998863640",
+        "title": "高清黑金刚17钢化膜iPhone15/14适用苹果16手机钢化保护膜13防窥",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ny0bHu1PokrvfSpV2_!!2212367371888-0-cib.jpg",
+        "price": "¥1.59",
+        "toPrice": "$0.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212367371888",
+          "name": "广州立创塑料制品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2994301",
+        "mallType": "TB",
+        "itemId": "741342862343",
+        "title": "1-5Pcs Full Cover Privacy Screen Protector For iPhone 17 16 ProMax Plus 8K Anti-spy Glass For iPhone",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2085223879/O1CN01JyALNr1eWdM5O2YIf_!!2085223879.jpg",
+        "price": "¥10.03",
+        "toPrice": "$1.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "233665893",
+          "name": "DualLucky Yuan Store",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900046",
+        "mallType": "TB",
+        "itemId": "677883406285",
+        "title": "Anti Spy Phone Glass Is Suitable for 17Promaxrprivacy Screen Protector15P",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/img/ibank/O1CN01XpSsNG1UWUlrXaSsP_!!2207411672525-0-cib.jpg",
+        "price": "¥6.28",
+        "toPrice": "$0.99",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2361831",
+        "mallType": "T1688",
+        "itemId": "744675583904",
+        "title": "Applicable to 16 Apple 15 Dust-free Bin iphone14promax Seconds Film 13 Full Screen 12 Tempered Film 11 Anti-peep XR",
+        "picUrl": "https://cdn.findqc.com/item/20250914/mfjbni2a_fack.jpg",
+        "price": "¥0.80",
+        "toPrice": "$0.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWt0327Gt2NbIojIvxPjbxw",
+          "name": "深圳市适扬科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 6,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "3133303",
+        "mallType": "T1688",
+        "itemId": "981754833167",
+        "title": "适用小米17promax镜头保护膜17pro小米一体全覆盖镜头膜17鹰眼膜",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011xiO7t1QmkkapzMIg_!!2216488442019-0-cib.jpg",
+        "price": "¥1.30",
+        "toPrice": "$0.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBs8FbsPQuzDc9Cg-3Ftrl8w",
+          "name": "深圳市猩凯洋科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3134727",
+        "mallType": "T1688",
+        "itemId": "668278406989",
+        "title": "iphone16 Phone Case Fine Hole Transparent 15pro Transparent TPU Apple 14Pro Max Silicone Protective Cover",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gea6OZ1wfwD2otq5V_!!3229446336-0-cib.jpg",
+        "price": "¥1.20",
+        "toPrice": "$0.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHJRpg4cJLP-Z-aWdy7hK6A",
+          "name": "深圳市罗湖区盛泰凯瑞电子配件厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3061185",
+        "mallType": "T1688",
+        "itemId": "631306303373",
+        "title": "Suitable for Apple 17 anti peeping film, 15promax phone film, 14 13 privacy film, 16pro anti peeping tempered film",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014Oegs62MsvfLy9loL_!!3886209884-0-cib.jpg",
+        "price": "¥0.85",
+        "toPrice": "$0.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBtiRcVpNDEd83zVmZjYQYhg",
+          "name": "深圳市福田区元兴佳电子商行",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2010222",
+        "mallType": "T1688",
+        "itemId": "873314475821",
+        "title": "Applicable iphone16 tempered film 15pro max full screen HD protective screen apple 12/13/14 cell phone film",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gdPW7x20DKDOddwFv_!!1104616815-0-cib.jpg",
+        "price": "¥7.50",
+        "toPrice": "$1.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1104616815",
+          "name": "深圳市艾比利数码有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2521867",
+        "mallType": "TB",
+        "itemId": "648853861419",
+        "title": "Suitable for Apple 13Promax Tempered Film iPhone 11 Sanqiang Xr Full Screen XS High Aluminum Large Arc Mobile Phone Film",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1704578785/O1CN01fcWsMF2ElaJj2FFyT_!!1704578785.jpg",
+        "price": "¥1.30",
+        "toPrice": "$0.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104606577",
+          "name": "润翔数码1",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2236644",
+        "mallType": "T1688",
+        "itemId": "708083034002",
+        "title": "Applicable Apple 16Pro Tempered Film iPhone 15Promax Anti-Peep Film 14 Full Screen 12 XSmax HD Film",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GZgplY1t7BOAHWaiL_!!2215503295854-0-cib.jpg",
+        "price": "¥1.98",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215503295854",
+          "name": "东莞市唯酷电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2293384",
+        "mallType": "TB",
+        "itemId": "760530926322",
+        "title": "Applicable Apple 13 tempered film iPhone 14/15promax phone 11 full screen 12pro anti-peep x new xr HD xsmas dust Plus dustless bin pm cover ip anti-fall por sticker",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2200805864660/O1CN01f37v7U1kIKkXsNIT3_!!4611686018427385044-0-item_pic.jpg",
+        "price": "¥5.90",
+        "toPrice": "$0.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "256742717",
+          "name": "星彦旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896461",
+        "mallType": "TB",
+        "itemId": "920712184786",
+        "title": "Suitable for iPhone 16 Promax tempered film, Apple 15 cleanroom film, 14Pro phone film, 12/13 new plus anti peeping XR blue light IP full screen PM anti drop PO high-definition 11 protective film",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjw6ut3_5xl9.jpg",
+        "price": "¥5.02",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125701350",
+          "name": "可伊可依数码",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896324",
+        "mallType": "TB",
+        "itemId": "595218199700",
+        "title": "GOR is suitable for Google Pixel10 full version tempered glass film. Google Pixel hand 9 machine 8 fluorescence 6 screen 5 screen 4 no 3 dust a compartment XL artifact pro high-definition transparent protective hard film",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjvyk7h_aqt7.jpg",
+        "price": "¥28.72",
+        "toPrice": "$4.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112985987",
+          "name": "GOR品牌数码店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2461403",
+        "mallType": "TB",
+        "itemId": "809607868766",
+        "title": "Nano micro sand AG tempered film suitable for iPad Air11 13 Pro 10.9 12.9 10.2 smooth high-definition frosted film mini7 Air7 Air6 11th generation",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfw8rimo_a3ai.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "247044629",
+          "name": "迪耐思官方企业店",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2240283",
+        "mallType": "TB",
+        "itemId": "691627259486",
+        "title": "4PCS Tempered Glass Suitable for iPhone 11 12 13 14 15 16 Pro Max XR XS Max Screen Protector Tempered Film Screen Protector",
+        "picUrl": "https://cdn.findqc.com/item/20250827/metvttwz_1j95.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66488616",
+          "name": "3CCASE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1753272",
+        "mallType": "T1688",
+        "itemId": "581663652803",
+        "title": "Suitable for Apple 13pro Max/12pro privacy film iPhone 11 full screen tempered film ix glass protective tape",
+        "picUrl": "https://cdn.findqc.com/item/20250715/md3jup59_4p12.jpg",
+        "price": "¥4.80",
+        "toPrice": "$0.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVwAnrAmBkJsR5kUVKiR7Sw",
+          "name": "深圳市金朝杨科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1696543",
+        "mallType": "TB",
+        "itemId": "835887052992",
+        "title": "Suitable for Apple 16 Pro Max Phone Tempered Glass Film New Model iPhone 15 Screen Protector 14 Plus Anti-Peep 13 Max Glass 17 Pm High-Definition 12 Transparent XS Max Full Screen Coverage 11",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md70qkxa_zlnh.jpg",
+        "price": "¥9.80",
+        "toPrice": "$1.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125642079",
+          "name": "时尚3C数码潮壳店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1519574",
+        "mallType": "T1688",
+        "itemId": "726454686620",
+        "title": "For Apple 15Promax mobile phone screen printing tempered film iPhone15plus vacuum plating screen protector",
+        "picUrl": "https://cdn.findqc.com/item/20250625/mcbk5nvs_83oo.jpg",
+        "price": "¥4.50",
+        "toPrice": "$0.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBtOHzRuzJ0cf5R26C1bM2rg",
+          "name": "深圳市诺易科科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1167458",
+        "mallType": "T1688",
+        "itemId": "737017403031",
+        "title": "Screen Protector Applicator Suitable for Apple 17 Pro Max, Screen Protector Applicator for 16 Pro Max, Privacy Screen Protector Applicator for 13, High-Definition for 15",
+        "picUrl": "https://cdn.findqc.com/item/20250412/m9e6less_6ylg.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBG2ike71b6uXVgu3D_d81Fw",
+          "name": "深圳市宝安区西乡雄发手机配件店",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "954271",
+        "mallType": "T1688",
+        "itemId": "669111260995",
+        "title": "14 Is Suitable for Apple 15 Tempered Glass Screen Protector, iPhone 13 Privacy Screen Protector, 12 Phone Screen Protector, Apple 17 Tempered Glass Screen Protector, 16 Pro",
+        "picUrl": "https://cdn.findqc.com/item/20250306/m7xdoppn_v70n.jpg",
+        "price": "¥2.23",
+        "toPrice": "$0.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFwgqKHidprsIrJVyFvqnMQ",
+          "name": "揭阳市榕城区鑫铭手机配件厂",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147252681917135052",
+  "language": "en"
+}

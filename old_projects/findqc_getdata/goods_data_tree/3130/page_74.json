@@ -1,0 +1,376 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1554493",
+        "mallType": "WD",
+        "itemId": "7288649429",
+        "title": "L2 Belt with Box",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mch442c4_83yo.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1872163848",
+          "name": "Toppanda",
+          "logo": "https://si.geilicdn.com/wdseller1452235621-5feb000001900af719320a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1560507",
+        "mallType": "T1688",
+        "itemId": "912210054643",
+        "title": "Guangzhou men's belt smooth buckle letter grid personalized pants belt waist belt men's Korean version trendy casual versatile Korean series",
+        "picUrl": "https://cdn.findqc.com/item/20250727/mdlrk57v_pjkl.jpg",
+        "price": "¥9.78",
+        "toPrice": "$1.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219492947151",
+          "name": "东莞市虎门宏新皮具厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 75,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1558390",
+        "mallType": "T1688",
+        "itemId": "740904605875",
+        "title": "Women's leather belt, cowhide versatile and simple, paired with casual pants, jeans decoration, women's belt width 3.3CM",
+        "picUrl": "https://cdn.findqc.com/item/20250626/mcdgypab_1nbv.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1w4FEcQUQN6vZmuRX96rsQ",
+          "name": "广州木藤皮具有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1554452",
+        "mallType": "T1688",
+        "itemId": "725616965579",
+        "title": "CH Kroos New Bracelet Ship Anchor Sword Cross Flower Men's Thick Bracelet European and American Retro S925 Standard Men's Handpiece",
+        "picUrl": "https://cdn.findqc.com/item/20250628/mcg3iog3_k67x.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1554350",
+        "mallType": "TB",
+        "itemId": "767664983914",
+        "title": "Leather buckle adjustable thin waistband for women, versatile with suit jacket, fashionable waist cinching, two-layer cowhide small belt",
+        "picUrl": "https://cdn.findqc.com/item/20250627/mcdwgih3_zj2v.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "458093411",
+          "name": "凯旋门腰带",
+          "type": "TB"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1551314",
+        "mallType": "WD",
+        "itemId": "7238669868",
+        "title": "K8 (No. 54) leather belt for men, H-buckle classic business and leisure belt, original order, high-end quality",
+        "picUrl": "https://cdn.findqc.com/item/20250626/mccbvnfr_6bqs.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621840505",
+          "name": "k8皮具",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1550287",
+        "mallType": "WD",
+        "itemId": "7439739993",
+        "title": "CH Vine Rivet Embossed Pants with Retro Belt",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5qwwvb_235l.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1800406053",
+          "name": "AAAL",
+          "logo": "https://si.geilicdn.com/wdseller1880288745-406f00000195dad7d0a20a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1549532",
+        "mallType": "WD",
+        "itemId": "7474959537",
+        "title": "【 DX4-6 】 New Fashion Business Versatile Men's Belt",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcmdacro_pey9.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1748301213",
+          "name": "BLZ Repzone",
+          "logo": "https://si.geilicdn.com/pcdecorate1950804333-539d00000196fb4b2bd30a2396f4-unadjust_360_360.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1533357",
+        "mallType": "WD",
+        "itemId": "7468334298",
+        "title": "belt",
+        "picUrl": "https://cdn.findqc.com/item/20250709/mcvpfins_ll09.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659999653",
+          "name": "我的店铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-641800000193b565e3020a23038e-unadjust_288_288.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 159,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1527133",
+        "mallType": "WD",
+        "itemId": "7287390366",
+        "title": "Classic men's leather printed belt versatile business needle buckle double-sided belt gift box set",
+        "picUrl": "https://cdn.findqc.com/item/20250624/mca9d5ti_7q7e.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1376014815",
+          "name": "聚优名品男包皮具",
+          "logo": "https://si.geilicdn.com/wdseller1376014815-48560000017e688180370a20e35c_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 92,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1519449",
+        "mallType": "T1688",
+        "itemId": "758705585821",
+        "title": "Factory European and American new fashion C letter printing solid color men's business belt with wallet box gift bag",
+        "picUrl": "https://cdn.findqc.com/item/20250620/mc4fcn97_s1jo.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByeyMWrCTUwnJJ9l0C08t7Q",
+          "name": "中山市鑫达瑞电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1516298",
+        "mallType": "WD",
+        "itemId": "7432928845",
+        "title": "Her Constance belt buckle&Reversible leather strap best quality 38MM belts WhatsApp+8615112120009",
+        "picUrl": "https://cdn.findqc.com/item/20250718/md87lxlo_2btj.jpg",
+        "price": "¥318.00",
+        "toPrice": "$50.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1845673869",
+          "name": "Leather LBrJack",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1509030",
+        "mallType": "TB",
+        "itemId": "777944509076",
+        "title": "Queen Dowager's classic men's and women's trendy belt, versatile and high-end, casual Saturn denim pants, belt decoration skirt",
+        "picUrl": "https://cdn.findqc.com/item/20250624/mca2s62f_q3no.jpg",
+        "price": "¥33.80",
+        "toPrice": "$5.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "316245230",
+          "name": "轨迹衣舍",
+          "type": "TB"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508857",
+        "mallType": "T1688",
+        "itemId": "891308697694",
+        "title": "American CH Embroidered Colorful White Cross Vine Needle Buckle Belt, Unisex Personalized Trendy Versatile Belt",
+        "picUrl": "https://cdn.findqc.com/item/20250729/mdnkggyg_0s3z.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216473228880",
+          "name": "佛山市欧悦尚品贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508813",
+        "mallType": "TB",
+        "itemId": "731331926783",
+        "title": "Subcultural diamond studded belt punk y2k spicy girl millennium rhinestone versatile women's decoration jeans belt decoration",
+        "picUrl": "https://cdn.findqc.com/item/20250621/mc69xhah_x935.jpg",
+        "price": "¥16.80",
+        "toPrice": "$2.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113465481",
+          "name": "音 匀YINYUN",
+          "type": "TB"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508734",
+        "mallType": "WD",
+        "itemId": "3850748487",
+        "title": "Brand new set of high-quality beauty scalp straps, fashionable and trendy genuine leather, business and casual, men's and women's waistbands, cowhide pants straps",
+        "picUrl": "https://cdn.findqc.com/item/20250620/mc4ll5ep_fp4g.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1821195972",
+          "name": "潮鑫名品",
+          "logo": "https://si.geilicdn.com/wdseller1493916622-5c1f000001731a366a6e0a217216_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508688",
+        "mallType": "T1688",
+        "itemId": "778459695861",
+        "title": "Letter B Home High-end Sense Belt Women's Fashion Jeans Belt All-match Women's Belt Light Luxury Decorative Belt",
+        "picUrl": "https://cdn.findqc.com/item/20250620/mc3l14q3_6r4q.jpg",
+        "price": "¥6.50",
+        "toPrice": "$1.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpeU4Y3l5OWrTTyCqvttikQ",
+          "name": "佛山市禅城区希嘻服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508361",
+        "mallType": "TB",
+        "itemId": "711227198355",
+        "title": "Autonomous Dark MA+Cross Handmade Retro Genuine Leather Belt",
+        "picUrl": "https://cdn.findqc.com/item/20250616/mbxybo8a_2ng6.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "535907840",
+          "name": "睡醒有点懵",
+          "type": "TB"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508353",
+        "mallType": "WD",
+        "itemId": "7473975111",
+        "title": "BOTT best quality belts WhatsApp+8613229250679",
+        "picUrl": "https://cdn.findqc.com/item/20250615/mbxt6kfm_whff.jpg",
+        "price": "¥378.00",
+        "toPrice": "$59.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646470549",
+          "name": "BrLBTleather",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1505336",
+        "mallType": "TB",
+        "itemId": "919992750636",
+        "title": "Roller Buckle Embroidered Colorful Cross Belt Vine Pin Buckle Belt Unisex Stylish Trendy Versatile Belt",
+        "picUrl": "https://cdn.findqc.com/item/20250614/mbveucqa_xmk6.jpg",
+        "price": "¥31.90",
+        "toPrice": "$5.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "174486392",
+          "name": "麦子舒饰小屋",
+          "type": "TB"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 55,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141175751924852813",
+  "language": "en"
+}

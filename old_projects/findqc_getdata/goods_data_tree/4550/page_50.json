@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2032362",
+        "mallType": "T1688",
+        "itemId": "751544125750",
+        "title": "OKONKWO flat-fit cleanfit Detroit jacket Santa Fe j97 star trek canvas padded jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01MSLDon1HU7v9G4ysA_!!4000610760-0-cib.jpg",
+        "price": "¥265.00",
+        "toPrice": "$41.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "4000610760",
+          "name": "广州弛森服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2029966",
+        "mallType": "WD",
+        "itemId": "7284300761",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1873980137-252808396-19210000019273895bd00a210298_800_800.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873980137",
+          "name": "大迈服饰",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2018238",
+        "mallType": "T1688",
+        "itemId": "910915079788",
+        "title": "2025 spring and summer outdoor sports quick-drying sun protective clothing breathable ice skin-friendly jacket factory direct sale men and women's jackets",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Vv5LQ52Chnz3UEoJQ_!!2218751828506-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218751828506",
+          "name": "丰泽区天马行空服饰网店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2030905",
+        "mallType": "T1688",
+        "itemId": "668043416135",
+        "title": "2022 spring new retro high street embroidery leather baseball jacket men and women gangster handsome ins casual jacket tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01iNnwNJ1snwflAqO9P_!!2208780765812-0-cib.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208780765812",
+          "name": "揭阳市揭东区新亨镇酷耀服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2013420",
+        "mallType": "WD",
+        "itemId": "7432710826",
+        "title": "ceo Exclusive",
+        "picUrl": "https://si.geilicdn.com/open1659295412-252808396-6c5400000191b724aa430a8115b5_800_800.jpg",
+        "price": "¥216.70",
+        "toPrice": "$34.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1847365997",
+          "name": "Panda store",
+          "logo": "https://si.geilicdn.com/shopedit1940742192-736f0000019a6359fcce0a2103bd-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2157283",
+        "mallType": "TB",
+        "itemId": "967870469528",
+        "title": "Mobius 380Gsm Sweatshirt (W&N)",
+        "picUrl": "https://cdn.findqc.com/item/20250824/mepa40ge_eqxk.jpg",
+        "price": "¥169.49",
+        "toPrice": "$26.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "421854872",
+          "name": "mobiusclothing",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 111,
+        "qcVideoCnt": 6,
+        "picWidth": "1080",
+        "picHeight": "1440"
+      },
+      {
+        "id": "1125",
+        "mallType": "TB",
+        "itemId": "753676734133",
+        "title": "American-Style Business Casual Hooded Long-Sleeve Jacket, Lightweight and Versatile Outdoor Men's Casual Wear",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mzstwp_50r4.jpg",
+        "price": "¥214.11",
+        "toPrice": "$33.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "115207252",
+          "name": "云端shop",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 201,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2494197",
+        "mallType": "WD",
+        "itemId": "7553462181",
+        "title": "ME plaid jacket jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251004/mgbjy1dc_eij3.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1739784557",
+          "name": "pengreps",
+          "logo": "https://si.geilicdn.com/wdseller1940384309-57d700000195ec36cfa00a8133cc_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2725647",
+        "mallType": "WD",
+        "itemId": "7237377890",
+        "title": "In stock free shipping NANAMICA plus mountain classic M51 Japanese men's outdoor windproof and waterproof workwear functional hooded jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1mum7e_9cap.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "908919004",
+          "name": "小潘果 一家便宜的好店",
+          "logo": "https://si.geilicdn.com/vshop908919004-1490725515.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1239911",
+        "mallType": "T1688",
+        "itemId": "905486541164",
+        "title": "Fw24 Week17 Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250528/mb8259c0_saj1.jpg",
+        "price": "¥67.99",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBB9BJmQDFAiUXGRGbOsAkeA",
+          "name": "跨境北美热卖频道",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2368392",
+        "mallType": "T1688",
+        "itemId": "900918030936",
+        "title": "Product Code 051002 Spring Collection Triangle Collar Recycled Nylon Men's Black Jacket High Luxury P Home High Order Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh86kzwz_95mf.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXqjLDeQi4znrAgPZSpyAfw",
+          "name": "嘉兴市东慕服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975135",
+        "mallType": "T1688",
+        "itemId": "896354483543",
+        "title": "Light luxury casual sun suit men's summer sunscreen shorts with a set of American tide outdoor two-piece set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ozwa9u2ARemLPQRkj_!!2214527098200-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214527098200",
+          "name": "揭阳市揭东区桂岭镇佐森纶服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975219",
+        "mallType": "TB",
+        "itemId": "937035476024",
+        "title": "Corteiz Alcatraz American street letters vintage denim jacket jacket men and women casual pants suit ins",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2212709311384/O1CN01vFw8xO1M5vDXr3LZa~crop,100,0,600,800~_!!2212709311384.jpg",
+        "price": "¥123.00",
+        "toPrice": "$19.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "405099367",
+          "name": "东城喜旧",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1978636",
+        "mallType": "TB",
+        "itemId": "765596320447",
+        "title": "vintage heavy duty j97 jacket men's 2024 spring and fall washed American vintage Harrington Detroit jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3839714124/O1CN01sy2oHe1gKqIZGnuxS_!!0-item_pic.jpg",
+        "price": "¥118.88",
+        "toPrice": "$18.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "244563866",
+          "name": "韩立臣旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1985296",
+        "mallType": "TB",
+        "itemId": "953871808387",
+        "title": "vintage vintage American street Harajuku Japanese color collision loose hip-hop sportswear men and women jacket jacket Y10",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2487917449/O1CN01Z4RNgw24thMmVLCJL_!!2487917449.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "355759031",
+          "name": "小五古着二号店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2197717",
+        "mallType": "TB",
+        "itemId": "858198690427",
+        "title": "Cabinet 429! Men's 2024 Winter Retro zipper Cardigan Sweater Long sleeves stand collar Knitting Outwear 9598388",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1fph03_r8b5.jpg",
+        "price": "¥117.80",
+        "toPrice": "$18.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "525790634",
+          "name": "ZABA男装工厂店",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1659190",
+        "mallType": "WD",
+        "itemId": "7492886005",
+        "title": "mon*cl jacket heveNFC",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mgzzwo78_j3bp.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "254254139",
+          "name": "leo zuo56",
+          "logo": "https://si.geilicdn.com/wdseller254254139-37dc00000196d2729fcf0a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 108,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2790080",
+        "mallType": "T1688",
+        "itemId": "848717532085",
+        "title": "High quality donkey home new embroidered letter twisted flower knitted collar zipper front waistband jacket men's and women's outerwear",
+        "picUrl": "https://cdn.findqc.com/item/20251026/mh6v6h2d_fare.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4Dj4ziZTh03Ks2eoHFRgpQ",
+          "name": "跨境一路发发工厂店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1947711",
+        "mallType": "TB",
+        "itemId": "929726732610",
+        "title": "Corteiz Alcatraz retro holes letters denim jacket American street casual men and women loose jacket tide",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2215197205314/O1CN01Blbwyw1p7rkgMcxHD_!!2215197205314.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "231291512",
+          "name": "钱部到这里来",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1947460",
+        "mallType": "T1688",
+        "itemId": "914119981820",
+        "title": "Cross-border STU back big LOGO printing zipper casual hooded section outdoor sports woven windbreaker jacket jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YSHKKG1zLjtkBdnM3_!!2219501506698-0-cib.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219501506698",
+          "name": "义乌市然些电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114709129194349867",
+  "language": "en"
+}

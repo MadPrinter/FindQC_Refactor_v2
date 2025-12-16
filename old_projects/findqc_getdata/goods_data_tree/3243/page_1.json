@@ -1,0 +1,600 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2632615",
+        "mallType": "T1688",
+        "itemId": "923308255304",
+        "title": "RDX Fighting Match 2025 New Jersey Fans T Shirt Men Women Casual Short Short Comic Boxing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yGG3dv1zKMiNA80gZ_!!2219639776695-0-cib.jpg",
+        "price": "¥13.90",
+        "toPrice": "$2.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219639776695",
+          "name": "铅山县壹丽服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3138294",
+        "mallType": "T1688",
+        "itemId": "633894554759",
+        "title": "fox downhill suit motocross riding suit long sleeve racing suit quick-drying suit breathable round neck shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/23600876692_10612727.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBeIE6MZuTfMt0C3L0Q05O1w",
+          "name": "东莞市威沃服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2450579",
+        "mallType": "WD",
+        "itemId": "7487648093",
+        "title": "46-speed submissions.",
+        "picUrl": "https://si.geilicdn.com/pcitem1891436616-182d00000192287f64220a8134f0_800_800.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1753845725",
+          "name": "global fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate1957274275-3f1f00000197b69b37240a210256-unadjust_686_686.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2140055",
+        "mallType": "WD",
+        "itemId": "7315304647",
+        "title": "46-speed submissions.",
+        "picUrl": "https://si.geilicdn.com/pcitem1891436616-182d00000192287f64220a8134f0_800_800.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707576757",
+          "name": "N-A",
+          "logo": "https://si.geilicdn.com/wdseller1910531722-1dce0000019569847ad20a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1982382",
+        "mallType": "T1688",
+        "itemId": "786852562840",
+        "title": "Factory direct summer outdoor sports mountain off-road motorcycle motorcycle short-sleeved T-shirt speedo customized",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01D38T6C1ngYPXThaTL_!!2216398285119-0-cib.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216398285119",
+          "name": "东莞市茶山赢嘉体育用品厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1136344",
+        "mallType": "TB",
+        "itemId": "885109317468",
+        "title": "NOCTA co-branded Drake subculture motorcycle racing biker jersey rabbit loose long-sleeved T-shirt sunwear INS",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2207500614470/O1CN014OLYJt1itJRjAqG6t_!!2207500614470.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "543164832",
+          "name": "RSGDL",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1077786",
+        "mallType": "T1688",
+        "itemId": "873152878053",
+        "title": "Cross Country 25 Off-Road Racing Suit European and American Size Polo Shirt Cardigan Loose Fit Versatile Handsome",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000002876/O1CN012OltFV1X7FmYmRTUR_!!6000000002876-0-tbvideo.jpg",
+        "price": "¥31.00",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2079302",
+        "mallType": "T1688",
+        "itemId": "737656181479",
+        "title": "新款POLO衫越野赛车服机车衫摩托车骑行服短袖速降服速干T恤定制",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0173e7Qj1ngYKrMPXtg_!!2216398285119-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216398285119",
+          "name": "东莞市茶山赢嘉体育用品厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "464306",
+        "mallType": "T1688",
+        "itemId": "709238823136",
+        "title": "Summer quick-dry cycling clothing lapel polo shirt biker clothing men's women's short-sleeved mountain bike cycling clothing culture shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000007838/O1CN01RdBqja27lrBTv3L9l_!!6000000007838-0-tbvideo.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1511404",
+        "mallType": "T1688",
+        "itemId": "822062035744",
+        "title": "New quick-drying fall long-sleeved clothing mountain bike road bike riding clothes breathable off-road motorcycle clothing wholesale",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000003465/O1CN01QP5DaH1bT1LzBgr3R_!!6000000003465-0-tbvideo.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2368447",
+        "mallType": "T1688",
+        "itemId": "873974257705",
+        "title": "Cross Country Racing Jersey Short Sleeve T-Shirt Tops Handsome Sweatproof Breathable European and American Sizes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012XMOj91f0P6r35jfD_!!2212319503944-0-cib.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212319503944",
+          "name": "东莞市茶山一帆风顺服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2581910",
+        "mallType": "T1688",
+        "itemId": "842193516919",
+        "title": "TLQ Short Sleeve 666",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01OqETls1Qexv9yGyve_!!2209882462002-0-cib.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209882462002",
+          "name": "铅山县芝灵服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2145858",
+        "mallType": "T1688",
+        "itemId": "879681132024",
+        "title": "US foreign trade summer men's POLO shirt lapel short sleeve T-shirt men's racing jersey",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011sIKaG209f3ARRPEj_!!2209030076807-0-cib.jpg?sign=499335_Mzc3MTMzOTUy",
+        "price": "¥44.20",
+        "toPrice": "$6.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209030076807",
+          "name": "莆田市城厢区先潮牌服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1539052",
+        "mallType": "T1688",
+        "itemId": "839482813941",
+        "title": "Cross Country New 46 Speedo Short Sleeve Top Mountain Motocross Motorcycle Racing Suit t-shirt Factory",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01E73yYs1ytLFlkP5RC_!!2217595966636-0-cib.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218567745085",
+          "name": "莆田市涵江航亩商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1365025",
+        "mallType": "T1688",
+        "itemId": "602450222777",
+        "title": "Speedo Long Sleeve Riding Suit Racing Suit Outdoor Sports Clothing Motocross Motorcycle Team Uniforms Factory Made",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/11952954745_233046386.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "471301",
+        "mallType": "T1688",
+        "itemId": "786952849713",
+        "title": "Foreign trade hot mountain off-road biking biking summer quick-drying breathable short-sleeved round neck T-shirt outdoor racing cycling clothing",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000007486/O1CN01IBmZNZ25Adoe1BUoQ_!!6000000007486-0-tbvideo.jpg",
+        "price": "¥21.66",
+        "toPrice": "$3.41",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1439376",
+        "mallType": "T1688",
+        "itemId": "786840410993",
+        "title": "Off-road MOTOGP motorcycle quick dry short-sleeved T-shirt biker clothes riding clothes speedo racing clothes customized",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000002775/O1CN01c9Cf7g1WN036GK0rw_!!6000000002775-0-tbvideo.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2650033",
+        "mallType": "T1688",
+        "itemId": "899400218127",
+        "title": "YZK Short-sleeved 317",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tRbkKN1Qexv9FPXSo_!!2209882462002-0-cib.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmTJ8DY84N9jZVcn2sIC1Tg",
+          "name": "铅山县芝灵服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2089316",
+        "mallType": "T1688",
+        "itemId": "680344567718",
+        "title": "Cross-border exclusive new 46 speedo riding suit short-sleeved tops mountain off-road motorcycle racing suit t-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01niquQS28jr1B2EWNS_!!2204242637969-0-cib.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2204242637969",
+          "name": "东莞市茶山爱行服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1919626",
+        "mallType": "T1688",
+        "itemId": "675789927555",
+        "title": "European and American cycling clothes summer comfortable hooded cycling clothes men's sports streamlined version technology pullover hooded sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vEH0hY1f0P9AOJ98y_!!2212319503944-0-cib.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOD3DJPQd0BBVhk9snTmh1Q",
+          "name": "东莞市茶山一帆风顺服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140401871917134864",
+  "language": "en"
+}

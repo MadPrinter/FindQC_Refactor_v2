@@ -1,0 +1,365 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2454334",
+        "mallType": "WD",
+        "itemId": "5885875605",
+        "title": "[Padded Optional] Broken Letter Print Hooded Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/wdseller1580016155-46e000000184a474277b0a207569_1080_1080.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1835085632",
+          "name": "大咖 （正常发货）",
+          "logo": "https://si.geilicdn.com/wdseller1417227840-0ac00000017742b98b7c0a21348d_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2456181",
+        "mallType": "WD",
+        "itemId": "7463762204",
+        "title": "Casual Sport Hooded Fleece Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1629748837-1234478995-5ef400000196b0b0a4a30aa08290_800_800.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629748837",
+          "name": "Coisini",
+          "logo": "https://si.geilicdn.com/wdseller1887547171-364a000001959a24ae1f0a239646_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2450467",
+        "mallType": "WD",
+        "itemId": "7547286870",
+        "title": "Men's Sweatshirt Wide Leg Pants Set",
+        "picUrl": "https://si.geilicdn.com/open1847641657-1234478995-0573000001992e2ba2810a8133b0_735_735.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1847641657",
+          "name": "Only1 shop",
+          "logo": "https://si.geilicdn.com/wdseller1853480557-4b06000001972f3b33400a2304aa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451039",
+        "mallType": "WD",
+        "itemId": "7521657859",
+        "title": "AA-13 Original Fashion Casual Pop-Up Sports Set (Size 2)",
+        "picUrl": "https://si.geilicdn.com/pcitem901979883192-541a0000019888c68ba70a21146b_1280_1280.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1740478141",
+          "name": "CnfansFind【The only store】",
+          "logo": "https://si.geilicdn.com/wdseller1962722256-2e3900000199a4334f240a23111a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2471597",
+        "mallType": "TB",
+        "itemId": "968340128598",
+        "title": "BlueSky retro street fashion loose fitting pullover top, hip-hop casual sports men's and women's leopard print hooded sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3540058761/O1CN013MjQon2Eab172brCA_!!3540058761.jpg",
+        "price": "¥128.16",
+        "toPrice": "$20.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "267232071",
+          "name": "Bluesky Store",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2133712",
+        "mallType": "WD",
+        "itemId": "7315904226",
+        "title": "CR-6 CasualI D Hoodie 'LXBatch' 327",
+        "picUrl": "https://si.geilicdn.com/pcitem1890373301-78c700000192285281ef0a2395d6_799_1066.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1697070005",
+          "name": "Jam Shop",
+          "logo": "https://si.geilicdn.com/shopedit1911025553-0f27000001938b50da3a0a23038e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2704793",
+        "mallType": "WD",
+        "itemId": "7289674217",
+        "title": "Casual Sport Hooded Fleece Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1873385315-539900000192acbb1c410a2395d6-unadjust_1200_1200.png",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1729503109",
+          "name": "Top Barry",
+          "logo": "https://si.geilicdn.com/shopedit1873385315-2d19000001929ac0b45c0a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3032814",
+        "mallType": "TB",
+        "itemId": "978064949531",
+        "title": "Cartoon Bear Embroidered Sweater British Preppy Style Pure Cotton Knitwear Spring and Autumn Versatile Round Neck Pullover Bear Top",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2220678571324/O1CN01YTQA2Y1LeRTqonnvz_!!2220678571324.jpg",
+        "price": "¥242.65",
+        "toPrice": "$38.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "358360070",
+          "name": "Winter Time女装店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2471036",
+        "mallType": "T1688",
+        "itemId": "834122741498",
+        "title": "2025 Autumn and Winter New Product 360g Splash-Ink Whitening Spray-Dyed Washed and Distressed Frayed Hooded Velvet Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aCTuWj1rFlqRmn9jF_!!2631375602-0-cib.jpg",
+        "price": "¥107.00",
+        "toPrice": "$16.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2473012",
+        "mallType": "WD",
+        "itemId": "7549768200",
+        "title": "HorseEmbroideredFullSpringNewHoodedSweat",
+        "picUrl": "https://si.geilicdn.com/open1700008665-252808396-658700000191bab83bce0a8115b5_1200_1200.jpg",
+        "price": "¥181.00",
+        "toPrice": "$28.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794541533",
+          "name": "1:1A&amp;V",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895580",
+        "mallType": "T1688",
+        "itemId": "951037084912",
+        "title": "Europe and the United States cross-border trend hooded shirt 2025 new fall and winter loose fashion comfortable solid color street letters sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tgs9CF2GAblFDALmp_!!2218385348975-0-cib.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218385348975",
+          "name": "义乌市正恬贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2577160",
+        "mallType": "T1688",
+        "itemId": "976794407407",
+        "title": "跨境重磅高街美式字母卫衣连帽套头男女同款潮牌宽松日常休闲外套",
+        "picUrl": "https://cdn.findqc.com/item/20251106/mhn6q05v_v5t2.jpg",
+        "price": "¥54.00",
+        "toPrice": "$8.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbHbHDZG_fFt25IixnG4rcA",
+          "name": "义乌市鹏沣服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2890283",
+        "mallType": "T1688",
+        "itemId": "986208608951",
+        "title": "High version RL pull home pony logo half zip hoodie in 3 colors, casual and relaxed, with a lazy and versatile collar, inner shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251106/mhn5vo41_hgpi.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB21eTJR6qVfX9L-x-rMAj3g",
+          "name": "青岛市即墨区田阿姨服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "334485",
+        "mallType": "WD",
+        "itemId": "7262495858",
+        "title": "Printed hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4l3jxuu_5krh.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "212531682",
+          "name": "EV潮牌店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2193499",
+        "mallType": "WD",
+        "itemId": "7247421551",
+        "title": "GA hoodie zipper French black yellow C620",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-1c46000001908eaaa3ce0a2304aa_834_834.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2387829",
+        "mallType": "T1688",
+        "itemId": "920597583697",
+        "title": "Autumn and winter new high neck love sweater men and women striped youth peach heart AMI CLAMS casual pullover knit sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Jtf0uR1RCrHoPACTx_!!2217866862076-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217866862076",
+          "name": "广州市番禺区盛潮衣商贸商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2382394",
+        "mallType": "WD",
+        "itemId": "7386069833",
+        "title": "AK Sweatshirt Hoodie Red Zipper H899",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-556f00000194dd6ac8e00a207569_485_485.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2020045",
+        "mallType": "TB",
+        "itemId": "673036385452",
+        "title": "22ss Vlonecamp American Street Embroidered Foam Shorts Men's and Women's Loose Tide Summer High Street Casual Pants",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2196894558/O1CN01fTfrgX1jXc1GMbA0e_!!2196894558.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "151712799",
+          "name": "LKN STUDIOS",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1911850",
+        "mallType": "WD",
+        "itemId": "7452491753",
+        "title": "New AMI unisex couple style classic red heart embroidery cotton casual loose hooded zipper sweatshirt in stock",
+        "picUrl": "https://si.geilicdn.com/open1637534493-1234478995-2c2b000001966282854a0a231226_1080_1440.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637534493",
+          "name": "Ocean HAR",
+          "logo": "https://si.geilicdn.com/wdseller1947588054-402a0000019954502e110a2301b4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141526191911216675",
+  "language": "en"
+}

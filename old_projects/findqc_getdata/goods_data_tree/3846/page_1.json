@@ -1,0 +1,598 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2759995",
+        "mallType": "T1688",
+        "itemId": "817369688445",
+        "title": "Amazon Heavy Diamante Hand Sewn Premium Hourglass Sheath Dress Vintage Niche Short Party Gowns",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011B2q7M1EoKbaIKmY5_!!2218304790398-0-cib.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218304790398",
+          "name": "广州市迈璐卡服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283719",
+        "mallType": "TB",
+        "itemId": "717199029063",
+        "title": "2025 New Style Off-Shoulder Vertical Stripe Modal Long Dress, Off-Shoulder Elastic Flat Shoulder Short-Sleeve Dress",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m4740jtf_kikc.jpg",
+        "price": "¥133.29",
+        "toPrice": "$20.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108830810",
+          "name": "aritzia羽绒",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2898865",
+        "mallType": "TB",
+        "itemId": "918328219270",
+        "title": "Goddess of Beauty Arrives/Super Hot, Show off Body Deep V Satin Long Dress Hanging Neck, Show Waist Thin, Sexy and Soul stirring Banquet Dress",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjyw01i_5lt0.jpg",
+        "price": "¥90.26",
+        "toPrice": "$14.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66540313",
+          "name": "丹恋季节",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2123304",
+        "mallType": "T1688",
+        "itemId": "857523258621",
+        "title": "European and American style summer women's red high-end sexy strapless dress, slim fit floral skirt, tight fitting dress",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014uSYl81bo5bKDUTV8_!!2215991763511-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWN_33geIyopoDGViiK263A",
+          "name": "广州亚科姆贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2070915",
+        "mallType": "TB",
+        "itemId": "610549895965",
+        "title": "Evening dresses women long 2025 new stage chorus dress temperament celebrity banquet host atmosphere dress skirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2490160698/O1CN010uUs651H1jN2CunRV_!!2490160698.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "126081802",
+          "name": "忆春天梦巴黎婚纱礼服",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2688101",
+        "mallType": "TB",
+        "itemId": "966502164835",
+        "title": "woppei Fancy Elegant small turtleneck design black Lace Two-piece set Satin vest Comfortable soft blouse",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mguhxizd_im3c.jpg",
+        "price": "¥367.32",
+        "toPrice": "$57.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "363447571",
+          "name": "woppei",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "328361",
+        "mallType": "TB",
+        "itemId": "714931825261",
+        "title": "2023 new niche flower halter bustle long dress short tutu party birthday performance A-line dress",
+        "picUrl": "https://cdn.findqc.com/item/20241211/m4j10au1_rh8d.jpg",
+        "price": "¥359.99",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58543350",
+          "name": "LIN婚纱礼服定制馆",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "199682",
+        "mallType": "TB",
+        "itemId": "797294926672",
+        "title": "SNT Ace \"Mermaid Tears\" Pearl Chain Halter Top",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nz6e1i_ti2z.jpg",
+        "price": "¥358.00",
+        "toPrice": "$56.29",
+        "status": "normal",
+        "categoryId": 36,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "135547",
+        "mallType": "TB",
+        "itemId": "730114656853",
+        "title": "Europe and the United States wind three-dimensional flowers design sense oblique collar strapless high-waisted dress female thin senior sense of open fork dress skirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mp1on0_hzh8.jpg",
+        "price": "¥99.90",
+        "toPrice": "$15.71",
+        "status": "normal",
+        "categoryId": 37,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "115293",
+        "mallType": "T1688",
+        "itemId": "782834053382",
+        "title": "E24DS054 cross-border Europe and the United States Amazon 2024 spring and summer new temperament ladies silk smooth backless one-shoulder dress",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnzrq3_ibay.jpg",
+        "price": "¥36.80",
+        "toPrice": "$5.79",
+        "status": "normal",
+        "categoryId": 37,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "58400",
+        "mallType": "TB",
+        "itemId": "611002510074",
+        "title": "2025 New Temperament Black Elegant Royal Sister Extra Long Dress Annual Meeting Host Banquet Cool Dress 1782",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqiv7y_4l71.jpg",
+        "price": "¥299.20",
+        "toPrice": "$47.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33782612",
+          "name": "一诺的午后时光",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55447",
+        "mallType": "TB",
+        "itemId": "668134176125",
+        "title": "Kardashian the same summer waist sexy hot girl Slim thin package hip black halter dress female long skirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np8p50_t2h5.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "118525004",
+          "name": "21 STUDIOS",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "49710",
+        "mallType": "TB",
+        "itemId": "746458722656",
+        "title": "CuriousCat fall and winter retro lace jacquard see-through waisted strappy halter dress one-line collar medium-length models",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgopri_if6i.jpg",
+        "price": "¥127.80",
+        "toPrice": "$20.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "114595651",
+          "name": "CuriousCat",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "48515",
+        "mallType": "TB",
+        "itemId": "763299659288",
+        "title": "Spring New Style French Design New Year Solid Color Sexy Slim Fit Tie Bow Strap Dress",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgbmwv_ao9d.jpg",
+        "price": "¥87.94",
+        "toPrice": "$13.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60404122",
+          "name": "SHH STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "44892",
+        "mallType": "TB",
+        "itemId": "626325312654",
+        "title": "Toast Dress Short Bride Wine Red Large Pregnant Woman Cover Bells Wedding Engagement Dress Evening Dress Female Banquet",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mef9r5_gytm.jpg",
+        "price": "¥240.99",
+        "toPrice": "$37.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33657234",
+          "name": "LUOWEIYA洛维娅 独家礼服定制",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32120",
+        "mallType": "TB",
+        "itemId": "735862380348",
+        "title": "Luxurious Evening Gown for Women, High-End Adult Ceremony, Niche Light Luxury, High-End Banquet, Elegant Banquet Host, Art Exam",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njrlkc_am6w.jpg",
+        "price": "¥328.00",
+        "toPrice": "$51.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "114549595",
+          "name": "yunstton云顿旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "31324",
+        "mallType": "TB",
+        "itemId": "678290977007",
+        "title": "Fanning the same ROW summer cotton high-waisted wide-legged pants taller lengthened drag pants fishbone waist skirt pants",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njh088_817s.jpg",
+        "price": "¥468.00",
+        "toPrice": "$73.59",
+        "status": "normal",
+        "categoryId": 11,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29622",
+        "mallType": "T1688",
+        "itemId": "748401908428",
+        "title": "C6786 Cross border AliExpress Amazon European and American Fashion Women's Solid Color Sexy strapless Hot Diamond Long Dress",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj6q5j_xoif.jpg",
+        "price": "¥83.00",
+        "toPrice": "$13.05",
+        "status": "normal",
+        "categoryId": 37,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "22037",
+        "mallType": "TB",
+        "itemId": "792446687336",
+        "title": "skims kardashian original soft lounge modal ribbed stretch camisole maxi petite version",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ng3ndh_cnct.jpg",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "188689835",
+          "name": "俏皮外贸女装",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "19433",
+        "mallType": "T1688",
+        "itemId": "759095502548",
+        "title": "2024 summer new front short back length irregular satin evening dresses small dress party dresses dresses tutu women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfbt5t_u9jv.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "categoryId": 37,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143587682553894799",
+  "language": "en"
+}

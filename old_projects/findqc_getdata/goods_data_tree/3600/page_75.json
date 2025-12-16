@@ -1,0 +1,376 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1885148",
+        "mallType": "WD",
+        "itemId": "7322213043",
+        "title": "清仓无售后 原版开发 ERD忧郁的富二代鸭舌帽021-1470",
+        "picUrl": "https://si.geilicdn.com/wdseller901773065856-0ca90000018eeb04dd070a2315ef_900_1200.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2240216",
+        "mallType": "WD",
+        "itemId": "7303703603",
+        "title": "Goose matte 17 models men's and women's models jacket couple models winter thickening down jacket wholesale",
+        "picUrl": "https://si.geilicdn.com/open177774909-1234478995-7af9000001932bee79630a22d234_1066_1066.jpg",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "177774909",
+          "name": "TOP QUALITY",
+          "logo": "https://si.geilicdn.com/shopedit177774909-7c950000019a1fe1d2060a811411-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "987487",
+        "mallType": "T1688",
+        "itemId": "852067380001",
+        "title": "European and American 2024 North Face 1984 Women's Classic Bread Jacket Kendou Same Style Winter Women's Short Cotton Jacket Coldproof Fashion",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YHZpH71T09U70yc7T_!!2218882802319-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZq_gc2vC2J8k0n3LVKOHKg",
+          "name": "宁海云汇集服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "987323",
+        "mallType": "T1688",
+        "itemId": "825011578260",
+        "title": "24 Mongolian Xiaojia Autumn and Winter New Collection Light Book Letter Embroidery Men's and Women's Short Knitted Sleeves Splicing Goose Down Coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BqeLLu2MejPwv2Me0_!!2218372919853-0-cib.jpg",
+        "price": "¥395.00",
+        "toPrice": "$62.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218372919853",
+          "name": "莆田市秀屿区源旭服饰店(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2606493",
+        "mallType": "T1688",
+        "itemId": "899534887933",
+        "title": "跨境新款潮牌AKIMBO粉色树叶迷彩印花连帽卫衣男女复古休闲街头装",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LEfc0o1uxgcOHY7a2_!!2215786716104-0-cib.jpg",
+        "price": "¥31.68",
+        "toPrice": "$4.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218436783647",
+          "name": "上饶市汉霓虹服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2237519",
+        "mallType": "WD",
+        "itemId": "7523885782",
+        "title": "LF Ralph Classic Removable Hood Down Jacket Down Jacket Jacket",
+        "picUrl": "https://si.geilicdn.com/open1695749165-1234478995-0f0d000001988be92d4a0a231226_800_800.jpg",
+        "price": "¥510.00",
+        "toPrice": "$80.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1695749165",
+          "name": "MY Department store",
+          "logo": "https://si.geilicdn.com/pcdecorate1932471062-00170000019668ecc9540a210256-unadjust_1023_947.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2055763",
+        "mallType": "T1688",
+        "itemId": "928034592404",
+        "title": "Winter Fox Fur Hooded 3Q Down Jacket Women Palm Moose",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vdrOEP1dfxqjAsJG1_!!2219760993764-0-cib.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219760993764",
+          "name": "东莞大朗馨绒服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2054168",
+        "mallType": "WD",
+        "itemId": "7272644798",
+        "title": "Down Hooded Puff",
+        "picUrl": "https://si.geilicdn.com/pcitem1857988414-1bd20000019203d6b2930a811411_1080_1440.jpg",
+        "price": "¥590.00",
+        "toPrice": "$92.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832710585",
+          "name": "Milan Shoes &amp; Clothing",
+          "logo": "https://si.geilicdn.com/shopedit1857988414-4cf60000019a307f5d090a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1736038",
+        "mallType": "WD",
+        "itemId": "7499037566",
+        "title": "Jacket#",
+        "picUrl": "https://si.geilicdn.com/open1735853037-1234478995-7d1e00000197a865450f0a23b4de_800_800.jpg",
+        "price": "¥430.00",
+        "toPrice": "$67.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1700880",
+        "mallType": "WD",
+        "itemId": "7411420495",
+        "title": "Knitted splicing down jacket",
+        "picUrl": "https://si.geilicdn.com/open1875660057-252808396-190c0000019570a9feb40a8133b0_800_800.jpg",
+        "price": "¥498.00",
+        "toPrice": "$78.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1875660057",
+          "name": "得利优品",
+          "logo": "https://si.geilicdn.com/wdseller1840251789-680e0000018ec95cdfec0a22d4f5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 169,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "978705",
+        "mallType": "T1688",
+        "itemId": "650879786964",
+        "title": "New Men's Cold-Proof Clothing, Men's Short Winter Thickeneded Large Goose Cotton Clothing, Trendy Youth Korean Style Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LYI4Ip1TqosQiBhDe_!!2211026892434-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXEi6gAZM47THut5C09CHsg",
+          "name": "容城县冀隆服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "801490",
+        "mallType": "WD",
+        "itemId": "7282307167",
+        "title": "down-filled garment",
+        "picUrl": "https://si.geilicdn.com/open1666363925-1234478995-04a60000019260e956c70a239383_800_800.jpg",
+        "price": "¥669.00",
+        "toPrice": "$105.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1666363925",
+          "name": "潮流小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "436979",
+        "mallType": "T1688",
+        "itemId": "852181806791",
+        "title": "Cross Border RL Ralph Bright Leather Classic Black Removable Hood Down Jacket Down Jacket 12827",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VkiEG31vF5e1yXnNt_!!2218611136142-0-cib.jpg",
+        "price": "¥410.00",
+        "toPrice": "$64.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218611136142",
+          "name": "义乌市穆泽服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603475",
+        "mallType": "T1688",
+        "itemId": "838069273482",
+        "title": "The correct version of the spot P family 24 new collar bread down jacket with men and women with the same jacket light cold warm",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010qUSZx2IMAv3jxBuj_!!2218089819271-0-cib.jpg",
+        "price": "¥550.00",
+        "toPrice": "$86.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218089819271",
+          "name": "广州文文好物鞋服商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2418877",
+        "mallType": "T1688",
+        "itemId": "892387206010",
+        "title": "Cross-border explosive wholesale factory direct sales new cotton clothing Slim light men's bubble cotton clothing foreign trade in Europe and the United States cotton clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CPo8gN1mEKTKKSdla_!!2215836154922-0-cib.jpg",
+        "price": "¥46.00",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215836154922",
+          "name": "上饶市森利服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2053479",
+        "mallType": "T1688",
+        "itemId": "940042267920",
+        "title": "Goose light down jacket men's models 2025 winter new outer wear hooded casual Slim warm jacket female Putian",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lwIVHo1thpJr40yz1_!!2219824105934-0-cib.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219824105934",
+          "name": "莆田市货家服饰贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1569641",
+        "mallType": "T1688",
+        "itemId": "832557725768",
+        "title": "European station in autumn and winter new color striped zipper collar jacket down jacket men's commuter knitted splicing jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LWnrEe1VlRapQQYrd_!!4100082693-0-cib.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1519493",
+        "mallType": "WD",
+        "itemId": "7454649954",
+        "title": "R. B detachable down jacket+C goose",
+        "picUrl": "https://si.geilicdn.com/pcitem1907900548-113800000194f57df2e80a20e7c7-unadjust_798_797.png",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819093405",
+          "name": "Reps Find",
+          "logo": "https://si.geilicdn.com/pcdecorate1950647899-3e6400000196c86774a90a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1517286",
+        "mallType": "WD",
+        "itemId": "7468311980",
+        "title": "cotton-padded clothes",
+        "picUrl": "https://si.geilicdn.com/pcitem1798464021-7d920000019276a73bf80a2304aa-unadjust_1074_1074.png",
+        "price": "¥290.00",
+        "toPrice": "$45.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659999653",
+          "name": "我的店铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-641800000193b565e3020a23038e-unadjust_288_288.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1233061",
+        "mallType": "T1688",
+        "itemId": "832830695288",
+        "title": "Ins Milan Fashion Brand Solid Color Zipper Double Pocket Jacket Down Jacket Casual Commuter Jacket Knitted Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01caSAYw1VlRarliiYj_!!4100082693-0-cib.jpg",
+        "price": "¥390.00",
+        "toPrice": "$61.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7mTucnJNqCV9psuVcijbqA",
+          "name": "深圳市龙华区有品家服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143372421917112358",
+  "language": "en"
+}

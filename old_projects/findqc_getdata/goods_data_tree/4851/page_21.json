@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2914313",
+        "mallType": "WD",
+        "itemId": "7592914355",
+        "title": "A cool hat with only two colors, black and gray, that feels good to the touch",
+        "picUrl": "https://si.geilicdn.com/pcitem2005654965-0de70000019a4f3230ac0a81347d_1498_1503.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1825699635",
+          "name": "CND socks袜子店铺",
+          "logo": "https://si.geilicdn.com/wdseller2005654965-68600000019a29ed7b390a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2708746",
+        "mallType": "T1688",
+        "itemId": "945880268294",
+        "title": "[Cartoon Series] Pouchanganfo Cross-Border Wholesale Aa Baseball Caps Team Caps Outdoor Sports Caps",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pmNjpM1cGwbhVqZV3_!!2219807953574-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219807953574",
+          "name": "莆田市荔城区云嘉汇百货商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3131794",
+        "mallType": "WD",
+        "itemId": "7546541609",
+        "title": "新款时尚潮流百搭针织帽-002",
+        "picUrl": "https://si.geilicdn.com/pcitem901972474535-6cdb000001985e93ac250a23057e_1200_1200.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3112644",
+        "mallType": "WD",
+        "itemId": "7280650839",
+        "title": "s无缝冷帽",
+        "picUrl": "https://si.geilicdn.com/pcitem1891436616-3836000001923dee17ae0a20e672_1200_1200.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834294769",
+          "name": "LABRADOR",
+          "logo": "https://si.geilicdn.com/wdseller1806818931-6bea0000019156c41b700a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2060648",
+        "mallType": "WD",
+        "itemId": "7497310995",
+        "title": "[DX52-1] Woolen Hat Outdoor Pullover Hat",
+        "picUrl": "https://si.geilicdn.com/pcitem901862111700-6a29000001927431ec1e0a210139_1200_1200.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646048669",
+          "name": "Giant panda 🐼",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 66,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2461866",
+        "mallType": "WD",
+        "itemId": "7447185361",
+        "title": "TNF North X kwas bunnie cold cap",
+        "picUrl": "https://si.geilicdn.com/open1847561709-1234478995-015100000196399f80cf0aa0834c_1440_1440.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1847561709",
+          "name": "Highstreet CND ISLAND",
+          "logo": "https://si.geilicdn.com/wdseller1575136538-7c5400000195f1126c630a23057e_1242_1245.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049803",
+        "mallType": "T1688",
+        "itemId": "651530395361",
+        "title": "tb羊绒帽子秋冬男女针织羊毛线套头护耳包头堆堆帽防挡风加厚保暖",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xUvkYT2NU1ULS5xMi_!!2952659965-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2952659965",
+          "name": "清河县诗淼羊绒有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2704521",
+        "mallType": "T1688",
+        "itemId": "836052866861",
+        "title": "Cross border NBA hat, bullhead hat, embroidered baseball cap, hardtop, closed top, 2024 new sun protection and foreign trade sun hat\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZwCX4t258oM5g7OJV_!!2218478047482-0-cib.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBplTwqJtwT7U8iwNgSxEjhQ",
+          "name": "莆田市城厢区环宇澄乐贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1616332",
+        "mallType": "T1688",
+        "itemId": "801753301862",
+        "title": "New Baseball Cap F Family Fashion Versatile Casual Peaked Cap for Men and Women Export Cross-border Correct Version Sun Hat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SVfINi1EjkdSk0s2I_!!2215770400388-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLrUbeXUCv9YVsDJ029tp6Q",
+          "name": "义乌市跨跨电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 119,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1580886",
+        "mallType": "T1688",
+        "itemId": "858111811103",
+        "title": "Simon FD baseball cap FF 2023 new versatile couple hat men's and women's sun hat baseball cap duckbill hat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wMR9S8209CVsT9NjV_!!2216698816806-0-cib.jpg",
+        "price": "¥12.50",
+        "toPrice": "$1.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218894716089",
+          "name": "义乌市林碘电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2059665",
+        "mallType": "WD",
+        "itemId": "7500219990",
+        "title": "201#",
+        "picUrl": "https://si.geilicdn.com/pcitem322338468-6f7a0000018ecdc50d6c0a2104c1_1074_1074.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3046312",
+        "mallType": "WD",
+        "itemId": "7549253080",
+        "title": "041#",
+        "picUrl": "https://si.geilicdn.com/pcitem1866706486-074400000196b04a52dd0a20e2c5_600_600.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1720287225",
+          "name": "Top Hats",
+          "logo": "https://si.geilicdn.com/wdseller1866706486-3ba500000195e3262ea80a23111a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3131184",
+        "mallType": "WD",
+        "itemId": "7544526824",
+        "title": "纯色刺绣帽男女保暖草写冷帽学生情侣街舞嘻哈毛线帽子",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-707b000001932939913b0a210298_800_800.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3131181",
+        "mallType": "WD",
+        "itemId": "7498249359",
+        "title": "G0AT",
+        "picUrl": "https://si.geilicdn.com/open1688018469-252808396-7317000001925a567cff0a8133b5_1440_1920.jpg",
+        "price": "¥133.00",
+        "toPrice": "$20.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2625139",
+        "mallType": "T1688",
+        "itemId": "925569212292",
+        "title": "Winter Hats Foreign Trade Popular Outdoor Warm Knitted Hats New Woolen Hats Coarse and Fine Lines Men and Women Fashionable Cold",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nivKNF1j8stw1nUIE_!!2218944404504-0-cib.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4aVa73WmMi3bVm9DU0Aofg",
+          "name": "仙游县盖尾镇蒂赛帽子店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2432915",
+        "mallType": "WD",
+        "itemId": "7435189821",
+        "title": "Autumn and Winter Fashion Warm Knitted Hat-008",
+        "picUrl": "https://si.geilicdn.com/open1822236854-1234478995-0c1500000195ddf44ea80a23b4de_600_559.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1822236854",
+          "name": "TOPBUY03",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2211706",
+        "mallType": "T1688",
+        "itemId": "855337651151",
+        "title": "Europe and the United States cross-border high-quality hats wholesale e-commerce spot warm knitted cap men's wool cap female models new tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01i43mEh1KrtOiIJE2r_!!2218372531218-0-cib.jpg",
+        "price": "¥18.90",
+        "toPrice": "$2.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216816826137",
+          "name": "义乌市姿婳电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 102,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2011445",
+        "mallType": "WD",
+        "itemId": "7498811248",
+        "title": "Solid color embroidered cap men and women warm straw writing cold cap student couple street dance hip-hop wool hat",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-707b000001932939913b0a210298_800_800.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646048669",
+          "name": "Giant panda 🐼",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3127739",
+        "mallType": "WD",
+        "itemId": "7561999147",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1787182201-252808396-0ae10000018fbee474d30a8115b5_800_800.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1824975481",
+          "name": "Kama",
+          "logo": "https://si.geilicdn.com/wdseller1860902102-27f8000001989a4188a50a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1277441",
+        "mallType": "T1688",
+        "itemId": "802866724789",
+        "title": "2023 Baseball League Hat [Atlanta Braves] Baseball Cap Sun Protection Sun Shade Letter Embroidery Duck Tongue Cap",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LYbHzt2BjLcKDYTTS_!!2209959888374-0-cib.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114745631249873309",
+  "language": "en"
+}

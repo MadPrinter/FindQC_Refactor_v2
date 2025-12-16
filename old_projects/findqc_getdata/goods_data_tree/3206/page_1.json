@@ -1,0 +1,358 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2844597",
+        "mallType": "TB",
+        "itemId": "933165511909",
+        "title": "Senmu Technology Getac Shenji s410g4 6150f Original Disassembled Battery",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/128760438/O1CN01T2B82I1F6eXOJ3YLD_!!128760438.jpg",
+        "price": "¥377.98",
+        "toPrice": "$59.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36704936",
+          "name": "1350000806",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "856278",
+        "mallType": "TB",
+        "itemId": "771628431670",
+        "title": "Suitable for Panasonic Cf-Vzsu0Pw Cf-Vzsu0Pr Cf-Vzsu0Pk Laptop Battery",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2207021799580/O1CN0157OLwq2KdhHS8Gq8i_!!2207021799580.jpg",
+        "price": "¥152.18",
+        "toPrice": "$23.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "250913313",
+          "name": "TB256",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "821304",
+        "mallType": "TB",
+        "itemId": "743016245291",
+        "title": "For DELL DELL Latitude 7202 7212 J82G5 7xntr J7HTX laptop battery",
+        "picUrl": "https://cdn.findqc.com/item/20250613/mbugh5j4_09vo.jpg",
+        "price": "¥112.91",
+        "toPrice": "$17.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "274385906",
+          "name": "bshti",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 8
+      },
+      {
+        "id": "2687788",
+        "mallType": "TB",
+        "itemId": "905479416406",
+        "title": "FZ-VZSU94R VZSU94 VZSU94K FZ-VZSU94JS FZ-VZSU95 FZ-VZSU95W",
+        "picUrl": "https://cdn.findqc.com/item/20251016/mgt67llz_kvrg.jpg",
+        "price": "¥275.00",
+        "toPrice": "$43.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "243954422",
+          "name": "Energy Supermarket",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1105318",
+        "mallType": "TB",
+        "itemId": "779724993807",
+        "title": "New Dell VDDJY 6WVHD, JM6CX,Latitude 7230 Rugged Extreme Battery",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrwfkl_vuss.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33791007",
+          "name": "世博笔记本电池实体店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114032962249895747",
+  "language": "en"
+}

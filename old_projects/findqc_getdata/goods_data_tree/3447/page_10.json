@@ -1,0 +1,380 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2673051",
+        "mallType": "WD",
+        "itemId": "7566885709",
+        "title": "KANYE KANYE Tripartite Joint Oversized American High Street Peace Pigeon Loose Men's and Women's Couple Hoodie Tide",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-2a9200000199524f18200a8133b0_800_800.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1865721389",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604741",
+        "mallType": "WD",
+        "itemId": "7566525700",
+        "title": "22SS-Hoodie 22 Hoodie",
+        "picUrl": "https://si.geilicdn.com/open1802963235-1234478995-00f700000199a448848c0aa0229a_355_355.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802963235",
+          "name": "我的小店4",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3141276",
+        "mallType": "WD",
+        "itemId": "7602119548",
+        "title": "24冬季新款法国小众ZV翅膀粉色电话白墨数码印花抓绒女式连帽卫衣",
+        "picUrl": "https://si.geilicdn.com/open1789896019-1789896019-55380000019a6d359e7a0a22d249_800_800.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789896019",
+          "name": "Kopiax",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-4e3500000199f1873e460a8133cc_1080_1440.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1365447",
+        "mallType": "TB",
+        "itemId": "609207556622",
+        "title": "Gman High Street Fog Essentials Tmc La Limited Edition Loose Jogger Sweatpants Casual Sports Trousers",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/33944232/O1CN01ZewpXg1h8Ij3xCkv7_!!33944232.jpg",
+        "price": "¥123.10",
+        "toPrice": "$19.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33564382",
+          "name": "Gman Club",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "510346",
+        "mallType": "WD",
+        "itemId": "4392382899",
+        "title": "Basic classic round neck armband badge looped long sleeved sweatshirt Wang Yibo drake duck same style outdoor trendy brand dark functional sports casual sweatshirt top unisex ly",
+        "picUrl": "https://si.geilicdn.com/wdseller1417299265-27900000017a67c18ce30a217205_1124_1498.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707804864",
+          "name": "不二家",
+          "logo": "https://si.geilicdn.com/weidian1417299265-7f700000018ece14a7660a23136f_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 92,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2761093",
+        "mallType": "T1688",
+        "itemId": "840084927516",
+        "title": "ERD Pigman Enzyme Sandwashed Aged Patchwork Patchwork Short Wide Drop Shoulder Zipper Sweatshirt Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01A0KMc6284db5m5PXN_!!2211821887879-0-cib.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211821887879",
+          "name": "青岛索尔古德服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1522928",
+        "mallType": "T1688",
+        "itemId": "745884805739",
+        "title": "Trendy FOG ESSENTIALS Line 22SS 1977 Digital Flocking Sweater Loose Casual Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FitMvQ1ZYOgEH0UHv_!!2214269653206-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdTuNZII7YoB8BCLhyODk1g",
+          "name": "广州星盛品牌管理有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2761247",
+        "mallType": "WD",
+        "itemId": "7410026376",
+        "title": "Pu jacquard letter pullover sweater",
+        "picUrl": "https://si.geilicdn.com/open1834423797-1234478995-3ef800000195614d124a0aa0834c_1054_1054.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834423797",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2762286",
+        "mallType": "T1688",
+        "itemId": "982004531491",
+        "title": "Women's classic waffle four bar spring and fall hooded men's couples tide leisure cardigan cotton",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nICrlE1mKk4jcRn2k_!!2220900084936-0-cib.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220900084936",
+          "name": "杭州建德逢锦服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2759888",
+        "mallType": "WD",
+        "itemId": "7540876052",
+        "title": "Loose Peplum Sweatshirt Set-009",
+        "picUrl": "https://si.geilicdn.com/pcitem901963468964-3c120000019904811e5a0a2103bd_800_800.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665618205",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2762613",
+        "mallType": "T1688",
+        "itemId": "852360393633",
+        "title": "Round Neck Sweatshirt for Women 2025 Autumn and Winter New Fashion European Style Loose Casual Pullover Long-Sleeved Pure Cotton Top Trendy",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01m8PSW11GqjxQZRozv_!!2218903950674-0-cib.jpg",
+        "price": "¥82.01",
+        "toPrice": "$12.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218903950674",
+          "name": "武汉市青山区云依服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2760829",
+        "mallType": "WD",
+        "itemId": "7489055482",
+        "title": "691",
+        "picUrl": "https://si.geilicdn.com/open1752812698-1234478995-58ed0000019744fe1a760aa08290_1179_1177.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1752812698",
+          "name": "ZS factory新店",
+          "logo": "https://si.geilicdn.com/wdseller1639940264-48350000019625943e7b0a210349_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3092582",
+        "mallType": "WD",
+        "itemId": "7544522950",
+        "title": "【DX36】衫经典圆领大爱心提花套头毛衣宽松慵懒感休闲情侣装",
+        "picUrl": "https://si.geilicdn.com/pcitem1874236696-0801000001930951e2c70a2315ef_1231_1232.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2949313",
+        "mallType": "T1688",
+        "itemId": "837074629579",
+        "title": "多款欧美潮牌秋冬男女套头毛圈卫衣秋冬卡萨布兰卡连帽卫衣宽松",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VjZXln27arqPK59UV_!!2209605557814-0-cib.jpg",
+        "price": "¥46.00",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214170225335",
+          "name": "铅山县世辉家贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2682259",
+        "mallType": "T1688",
+        "itemId": "909884426286",
+        "title": "Fog Fear of God Trendy Brand Fleece-Lined Double-Row Letter Print Round Neck Sweatshirt Casual Men's and Women's Sweatshirt Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01B0tL57240jod2SGZS_!!2218455957329-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIU31pLcFSaF2mUHql-_IeQ",
+          "name": "广州潼成国际贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2192037",
+        "mallType": "T1688",
+        "itemId": "897627617847",
+        "title": "alo fall and winter warm clothes sports hooded sweater men's and women's models running loose pockets casual warm tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01I2KXoe2FPQoWPNtYC_!!2215954918872-0-cib.jpg",
+        "price": "¥17.90",
+        "toPrice": "$2.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215920132509",
+          "name": "上饶市盾箭服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576638",
+        "mallType": "T1688",
+        "itemId": "902376262471",
+        "title": "春秋薄款男士小马连帽开衫纯色卫衣刺绣宽松大码保罗男装Polo外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dQNE4v1rxHQkq1ElV_!!2219492625697-0-cib.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219492625697",
+          "name": "义乌市双转电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1560449",
+        "mallType": "T1688",
+        "itemId": "876489935859",
+        "title": "Yunen spring and fall air layer hooded cardigan sweater men and women with the same American retro jacket versatile casual tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mR4VYo2IuWeuU3HQZ_!!2215865249346-0-cib.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215865249346",
+          "name": "杭州芸恩电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2540179",
+        "mallType": "T1688",
+        "itemId": "689078334072",
+        "title": "Cross-border amazon women's ebay autumn and winter sweater set solid color casual fashion sports pants two-piece set on behalf of the hair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RKHAvz1EIGhF5ooDT_!!2823260328-0-cib.jpg",
+        "price": "¥35.50",
+        "toPrice": "$5.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2823260328",
+          "name": "深圳市南山区伊影阁贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2864326",
+        "mallType": "T1688",
+        "itemId": "883607500897",
+        "title": "Spring and Autumn Sean Stusi Stus Round Neck Sweatshirt Heavyweight 3D Digital Print Sweatshirt Couple Tide Cross-border models",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01n6tZGk1xjR8oSD2wU_!!2218592456479-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218592456479",
+          "name": "义乌市汇明服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141470701911151539",
+  "language": "en"
+}

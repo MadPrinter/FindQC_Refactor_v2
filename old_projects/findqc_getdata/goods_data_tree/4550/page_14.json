@@ -1,0 +1,346 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2890754",
+        "mallType": "WD",
+        "itemId": "7567249050",
+        "title": "107L-42949",
+        "picUrl": "https://si.geilicdn.com/pcitem901987381495-24e600000199ae66e7270a2303ee_3488_3488.jpg",
+        "price": "¥289.00",
+        "toPrice": "$45.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1852329689",
+          "name": "Lemon2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2844869",
+        "mallType": "WD",
+        "itemId": "7433511892",
+        "title": "Fashionable high street denim jacket with patterns",
+        "picUrl": "https://cdn.findqc.com/item/20251106/mhn75li4_8fiw.jpg",
+        "price": "¥328.00",
+        "toPrice": "$51.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784769941",
+          "name": "FashionReps1",
+          "logo": "https://si.geilicdn.com/weidian1897935117-1f1a0000019a39e64d2d0a8133cc_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3064441",
+        "mallType": "T1688",
+        "itemId": "971778191799",
+        "title": "SPM Tracksuit drill风衣运动服套装jacket+pants冲锋衣夹克外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Mcfleo2HTftH0Nt2J_!!2219394769152-0-cib.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219394769152",
+          "name": "广州潮次方服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2933169",
+        "mallType": "WD",
+        "itemId": "6594481952",
+        "title": "Special Offer! Original order and final goods! PRAD triangle logo jacket for men, simple business commuting, classic casual collar, Polo shirt, trendy, light luxury, British style",
+        "picUrl": "https://si.geilicdn.com/weidian917935543-7a7300000198d1f2ad8f0a231316_1206_2622.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "917935543",
+          "name": "三石商贸 大牌集中营",
+          "logo": "https://si.geilicdn.com/weidian917935543-095d0000017838db376c0a217216_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3062493",
+        "mallType": "T1688",
+        "itemId": "972550807190",
+        "title": "跨境Carhar潮牌卡哈特外套夹棉秋冬复古帆布重磅男款工装棉服",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01S3CTDP1LcbtXg1AEZ_!!2220647311320-0-cib.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220647311320",
+          "name": "义乌市筠荣电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2556337",
+        "mallType": "WD",
+        "itemId": "7561894485",
+        "title": "SRSQ-高品质简约时尚百搭冲锋衣 +86 183 5930 5797",
+        "picUrl": "https://si.geilicdn.com/pcitem901947676968-69cf0000019719c84d750a21146b_1200_1200.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819656963",
+          "name": "High-quality products",
+          "logo": "https://si.geilicdn.com/shopedit1972684837-07d700000199663098920a210139-unadjust_200_200.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554475",
+        "mallType": "WD",
+        "itemId": "7562122053",
+        "title": "城市机能军事风#【轻量有型】原厂品质 Car  Level 4 刺绣徽章 全压胶 防风防水 轻量立领夹克冲锋衣 男女同款",
+        "picUrl": "https://si.geilicdn.com/wdseller1841360202-19fa0000019994a06ca40a239846_1320_1320.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1303790680",
+          "name": "草帽出品【八点开拍】🎩",
+          "logo": "https://si.geilicdn.com/bj-wd-1303790680-1514196291898-1398575325_1239_1185.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2553516",
+        "mallType": "T1688",
+        "itemId": "910965899052",
+        "title": "RL Ruff Pony Mark Old Cadre Coat Cotton Polo Top Vintage Harrington Jacket Women Embroidered Couple",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QdIDhN1VZXM5ju7xQ_!!2186462667-0-cib.jpg",
+        "price": "¥92.00",
+        "toPrice": "$14.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0b2RCDekW1-lm6sHS1wWsw",
+          "name": "普宁市梅塘宜佳服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1559328",
+        "mallType": "WD",
+        "itemId": "7448914845",
+        "title": "RL Knitted Zipper Up Cardigan Sweatshirt RL Knitted Zipper Cardigan Sweatshirt 476400 E",
+        "picUrl": "https://cdn.findqc.com/item/20250827/metebszq_xsdv.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 148,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1442147",
+        "mallType": "T1688",
+        "itemId": "896579738780",
+        "title": "Ultra-thin Breathable Sun Protection Clothing Men's 2025 Summer New Sun Protection Clothing Jacket Coat Thin Casual Sports Windbreaker",
+        "picUrl": "https://cdn.findqc.com/item/20250814/meb2bhcb_1tvq.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfGBP9mPVPKVkAP_G_Jurvw",
+          "name": "揭阳市揭东区新亨镇倪二晓服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 403,
+        "qcVideoCnt": 13
+      },
+      {
+        "id": "164381",
+        "mallType": "TB",
+        "itemId": "838587990553",
+        "title": "Subway Hooligan 99 Long Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mput1d_7oj2.jpg",
+        "price": "¥225.56",
+        "toPrice": "$35.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 93,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "509296",
+        "mallType": "WD",
+        "itemId": "7265513860",
+        "title": "R48028-H28",
+        "picUrl": "https://cdn.findqc.com/item/20250116/m5zc03do_ht72.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2865566",
+        "mallType": "T1688",
+        "itemId": "986492089804",
+        "title": "新款Corteiz潮牌风衣拉链开衫防水外套 美式复古厚款刺绣足球风衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LcmVS02AYWmGK7uRc_!!2218896258215-0-cib.jpg",
+        "price": "¥127.00",
+        "toPrice": "$19.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaW6WuVDIoj1k3LGcmrvKvw",
+          "name": "广州市竞将运动服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2862851",
+        "mallType": "WD",
+        "itemId": "7589517853",
+        "title": "Crtz Italy Tracksuit Sport Package",
+        "picUrl": "https://si.geilicdn.com/wdseller507105153-2f250000019a513518870a81347d_1170_1170.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "507105153",
+          "name": "Dragon",
+          "logo": "https://si.geilicdn.com/wdseller507105153-19c1000001951ceded450a2395d6_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2534425",
+        "mallType": "T1688",
+        "itemId": "972747053662",
+        "title": "High quality 25g Chrome Heart explosive long sleeved hooded jacket for both men and women, internet celebrity explosive zipper",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xONrLw22LELOC6Fdj_!!2220517607103-0-cib.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_28gnZcDQ91PXS9qfuEz8Q",
+          "name": "广州伊珞菲服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2125566",
+        "mallType": "WD",
+        "itemId": "7492838483",
+        "title": "P485 A*R",
+        "picUrl": "https://cdn.findqc.com/item/20250829/mevr5wb0_3uxy.jpg",
+        "price": "¥485.00",
+        "toPrice": "$76.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1612190937",
+          "name": "Bevs",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "2966123",
+        "mallType": "T1688",
+        "itemId": "827155948456",
+        "title": "N Model Bird King Explodes! Half Zipper Men's Autumn and Winter Outdoor Lightweight Fleece Jacket Warm Base Long-Sleeved T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ePMAJt2FMgVBVGk08_!!977638866-0-cib.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnkUKcrYJMc3T5vqOhpMI7w",
+          "name": "苏州巴巴豆服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2508018",
+        "mallType": "WD",
+        "itemId": "7530894564",
+        "title": "S U P R 3 M 3\n",
+        "picUrl": "https://si.geilicdn.com/open1687670541-252808396-0b5b00000198c8734ed80a8133b0_1512_1512.jpg",
+        "price": "¥88.30",
+        "toPrice": "$13.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1687670541",
+          "name": "Super-We",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424363-395c00000195e72bcda10a20e273-unadjust_626_626.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146409871911107783",
+  "language": "en"
+}

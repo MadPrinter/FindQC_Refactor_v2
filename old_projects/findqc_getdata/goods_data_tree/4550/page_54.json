@@ -1,0 +1,340 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1511898",
+        "mallType": "WD",
+        "itemId": "7451583604",
+        "title": "Windbreaker cover",
+        "picUrl": "https://cdn.findqc.com/item/20251009/mgjb4eto_1xd9.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1713293",
+        "mallType": "TB",
+        "itemId": "912597928600",
+        "title": "Classic color clashing men and women with the same sports suit casual breathable soft waterproof long-sleeved jacket pants",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/414493398/O1CN01a9x1vI1ayKsb9UOd6_!!414493398.jpg",
+        "price": "¥438.00",
+        "toPrice": "$68.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "61671019",
+          "name": "衣鹿向南",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1701089",
+        "mallType": "TB",
+        "itemId": "748071700131",
+        "title": "23 fall and winter heavy industry co-branded models arm sleeve embroidery metal double zipper silhouette flight jacket cotton jacket couple jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2995130106/O1CN01NOX7fN1CeaxzJTSrC_!!2995130106.jpg",
+        "price": "¥588.00",
+        "toPrice": "$92.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "261604786",
+          "name": "7t线上店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2483256",
+        "mallType": "WD",
+        "itemId": "7453927643",
+        "title": "Triumph suit top",
+        "picUrl": "https://cdn.findqc.com/item/20251016/mgtlte6v_xcbi.jpg",
+        "price": "¥388.00",
+        "toPrice": "$61.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2387558",
+        "mallType": "T1688",
+        "itemId": "883931420298",
+        "title": "European Station 2025 Spring and Autumn New Hooded Printed Jacket Coat Men's Trendy Brand Casual Large Korean Version Top",
+        "picUrl": "https://cdn.findqc.com/item/20251016/mgtdkfjc_puit.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219066421055",
+          "name": "杭州市上城区灌河贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1445",
+        "mallType": "T1688",
+        "itemId": "745306077037",
+        "title": "Cp Trendy Brand Round Glasses Embroidered Logo Zipper Hoodie Sweatshirt Couple Wear Short-Sleeved T-Shirt Jacket Shorts",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3n0esvj_76yp.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkZQhHOnAqRbgkwSQM3RUng",
+          "name": "广州奕辰国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 515,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1675923",
+        "mallType": "T1688",
+        "itemId": "902826967845",
+        "title": "F1 racing suit embroidered Ferrari jacket retro tide cool wind motorcycle riding suit biker clothing American flight suit",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000004598/O1CN01Us9Nny1jpw7IW7t5C_!!6000000004598-0-tbvideo.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211404136744",
+          "name": "五华县桥江汽车配件贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2697953",
+        "mallType": "WD",
+        "itemId": "7413292746",
+        "title": "Great Value Benefits: L Leather Men's Linen Baseball Collar Pilot Jacket with Interior plaid Design, High Elegant Old Money Style!",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgs0rq7o_uixg.jpg",
+        "price": "¥650.00",
+        "toPrice": "$102.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1363431703",
+          "name": "太古汇-EA7总店",
+          "logo": "https://si.geilicdn.com/pcdecorate1363431703-71ea0000018798e93e830a231179-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2365265",
+        "mallType": "T1688",
+        "itemId": "966330502908",
+        "title": "RL拉夫小马标秋冬老干部拉链外套雪花绒行政翻领刺绣夹克男",
+        "picUrl": "https://cdn.findqc.com/item/20251010/mgkek1vx_benm.jpg",
+        "price": "¥84.00",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0b2RCDekW1-lm6sHS1wWsw",
+          "name": "普宁市梅塘宜佳服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2699203",
+        "mallType": "TB",
+        "itemId": "904254715346",
+        "title": "25FW Jacket 5169",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgqvv1b6_91dg.jpg",
+        "price": "¥430.00",
+        "toPrice": "$67.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "257507014",
+          "name": "潮牌一号1968",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1646781",
+        "mallType": "T1688",
+        "itemId": "858773282095",
+        "title": "Paris high version 2024 new B home walk embroidery models false two-piece four-sleeved embroidery zipper cardigan hooded sweatshirt man",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01py9j2n1lYC0rAEZ9M_!!2217508584830-0-cib.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217508584830",
+          "name": "遂昌万志华贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2695559",
+        "mallType": "TB",
+        "itemId": "657607442951",
+        "title": "Ma1 solid color flight jacket, Nissan flight suit, cotton suit, couple baseball suit, DuPont outdoor 3M, New Sherry",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgqfoi92_zrlz.jpg",
+        "price": "¥420.00",
+        "toPrice": "$66.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "527538",
+          "name": "Double G 飞行古堡 青年制造 H",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "996738",
+        "mallType": "T1688",
+        "itemId": "777852425677",
+        "title": "European goods export men's casual coat youth flocking jacket spring and autumn hooded 2024 spring new top clothes",
+        "picUrl": "https://cdn.findqc.com/item/20251004/mgc1g97b_0ah9.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5-JQSwPdZrAceoQliYLCGg",
+          "name": "新华区坤楠服装店",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 92,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2688896",
+        "mallType": "T1688",
+        "itemId": "798809577434",
+        "title": "50% reduction in Far. ARCHIVE vintage denim jacket, men's trendy brand high arcade zipper pocket jacket jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgp7loe0_iver.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSodJut_h4Qq7nDZyIcOeRw",
+          "name": "广州市集潮社服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2483258",
+        "mallType": "T1688",
+        "itemId": "973310907939",
+        "title": "一件代发2025SS款秋季小标刺绣男女款复古灯芯绒休闲立领夹克外套",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghstkju_v0wl.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSnDjJtA6KBkakNOW_l0P7g",
+          "name": "义乌市虹曲电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "335112",
+        "mallType": "TB",
+        "itemId": "862527874499",
+        "title": "American-Style Trendy Brand Religious Denim Jacket for Men, Large Size, White Thick Line Maitreya Buddha Workwear Casual Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241213/m4mtvy7c_3zp2.jpg",
+        "price": "¥285.29",
+        "toPrice": "$44.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333544208",
+          "name": "TR牛仔裤",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2683548",
+        "mallType": "TB",
+        "itemId": "901153862118",
+        "title": "【 Glory 】 In stock! Lem style 24ss snowflake washed distressed four bag denim jacket for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgokt6ca_m1p4.jpg",
+        "price": "¥450.00",
+        "toPrice": "$70.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "142025745",
+          "name": "The Glory",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2685128",
+        "mallType": "WD",
+        "itemId": "7473301552",
+        "title": "Functional Pioneer Thin Men's Coach Jacket Double Zipper Head Lens Open Chest Thin Coat",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgoat546_yalj.jpg",
+        "price": "¥300.00",
+        "toPrice": "$47.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672878880",
+          "name": "AKRep Studio",
+          "logo": "https://si.geilicdn.com/shopedit1422394722-45d300000196e31ec2d60a21146b-unadjust_736_736.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147128091911109653",
+  "language": "en"
+}

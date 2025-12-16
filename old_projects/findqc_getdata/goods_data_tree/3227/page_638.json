@@ -1,0 +1,352 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1199246",
+        "mallType": "WD",
+        "itemId": "7353027777",
+        "title": "Fashionable new loose T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250608/mbmvrrc0_wvy3.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684448889",
+          "name": "i M-1997",
+          "logo": "https://si.geilicdn.com/shopedit1860960415-6cfd000001921e3137280a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1199166",
+        "mallType": "TB",
+        "itemId": "911799100499",
+        "title": "Loose Short-Sleeved T-Shirt with Letters on the Chest and Round Neck Dj22",
+        "picUrl": "https://cdn.findqc.com/item/20250523/mb025eov_3fpq.jpg",
+        "price": "¥121.61",
+        "toPrice": "$19.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113677911",
+          "name": "Singor1",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 90,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1199082",
+        "mallType": "WD",
+        "itemId": "7407410501",
+        "title": "WAVE CREW TEE",
+        "picUrl": "https://cdn.findqc.com/item/20250526/mb4gh0ka_2t93.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1815675125",
+          "name": "888rep",
+          "logo": "https://si.geilicdn.com/wdseller1914072751-74fd0000019542449b720a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1199097",
+        "mallType": "TB",
+        "itemId": "831925129300",
+        "title": "Mercerized Cotton Custom Slim Fit Mercerized Cotton Slim Fit T-Shirt Fashionmiss",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mcgpqf6h_suh3.jpg",
+        "price": "¥154.03",
+        "toPrice": "$24.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "385044359",
+          "name": "TOPRALPH",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1198705",
+        "mallType": "TB",
+        "itemId": "714691536532",
+        "title": "Nike Men's Summer Sports Running Training Quick-drying Breathable Round Neck Short-sleeved T-shirt AJ7566-100",
+        "picUrl": "https://cdn.findqc.com/item/20250418/m9lul4bn_cn34.jpg",
+        "price": "¥103.11",
+        "toPrice": "$16.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "182169120",
+          "name": "博诚体育 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 136,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1198512",
+        "mallType": "T1688",
+        "itemId": "891720071292",
+        "title": "2022 World Cup national team Brazil Italy training jersey Argentina France Japan football jersey replacement",
+        "picUrl": "https://cdn.findqc.com/item/20250428/ma02438b_ylll.jpg",
+        "price": "¥34.88",
+        "toPrice": "$5.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219394414646",
+          "name": "广州零零壹运动服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 120,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1198487",
+        "mallType": "WD",
+        "itemId": "7448302183",
+        "title": "Black Grey Printed Short Sleeve Set SY-107",
+        "picUrl": "https://cdn.findqc.com/item/20250702/mcljp8vu_znxs.jpg",
+        "price": "¥245.00",
+        "toPrice": "$38.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274221412",
+          "name": "Elephant",
+          "logo": "https://si.geilicdn.com/wdseller1274221412-77390000018f660dd8030a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 86,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1198339",
+        "mallType": "T1688",
+        "itemId": "883414063990",
+        "title": "Cross-border Trade casablanca Casablanca Short-sleeved American Style Trendy Brand Niche Loose High Street Trendy Brand T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250520/mavm1pf1_ovb8.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0H1-x5kF5lV3ivkSD9nO_Q",
+          "name": "汕头市澄海区颂邦服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 501,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1197301",
+        "mallType": "T1688",
+        "itemId": "898191106267",
+        "title": "Stussy 2024 New Men's and Women's Short Sleeve T-shirt Summer Men's Loose Heavy Weight High Quality T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250728/mdm0j6y6_nfew.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219456425558",
+          "name": "铅山县肴子诺贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1196356",
+        "mallType": "WD",
+        "itemId": "7411502284",
+        "title": "XJXPCS New Fashionable Versatile T-shirt -06-C60N",
+        "picUrl": "https://cdn.findqc.com/item/20250514/mann2xat_m8w8.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1843849761",
+          "name": "Flying Pig Fashion",
+          "logo": "https://si.geilicdn.com/shopedit1768632408-202300000192a3ac0fa90a23038e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 225,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1196318",
+        "mallType": "T1688",
+        "itemId": "894890937088",
+        "title": "Cross border European and American trendy brand amiri flowing color graffiti letter short sleeved T-shirt for men and women high street spring and summer round neck summer top",
+        "picUrl": "https://cdn.findqc.com/item/20250527/mb5vn6he_8at1.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1196304",
+        "mallType": "T1688",
+        "itemId": "719547278839",
+        "title": "Factory wholesale FOG Tripartite Joint short sleeve shorts men's and women's leisure sports suit",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5e74rp_xobo.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOaWnYH9ZXH598zvwbtzipw",
+          "name": "佛山市南海区韩潮社服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1196316",
+        "mallType": "T1688",
+        "itemId": "887794883843",
+        "title": "Fashionable Brand Cross-Border Wholesale Supply Export One Piece Dropshipping Heavyweight Bape Ape Head Shark Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250528/mb7cwtkv_ykjz.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZye7Zo-gGFvrBm2wQgHHpA",
+          "name": "上饶梵贰服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1196295",
+        "mallType": "T1688",
+        "itemId": "892499110606",
+        "title": "Gymshark Apollo Short sleeved T-shirt Fitness Sports Stretch Cotton Slim fit Men's Top",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb3cw7ug_jfar.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216802394228",
+          "name": "铅山县德昌贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1195368",
+        "mallType": "WD",
+        "itemId": "7322926313",
+        "title": "b-p short sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250419/m9n6j0xr_zbp1.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832345461",
+          "name": "LVS repnys",
+          "logo": "https://si.geilicdn.com/shopedit1914401500-1f19000001985bbf901c0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1195361",
+        "mallType": "WD",
+        "itemId": "7435835332",
+        "title": "BZ09-New Hundred Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250419/m9n429ou_bxca.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1783746229",
+          "name": "3SS Store （1:1 Quality）",
+          "logo": "https://si.geilicdn.com/shopedit1909812839-188600000195d186c0e60a2315ef-unadjust_362_362.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1195360",
+        "mallType": "WD",
+        "itemId": "7385974177",
+        "title": "Lavmar Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250419/m9n4293a_apbx.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707576757",
+          "name": "N-A",
+          "logo": "https://si.geilicdn.com/wdseller1910531722-1dce0000019569847ad20a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1195326",
+        "mallType": "WD",
+        "itemId": "7396376290",
+        "title": "(In stock) 25ss Spring Basketball Series Retro 01blueT-shirts PP Same Style",
+        "picUrl": "https://cdn.findqc.com/item/20250418/m9mavj5m_dgqg.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1658217817",
+          "name": "Ash Made",
+          "logo": "https://si.geilicdn.com/wdseller1846720803-773b0000018e7f4d443b0a23043f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 83,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1195309",
+        "mallType": "T1688",
+        "itemId": "705152565834",
+        "title": "DT048 micro broad version of the loose ICON print summer short-sleeved T-shirt men's round neck tops cross-border tide couple half-sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20250418/m9lt5qo7_0aim.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149154901917111470",
+  "language": "en"
+}

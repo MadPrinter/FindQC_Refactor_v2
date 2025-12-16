@@ -1,0 +1,644 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3173455",
+        "mallType": "TB",
+        "itemId": "959008398242",
+        "title": "Cp Letter Foam Print Couple Hoodie Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/574102188/O1CN012XWfiS1S29fceyEBf_!!574102188.jpg",
+        "price": "¥151.07",
+        "toPrice": "$23.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63191856",
+          "name": "Los Angeles tide",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3189381",
+        "mallType": "TB",
+        "itemId": "985173364331",
+        "title": "Erl American Niche Trendy Brand Autumn and Winter Fleece-Lined Letter Print Loose Casual Hooded Sweatshirt Lisa Same Style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3281198393/O1CN01G5KaYr2Bs3H99PmBd_!!3281198393.jpg",
+        "price": "¥149.12",
+        "toPrice": "$23.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "516774669",
+          "name": "回到洛杉矶",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2066420",
+        "mallType": "T1688",
+        "itemId": "900311284782",
+        "title": "RL Ralph Pony Mark American Style Sweatshirt Men's Polo Couple Sweatshirt Women's Retro Long Sleeve Lapel Half Zipper Loose",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8qeqe8_avl8.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnbA5BnsL0wGM05O4vXhWmw",
+          "name": "广州小佳外贸服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 9
+      },
+      {
+        "id": "9480",
+        "mallType": "T1688",
+        "itemId": "803512619856",
+        "title": "25 Autumn and Winter New Hooded Drawstring Sweater Jacket Embroidered Zipper Cardigan Men's and Women's Sports Leisure Couple Clothes",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3map9g7_x4m9.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBv00fjTkuFSJFegM2Lw5fMQ",
+          "name": "广州潮柜服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 537,
+        "qcVideoCnt": 16,
+        "picWidth": "910",
+        "picHeight": "910"
+      },
+      {
+        "id": "477322",
+        "mallType": "T1688",
+        "itemId": "854971939801",
+        "title": "Overseas original blockbuster 450G thick cake velvet sweater hoodie men's foam print spider Sp5der hoodies",
+        "picUrl": "https://cdn.findqc.com/item/20250513/malsw20r_2o52.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBU52j4cAJ8QmWaYqTJpCTYg",
+          "name": "深圳市福田区滨岩贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 571,
+        "qcVideoCnt": 32,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "2250920",
+        "mallType": "WD",
+        "itemId": "7047860390",
+        "title": "VT hoodie with I did print V11TM",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-7b600000018ca26922df0a23034c_523_523.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3103731",
+        "mallType": "WD",
+        "itemId": "7615029218",
+        "title": "Detachable sleeves white label down jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1842086105-53b20000019aa0a971fb0a20e7c7-unadjust_750_750.png",
+        "price": "¥899.00",
+        "toPrice": "$141.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840972441",
+          "name": "Thunder 01",
+          "logo": "https://si.geilicdn.com/shopedit1842086105-06b80000019746ca6bf50a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2698948",
+        "mallType": "T1688",
+        "itemId": "871996263616",
+        "title": "Overseas Original Heavyweight 450g Cake Velvet Thickeneded Sp5Der Hoodie Pink Trendyy Couple Hoodie Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019n5i8q28xb9jNSj6w_!!2218616507999-0-cib.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBczyGH6Ib7z3Epv3lXAnWvA",
+          "name": "广州腾球信息科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2918806",
+        "mallType": "T1688",
+        "itemId": "925182190261",
+        "title": "ami polo shirt spring and summer new 25ss cotton high grams loose lapel cross-border live love buttons long sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Mp1R0K1kRUe0Ccame_!!2217704784680-0-cib.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217704784680",
+          "name": "佛山市南海区尼卡琪服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2492108",
+        "mallType": "TB",
+        "itemId": "960647943745",
+        "title": "Erd's Melancholic Rich Second-Generation Fw25 Zip-Up Hooded Printed Drop-Shoulder Sleeve Sweatshirt, Washed and Distressed, American Retro Style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2210749411287/O1CN01rX1bjA1LNUogxZgrv_!!2210749411287.jpg",
+        "price": "¥184.00",
+        "toPrice": "$28.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "176363325",
+          "name": "赚个跑腿费",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2733276",
+        "mallType": "T1688",
+        "itemId": "970719237605",
+        "title": "跨境INS潮牌AC1996水洗磨破做旧字母印花高街长袖宽松男女情侣T恤",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01MwBCHY1q4UTbA0qfF_!!2220362275442-0-cib.jpg",
+        "price": "¥72.00",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgruc7QW1lmZt_znr58yTtQ",
+          "name": "广州扬洺服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3207263",
+        "mallType": "WD",
+        "itemId": "7516245436",
+        "title": "DU7.26--跨境欧美小众嘻哈街头休闲宽松潮牌加绒连帽衫卫衣套装",
+        "picUrl": "https://si.geilicdn.com/open1860419645-1234478995-61e000000198427e81350aa043f9_800_800.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1860419645",
+          "name": "WF潮牌",
+          "logo": "https://si.geilicdn.com/weidian1958122760-7de500000196f62e2a8d0a23037f_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "865271",
+        "mallType": "WD",
+        "itemId": "7274319868",
+        "title": "adidas",
+        "picUrl": "https://si.geilicdn.com/open1700008665-252808396-658700000191bab83bce0a8115b5_1200_1200.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1727083993",
+          "name": "江南",
+          "logo": "https://si.geilicdn.com/shopedit1850639392-5adc0000018e951397d00a20e672-unadjust_287_287.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "110",
+        "mallType": "WD",
+        "itemId": "5357460006",
+        "title": "Six tone hair # [Double layer overweight weight] Solid color Yeezy x collaboration The Perfect Hoodie high street style double-layer solid color pullover hooded sweatshirt for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m24k42_7rqz.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1303790680",
+          "name": "草帽出品【八点开拍】🎩",
+          "logo": "https://si.geilicdn.com/bj-wd-1303790680-1514196291898-1398575325_1239_1185.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 172,
+        "qcVideoCnt": 13,
+        "picWidth": "1284",
+        "picHeight": "1284"
+      },
+      {
+        "id": "436359",
+        "mallType": "T1688",
+        "itemId": "849180641634",
+        "title": "Beautiful Trendy Men's and Women's 555555 Spider Web Foam Printed Hip-Hop Loose fleece-lined Hooded Sweat suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lykn851i0LtJu90Kb_!!2210102194350-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVgGA1PiwvwtUQz5_OCHnuw",
+          "name": "深圳市宝安区优乐希贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 384,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2293747",
+        "mallType": "T1688",
+        "itemId": "904435692303",
+        "title": "25Ss Cross-Border Foreign Trade High-End Version European and American Trendy Brand Flocking Fog Multi-Line Essentials Unisex Tops",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mggc0rd5_bxso.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDl2AIHEEXR3mgNeAg3hvWw",
+          "name": "广州浩逸服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 641,
+        "qcVideoCnt": 18
+      },
+      {
+        "id": "247500",
+        "mallType": "T1688",
+        "itemId": "723704403252",
+        "title": "High-end original Essentials sweater men's hooded fashion brand loose Fog High Street women autumn flocking 2022",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p9mmc_di8s.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0-3EO70nwBNcIlDdLS8V6A",
+          "name": "上饶市鹿飞服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 767,
+        "qcVideoCnt": 3,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "1289301",
+        "mallType": "T1688",
+        "itemId": "914060109690",
+        "title": "2025 Spring and Autumn Cross-border Small Hook Casual Sports Breathable NOCTA Joint Hooded Zipper Jacket FD8454",
+        "picUrl": "https://cdn.findqc.com/item/20250731/mdqsw0oj_2wbt.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqmRlRRdSksoGsxZQfQTwbQ",
+          "name": "义乌市鹭汀服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 566,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3147730",
+        "mallType": "T1688",
+        "itemId": "980660000340",
+        "title": "现货RL拉夫小马标复古POLO衫卫衣男半拉链套头纯色休闲百搭上衣潮",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01swspLA1czN38se7HX_!!2220846563671-0-cib.jpg",
+        "price": "¥57.80",
+        "toPrice": "$9.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBd3xB6GC9u-hmXLlQ-RkZhA",
+          "name": "义乌市舟璆电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "135633",
+        "mallType": "WD",
+        "itemId": "7290658974",
+        "title": "two thousand two hundred and twenty-four",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mp9zcy_gwrz.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 505,
+        "qcVideoCnt": 17,
+        "picWidth": "640",
+        "picHeight": "640"
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141395892553922397",
+  "language": "en"
+}

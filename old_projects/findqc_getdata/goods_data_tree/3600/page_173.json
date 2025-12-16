@@ -1,0 +1,356 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "53548",
+        "mallType": "TB",
+        "itemId": "669927087113",
+        "title": "Spot paf co-branded XX shoulder bag handbag deconstructed black gym bag large capacity crossbody",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3no8l1s_srmd.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "categoryId": 17,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1961333",
+        "mallType": "WD",
+        "itemId": "7306318233",
+        "title": "Fashion Trend High Version Cotton Jacket 2",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdw8cpi1_lv4o.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1671931806",
+          "name": "Top technology",
+          "logo": "https://si.geilicdn.com/wdseller1736228097-2b980000019546a46eb00a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1936654",
+        "mallType": "T1688",
+        "itemId": "860591811143",
+        "title": "European and American couple style winter style CG goose fur collar detachable hooded parka down jacket flat for cross-border European goods",
+        "picUrl": "https://cdn.findqc.com/item/20250802/mdtiqws3_8wd5.jpg",
+        "price": "¥639.00",
+        "toPrice": "$100.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218354894834",
+          "name": "广州金齐行服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1933599",
+        "mallType": "TB",
+        "itemId": "750937860194",
+        "title": "22 Winter Palace Pertex Frost Balaclava Puffa Mask Waterproof down 3m Jacket down Coat",
+        "picUrl": "https://cdn.findqc.com/item/20250801/mdsxf1vn_7h9a.jpg",
+        "price": "¥660.00",
+        "toPrice": "$103.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "188296770",
+          "name": "潮男外贸直营店",
+          "type": "TB"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1875663",
+        "mallType": "WD",
+        "itemId": "7431957137",
+        "title": "coat",
+        "picUrl": "https://cdn.findqc.com/item/20250728/mdmm2dns_hvak.jpg",
+        "price": "¥682.00",
+        "toPrice": "$107.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1800364",
+        "mallType": "WD",
+        "itemId": "7437635774",
+        "title": "ACN Studio 25SS 90 white duck down lightweight technology fabric waterproof splash three-dimensional down jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250720/mdbnchth_yr5k.jpg",
+        "price": "¥339.00",
+        "toPrice": "$53.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1258568610",
+          "name": "Satan Made",
+          "logo": "https://si.geilicdn.com/wdseller1258568610-48150000018e4727cc280a8133ca_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1777307",
+        "mallType": "TB",
+        "itemId": "864800765242",
+        "title": "Ceiling made hoho, Shenzhen Nanyou high-end black down jacket, men's and women's 90 goose down bread jacket, trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250718/md7ppm0q_9jhc.jpg",
+        "price": "¥370.00",
+        "toPrice": "$58.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "148951758",
+          "name": "HOHO中性风穿搭",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1775743",
+        "mallType": "WD",
+        "itemId": "7365921793",
+        "title": "******Product",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md7idtzm_r7c1.jpg",
+        "price": "¥470.00",
+        "toPrice": "$73.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828016549",
+          "name": "我的小铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-249600000193b88380020a231316-unadjust_234_234.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761332",
+        "mallType": "WD",
+        "itemId": "7283318370",
+        "title": "YT2010 (Orders cannot be refunded or exchanged, codes can be exchanged)",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md6kcj7v_x3ci.jpg",
+        "price": "¥660.00",
+        "toPrice": "$103.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1300906268",
+          "name": "Scarlettluxury（accessories）",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1736272",
+        "mallType": "T1688",
+        "itemId": "839403856309",
+        "title": "Crofton 2227 Men's and Women's Same Light and Thin.",
+        "picUrl": "https://cdn.findqc.com/item/20250720/mdbguly5_r2c2.jpg",
+        "price": "¥550.00",
+        "toPrice": "$86.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoHU_J-r7ZOTpNlbItu9AQg",
+          "name": "莆田市秀屿区桑美服装店",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1709666",
+        "mallType": "TB",
+        "itemId": "922523448522",
+        "title": "Super Goose 【2440M】 51",
+        "picUrl": "https://cdn.findqc.com/item/20250728/mdmzx6yv_377b.jpg",
+        "price": "¥400.00",
+        "toPrice": "$62.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "426400773",
+          "name": "SUPER GOOSE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1707307",
+        "mallType": "TB",
+        "itemId": "766301980164",
+        "title": "Authentic Nike Winter Women's Goose Down Warm Running Sports Thin Down Jacket DQ6710-010",
+        "picUrl": "https://cdn.findqc.com/item/20250712/mczl6dya_tway.jpg",
+        "price": "¥509.00",
+        "toPrice": "$80.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "593134696",
+          "name": "老井运动 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1690313",
+        "mallType": "WD",
+        "itemId": "7333002893",
+        "title": "122447 Heshuo women's spliced yarn down jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250710/mcww1sax_ar29.jpg",
+        "price": "¥580.00",
+        "toPrice": "$91.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1662022",
+        "mallType": "T1688",
+        "itemId": "745684883953",
+        "title": "Foreign Trade Outdoor Lamb Velvet Double-Sided Cotton Outwear Thickened Hooded Warm Couple Style Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250707/mcsi4edq_ewey.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBv5CsqVOEK_a6szdGxy_VAw",
+          "name": "广州晶鑫供应链管理有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1578275",
+        "mallType": "T1688",
+        "itemId": "917511672508",
+        "title": "2024 Winter Tide Brand New M Maya Maya Stars Same Couple Same Warm Cold-resistant Down Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md74gkv6_fd9m.jpg",
+        "price": "¥318.00",
+        "toPrice": "$50.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219650122405",
+          "name": "余姚市凯星集服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1563504",
+        "mallType": "T1688",
+        "itemId": "853511542592",
+        "title": "High version MO xPALM palm co branded FW21 logo woven fluffy down jacket for both men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250628/mcf0jm7h_ctrf.jpg",
+        "price": "¥490.00",
+        "toPrice": "$77.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnparkjxR531wUNfEN6IKqQ",
+          "name": "义乌市菱塍服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1546305",
+        "mallType": "WD",
+        "itemId": "7324676033",
+        "title": "【 10/10 】 French Fish Baseball Collar Men's Zipper Double sided Down Wearing",
+        "picUrl": "https://cdn.findqc.com/item/20250625/mcbf8ews_jk63.jpg",
+        "price": "¥699.00",
+        "toPrice": "$109.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646496609",
+          "name": "Fr fish①",
+          "logo": "https://si.geilicdn.com/weidian1487868650-5664000001921049e8990a21146b_756_756.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1522746",
+        "mallType": "T1688",
+        "itemId": "838355595939",
+        "title": "Trendy High-End Waterproof Fabric All-Over Jacquard White Duck down Stand Collar down Jacket 2025 Winter New Outwear for Men",
+        "picUrl": "https://cdn.findqc.com/item/20250618/mc1fpnkm_ntae.jpg",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBMJS0osJWbE9rUXzMVr8Dow",
+          "name": "平湖市嘉倍达制衣有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1516426",
+        "mallType": "T1688",
+        "itemId": "848813793487",
+        "title": "2024 New Mongolian Letter Zipper Hooded Cotton Jacket for Couples, Winter Cold proof and Warm, Trendy Brand Thickened Men's and Women's Styles",
+        "picUrl": "https://cdn.findqc.com/item/20250616/mbyi5rcc_fvk5.jpg",
+        "price": "¥255.00",
+        "toPrice": "$40.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218657813325",
+          "name": "佛山市禅城区沨耘服装商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144577782553919508",
+  "language": "en"
+}

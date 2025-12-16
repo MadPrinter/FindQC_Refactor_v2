@@ -1,0 +1,56 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "47466",
+        "mallType": "T1688",
+        "itemId": "724174536388",
+        "title": "2023 Summer Men's Short Sleeve + Shorts Suit T-shirt Printed Casual Suit Sport Suit Short Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mfw8k1_0k73.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "9306",
+        "mallType": "TB",
+        "itemId": "808341684047",
+        "title": "alo Yoga Sports Fitness Tennis Short Skirt High Waisted Tummy Slim Casual A-Line Anti Walking Half Golf Skirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mamlod_5m6q.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "categoryId": 37,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7802",
+        "mallType": "TB",
+        "itemId": "554016133979",
+        "title": "New Women's Summer Clash Stretch Ice Sexy Camisole Vest",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9vumi_f4ap.jpg",
+        "price": "¥215.00",
+        "toPrice": "$33.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63951120",
+          "name": "雲灏精品时装阁",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144261381913201325",
+  "language": "en"
+}

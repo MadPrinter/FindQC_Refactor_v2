@@ -1,0 +1,625 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2576471",
+        "mallType": "T1688",
+        "itemId": "822491865423",
+        "title": "Spring and Autumn New Product Women's Ice Silk Thin Pajama Long Sleeve Set Water Light Silk Home Clothes Пижама",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01i6i1eu1O4CpMPwmrK_!!2219631651-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrj-MXTg3iHo5Lx9KCbdOpA",
+          "name": "台州市纤卓服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1136631",
+        "mallType": "T1688",
+        "itemId": "763884110530",
+        "title": "Secret with the same collar striped jacquard pajamas women Пижама short-sleeved short pants ice silk suit homewear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017SegBH1Q2Uc7z4PLF_!!2215563731918-0-cib.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215563731918",
+          "name": "广州兰图服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2846562",
+        "mallType": "WD",
+        "itemId": "7564513189",
+        "title": "Fashion Clothing -22",
+        "picUrl": "https://si.geilicdn.com/open1678116131-1234478995-179500000199a44878fb0a23b4de_825_825.jpg",
+        "price": "¥50.26",
+        "toPrice": "$7.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1678116131",
+          "name": "Super-Factory",
+          "logo": "https://si.geilicdn.com/pcdecorate1984009210-4ae2000001999af7cae40a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3167455",
+        "mallType": "T1688",
+        "itemId": "828214864454",
+        "title": "Cross-border foreign trade in stock wholesale Casablant 2024 new tide brand men's beach short sleeve shirt suit tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01n1HDXV1q6JxURg5Kb_!!2209066415446-0-cib.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAgR6fQmGVfxc6kBXQwYdTw",
+          "name": "广州市越秀区世桦服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2761080",
+        "mallType": "T1688",
+        "itemId": "905428807115",
+        "title": "2025 Europe and the United States speed seller foreign trade independent station men's casual loose multi-color beachwear cotton linen short-sleeved suit two pieces",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qEtCQa1VLnViT68yd_!!2217094982637-0-cib.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217094982637",
+          "name": "东莞市多美仕服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817767",
+        "mallType": "TB",
+        "itemId": "944121603247",
+        "title": "Gongdie【Light and Soft】Crayon Shin-Chan Couple Pajamas Spring and Autumn Pure Cotton Cute Cartoon Homewear Unisex",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2816110552/O1CN01Z4TODk1Fwri7P2BbF_!!4611686018427383768-0-item_pic.jpg",
+        "price": "¥183.78",
+        "toPrice": "$28.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "149571104",
+          "name": "宫蝶旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2737112",
+        "mallType": "TB",
+        "itemId": "843927224617",
+        "title": "Gongdie [Light and Soft] Snoopy Pure Cotton Pajamas for Women, Long-Sleeved, Casual, Can Be Worn Outside, Spring and Autumn Loungewear Set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2816110552/O1CN018QVX1u1FwriOJkMLs_!!4611686018427383768-0-item_pic.jpg",
+        "price": "¥122.26",
+        "toPrice": "$19.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "149571104",
+          "name": "宫蝶旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2708265",
+        "mallType": "TB",
+        "itemId": "977526816664",
+        "title": "Old American single! Wearing a delicate brushed casual home suit set for three seasons, long sleeved top+long pants sleepwear, women's new style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/83622690/O1CN01qWFVte1Vk4VUNQENS~crop,159,219,957,1276~_!!83622690.jpg",
+        "price": "¥103.14",
+        "toPrice": "$16.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57725877",
+          "name": "素女外贸",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2716014",
+        "mallType": "T1688",
+        "itemId": "895881950518",
+        "title": "Foreign trade ladies striped pink and white ice silk cardigan big size obese home wear Europe and the United States wind source pajamas suit new",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011wMwrg1PPZ1llVVaP_!!2219508851833-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219508851833",
+          "name": "普宁市池尾丝语服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3004821",
+        "mallType": "TB",
+        "itemId": "944946466157",
+        "title": "Gongdie [Light and Soft] Disney Mickey Modal Cotton Pajamas Men's Long Sleeve Teenager Homewear Spring and Autumn",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2816110552/O1CN01geOzg21FwrhF9QV1z_!!4611686018427383768-0-item_pic.jpg",
+        "price": "¥248.36",
+        "toPrice": "$39.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "149571104",
+          "name": "宫蝶旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3039489",
+        "mallType": "T1688",
+        "itemId": "767302937167",
+        "title": "DMM同款轻舒绒大V刺绣柔软舒适保暖家居服睡女士套装2025秋冬新款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pJX5SM21Dc2xmIWhK_!!2212408636951-0-cib.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212408636951",
+          "name": "临朐县江远服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1387317",
+        "mallType": "T1688",
+        "itemId": "893675711503",
+        "title": "[Di family tide brand] full printing logo short-sleeved shirt set of high-quality fabrics casual shorts shirt sports explosive models",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000004020/O1CN01pkyuQu1fZDDXtzlEX_!!6000000004020-0-tbvideo.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "437156",
+        "mallType": "WD",
+        "itemId": "7248352098",
+        "title": "[Full series] Sweatshirt foam printed short-sleeved T-shirt hooded short pants set No quality problems No refunds or exchanges",
+        "picUrl": "https://si.geilicdn.com/open1710883753-1234478995-0d2d0000019088465ecb0aa0233d_1000_1000.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710883753",
+          "name": "Good times",
+          "logo": "https://si.geilicdn.com/wdseller1829169095-009400000194488b8c430a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2416365",
+        "mallType": "WD",
+        "itemId": "7509871829",
+        "title": "Cotton wool sweatshirt, sweatpants, casual hoodie, men's and women's sports suit",
+        "picUrl": "https://si.geilicdn.com/open338114716-1234478995-3c9900000198186ce2630aa043f9_800_800.jpg",
+        "price": "¥159.90",
+        "toPrice": "$25.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "338114716",
+          "name": "Cool Hipster",
+          "logo": "https://si.geilicdn.com/vshop14363045282069674671.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "392271",
+        "mallType": "WD",
+        "itemId": "7286340894",
+        "title": "CasualDTJacket/Jeans 'DGBatch' Nine",
+        "picUrl": "https://si.geilicdn.com/pcitem1891205553-5d2400000192777394e00a20e7c7_1280_2011.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1635309029",
+          "name": "musk factory shop",
+          "logo": "https://si.geilicdn.com/shopedit1891205553-5fe4000001922bff69280a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1538361",
+        "mallType": "T1688",
+        "itemId": "933372790568",
+        "title": "Tide brand new winter Europe and the United States and the United States leopard print hooded cardigan top loose leisure hip-hop wide-legged pants suit wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ag8hjE2FFodhUK4Sc_!!2214146128851-0-cib.jpg",
+        "price": "¥35.90",
+        "toPrice": "$5.65",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "341316",
+        "mallType": "WD",
+        "itemId": "7246276836",
+        "title": "【 Full Series 】 Hooded printed short sleeved T-shirt, hooded short pants set",
+        "picUrl": "https://cdn.findqc.com/item/20241215/m4olgude_6u9u.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684891361",
+          "name": "ThebigY store",
+          "logo": "https://si.geilicdn.com/wdseller1778358520-557d00000196f8821c200a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2432639",
+        "mallType": "WD",
+        "itemId": "7351275068",
+        "title": "Couple's suit for fall and winter",
+        "picUrl": "https://si.geilicdn.com/open1155015821-1234478995-13ff000001944160c9d80aa0834c_800_800.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1155015821",
+          "name": "kmns order boy",
+          "logo": "https://si.geilicdn.com/wdseller1155015821-549000000195b0361e5c0a23038e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "977519",
+        "mallType": "WD",
+        "itemId": "7235266241",
+        "title": "Wooden Flower Set",
+        "picUrl": "https://si.geilicdn.com/pcitem1820417972-48c50000018e331960ed0a22e433_800_800.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668393433",
+          "name": "Labrador",
+          "logo": "https://si.geilicdn.com/pcdecorate1850390036-0eea000001908447aa7a0a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1344349",
+        "mallType": "T1688",
+        "itemId": "739567815249",
+        "title": "Secret New Lapel Long-Sleeved Pink Stripesd Ice Silk Pajamas for Womenпижама Home Wear Sweet Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jtZY9Z1Q2Uc5ylxxf_!!2215563731918-0-cib.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8Qc7PQfouZr-Pt_ZmlfG8w",
+          "name": "广州兰图服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143501791917111976",
+  "language": "en"
+}

@@ -1,0 +1,288 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "968871",
+        "mallType": "WD",
+        "itemId": "7405613255",
+        "title": "Fashionable short sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20250408/m98a6tli_y9h4.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834819569",
+          "name": "Digital store",
+          "logo": "https://si.geilicdn.com/pcdecorate1807659364-17c200000190168472c60a23038e-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 141,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "968680",
+        "mallType": "TB",
+        "itemId": "828839897027",
+        "title": "Shibu Washed Remake Bottom Casual Versatile Solid Color Dirty Long Sleeve Ultra Thin T-shirt Tee",
+        "picUrl": "https://cdn.findqc.com/item/20250309/m81mma57_5d0h.jpg",
+        "price": "¥70.74",
+        "toPrice": "$11.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "410847916",
+          "name": "十卟SHIBU",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "968341",
+        "mallType": "WD",
+        "itemId": "7362311987",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20250627/mcduzqnm_eone.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615509721",
+          "name": "WWW——34-1",
+          "logo": "https://si.geilicdn.com/shopedit1848591094-437a000001963933a6090a23111a-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "967332",
+        "mallType": "TB",
+        "itemId": "704796675032",
+        "title": "Be Thrived Trendy Brand 285g Heavy-Duty Washed Batik American Retro Heavyweight Crew Neck Short-Sleeve T-Shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcns0a3a_mcvi.jpg",
+        "price": "¥88.22",
+        "toPrice": "$13.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "100794625",
+          "name": "街头制燥线上商店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "967333",
+        "mallType": "TB",
+        "itemId": "710645118975",
+        "title": "Be Thrived Trendy Brand Retro Washed Frayed Oversize Loose American Street Style Short-Sleeve T-Shirt Couple Style",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrsled_urk5.jpg",
+        "price": "¥86.66",
+        "toPrice": "$13.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "100794625",
+          "name": "街头制燥线上商店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "967328",
+        "mallType": "TB",
+        "itemId": "845907723244",
+        "title": "Uniqlo Men's and Women's Master t Airism Loose Round Neck T-Shirt Five-Quarter Sleeve Short Sleeve 475355 465185",
+        "picUrl": "https://cdn.findqc.com/item/20250510/mahm14k2_ccm9.jpg",
+        "price": "¥101.11",
+        "toPrice": "$15.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57303596",
+          "name": "优衣库官方旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "967312",
+        "mallType": "TB",
+        "itemId": "815189811249",
+        "title": "Cabinet 299! Men's Clothing 2024 Autumn Loose Round-Neck Solid Color Casual Short-Sleeve T-Shirt 1887450 4087429",
+        "picUrl": "https://cdn.findqc.com/item/20250308/m808s8pf_g1wk.jpg",
+        "price": "¥59.90",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "525790634",
+          "name": "ZABA男装工厂店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 89,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "967310",
+        "mallType": "WD",
+        "itemId": "7231189332",
+        "title": "RL Pima Cotton Short Sleeved Sweater RL Horse Cotton Mirror Knitted Short Sleeve Women's Style",
+        "picUrl": "https://cdn.findqc.com/item/20250626/mcdfzuyd_0zc8.jpg",
+        "price": "¥133.00",
+        "toPrice": "$20.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "967275",
+        "mallType": "TB",
+        "itemId": "704317542449",
+        "title": "The Clash Impact Band American Street Metal Rock Punk Style Short Sleeve Cityboy Heavy Weight T-shirt Men",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrsl1i_0jdf.jpg",
+        "price": "¥58.80",
+        "toPrice": "$9.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "127957452",
+          "name": "Modern  线上商店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "966304",
+        "mallType": "TB",
+        "itemId": "635683679788",
+        "title": "Trendy American Street Hip Hop Spring/Summer New Black Panther Printed T-shirt High Street Loose Men's and Women's Casual Round Neck Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250308/m7zuvzaa_gm27.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "966302",
+        "mallType": "T1688",
+        "itemId": "855805445631",
+        "title": "College style trend summer new item niche letter embroidery logo casual loose men and women couple short sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20250308/m7zsxaes_i0yd.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216722454255",
+          "name": "佛山市南海区潮衣客服装商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "958484",
+        "mallType": "WD",
+        "itemId": "7278271022",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20250729/mdolvaos_y055.jpg",
+        "price": "¥201.82",
+        "toPrice": "$31.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1628294393",
+          "name": "LLL",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-41c30000018f93b4a0620a22d172-unadjust_604_604.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "958274",
+        "mallType": "TB",
+        "itemId": "835218146313",
+        "title": "24FW Martine Rose Football Jersey Co-branded Mesh Football Jersey Short Sleeve T-Shirt Vintage",
+        "picUrl": "https://cdn.findqc.com/item/20250309/m80ow8co_flwm.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "223509996",
+          "name": "枪哥 只认钱",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "954303",
+        "mallType": "WD",
+        "itemId": "6599199734",
+        "title": "Highest quality New cotton applique round neck short-sleeved knitted T-shirt blue Men and women with the same models",
+        "picUrl": "https://cdn.findqc.com/item/20250307/m7y1zfs2_bt28.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1644055430",
+          "name": "Luxury Fashion ①",
+          "logo": "https://si.geilicdn.com/wdseller1660858386-42f50000018124ff83000a23056b_458_458.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "954279",
+        "mallType": "WD",
+        "itemId": "7239722837",
+        "title": "Stylish Simple Short Sleeve Top",
+        "picUrl": "https://cdn.findqc.com/item/20250307/m7xm9j86_lgmg.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1803682121",
+          "name": "Cost-Effective Shop",
+          "logo": "https://si.geilicdn.com/pcdecorate1816451066-413d00000191b1ddf0bb0a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149406482553872171",
+  "language": "en"
+}

@@ -1,0 +1,617 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3086361",
+        "mallType": "T1688",
+        "itemId": "943499392920",
+        "title": "240W Braided Fast Charging Data Cable Suitable for Apple 15/16 Double-Ended Typec Data Cable Pd Fast Charging Cable Charging Cable",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dzQcyy1VlRfh13LmN_!!2214295792693-0-cib.jpg",
+        "price": "¥4.20",
+        "toPrice": "$0.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBuCxPLHBE7qJZX2xd2ISiGA",
+          "name": "东莞市豪联电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2901119",
+        "mallType": "TB",
+        "itemId": "914700621516",
+        "title": "240W dual head type-c10A data cable bidirectional tpyec dual PD fast charging ctoc suitable for Xiaomi, Huawei, Honor tpc car charging cable, laptop, typc, male to male",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk4lp0i_nibz.jpg",
+        "price": "¥1.56",
+        "toPrice": "$0.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "114592850",
+          "name": "优意手机配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2412370",
+        "mallType": "T1688",
+        "itemId": "694473377519",
+        "title": "Usb3.0 male-to-male usb bidirectional two-head A two-head mobile hard disk box data line double-head usb line male-to-male",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011MQrdX1SWq6Tlxd6d_!!2409792255-0-cib.jpg",
+        "price": "¥3.40",
+        "toPrice": "$0.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcV-HMS7N9F5PfWxUNQMnew",
+          "name": "东莞市石排能捷电子电线厂",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3041357",
+        "mallType": "T1688",
+        "itemId": "943208955477",
+        "title": "Suitable for Apple 16 Data Cable, Suitable for iPhone 15 Mobile Phone Fast Charging Type-C Charging Cable Double C Colorful Braided",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BPe09h1VlRfk2zuTu_!!2214295792693-0-cib.jpg",
+        "price": "¥2.00",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBuCxPLHBE7qJZX2xd2ISiGA",
+          "name": "东莞市豪联电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 5,
+        "picWidth": "1276",
+        "picHeight": "1276"
+      },
+      {
+        "id": "2708029",
+        "mallType": "WD",
+        "itemId": "7548860508",
+        "title": "【DX67】USB-CtoLightningCable(1m)",
+        "picUrl": "https://si.geilicdn.com/pcitem901862111838-7ce400000192ec0fed420a207569_1920_2560.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661889437",
+          "name": "UP",
+          "logo": "https://si.geilicdn.com/pcdecorate901957599304-572a0000019942577e750a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1962573",
+        "mallType": "WD",
+        "itemId": "7285528158",
+        "title": "cha.rger  cable",
+        "picUrl": "https://si.geilicdn.com/open1795529188-1234478995-532500000192755d1ac00a232357-unadjust_1200_1228.png",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1795529188",
+          "name": "Dream Factory",
+          "logo": "https://si.geilicdn.com/wdseller844114706-0043000001924e5caeb00a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2243387",
+        "mallType": "T1688",
+        "itemId": "746278290990",
+        "title": "Suitable for Apple iPhone15 cell phone USB-C converter typec to lighting converter head charging cable",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016vE26A1e6z3KhnZ5r_!!2215973713823-0-cib.jpg",
+        "price": "¥5.50",
+        "toPrice": "$0.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215973713823",
+          "name": "东莞市塘厦博睿斯电子厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2906023",
+        "mallType": "TB",
+        "itemId": "629605869872",
+        "title": "Beisi Dual TypeC Data Cable Car PD100W Charging Cable USBC Suitable for Apple iPhone 17/16 Promax Samsung Phone MacBook Computer iPad Fast Charging CTOC Dual Head 2-meter",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkboawh_5crw.jpg",
+        "price": "¥19.74",
+        "toPrice": "$3.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70839627",
+          "name": "正品数码工厂折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900956",
+        "mallType": "TB",
+        "itemId": "768570960713",
+        "title": "240W USB Type C To USB C Cable 100W PD 3.1      Charging Cha",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk43q2r_okun.jpg",
+        "price": "¥31.70",
+        "toPrice": "$4.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "331092256",
+          "name": "龙少爷Store",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1792359",
+        "mallType": "T1688",
+        "itemId": "739710422404",
+        "title": "Suitable for Apple 15 adapter lightning to type-c male to female fast data line converter head",
+        "picUrl": "https://cdn.findqc.com/item/20250723/mdflugo2_95f0.jpg",
+        "price": "¥0.80",
+        "toPrice": "$0.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6usuz7PZCEXY_-RBXC9afg",
+          "name": "深圳市极联客科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2066665",
+        "mallType": "WD",
+        "itemId": "7288174495",
+        "title": "cha.rger cable",
+        "picUrl": "https://cdn.findqc.com/item/20250811/me79qwb1_bbup.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840753881",
+          "name": "Heart Encounter",
+          "logo": "https://si.geilicdn.com/shopedit1848930946-76a500000197d779782e0a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2131137",
+        "mallType": "T1688",
+        "itemId": "929615941261",
+        "title": "Rilakkuma Anime Peripheral Two-Dimensional Tinplate Cute Brooch Badge 58mm",
+        "picUrl": "https://cdn.findqc.com/item/20250925/mfz5yycz_4ytb.jpg",
+        "price": "¥0.90",
+        "toPrice": "$0.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0CHAF7UaUMn4TMRqnUvIFQ",
+          "name": "广州萌漫园动漫商行",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1929326",
+        "mallType": "TB",
+        "itemId": "814704458362",
+        "title": "Charging Cable Charger for Iphone14 13 12 11 XR IPAD lightni",
+        "picUrl": "https://cdn.findqc.com/item/20250808/me2fa216_jfqb.jpg",
+        "price": "¥4.37",
+        "toPrice": "$0.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "247228575",
+          "name": "vs优选",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1168228",
+        "mallType": "T1688",
+        "itemId": "739098755261",
+        "title": "Pd20W European Plug Adapter Eu 20W Suitable for Apple 14 Charger Iphone13 Fast Charging Head Eu",
+        "picUrl": "https://cdn.findqc.com/item/20250526/mb41ak9a_5pt9.jpg",
+        "price": "¥3.50",
+        "toPrice": "$0.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrW4TpBOV42ap843RQnBnhg",
+          "name": "深圳市奥俐佳生产科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 93,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1739307",
+        "mallType": "T1688",
+        "itemId": "741893681630",
+        "title": "Double C braided wire suitable for Apple 15 data cable, iPhone 15 Pro fast charging cable, charging head, dual type-c",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5qwpw5_tcp7.jpg",
+        "price": "¥2.50",
+        "toPrice": "$0.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBX_hPSQbghxnr9FLyYzpFqg",
+          "name": "深圳市南山区德安瑞电子商行",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1576283",
+        "mallType": "T1688",
+        "itemId": "850332833702",
+        "title": "For apple 6sp-14pd fast charging line iPhone12/11/xrs/13/15/7/8usb apple data line",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mci1fby8_7wtq.jpg",
+        "price": "¥2.50",
+        "toPrice": "$0.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-UY-g1B3lx2awXaoj7L14A",
+          "name": "静舒一草(东莞市)商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1245290",
+        "mallType": "WD",
+        "itemId": "7285887264",
+        "title": "cha.rger  cable",
+        "picUrl": "https://cdn.findqc.com/item/20250424/m9viiwzb_bq7z.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1644274849",
+          "name": "Hello apple",
+          "logo": "https://si.geilicdn.com/pcdecorate1771223853-30280000018cb4bb04320a2313c4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1166296",
+        "mallType": "TB",
+        "itemId": "577754914445",
+        "title": "Compatible with Macbook Pro original charging cable, Apple laptop, Air dual Typec 2-meter data cable power supply",
+        "picUrl": "https://cdn.findqc.com/item/20250412/m9dng6zj_dvt0.jpg",
+        "price": "¥82.00",
+        "toPrice": "$12.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106769911",
+          "name": "Mac友原装配件",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "696377",
+        "mallType": "WD",
+        "itemId": "7285344304",
+        "title": "cha.rger  cable",
+        "picUrl": "https://cdn.findqc.com/item/20250308/m7zdhq28_j004.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787125025",
+          "name": "Apple果果",
+          "logo": "https://si.geilicdn.com/pccreshp1769897333-473700000188aaa5ccfd0a23034c_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 81,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114704915194367802",
+  "language": "en"
+}

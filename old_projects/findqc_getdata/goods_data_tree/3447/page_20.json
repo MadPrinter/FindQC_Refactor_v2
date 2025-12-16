@@ -1,0 +1,355 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2891283",
+        "mallType": "WD",
+        "itemId": "7513670724",
+        "title": "S high quality set of clothes",
+        "picUrl": "https://si.geilicdn.com/open1875731045-1234478995-261900000191e64a3acc0a8115b5_1200_1200.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1825375933",
+          "name": "MVP2",
+          "logo": "https://si.geilicdn.com/shopedit1962441348-45990000019a492195da0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2818306",
+        "mallType": "T1688",
+        "itemId": "820040256703",
+        "title": "Foreign Trade American Trendy Brand Cotton Flower High Quality Foam Hoodie High Street Loose Men's and Women's Same Style",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KvldRa1jXcM6I8kGe_!!2217537894558-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoHYZ1sOqvaOlDk5pw4Espw",
+          "name": "广州潮玛贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2296841",
+        "mallType": "T1688",
+        "itemId": "933488419357",
+        "title": "25 Years of Spring & Fall Sports Hooded Pullover Sweatshirt Men's Casual Sweatshirt Hooded Jacket Reflective Pants Sweatpants Suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mQewgs1Ff0F8jdQVh_!!2218756520513-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9Cxbj_y1A7uGxVPX4opN8g",
+          "name": "莆田市秀屿区魔术师服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2262268",
+        "mallType": "WD",
+        "itemId": "7362278015",
+        "title": "Trendy Suit Casual Loose",
+        "picUrl": "https://si.geilicdn.com/weidian1842655961-382f000001945f6376820a23041a_530_593.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1636257433",
+          "name": "Summer",
+          "logo": "https://si.geilicdn.com/weidian1842655961-079600000190d3f30c290a20e284_656_656.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1946282",
+        "mallType": "WD",
+        "itemId": "7261196028",
+        "title": "REP hoodie top and bottom curved 15B",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-3f84000001915542d6c90a23038e_465_465.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2846786",
+        "mallType": "WD",
+        "itemId": "7514627544",
+        "title": "Exclusive Version ~ Scandinavian Niche style a Retro Vintage letter 1996 Print Loose Hooded Sweatshirt Men's and Women's Couple Styles",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-33c300000198311800150aa0c791_2208_2204.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785790109",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2846442",
+        "mallType": "T1688",
+        "itemId": "947581542610",
+        "title": "25 new chrome Hearts Chrome Jupiter Sweatshirt Cross Horseshoe Couple Hooded Sweatshirt Factory Wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FNlqsr1uVkUoLo8ki_!!2219154146043-0-cib.jpg",
+        "price": "¥34.20",
+        "toPrice": "$5.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219154146043",
+          "name": "上饶市铭晔服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1242343",
+        "mallType": "T1688",
+        "itemId": "848931350247",
+        "title": "European and American Foreign Trade Cross-border Sweater Graffiti Printed Pattern Long Sleeve Pullover Hoodie Sweater Jacket Fashion Wear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01iUatCn1f6MIZI23qW_!!2215611623957-0-cib.jpg",
+        "price": "¥44.00",
+        "toPrice": "$6.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBjZiJbPrgEFCrCzpOnXcbtg",
+          "name": "中山市东凤镇捷枫服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 145,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "524353",
+        "mallType": "WD",
+        "itemId": "5693529390",
+        "title": "(In stock) Self owned BAL22FW Paris show style, made old, dirty, war horse mud dyed, national flag embroidered coat, pink in stock for comparison ⚠️  Ready to ship! goods in stock!",
+        "picUrl": "https://si.geilicdn.com/wdseller1350023534-0e8d00000183f10ce7210a20e2c5_750_1014.jpg",
+        "price": "¥255.00",
+        "toPrice": "$40.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1350023534",
+          "name": "需要钱不是朋友club",
+          "logo": "https://si.geilicdn.com/wdseller1350023534-5e2b00000174c4b0d04c0a217216_959_959.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346458",
+        "mallType": "WD",
+        "itemId": "7258860411",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4salp22_qirl.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346450",
+        "mallType": "WD",
+        "itemId": "7305713002",
+        "title": "****",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4salpqo_2ce7.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1579286",
+        "mallType": "WD",
+        "itemId": "7351659945",
+        "title": "Zipper Hooded Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1737717861-1838589072-4a3c0000019445499f090a239383_800_800.jpg",
+        "price": "¥194.00",
+        "toPrice": "$30.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1737717861",
+          "name": "GoodPants",
+          "logo": "https://si.geilicdn.com/wdseller1886572652-2da700000191924b24510a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1556681",
+        "mallType": "TB",
+        "itemId": "848035839580",
+        "title": "Design sense, millennial style, street art, American style, destructive subculture, gender neutral, oversized hooded sweatshirt\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2208782615098/O1CN01q59cCy1nWw96APQhM_!!2208782615098.jpg",
+        "price": "¥173.83",
+        "toPrice": "$27.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "509005392",
+          "name": "棱镜",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1947788",
+        "mallType": "WD",
+        "itemId": "7253026075",
+        "title": "Fashion hoodie R",
+        "picUrl": "https://si.geilicdn.com/wdseller1839310519-2a6100000190ef6adb390a239646_1200_1200.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1655154201",
+          "name": "CNTOP",
+          "logo": "https://si.geilicdn.com/wdseller1839310519-043200000190f88352a40a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1419842",
+        "mallType": "T1688",
+        "itemId": "887807268859",
+        "title": "2025 new fashion trend sweater Europe and the United States temperament loose cool with hair padded y2k Spice Girls long-sleeved sweater",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000005969/O1CN01e7yOja1txr6N6qmBt_!!6000000005969-0-tbvideo.jpg",
+        "price": "¥58.80",
+        "toPrice": "$9.25",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1853674",
+        "mallType": "T1688",
+        "itemId": "950244334810",
+        "title": "SYNAWORLD NEOPRENE HOOD BLACK Back Embossed Black Hooded Jacket Men's Hipster Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Yub5yZ2CEUevsNiNj_!!2220184678442-0-cib.jpg",
+        "price": "¥161.00",
+        "toPrice": "$25.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220184678442",
+          "name": "信宜市芷安雅服装店(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "879397",
+        "mallType": "T1688",
+        "itemId": "830594054668",
+        "title": "Spring and Autumn new Europe and the United States tide solid color compass sleeve label sweater men and women with the same paragraph loose long-sleeved one piece of hair!",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oZ8GYa24Rl7QeDOtD_!!2216895477388-0-cib.jpg",
+        "price": "¥86.55",
+        "toPrice": "$13.61",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2632646",
+        "mallType": "WD",
+        "itemId": "7563531428",
+        "title": "Trendy casual suit 44",
+        "picUrl": "https://si.geilicdn.com/open1783698133-1234478995-7d2b000001998e41c5610a8115c2_704_704.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863333901",
+          "name": "PalmPulse",
+          "logo": "https://si.geilicdn.com/shopedit1918516420-5d0600000195b6f07bfb0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2269805",
+        "mallType": "WD",
+        "itemId": "7285295692",
+        "title": "Knit Sweater Classic Round Neck Big Heart Jacquard Pullover Sweater Loose Slouchy Feeling Casual Couple's Clothing-CY",
+        "picUrl": "https://si.geilicdn.com/pcitem1874236696-0801000001930951e2c70a2315ef_1231_1232.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1685879877",
+          "name": "ZTXCY",
+          "logo": "https://si.geilicdn.com/pcdecorate901948054128-555f00000198177aa6c30a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114155275249876857",
+  "language": "en"
+}

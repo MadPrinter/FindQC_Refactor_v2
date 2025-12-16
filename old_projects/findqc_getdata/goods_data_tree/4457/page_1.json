@@ -1,0 +1,510 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2182743",
+        "mallType": "T1688",
+        "itemId": "814548367109",
+        "title": "Color bubble bag black co-extruded bubble bag pearl film foam express bag clothing packaging packaging materials wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250822/melzmfa0_sovw.jpg",
+        "price": "¥0.09",
+        "toPrice": "$0.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB08SHyK1wflDHxmxo9GO-yg",
+          "name": "东莞市凤岗思楠包装材料厂",
+          "type": "T1688"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2027512",
+        "mallType": "T1688",
+        "itemId": "673348291348",
+        "title": "Bubble Bags colorful thickened 140 grams of self-adhesive bags courier bags packaging bags bubble bags packing self-sealing bags bubble bags",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XybU9b1gteGr20VZs_!!2542744200-0-cib.jpg",
+        "price": "¥0.10",
+        "toPrice": "$0.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2542744200",
+          "name": "深圳市天泽包装制品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2244021",
+        "mallType": "T1688",
+        "itemId": "855128021887",
+        "title": "Composite pearl film bubble bags foam bubble bags express packing self-adhesive bags thickened bubble bags packaging bags wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01b3DLeT1jxGSV3yFfA_!!2071164614-0-cib.jpg",
+        "price": "¥0.05",
+        "toPrice": "$0.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217960640030",
+          "name": "杭州一路发严选电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2142790",
+        "mallType": "T1688",
+        "itemId": "827767431588",
+        "title": "Spot high-grade square orange gift box empty box premium sense belt gift box heaven and earth cover packaging box box box",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01maEMj71uGdL3f7qNh_!!2218386056010-0-cib.jpg",
+        "price": "¥1.30",
+        "toPrice": "$0.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218386056010",
+          "name": "广州华锦包装制品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2073813",
+        "mallType": "T1688",
+        "itemId": "961430263662",
+        "title": "High-value courier bags clothing bags thickened white English printing bags clothing waterproof packaging bags wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013qsXh01JAYORc9io3_!!2215616310988-0-cib.jpg",
+        "price": "¥0.15",
+        "toPrice": "$0.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215616310988",
+          "name": "中山市心适文化用品商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1923295",
+        "mallType": "T1688",
+        "itemId": "666657946709",
+        "title": "Thickened black matte co-extruded film bubble bags wholesale clothing food packing foam packaging bags express envelope bags",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sQx4SR1CLM9YR6dkW_!!2206479190064-0-cib.jpg",
+        "price": "¥0.12",
+        "toPrice": "$0.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206479190064",
+          "name": "东阳市丽伟包装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1923288",
+        "mallType": "T1688",
+        "itemId": "597332029123",
+        "title": "Black co-extruded film bubble envelope bags foam bags clothing packing book packaging shockproof waterproof composite courier bags",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VBEWaR1TgjyeIyXAR_!!995692412-0-cib.jpg",
+        "price": "¥16.80",
+        "toPrice": "$2.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "995692412",
+          "name": "常州市肯特塑料包装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1412336",
+        "mallType": "TB",
+        "itemId": "899607608401",
+        "title": "Packaging Bag ins Style High-Looking Macaron Packaging Bubble Bag Guka Card Holder Bubble Wrap Thickeneded Foam Bubble Bag",
+        "picUrl": "https://cdn.findqc.com/item/20250609/mboelr63_piz0.jpg",
+        "price": "¥1.99",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "359092156",
+          "name": "小柴柴的杂货铺",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2581070",
+        "mallType": "T1688",
+        "itemId": "735561635628",
+        "title": "Manufacturer's colored express bubble bag, self-adhesive bag, rectangular logistics express packaging, thickened shock-absorbing bubble bag",
+        "picUrl": "https://cdn.findqc.com/item/20251002/mg8olu46_w871.jpg",
+        "price": "¥0.08",
+        "toPrice": "$0.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216341399422",
+          "name": "金华市惠悠包装材料有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1792336",
+        "mallType": "T1688",
+        "itemId": "601613131029",
+        "title": "Logistics Package Bag, custom supplier, envelope bag",
+        "picUrl": "https://cdn.findqc.com/item/20250724/mdgsk3aa_7mbo.jpg",
+        "price": "¥0.07",
+        "toPrice": "$0.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "936823377",
+          "name": "深圳市创信包装材料科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1467343",
+        "mallType": "TB",
+        "itemId": "643756769950",
+        "title": "Thickened white express bag customized for e-commerce logistics, new material packaging bag, waterproof self-adhesive bag packaging bag",
+        "picUrl": "https://cdn.findqc.com/item/20250606/mbkbplzt_f0ax.jpg",
+        "price": "¥8.80",
+        "toPrice": "$1.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "498057824",
+          "name": "共挤旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "61266",
+        "mallType": "TB",
+        "itemId": "586123747829",
+        "title": "Buckwheat Pillowcase Pillow Insert Cover Home Textile Double Zipper Pure Cotton Baby Thickened Pillowcase Shaped Empty Pillow Cover",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mip82w_goh5.jpg",
+        "price": "¥11.31",
+        "toPrice": "$1.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63254073",
+          "name": "荞语家纺店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "49152",
+        "mallType": "T1688",
+        "itemId": "719257049970",
+        "title": "Color Bubble Bags Nude Pink Co-Extruded Film Bubble Envelope Clothing Packaging Bubble Foam Bags Express Packing Bags",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgi1cd_sino.jpg",
+        "price": "¥0.12",
+        "toPrice": "$0.02",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "14818",
+        "mallType": "T1688",
+        "itemId": "653310468622",
+        "title": "Factory bubble envelopes bubble packaging courier bags yellow packing kraft bubble bags foam envelope bags",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3md23gi_2xxx.jpg",
+        "price": "¥0.08",
+        "toPrice": "$0.01",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114616678249878516",
+  "language": "en"
+}

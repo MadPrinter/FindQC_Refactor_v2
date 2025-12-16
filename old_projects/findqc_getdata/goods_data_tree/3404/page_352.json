@@ -1,0 +1,382 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2035796",
+        "mallType": "WD",
+        "itemId": "7497597121",
+        "title": "**",
+        "picUrl": "https://si.geilicdn.com/pcitem1810691551-221900000191877e9cc50a81347d_1000_1000.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2017971",
+        "mallType": "T1688",
+        "itemId": "831001958812",
+        "title": "High version of the heavy B Paris tape printing washed and worn old hooded sweatshirt loose hoodie couple tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016wqv9j1sywQZRMT6Y_!!2217696985836-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217696985836",
+          "name": "广州跃广潮服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2017688",
+        "mallType": "TB",
+        "itemId": "853647911045",
+        "title": "[Clearance collection - long-sleeved] aspiring UZIS long-sleeved T-shirt men's spring and fall casual loose shooting clothes bottoming shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2207237977456/O1CN01R1EnVl24wu4mAYuu6_!!4611686018427385200-0-item_pic.jpg",
+        "price": "¥59.90",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "361712553",
+          "name": "UZIS有志者旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2013457",
+        "mallType": "TB",
+        "itemId": "740772668893",
+        "title": "NIKE Nike fall new men's loose casual daily versatile pullover sweater gray CZ7858-063",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1600687454/O1CN01UCiiqe24vzM5bZPX0_!!1600687454.jpg",
+        "price": "¥344.00",
+        "toPrice": "$54.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102411985",
+          "name": "胜道官方旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2014139",
+        "mallType": "T1688",
+        "itemId": "819948790577",
+        "title": "American hip-hop trend casual men's and women's models hoodie letters star print loose fashion zipper couple sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oVWvWL2FFoYQPeRFT_!!2214146128851-0-cib.jpg",
+        "price": "¥39.68",
+        "toPrice": "$6.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214146128851",
+          "name": "中山市创纪电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2814274",
+        "mallType": "T1688",
+        "itemId": "982871644149",
+        "title": "One piece dropshipping 25SS D home high version autumn and winter new item double-sided hooded zipper knitted cardigan unisex",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh9bfxs9_1qjz.jpg",
+        "price": "¥253.00",
+        "toPrice": "$39.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGoa8v-YYIcMl1wD_nLgzcg",
+          "name": "福鼎市噗噗谷社动漫工作室",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2813448",
+        "mallType": "T1688",
+        "itemId": "839261287178",
+        "title": "2022 SS Hooded Hoodie Black Letter Plush FOG Double Line ESSENTIALS Trendy Brand Cross border Hot Sale 1977",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh9bemmf_vn5y.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBE4BLjEkACL_B47dxlIjutQ",
+          "name": "上饶市默腾电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2810117",
+        "mallType": "WD",
+        "itemId": "7567053742",
+        "title": "Cardigan zipper jacket, simple embroidery, men's and women's couple outfit, ba",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh994pxs_fbj7.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867150125",
+          "name": "善解人衣",
+          "logo": "https://si.geilicdn.com/shopedit1934672132-3e660000019a3bc4d19a0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2418584",
+        "mallType": "WD",
+        "itemId": "7325688003",
+        "title": "AML Hoodie Special Offer",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh96p43d_u2yt.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614741273",
+          "name": "SH—Clothes",
+          "logo": "https://si.geilicdn.com/wdseller1841091927-46b100000190b54906100a210349_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "805416",
+        "mallType": "T1688",
+        "itemId": "878767205573",
+        "title": "RL Ralph Pony Mark Vintage Couples Sweat Women's Long Sleeve Sweat Men's Polo Half Zipper Lapel Loose American Style",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8xqene_twyv.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPTlCuwZ4wbWBHCaBDEBzaQ",
+          "name": "深圳市南山区奕骏服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2495262",
+        "mallType": "WD",
+        "itemId": "7544309841",
+        "title": "ZXFZSYDT - High cost-effective fashion new set -25-AGT - Non quality issues do not support returns",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgwzrys7_sg82.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1727550549",
+          "name": "WuKongFANS（8000+item）",
+          "logo": "https://si.geilicdn.com/shopedit1978030695-2dd8000001991951b2af0a231177-unadjust_729_729.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "334479",
+        "mallType": "TB",
+        "itemId": "701992946747",
+        "title": "Authentic Nike Men's Classic Sports and Leisure with Velvet Breathable Warm Round Neck Hoodie Long Sleeve Sweatshirt 623459",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4l3k55c_0vhj.jpg",
+        "price": "¥101.71",
+        "toPrice": "$15.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "593134696",
+          "name": "老井运动 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2490961",
+        "mallType": "WD",
+        "itemId": "7535371939",
+        "title": "Jj04 Factory Double Line Wholesale New Chest LOGO Pressure Adhesive Hoodie FOG Essentials",
+        "picUrl": "https://cdn.findqc.com/item/20251016/mgt67q0l_831h.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1797544749",
+          "name": "Luxeshop",
+          "logo": "https://si.geilicdn.com/wdseller1934723629-2e8c000001959a3555d30a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 2,
+        "picWidth": "1200",
+        "picHeight": "1200"
+      },
+      {
+        "id": "1549585",
+        "mallType": "T1688",
+        "itemId": "752297054574",
+        "title": "Foreign trade autumn and winter new fashion brand men and women couple CP glasses round lens pullover casual sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250627/mcdytk6r_cmhf.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBvmMqo19MJ2aq98pqoth8w",
+          "name": "广州思成跨境贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2490617",
+        "mallType": "WD",
+        "itemId": "7528356433",
+        "title": "2025 New ERD Melancholy Rich Second Generation Washed Water Used Letter Hole Printed Men's and Women's Oversize Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8sjwit_1yky.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828584609",
+          "name": "绅士驿站",
+          "logo": "https://si.geilicdn.com/shopedit1771671367-3b9e000001997be6eb7f0a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2138956",
+        "mallType": "WD",
+        "itemId": "7495500521",
+        "title": "Co branded football jacket, casual, simple, fashionable, zipper high neck jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8nl25l_oiad.jpg",
+        "price": "¥328.00",
+        "toPrice": "$51.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1853693293",
+          "name": "AT66 Studio",
+          "logo": "https://si.geilicdn.com/wdseller1940495825-5a5e00000196b44f0c400a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1861153",
+        "mallType": "T1688",
+        "itemId": "684112668847",
+        "title": "Gallery Dept 22SS ClaSSic Letter Print Drawstring Loose Pullover Hooded Sweatshirt Hoodie for Men and Women Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250727/mdktbdrh_gv4c.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaOFQMLMF7Te_orwneOvShg",
+          "name": "深圳市仁创聚源电子有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "185325",
+        "mallType": "T1688",
+        "itemId": "744051079434",
+        "title": "Alcatraz Windbreaker Color-block Embroidery",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mro5kw_8nug.jpg",
+        "price": "¥46.00",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkTGoyLtU-1ddTNDHhd4pGA",
+          "name": "深圳市宝安区英伦酷童针织制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 293,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2725817",
+        "mallType": "T1688",
+        "itemId": "971188471417",
+        "title": "Fog复线Essentials潮牌宁波跨境原厂宽松金属反光SS25款连帽卫衣",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mh06e1o6_4d0x.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_nD2u8Q54y1Sk8-_X7PGoQ",
+          "name": "宁波市创衣服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2400831",
+        "mallType": "WD",
+        "itemId": "7541566674",
+        "title": "Embroidered letter knitted sweatpants for men's sports leggings",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mh08qgse_zk3n.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1760924864",
+          "name": "易特购",
+          "logo": "https://si.geilicdn.com/weidian1417752191-594c000001968d5e50440a210256_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114611749249871370",
+  "language": "en"
+}

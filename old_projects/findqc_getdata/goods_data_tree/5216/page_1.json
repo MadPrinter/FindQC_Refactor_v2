@@ -1,0 +1,366 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2210764",
+        "mallType": "T1688",
+        "itemId": "779135767914",
+        "title": "Razer Razer the same Razer gaming chair flat alternative to the Internet cafe lunch break office chair computer chair student electric hotel",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01v6iQId1ZYrBDYqeMt_!!2217593423207-0-cib.jpg",
+        "price": "¥520.00",
+        "toPrice": "$81.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217593423207",
+          "name": "安吉象往家具厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2800100",
+        "mallType": "T1688",
+        "itemId": "842168434845",
+        "title": "Computer chair, home adjustable gaming chair, gaming chair, dormitory chair, comfortable backrest, reclining office chair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010SpIqF1ZYrHI32iS7_!!2217593423207-0-cib.jpg",
+        "price": "¥520.00",
+        "toPrice": "$81.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWVtu6EIlkDTJjwVCDZQauA",
+          "name": "安吉象往家具厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900812",
+        "mallType": "TB",
+        "itemId": "948643596520",
+        "title": "Comfortable sitting computer chair, ergonomic chair for home use, student gaming chair, bedroom chair, backrest chair, office chair",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk3pjvl_2d0u.jpg",
+        "price": "¥83.18",
+        "toPrice": "$13.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102958821",
+          "name": "天益美时尚家居",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1432234",
+        "mallType": "T1688",
+        "itemId": "831981760368",
+        "title": "Razer Razor Wind God X Gaming Chair iskur Ergonomic Plus XL Comfortable Office Computer Gaming Chair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xOloYy1Bs313ThQrt_!!0-0-cib.jpg",
+        "price": "¥560.34",
+        "toPrice": "$88.11",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1406435",
+        "mallType": "T1688",
+        "itemId": "853175714403",
+        "title": "secret lab e-sports chair e-sports chair home gaming chair internet cafe e-sports chair game chair manufacturers",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01r3rTAp1ZYrCEYgOox_!!2217593423207-0-cib.jpg",
+        "price": "¥630.00",
+        "toPrice": "$99.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWVtu6EIlkDTJjwVCDZQauA",
+          "name": "安吉象往家具厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4091",
+        "mallType": "TB",
+        "itemId": "705833594755",
+        "title": "Lift armrest gaming chair male gaming chair girls computer chair home comfort ergonomic chair can lie dormitory",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3npp1_t2j9.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021148327481913291238",
+  "language": "en"
+}

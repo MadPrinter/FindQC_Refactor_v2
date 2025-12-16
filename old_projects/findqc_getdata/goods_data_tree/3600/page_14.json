@@ -1,0 +1,383 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3017989",
+        "mallType": "WD",
+        "itemId": "7571277846",
+        "title": "【DX6-21】冬季立领针织拼接羽绒服",
+        "picUrl": "https://si.geilicdn.com/pcitem901940024420-1bac000001994b5e24d80a2315ef_800_800.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1792514835",
+          "name": "牛的频道",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3041019",
+        "mallType": "WD",
+        "itemId": "7601237617",
+        "title": "爆款冬季棉服同款面包鸟新款户外男女百搭时尚情侣新款加厚",
+        "picUrl": "https://si.geilicdn.com/wdseller1829169095-74180000019a73ad9a440a210139_1200_1200.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710883753",
+          "name": "Good times",
+          "logo": "https://si.geilicdn.com/wdseller1829169095-009400000194488b8c430a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3013637",
+        "mallType": "T1688",
+        "itemId": "853723603280",
+        "title": "Nk Winter Cotton Jacket, Ultra-Thick, Popular Model, Wear-Resistant, Outdoor Sports and Leisure, Cold-Resistant, Warm, Hooded Cotton Coat, Men's Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IG2ky41fHo8yczBkp_!!2217944203982-0-cib.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBL5v32zUHbjeiIVgeWMoiLA",
+          "name": "石狮市豪天豹服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2835915",
+        "mallType": "WD",
+        "itemId": "7283278489",
+        "title": "New Byronf Down Jacket High quality 1:1 original premium material fleece.",
+        "picUrl": "https://si.geilicdn.com/pcitem1430233713-44a1000001926a2137c40a20e2c5_1080_1080.jpg",
+        "price": "¥749.00",
+        "toPrice": "$117.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769282016",
+          "name": "NE",
+          "logo": "https://si.geilicdn.com/weidian1430233713-74f80000019868b9d12a0a2395e5_1112_1112.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "490079",
+        "mallType": "WD",
+        "itemId": "7254274589",
+        "title": "20240729 men hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1868424702-0d2700000190fd47a0420a811411_1066_1066.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1741590021",
+          "name": "PPP78",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3057190",
+        "mallType": "WD",
+        "itemId": "7596688897",
+        "title": "最新款M Vezere羽绒服 1:1 Use 95% White Duck Down",
+        "picUrl": "https://si.geilicdn.com/wdseller901881569860-12340000019a5e094ed60a20e672_1080_1080.jpg",
+        "price": "¥800.00",
+        "toPrice": "$125.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1851935678",
+          "name": "Original-RY Store",
+          "logo": "https://si.geilicdn.com/wdseller901881569860-099b000001921eaa0a4d0a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2681352",
+        "mallType": "WD",
+        "itemId": "7571938626",
+        "title": "Hooded cotton jacket p 299 yuan",
+        "picUrl": "https://si.geilicdn.com/pcitem1871517964-6aa100000199d6fb559e0a2315ef_1440_1440.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1796597381",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1987710",
+        "mallType": "WD",
+        "itemId": "7515337259",
+        "title": "Outdoor cold proof and warm sports down jacket for ponies",
+        "picUrl": "https://si.geilicdn.com/open1721326893-1234478995-0aee00000198522cd52c0a8115c2-unadjust_600_613.png",
+        "price": "¥458.00",
+        "toPrice": "$72.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1721326893",
+          "name": "gooooooo",
+          "logo": "https://si.geilicdn.com/shopedit1934547647-1ec6000001985bbfc4cc0a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2868671",
+        "mallType": "WD",
+        "itemId": "7581845599",
+        "title": "Versatile Knitted Down Cotton Jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem901933841948-4c8800000199d6a8c2780a210256_1200_1200.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1777327485",
+          "name": "BTC 001",
+          "logo": "https://si.geilicdn.com/shopedit1966423484-06c900000197a521e8e90a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "489332",
+        "mallType": "T1688",
+        "itemId": "851180910562",
+        "title": "IMO GRAILZ American high street irregular splicing three-color design zipper hooded cotton jacket thickened jacket men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lDcekg1Bs30ugosjT_!!0-0-cib.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2622474",
+        "mallType": "WD",
+        "itemId": "7568177882",
+        "title": "ab88-c Eyewear Hooded Sweatshirt WhatsApp+86 173 0597 0797",
+        "picUrl": "https://si.geilicdn.com/pcitem1982210581-7a31000001997fed3f980a2301b4_1280_1280.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1837904067",
+          "name": "Prime Source Global (PSG)",
+          "logo": "https://si.geilicdn.com/shopedit1979412545-33b7000001999a5c5e2f0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "598680",
+        "mallType": "WD",
+        "itemId": "7286415413",
+        "title": "JX-1 2024 Winter Classic Warm Down Jacket Cotton Jacket (TOP Quality)\n",
+        "picUrl": "https://si.geilicdn.com/pcitem1886196013-0c6c000001986a294a840a20e2c5_1200_1200.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863516261",
+          "name": "Trendy Buy",
+          "logo": "https://si.geilicdn.com/shopedit1886196013-3dad00000193e98aafee0a20e284-unadjust_743_743.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "284244",
+        "mallType": "TB",
+        "itemId": "749252657722",
+        "title": "Zz High Version Entire Studios Designer Brand Heavy Duty Functional Hooded down Jacket Gray Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241203/m48i4xos_s0ob.jpg",
+        "price": "¥675.78",
+        "toPrice": "$106.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "514557990",
+          "name": "今晚冲Miami",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2411689",
+        "mallType": "WD",
+        "itemId": "7406333269",
+        "title": "MayaDownJacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1885863995-67680000019489a26a640a23037f-unadjust_828_828.png",
+        "price": "¥550.00",
+        "toPrice": "$86.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828621965",
+          "name": "Trendy Fashion",
+          "logo": "https://si.geilicdn.com/wdseller1923357803-4fbc000001955bbfb10e0a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3190478",
+        "mallType": "WD",
+        "itemId": "7423912200",
+        "title": "MC高品质羽绒服-6002 NEW",
+        "picUrl": "https://si.geilicdn.com/open1764117581-1234478995-572d000001958ec6e5670a8133b0_1280_1280.jpg",
+        "price": "¥580.00",
+        "toPrice": "$91.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1764117581",
+          "name": "Cnbuy",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3190426",
+        "mallType": "WD",
+        "itemId": "7583348052",
+        "title": "正确版本M家23SS短款漆面尼龙面料面包羽绒服男女同款可拆卸帽子",
+        "picUrl": "https://si.geilicdn.com/open1622517075-1622517075-79300000019a1104197d0a231226_1067_1067.jpg",
+        "price": "¥565.00",
+        "toPrice": "$88.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622517075",
+          "name": "Janekrep",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-6d8b00000199f23ea2530a20e7c7-unadjust_1024_1024.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 337,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2883038",
+        "mallType": "WD",
+        "itemId": "7584709625",
+        "title": "2023 models of new thickened m mengjia down jacket female goose short khaki black bread clothing 95 white goose down",
+        "picUrl": "https://si.geilicdn.com/open1622517075-1622517075-7b930000019a271655340a23b4de_810_810.jpg",
+        "price": "¥515.00",
+        "toPrice": "$80.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622517075",
+          "name": "Janekrep",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-6d8b00000199f23ea2530a20e7c7-unadjust_1024_1024.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 123,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3169603",
+        "mallType": "WD",
+        "itemId": "7599783601",
+        "title": "EELT-MEN  KO 羽绒服WhatsApp+86 185 6795 5052",
+        "picUrl": "https://si.geilicdn.com/pcitem1952693057-50930000019a44359e360a20e672-unadjust_1200_1200.png",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1750419843",
+          "name": "PU TIAN  TOP",
+          "logo": "https://si.geilicdn.com/shopedit1975273092-62d0000001984bc3c0a90a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2597087",
+        "mallType": "T1688",
+        "itemId": "838668701724",
+        "title": "High version of the Monk's parana feather royal webbing zipper bread clothing hooded down jacket women's warm down jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NjxHm61jne7lhAjEU_!!2218468364593-0-cib.jpg",
+        "price": "¥430.00",
+        "toPrice": "$67.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218468364593",
+          "name": "中山市驰誉电子商务中心（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3064044",
+        "mallType": "WD",
+        "itemId": "7589608846",
+        "title": "羽绒服保暖外衣",
+        "picUrl": "https://si.geilicdn.com/pcitem1974017906-17b60000019a385695330a207569-unadjust_373_390.png",
+        "price": "¥550.00",
+        "toPrice": "$86.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1677677699",
+          "name": "CN Best Reps",
+          "logo": "https://si.geilicdn.com/pcdecorate1974017906-3e050000019a2dc7f5fe0a811411-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142479621916156936",
+  "language": "en"
+}

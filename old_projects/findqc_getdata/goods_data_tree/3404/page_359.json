@@ -1,0 +1,380 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2435072",
+        "mallType": "WD",
+        "itemId": "7522152345",
+        "title": "YY05- High quality hoodie for youth (contact WhatsApp:+85264813501, if you want a gift or need size recommendation.)",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgx0mur8_5w6l.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1705383997",
+          "name": "CoCo.",
+          "logo": "https://si.geilicdn.com/shopedit1958377763-5b1a00000196fc4cbf3e0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2774293",
+        "mallType": "WD",
+        "itemId": "7558467537",
+        "title": "L25299-N54",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh40r6zu_sl6c.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1775031533",
+          "name": "L3",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2772395",
+        "mallType": "TB",
+        "itemId": "809443792265",
+        "title": "Mrcyc Retro Embroidered Hooded Sweatshirt for Men, New Loose Cotton Top for Autumn, Korean Style Trendy Pullover Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh3y411j_p6kb.jpg",
+        "price": "¥99.22",
+        "toPrice": "$15.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34598363",
+          "name": "MRCYC 韩系男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2771834",
+        "mallType": "T1688",
+        "itemId": "891582190132",
+        "title": "【 Flame Letter Series 】 Foreign Trade Wholesale Gradient Logo Kirin Arm Hoodie Sweatshirt Couple Long Sleeve Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh3wqivr_bca7.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKzquMI6XU-9_cLfduaG21A",
+          "name": "广州昊忻国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2027297",
+        "mallType": "T1688",
+        "itemId": "935420875193",
+        "title": "Autumn and winter new European hoodie, casual and fashionable, shipped with loose embroidered lettering, hooded and velvet long sleeves in stock",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh3x5j8j_ltba.jpg",
+        "price": "¥83.00",
+        "toPrice": "$13.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxHSoEh4AfXNB-e30SB-cVQ",
+          "name": "广州利密服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 96,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2405467",
+        "mallType": "TB",
+        "itemId": "965377378199",
+        "title": "Detw 25Aw* Original Niche Washed and Distressed Skull 05 Casual Street Stand Collar Jacket for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh3vfwva_n8jd.jpg",
+        "price": "¥295.62",
+        "toPrice": "$46.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "207944051",
+          "name": "DETW OnLine",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1861037",
+        "mallType": "T1688",
+        "itemId": "943318842049",
+        "title": "2025SS hooded sweatshirt with black print at the front and back ESSENTIALS trendy cross-border Hoodie loose fitting men's and women's hats",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh3okz7i_za3z.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219740814733",
+          "name": "揭阳市揭东区新亨镇柏煌服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "184015",
+        "mallType": "WD",
+        "itemId": "7263010742",
+        "title": "REP hoodie with double curved top and bottom 15B",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mrm2gz_wf87.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "871469",
+        "mallType": "T1688",
+        "itemId": "831963325836",
+        "title": "[High Version] Cross-border Tide Brand BAPE Shark Ape Head Zipper Cardigan for Men and Women Couple Double Hat Sweater Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mh06dymt_4sbp.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSFv0WI5og8X_1Ldigo2B-A",
+          "name": "揭西县棉湖嬉皮猴日用百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "247470",
+        "mallType": "T1688",
+        "itemId": "833608196803",
+        "title": "GALLERY DEPT Hoodie Cross-border Trendy Classic Hoodie Cotton Loose Hooded Sweater for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p9ycn_oi49.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfi7ukfPqVXkepDSPyum-pg",
+          "name": "深圳市龙华区至圣博莉服饰贸易行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 524,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2735334",
+        "mallType": "T1688",
+        "itemId": "982728244832",
+        "title": "拉夫RL拉链连帽卫衣春秋款小马刺绣卫衣批发外套保罗男装批发外套",
+        "picUrl": "https://cdn.findqc.com/item/20251023/mh2u1e05_5yx3.jpg",
+        "price": "¥34.50",
+        "toPrice": "$5.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoHpTluhVuis-4xxzg2kwnQ",
+          "name": "义乌市佳醪电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "112",
+        "mallType": "TB",
+        "itemId": "678349425250",
+        "title": "European and American High Street Autumn and Winter Blue and Red Towel Embroidered Hoodie Loose Casual Pants",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m24pzn_6rrr.jpg",
+        "price": "¥92.61",
+        "toPrice": "$14.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34412871",
+          "name": "高街风工作室",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 224,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2451338",
+        "mallType": "T1688",
+        "itemId": "970335026762",
+        "title": "跨境 Lac 鳄 英伦风男士时尚立领纯色半拉链毛圈卫衣百搭男女上衣",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgwuvpjs_5tby.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEjYjUaXS49GkK9tZ6kZByg",
+          "name": "如皋市国良服装店",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1897406",
+        "mallType": "WD",
+        "itemId": "7400738381",
+        "title": "****",
+        "picUrl": "https://si.geilicdn.com/open1841026309-252808396-52740000019262b28d580a8133b5_1920_1920.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897618",
+        "mallType": "TB",
+        "itemId": "844179771337",
+        "title": "Syna World Tracksuit American Tide High Street Fall and Winter Padded Sports Casual Hooded Sweatshirt Long Pants Set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1602154797/O1CN01m7zxV11lJ4vZCi87L_!!1602154797.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102659967",
+          "name": "小众街头潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897616",
+        "mallType": "TB",
+        "itemId": "761210139292",
+        "title": "Syna World tracksuit casual suit fall and winter padded hooded sweatshirt Drill pants sweatpants tide",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2075710764/O1CN01PjXxiS1HVxVb4EZBm_!!2075710764.jpg",
+        "price": "¥255.00",
+        "toPrice": "$40.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1896186",
+        "mallType": "WD",
+        "itemId": "7493200454",
+        "title": "High quality versatile classic sweater",
+        "picUrl": "https://si.geilicdn.com/pcitem1956331466-10340000019772928b600a20e284_800_800.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699116765",
+          "name": "Aurora",
+          "logo": "https://si.geilicdn.com/weidian1956331466-32c4000001989b50140c0a81347d_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895656",
+        "mallType": "WD",
+        "itemId": "7516843134",
+        "title": "DREWHoodie letter print men's and women's loose jacket casual hooded sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1801180035-1234478995-6dae00000198472ec2090aa0c791_1920_1920.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897859",
+        "mallType": "WD",
+        "itemId": "7438380630",
+        "title": "7438380630",
+        "picUrl": "https://si.geilicdn.com/open1791080881-252808396-46c900000190e958ec0d0a22d234_800_800.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1898207",
+        "mallType": "WD",
+        "itemId": "7256633568",
+        "title": "ins Hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1583119416-3af7000001910dfc0c000a8134f0_800_800.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873865058",
+          "name": "小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146174281913291005",
+  "language": "en"
+}

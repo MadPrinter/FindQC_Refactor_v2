@@ -1,0 +1,485 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2195581",
+        "mallType": "WD",
+        "itemId": "7473196772",
+        "title": "DX116-1] hip-hop retro men's pants street summer casual straight pants Europe and the United States printed elastic unisex pants",
+        "picUrl": "https://si.geilicdn.com/open1667032845-252808396-69a800000196e8cb1a910a8133b0_800_800.jpg",
+        "price": "¥66.40",
+        "toPrice": "$10.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667032845",
+          "name": "超级牛",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424514-4cfb00000195e79975270a81347d-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2011606",
+        "mallType": "WD",
+        "itemId": "7428273693",
+        "title": "American Unique Slim Fit Men's Underwear-004",
+        "picUrl": "https://si.geilicdn.com/pcitem901940565611-18ce00000195ad21105f0a2395d6_1200_1200.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1762095445",
+          "name": "51shopy",
+          "logo": "https://si.geilicdn.com/shopedit1900430523-238f00000195dc2791630a2395a3-unadjust_130_130.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2894234",
+        "mallType": "WD",
+        "itemId": "7318043627",
+        "title": "RHUDE Retro American High Street Trendy Brand Loose Sports Marlboro Two Color Splicing Stripe Five Point Shorts for Men",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjtx806_xtg2.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675642069",
+          "name": "潮男Usign",
+          "logo": "https://si.geilicdn.com/wdseller1902426280-4c2800000199721da1d90a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1512190",
+        "mallType": "T1688",
+        "itemId": "933418343667",
+        "title": "Beach Shorts 108",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014z8XAP1Qexz7n4vN2_!!2209882462002-0-cib.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "495399",
+        "mallType": "T1688",
+        "itemId": "726055759490",
+        "title": "[European and American Hot Item]Ethik Same Style a Underwear Men's Graffiti Shark Print Boxer Briefs Sports Boxer Briefs",
+        "picUrl": "https://cdn.findqc.com/item/20250806/mdza7vd3_s5lw.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBggwFVHTTlIiNBQ2Jk9seMw",
+          "name": "广州悦领科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "987618",
+        "mallType": "T1688",
+        "itemId": "776606504869",
+        "title": "Cross border European and American trendy products with color gradient letter printing, loose men's swimsuits, high-end swimming trunks, casual beach pants",
+        "picUrl": "https://cdn.findqc.com/item/20250610/mbqgjult_wiuh.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBHPmouUFsTAHFSB46aPWGw",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 115,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "229303",
+        "mallType": "T1688",
+        "itemId": "692773563832",
+        "title": "2023 cross-border snacks digital printing boxers comfortable breathable boxer shorts wholesale new fashion men's underwear",
+        "picUrl": "https://cdn.findqc.com/item/20241122/m3sb6h44_bdos.jpg",
+        "price": "¥13.90",
+        "toPrice": "$2.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBMHVJGV2bG3nIppIDlyMXtg",
+          "name": "上饶市诚成服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56592",
+        "mallType": "TB",
+        "itemId": "742687662983",
+        "title": "Australian surfing brand sexy beach white versatile bikini pants single piece bikini women's swimsuit comfortable",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npsrqg_tr3a.jpg",
+        "price": "¥30.09",
+        "toPrice": "$4.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62576198",
+          "name": "miami beach",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "48525",
+        "mallType": "TB",
+        "itemId": "718987258470",
+        "title": "Sweden BJORN BORG Men's Super Fine Yarn Quick Dry Ice Cool Material Back Two Piece Sewing Medium High Waist Underwear Long Style",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgbsoo_xmp0.jpg",
+        "price": "¥15.80",
+        "toPrice": "$2.48",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32688",
+        "mallType": "T1688",
+        "itemId": "709273875691",
+        "title": "Hip hop brand American retro men's pants, street summer casual straight leg pants, European and American printed elastic unisex pants",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njuixf_5sy6.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214182664208",
+          "name": "广州旺升服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "27776",
+        "mallType": "WD",
+        "itemId": "7218935752",
+        "title": "RH Shorts White Solid Embroidered RH Letter RH102",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nishvm_fes8.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15550",
+        "mallType": "T1688",
+        "itemId": "787556195954",
+        "title": "Shark Mouth Printed Boys' Underwear Milk Silk Boys' Underwear Breathable Sweatproof Extra Long Sweatpants Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ndzv7i_06z7.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15042",
+        "mallType": "T1688",
+        "itemId": "805251871645",
+        "title": "One for sending Lulu men's colorful cotton underpants mid-waist solid color boxer briefs comfortable and breathable men's boxer briefs",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3md42qo_koau.jpg",
+        "price": "¥2.50",
+        "toPrice": "$0.39",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114332607137312365",
+  "language": "en"
+}

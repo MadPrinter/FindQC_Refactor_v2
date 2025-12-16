@@ -1,0 +1,316 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1389291",
+        "mallType": "WD",
+        "itemId": "7460128102",
+        "title": "FZL-0427077 Embroidered Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250523/mb0vdrpf_ayp1.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1387248",
+        "mallType": "TB",
+        "itemId": "924805623633",
+        "title": "Surfer Full Screen Printed Short Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250620/mc4k0u9c_h7qz.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107748732",
+          "name": "Singor2",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1387235",
+        "mallType": "WD",
+        "itemId": "7461153551",
+        "title": "Gradient printed short sleeve T-shirt for men and women Qixi lovers",
+        "picUrl": "https://cdn.findqc.com/item/20250709/mcvpfhdv_n9rp.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784065821",
+          "name": "light suit store",
+          "logo": "https://si.geilicdn.com/pccreshp1872449391-363a000001963f35e2fb0a2301b4_1024_1206.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1387151",
+        "mallType": "T1688",
+        "itemId": "914560665140",
+        "title": "25 Spring/Summer New NK Co branded Noc Men's Short Sleeve Hook Printed Letter Casual Sports Versatile Breathable 1727",
+        "picUrl": "https://cdn.findqc.com/item/20250623/mc8ahdqg_vofn.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386973",
+        "mallType": "TB",
+        "itemId": "711970392383",
+        "title": "Authentic Nike Nike Summer Men's Running Sports Training Fitness Quick-Drying Breathable Casual Short-Sleeved T-Shirt Aj7566",
+        "picUrl": "https://cdn.findqc.com/item/20250524/mb13l24x_oc3t.jpg",
+        "price": "¥103.06",
+        "toPrice": "$16.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "593134696",
+          "name": "老井运动 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 74,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1387083",
+        "mallType": "T1688",
+        "itemId": "860005675524",
+        "title": "2425 Real Madrid Fan Special Edition Football Suit Dragon Pattern Pink and White Training Suit Sports and Leisure Jersey Fan Edition",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcmflyr0_e2dn.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9q8obYwcu7nVH097xgIiZA",
+          "name": "广州随风运动服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386953",
+        "mallType": "WD",
+        "itemId": "7437321651",
+        "title": "(In stock) DR/SS25 handwriting hand cranked chain embroidery/heavyweight bamboo knot fabric/three-dimensional cutting/off white/washed navy blue short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250530/mbait63s_uf7a.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746841069",
+          "name": "DB MADE",
+          "logo": "https://si.geilicdn.com/wdseller1944535810-745400000195f589000e0a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386912",
+        "mallType": "WD",
+        "itemId": "7238079535",
+        "title": "ABling's self owned CELIN * blue printed T-shirt short sleeved shirt in stock",
+        "picUrl": "https://cdn.findqc.com/item/20250523/mb0z90i9_16ay.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1776460930",
+          "name": "ABling-1",
+          "logo": "https://si.geilicdn.com/wdseller1566917349-398d0000017b8ec1f97e0a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386632",
+        "mallType": "T1688",
+        "itemId": "902297293585",
+        "title": "Cross-border New HELL Beauty Trendy high quality Vintage Old T-shirt Loose Printed Short-sleeved T-shirt Couples Men and Women Same Style",
+        "picUrl": "https://cdn.findqc.com/item/20250618/mc2204un_smrd.jpg",
+        "price": "¥54.00",
+        "toPrice": "$8.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdkI5rAze1wlqP4cQ4sEvyg",
+          "name": "广州潮陈服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386595",
+        "mallType": "T1688",
+        "itemId": "920200609093",
+        "title": "American Style Fashion Brand 24SS Ducat Quick Dry Fabric Jersey Street BOX Short Milan Cross Crewneck Short Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250731/mdribnj3_siie.jpg",
+        "price": "¥55.50",
+        "toPrice": "$8.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBf8oM2yZc44xbXJuBuGOAfw",
+          "name": "广州市科恒实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 71,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386558",
+        "mallType": "T1688",
+        "itemId": "908230596439",
+        "title": "Correct Version F Home Short sleeved T-shirt 2025 Summer Trendy Brand Logo Printed Luxury Trendy Men's Trendy Brand",
+        "picUrl": "https://cdn.findqc.com/item/20250619/mc2knol4_fzda.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 160,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1386312",
+        "mallType": "T1688",
+        "itemId": "862903598546",
+        "title": "2025 Paris Spring/Summer New Basketball Collection Manchester United No.10 Shirt Short Sleeve T-shirt Ball Top Men's and Women's Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250522/mazgfvte_55kt.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1385383",
+        "mallType": "T1688",
+        "itemId": "898760782205",
+        "title": "AMI short sleeved macaron color small heart embroidery men's and women's pure cotton loose summer fashion T-shirt half sleeved round neck top",
+        "picUrl": "https://cdn.findqc.com/item/20250523/maznlbdw_xbte.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1383325",
+        "mallType": "WD",
+        "itemId": "7431406097",
+        "title": "(In stock) Self made 24ss black tape letter printed short sleeved shirt/Hand worn positioning damage/Xinjiang long staple cotton/Imported transparent adhesive/Water washed fading effect/3D three-dimensional cutting",
+        "picUrl": "https://cdn.findqc.com/item/20250613/mbtp6n5g_90v3.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1405292126",
+          "name": "杰尼龟",
+          "logo": "https://si.geilicdn.com/wdseller1405292126-7eda0000017c2d2f51a40a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1383293",
+        "mallType": "TB",
+        "itemId": "913516686292",
+        "title": "New casual short sleeved T-shirt for men and women in summer",
+        "picUrl": "https://cdn.findqc.com/item/20250626/mccn9urr_k0g4.jpg",
+        "price": "¥35.50",
+        "toPrice": "$5.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "368078392",
+          "name": "Department   Store",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1382356",
+        "mallType": "TB",
+        "itemId": "893486859595",
+        "title": "American-Style Campus Emblem English Printed Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250521/max34tu3_anbf.jpg",
+        "price": "¥112.96",
+        "toPrice": "$17.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "592054163",
+          "name": "Singor3",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1382302",
+        "mallType": "T1688",
+        "itemId": "848729417600",
+        "title": "Men's Designer Pure Cotton T-shirt with A Super Large Printe",
+        "picUrl": "https://cdn.findqc.com/item/20250521/mawv568b_gtw9.jpg",
+        "price": "¥20.90",
+        "toPrice": "$3.29",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1382189",
+        "mallType": "TB",
+        "itemId": "779028932798",
+        "title": "Nike/Nike Men's Summer Sports Running Training Speed Dry Breathable Round Neck Short Sleeve T-shirt AJ7566-010",
+        "picUrl": "https://cdn.findqc.com/item/20250522/mayrbvo3_kxwr.jpg",
+        "price": "¥102.00",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "119574223",
+          "name": "秃驴体育 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148488221917132814",
+  "language": "en"
+}

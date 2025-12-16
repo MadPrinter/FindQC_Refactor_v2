@@ -1,0 +1,311 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "182572",
+        "mallType": "WD",
+        "itemId": "7241219941",
+        "title": "Real Madrid+Barcelona",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr4swr_b83m.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834819569",
+          "name": "Digital store",
+          "logo": "https://si.geilicdn.com/pcdecorate1807659364-17c200000190168472c60a23038e-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182370",
+        "mallType": "TB",
+        "itemId": "824235245240",
+        "title": "24-25 Guo Mi Home Player Edition Advertising Edition Jersey Inter Milan Football Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr363i_uym1.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "566835888",
+          "name": "博邦体育",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182038",
+        "mallType": "T1688",
+        "itemId": "724153287886",
+        "title": "2024 UEFA European Championship series football jersey, national team jersey, player version, Germany, Argentina, United States team, England",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqz9ao_shrm.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "181101",
+        "mallType": "WD",
+        "itemId": "7251224733",
+        "title": "Fashion Trend Celebrity Jersey 004",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqpick_0md5.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659908729",
+          "name": "goodboy-2",
+          "logo": "https://si.geilicdn.com/shopedit1860731751-23de0000019107de32bc0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "181100",
+        "mallType": "WD",
+        "itemId": "7252246310",
+        "title": "Fashion Trend Celebrity Jersey 003",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqphx1_6tf3.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659908729",
+          "name": "goodboy-2",
+          "logo": "https://si.geilicdn.com/shopedit1860731751-23de0000019107de32bc0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180483",
+        "mallType": "TB",
+        "itemId": "771572147204",
+        "title": "2024 New Season Beijing Guoan Fan Edition Jersey Chinese Super League Edition Fan Cheer Jersey Green Home Jersey",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqj0ut_epaa.jpg",
+        "price": "¥34.99",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180484",
+        "mallType": "TB",
+        "itemId": "779064640196",
+        "title": "2024新款浙江队球衣中超绿城足球服成人儿童套装短袖透气亲肤印号",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqj2e7_3jha.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180479",
+        "mallType": "TB",
+        "itemId": "708818962589",
+        "title": "23-24F1 Red Bull Racing Team Formula 1 round neck T-shirt long sleeve jacket sweater hooded jacket racing suit men",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqj0ut_xivk.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "378472324",
+          "name": "联盟运动服小店",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180267",
+        "mallType": "TB",
+        "itemId": "671489080489",
+        "title": "1998 World Cup Brazil jersey 98 Brazil national team 9 Ronaldo 10 Rivaldo soccer jersey",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqgk81_v57t.jpg",
+        "price": "¥79.90",
+        "toPrice": "$12.56",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179587",
+        "mallType": "WD",
+        "itemId": "7246566793",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqavti_q4oq.jpg",
+        "price": "¥187.00",
+        "toPrice": "$29.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735791321",
+          "name": "新丝路鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179513",
+        "mallType": "TB",
+        "itemId": "723390086819",
+        "title": "Miami jerseys Celtics training jerseys Colombia pre-game jerseys Algeria Bahia soccer jerseys",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqa53l_mycd.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113931731",
+          "name": "冲力体育用品店",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 177,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179446",
+        "mallType": "WD",
+        "itemId": "7285074219",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq9dpn_nt54.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873980137",
+          "name": "大迈服饰",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "173390",
+        "mallType": "TB",
+        "itemId": "629151826027",
+        "title": "Barcelona jersey 25-26 home and away Messiaen Mal Levante children's soccer training uniforms customized team uniforms printing",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq0p6q_0i4p.jpg",
+        "price": "¥54.90",
+        "toPrice": "$8.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117012300",
+          "name": "小苏铺球衣汇",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "173389",
+        "mallType": "TB",
+        "itemId": "649352857595",
+        "title": "2024 European Championship Spain national team jersey home Yamal Pedri children's football kit set",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq0p03_iaph.jpg",
+        "price": "¥54.90",
+        "toPrice": "$8.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117012300",
+          "name": "小苏铺球衣汇",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "165283",
+        "mallType": "T1688",
+        "itemId": "826656518061",
+        "title": "2425 season new Thai version of the jersey Inter Barcelona Arsenal AC Tottenham Hotspur Dortmund Lyon fans version of the shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpvxjk_n2k8.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 74,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "150381",
+        "mallType": "T1688",
+        "itemId": "802770790166",
+        "title": "2425 season European Cup national team children's football uniform suit men's game jersey Brazil Portugal Italy",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpnkyb_dptp.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_wfRyAEz1lCn8qNR7yDDig",
+          "name": "桂平市木乐镇准帝体育服装店",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 173,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "141373",
+        "mallType": "TB",
+        "itemId": "828665913393",
+        "title": "2012/13 Neymar Santos Home Jersey Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpkmdr_km0c.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "141363",
+        "mallType": "T1688",
+        "itemId": "817322609814",
+        "title": "2425 Real Madrid No. 9 Mbappe No. 5 Bellingham No. 7 Cristiano Ronaldo jersey home and away two game football jersey",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpkghr_be14.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217466590096",
+          "name": "深圳市宝安区吉鑫源服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 91,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145050192553928704",
+  "language": "en"
+}

@@ -1,0 +1,633 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1777272",
+        "mallType": "TB",
+        "itemId": "815221479689",
+        "title": "Men's Autumn and Winter New Hong Kong Style Casual Peplum Tops Plaid Textured Shirt Coat 9621422",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2212336833369/O1CN01lOjNbt1al3Ndpn6TU_!!2212336833369.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "525790634",
+          "name": "ZABA男装工厂店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206849",
+        "mallType": "TB",
+        "itemId": "991586642561",
+        "title": "Mowalola Leopard Print Distressed Fringe Baseball Jacket American Casual Heavy Zipper Coat Cotton Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3281198393/O1CN01N4TuBO2Bs3Hf7YtNa_!!3281198393.jpg",
+        "price": "¥273.69",
+        "toPrice": "$43.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "516774669",
+          "name": "回到洛杉矶",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3101745",
+        "mallType": "WD",
+        "itemId": "7614361358",
+        "title": "十字架贴皮夹克牛仔外套",
+        "picUrl": "https://si.geilicdn.com/open1693116061-1234478995-38f90000019a9bcd1bc10aa081c2_1066_1066.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1693116061",
+          "name": "Sunhouse",
+          "logo": "https://si.geilicdn.com/shopedit1950202051-2ce50000019864cadecc0a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7496",
+        "mallType": "WD",
+        "itemId": "6063828618",
+        "title": "Ca Santa Fe wax printing heavyweight vintage vintage old cadre logging workwear jacket jacket zipper lapel American loose jh",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9sqyd_pgjk.jpg",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707804864",
+          "name": "不二家",
+          "logo": "https://si.geilicdn.com/weidian1417299265-7f700000018ece14a7660a23136f_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2493281",
+        "mallType": "T1688",
+        "itemId": "938334358659",
+        "title": "High version embroidered logo, spring and autumn internet famous classic men's and women's sports jacket, stand up collar cardigan, casual jacket, hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01t7WEir1wWKDeo984l_!!2219394906315-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbMlWJGLuHlMEmXYERsdrGA",
+          "name": "石狮市周加城服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3106748",
+        "mallType": "TB",
+        "itemId": "974072490954",
+        "title": "Highly Recommended | Wang Anyu's Same Style New Chinese Tang Suit Couple's Suede Stand-Collar Jacket for Men and Women Jz9927",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2210080052216/O1CN01jRrO0i1SEyloMaqzs_!!2210080052216.jpg",
+        "price": "¥202.24",
+        "toPrice": "$31.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "265214201",
+          "name": "迪迪酱搬运工",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1071457",
+        "mallType": "T1688",
+        "itemId": "687946896153",
+        "title": "Original Paris B logo embroidery splicing contrasting color sports jacket INS internet famous style submachine jacket set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0180p4SG1EPbA0KSGgA_!!2213219030344-0-cib.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbK79h9vir_jTdzBVO7YP3A",
+          "name": "广州柯缘服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2683390",
+        "mallType": "T1688",
+        "itemId": "846467839791",
+        "title": "Stone Stone Island 23Fw Hard Shell Windproof and Waterproof Double Epaulettes Gtx Outdoor Jacket Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sHa2u41zp3CIYqP4G_!!2218329476762-0-cib.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-fGPvnIijFOPC3RfKWsm3g",
+          "name": "广州赛谷服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2230746",
+        "mallType": "WD",
+        "itemId": "7507468348",
+        "title": "1510633",
+        "picUrl": "https://si.geilicdn.com/open1832946205-252808396-71ac00000197f31870b90a23b4de_1200_1200.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832946205",
+          "name": "one top",
+          "logo": "https://si.geilicdn.com/pcdecorate901947017869-6dce000001963cb3e9520a239646-unadjust_673_673.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049969",
+        "mallType": "TB",
+        "itemId": "989949882347",
+        "title": "Olet Hui丨Brand Clearance Zone丨Wang Anyu's Same Style Men's and Women's Jackets Suede Buckle New Chinese Style Coat",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2214264642243/O1CN01tngXTw1SRLTahcuAJ_!!2214264642243.jpg",
+        "price": "¥224.05",
+        "toPrice": "$35.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "354593989",
+          "name": "YOYO奥莱运动服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3186254",
+        "mallType": "TB",
+        "itemId": "977731662090",
+        "title": "Outlet Discount Area | Treasure of Outfits | Wang Anyu's Same Style New Chinese-Style Buttoned Tang Suit Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/780522884/O1CN01TJpgHC1XAvLQNydON_!!780522884.jpg",
+        "price": "¥191.63",
+        "toPrice": "$30.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "69745573",
+          "name": "奥莱酷动体育天地",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3195401",
+        "mallType": "T1688",
+        "itemId": "842158769667",
+        "title": "American Style High Street RH Vintage Stitching Coconut Tree Logo Capsule for Men and Women Couple Loose Zipper Jacket Casual Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018QXEbx2FFoZl2uX9l_!!2933058851-0-cib.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb8FkoU0hPgp7_jekWrAdjA",
+          "name": "深圳市奕程贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3066625",
+        "mallType": "T1688",
+        "itemId": "681478886388",
+        "title": "American-style Biker Jacket Men's Amazon Foreign Trade Retro Hip-hop Loose All-match Couple Baseball Suit New Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010smauS2C0kgnacesA_!!1898758412-0-cib.jpg",
+        "price": "¥40.80",
+        "toPrice": "$6.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIKgtSCU8ZD66W8wbqEyvKw",
+          "name": "揭阳市榕城区最时代服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3192232",
+        "mallType": "T1688",
+        "itemId": "934498590378",
+        "title": "25年跨境潮牌新款恶魔岛欧美经典刺绣字母五角星水洗高街牛仔外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01EYmdJt1WIsYhzYJyY_!!2219377232766-0-cib.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219826961857",
+          "name": "广州麦洛心服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3026181",
+        "mallType": "WD",
+        "itemId": "7588096608",
+        "title": "【Rare Set】Sport 3B Embroidered Double-Line Loose Casual Sports Jacket/Long Pants Sweatpants",
+        "picUrl": "https://si.geilicdn.com/open1817828565-1817828565-6cb40000019a302fc9290a23b4de_810_1080.jpg",
+        "price": "¥310.23",
+        "toPrice": "$48.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854689181",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2874774",
+        "mallType": "T1688",
+        "itemId": "760075672887",
+        "title": "ins American zipper tight top 2024 spring new Australian velvet double zipper waist elastic cardigan long sleeve T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01og6W8b2L13QH8xjqk_!!2210159669631-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_RtZcL6-mznkRHXEAAybSA",
+          "name": "常熟市莫城街道足衣足十服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1936773",
+        "mallType": "TB",
+        "itemId": "960601200066",
+        "title": "Mmm Aoi Luminous Embroidered Cotton Jacket (Personalized Customization)",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me90opes_gdov.jpg",
+        "price": "¥372.24",
+        "toPrice": "$58.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258373061",
+          "name": "MadMan2024",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 204,
+        "qcVideoCnt": 7
+      },
+      {
+        "id": "3134007",
+        "mallType": "TB",
+        "itemId": "841268885984",
+        "title": "New Autumn and Winter Women's Clothing, Bow-Decorated Round Neck Long-Sleeved Knitted Jacket and Mini Skirt 9598142 9598139",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/474977443/O1CN01GD7a9124qwuiUGV5c_!!0-item_pic.jpg",
+        "price": "¥59.57",
+        "toPrice": "$9.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62486425",
+          "name": "ZASHOP女装正品折扣店",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2897155",
+        "mallType": "T1688",
+        "itemId": "873692158517",
+        "title": "Blue lapel baseball jacket women fall 2025 new American sweet jacket faux suede early fall tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dGDvA02FZy23pgIwC_!!2218954188895-0-cib.jpg",
+        "price": "¥59.90",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218954188895",
+          "name": "普宁市池尾米莱康服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2428536",
+        "mallType": "WD",
+        "itemId": "7532018063",
+        "title": "C Wicked B Battle Cowboy Suit",
+        "picUrl": "https://si.geilicdn.com/pcitem1820417972-29540000018dc72ca2dd0a22d4f5_800_800.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743986723",
+          "name": "Reps Find 🍊",
+          "logo": "https://si.geilicdn.com/shopedit1982210581-75eb00000198bc3c9a3e0a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141128251914130763",
+  "language": "en"
+}

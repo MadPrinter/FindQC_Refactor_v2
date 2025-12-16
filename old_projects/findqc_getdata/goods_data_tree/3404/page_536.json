@@ -1,0 +1,266 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "177289",
+        "mallType": "TB",
+        "itemId": "848235972714",
+        "title": "Beta jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq5aq8_46j1.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "552257779",
+          "name": "Dragon",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "177279",
+        "mallType": "WD",
+        "itemId": "7244723595",
+        "title": "BM201 fall and winter in Europe and the United States new tide SP5 360g-370g cotton David's clothing spider web foam printing process hooded sweatshirt black Rose S-XL",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq4y9x_lnnh.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "166177892",
+          "name": "偌潮馆",
+          "logo": "https://si.geilicdn.com/bj-vshop-166177892-1532168690767-521606379_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "176368",
+        "mallType": "T1688",
+        "itemId": "829930414172",
+        "title": "Represent Track Niche Trendy Brand American Pure Cotton Loose Couple Vtg Distressed Loose Round Neck Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42oosaj_64ui.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBo3l1Mm1lqYpWHTgGWOvhVQ",
+          "name": "湖州鹘鹰商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "176370",
+        "mallType": "TB",
+        "itemId": "683044097411",
+        "title": "Ess Double-Line American Style 1977 Sweatshirt with Flocking, Hooded, Crew Neck, Fleece-Lined, Flocking, Couple Style, Unisex, Large Size, Loose Fit, Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42oorss_qnqb.jpg",
+        "price": "¥102.04",
+        "toPrice": "$16.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "289371854",
+          "name": "耶和华G",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "176359",
+        "mallType": "TB",
+        "itemId": "851636229635",
+        "title": "P × V washing hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42oojaa_n13g.jpg",
+        "price": "¥250.00",
+        "toPrice": "$39.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "476776567",
+          "name": "十三行尾单清仓",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "176284",
+        "mallType": "WD",
+        "itemId": "7291147448",
+        "title": "High quality set",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq2ygr_6cw4.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1875731045",
+          "name": "Benke store",
+          "logo": "https://si.geilicdn.com/wdseller1886862195-219a0000019193de91240a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 105,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "176275",
+        "mallType": "WD",
+        "itemId": "7274294257",
+        "title": "Youth Fashion Leisure Set",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq2wwg_e22y.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1695825646",
+          "name": "Fashion Wardrobe👔",
+          "logo": "https://si.geilicdn.com/wdseller1726733875-54b90000019ad0a9b0420a23111a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 279,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "175325",
+        "mallType": "TB",
+        "itemId": "740681728961",
+        "title": "Autismss Treasure House Simple ins Student Outfit Oversized Trendy Design Couple Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq2mfw_th9b.jpg",
+        "price": "¥91.91",
+        "toPrice": "$14.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102246172",
+          "name": "Autismss宝藏屋",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "175281",
+        "mallType": "TB",
+        "itemId": "842311581689",
+        "title": "Neon Sign Alphabet Print Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq25nb_4lgp.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "174319",
+        "mallType": "WD",
+        "itemId": "7243063815",
+        "title": "C&D Embroidered Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq1xlu_8k3h.jpg",
+        "price": "¥308.00",
+        "toPrice": "$48.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1367236596",
+          "name": "Thunder02",
+          "logo": "https://si.geilicdn.com/shopedit1367236596-53c20000018dbcbe65270a22d246-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "173391",
+        "mallType": "WD",
+        "itemId": "7228162257",
+        "title": "【 Clearance Half Price 】 ERD23 Melancholic Rich Second Generation Heavy Industry destroys washed wormhole men's and women's hoodies short width version",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq0s4k_4s9o.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1642490898",
+          "name": "Crazylab",
+          "logo": "https://si.geilicdn.com/wdseller1587984037-30130000019364cd22060a81347d_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "173339",
+        "mallType": "WD",
+        "itemId": "7262118967",
+        "title": "082316 hoodie AMG",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpzah3_z9zb.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "173292",
+        "mallType": "TB",
+        "itemId": "814668818787",
+        "title": "Crtz 5starz puff printing tracksuit hoodie&jogging",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/4084171057/O1CN01ILAh9F1Jg9buQ6rVv_!!4084171057.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "476776567",
+          "name": "十三行尾单清仓",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "172277",
+        "mallType": "WD",
+        "itemId": "7247131481",
+        "title": "(In stock) VTM 16aw Show Gun Club Zip Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpyqsp_fszo.jpg",
+        "price": "¥309.00",
+        "toPrice": "$48.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1658217817",
+          "name": "Ash Made",
+          "logo": "https://si.geilicdn.com/wdseller1846720803-773b0000018e7f4d443b0a23043f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 156,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148459851913206958",
+  "language": "en"
+}

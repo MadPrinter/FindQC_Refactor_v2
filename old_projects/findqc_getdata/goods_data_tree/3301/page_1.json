@@ -1,0 +1,600 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2224515",
+        "mallType": "T1688",
+        "itemId": "956287772585",
+        "title": "stone cufflinks stone island cufflinks hipster ghost badges clothes shoes bags embroidery stickers island buttons",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013ezAjZ1DFEkBQ0Ymz_!!2220121400186-0-cib.jpg",
+        "price": "¥6.41",
+        "toPrice": "$1.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220121400186",
+          "name": "龙港市海勤日用品厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2844752",
+        "mallType": "TB",
+        "itemId": "905512987107",
+        "title": "Stone Rich Stone Armband Classic Yellow-Green Shadow Ghost Badge a Must-Have for Island Entry DIY Replacement",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1693036253/O1CN01hxgNyW1w3vapyQyRa_!!1693036253.jpg",
+        "price": "¥60.38",
+        "toPrice": "$9.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "136176216",
+          "name": "富人岛岛主",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2249983",
+        "mallType": "T1688",
+        "itemId": "920280888953",
+        "title": "Stone Island Cufflinks Embroidery Patch Cufflinks Ghost Badge Clothes Shoes Decoration",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PAmuFa1pd0g9JVGlE_!!2219719235382-0-cib.jpg",
+        "price": "¥7.75",
+        "toPrice": "$1.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219719235382",
+          "name": "义乌市庆车电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2539377",
+        "mallType": "T1688",
+        "itemId": "935543074692",
+        "title": "S Island and Chapter Armband Is Stone Armband Decorative Shoes Noto Ghost Clothes La Armband Embroidery Sticker Default",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0153WcEp2EUBRwXX4sU_!!2219796988747-0-cib.jpg",
+        "price": "¥1.06",
+        "toPrice": "$0.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTxtoPeD122kZGws6z5erwg",
+          "name": "杭州建德挞天贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1905555",
+        "mallType": "T1688",
+        "itemId": "919517715036",
+        "title": "✅ Basketball Souvenirs, Badges, Brooches, Lakers, Warriors, Bucks, Nets, Clippers Peripheral Gifts and Decorations",
+        "picUrl": "https://cdn.findqc.com/item/20251106/mhn75khr_c5i2.jpg",
+        "price": "¥3.94",
+        "toPrice": "$0.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBlKFp8UhQsQ7Hr7EfDKxN_g",
+          "name": "河南郸城子志贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "391289",
+        "mallType": "TB",
+        "itemId": "750191488656",
+        "title": "Stockx Green Tag Anti-Theft Buckle Green Cross Anti-Misplacement Buckle Sports Shoes Bags Clothes Tag Accessories Anti-Tamper Label Sticker",
+        "picUrl": "https://cdn.findqc.com/item/20241225/m530szld_gb9a.jpg",
+        "price": "¥3.96",
+        "toPrice": "$0.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155588128",
+          "name": "simple的小店铺",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2133528",
+        "mallType": "T1688",
+        "itemId": "928817797171",
+        "title": "Warm Feeling Heat Sense Label Island Sleeve Tag Cufflinks Stone sne Tide Shoe Label Classic Color Change Decoration Clothing Heat Sense",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Z8mKgf1tf4w7VNb9T_!!2219787575928-0-cib.jpg",
+        "price": "¥13.93",
+        "toPrice": "$2.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219787575928",
+          "name": "丹阳市云阳镇佰之迈日用品商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2123236",
+        "mallType": "T1688",
+        "itemId": "774061454280",
+        "title": "袖标石头岛袖章潮牌幽灵章衣服鞋子包包刺绣贴扣子",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01uiGWrP1s1Ot2rfaqd_!!2217546455706-0-cib.jpg",
+        "price": "¥1.20",
+        "toPrice": "$0.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217546455706",
+          "name": "广州伊特嘉贸易商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2650656",
+        "mallType": "T1688",
+        "itemId": "920689880605",
+        "title": "Stone Island Sleeve Badge Stone Embroidered Adhesive Sleeve Badge Island Sleeve Badge Ghost Badge Clothes Shoes Decoration\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gXKZ9G1qHJWa3MlKq_!!2219575655470-0-cib.jpg",
+        "price": "¥1.04",
+        "toPrice": "$0.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZdl6hvH_EaZ55v0AI-w0hA",
+          "name": "永康市祁螂电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1233059",
+        "mallType": "T1688",
+        "itemId": "775632483238",
+        "title": "Club Shield Collection Flocked jersey number letters hot stamping number heat transfer decals jersey jersey supplies",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000000781/O1CN01edo2A21HdkGA1Fybu_!!6000000000781-0-tbvideo.jpg",
+        "price": "¥1.00",
+        "toPrice": "$0.16",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "334779",
+        "mallType": "TB",
+        "itemId": "17824106106",
+        "title": "Mastermind Japan Mmj Black and Gray Skull Floor Mat Seat Cushion Non-Slip Mat Tufting Flocking",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4l3z4dt_0nhj.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60575514",
+          "name": "艺术毯",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2426856",
+        "mallType": "TB",
+        "itemId": "633332653161",
+        "title": "European and American Fashion Black Cross Love Saturn Bracelet Brand",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1602284621/O1CN015Dje7x1k0SrTlkaIV_!!1602284621.jpg",
+        "price": "¥36.50",
+        "toPrice": "$5.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103980134",
+          "name": "优雅蝴蝶",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1167407",
+        "mallType": "T1688",
+        "itemId": "758295570648",
+        "title": "Stone Embroidery Patch Sleeve Tag Cufflinks Shoulder Embroidered Label Clothes High Version Decorative Label Plastic Button",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Q8tOQZ1iyo4z7JkV8_!!2212309284482-0-cib.jpg",
+        "price": "¥0.25",
+        "toPrice": "$0.04",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1679592",
+        "mallType": "TB",
+        "itemId": "638330266990",
+        "title": "Functional Island Armband Card Paper Compass Armband Fabric Patch Embroidery Badge Headwear Handmade DIY Button Accessories Trendy",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2364631785/O1CN01LZA4uY1P3Zqj5scjy_!!2364631785.jpg",
+        "price": "¥9.88",
+        "toPrice": "$1.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116255134",
+          "name": "机能岛",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900253",
+        "mallType": "TB",
+        "itemId": "795754852364",
+        "title": "Clover embroidery logo cloth label, sewn on patches, holes, ironed cloth, down jacket patch, washable",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk213jw_eonu.jpg",
+        "price": "¥9.59",
+        "toPrice": "$1.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "339065714",
+          "name": "品绣布贴",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899416",
+        "mallType": "TB",
+        "itemId": "670163839653",
+        "title": "Previous editions of the World Club Shield Gold Shield from 2007 to 2023, featuring heat transfer printed plush armbands",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk012aa_mkax.jpg",
+        "price": "¥1.54",
+        "toPrice": "$0.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "267266542",
+          "name": "福运号码馆",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896509",
+        "mallType": "TB",
+        "itemId": "674111260298",
+        "title": "Club World Cup Badge Gold Club World Shield Badge FIFA Defending Badge Shirt School Uniform Plush Sleeve Badge Armband",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjwa27w_vzji.jpg",
+        "price": "¥8.17",
+        "toPrice": "$1.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70745556",
+          "name": "GYY烫画字章订制",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975393",
+        "mallType": "TB",
+        "itemId": "805726765156",
+        "title": "Cold War Direct Russian Russian Army Publicly Issued Military Military Police Sleeve Badge Attendance Armband Identification Marker Fully Embroidered Armband",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/133998241/O1CN01k0lmFT2AkQwYTA5vU_!!133998241.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60105089",
+          "name": "冷战时代",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1789585",
+        "mallType": "TB",
+        "itemId": "651227321925",
+        "title": "Badge of the German Bundeswehr (Bundeswehr)",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2222722083/O1CN01pH6k371RG3hWQUkRM_!!2222722083.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113174210",
+          "name": "匠小店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140545371916153705",
+  "language": "en"
+}

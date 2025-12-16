@@ -1,0 +1,330 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1581361",
+        "mallType": "WD",
+        "itemId": "7496879513",
+        "title": "[DX16-2] Outdoor sunglasses sunshade new sunscreen (2301/2304/8615/8650/8654/8884)",
+        "picUrl": "https://si.geilicdn.com/pcitem901940024420-736c00000197a647738a0a20e7c7_800_800.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646048669",
+          "name": "Giant panda 🐼",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1243344",
+        "mallType": "WD",
+        "itemId": "7328814136",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1648679456-1234478995-7e030000018749d66fbf0a8115b5_1512_1512.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1240441",
+        "mallType": "T1688",
+        "itemId": "859234451646",
+        "title": "High-quality Mu family SMU54y sunglasses female Zhang Yuanying the same rimless sunglasses advanced sense of UV protection",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vxBJSg1yTEjSkLe7K_!!2218972366579-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1240313",
+        "mallType": "T1688",
+        "itemId": "739832981844",
+        "title": "New sunglasses Europe and the United States big brand foreign trade female anti-ultraviolet sunglasses male Pu popular and elegant sports driving glasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XxIcRG20eLR1vJHwj_!!2206648846874-0-cib.jpg",
+        "price": "¥8.50",
+        "toPrice": "$1.34",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "696330",
+        "mallType": "WD",
+        "itemId": "5604864838",
+        "title": "(In stock) Autonomous 22fw sunglasses xpander Kendall same ~ BA letters Paris 4 + sunglasses sunglasses spot spot spot",
+        "picUrl": "https://si.geilicdn.com/wdseller1350023534-434b0000018394260c580a813276_760_760.jpg",
+        "price": "¥285.00",
+        "toPrice": "$44.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1350023534",
+          "name": "需要钱不是朋友club",
+          "logo": "https://si.geilicdn.com/wdseller1350023534-5e2b00000174c4b0d04c0a217216_959_959.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346217",
+        "mallType": "WD",
+        "itemId": "7250759763",
+        "title": "Vintage Metal Glass Lens Eyeglasses Sunglasses",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sa7jfs_u6g9.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779104521",
+          "name": "VICC",
+          "logo": "https://si.geilicdn.com/shopedit1810691551-0d36000001906e91703d0a2102c5-unadjust_534_534.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2093927",
+        "mallType": "T1688",
+        "itemId": "794040521875",
+        "title": "9809 Europe and the United States new light luxury wind plate TR square fashion sunglasses men and women models senior sense of sun shading sunglasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gJYZmM1M0skeYBlvM_!!2416381373-0-cib.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2416381373",
+          "name": "台州市盈邦眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1770162",
+        "mallType": "TB",
+        "itemId": "732396764389",
+        "title": "Outdoor sports riding goggles windproof sunshade UV sunglasses fashion one-piece cyberpunk sunglasses",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/484979023/O1CN01VA8X2J2GWaaLhVvJ1_!!484979023.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66223010",
+          "name": "大视界眼镜商行",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "886286",
+        "mallType": "T1688",
+        "itemId": "789099466240",
+        "title": "P home sunglasses female tide fashion Europe and the United States wind ins net red the same paragraph plate fashion personality sunglasses male spsa14",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AiBCFW29eeJR8oLKj_!!2214480488093-0-cib.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1232330",
+        "mallType": "T1688",
+        "itemId": "571171001831",
+        "title": "3016 classic sunglasses retro rice nail half frame sunglasses tide fashion color film reflective glasses toadstool sunglasses",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000002348/O1CN01t78BiM1TDQeXV0HsQ_!!6000000002348-0-tbvideo.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2282230",
+        "mallType": "T1688",
+        "itemId": "941493234164",
+        "title": "2025 new Zhang Yuanying the same Miao family smua51s sunglasses narrow frame high value rimless teal sunglasses female",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010H5lrQ23opXCMbzbA_!!2219387337303-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219387337303",
+          "name": "广州青云眼镜商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1570364",
+        "mallType": "T1688",
+        "itemId": "834397656372",
+        "title": "Europe and the United States explosion models Pujia fashion sunglasses square large frame men and women models sunglasses UV protection cross-border wholesale",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000001749/O1CN016EyBtr1On5hUHWZvJ_!!6000000001749-0-tbvideo.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1566306",
+        "mallType": "T1688",
+        "itemId": "934107666393",
+        "title": "New fashion sunglasses personalized trend men and women models anti-glare sunglasses retro Europe and the United States",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000001098/O1CN01FgfNXo1JyvvLuooVv_!!6000000001098-0-tbvideo.jpg",
+        "price": "¥26.34",
+        "toPrice": "$4.14",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2618790",
+        "mallType": "T1688",
+        "itemId": "585175592301",
+        "title": "2019 Large Square Sunglasses Men's Women's Flat Top Fashion Lens One Piece Sunglasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/10301437810_1191457928.jpg",
+        "price": "¥7.00",
+        "toPrice": "$1.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2814762223",
+          "name": "临海市希英眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "697359",
+        "mallType": "WD",
+        "itemId": "7296702113",
+        "title": "Fashion Trend Sunglasses 003BG",
+        "picUrl": "https://si.geilicdn.com/open1637372245-1234478995-3ac900000192e1c3c1c40a210559_800_800.jpg",
+        "price": "¥57.00",
+        "toPrice": "$8.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637372245",
+          "name": "Crazy Koala6",
+          "logo": "https://si.geilicdn.com/shopedit1900477981-61c100000192e1c1bbdb0a2102c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1567377",
+        "mallType": "T1688",
+        "itemId": "685076918074",
+        "title": "New European and American small frame sunglasses with broken metal hinges, Instagram style cross-border sunglasses, glasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011IES2R1i2BKgNVM9N_!!2212449974354-0-cib.jpg",
+        "price": "¥6.59",
+        "toPrice": "$1.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212449974354",
+          "name": "台州市博丰眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "332462",
+        "mallType": "TB",
+        "itemId": "668366107709",
+        "title": "2024 New Trendy Large-Frame Letter Sunglasses for Women, Uv Protection, One-Piece Watermark Lenses, Unisex Versatile Sunglasses",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4kx9cri_av01.jpg",
+        "price": "¥19.40",
+        "toPrice": "$3.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "561643876",
+          "name": "爵制眼镜旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2411329",
+        "mallType": "T1688",
+        "itemId": "953680497951",
+        "title": "High quality Oakl limited edition PLANTARIS retro sports eye protection, detachable nose strap, sunglasses for men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UuQGbJ1XhRRtivYhH_!!2220036432955-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6aRN-LNvsz7Wt4F7HDl2HQ",
+          "name": "丹阳市云阳镇旋知益服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "866471",
+        "mallType": "WD",
+        "itemId": "7251755322",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1621283801-252808396-6d9300000190c59eed940a210559_750_500.jpg",
+        "price": "¥127.30",
+        "toPrice": "$20.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769151449",
+          "name": "顺泽鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146148221917132698",
+  "language": "en"
+}

@@ -1,0 +1,365 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1092370",
+        "mallType": "WD",
+        "itemId": "7331945714",
+        "title": "111888-lili",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxif3xb_eoxq.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1091383",
+        "mallType": "T1688",
+        "itemId": "890750397816",
+        "title": "Cross-border trend cherub white cloud non-adjustable big head circumference number hip-hop street dance flat cap baseball cap",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000003092/O1CN01FVqltq1YiBaPjbrat_!!6000000003092-0-tbvideo.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2388891",
+        "mallType": "WD",
+        "itemId": "7458200328",
+        "title": "Minimalist letter star's latest baseball cap in the same style",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfnr2irt_blv2.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1712301085",
+          "name": "RayReptile",
+          "logo": "https://si.geilicdn.com/pcdecorate1945831968-07eb000001996cb9d1320a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1032309",
+        "mallType": "T1688",
+        "itemId": "810376046377",
+        "title": "Side Embroidery, Size Hat, Closed-Top Hat, Baseball Cap, Sun Protection Hat, Embroidery",
+        "picUrl": "https://cdn.findqc.com/item/20250430/ma33qqg9_gb2q.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGM-kx_01-FIePr2IOCCogA",
+          "name": "昌江区成书百货店",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 147,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2354481",
+        "mallType": "T1688",
+        "itemId": "811927576234",
+        "title": "Atlanta Braves Side Embroidered Size Cap Closed Cap Baseball Cap Sunscreen Sun Hat Embroidered Cap",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfnqm9ed_x9ht.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGM-kx_01-FIePr2IOCCogA",
+          "name": "昌江区成书百货店",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1573390",
+        "mallType": "T1688",
+        "itemId": "810248455943",
+        "title": "LA Los Angeles Dodgers Size Cap Closed Cap Baseball Cap Sunscreen Sun Hat Embroidered Hat Multi",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfnnwwdj_zngj.jpg",
+        "price": "¥16.80",
+        "toPrice": "$2.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGM-kx_01-FIePr2IOCCogA",
+          "name": "昌江区成书百货店",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2347681",
+        "mallType": "T1688",
+        "itemId": "811893624811",
+        "title": "San Diego Padres Side Mark Size Cap Closed Cap Baseball Cap Sunscreen Sun Hat Embroidered Cap",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfnnwrk7_s691.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGM-kx_01-FIePr2IOCCogA",
+          "name": "昌江区成书百货店",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2403308",
+        "mallType": "WD",
+        "itemId": "2049631168134363634137",
+        "title": "Original factory inventory discount! Original order from the United States! Top stream duckbill cap for workwear get 【 Card * * Special Logo Classic Couple's Baseball Cap 】 Online 390+high-density woven pure cotton fabric leather logo sunscreen duckbill cap TSZ",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfnlc1yf_wd68.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864128688",
+          "name": "夏夏童品（童鞋童装）",
+          "logo": "https://si.geilicdn.com/wdseller1444539219-1bf200000179006d0b570a217216_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1933281",
+        "mallType": "T1688",
+        "itemId": "950144414541",
+        "title": "Cross-Border European and American Trendy Hip-Hop Casual Versatile Retro Pullover Hat Fashion Unisex Letter Embroidery Double-Layer Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250822/melzudll_ta48.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5iOElmD7DyZgEkU5vZQyPQ",
+          "name": "深圳市福加福电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1053777",
+        "mallType": "T1688",
+        "itemId": "895608184951",
+        "title": "High-end G Explosions Classic Old Flower Baseball Cap Sunscreen Cap Face Small Ladies High-end Cap Big Cap Wai",
+        "picUrl": "https://cdn.findqc.com/item/20250521/mawwqhuq_rc0j.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBrIisM9CE9reMS0WGBXpZg",
+          "name": "广州臻宝服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 89,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1261483",
+        "mallType": "T1688",
+        "itemId": "732746217444",
+        "title": "Original RL Laren men and women couples cotton baseball cap sports embroidery horse label sunscreen duck tongue hat fashion trend",
+        "picUrl": "https://cdn.findqc.com/item/20250921/mftq703q_ubi4.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216304723661",
+          "name": "佛山市南海区迈斯曼针织厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1292313",
+        "mallType": "T1688",
+        "itemId": "894883578416",
+        "title": "Three-standard zipper with elevator dust-proof packaging letter correct version top buckle leather non-porous classic baseball cap wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250608/mbnk64pb_8t2g.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvPZcciKksFzUBMQV2qF6Gw",
+          "name": "义乌市荀帽电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 505,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2349679",
+        "mallType": "TB",
+        "itemId": "964965629043",
+        "title": "2025 New Foreign Trade Hats, Unisex Flat-Brimmed Baseball Caps, Fashionable and Versatile, One-Size-Fits-All, Hip-Hop Sports",
+        "picUrl": "https://cdn.findqc.com/item/20250913/mfhlfelk_dzzx.jpg",
+        "price": "¥68.95",
+        "toPrice": "$10.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "402357816",
+          "name": "奥玛国际贸易",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2389068",
+        "mallType": "T1688",
+        "itemId": "848087819363",
+        "title": "MLB Hat Cap American-style Adjustable Baseball Cap Letter Stereo Embroidery Big Head Wai Hip-hop Foreign Trade Hair",
+        "picUrl": "https://cdn.findqc.com/item/20250920/mfs19i7r_g5bw.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbEzl9ilpALCfQP2VQwJn9Q",
+          "name": "莆田市城厢区奇点瑞力贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1061676",
+        "mallType": "T1688",
+        "itemId": "901551946973",
+        "title": "Camouflage color collision key letters embroidered baseball cap female soft top show face small outdoor sun blocking sun duck tongue cap son men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01e0gEOu1NxnP0b9o3Z_!!2208789561637-0-cib.jpg",
+        "price": "¥15.68",
+        "toPrice": "$2.47",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "866611",
+        "mallType": "T1688",
+        "itemId": "824273373166",
+        "title": "LPi **a embroidery breathable comfortable beach cap fashion casual embroidery breathable comfortable sunscreen baseball cap",
+        "picUrl": "https://cdn.findqc.com/item/20250920/mfs8er28_ei9u.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfeJd2_gFSZkpQu6eaPGzow",
+          "name": "广州市奢品配饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1364532",
+        "mallType": "T1688",
+        "itemId": "863374708256",
+        "title": "Cross-Border Fine-Grained Woolen Hat Knitted Hat Autumn and Winter New Outdoor Warm Travel Embroidered Knitted Sports Cold Hat Export",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkv2cqx_76gy.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBplTwqJtwT7U8iwNgSxEjhQ",
+          "name": "莆田市城厢区环宇澄乐贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2426512",
+        "mallType": "TB",
+        "itemId": "642315434240",
+        "title": "Small Hat Men's Trendy Summer Small Head Circumference Sun Protection Hat Peaked Cap Women's Spring & Fall Small Size 52 Small Head S Baseball Cap ins",
+        "picUrl": "https://cdn.findqc.com/item/20250920/mfs19g9x_8jbg.jpg",
+        "price": "¥26.80",
+        "toPrice": "$4.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "181995216",
+          "name": "渐渐青旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1621276",
+        "mallType": "TB",
+        "itemId": "915411671863",
+        "title": "Opium Alice Hollywood Cross Leopard Print Embroidered Distressed Lighter Clip Studded Baseball Cap",
+        "picUrl": "https://cdn.findqc.com/item/20250920/mfrwu3v9_uvq6.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "215720698",
+          "name": "PLAYSONGS",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2414967",
+        "mallType": "T1688",
+        "itemId": "778141367772",
+        "title": "2024 Exports European and American Original Original Single High Quality Animal Print Baseball Cap Fashion Simple Breathable Mesh Cap Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250920/mfrwtzj3_41fg.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBuTv80wlkh0BgF3rfPxlurA",
+          "name": "义乌市海磊电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149058701911158678",
+  "language": "en"
+}

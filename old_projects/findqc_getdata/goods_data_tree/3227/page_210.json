@@ -1,0 +1,353 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1598291",
+        "mallType": "WD",
+        "itemId": "7387950457",
+        "title": "50A7-1c-1\t\t",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-417b00000194f7fbdc9a0a230115_800_800.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1597322",
+        "mallType": "T1688",
+        "itemId": "900945404427",
+        "title": "2025 cross-border 260g Casablanca short-sleeved spring and summer new color printing CASA men and women with short-sleeved shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000002311/O1CN01AnhrIT1SwUAgaabvi_!!6000000002311-0-tbvideo.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215654103576",
+          "name": "中山市弘迪服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1597202",
+        "mallType": "T1688",
+        "itemId": "827131358772",
+        "title": "Kawakyu 2023 PLAY Summer Embroidered Heart Embroidered Double Heart Gold Heart Men's and Women's Short Sleeve T-Shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000004245/O1CN019l7U671hEGHZMY8Wb_!!6000000004245-0-tbvideo.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218416577928",
+          "name": "桐乡市梧桐博仔服装经营部(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1597049",
+        "mallType": "T1688",
+        "itemId": "761765513289",
+        "title": "Foreign trade wholesale American fashion brand GALLERY DEP basic model letter classic logo slogan short sleeved men's and women's t-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NR00uN1f4WXtRYJVP_!!2214425623953-0-cib.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216043880023",
+          "name": "广州市深夜电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1596931",
+        "mallType": "T1688",
+        "itemId": "901950469816",
+        "title": "YOUNGLA Alliance Attack on Titan Men's Oversized T-Shirt Jogger Sports Fitness Cotton Short Sleeve",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000002143/O1CN01Nno3Cu1RhXalCqNy1_!!6000000002143-0-tbvideo.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215613182384",
+          "name": "宁波香佑亚衣电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553367",
+        "mallType": "T1688",
+        "itemId": "933688803418",
+        "title": "Summer correct version of the TNF lapel men's POLO shirt embroidered short-sleeved T-shirt casual men and women couples tide models cotton Slim",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZVx5PO1pLbdWxUgtP_!!2219608485344-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1444300",
+        "mallType": "WD",
+        "itemId": "7444372326",
+        "title": "Factory direct salesFashion casual Tshirts 09018",
+        "picUrl": "https://si.geilicdn.com/open1656451757-1234478995-33ec0000019614c81aaf0a23b4de_2508_2508.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1656451757",
+          "name": "Moneybuy club",
+          "logo": "https://si.geilicdn.com/shopedit1936317036-146c00000195e096a9200a811411-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1442060",
+        "mallType": "WD",
+        "itemId": "7482890506",
+        "title": "Short-sleeved T-shirt-HD-1",
+        "picUrl": "https://si.geilicdn.com/open1841026309-252808396-42e000000196372deb4d0a23b4de_800_800.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1837362397",
+          "name": "仅限1:1",
+          "logo": "https://si.geilicdn.com/shopedit1955509584-38a3000001971745bcc60a2395e5-unadjust_564_564.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1441910",
+        "mallType": "T1688",
+        "itemId": "798187185150",
+        "title": "Soft glutinous skin friendly Fried Dough Twists pony embroidery Fried Dough Twists knitwear women's short sleeved spring and summer breathable cotton yarn vintage versatile top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UFcI7I1n7kJeRGgF0_!!2216535005043-0-cib.jpg",
+        "price": "¥13.50",
+        "toPrice": "$2.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcTD9OWYUbwThnWTpEvBwsQ",
+          "name": "广州缘鑫服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1441900",
+        "mallType": "WD",
+        "itemId": "7324954830",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-51fa0000018f43a87e1f0a239631_800_800.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615509721",
+          "name": "WWW——34-1",
+          "logo": "https://si.geilicdn.com/shopedit1848591094-437a000001963933a6090a23111a-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1441897",
+        "mallType": "T1688",
+        "itemId": "909352394610",
+        "title": "North face front and back embroidery summer new high weight short sleeve men's and women's fashion cotton T-shirt factory wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vpBOpA1OPjZmDW9zY_!!2219588411698-0-cib.jpg",
+        "price": "¥41.80",
+        "toPrice": "$6.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWTJPJhLjoY0mkbLjn8iNrw",
+          "name": "东莞市大朗衣格调服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1441755",
+        "mallType": "T1688",
+        "itemId": "869867850722",
+        "title": "Vintage Holland Argentina Brazil France Portugal Classic Nostalgia Retro Short Sleeve Jersey Adult Soccer Jerseys",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000004203/O1CN01Gu4eAY1gv1gjnVNPu_!!6000000004203-0-tbvideo.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1441624",
+        "mallType": "T1688",
+        "itemId": "927168750335",
+        "title": "Trendy brand cross-border wholesale supply, foreign trade, one piece dropshipping, 260g heavy-duty BAPE Ape Head Shark Short sleeved T-shirt 22",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01M8zIrO1zbJNA1S5Wq_!!2217703186732-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSFv0WI5og8X_1Ldigo2B-A",
+          "name": "揭西县棉湖嬉皮猴日用百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1441482",
+        "mallType": "TB",
+        "itemId": "828349305256",
+        "title": "Leisure American high street summer loose short sleeved couple round neck graffiti T-shirt design sense niche T-shirt heavyweight\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1685985743/O1CN01hOTm7p1sILadiY389_!!1685985743.jpg",
+        "price": "¥60.11",
+        "toPrice": "$9.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155644787",
+          "name": "诚信人爱潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1441462",
+        "mallType": "WD",
+        "itemId": "7442526905",
+        "title": "DX31] Men's short-sleeved T-shirt factory collection",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-24c600000193b42a852d0a210298_856_856.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667032845",
+          "name": "超级牛",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424514-4cfb00000195e79975270a81347d-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1441374",
+        "mallType": "T1688",
+        "itemId": "888111753305",
+        "title": "New Stitching Short-sleeved Lapel Men's Polo Shirt Loose Pearl Cotton Loose Summer T-shirt for Men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Z2F1ca1TozTRVpwfX_!!2210375242430-0-cib.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWSYb0-6dsbOzyKAmm3rLCw",
+          "name": "陕西继林服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261696",
+        "mallType": "T1688",
+        "itemId": "809382679987",
+        "title": "AM1R1 ICON flow paint graffiti letters starry sky classic logo printing short-sleeved couple T-shirts",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01X3j0162A5DIg8gh2E_!!2218164908151-0-cib.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261548",
+        "mallType": "T1688",
+        "itemId": "864461776061",
+        "title": "Graphic T Shirts T-shirts for Men Y2k Mens Clothing Gym T-shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000003210/O1CN01xFvrcq1ZaENkJzC2l_!!6000000003210-0-tbvideo.jpg",
+        "price": "¥20.90",
+        "toPrice": "$3.29",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261413",
+        "mallType": "T1688",
+        "itemId": "866702221261",
+        "title": "MARCELO correct version of MB wings short-sleeved classic feather T-shirt Marcelo tide brand in Europe and the United States men and women half-sleeved tee",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Dzt9EQ1EmV4XVUIUO_!!2219003160394-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261476",
+        "mallType": "WD",
+        "itemId": "7238396613",
+        "title": "Summer Fashion Simple Hundred Special Short Sleeve (Limited Time Special)",
+        "picUrl": "https://si.geilicdn.com/pcitem1816451066-230a00000197f7704ec90a81347d_1200_1200.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1803682121",
+          "name": "Cost-Effective Shop",
+          "logo": "https://si.geilicdn.com/pcdecorate1816451066-413d00000191b1ddf0bb0a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143227921930825259",
+  "language": "en"
+}

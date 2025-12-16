@@ -1,0 +1,303 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "4148",
+        "mallType": "TB",
+        "itemId": "780789931424",
+        "title": "VTM the Pirate Bay hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3n8t6b7_mnlv.jpg",
+        "price": "¥372.77",
+        "toPrice": "$58.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "296608814",
+          "name": "Revise",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4108",
+        "mallType": "WD",
+        "itemId": "7001767167",
+        "title": "B*P HOODIE ZIP-UP SWEATSHIRT",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3nzkn_nxdo.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648195145",
+          "name": "BRAND COLLECT",
+          "logo": "https://si.geilicdn.com/shopedit1816205840-18940000018c297bd1820a23132e-unadjust_596_596.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4092",
+        "mallType": "TB",
+        "itemId": "654528738232",
+        "title": "Travis Scott X Hiroshi Fujiwara Lightning Collaboration High Street Jacket Baseball Uniform Cardigan Trendy Brand Coat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3nrib_z223.jpg",
+        "price": "¥101.06",
+        "toPrice": "$15.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 79,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4080",
+        "mallType": "T1688",
+        "itemId": "743142046083",
+        "title": "2023 new American tide ST towel embroidery embroidered hoodie loose padded thickened sweater hooded jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3niip_kpgn.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4077",
+        "mallType": "T1688",
+        "itemId": "737258701352",
+        "title": "2023 Fashion Trend Foam Printed Loose Sweatshirt Y2K Hip Hop Streetwear Men's and Women's Pullover Casual Tops",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3nhth_l081.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 182,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4075",
+        "mallType": "WD",
+        "itemId": "7238012868",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3nfnd_vidu.jpg",
+        "price": "¥426.00",
+        "toPrice": "$66.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 66,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4032",
+        "mallType": "TB",
+        "itemId": "763480627773",
+        "title": "Melancholy Rich Second-Generation Erd Heavyweight Sweatshirt, American-Style Distressed Washed Hole-In-The-Wall Hoodie, Same Style as Loren",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3mlub_62cc.jpg",
+        "price": "¥371.71",
+        "toPrice": "$58.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "121236882",
+          "name": "INFINITE Club",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 73,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4026",
+        "mallType": "TB",
+        "itemId": "785473132850",
+        "title": "Crtz 5starz puff printing tracksuit hoodie&jogging",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3mkn6_q3vj.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "124663923",
+          "name": "Nothing2do",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3993",
+        "mallType": "WD",
+        "itemId": "6908254237",
+        "title": "prd* crew neck sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3m3ji_pq8c.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661102153",
+          "name": "Luxury Fashion",
+          "logo": "https://si.geilicdn.com/wdseller1814780747-4e6b00000191b1e936eb0a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3987",
+        "mallType": "T1688",
+        "itemId": "769680849808",
+        "title": "2023 new play peach heart cardigan coat back big black heart stand collar Terry sweater for men and women parent-child",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3lyp9_s4uq.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1kERWJHB84GP17ecYTjnXQ",
+          "name": "深圳市福田区宝友贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 529,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3981",
+        "mallType": "T1688",
+        "itemId": "825357522891",
+        "title": "2024SS Contrast Nylon Flannel Hoodie Hoodie ESSENTIALS Hoodie Cross Border",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3lxji_1pv1.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWJpAX1Ml7oscoB2p4HVoAg",
+          "name": "宁波市鄞州钟公庙宜山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 102,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3958",
+        "mallType": "WD",
+        "itemId": "6626152550",
+        "title": "Men's Double Zipper Hooded Athletic Casual Jacket 12936",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3ls6t_cn3b.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1271703492",
+          "name": "性价比男装 海洋家一号店",
+          "logo": "https://si.geilicdn.com/forward1271703492-542f000001674a8baf980a02853e_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3952",
+        "mallType": "T1688",
+        "itemId": "793737676064",
+        "title": "Cross-border e-commerce European and American fashion brand ship printing American high street hooded vests street clothing Harajuku couple vests",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3lnse_zwyy.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvcbk-xWdGnQ8lzWz1D84kg",
+          "name": "揭阳市揭东区新亨镇钊盈服装店",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3950",
+        "mallType": "T1688",
+        "itemId": "797839204258",
+        "title": "American retro Y2Kstreetwear high street hooded pullover men and women with the same paragraph loose versatile hooded sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3lmog_fzmv.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3943",
+        "mallType": "TB",
+        "itemId": "785107468399",
+        "title": "crtz 3 star hmp athleisure suit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3lkly_mzk2.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "124663923",
+          "name": "Nothing2do",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3940",
+        "mallType": "T1688",
+        "itemId": "681464230266",
+        "title": "DSQ LIAN D2 Express Amazon Cross-border foreign trade network exclusive men's sweater DSQUARED2",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3lksk_ao2a.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "categoryId": 33,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3894",
+        "mallType": "WD",
+        "itemId": "7250829319",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3l3o6_0sj0.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021150066101916159325",
+  "language": "en"
+}

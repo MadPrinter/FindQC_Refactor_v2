@@ -1,0 +1,499 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1110311",
+        "mallType": "TB",
+        "itemId": "646555516245",
+        "title": "Travis Scott's CactusTralis large-capacity sports and fitness water bottle Mugs",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3308786915/O1CN01kVOyUU20x7W0cxa68_!!3308786915.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "271470707",
+          "name": "YWMontana",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2907006",
+        "mallType": "TB",
+        "itemId": "628173485983",
+        "title": "Double-Layer Coffee Cup, Heat-Resistant Glass, Transparent Latte, Drip Coffee, Mocha, Espresso Cup, Insulated and Anti-Scalding",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkgw2ta_n1le.jpg",
+        "price": "¥18.34",
+        "toPrice": "$2.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "465219935",
+          "name": "coffeejazz旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902305",
+        "mallType": "TB",
+        "itemId": "735850980870",
+        "title": "MUJI Flavored Tea Brewing Beverage from MUJI",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk53pqc_om08.jpg",
+        "price": "¥25.28",
+        "toPrice": "$3.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109718704",
+          "name": "无印良品MUJI官方旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900580",
+        "mallType": "TB",
+        "itemId": "673599222187",
+        "title": "High-Profile Internet Celebrity ins French-Style Drink Straw Cup Coffee Milk Tea Cold Drink Cup Summer Women's Glass Water Cup with Lid",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk2zv05_cw45.jpg",
+        "price": "¥8.79",
+        "toPrice": "$1.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "572519663",
+          "name": "七七ins风",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2202509",
+        "mallType": "WD",
+        "itemId": "7311774391",
+        "title": "The ancient flower transparent crystal cup and water cup gift box in trendy brand L are exquisite treasures that enhance texture in daily life! OEM channel goods! The smooth relief contour and excellent texture make it look absolutely stunning! The three-dimensional relief antique cup body is not easy to slip when held in the hand",
+        "picUrl": "https://cdn.findqc.com/item/20250824/meowielw_t5td.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699229748",
+          "name": "明星潮牌单品",
+          "logo": "https://si.geilicdn.com/wdseller901257918-65490000017549a0d7770a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1457792",
+        "mallType": "WD",
+        "itemId": "3865047221",
+        "title": "Qixi Welfare Swarovski Franc 24K gold crystal cup bone can imagine the beauty belongs to it, the cup is made of 45% high bone porcelain ➕ 24K gold 12% real gold hand drawn+",
+        "picUrl": "https://cdn.findqc.com/item/20250611/mbr9lch1_jk9i.jpg",
+        "price": "¥99.90",
+        "toPrice": "$15.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "323676306",
+          "name": "潮牌潮品潮流",
+          "logo": "https://si.geilicdn.com/weidian323676306-5d1a00000172939585de0a21c2a8_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "69992",
+        "mallType": "TB",
+        "itemId": "686833960709",
+        "title": "Christmas Wishing Cup Ins Cartoon Double-Layer Cup Cute Gift with Lid Water Cup Household Double-Layer Glass Cup",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmt7xp_fz2u.jpg",
+        "price": "¥16.33",
+        "toPrice": "$2.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "453289288",
+          "name": "欧睿格旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "62280",
+        "mallType": "TB",
+        "itemId": "806207364132",
+        "title": "Aadan, Not Retail, Pre-Order Items 10",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3miztg4_xa9a.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62633842",
+          "name": "Aadan's Bag84",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29587",
+        "mallType": "TB",
+        "itemId": "794931095670",
+        "title": "Insulated Double-Layer Glass with Handle, High-Value Cup, Household High Borosilicate Water Cup, Real Flower Cup, Coffee Cup, Customized",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj5zyr_xsrn.jpg",
+        "price": "¥25.46",
+        "toPrice": "$4.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117231783",
+          "name": "锦福家园旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "24831",
+        "mallType": "TB",
+        "itemId": "570617092797",
+        "title": "Fuguang Glass Water Cup for Men, Tea Cup, 2025 New Model, Tea-Water Separation Cup, High Temperature Resistant, Anti-Drop Kettle",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ni688m_56el.jpg",
+        "price": "¥51.56",
+        "toPrice": "$8.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "159384960",
+          "name": "富光圣霞专卖店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "24245",
+        "mallType": "TB",
+        "itemId": "780260821112",
+        "title": "Plantz Private Product High Borosilicate Glass Cup with High Temperature Resistance and Handle, Portable Water Cup 500ml",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ni38pr_hewa.jpg",
+        "price": "¥46.86",
+        "toPrice": "$7.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "402091423",
+          "name": "PLANTZ进口家居",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "21508",
+        "mallType": "TB",
+        "itemId": "642271599761",
+        "title": "1000ml Extra-Large Capacity Tea and Water Separation Glass Cup, Double-Layer Anti-Fall Water Cup, Portable Tea Brewing Cup for Men, Summer",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfyegr_azxt.jpg",
+        "price": "¥35.87",
+        "toPrice": "$5.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111602628",
+          "name": "nrmei恩尔美三才专卖店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "10935",
+        "mallType": "TB",
+        "itemId": "663302574870",
+        "title": "In Stock 37 AD KITH BOGO Clear Mug Glass Simple Round Trend",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbgdgo_p9u7.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146051181911104068",
+  "language": "en"
+}

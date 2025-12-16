@@ -1,0 +1,380 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2742879",
+        "mallType": "WD",
+        "itemId": "7556066101",
+        "title": "[DX6-21] Winter Standing Collar Knitted Patchwork Down Jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem901940024420-1bac000001994b5e24d80a2315ef_800_800.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2741647",
+        "mallType": "WD",
+        "itemId": "7548247141",
+        "title": "C.P. Company Cotton Jacket",
+        "picUrl": "https://si.geilicdn.com/open1673704173-1234478995-0408000001993ef8487f0a23b4de_1391_1391.jpg",
+        "price": "¥259.00",
+        "toPrice": "$40.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1673704173",
+          "name": "Hip-Hop Kid",
+          "logo": "https://si.geilicdn.com/weidian1942973884-1b7500000195e2317b330a207569_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2741445",
+        "mallType": "WD",
+        "itemId": "7575542982",
+        "title": "MC Classic MYA Down Jacket (G)",
+        "picUrl": "https://si.geilicdn.com/pcitem1842086105-50aa00000199ed43f2830a23037f-unadjust_640_637.png",
+        "price": "¥788.00",
+        "toPrice": "$123.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840972441",
+          "name": "Thunder 01",
+          "logo": "https://si.geilicdn.com/shopedit1842086105-06b80000019746ca6bf50a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2741378",
+        "mallType": "T1688",
+        "itemId": "831484777865",
+        "title": "High Version M Family ALYX Song Xi with Removable Hooded Down Jacket Ladies Warm Down Hooded Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rMjLuT1Wxdktqc58m_!!2215427932855-0-cib.jpg",
+        "price": "¥700.00",
+        "toPrice": "$110.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGyQoxbPUAKByWIDv7xM9Kg",
+          "name": "广州云慧服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2568306",
+        "mallType": "T1688",
+        "itemId": "944135614391",
+        "title": "Factory shooting M family 25 fall and winter men's LOGO spelling knitted collar down outside the hundred warm men and women with the same paragraph",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01EuDEeg2KjC8A184zl_!!2219780279592-0-cib.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219780279592",
+          "name": "广州亮潮服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2566677",
+        "mallType": "WD",
+        "itemId": "7560615878",
+        "title": "Correct version of the M family 23SS short lacquered nylon fabric bread down jacket men and women with removable hat",
+        "picUrl": "https://si.geilicdn.com/pcitem1960431235-79cd0000019986486fc10a21146b-unadjust_1440_1440.png",
+        "price": "¥715.00",
+        "toPrice": "$112.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710611773",
+          "name": "2025GOBUY",
+          "logo": "https://si.geilicdn.com/wdseller1960431235-5e0c000001988ff44d550a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2566358",
+        "mallType": "WD",
+        "itemId": "7553436092",
+        "title": "MON correct high version early fall new hooded embroidery zipper wool knit splicing jacket single down",
+        "picUrl": "https://si.geilicdn.com/pcitem1960431235-701e0000019958938f090a811411-unadjust_1440_1440.png",
+        "price": "¥448.50",
+        "toPrice": "$70.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710611773",
+          "name": "2025GOBUY",
+          "logo": "https://si.geilicdn.com/wdseller1960431235-5e0c000001988ff44d550a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2203122",
+        "mallType": "T1688",
+        "itemId": "848750997471",
+        "title": "Winter sports cotton jacket men light paragraph thickened youth cotton jacket jacket long windbreaker winter cold protection warm cotton clothing men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016SXtvl2HefIuSmiRp_!!2216771149176-0-cib.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216771149176",
+          "name": "石狮市搏力佳程服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2202281",
+        "mallType": "T1688",
+        "itemId": "743987183542",
+        "title": "Putian high version 1996 down jacket American version 700 embroidery 90 white duck down men and women couple coat one-piece delivery",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nGPVu61VRI4Adw3Bs_!!2216739582649-0-cib.jpg",
+        "price": "¥245.00",
+        "toPrice": "$38.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkWVE6Lxu6P3YMAHPvT88eA",
+          "name": "莆田市荔城区纯优百货店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2201727",
+        "mallType": "T1688",
+        "itemId": "953837134792",
+        "title": "D Home Ceiling Winter New Jacquard Full Print LOGO Stand up Collar Down Jacket Couple's Loose Commuting INS Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01naE67Z2LgjcvUxjjU_!!2220294929722-0-cib.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqNN5O8vCFtlyfFw1WLX-MA",
+          "name": "义乌市冉钰服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2201270",
+        "mallType": "WD",
+        "itemId": "7531334721",
+        "title": "Men's and Women's Jacket Thickened Cotton WhatsApp+8617371738488",
+        "picUrl": "https://si.geilicdn.com/wdseller1799811745-3c8700000192da6a73010a231316_640_640.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1827533785",
+          "name": "panda🍎🎧⌚️",
+          "logo": "https://si.geilicdn.com/wdseller1851028466-6ce40000019922ff8ddf0a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2200711",
+        "mallType": "T1688",
+        "itemId": "953137566985",
+        "title": "Poisoner high version spot British B detachable sleeves hooded down jacket simple trend vest jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017wFMgC1mriZXM77Ng_!!2220143615008-0-cib.jpg",
+        "price": "¥430.00",
+        "toPrice": "$67.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220143615008",
+          "name": "东莞市大朗海豚鱼服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2930904",
+        "mallType": "WD",
+        "itemId": "7535755878",
+        "title": "羽绒服棉服外套夹克",
+        "picUrl": "https://si.geilicdn.com/wdseller1931851201-162600000198e94fe5120a210256_800_800.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785245645",
+          "name": "潮牌时尚店",
+          "logo": "https://si.geilicdn.com/wdseller1931851201-5335000001972554152c0a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1839766",
+        "mallType": "T1688",
+        "itemId": "897764061949",
+        "title": "Upgraded Foreign Trade RL Ralph Men's and Women's Hooded Detachable Windproof and Waterproof Down Jacket with Zipper",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015WfMtU1oPti9QC1Rj_!!2218522655218-0-cib.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218522655218",
+          "name": "莆田市秀屿区卡努服装店(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2575142",
+        "mallType": "T1688",
+        "itemId": "898714612312",
+        "title": "Cross border winter trend in foreign trade: Trapstar hooded cotton jacket with embroidered European and American hip-hop on the back, thick cotton jacket for men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VtK5Fn1WMXj9cElXR_!!2219451192774-0-cib.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLbsg1n46sLX-t6vbJxYoSw",
+          "name": "广州雅霏盛服饰箱包商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2575054",
+        "mallType": "T1688",
+        "itemId": "843705147295",
+        "title": "Workwear hooded down jacket men and women couples cross-border warm versatile loose jacket can be two open Mengkou paragraph",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ajaac02FTYSYvgLgL_!!2206566978881-0-cib.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206566978881",
+          "name": "石狮市守夜人服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2575050",
+        "mallType": "T1688",
+        "itemId": "832545551819",
+        "title": "Mengkou winter new fashion Korean lovers down jacket men's short outdoor thick hooded live",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cAojaj2HSky5haXgW_!!2214652119150-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGrEdGmo61KmIq5U7cDAH1Q",
+          "name": "广州赛旭宜贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2564406",
+        "mallType": "T1688",
+        "itemId": "945775803967",
+        "title": "Winter new embroidery models European station DO fashion splicing hooded cotton jacket casual tide two sides wear cotton jacket jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016mn3v61Pl5fmvV4BD_!!2219876991880-0-cib.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219876991880",
+          "name": "广州黄埔区针禾服装经营商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2560521",
+        "mallType": "WD",
+        "itemId": "7508712185",
+        "title": "High version foreign trade down jacket hooded Xiaohongma logo for both men and women, same warm and new loose jacket in stock",
+        "picUrl": "https://si.geilicdn.com/open1629391697-1234478995-754f000001980db8236b0a23b4de_1066_1066.jpg",
+        "price": "¥577.50",
+        "toPrice": "$90.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629391697",
+          "name": "RepTigerSupply",
+          "logo": "https://si.geilicdn.com/weidian1788880988-2ebf000001937ca639f50a23038e_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2207726",
+        "mallType": "T1688",
+        "itemId": "576618916441",
+        "title": "Foreign trade Europe and the United States slim short cotton-padded jacket imitation fur collar cap warm coat spot a generation of hair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01n9fYCu1oAK6lSj3lR_!!2360665184-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6S3_krsyoA7MuMWrqL0SNg",
+          "name": "新沂市森林服饰加工厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143444511914134097",
+  "language": "en"
+}

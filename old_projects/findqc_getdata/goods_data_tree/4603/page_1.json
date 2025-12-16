@@ -1,0 +1,642 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3207073",
+        "mallType": "WD",
+        "itemId": "7492571539",
+        "title": "适用苹果16promax铝合金iPhone15黑色行李箱全包手机壳苹果款14壳",
+        "picUrl": "https://si.geilicdn.com/open1684891361-1234478995-7500000001977f23d2f30a22d249_1080_1080.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684891361",
+          "name": "ThebigY store",
+          "logo": "https://si.geilicdn.com/wdseller1778358520-557d00000196f8821c200a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2845253",
+        "mallType": "T1688",
+        "itemId": "975018528486",
+        "title": "新款铝合金苹果/黑色行李箱全包手机壳适用iPhone17/16/15/14金属",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WofIJh1zcECCqyt4K_!!2220703856734-0-cib.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8u0qkknn2IftFYxZ9UjfhQ",
+          "name": "深圳市福田区诚鑫手机壳商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1584374",
+        "mallType": "T1688",
+        "itemId": "928199506824",
+        "title": "New Aluminum Alloy Apple/Black Suitcase-Style Full-Cover Phone Case Suitable for iPhone 17/16/15/14 Metal",
+        "picUrl": "https://cdn.findqc.com/item/20250930/mg6qn1jh_qr2s.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBte66t3iegcXn7M6h_BiwGA",
+          "name": "深圳市零零数码有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 316,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1939524",
+        "mallType": "WD",
+        "itemId": "7298640972",
+        "title": "High quality 15 PM",
+        "picUrl": "https://si.geilicdn.com/pcitem1764131691-249800000192f2831cb60a23057e_1280_1706.jpg",
+        "price": "¥1,999.00",
+        "toPrice": "$314.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1634748225",
+          "name": "Panda Trade Mall",
+          "logo": "https://si.geilicdn.com/shopedit1764131691-21c800000195dea3fb8e0a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2307422",
+        "mallType": "T1688",
+        "itemId": "852627068952",
+        "title": "New I16 Pro Max4+64G Cross Border Phone Photo Key 6.73 inch Android 10 Global Edition Universal Rubber Case",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01p9JZII1kx5vPBflPy_!!2209520734749-0-cib.jpg",
+        "price": "¥420.00",
+        "toPrice": "$66.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209520734749",
+          "name": "深圳市奥米伽电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1424455",
+        "mallType": "WD",
+        "itemId": "7231128346",
+        "title": "🍎 15 pro max(you can buy it on itaobuy/kakobuy/oopbuy ,some agents can not buy)",
+        "picUrl": "https://si.geilicdn.com/pcitem1848930946-788a0000019294e208a50a8133cc_750_750.jpg",
+        "price": "¥900.00",
+        "toPrice": "$141.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840753881",
+          "name": "Heart Encounter",
+          "logo": "https://si.geilicdn.com/shopedit1848930946-76a500000197d779782e0a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3147703",
+        "mallType": "WD",
+        "itemId": "7556084686",
+        "title": "I.P.17 Pro.max(cnfans/joyagoo/acbuy/allchinabuy can't buy it  ",
+        "picUrl": "https://si.geilicdn.com/pcitem1769897421-3a0a00000199662ff3f20a23038e_3000_4000.jpg",
+        "price": "¥1,250.00",
+        "toPrice": "$196.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1843157105",
+          "name": "Blue Cat Electronics",
+          "logo": "https://si.geilicdn.com/shopedit1800680305-0de60000019773edb7030a2303ee-unadjust_747_747.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2511385",
+        "mallType": "WD",
+        "itemId": "7554505695",
+        "title": "I.P.17 Pro.max(cnfans/joyagoo/acbuy/allchinabuy can't buy it 。can buy it on itaobuy/kakobuy/oopbuy)",
+        "picUrl": "https://si.geilicdn.com/pcitem1848930946-0fb9000001996cdc62c30a23057e_750_750.jpg",
+        "price": "¥1,350.00",
+        "toPrice": "$212.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840753881",
+          "name": "Heart Encounter",
+          "logo": "https://si.geilicdn.com/shopedit1848930946-76a500000197d779782e0a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1424456",
+        "mallType": "WD",
+        "itemId": "7314745794",
+        "title": "I.P.16 plus(you can buy it on itaobuy/kakobuy/oopbuy ,some agents can not buy)\n",
+        "picUrl": "https://si.geilicdn.com/pcitem1848930946-35df000001938735cf160a2395d6_750_750.jpg",
+        "price": "¥950.00",
+        "toPrice": "$149.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840753881",
+          "name": "Heart Encounter",
+          "logo": "https://si.geilicdn.com/shopedit1848930946-76a500000197d779782e0a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2515795",
+        "mallType": "WD",
+        "itemId": "7524413812",
+        "title": "DX177-1] New Aluminum Black Luggage Full Bag Phone Case",
+        "picUrl": "https://si.geilicdn.com/open1667032845-252808396-155c00000198928e3cbf0a8115c2_1080_1080.jpg",
+        "price": "¥93.50",
+        "toPrice": "$14.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667032845",
+          "name": "超级牛",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424514-4cfb00000195e79975270a81347d-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2713535",
+        "mallType": "WD",
+        "itemId": "7575598918",
+        "title": "I.P.17 Pro.max\n",
+        "picUrl": "https://si.geilicdn.com/pcitem1769897421-3a0a00000199662ff3f20a23038e_3000_4000.jpg",
+        "price": "¥1,000.00",
+        "toPrice": "$157.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812682771",
+          "name": "我的大店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2681275",
+        "mallType": "TB",
+        "itemId": "657564851848",
+        "title": "Duokin 1S+ Children's Student Phone, Can Only Make and Receive Calls, Non-Smartphone, for High School and Middle School Students, with Gps Positioning, No Camera, Factory Workshop Confidential Phone, Xiaoai Duokin Phone",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2212711053702/O1CN0119LRbQ1dDZCLRW5w4_!!2-item_pic.png",
+        "price": "¥389.00",
+        "toPrice": "$61.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "470068141",
+          "name": "华辰守护数码专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2594035",
+        "mallType": "TB",
+        "itemId": "813607753292",
+        "title": "Rent a Sony Ps5 Console for Half a Month or a Full Month with Free Shipping Via Sf Express,芝麻信用 (Zaishu Credit) No Deposit Required, 明末渊虚之羽 (Ming Mo Yuan Xu Zhi Yu)",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/13198502/O1CN01p4nr7w2CfyK1tnNFC_!!13198502.jpg",
+        "price": "¥192.70",
+        "toPrice": "$30.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "35765829",
+          "name": "天津次世代乐电玩",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2582110",
+        "mallType": "WD",
+        "itemId": "7486846645",
+        "title": "【 DX67 】 I.P.16plus (Youcanbuyitonitaobuy) (Customized products are not available for after-sales service unless there are quality issues, please purchase with caution)",
+        "picUrl": "https://si.geilicdn.com/pcitem1769897421-614b00000193797f84970a210256_3648_2736.jpg",
+        "price": "¥1,350.00",
+        "toPrice": "$212.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2555317",
+        "mallType": "WD",
+        "itemId": "7531359131",
+        "title": "phone 16promax 1:1 TOP quality",
+        "picUrl": "https://si.geilicdn.com/weidian282626967-306500000198dcf4579a0a23057e_877_847.jpg",
+        "price": "¥1,280.00",
+        "toPrice": "$201.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "282626967",
+          "name": "CoCo",
+          "logo": "https://si.geilicdn.com/vshop141942698172409737.jpeg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2450801",
+        "mallType": "TB",
+        "itemId": "591715587725",
+        "title": "Google/Google Pixel3/Pixel3Xl 3Rd Generation Native System 3-Network Smartphone in Stock",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/124813046/O1CN01LKv22U1YN7HTGExr9_!!124813046.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36209050",
+          "name": "阳光通讯数码",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1697285",
+        "mallType": "WD",
+        "itemId": "7492732720",
+        "title": "【Florich】Batch Fashion trend style ",
+        "picUrl": "https://si.geilicdn.com/open1627733485-1234478995-5a7c000001976aba44850a23b491_1080_1080.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1627733485",
+          "name": "Florich",
+          "logo": "https://si.geilicdn.com/shopedit1944638255-70dc00000196dd4e44270a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1812403",
+        "mallType": "WD",
+        "itemId": "7395250785",
+        "title": "s,2,5 u.l.t.r.a(not  buy:cnfans/hoobuy/joyabuy !! just buy it on allchinabuy or oopbuy other agents\n",
+        "picUrl": "https://si.geilicdn.com/open1795529188-1234478995-270e000001951ed865760a23b4de_2560_3413.jpg",
+        "price": "¥1,000.00",
+        "toPrice": "$157.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1795529188",
+          "name": "Dream Factory",
+          "logo": "https://si.geilicdn.com/wdseller844114706-0043000001924e5caeb00a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "307515",
+        "mallType": "WD",
+        "itemId": "7101109756",
+        "title": "15/16 PRO MAX(cnfans/hoobuy can’t ship phones , please use other agents to buy)",
+        "picUrl": "https://cdn.findqc.com/item/20241207/m4dbt8ka_0p0f.jpg",
+        "price": "¥1,150.00",
+        "toPrice": "$180.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "238424219",
+          "name": "SUDU-gadgets",
+          "logo": "https://si.geilicdn.com/wdseller238424219-53dd0000018cdad711910a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1106362",
+        "mallType": "WD",
+        "itemId": "7384121656",
+        "title": "Sandals (Recommended to take one size up) (Please note FR size) Remarks",
+        "picUrl": "https://si.geilicdn.com/wdseller1553163813-4ea50000018faea28f410a2301b4_1290_1290.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1762039621",
+          "name": "CSX",
+          "logo": "https://si.geilicdn.com/shopedit1809160355-1812000001947cbc74210a2395a3-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 70,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146407571913206790",
+  "language": "en"
+}

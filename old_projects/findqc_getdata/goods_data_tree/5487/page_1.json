@@ -1,0 +1,438 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2955418",
+        "mallType": "WD",
+        "itemId": "7313437370",
+        "title": "L13683-N10",
+        "picUrl": "https://si.geilicdn.com/pcitem901900562172-2b50000001937c6ab6e30a20e284_1080_1080.jpg",
+        "price": "¥339.00",
+        "toPrice": "$53.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718110841",
+          "name": "L1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "253472",
+        "mallType": "WD",
+        "itemId": "7306800995",
+        "title": "Winter fashion loose and versatile down jacket YHH14",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42pbzvq_iu9b.jpg",
+        "price": "¥249.00",
+        "toPrice": "$39.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834518869",
+          "name": "TigerBuy",
+          "logo": "https://si.geilicdn.com/shopedit1900469054-18de00000192c6d32c360a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2844470",
+        "mallType": "WD",
+        "itemId": "7519141281",
+        "title": "Air Force 1 '07 Low YX5066-354",
+        "picUrl": "https://cdn.findqc.com/item/20251105/mhlcbe2n_2pn5.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1874332105",
+          "name": "LX Factory",
+          "logo": "https://si.geilicdn.com/weidian1648522646-1efd0000018c77afc1f40a20e672_1148_1148.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2343348",
+        "mallType": "WD",
+        "itemId": "7523947240",
+        "title": "Casual shoes ky256190",
+        "picUrl": "https://cdn.findqc.com/item/20250921/mftdcdeb_hkwy.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1874332105",
+          "name": "LX Factory",
+          "logo": "https://si.geilicdn.com/weidian1648522646-1efd0000018c77afc1f40a20e672_1148_1148.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1839911",
+        "mallType": "WD",
+        "itemId": "7411440829",
+        "title": "Y * * * y S * lide to shoot two sizes larger",
+        "picUrl": "https://cdn.findqc.com/item/20250725/mdhx6c1z_9uto.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1774979637",
+          "name": "UPNYC",
+          "logo": "https://si.geilicdn.com/wdseller1906283102-23310000019321b320850a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 109,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1108319",
+        "mallType": "WD",
+        "itemId": "7301241040",
+        "title": "L11894-N19",
+        "picUrl": "https://cdn.findqc.com/item/20250405/m936pr4g_rty9.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718110841",
+          "name": "L1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "981357",
+        "mallType": "TB",
+        "itemId": "758839673353",
+        "title": "Surprise Lucky Bag Blind Box 240g Thick Cotton Short Sleeves Randomly Released! We do not support a seven day no reason return or exchange policy",
+        "picUrl": "https://cdn.findqc.com/item/20250605/mbiat0yo_c400.jpg",
+        "price": "¥15.80",
+        "toPrice": "$2.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "460196382",
+          "name": "90s90s90s复古商店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 149,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390417",
+        "mallType": "WD",
+        "itemId": "7324621163",
+        "title": "L13806-N37",
+        "picUrl": "https://cdn.findqc.com/item/20241227/m55vosh2_udkq.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1831703161",
+          "name": "L2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56763",
+        "mallType": "WD",
+        "itemId": "6170416333",
+        "title": "L289",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npul1v_hlof.jpg",
+        "price": "¥495.00",
+        "toPrice": "$77.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1805831214",
+          "name": "Scarlettluxury（bag）",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114914712194344959",
+  "language": "en"
+}

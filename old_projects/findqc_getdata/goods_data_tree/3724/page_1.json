@@ -1,0 +1,418 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "346751",
+        "mallType": "WD",
+        "itemId": "7265285794",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sb2ey3_9gti.jpg",
+        "price": "¥314.00",
+        "toPrice": "$49.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1702283",
+        "mallType": "WD",
+        "itemId": "7322240637",
+        "title": "G 0 A T（不含镜袋）",
+        "picUrl": "https://si.geilicdn.com/open1751930489-252808396-3e3700000191920e62ec0a210559_1920_1920.jpg",
+        "price": "¥201.00",
+        "toPrice": "$31.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "309287",
+        "mallType": "WD",
+        "itemId": "6676630885",
+        "title": "CH Optical Glasses High quality Retro Edition Transparent Frame Glasses Box Lunch-A Size: 54-16-148 Amy:+852 97075632 or Mina:+852 70959088, WA",
+        "picUrl": "https://cdn.findqc.com/item/20241205/m4bg949n_w9gs.jpg",
+        "price": "¥298.00",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1745133246",
+          "name": "JIMI OPTICAL",
+          "logo": "https://si.geilicdn.com/shopedit1790981783-30930000018aef02ab480a231418-unadjust_407_339.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2184131",
+        "mallType": "T1688",
+        "itemId": "946734313484",
+        "title": "新款玳瑁墨镜可套近视眼镜开车专用防紫外线防阳光时尚偏光太阳镜",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zrUivi1ghHqUN0aZZ_!!2215788984173-0-cib.jpg",
+        "price": "¥4.00",
+        "toPrice": "$0.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218026418488",
+          "name": "杭州一路发严选电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2262813",
+        "mallType": "T1688",
+        "itemId": "642607777234",
+        "title": "New fashion glasses, business style frameless men's frames, personalized retro women's optical glasses frames wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mey4jk2u_kybv.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3321235472",
+          "name": "深圳市迈凯伦眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1337445",
+        "mallType": "T1688",
+        "itemId": "649442714827",
+        "title": "New card family leopard head sunglasses men's and women's cross-border European and American personality sunglasses optical frame can be equipped with myopia glasses",
+        "picUrl": "https://cdn.findqc.com/item/20250512/mak2361a_jwv4.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhKpctnHw1MYzz0AGOHLctw",
+          "name": "台州市椒江卡迪眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1221516",
+        "mallType": "T1688",
+        "itemId": "833577660861",
+        "title": "New Leopard Head Sunglasses for Men and Women, European and American Casual Fashion Versatile Cross border Popular Sunglasses Wholesale Factory",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9pxl5z3_f3wi.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "categoryId": 41,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "49258",
+        "mallType": "T1688",
+        "itemId": "654898390943",
+        "title": "New plate eyeglasses frame fashion men's personalized optical frames girls myopia prescription full-rim eyeglasses frame",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgkj2y_zkqb.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "18549",
+        "mallType": "T1688",
+        "itemId": "704323033645",
+        "title": "New rimless anti-blue light color-changing myopia glasses men's business myopia glasses intelligent light-sensitive color-changing myopia glasses",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nf55a7_ij7l.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143243841911217847",
+  "language": "en"
+}

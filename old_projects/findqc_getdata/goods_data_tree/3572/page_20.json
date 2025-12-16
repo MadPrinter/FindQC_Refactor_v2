@@ -1,0 +1,302 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "35515",
+        "mallType": "T1688",
+        "itemId": "694408470643",
+        "title": "Spring, Autumn and Winter College Style Gray Mature Mylene Wear Lazy Style Knitted Cardigan + Tie Shirt + Pleated Short Skirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nklgga_5177.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2207486035102",
+          "name": "广州时尚潮衫服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35405",
+        "mallType": "TB",
+        "itemId": "706466085201",
+        "title": "ins Blogger-Inspired French-Style Niche Knit Cardigan with a Single-Breasted Shirt Collar, White Sweater Cardigan for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkknrt_widc.jpg",
+        "price": "¥172.97",
+        "toPrice": "$27.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "126638894",
+          "name": "SAKI製衣所二店",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34634",
+        "mallType": "TB",
+        "itemId": "740127446582",
+        "title": "Our Legacy Gray Mohair Cardigan Wool Blend Knitwear Long-Sleeved Sweater V-Neck Fur Outwear",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkdunw_mybn.jpg",
+        "price": "¥311.24",
+        "toPrice": "$48.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "237772950",
+          "name": "1AM  SHOP",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34412",
+        "mallType": "TB",
+        "itemId": "739088771372",
+        "title": "Early Autum 2023 New Fake Two-Piece Inner Layering Shirt Long-Sleeved Top Women's Early Autum Blue Knitwear",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkaa7e_4fzw.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108867840",
+          "name": "韩蕾娜",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34246",
+        "mallType": "TB",
+        "itemId": "746802152238",
+        "title": "Niche 23 years of fall new Slim and thin irregular navel exposed knit sweater female mid-collar wool bottoming tops",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk9vrh_0cnl.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "33148",
+        "mallType": "T1688",
+        "itemId": "786247654775",
+        "title": "Custom-dyed Tencel linen yarn super white textured pattern leisure lazy F sun thin cardigan summer 2024",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njxw3l_1hda.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32374",
+        "mallType": "TB",
+        "itemId": "654017196169",
+        "title": "In Stock JOY Park Soo-Young Korean Designer Brand Shoulder Cut Out Shoulder Short V Neck Knitting Cardigan",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njtm1f_87y6.jpg",
+        "price": "¥537.48",
+        "toPrice": "$84.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "73042363",
+          "name": "Rappii 美少女更衣室",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32086",
+        "mallType": "TB",
+        "itemId": "676232492869",
+        "title": "Korean Purchasing 22S/S Palette Striped Short T-Shirt Mixed Color Rainbow Knitted T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njrhb9_aurr.jpg",
+        "price": "¥176.76",
+        "toPrice": "$27.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36282986",
+          "name": "石大大韩国正品代购",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32055",
+        "mallType": "TB",
+        "itemId": "630022793400",
+        "title": "Golf Wang Le Fleur Solf Cardigan Crocodile Collaboration Cardigan Unisex Wool Sweater Autumn and Winter Men's",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njre8c_iv31.jpg",
+        "price": "¥203.00",
+        "toPrice": "$31.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "218784248",
+          "name": "小众外贸折扣店",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "31781",
+        "mallType": "TB",
+        "itemId": "737774705462",
+        "title": "Cardigan Cashmere 50% Scandinavian Crew Neck Knit Cardigan 238",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njpfrg_5esu.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "31591",
+        "mallType": "T1688",
+        "itemId": "659066981082",
+        "title": "W0001 European and American cross-border women's rainbow color collision thin knitted cardigan sweater jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njkvk5_f1cl.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "27751",
+        "mallType": "TB",
+        "itemId": "613591579638",
+        "title": "S home 2021 spring and summer new Slim fashionable wild wave V-neck short-sleeved knit sweater women SFPPU00678",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3niov5c_iozc.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "27571",
+        "mallType": "TB",
+        "itemId": "748708527907",
+        "title": "Thirteen lines burst fire models, 23 new lazy wind bow tie collar thickened raccoon velvet sweater women 2023 fall and winter",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nimy14_j0dd.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "27032",
+        "mallType": "TB",
+        "itemId": "761267067131",
+        "title": "Ready Stock, Shipped Instantly! 2025 New Casual Color-Blocked Short Knitted Jacket Top for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nij6du_3pl1.jpg",
+        "price": "¥237.44",
+        "toPrice": "$37.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "324408147",
+          "name": "GANLING轻奢高端女装",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26974",
+        "mallType": "TB",
+        "itemId": "677585719437",
+        "title": "Spicy Girl Style Sexy Trendy Niche Fashion Ouyang Nana Same Style Grass Green Knitted Cardigan Ribbed Long-Sleeve Knit Top for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3niizax_lv5k.jpg",
+        "price": "¥156.26",
+        "toPrice": "$24.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "430383226",
+          "name": "SSGROVEENK南法品牌店",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26404",
+        "mallType": "TB",
+        "itemId": "682072040700",
+        "title": "Bronze Lucia sweater jacket women cardigan 2022 fall new wool knit sweater outer loose foreign style",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nifq83_3iln.jpg",
+        "price": "¥1,380.00",
+        "toPrice": "$217.00",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "25960",
+        "mallType": "TB",
+        "itemId": "573110189696",
+        "title": "Summer new round neck pullover wool short sleeved sweater women's loose Korean half sleeved knitted base sweater thin T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/480352542/O1CN01gkV97f1UeHLSlEcyE_!!480352542.jpg",
+        "price": "¥26.90",
+        "toPrice": "$4.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104688550",
+          "name": "高端羊绒工厂直销店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "25638",
+        "mallType": "WD",
+        "itemId": "7266979606",
+        "title": "0828113 BH",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nibicv_c8f9.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142443661917136183",
+  "language": "en"
+}

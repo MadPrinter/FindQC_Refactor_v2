@@ -1,0 +1,366 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1823412",
+        "mallType": "WD",
+        "itemId": "7265893421",
+        "title": "Youth version of the activity sweater (non-quality issues do not support the return of goods)",
+        "picUrl": "https://si.geilicdn.com/pcitem1873385315-4a6600000191a73f7b180a239846_1280_1920.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1729503109",
+          "name": "Top Barry",
+          "logo": "https://si.geilicdn.com/shopedit1873385315-2d19000001929ac0b45c0a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1822285",
+        "mallType": "WD",
+        "itemId": "7463009035",
+        "title": "*",
+        "picUrl": "https://si.geilicdn.com/open1761500601-1234478995-6d5b000001911863000e0a232357_1600_1600.jpg",
+        "price": "¥265.00",
+        "toPrice": "$41.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659999653",
+          "name": "我的店铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-641800000193b565e3020a23038e-unadjust_288_288.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1676389",
+        "mallType": "WD",
+        "itemId": "7246349899",
+        "title": "701 Washed Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/wdseller901866889059-618600000190729c23b50a23057e_1170_1170.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1676364",
+        "mallType": "T1688",
+        "itemId": "849125131750",
+        "title": "European and American Wholesale Cross-Border Autumn and Winter New Street Hip-Hop Splicing Printed Hoodie Y2K Harajuku Style Jacket Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qpekFn2MzncFn6Jvu_!!2208496619899-0-cib.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKZln6FkyYQPVdvbg5pjPcQ",
+          "name": "深圳呓语如烟电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2497880",
+        "mallType": "WD",
+        "itemId": "7499742158",
+        "title": "G0AT",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-1b580000018f4cba4c790a232357_1440_1920.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2496898",
+        "mallType": "WD",
+        "itemId": "7493083350",
+        "title": "★★★★★ Fashion casual versatile sweater",
+        "picUrl": "https://si.geilicdn.com/open1870726453-1234478995-1bdb0000019761a55c270a23b491-unadjust_1200_1200.png",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1870726453",
+          "name": "highest quality",
+          "logo": "https://si.geilicdn.com/weidian1907091748-1527000001970f3735e50a2102c5_1116_1116.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2496333",
+        "mallType": "WD",
+        "itemId": "7514554392",
+        "title": "Zipper Cardigan 1994 English Print National Tide Treasure Boy Hoodie",
+        "picUrl": "https://si.geilicdn.com/open1622703461-1234478995-6eb90000019837427dbf0aa0c791_800_800.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622703461",
+          "name": "Trendybrandsmallshop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2432312",
+        "mallType": "T1688",
+        "itemId": "924067855881",
+        "title": "carhatt Europe and the United States carhatt tide brand classic paragraph letters embroidery men and women loose hooded padded hoodie sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xWhOvQ26OCzH8GFh2_!!2210958837651-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219738399010",
+          "name": "广州欧米咖服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1636533",
+        "mallType": "T1688",
+        "itemId": "841101729491",
+        "title": "STD stone fall and winter half-zipper function of the classic high street style fashion simple and versatile pullover casual sweater couple",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZvwH4l1rt9omsdkN9_!!2217559365688-0-cib.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217559365688",
+          "name": "上海侗朋商贸经营部(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2327757",
+        "mallType": "T1688",
+        "itemId": "878320362342",
+        "title": "2025 Spring, Autumn, and Winter New Full-Print Light Luxury Symbol Hoodie Trendy Cool High-End Casual Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01152EGC1xjRCQxoCYw_!!2218592456479-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdscB-S3lfvkkktmA_UQtUw",
+          "name": "义乌市汇明服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2321577",
+        "mallType": "WD",
+        "itemId": "7538633365",
+        "title": "English Pattern Hooded Sweatshirt Y1313",
+        "picUrl": "https://si.geilicdn.com/open1765554595-252808396-67dc0000019905ae5fb00a23b491_750_750.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1765554595",
+          "name": "Singor2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1496414",
+        "mallType": "T1688",
+        "itemId": "915799418267",
+        "title": "Spring Hook Overseas Explosions Joint Noc Hooded Sweat Hook Offset Letter Casual Sports Couple Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xD24n01m8NKy2jIF2_!!2219704164909-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxICm4dX9fpeHkl4aJekVLQ",
+          "name": "广州靖之服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 140,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1314728",
+        "mallType": "WD",
+        "itemId": "7387319537",
+        "title": "High quality hoodie MC-C61",
+        "picUrl": "https://si.geilicdn.com/open1648936853-1234478995-132e00000194f3c7e7960aa08290_800_800.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648936853",
+          "name": "StyleTransit",
+          "logo": "https://si.geilicdn.com/shopedit1898318301-4f3900000198d55a5daa0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 132,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1314467",
+        "mallType": "T1688",
+        "itemId": "902523216607",
+        "title": "Cross border luxury trend high-quality printed letter logo short sleeved trendy brand foreign trade European goods B home round neck men's and women's loose T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NrBiGq1fnrtxnsBGY_!!2219422284052-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219422284052",
+          "name": "广州吉事服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1314465",
+        "mallType": "T1688",
+        "itemId": "781170630708",
+        "title": "24 Spring and Autumn unisex CEL hooded sweatshirt, loose and simple zipper jacket, couple printed looped cotton hooded sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qzGgk523AWYme9FmI_!!2217664407215-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQ-kw6PGYf9aemJgaAXuqYQ",
+          "name": "即墨区维尼克服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1305351",
+        "mallType": "T1688",
+        "itemId": "856384861505",
+        "title": "Europe and the United States cross-border ESSENTIALS letters printed FOG sweater new high street hooded men and women couples pullover jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mOWhTw1Bs30xSDeao_!!0-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1136507",
+        "mallType": "T1688",
+        "itemId": "807145537836",
+        "title": "2024 new trend men's sports suit couples hoodie foreign trade letters printed casual sweater suit spring and fall",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000001313/O1CN017tpENz1LZOybnPrMW_!!6000000001313-0-tbvideo.jpg",
+        "price": "¥31.99",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1136479",
+        "mallType": "T1688",
+        "itemId": "888846258954",
+        "title": "25 New Men's Sports Drawstring Hoodie Spring and Autumn Printed Long Sleeve Sweatshirt Hooded Tops Men's Ensemble",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QYJSfX2ItbsLcJMNh_!!2218438909344-0-cib.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "941885",
+        "mallType": "WD",
+        "itemId": "7373347553",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1834095317-1234478995-226300000192e1ccc1450aa08290_800_800.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769151449",
+          "name": "顺泽鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2127773",
+        "mallType": "T1688",
+        "itemId": "895414308461",
+        "title": "Bape Double Cap Cross-Border Wholesale New Shark Camouflage Pure Cotton Embroidered Simple Hooded Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011tr3Ld2DY19KMuzlF_!!2218651308620-0-cib.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZXEjxRbyFiYbjfRNVk83XA",
+          "name": "中山市成四制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 112,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144200211914130754",
+  "language": "en"
+}

@@ -1,0 +1,43 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2861",
+        "mallType": "TB",
+        "itemId": "670384706735",
+        "title": "Original Design Loose and Loose Loose Short-Sleeved Strangers Trendy Brand Simple and Versatile Pure Cotton Men and Women Couple T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m331m4_klvs.jpg",
+        "price": "¥70.34",
+        "toPrice": "$11.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102253557",
+          "name": "男人的选择",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2836",
+        "mallType": "TB",
+        "itemId": "761099417078",
+        "title": "ANGEL KING Sailboat POLO retro jersey Alcatraz short-sleeved tee men and women couples street versatile",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m32jcx_2aab.jpg",
+        "price": "¥69.30",
+        "toPrice": "$10.90",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202115536294194365804",
+  "language": "en"
+}

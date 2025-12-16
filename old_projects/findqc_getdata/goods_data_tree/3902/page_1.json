@@ -1,0 +1,612 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3061041",
+        "mallType": "T1688",
+        "itemId": "990921497051",
+        "title": "SUP潮牌美式3件装纯棉针织背心运动跑步健身街舞轻薄舒适休闲打底",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019iw2zA2LbEtpkuhmP_!!2219103699710-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaeUq5yc254vAq_wtpHFfmA",
+          "name": "武汉市硚口区奉翔针织厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2,
+        "picWidth": "1280",
+        "picHeight": "1280"
+      },
+      {
+        "id": "1239579",
+        "mallType": "T1688",
+        "itemId": "753356568792",
+        "title": "Wholesale Foreign Trade Jerseys 2023 New Season Spurs 1 Vumbanyama Thunder 2 Embroidered Basketball Jerseys",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YE6xe71oniAdZKUmP_!!2214636725270-0-cib.jpg",
+        "price": "¥31.00",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2066577",
+        "mallType": "T1688",
+        "itemId": "710152829304",
+        "title": "Summer thin breathable sleeveless sports basketball undershirt top moisture wicking round neck American shooting clothes quick drying male",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fVCJVQ25SVR2jnoDu_!!2214214917525-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214214917525",
+          "name": "东莞市南城盈凌基服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3192156",
+        "mallType": "T1688",
+        "itemId": "822602750702",
+        "title": "76ers jersey Iverson No.3 76ERS IVERSON# No.3 embroidered black and white blue retro basketball uniform wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XMeTFr29Asasdu8Eg_!!2217861008028-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByvQfTFnANVsgem_Pyex5Eg",
+          "name": "义乌市梵挞贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3192102",
+        "mallType": "T1688",
+        "itemId": "899724254844",
+        "title": "Mn Hot-Pressed Retro Jersey: Sw 76Ers 98 Season Black White No. 3 Iverson Sleeveless Vest",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mD8Tal1YqszIfn8CC_!!2215440893111-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGgYHHARPpmzipgwBt8q6gw",
+          "name": "上海缔铖贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3101403",
+        "mallType": "T1688",
+        "itemId": "711710582195",
+        "title": "Summer Cross-Border Jersey 76 People 3 Iverson Retro Embroidered Basketball Uniform Sports Training Clothing Men's and Women's Vest Suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ODXOiI1kImtQwoxfJ_!!2215543794661-0-cib.jpg",
+        "price": "¥31.00",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB3HJewCwvs7vjjPZ41Sza9g",
+          "name": "莆田市城厢区万佳豪服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2173830",
+        "mallType": "T1688",
+        "itemId": "865937855363",
+        "title": "Cross Country Wholesale Jerseys 1 Maddie 15 Carter 23 James 33 Bird 3 Iverson Basketball Jerseys",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gPhwsP1DhAqpRUtAY_!!2215383560247-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215383560247",
+          "name": "莆田市荔城区晨毅鞋服商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1543166",
+        "mallType": "T1688",
+        "itemId": "830836463053",
+        "title": "Secret Embroidery Garnett 21 Iverson 3 Curry 30 O yards 2 Doncic 77 Dream 16 Basketball Jerseys Vest Breathable Quick Drying",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PyUIc51fUAocRjRRY_!!2215074584009-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2964355",
+        "mallType": "T1688",
+        "itemId": "916194091101",
+        "title": "2526 Flamengo Jersey Corinthians Santos Sao Paulo Cruzeiro Mexican Vest Football uniform",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0128Nvgb1tlws0pKRoR_!!2200639045943-0-cib.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvtmxYW0qcPDDFMdcgni8KQ",
+          "name": "广州白云区绫致服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2898374",
+        "mallType": "TB",
+        "itemId": "666791445695",
+        "title": "Da Mo Jie Diamond League Marathon Tank Top Split Track and Field Uniform with LOGO Customizable",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjxvwdk_ix0n.jpg",
+        "price": "¥158.74",
+        "toPrice": "$24.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66930438",
+          "name": "大百业体育 订制店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2915613",
+        "mallType": "WD",
+        "itemId": "7487936151",
+        "title": "LX10 American Trend Peplum Set spreadsheet.help/",
+        "picUrl": "https://si.geilicdn.com/open1623462477-1234478995-543d000001974e4b63c80aa08290_1200_1200.jpg",
+        "price": "¥178.80",
+        "toPrice": "$28.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1623462477",
+          "name": "TrendBound",
+          "logo": "https://si.geilicdn.com/shopedit1926420298-21af00000198d55ba77a0a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3183373",
+        "mallType": "T1688",
+        "itemId": "751111633060",
+        "title": "美式跨境球衣裤湖人热火太阳勇士雄鹿魔术复古口袋密锈男短裤休闲",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UvoNLF1yOCGCL6bZR_!!2216876256568-0-cib.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216876256568",
+          "name": "莆田市城厢区沐辰服装商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2741369",
+        "mallType": "WD",
+        "itemId": "7513534290",
+        "title": "Jersey #101",
+        "picUrl": "https://si.geilicdn.com/pcitem1944767919-2c9b000001986043ca850a231177_800_800.jpg",
+        "price": "¥93.00",
+        "toPrice": "$14.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1927353",
+        "mallType": "T1688",
+        "itemId": "902177913136",
+        "title": "NBA Mavericks Irving Dongchich Davis City Edition Sports Training Shorts Game Basketball Shorts",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0143kTkN209f3wkYbOM_!!2219407186807-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9z5ALqIwk69yOPlBvbHWsQ",
+          "name": "莆田市城厢区美晟篮服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2844893",
+        "mallType": "T1688",
+        "itemId": "957398447632",
+        "title": "Cross border popular NFL team jersey series silicone beads TK live streaming Amazon DIY string pen bead accessories",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015EHuJb1VqwQyrP7PD_!!2219095542705-0-cib.jpg",
+        "price": "¥1.50",
+        "toPrice": "$0.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB39lOVMzzAgPKiMaUMLcPqw",
+          "name": "义乌市赋喜贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2845191",
+        "mallType": "TB",
+        "itemId": "697538604528",
+        "title": "2023 Spring/Summer Quick drying Breathable Basketball Shorts Training Running Fitness Sports Shorts American Trendy Brand Ins Pentagram Pants",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2152463688/O1CN01lxVAAe1d79UyKUIGb_!!2152463688.jpg",
+        "price": "¥102.39",
+        "toPrice": "$16.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112071191",
+          "name": "六六体育用品工厂店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1561181",
+        "mallType": "T1688",
+        "itemId": "895556650676",
+        "title": "NBA Jerseys Hornets 1 #2 Ball 12 Utley 20 Hayward Retro City Edition Basketball Jerseys",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01r2p4EJ209f3gBpeyO_!!2219407186807-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1441596",
+        "mallType": "T1688",
+        "itemId": "755154963444",
+        "title": "Cross-border spot jersey 33 Pippen Rodman vintage embroidery sports training basketball uniforms casual men and women suit pants",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000003812/O1CN01b6rNyT1e1whfxjYar_!!6000000003812-0-tbvideo.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2818939",
+        "mallType": "T1688",
+        "itemId": "873823497099",
+        "title": "76ers Blue 21 Embiid Hot Press Jersey 0# Maxi 1# Harden 39# Sports Basketball Jerseys Tank Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pDLYle1byAKDoq0Pl_!!2218929393533-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218929393533",
+          "name": "泉州市丰泽区仲诚服装商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2518542",
+        "mallType": "TB",
+        "itemId": "977179570424",
+        "title": "Mm Pe Gray Pants Personalized Customization",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2219155681050/O1CN01NGI7wh1JcwxaGXVRd_!!2219155681050.jpg",
+        "price": "¥131.30",
+        "toPrice": "$20.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "468921244",
+          "name": "生活充满愉快",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021144104161913297190",
+  "language": "en"
+}

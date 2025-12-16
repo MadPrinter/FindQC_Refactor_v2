@@ -49,10 +49,6 @@ Table t_product_tags {
   season text [note: '季节：春夏/秋冬/四季等']
   environment text [note: '适用环境：室内/户外/运动等']
   
-  // 预留字段，方便后续AI扩展
-  keywords text [note: '其他关键词/Tags，逗号分隔']
-  ai_confidence float [note: 'AI打标置信度 0-1']
-  
   updated_at datetime [note: '最后更新时间']
 }
 

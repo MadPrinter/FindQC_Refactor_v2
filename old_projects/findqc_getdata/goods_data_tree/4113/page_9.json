@@ -1,0 +1,88 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "63045",
+        "mallType": "WD",
+        "itemId": "4983920968",
+        "title": "H36 N1ke SB Dunk Low Concepts Purple Lobster bv1310-555",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjbqf7_926t.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1611117650",
+          "name": "CNFactory",
+          "logo": "https://si.geilicdn.com/weidian1594556374-27ca0000017cb7f7c5100a207569_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "61439",
+        "mallType": "WD",
+        "itemId": "7235393374",
+        "title": "LW Batch Y*ezy Slide",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mirf1y_27s1.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812255049",
+          "name": "888VIP-SNKRS",
+          "logo": "https://si.geilicdn.com/pcdecorate1816621089-76180000018cef01570f0a239737-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "59924",
+        "mallType": "WD",
+        "itemId": "7239350190",
+        "title": "[LX] Trendy Slide Desert Sand | FW6344",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mi55f8_73qg.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1739512762",
+          "name": "LX Factory",
+          "logo": "https://si.geilicdn.com/weidian1648522646-2deb0000018a90c5c6360a813470_1148_1148.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "57066",
+        "mallType": "WD",
+        "itemId": "7241930540",
+        "title": "A1R FORCE 1'07",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npy6cp_qa49.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812255049",
+          "name": "888VIP-SNKRS",
+          "logo": "https://si.geilicdn.com/pcdecorate1816621089-76180000018cef01570f0a239737-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145094772553897381",
+  "language": "en"
+}

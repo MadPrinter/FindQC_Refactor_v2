@@ -1,0 +1,303 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "234350",
+        "mallType": "WD",
+        "itemId": "7247605979",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241123/m3trxcin_8h9t.jpg",
+        "price": "¥87.00",
+        "toPrice": "$13.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 111,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "234331",
+        "mallType": "TB",
+        "itemId": "730589976860",
+        "title": "Official authentic Vivienne Westqueen West Queen Vivienne Saturn Bat Necklace Europe and the United States punk",
+        "picUrl": "https://cdn.findqc.com/item/20241123/m3trxdcc_vf3p.jpg",
+        "price": "¥61.80",
+        "toPrice": "$9.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "502528024",
+          "name": "仙颖莱旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "229347",
+        "mallType": "TB",
+        "itemId": "657096981260",
+        "title": "European and American Trendy Brand Cross Necklace for Men, Cool Hip-Hop Style, High-End Luxury, Niche Versatile Personality Sweater Pendant for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241122/m3sbb3rt_njs4.jpg",
+        "price": "¥34.82",
+        "toPrice": "$5.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "61788419",
+          "name": "嘻哈潮人馆",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "225601",
+        "mallType": "WD",
+        "itemId": "7252052198",
+        "title": "****",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg0ml4_4hd2.jpg",
+        "price": "¥57.95",
+        "toPrice": "$9.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225599",
+        "mallType": "WD",
+        "itemId": "7250550935",
+        "title": "****",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg0jat_g13l.jpg",
+        "price": "¥66.23",
+        "toPrice": "$10.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225593",
+        "mallType": "WD",
+        "itemId": "7259896676",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg0jer_xjzg.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225594",
+        "mallType": "WD",
+        "itemId": "7258858471",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg0jhu_2pu7.jpg",
+        "price": "¥44.00",
+        "toPrice": "$6.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 51,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225590",
+        "mallType": "WD",
+        "itemId": "7259625083",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg0k1y_oowx.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204905",
+        "mallType": "TB",
+        "itemId": "575090676178",
+        "title": "Tide ROCK HEARTS sterling silver S925 circle chain 2.5mm Sydney Netroots with the same dark style",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42otwgu_1oqp.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "59284192",
+          "name": "KEKE潮流银饰高端店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204552",
+        "mallType": "TB",
+        "itemId": "579578433824",
+        "title": "Tide titanium steel box necklace retro alloy cross pendant hip-hop hundred couples original design sweater chain",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42osb0p_a0zv.jpg",
+        "price": "¥13.50",
+        "toPrice": "$2.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111627242",
+          "name": "九九饰品",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200329",
+        "mallType": "TB",
+        "itemId": "674752114395",
+        "title": "European and American Black Panther Full Diamond Hip Hop Necklace with Large Zircon, Street Trendy Men's and Women's Tennis Chain, Fashionable Versatile Chain",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ocdqj0_0y7z.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63904988",
+          "name": "AK嘻哈饰品",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200200",
+        "mallType": "TB",
+        "itemId": "714133858687",
+        "title": "Carmen Stellar Cross Pearl Splicing Necklace Men's and Women's Haute Feeling Light Luxury Niche Designs Collar Bone Chain Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3oaymy3_4s0p.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117621647",
+          "name": "CARMEN卡門原創飾品",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200199",
+        "mallType": "TB",
+        "itemId": "797889961269",
+        "title": "D home with the same makeup bag 2024 new denim fabric zipper high-level sense of storage bag travel portable bag",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3oayhkm_e1jn.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200089",
+        "mallType": "WD",
+        "itemId": "7139894975",
+        "title": "Ch Hearts Necklace cross necklace cross",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3o6khi9_spzy.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648195145",
+          "name": "BRAND COLLECT",
+          "logo": "https://si.geilicdn.com/shopedit1816205840-18940000018c297bd1820a23132e-unadjust_596_596.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200027",
+        "mallType": "WD",
+        "itemId": "5926064941",
+        "title": "【 Highest Version 】 Light Luxury L Letter Full Diamond Colorful Diamond Necklace Full Diamond Letter Pav é Idylle Blossom Necklace",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3o5o8le_iz6x.jpg",
+        "price": "¥89.90",
+        "toPrice": "$14.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615345418",
+          "name": "漫琪饰品轻奢",
+          "logo": "https://si.geilicdn.com/wdseller1575779388-33960000018dc1c749eb0a22d4f5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "199934",
+        "mallType": "TB",
+        "itemId": "520734304514",
+        "title": "Fashion Retro Cross Titanium Steel Pendant Necklace Set Stylish Unisex Rock Punk Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3o3pag1_k979.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "122788421",
+          "name": "帝龙饰界",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 85,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114134783194349979",
+  "language": "en"
+}

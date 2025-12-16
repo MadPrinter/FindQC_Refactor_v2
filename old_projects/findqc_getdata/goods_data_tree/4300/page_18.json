@@ -1,0 +1,111 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "7552",
+        "mallType": "TB",
+        "itemId": "719302147852",
+        "title": "Youngla Summer New Sports Casual Fitness Sleeveless T-Shirt Clothing Men's Workout Running Cotton Loose Vest",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9tdv3_djtr.jpg",
+        "price": "¥61.48",
+        "toPrice": "$9.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "240197868",
+          "name": "ASRV企业店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7542",
+        "mallType": "TB",
+        "itemId": "625096313099",
+        "title": "2024 Japanese-Style Sweet Sleeveless Knitted Vest Student Jk Uniform Top School Uniform Sweater Vest",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9tc5r_oggv.jpg",
+        "price": "¥40.01",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "234848072",
+          "name": "小青柠制服馆",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7531",
+        "mallType": "WD",
+        "itemId": "7258690917",
+        "title": "FW24 Autumn/Winter New V Pharrell Fashion Formal Collection Pearl Accessories Buckle Cashmere Blended Sleeveless Sweater Vest Male Female Knitted Tank Top",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9t7e5_n5jk.jpg",
+        "price": "¥568.00",
+        "toPrice": "$89.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1216964012",
+          "name": "K STUDIO",
+          "logo": "https://si.geilicdn.com/shopedit1216964012-38e80000019314e7d5f20a811411-unadjust_364_364.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7393",
+        "mallType": "TB",
+        "itemId": "755440208444",
+        "title": "Small He Running Water 90 white goose down + linen knit men's business temperament handsome beige thin down vest",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9r8oc_6km2.jpg",
+        "price": "¥468.00",
+        "toPrice": "$73.59",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5079",
+        "mallType": "TB",
+        "itemId": "688241174884",
+        "title": "-Ttulf-Du Brand Pvc One-Piece Molded Plush Lining Warm Comfortable Versatile High-Top Lace-Up Hunting Duck Boots Men's Snow Boots",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m47rd8_xgu4.jpg",
+        "price": "¥619.77",
+        "toPrice": "$97.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "185596768",
+          "name": "TTULF",
+          "type": "TB"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3409",
+        "mallType": "T1688",
+        "itemId": "727630377429",
+        "title": "High version of the spot on behalf of the Mengjia new knitted splicing lightweight hooded bimodal down jacket men and women with the same models",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3dg5h_iv3g.jpg",
+        "price": "¥330.00",
+        "toPrice": "$51.89",
+        "status": "normal",
+        "categoryId": 33,
+        "qcPicCnt": 78,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114558538194348763",
+  "language": "en"
+}

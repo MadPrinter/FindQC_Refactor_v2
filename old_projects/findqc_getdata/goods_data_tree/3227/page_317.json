@@ -1,0 +1,382 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2905878",
+        "mallType": "TB",
+        "itemId": "752620353773",
+        "title": "Super Mario Advance Super Mario Cute Rapper Dressing Tee/T-shirt Short Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkaylwh_odsq.jpg",
+        "price": "¥102.83",
+        "toPrice": "$16.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58024562",
+          "name": "Brandon美式发烧友",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905844",
+        "mallType": "WD",
+        "itemId": "7406355173",
+        "title": "HE short sleeved black X print 11HD",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkatgj1_98t6.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905794",
+        "mallType": "WD",
+        "itemId": "7386792679",
+        "title": "Spsder 555 T-shirt Special Offer",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkalpga_gwo9.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1823866485",
+          "name": "chinabuy067",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905773",
+        "mallType": "WD",
+        "itemId": "6427026568",
+        "title": "MM short sleeved black middle white letter circle 22 336732",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkahwkj_tt10.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905742",
+        "mallType": "TB",
+        "itemId": "815558996329",
+        "title": "American high street ALD trendy brand JERSEY letter 10 Aime sports logo checkered contrasting jersey couple T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkafsft_6vpq.jpg",
+        "price": "¥76.36",
+        "toPrice": "$12.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905739",
+        "mallType": "WD",
+        "itemId": "7436539769",
+        "title": "1U New Heavy Industry Bead Embroidered Short Sleeve T-shirt 4-1 SOLE/YP",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkae020_a0pe.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707804864",
+          "name": "不二家",
+          "logo": "https://si.geilicdn.com/weidian1417299265-7f700000018ece14a7660a23136f_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905719",
+        "mallType": "TB",
+        "itemId": "788298220720",
+        "title": "Clearing the warehouse and picking up leaks~Counter big brand cut label men's pure cotton short sleeved T-shirt summer trend loose and versatile half sleeved top",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkacsnh_g1gs.jpg",
+        "price": "¥12.19",
+        "toPrice": "$1.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117960681",
+          "name": "NK男女服饰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905685",
+        "mallType": "WD",
+        "itemId": "7449832162",
+        "title": "G Classic Printed Embroidered Short Sleeve Collection - DR",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhka6dbj_ntvc.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1796151541",
+          "name": "DRACC BUY",
+          "logo": "https://si.geilicdn.com/shopedit1914939539-6a7d0000019400f26b150a2395a3-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896313",
+        "mallType": "WD",
+        "itemId": "6240468832",
+        "title": "Lu @ Yi Pure Cotton Rabbit Year Limited Edition Basketball Rabbit Logo Men's and Women's Same Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmees8_3pj3.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1689883296",
+          "name": "Lily Show Brands衣柜",
+          "logo": "https://si.geilicdn.com/weidian1423745562-0b1600000178fac2176a0a217205_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896307",
+        "mallType": "WD",
+        "itemId": "7423078274",
+        "title": "Factory self operated high-quality short sleeves 20",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmehly_hqqf.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665795629",
+          "name": "Factory Store",
+          "logo": "https://si.geilicdn.com/shopedit1932780778-2345000001959049cb0a0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896284",
+        "mallType": "TB",
+        "itemId": "770406057717",
+        "title": "2025 Spring and Autumn New Men's Short-Sleeve T-Shirt Solid Color Inner Layer Fashionable Light Luxury Trendy Brand Men's Heavyweight Half-Sleeve Top",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmedf5_u0s2.jpg",
+        "price": "¥91.81",
+        "toPrice": "$14.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102848980",
+          "name": "三头牛 男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896136",
+        "mallType": "TB",
+        "itemId": "720049806485",
+        "title": "Premium Milk Ice Velvet Threaded Collar Polo Shirt Thin Breathable Men's Light Business Slimming Plush T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmd6zi_6io0.jpg",
+        "price": "¥372.66",
+        "toPrice": "$58.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57255947",
+          "name": "NOTITLE 设计师明星定制店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896133",
+        "mallType": "WD",
+        "itemId": "3218337464",
+        "title": "Chrome Hearts CH 3D Embroidered Leather Cross Couple's Loose Neutral Cotton Summer Large Short Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmcyxv_bfcy.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "301103",
+          "name": "零伍玖贰",
+          "logo": "https://si.geilicdn.com/weidianw301103-15240000016c9ef1435d0a217205_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896070",
+        "mallType": "TB",
+        "itemId": "885237871033",
+        "title": "Overseas order backlog~Withdrawal of foreign trade American style handsome heavyweight pure cotton short sleeved T-shirt for both men and women summer top",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmd4w7_kzjo.jpg",
+        "price": "¥15.19",
+        "toPrice": "$2.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116636910",
+          "name": "VSFRR SKY IDCCO",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896002",
+        "mallType": "TB",
+        "itemId": "890081938025",
+        "title": "Black short sleeved t-shirt men's summer new style American high street ins trendy brand heavyweight pure cotton loose printed half sleeved top",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmd5ve_1sy4.jpg",
+        "price": "¥50.20",
+        "toPrice": "$7.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "436726174",
+          "name": "Stylish Clothing",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2708396",
+        "mallType": "WD",
+        "itemId": "7494847142",
+        "title": "Cross border Maison Margiela digital print MM6 high-quality pure cotton men's t-shirt and women's short sleeved trend",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm98la_44na.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707594141",
+          "name": "Chloe Reps",
+          "logo": "https://si.geilicdn.com/wdseller1950531556-452e0000019661fe6daa0a20e2c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2095537",
+        "mallType": "TB",
+        "itemId": "676799973768",
+        "title": "Waffle long sleeved T-shirt for men in autumn and winter, white men's short sleeved loose sweatshirt for men, inner layer top, summer top",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm9cty_zfou.jpg",
+        "price": "¥61.29",
+        "toPrice": "$9.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "555575599",
+          "name": "etqfire旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1971877",
+        "mallType": "WD",
+        "itemId": "7470713006",
+        "title": "P Half Zipper Triangle Polo Short Sleeve p10105",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm828r_4zvk.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830297161",
+          "name": "珍绮made",
+          "logo": "https://si.geilicdn.com/wdseller1816236668-25940000018cea5d9ac60a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1100313",
+        "mallType": "TB",
+        "itemId": "709464376794",
+        "title": "GALLERY DEPT FOG Classic Alphabet Basic Slogan LOGO Printed Round Neck Short Sleeve T-shirt Cotton Tee Men",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm7bj1_whez.jpg",
+        "price": "¥45.85",
+        "toPrice": "$7.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103318446",
+          "name": "FFCP Studios",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905669",
+        "mallType": "TB",
+        "itemId": "783075170268",
+        "title": "American style sweet and spicy camisole women's summer contrasting color splicing inner and outer vest vintage slim fit slimming top trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhka3tm5_mlkk.jpg",
+        "price": "¥50.74",
+        "toPrice": "$7.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "257734245",
+          "name": "K哥 TREND",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114451484194365676",
+  "language": "en"
+}

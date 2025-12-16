@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2145964",
+        "mallType": "WD",
+        "itemId": "7524966547",
+        "title": "120A6-1c",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-27da00000194cc1efd000a2395d6_1080_1080.jpg",
+        "price": "¥103.40",
+        "toPrice": "$16.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1775823299",
+          "name": "Trendy Hub 2",
+          "logo": "https://si.geilicdn.com/shopedit1981004707-79ee00000198a7c8225d0a210256-unadjust_749_749.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1988115",
+        "mallType": "T1688",
+        "itemId": "866892656867",
+        "title": "新款cp秋冬男装宽松防风开衫拉链加绒冲锋衣夹克外套潮 Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gxa4iI1HWsPRPFc9Z_!!2218659030766-0-cib.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218659030766",
+          "name": "东莞市厚街西蜜欧服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1986558",
+        "mallType": "T1688",
+        "itemId": "587670339122",
+        "title": "UARC rushing jacket men's outdoor spring and fall thin section waterproof windproof removable cap casual sports mountaineering clothing jacket jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01C41GHQ1T0bgzo9Ysc_!!4078822320-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "4078822320",
+          "name": "石狮市捌零后户外服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2510374",
+        "mallType": "WD",
+        "itemId": "7543504416",
+        "title": "热销+WhatsApp+8615260332785",
+        "picUrl": "https://si.geilicdn.com/open1684063885-1234478995-59a300000195b94e44990a8133b0_1200_1200.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1644832861",
+          "name": "Cocofinds offcial",
+          "logo": "https://si.geilicdn.com/shopedit1952081269-5706000001975d4476f80a23057e-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2141241",
+        "mallType": "T1688",
+        "itemId": "903355120339",
+        "title": "Cross-border stone island stone island rushing jacket outdoor sleeve logo badge hooded jacket men and women with the same model",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qdeafB264WJPAXd2B_!!2219543987608-0-cib.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219543987608",
+          "name": "麻城市昆致贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2140921",
+        "mallType": "WD",
+        "itemId": "7279661427",
+        "title": "2024 Spring and Autumn New Fashion Casual Jacket Hooded Solid Color Stand up Collar Youth Jacket Top Coat",
+        "picUrl": "https://si.geilicdn.com/open1616169977-252808396-53e00000019233ca5f1f0a8115b5_1278_1278.jpg",
+        "price": "¥182.00",
+        "toPrice": "$28.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616169977",
+          "name": "9 MILES潮牌精选",
+          "logo": "https://si.geilicdn.com/shopedit1866172129-7a6d0000018fc87ff6280a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2690991",
+        "mallType": "WD",
+        "itemId": "7348737892",
+        "title": "North Outdoor Men's GTX Waterproof Jumpsuit Windbreaker 1898 Color Black Size M-4xl",
+        "picUrl": "https://si.geilicdn.com/pcitem1231267992-3de7000001943b97337e0a20e672_772_750.jpg",
+        "price": "¥147.00",
+        "toPrice": "$23.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1231267992",
+          "name": "ASEN",
+          "logo": "https://si.geilicdn.com/wdseller1231267992-76a000000191a894efbe0a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 82,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1486385",
+        "mallType": "T1688",
+        "itemId": "826569678921",
+        "title": "Bird Charge New Alpha 7 SV Outdoor Waterproof Hard Shell Punching Jacket Full Heat Seal Pressure Rubber Windproof Waterproof",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000000331/O1CN01bbPIfB1EJe4vvV8TC_!!6000000000331-0-tbvideo.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2135278",
+        "mallType": "WD",
+        "itemId": "7330101970",
+        "title": "A Family Hot Air Outdoor Punching Jacket",
+        "picUrl": "https://si.geilicdn.com/open1790896725-1234478995-583200000193f45f61120aa0834c_1080_1080.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1790896725",
+          "name": "Fashion 1:1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2066450",
+        "mallType": "T1688",
+        "itemId": "740055548530",
+        "title": "Otter punch jacket removable outdoor waterproof mountaineering clothing men and women with the same couple three-in-one workwear texture jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cZjegT1tEVmf0v5VK_!!2216419495870-0-cib.jpg",
+        "price": "¥117.98",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216419495870",
+          "name": "柴桑区盼芒熔百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1972451",
+        "mallType": "WD",
+        "itemId": "7262627112",
+        "title": "080978",
+        "picUrl": "https://si.geilicdn.com/weidian901873641083-11960000019172ed74750a207569_1080_1080.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2321413",
+        "mallType": "T1688",
+        "itemId": "945017158080",
+        "title": "Spring and Autumn Men's workwear jackets, windproof and warm hooded casual jackets, factory direct sales, spot supply, wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xhwujH24Yd9trRaIx_!!2220087347403-0-cib.jpg",
+        "price": "¥169.62",
+        "toPrice": "$26.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwmkK04ybcjQ4C_QJ2snrHA",
+          "name": "漳州市芗城区还琛贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1812877",
+        "mallType": "WD",
+        "itemId": "7386536216",
+        "title": "Classic Fashion Jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1906886036-3b8b00000194a16d93e70a23041a_800_800.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1678950709",
+          "name": "Guefe",
+          "logo": "https://si.geilicdn.com/pcdecorate1906886036-756600000193d3f395460a231316-unadjust_200_200.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 120,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1540306",
+        "mallType": "T1688",
+        "itemId": "892540762585",
+        "title": "Spring spot cross-border foreign trade high version M family windbreaker men's casual hooded zipper long-sleeved jacket jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01INkjG91Bs32KvNRwX_!!0-0-cib.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218566567719",
+          "name": "广州雅贸裳都服装厂(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2308171",
+        "mallType": "WD",
+        "itemId": "7266637460",
+        "title": "************",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-146600000191a18586420aa0233d_1278_1278.jpg",
+        "price": "¥232.00",
+        "toPrice": "$36.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "466423",
+        "mallType": "WD",
+        "itemId": "7306642923",
+        "title": "Outdoor Travel Punching Jacket (P-0072)",
+        "picUrl": "https://si.geilicdn.com/open1765992741-1234478995-3a1d0000019343be95120a8115b5_1200_1200.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1765992741",
+          "name": "3M fashion",
+          "logo": "https://si.geilicdn.com/shopedit1881657422-3ef300000192f4ea34430a22d172-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2109818",
+        "mallType": "WD",
+        "itemId": "7520991463",
+        "title": "Arc*teryx☆ Jackets (10 styles)",
+        "picUrl": "https://si.geilicdn.com/open1627390829-1234478995-39e500000198836adc300a8133b0_1080_1080.jpg",
+        "price": "¥452.40",
+        "toPrice": "$71.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1627390829",
+          "name": "Murphy Garmz",
+          "logo": "https://si.geilicdn.com/wdseller1941325324-64030000019896bf69820a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1957436",
+        "mallType": "T1688",
+        "itemId": "815390366865",
+        "title": "Ultraman Jacket Is a Detachable Outdoor Waterproof Mountaineering Jacket for Men and Women, a Three-In-One Workwear-Style Jacket with a Textured Feel",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ULlqbc1NXETZPvxpf_!!2218178371579-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9dzMr2T-vC80r_3LwGu8aA",
+          "name": "清河县顺兆贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1441766",
+        "mallType": "T1688",
+        "itemId": "901426262903",
+        "title": "Stu Wave dye beach shell washed tie-dye floral full print hooded jacket punch jacket tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FKf43z1qRqdDoDFr2_!!2217796225493-0-cib.jpg",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217796225493",
+          "name": "上海裳塘贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2294178",
+        "mallType": "WD",
+        "itemId": "7299898125",
+        "title": "IT-24071343 hooded contrasting jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem949985859-1b15000001930a2436420a20e672_800_800.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145107872553873599",
+  "language": "en"
+}

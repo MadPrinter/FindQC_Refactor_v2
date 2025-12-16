@@ -1,0 +1,82 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "68339",
+        "mallType": "T1688",
+        "itemId": "652178091819",
+        "title": "Copperplate paper white thank you stickers stickers colorful heart round seal stickers handmade marking stickers",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mm8pxj_ja8x.jpg",
+        "price": "¥0.95",
+        "toPrice": "$0.15",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "45435",
+        "mallType": "TB",
+        "itemId": "634529051297",
+        "title": "【Jojo's Bizarre Adventure】 Peripheral Items: Rabbit's Bizarre Adventure Mirror Laser Pendant, Extra-Long Washi Tape",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3memjb7_4drz.jpg",
+        "price": "¥15.25",
+        "toPrice": "$2.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63947060",
+          "name": "西湖漫漫",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "41004",
+        "mallType": "T1688",
+        "itemId": "827513108882",
+        "title": "Student ruler anti myopia ruler set with wavy line transparent thickened 15/20cm exam marking scale",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmtbp0_6p74.jpg",
+        "price": "¥0.55",
+        "toPrice": "$0.09",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34359",
+        "mallType": "TB",
+        "itemId": "704371123526",
+        "title": "Body Tape Double-sided Adhesive Lingerie Tape Underwear Non-slip Fixing Tape",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nka3mn_zyjg.jpg",
+        "price": "¥15.50",
+        "toPrice": "$2.44",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26530",
+        "mallType": "TB",
+        "itemId": "646742726514",
+        "title": "minisoMinisoSanrioFantasyNaturalUnscentedPrintedPaperKittyCatCinnamonDogCuteHandkerchiefs",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nigx2z_l2wk.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146283132553922020",
+  "language": "en"
+}

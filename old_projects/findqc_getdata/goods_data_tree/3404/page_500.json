@@ -1,0 +1,306 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "355389",
+        "mallType": "WD",
+        "itemId": "7321132673",
+        "title": "Interchange Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241222/m4ygiebp_tudj.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648171445",
+          "name": "Anonymous",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "355324",
+        "mallType": "WD",
+        "itemId": "7293077177",
+        "title": "Fashionable Hooded Sweatshirt Collection YHH03",
+        "picUrl": "https://cdn.findqc.com/item/20241221/m4y59iq2_7tik.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834518869",
+          "name": "TigerBuy",
+          "logo": "https://si.geilicdn.com/shopedit1900469054-18de00000192c6d32c360a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "353332",
+        "mallType": "T1688",
+        "itemId": "751792812876",
+        "title": "Green X Cross-border Edition ESSENTIALS Flocking Letter ss22 Pullover Hood FOG fleece-lined Warm Sweater Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241220/m4w58rwo_oeru.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7wzIM3o4bJ1Z2Z1WzGNVTw",
+          "name": "佛山市南海区瑞枫社服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 435,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "352347",
+        "mallType": "T1688",
+        "itemId": "840751221424",
+        "title": "Foreign Trade Wholesale Am1Ri Trendyy Letter Logo Jacquard Tassel Destroyed Hole Loose Style Hooded Round Neck Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241219/m4vi7tgd_i9p1.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkZQhHOnAqRbgkwSQM3RUng",
+          "name": "广州奕辰国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "352329",
+        "mallType": "T1688",
+        "itemId": "844797608786",
+        "title": "NOCTA co-branded 25 small hook jacket men's sports casual training windproof spring and fall models knitted fitness hooded",
+        "picUrl": "https://cdn.findqc.com/item/20241219/m4vc617p_2t8j.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218734369158",
+          "name": "义乌市锡助服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 113,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "352271",
+        "mallType": "TB",
+        "itemId": "857429129472",
+        "title": "Aime Leon Dore Porsche993 Or Racing Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241219/m4un3lcm_3m9m.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "381495027",
+          "name": "Travis蟑螂侠",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "350089",
+        "mallType": "T1688",
+        "itemId": "824057232716",
+        "title": "SS22 hoodie flocked hooded pullover fleece-lined hoodie hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241221/m4x4wo2h_1e9a.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBuqC6ioLMbuEC0FrQmFhDSQ",
+          "name": "合肥市高新区凌展服装工作室",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 102,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "349968",
+        "mallType": "TB",
+        "itemId": "737363462376",
+        "title": "Trendy Frockheart Horseshoe Flower Arm Sword Sweatshirt Men's American Trendy Heavy weight jacket Hooded Tops Outwear",
+        "picUrl": "https://cdn.findqc.com/item/20241220/m4vu6jh2_yjsd.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68472781",
+          "name": "vorleshion旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "349879",
+        "mallType": "TB",
+        "itemId": "838455136831",
+        "title": "(1600G) VET AW 2016 OG METAL hoodie kanye same os hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241219/m4v9bk8e_7db4.jpg",
+        "price": "¥458.00",
+        "toPrice": "$72.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263269114",
+          "name": "VOGUE ITEMS",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "347451",
+        "mallType": "T1688",
+        "itemId": "679764990127",
+        "title": "Sogd Yeezy X g X B Three-Party Joint Kanye Pigeon Print Washed Double-Layer Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241219/m4u3homm_vgw9.jpg",
+        "price": "¥215.00",
+        "toPrice": "$33.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBO1mhEifBGrtdNqR1Ua5eDA",
+          "name": "青岛索尔古德服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 101,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "347059",
+        "mallType": "TB",
+        "itemId": "845675543877",
+        "title": "Hoodie Zip-Up Sweatshirt Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241218/m4stq7j8_y65n.jpg",
+        "price": "¥202.62",
+        "toPrice": "$31.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "306587509",
+          "name": "Skate Rap",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "347090",
+        "mallType": "TB",
+        "itemId": "842804675813",
+        "title": "Sports Set autumn and winter new collaboration street zipper hooded jacket straight leg sweatpants sports casual suit for men",
+        "picUrl": "https://cdn.findqc.com/item/20241218/m4syssnj_9d6f.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "308640679",
+          "name": "小艾Windrunner",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346865",
+        "mallType": "WD",
+        "itemId": "7290560404",
+        "title": "The rolling fear of crocodiles",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sbac3u_y1tj.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1628733717",
+          "name": "FindsReps",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346522",
+        "mallType": "WD",
+        "itemId": "7300038191",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saq4rz_nja7.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675444645",
+          "name": "WG",
+          "logo": "https://si.geilicdn.com/shopedit1884592270-4ba500000195d22b306e0a2315ef-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 73,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346523",
+        "mallType": "WD",
+        "itemId": "7300977072",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saq0th_jpt5.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675444645",
+          "name": "WG",
+          "logo": "https://si.geilicdn.com/shopedit1884592270-4ba500000195d22b306e0a2315ef-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346488",
+        "mallType": "WD",
+        "itemId": "7271742813",
+        "title": "******",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saooiq_44ts.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148140082553874176",
+  "language": "en"
+}

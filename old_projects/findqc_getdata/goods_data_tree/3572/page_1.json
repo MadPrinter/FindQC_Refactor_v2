@@ -1,0 +1,639 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3149967",
+        "mallType": "WD",
+        "itemId": "7579512180",
+        "title": "秋冬时尚百搭毛衣针织衫 006（More surprise size recommendations to add to WhatsApp+447544194257）",
+        "picUrl": "https://si.geilicdn.com/open1665611613-1234478995-608f00000198ae6faffb0a8133b0_800_800.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710306515",
+          "name": "Fausto",
+          "logo": "https://si.geilicdn.com/wdseller2001832481-79e700000199f6a4fd320a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "253345",
+        "mallType": "WD",
+        "itemId": "7262054843",
+        "title": "🉐SS23 fall and winter front and back full body large LOGO monogram jacquard knit crew neck sweater 023",
+        "picUrl": "https://cdn.findqc.com/item/20241127/m3z15h5t_36yl.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1866344120",
+          "name": "杂货铺",
+          "logo": "https://si.geilicdn.com/wdseller1518819354-2f3a0000019a5e5a2ca80a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2883006",
+        "mallType": "TB",
+        "itemId": "987869742744",
+        "title": "Casablanca Tennis Club Jacquard Logo Trendy High Street Fashion Casual Knit Cardigan Sweater",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/409187313/O1CN01Yj4OeE23tPWmcfqnG_!!409187313.jpg",
+        "price": "¥293.17",
+        "toPrice": "$46.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156422319",
+          "name": "潮牌批发 一件代发",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3099285",
+        "mallType": "WD",
+        "itemId": "7552146869",
+        "title": "CQY-古羽绒服毛衣+8618860892786",
+        "picUrl": "https://si.geilicdn.com/pcitem1950647899-103e0000019811136a4c0a2395e5_800_800.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1808294941",
+          "name": "Noble Factory （1:1 Quality）",
+          "logo": "https://si.geilicdn.com/wdseller1945850569-60f90000019ab0cdd2550a2301b4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "328568",
+        "mallType": "WD",
+        "itemId": "7260601896",
+        "title": "RL Slim fit lapel knit long sleeved cardigan for women (CPBJ)",
+        "picUrl": "https://cdn.findqc.com/item/20241213/m4lya4zp_f22s.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "67087",
+        "mallType": "WD",
+        "itemId": "7222888228",
+        "title": "RL pure cotton small twist cardigan for women RL big children small Fried Dough Twists cardigan X02 C\n",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlt1p3_2bae.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3199021",
+        "mallType": "WD",
+        "itemId": "7587256708",
+        "title": "春秋慵懒风宽松毛衣外套新款镂空字母手钩无袖针织衫披肩上衣女装",
+        "picUrl": "https://si.geilicdn.com/open1780109907-1780109907-709a0000019a2dc79ffa0a231226_600_800.jpg",
+        "price": "¥67.00",
+        "toPrice": "$10.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780109907",
+          "name": "LunaTrade",
+          "logo": "https://si.geilicdn.com/shopedit1999873750-6f7d00000199e6dc040f0a8134f0-unadjust_800_600.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3054228",
+        "mallType": "WD",
+        "itemId": "7521934692",
+        "title": "工厂秋冬时尚百搭毛衣针织衫📏pls add whatsapp:15188580278 if u need size g",
+        "picUrl": "https://si.geilicdn.com/open1665611613-1234478995-3a270000019878b136080aa043f9_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665611613",
+          "name": "Coco Shop",
+          "logo": "https://si.geilicdn.com/weidian1954676780-2b2d000001974b9300b90a239846_990_990.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049613",
+        "mallType": "WD",
+        "itemId": "7550731579",
+        "title": "羽绒服毛衣系列-F02",
+        "picUrl": "https://si.geilicdn.com/pcitem1950647899-103e0000019811136a4c0a2395e5_800_800.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "423107735",
+          "name": "七年的店铺1:1顶级",
+          "logo": "https://si.geilicdn.com/wdseller423107735-0286000001998f28e0d40a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049404",
+        "mallType": "T1688",
+        "itemId": "899455315659",
+        "title": "RL Autumn New Women's French Style Design Fashion All-match Casual Embroidered V-neck Knitted Sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017SuZXr1JyTWeSkruN_!!2218929721097-0-cib.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-JTGl19wNiYnTSoQCwlDSg",
+          "name": "东莞市厚街双木服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "898426",
+        "mallType": "T1688",
+        "itemId": "803580879120",
+        "title": "2025 V-Neck Twist Knitted Sweater, Real Shot Embroidered Pony Pure Color Pullover Bottoming Shirt, Trbottomy Classic American Style",
+        "picUrl": "https://cdn.findqc.com/item/20251016/mgt7iwii_p01y.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBv00fjTkuFSJFegM2Lw5fMQ",
+          "name": "广州潮柜服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2773010",
+        "mallType": "T1688",
+        "itemId": "835651089886",
+        "title": "Thickened Old Money Style Pony Embroidered Twist Knitted Cardigan for Women Autumn and Winter Early Autumn Retro Round Neck Red Sweater Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01g7tD192Kwvw5yiVT1_!!3378589622-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-qU-jBhF7Nrl-U1xXtqNDQ",
+          "name": "东莞市大朗玥玥毛织厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2055483",
+        "mallType": "T1688",
+        "itemId": "843248082197",
+        "title": "Classic pony label vintage gray V-neck twisted twist embroidery wool pullover bottoming knit sweater sweater valet",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CiPlRt20Xw0hdZg1g_!!2218410886860-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218410886860",
+          "name": "广州冠呈潮服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2994408",
+        "mallType": "WD",
+        "itemId": "7550662891",
+        "title": "23款针织小熊刺绣女装 针织毛衣 100%棉 米白色 码数smLxL p299 元",
+        "picUrl": "https://si.geilicdn.com/pcitem1450586499-79c700000189c8c89c640a2312e8_750_1000.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854689181",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2799761",
+        "mallType": "T1688",
+        "itemId": "969966164208",
+        "title": "p家23秋冬新款挑针字母logo毛衣复古立体字母工艺又减龄针织衫女",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zs6UQf1aq5msrc3ai_!!2219644193380-0-cib.jpg",
+        "price": "¥82.00",
+        "toPrice": "$12.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBk7VGIN8SOcQR4_fQpEP26A",
+          "name": "广州百万事服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "867613",
+        "mallType": "TB",
+        "itemId": "662249512742",
+        "title": "Kapital25Ss Retro Color-Blocked Knitted Pattern Crew Neck Pullover Sweater Black Lion Couple Unisex Trendy Brand",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/72413764/O1CN01M7uzbl1dfxi9WGUMV_!!72413764.jpg",
+        "price": "¥306.64",
+        "toPrice": "$48.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "35078248",
+          "name": "Fashion Flash 潮牌优品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3183703",
+        "mallType": "WD",
+        "itemId": "7598712922",
+        "title": "Cola出品-MIU风格花灰色纯毛羊翻领长袖针织衫 厚重款(现货5天内发出)",
+        "picUrl": "https://si.geilicdn.com/wdseller901933348633-78df0000019a6251c2a20a8134f0_2000_2000.jpg",
+        "price": "¥338.00",
+        "toPrice": "$53.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1820181201",
+          "name": "Cola出品(🐨出品唯一认证店铺）(新店)",
+          "logo": "https://si.geilicdn.com/shopedit1790352350-447d000001950ded3d6a0a2395d6-unadjust_250_250.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3095303",
+        "mallType": "WD",
+        "itemId": "7520034687",
+        "title": "HK27-高品质C外套毛衣套装",
+        "picUrl": "https://si.geilicdn.com/open1665611613-1234478995-37870000019878ae29310aa043f9_800_800.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665611613",
+          "name": "Coco Shop",
+          "logo": "https://si.geilicdn.com/weidian1954676780-2b2d000001974b9300b90a239846_990_990.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3173776",
+        "mallType": "T1688",
+        "itemId": "687944091163",
+        "title": "Loss making clearance~No refunds, no exchanges~POLO collar wool knitted sweater slim fit buttonhole strip V-neck lapel sweater for women\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SmtlPM211F8qvHUFk_!!2212390316924-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBik8VzwlTWHV4WqtO1wxyog",
+          "name": "广州伊易服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1917247",
+        "mallType": "T1688",
+        "itemId": "851126508163",
+        "title": "Sweep Size RL Raff Pony Embroidered Knitwear Men's Autumn and Winter Vertical Collar Twist Couple's Half Zip Sweater Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015nvTan1nqdC9tFiPO_!!2218754695141-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPTlCuwZ4wbWBHCaBDEBzaQ",
+          "name": "深圳市南山区奕骏服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021142296261917918400",
+  "language": "en"
+}

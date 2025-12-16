@@ -1,0 +1,366 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1204202",
+        "mallType": "TB",
+        "itemId": "843553949116",
+        "title": "400g Heavyweight Short Sweatshirt for Men, Spring and Autumn Trendy Brand Stiff Hoodie, American Retro Floral Gray Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3934195997/O1CN015jKbGf1uAgDRI4uVP_!!4611686018427384093-0-item_pic.jpg",
+        "price": "¥49.19",
+        "toPrice": "$7.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "259599786",
+          "name": "欧木龙旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "795276",
+        "mallType": "WD",
+        "itemId": "7263086240",
+        "title": "STU original standard West sweater hooded fall and winter new letters with hooded couple's clothing",
+        "picUrl": "https://si.geilicdn.com/open1741992953-252808396-32a5000001917dc9953a0a8115b5_1200_1200.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1741992953",
+          "name": "Fashion Buy",
+          "logo": "https://si.geilicdn.com/shopedit1866172847-7545000001917a8cec800a23041a-unadjust_380_380.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2335427",
+        "mallType": "WD",
+        "itemId": "7518908211",
+        "title": "Autumn and Winter Versatile Round Neck Sweatshirt YHH10--C60N",
+        "picUrl": "https://si.geilicdn.com/open1813519773-1234478995-3ec000000198696ada3e0aa043f9_1200_1200.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1813519773",
+          "name": "Flying Pig Fashion",
+          "logo": "https://si.geilicdn.com/pccreshp1951011963-5609000001966c5d6efb0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2133652",
+        "mallType": "WD",
+        "itemId": "7410942747",
+        "title": "46A2-4c",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-74a9000001956ad9f1690a23047e_800_800.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3025688",
+        "mallType": "WD",
+        "itemId": "7548281741",
+        "title": "SweatshirtTrousers",
+        "picUrl": "https://si.geilicdn.com/open1762039621-252808396-2bc8000001979c8940db0a23b491_1080_1080.jpg",
+        "price": "¥211.00",
+        "toPrice": "$33.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794541533",
+          "name": "1:1A&amp;V",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2332107",
+        "mallType": "WD",
+        "itemId": "7539042009",
+        "title": "Round neck embroidered loose plus size hot selling men's casual solid color hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1922988361-07710000019842cf0eb50a2102c5_1280_1280.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1807790477",
+          "name": "Budget clothes",
+          "logo": "https://si.geilicdn.com/shopedit1922988361-0ed400000195fc78752e0a23041a-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 148,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2131498",
+        "mallType": "WD",
+        "itemId": "7421289456",
+        "title": "49A2-1c",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-393b00000195835a4f8e0a8133cc_800_800.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2082434",
+        "mallType": "T1688",
+        "itemId": "940633875121",
+        "title": "ESSENTIALS Men's Trendy Double Line American Velvet New Hoodie 1977 Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xlLIG01fveeltq1ft_!!2219180254069-0-cib.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhPP6O-zntDkmBGLCGTic9Q",
+          "name": "宁波够特服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "988089",
+        "mallType": "WD",
+        "itemId": "7355479789",
+        "title": "Hoodie 6 | default shipping upon purchase | non refundable/non exchangeable",
+        "picUrl": "https://si.geilicdn.com/open1630144085-1234478995-7dcb0000019446c481970aa0834c_1280_1280.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1630144085",
+          "name": "Pure Original Batch-",
+          "logo": "https://si.geilicdn.com/wdseller1899941623-60450000019461388c320a2304aa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "268409",
+        "mallType": "WD",
+        "itemId": "7250735527",
+        "title": "Fashion men's hoodie spring and autumn new zipper pullover cardigan sports hooded casual top long sleeved jacket pony",
+        "picUrl": "https://cdn.findqc.com/item/20241130/m4474na1_2dja.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1757168466",
+          "name": "Because of you-KMbuy",
+          "logo": "https://si.geilicdn.com/wdseller1596315352-64b2000001926b79e8a20a2395d6_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "223354",
+        "mallType": "WD",
+        "itemId": "7279019325",
+        "title": "Factory rewire Esse wholesale new chest press rubberized hooded sweatshirt F",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ozcur_tmd6.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1671759537",
+          "name": "🔥Kevin store🎧",
+          "logo": "https://si.geilicdn.com/wdseller1797702549-53e000000194323b2dbc0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2504076",
+        "mallType": "WD",
+        "itemId": "7551221600",
+        "title": "S*T TOP Quality Round Neck Badge Long Sleeve Sweatshirt-m",
+        "picUrl": "https://si.geilicdn.com/open1727038045-1234478995-65cf000001981d2c86f90a23b491_800_800.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1723865058",
+          "name": "VIVI",
+          "logo": "https://si.geilicdn.com/wdseller1587119769-1233000001983ec0e7610a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2331772",
+        "mallType": "T1688",
+        "itemId": "950987542737",
+        "title": "Men's RL embroidery terry round neck long-sleeved casual peplum sweater support one piece of hair, cross-border hot models",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01v8Ttnk1TEoDuLIjMH_!!2220030392351-0-cib.jpg",
+        "price": "¥28.90",
+        "toPrice": "$4.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220030392351",
+          "name": "铅山县资漫电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2331602",
+        "mallType": "T1688",
+        "itemId": "858893721030",
+        "title": "Bird's American tide sweater men's hooded 2024 new fall and winter padded and thickened casual loose couple jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018ZtrxK2IXcqJGcwAk_!!2218924279296-0-cib.jpg",
+        "price": "¥123.00",
+        "toPrice": "$19.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218924279296",
+          "name": "上海毓羽贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2330305",
+        "mallType": "WD",
+        "itemId": "7536920191",
+        "title": "GS.73512771",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-508000000198f19035020a8133b0_1066_1066.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1865721389",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2130607",
+        "mallType": "T1688",
+        "itemId": "893654929784",
+        "title": "Foreign trade men's CP glasses solid color embroidery casual handsome simple casual outdoor sports hooded sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BqVq4a1yRPAZvF9zZ_!!2212490836575-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212490836575",
+          "name": "广州琅富贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2130125",
+        "mallType": "T1688",
+        "itemId": "890909422019",
+        "title": "25 High-quality small hooker casual sports hooded zipper printed double zipper pockets sweater jacket men and women with the same paragraph",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01esmvq41JuLx9XPjoc_!!2219003281088-0-cib.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219003281088",
+          "name": "义乌市悉仰电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2129307",
+        "mallType": "WD",
+        "itemId": "7445391941",
+        "title": "Hooded Cardigan Zipper Sweatshirt Cotton",
+        "picUrl": "https://si.geilicdn.com/pcitem1798464021-58db000001907cbf93450a2303ee_800_808.jpg",
+        "price": "¥290.00",
+        "toPrice": "$45.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1688018469",
+          "name": "胡奥",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2122805",
+        "mallType": "T1688",
+        "itemId": "950654184691",
+        "title": "Europe and the United States cross-border street leopard letters patch gothic hooded sweater casual pants men and women with the same loose suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RjKrad1KRKVYpt7HM_!!2215002491160-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215002491160",
+          "name": "义乌市后周服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143044221914133703",
+  "language": "en"
+}

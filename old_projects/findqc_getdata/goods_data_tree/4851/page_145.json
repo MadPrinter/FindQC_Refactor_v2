@@ -1,0 +1,375 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1576403",
+        "mallType": "WD",
+        "itemId": "7460529828",
+        "title": "Contact customer service for clearance of final goods -426 (hat only)",
+        "picUrl": "https://cdn.findqc.com/item/20250702/mckvmgk7_vre4.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615217637",
+          "name": "O",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1576342",
+        "mallType": "TB",
+        "itemId": "809169939913",
+        "title": "Far archive reverse letter contrasting embroidery versatile curved brimmed hat niche retro distressed duck tongue hat",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mcj6mbo4_gm1b.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "187956969",
+          "name": "NO PHONE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1576274",
+        "mallType": "WD",
+        "itemId": "7448579392",
+        "title": "Lili - Factory Direct Sales of New Quick Drying Hats for Men, Sunshade Hats for Women, Baseball Hats, Sunscreen, Summer Breathable, E-commerce Hot Selling",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mchygl7y_t0j8.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1573890",
+        "mallType": "WD",
+        "itemId": "7411296525",
+        "title": "Hat Embroidery Fashion Hip Hop Sunshade Net Hat Female Pingyang Baseball Hat Letter Travel",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mci23le3_o8sq.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854564045",
+          "name": "Trendy Shop",
+          "logo": "https://si.geilicdn.com/pcdecorate1929805743-72300000019864e151d60a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1573727",
+        "mallType": "TB",
+        "itemId": "692408511374",
+        "title": "Cro Hat CH Embroidered Hip Hop Street Shade Net Hat Male Female Couple Baseball Hat Truck Hat Driver Hat Retro",
+        "picUrl": "https://cdn.findqc.com/item/20250726/mdk5sq7d_o2ax.jpg",
+        "price": "¥70.36",
+        "toPrice": "$11.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "311589425",
+          "name": "SPACE TRASH",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1571656",
+        "mallType": "T1688",
+        "itemId": "872040299587",
+        "title": "Cross-Border Amiri High Street Style Chrome Hearts Baseball Cap for Men and Women, Trendyy Embroidered Peaked Cap",
+        "picUrl": "https://cdn.findqc.com/item/20250715/md3lmwxz_ccs2.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBREjQF09KNUFRgZP3Yc4Fhw",
+          "name": "广州欣胧服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1567448",
+        "mallType": "TB",
+        "itemId": "856372256131",
+        "title": "New high-quality fully enclosed baseball cap, big head circumference, hip-hop trendy Korean version cap, men's and women's travel high top baseball cap",
+        "picUrl": "https://cdn.findqc.com/item/20250802/mdu0li4p_mmtt.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "268821669",
+          "name": "吾家帽子",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1566816",
+        "mallType": "T1688",
+        "itemId": "815667885181",
+        "title": "New V-shaped female Korean-style hat female all-match curled wool hat autumn and winter foreign-style cold hat warm knitted hat men's fashionable",
+        "picUrl": "https://cdn.findqc.com/item/20250801/mdsczim8_cl1k.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKz0kFS996ehCOHg4mFqZHw",
+          "name": "义乌市熙琰制帽厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 113,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1564755",
+        "mallType": "T1688",
+        "itemId": "907865118755",
+        "title": "New M net red baseball cap letter embroidery fashion casual cap men's and women's spring and summer sunscreen hat",
+        "picUrl": "https://cdn.findqc.com/item/20250719/md9wl9ms_8cd6.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLx0n91EtP14jsaouVa9XsQ",
+          "name": "广州呗乐服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1563092",
+        "mallType": "T1688",
+        "itemId": "911812792064",
+        "title": "Alo new baseball cap, duckbill cap, outdoor sun protection and shade, men's and women's casual sports running fitness hat",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcmyyttf_rl9r.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1562893",
+        "mallType": "TB",
+        "itemId": "833130436867",
+        "title": "BAPESTA Knitted Hat Knitted Hat Knitted Hat Cold Hat Male and Female Couple Autumn/Winter Outdoor Warm Head Hat Bean Hat American Style",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mciw2nw5_h2ky.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "311589425",
+          "name": "SPACE TRASH",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1562740",
+        "mallType": "TB",
+        "itemId": "706681780564",
+        "title": "Spot Undercover Rivet Damaged Old Adhesive Cloth Duck Tongue Hat Wide brimmed Dome Small DIY Hat Black",
+        "picUrl": "https://cdn.findqc.com/item/20250720/mdbguti0_nn0i.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "581813236",
+          "name": "CAP",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1562385",
+        "mallType": "WD",
+        "itemId": "7489225683",
+        "title": "Non adjustable hat, Yankees, NY hip-hop flat brimmed hat, Cap size hat, fully covered hat, armband size hat, sun protection hat, men's and women's versatile sun protection hat, tourist trendy hat",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mco9mgqs_k2cz.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1145423173",
+          "name": "球衣帽子小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1561229",
+        "mallType": "WD",
+        "itemId": "7240620947",
+        "title": "twenty-four million fifty-two thousand nine hundred and ten",
+        "picUrl": "https://cdn.findqc.com/item/20250627/mceplx8v_v2e4.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "161063910",
+          "name": "3125tiger",
+          "logo": "https://si.geilicdn.com/wdseller161063910-3d9c0000018fa4729ff50a81347d_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1554453",
+        "mallType": "T1688",
+        "itemId": "789478264010",
+        "title": "Korean version student Japanese basin hat couple style trendy hat summer sun protection hat light plate fisherman hat men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zZPr4h1D7uHdQWyDz_!!2215527350170-0-cib.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYJMAKki4GWhFe5-mpl7Vig",
+          "name": "广州广潮帽业商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1554451",
+        "mallType": "WD",
+        "itemId": "7435949612",
+        "title": "Special Offer for Newly Processed Paris Tape Curved brimmed Hat for Men and Women 3-27 B9",
+        "picUrl": "https://cdn.findqc.com/item/20250628/mcg3ih3j_blkz.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707804864",
+          "name": "不二家",
+          "logo": "https://si.geilicdn.com/weidian1417299265-7f700000018ece14a7660a23136f_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1554427",
+        "mallType": "WD",
+        "itemId": "7486482230",
+        "title": "060364 duomi duckbill cap",
+        "picUrl": "https://cdn.findqc.com/item/20250628/mcfez2s0_46yp.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1554358",
+        "mallType": "TB",
+        "itemId": "765846030566",
+        "title": "CORTEIZ rope staff&rainbow beanie cold cap hand sewn rainbow cold hat",
+        "picUrl": "https://cdn.findqc.com/item/20250627/mcdzmwxe_mzfw.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "435940291",
+          "name": "SScap",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1552290",
+        "mallType": "TB",
+        "itemId": "915599798047",
+        "title": "Hidden47 suede crochet embroidered wide brimmed American retro baseball cap adjustable",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mci1f721_182u.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "362822822",
+          "name": "TSARCHIVE",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1551273",
+        "mallType": "WD",
+        "itemId": "7489342399",
+        "title": "Dodgers LA Non Adjustable Hat Hip Hop Flat Edge Hat 59FIFTY Cap Size Hat Fully Sealed Hat Size Hat Sunscreen Hat Men's and Women's Versatile Sunscreen Hat Tourist Trendy Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250625/mcbi4h16_x3lk.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1145423173",
+          "name": "球衣帽子小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114925854249899592",
+  "language": "en"
+}

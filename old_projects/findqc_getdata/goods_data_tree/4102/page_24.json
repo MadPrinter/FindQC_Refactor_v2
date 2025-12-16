@@ -1,0 +1,106 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "7612",
+        "mallType": "TB",
+        "itemId": "658587403083",
+        "title": "Handsome glasses for men, trendy and high-end, Japanese style, refined and vulgar, gold wire small frame, round frame, nearsighted, thin frame, glasses frame for women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9txvu_86qt.jpg",
+        "price": "¥36.58",
+        "toPrice": "$5.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "280880055",
+          "name": "小熙眼镜每天上新日系韩版网红潮流款",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7062",
+        "mallType": "WD",
+        "itemId": "7230671935",
+        "title": "Special offer 348! Authentic PU Home Male Female VPR 04z Large Frame Glasses",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9ncr0_780p.jpg",
+        "price": "¥500.00",
+        "toPrice": "$78.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1017547959",
+          "name": "豪豪外贸",
+          "logo": "https://si.geilicdn.com/vshop1017547959-1473747926.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6627",
+        "mallType": "T1688",
+        "itemId": "774441491974",
+        "title": "Cross-border fashion big brand sunglasses women's small frame net red travel sunglasses UV protection Sunglasses",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9ii84_gk5a.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6592",
+        "mallType": "T1688",
+        "itemId": "688530463672",
+        "title": "[Japan tide classic] 7285 with the same metal frame sheet metal external decorative metal plate duplex glasses frame female male",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9i4dv_p7ci.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5480",
+        "mallType": "T1688",
+        "itemId": "777075880120",
+        "title": "Clown glasses frame, bright black, women's style, can be matched with ultra light and plain fashionable anti blue light glasses frame 15001",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m92cgw_rxnm.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBCvFCbDErghDsv3ARfyyKcA",
+          "name": "丹阳市沃迪沃眼镜商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5263",
+        "mallType": "T1688",
+        "itemId": "614944639111",
+        "title": "Netroots with the same retro black eyeglasses ultra-light vegan TR90 anti-blue light frames can be equipped with myopia degree eyeglass frames",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m8y1h9_pkv4.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114519693249878537",
+  "language": "en"
+}

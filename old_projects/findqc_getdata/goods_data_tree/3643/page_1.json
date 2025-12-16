@@ -1,0 +1,639 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2029953",
+        "mallType": "T1688",
+        "itemId": "899573005594",
+        "title": "Sweep code RL Raff real shot pony logo warm twist couple sweater women's embroidered crew neck sweater men's autumn and winter",
+        "picUrl": "https://cdn.findqc.com/item/20250905/mf5uyvzc_7mjt.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnbA5BnsL0wGM05O4vXhWmw",
+          "name": "广州小佳外贸服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 518,
+        "qcVideoCnt": 9
+      },
+      {
+        "id": "135722",
+        "mallType": "T1688",
+        "itemId": "803625374929",
+        "title": "25 Autumn and Winter New Embroidered Pony Mark Classic Twisted Sweater Round Neck Twist Turtleneck All-match Lazy Style",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpcpkx_zfpe.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBv00fjTkuFSJFegM2Lw5fMQ",
+          "name": "广州潮柜服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 190,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "3102448",
+        "mallType": "T1688",
+        "itemId": "962052988832",
+        "title": "经典针织圆领套头毛衣男女花卉晕染撞色设计感复古美式针织开衫潮",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GCvSvm2EoKtVGHyV7_!!2212913358791-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUzClH85ENtQBjBfI0fUM8A",
+          "name": "广州市甲乙丙丁服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2176234",
+        "mallType": "WD",
+        "itemId": "7510051037",
+        "title": "Fashion wool sweater knitted sweater - DW2C\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901901383085-4e1a0000019326385d960a239646_1200_1200.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1872353949",
+          "name": "5G潮牌",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1792823",
+        "mallType": "WD",
+        "itemId": "7499195070",
+        "title": "【 DX4-1 】 Jacquard logo pullover sweater 023",
+        "picUrl": "https://si.geilicdn.com/wdseller1518819354-52c20000018c511404720a20e284_1080_1080.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646048669",
+          "name": "Giant panda 🐼",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "231275",
+        "mallType": "T1688",
+        "itemId": "847540814214",
+        "title": "Real Shot Sweep Size RL Ruff Pony Mark Embroidered Round Neck Warm Twist Couple's Top Women's Sweater Men's Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p6yfh_8jv8.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0b2RCDekW1-lm6sHS1wWsw",
+          "name": "普宁市梅塘宜佳服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 199,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2455037",
+        "mallType": "WD",
+        "itemId": "7509981499",
+        "title": "S Stone Turtleneck Pullover Zipper Hooded Sweater Sweater Ensemble",
+        "picUrl": "https://si.geilicdn.com/pcitem1820417972-1e1c0000018d28ab0ca00a20e7c7_800_800.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1725815421",
+          "name": "trendy store",
+          "logo": "https://si.geilicdn.com/shopedit1965399681-216f000001981bb3e7db0a811411-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1933569",
+        "mallType": "T1688",
+        "itemId": "844817595207",
+        "title": "In-Stock Autumn and Winter Round-Neck Pullover Sweater for Couples, Cable Knit Sweater, Fashionable Sweater, Trendy and Versatile",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nt34k21r8toubMOBD_!!2216588385587-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGU_8EM53xVGZZsm3uz3wUQ",
+          "name": "揭阳市揭东区新亨镇纤沫服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 287,
+        "qcVideoCnt": 7
+      },
+      {
+        "id": "376",
+        "mallType": "TB",
+        "itemId": "760438413422",
+        "title": "9-Color New Long-Sleeved Standard-Fit Cotton Crew Neck Knit Sweater Men's Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m29zuw_yy9a.jpg",
+        "price": "¥97.19",
+        "toPrice": "$15.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "115207252",
+          "name": "云端shop",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 699,
+        "qcVideoCnt": 19
+      },
+      {
+        "id": "3051104",
+        "mallType": "WD",
+        "itemId": "7532747162",
+        "title": "Love sweater men's and women's striped youth peach heart AMI CLAMS casual pullover sweater",
+        "picUrl": "https://si.geilicdn.com/open411716067-1234478995-0f5e00000198d33d48e60a8115c2_1000_1000.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "411716067",
+          "name": "Top outfit",
+          "logo": "https://si.geilicdn.com/shopedit411716067-19ac0000019971e8cc690a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3108844",
+        "mallType": "WD",
+        "itemId": "7566969657",
+        "title": "Fashion Sweaters ",
+        "picUrl": "https://si.geilicdn.com/wdseller1580621215-5e3700000197be9dd3570a8133cc_800_800.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1797455565",
+          "name": "ChicVibe",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2440339",
+        "mallType": "T1688",
+        "itemId": "929059004885",
+        "title": "Cross-border Europe and the United States retro street casual loose long-sleeved tops fall and winter warm pullover round neck knitted sweater men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HfeaTm1v6OAWjJx8V_!!2215760796123-0-cib.jpg",
+        "price": "¥61.86",
+        "toPrice": "$9.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215760796123",
+          "name": "中山莱妙利电子商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3213198",
+        "mallType": "WD",
+        "itemId": "7402587046",
+        "title": "拉链纯色可扫码连帽毛衣-正确版",
+        "picUrl": "https://si.geilicdn.com/open1678194829-1234478995-0523000001953893de350a23b491_1920_1920.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1678194829",
+          "name": "ALIENS",
+          "logo": "https://si.geilicdn.com/shopedit1921983365-5499000001946055ff850a239646-unadjust_318_318.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1863018",
+        "mallType": "T1688",
+        "itemId": "858207902916",
+        "title": "STONE stone Europe and the United States function zipper open chest stand-up collar knitted autumn and winter men and women with casual solid color sweater ius",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ks42xW2BL4g8Zu8yl_!!2218894628321-0-cib.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218894628321",
+          "name": "广州茉卡服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2746590",
+        "mallType": "TB",
+        "itemId": "972722908306",
+        "title": "Arte Cardigan Flower round knit Embroidered Zipper cardigan Sweater Knitted Coat Autumn",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2075710764/O1CN012EFe471HVxgE6r5oQ_!!2075710764.png",
+        "price": "¥164.54",
+        "toPrice": "$25.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2439664",
+        "mallType": "WD",
+        "itemId": "7554194454",
+        "title": "Polo collar casual basic versatile heavyweight zipper sweater jacket for both men and women",
+        "picUrl": "https://si.geilicdn.com/open1652366165-1234478995-3b69000001995483c2790a8115c2_990_990.jpg",
+        "price": "¥298.00",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1697509485",
+          "name": "HOTREPS",
+          "logo": "https://si.geilicdn.com/shopedit1938853185-7042000001979d0fa3990a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2439354",
+        "mallType": "WD",
+        "itemId": "7553320858",
+        "title": "【 Welfare Price Pony Two Color Sweater in Stock 】 Tequila produced independent Pony black and gray two color sweater/all wool half zipper pullover sweater/genuine YKK zipper/vintage style outfit/value for money/unisex style",
+        "picUrl": "https://si.geilicdn.com/wdseller1845102295-19a30000019957e703aa0a2103bd_1135_1540.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863554137",
+          "name": "龙舌兰出品",
+          "logo": "https://si.geilicdn.com/wdseller1845102295-4e9f0000018e3f1963560a23954a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817618",
+        "mallType": "WD",
+        "itemId": "7309948483",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1703547801-1234478995-1ffb0000019249c3563b0a8133b5_800_800.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615509721",
+          "name": "WWW——34-1",
+          "logo": "https://si.geilicdn.com/shopedit1848591094-437a000001963933a6090a23111a-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1658596",
+        "mallType": "T1688",
+        "itemId": "798852264278",
+        "title": "DRILL Style Street Hip-hop Embroidered Letters Stand Collar Zipper Cardigan Knitwear Sweater Men's Trendy Brand Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250829/mew2usoe_i3kv.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSodJut_h4Qq7nDZyIcOeRw",
+          "name": "广州市集潮社服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 542,
+        "qcVideoCnt": 10,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "1571538",
+        "mallType": "T1688",
+        "itemId": "940682489028",
+        "title": "High-End Nanyou g Brand New Towel Embroidery Stand Collar Zipper Double g Full Print Knitted Wool Cardigan, Unisex",
+        "picUrl": "https://cdn.findqc.com/item/20250809/me35uozf_8nz1.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdOi-1-i53hJmdiPuTylwqA",
+          "name": "东莞市大朗雅丽娜服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 582,
+        "qcVideoCnt": 8
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143003421930820267",
+  "language": "en"
+}

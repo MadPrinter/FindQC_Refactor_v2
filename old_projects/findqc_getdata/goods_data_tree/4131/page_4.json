@@ -1,0 +1,100 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "26083",
+        "mallType": "T1688",
+        "itemId": "739745628305",
+        "title": "High quality boxes require the box to be photographed. This link does not ship for single photos",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nig9tg_o1y6.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "25203",
+        "mallType": "TB",
+        "itemId": "678779141682",
+        "title": "Fun three-dimensional piglet applicable airpods3 protective cover for men and women pro second generation airpodspro2 headphone cover new apple wireless bluetooth three generation airpods2 fun fall-proof soft cute",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ni9fu0_jw9h.jpg",
+        "price": "¥17.80",
+        "toPrice": "$2.80",
+        "status": "normal",
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "20146",
+        "mallType": "T1688",
+        "itemId": "741808828184",
+        "title": "High end boutique glasses box in stock, sunglasses box, presbyopia glasses box, black leather box, brown glasses box",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfihin_t9hf.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213998724128",
+          "name": "温州市鹿城区匀升眼镜商行",
+          "type": "T1688"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "15573",
+        "mallType": "T1688",
+        "itemId": "725600576497",
+        "title": "High-grade PP watch box Good quality Baida watch box brown portable high-grade craft storage box spot full set",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ndzgt5_nil9.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "13123",
+        "mallType": "T1688",
+        "itemId": "678765241089",
+        "title": "Ray Ban Eyewear Lychee pattern packing box aviator glasses case high quality LB sunglasses set case factory direct sale",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcfvao_48m8.jpg",
+        "price": "¥7.00",
+        "toPrice": "$1.10",
+        "status": "normal",
+        "categoryId": 17,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "8804",
+        "mallType": "T1688",
+        "itemId": "694952715354",
+        "title": "Baishifen T7267 Xiaohongshu Glasses Retro Ultra Light TR90 Glasses Frame Square Large Frame Myopia Glasses Frame Male",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3maeq1u_xatz.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2201168169559",
+          "name": "镇江市百世芬眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145184381911214727",
+  "language": "en"
+}

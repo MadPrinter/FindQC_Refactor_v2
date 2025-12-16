@@ -1,0 +1,471 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2844941",
+        "mallType": "WD",
+        "itemId": "7588931790",
+        "title": "Pa pro team jersey",
+        "picUrl": "https://si.geilicdn.com/pcitem507105153-53160000019a341c3c230a23038e-unadjust_789_735.png",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "507105153",
+          "name": "Dragon",
+          "logo": "https://si.geilicdn.com/wdseller507105153-19c1000001951ceded450a2395d6_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2766653",
+        "mallType": "TB",
+        "itemId": "950776985470",
+        "title": "In-Stock Playboi Carti Merchandise Handmade Hanging Card Toys I Am Music Album Style Building Block Figures",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3308786915/O1CN01mfGWsU20x7rnLmnwB_!!3308786915.jpg",
+        "price": "¥59.83",
+        "toPrice": "$9.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "271470707",
+          "name": "YWMontana",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "484317",
+        "mallType": "TB",
+        "itemId": "649433137136",
+        "title": "2021 new summer motorcycle racing off-road sportswear speedo riding suit long-sleeved tops for men",
+        "picUrl": "https://cdn.findqc.com/item/20250113/m5u211s1_ehsw.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107057550",
+          "name": "东莞批发定制骑行服",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "183547",
+        "mallType": "WD",
+        "itemId": "1833963396107933454637",
+        "title": "MLB NFL Football 4-Pocket Trendy Shorts",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mrhnw9_4fvy.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667979992",
+          "name": "疯狂球衣",
+          "logo": "https://si.geilicdn.com/weidian1477317334-4f8c0000017153e989210a217216_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "65699",
+        "mallType": "T1688",
+        "itemId": "680952460607",
+        "title": "90*150cm WWII Crossed Eagle Flag with Red Background in Stock 3*5Ft Polyester Flag Manufacturer German Flag",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mkiy7q_knol.jpg",
+        "price": "¥5.50",
+        "toPrice": "$0.86",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "52348",
+        "mallType": "TB",
+        "itemId": "526966594664",
+        "title": "Customized Bodysuit Logo Customization Shorts Customization Tight Pants Customization Customized Dedicated Link",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nnqvet_3rfr.jpg",
+        "price": "¥464.46",
+        "toPrice": "$73.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36284941",
+          "name": "尚武 MARTIAL",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39042",
+        "mallType": "TB",
+        "itemId": "743570515421",
+        "title": "In Stock Palestine Flag Palestinian Freedom Flag 90*150cm, 3X5Ft",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmcec9_hf63.jpg",
+        "price": "¥32.09",
+        "toPrice": "$5.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "479229482",
+          "name": "jutime",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "38045",
+        "mallType": "TB",
+        "itemId": "612613753383",
+        "title": "Mini AJ keychain, 3D sneakers, shoes, small models, shoulder bags, backpacks, backpacks, hanging accessories, exquisite gifts, trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nltan2_4cam.jpg",
+        "price": "¥21.90",
+        "toPrice": "$3.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "242839294",
+          "name": "GYO海购店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32674",
+        "mallType": "TB",
+        "itemId": "672987115906",
+        "title": "【Ronmk Otwns】High-Quality Genuine Leather Casual Flat Slippers with Thick Heels for Women to Wear Outside",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njuiru_kn72.jpg",
+        "price": "¥566.46",
+        "toPrice": "$89.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125229744",
+          "name": "RONMK OTWNS",
+          "type": "TB"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "30215",
+        "mallType": "TB",
+        "itemId": "750297784109",
+        "title": "US Vintage New York Street Jacket Embroidered Loose Plus Size Hip Hop 2",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njav1r_gacp.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29666",
+        "mallType": "TB",
+        "itemId": "562008407958",
+        "title": "Foreign Trade Supply Chicago Cubs Flag Mlb Chicago Cubs Flag Amazon Wish Ebay Hot",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj6eb7_1efz.jpg",
+        "price": "¥30.88",
+        "toPrice": "$4.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "370580978",
+          "name": "外贸货源吧",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4073",
+        "mallType": "TB",
+        "itemId": "785854386372",
+        "title": "Tide Cor Ravens Athletic Jersey",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3nfaj_4rgx.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147221111917130340",
+  "language": "en"
+}

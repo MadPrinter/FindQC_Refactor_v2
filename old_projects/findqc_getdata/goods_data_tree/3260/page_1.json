@@ -1,0 +1,469 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "870",
+        "mallType": "T1688",
+        "itemId": "675358399697",
+        "title": "Palm Moose Men/Women Winter Gilet down Vest Body Warmer",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mziqbo_6rsg.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmHge03Akzs4TMHQLnVwWHA",
+          "name": "泉州市宝丝林服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 435,
+        "qcVideoCnt": 24
+      },
+      {
+        "id": "1578600",
+        "mallType": "T1688",
+        "itemId": "898530688531",
+        "title": "2025 new men's reversible vest stand-up collar fashion versatile leisure high-quality comfortable trend shoulder jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01y1NQ441XYjtArKwr0_!!972972936-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "972972936",
+          "name": "石狮市黄海军服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2614298",
+        "mallType": "T1688",
+        "itemId": "982413284889",
+        "title": "Cross-border explosive sports training green vest vest shoulders lightweight warm reflective breathable running leisure outer wear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01t3aAkT1J48rUsY1Td_!!2220140290974-0-cib.jpg",
+        "price": "¥151.36",
+        "toPrice": "$23.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220140290974",
+          "name": "柴桑区桑野服装商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2597088",
+        "mallType": "TB",
+        "itemId": "979825070345",
+        "title": "The first black warm vertical bar pressed down cotton vest windproof explosive reflective night in 2025 across the entire network",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2211653304864/O1CN01Hal7n51lnlYYUf0FH_!!2211653304864.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333343429",
+          "name": "体育生运动装备店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2901102",
+        "mallType": "WD",
+        "itemId": "7454996602",
+        "title": "【 Joint Project 】 【 25ss New Edition 】 Original Factory Quality Gr@micci X And W @ nder collaboration reflective logo zipper pocket nylon vest unisex",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk4jivh_mgu8.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1370237163",
+          "name": "王麻子666",
+          "logo": "https://si.geilicdn.com/bj-wd-1370237163-1532683066728-889635542_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2152360",
+        "mallType": "T1688",
+        "itemId": "607180216030",
+        "title": "Clearance Women's Cotton Heated Vest Cross-border USB Smart Charging Autumn and Winter Warm Vest High Neck Vest Clip Fashionable",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/12601069781_1491795529.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1090493622",
+          "name": "广州泰昌服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1847051",
+        "mallType": "TB",
+        "itemId": "953038074516",
+        "title": "Nike / Nike genuine winter new women's sports and leisure warm down vest DD6064-369",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2217893354484/O1CN01HtlSMy1iziyLj4WVt_!!2217893354484.jpg",
+        "price": "¥879.00",
+        "toPrice": "$138.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "100693853",
+          "name": "飞鱼运动集合",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2226923",
+        "mallType": "WD",
+        "itemId": "7458333206",
+        "title": "B042858 Spring New Embroidered Men's Stand up Collar Soft Shell Windproof and Waterproof Vest",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf8150zi_0yet.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353308334",
+          "name": "一条严选",
+          "logo": "https://si.geilicdn.com/weidian1353308334-6fab00000192660880940a210349_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1421273",
+        "mallType": "WD",
+        "itemId": "7280953134",
+        "title": "🔥🔥 240928-ARC Embroidered Label Autumn/Winter New Atom LT Vest Astro Collection Corloft Warm Cotton Vest 24479 (Small Size)",
+        "picUrl": "https://cdn.findqc.com/item/20250610/mbpuma6e_b8e0.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1641423502",
+          "name": "头号户外玩家 1号店",
+          "logo": "https://si.geilicdn.com/wdseller1708449946-499c00000185718ec1170a23136f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "857288",
+        "mallType": "TB",
+        "itemId": "763252407722",
+        "title": "Authentic Nike/Nike THERMA-FIT Men's Autumn/Winter Running Sport Warm Cotton Vest DD5648",
+        "picUrl": "https://cdn.findqc.com/item/20250710/mcxaz8nc_c2bs.jpg",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "163076954",
+          "name": "明日体育 坚持正品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "11267",
+        "mallType": "TB",
+        "itemId": "798825623372",
+        "title": "High-End Series! Offline 1K+ Technology 3D Mesh! Summer Unisex Retro Color-Blocked Hooded Sun-Protective Vest",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mblj7s_2tmm.jpg",
+        "price": "¥58.58",
+        "toPrice": "$9.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "334077528",
+          "name": "华华外贸 专注精品男装",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140440651914139444",
+  "language": "en"
+}

@@ -1,0 +1,43 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "5609",
+        "mallType": "T1688",
+        "itemId": "592296169968",
+        "title": "Factory H brand constellation gyro toys 130 BB series bulk gyro Iron War Soul 4D battle gyro",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m94x8s_aikf.jpg",
+        "price": "¥4.00",
+        "toPrice": "$0.63",
+        "status": "normal",
+        "categoryId": 25,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2858",
+        "mallType": "TB",
+        "itemId": "630676472213",
+        "title": "4D Japanese Version of Iron Soul Bursting Spin Long-Lasting Alloy Battle Beyblade, Various Models Takaratomy Beyblade",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m32ziw_2yck.jpg",
+        "price": "¥10.32",
+        "toPrice": "$1.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "489718464",
+          "name": "炫酷玩转陀螺店",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 96,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143532141917139081",
+  "language": "en"
+}

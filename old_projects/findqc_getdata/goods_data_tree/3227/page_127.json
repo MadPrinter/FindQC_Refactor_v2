@@ -1,0 +1,367 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1983282",
+        "mallType": "WD",
+        "itemId": "7492742375",
+        "title": "-T-shirt 156240214 long sleeve",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-4b110000018f43a7c5210a232357_800_800.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1648298",
+        "mallType": "T1688",
+        "itemId": "882375265389",
+        "title": "Cotton Fashion Casual Round Neck Pullover Fairyland Men's Printed Women's Short Sleeve Top T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014IE07K1kRUbIdUCkW_!!4244874680-0-cib.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218008392777",
+          "name": "跨境鞋服箱包店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 127,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1647232",
+        "mallType": "WD",
+        "itemId": "7447249650",
+        "title": "Short-sleeved T-shirt and shorts",
+        "picUrl": "https://si.geilicdn.com/open1762039621-252808396-526d00000196254064620aa0834c_800_800.jpg",
+        "price": "¥152.00",
+        "toPrice": "$23.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1762039621",
+          "name": "CSX",
+          "logo": "https://si.geilicdn.com/shopedit1809160355-1812000001947cbc74210a2395a3-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 104,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1556771",
+        "mallType": "TB",
+        "itemId": "845777697497",
+        "title": "Ken Carson a Great Chaos Tour Merch Longsleeve Long-Sleeved T-Shirt Opium",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2212643669335/O1CN01anHO5U2IpUHKqv5tr_!!2212643669335.jpg",
+        "price": "¥91.60",
+        "toPrice": "$14.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1539163",
+        "mallType": "T1688",
+        "itemId": "929166891912",
+        "title": "Cross-border shipping Brazil jersey Stussy Stussy Signature Edition Special Commemorative Edition Thai Edition Training Jersey Soccer Jerseys",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000001128/O1CN01z953Ef1KCfoqGFa34_!!6000000001128-0-tbvideo.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1364658",
+        "mallType": "TB",
+        "itemId": "834173046575",
+        "title": "Lmyer Number Nine Archive Limited Edition Loose T-shirt Short Sleeve Ins Couple Same Style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2943390456/O1CN01zGQMED1FEtb0BBwKy_!!2943390456.jpg",
+        "price": "¥88.88",
+        "toPrice": "$13.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "355030600",
+          "name": "LMYER",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2904277",
+        "mallType": "T1688",
+        "itemId": "908520022470",
+        "title": "Cross-border quality ceiling PATA Bata P-6 T-shirt men and women couples environmental protection Organic T-Shirt short sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xBpFnl2EOEHlbrplu_!!2219028218734-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219028218734",
+          "name": "丰县赤焰服装店（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2536482",
+        "mallType": "T1688",
+        "itemId": "934666790803",
+        "title": "Cross-Border Chrome Heart Double Yarn Pure Cotton Round Neck Men's and Women's Same Style Printed Long-Sleeved T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zY9sj41WIsYsBnO4q_!!2219377232766-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFp-N5yr2AzlX9QLZq84PwA",
+          "name": "广州多财依服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2164112",
+        "mallType": "T1688",
+        "itemId": "810294747974",
+        "title": "Niche am peace dove flow paint graffiti letters starry sky classic logo print short sleeve couple t-shirt iri",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ix00oU1f4WYPtADtx_!!2214425623953-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209431557532",
+          "name": "佛山市禅城区尚九潮流时装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2143090",
+        "mallType": "WD",
+        "itemId": "7395151622",
+        "title": "Printed short-sleeved t-shirt men's and women's models couple dress half-sleeved body shirt",
+        "picUrl": "https://si.geilicdn.com/open1762039621-252808396-384d000001951bcd7c4c0a8133b0_800_800.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1762039621",
+          "name": "CSX",
+          "logo": "https://si.geilicdn.com/shopedit1809160355-1812000001947cbc74210a2395a3-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1360386",
+        "mallType": "TB",
+        "itemId": "914196984137",
+        "title": "Basics Collection Short Sleeve Phantom Letter Logo Print T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3480560492/O1CN01M8igtS1FVNumCESHD_!!3480560492.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "392882169",
+          "name": "艾美Aim",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1360311",
+        "mallType": "T1688",
+        "itemId": "907014389726",
+        "title": "Cross-border FOG Europe and the United States tide brand 24 summer new E printed LOGO men and women with the same short-sleeved T-shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000002478/O1CN01sAIWxx1UAyU9tKotQ_!!6000000002478-0-tbvideo.jpg",
+        "price": "¥34.00",
+        "toPrice": "$5.35",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2934676",
+        "mallType": "T1688",
+        "itemId": "781595176924",
+        "title": "正确版本巴黎B家2024新款巴黎铁塔喷墨渐变彩印水洗做旧短袖T恤",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01f5o0GH1CdDjz6mGNY_!!2217674910103-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217674910103",
+          "name": "广州鹤茹服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2753596",
+        "mallType": "T1688",
+        "itemId": "558245056897",
+        "title": "Spring and Autumn Long-Sleeved T-Shirts for Boys and Girls, Medium and Large Children 100-170 Sizes 1-15 Years Old Lapel Children's Clothing Polo Kids",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jQetoL1Cnkx1F2mqj_!!2030530126-0-cib.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkDjJx5GS533RmquQGTAAnQ",
+          "name": "庐山市衣加衣服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2731292",
+        "mallType": "TB",
+        "itemId": "695055964448",
+        "title": "My Bloody Valentine 1988 Album Feed Me with Your Kiss Short-Sleeved Washed T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2210897690502/O1CN01qlGXBz1FZxd6D2Erb_!!0-item_pic.jpg",
+        "price": "¥131.54",
+        "toPrice": "$20.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "294941770",
+          "name": "icevalley旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2380818",
+        "mallType": "WD",
+        "itemId": "7549274544",
+        "title": "CD Short Sleeve/Sweatshirt Collection",
+        "picUrl": "https://si.geilicdn.com/pcitem1952036837-0b8000000196f0ceb5000a20e7c7-unadjust_800_800.png",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1753845725",
+          "name": "global fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate1957274275-3f1f00000197b69b37240a210256-unadjust_686_686.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 96,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2202954",
+        "mallType": "TB",
+        "itemId": "807827766984",
+        "title": "Ten blah SHIBU Joy Division Joy Division rock punk style creative printing short-sleeved T-shirt trend",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2217023441945/O1CN01L0a7eh1QErJVihQOs_!!2217023441945.jpg",
+        "price": "¥68.90",
+        "toPrice": "$10.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "410847916",
+          "name": "十卟SHIBU",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2202941",
+        "mallType": "WD",
+        "itemId": "7529436526",
+        "title": "Fashion Short Sleeve",
+        "picUrl": "https://si.geilicdn.com/pcitem1927531510-4f9000000198bb345fe10a2304aa_800_800.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819379021",
+          "name": "好店",
+          "logo": "https://si.geilicdn.com/pcdecorate1927531510-4bca00000194d415c43e0a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2061539",
+        "mallType": "TB",
+        "itemId": "804894937453",
+        "title": "Palestine t-shirt Palestinian-Israeli conflict against the boycott of Israel in support of short-sleeved T-shirt clothing body shirt bottoming culture",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2215333675265/O1CN01dBM1LP1olQFVILD8J_!!2215333675265.jpg",
+        "price": "¥25.03",
+        "toPrice": "$3.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "319490063",
+          "name": "二月网红工厂直销店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2018021",
+        "mallType": "T1688",
+        "itemId": "822845536866",
+        "title": "STONE20SS stone long-sleeved compass badge pullover functional casual men and women round neck sweater island cotton tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01miNAUy1zp3Ao91EZ7_!!2218329476762-0-cib.jpg",
+        "price": "¥61.00",
+        "toPrice": "$9.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218329476762",
+          "name": "广州赛谷服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142143931917135161",
+  "language": "en"
+}

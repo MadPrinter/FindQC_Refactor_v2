@@ -1,0 +1,493 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2291512",
+        "mallType": "TB",
+        "itemId": "951404855854",
+        "title": "Justice League Batman cosplay men and women Bruce Wayne cosplay costume jumpsuit tights stage performance costumes",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2212831401944/O1CN019KiGev1QEP1bl3yGM_!!2212831401944.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "313756990",
+          "name": "108Club",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2534449",
+        "mallType": "T1688",
+        "itemId": "575906314463",
+        "title": "New Korean Style Zipper Wetsuit Men's Outdoor Hydroider Long-Sleeved Surfing Suit Sun Protection Swimsuit Snorkeling Wetsuit",
+        "picUrl": "https://cdn.findqc.com/item/20251006/mgek5c36_eb8o.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgoPcUGUyoqD3qLG54AN05A",
+          "name": "东莞蛙咚电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "2097753",
+        "mallType": "T1688",
+        "itemId": "841546073140",
+        "title": "2024 PAS cycling suit summer set road bike breathable outdoor sports quick drying double arrow breathable quick drying",
+        "picUrl": "https://cdn.findqc.com/item/20251004/mgc7qnpg_mc18.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218720813599",
+          "name": "东莞市茶山鸿联服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2229517",
+        "mallType": "WD",
+        "itemId": "7488199428",
+        "title": "WCX44",
+        "picUrl": "https://cdn.findqc.com/item/20250826/merszog0_09jy.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1766529885",
+          "name": "OIC",
+          "logo": "https://si.geilicdn.com/pcdecorate1954382050-038000000197411ccf890a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "902328",
+        "mallType": "T1688",
+        "itemId": "865637874834",
+        "title": "PAS spring and fall long-sleeved cycling clothing men's mountain bike quick-drying breathable road bike single top thin lightweight breathable",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrrh1p_pbem.jpg",
+        "price": "¥102.20",
+        "toPrice": "$16.07",
+        "status": "normal",
+        "categoryId": 42,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "118371",
+        "mallType": "T1688",
+        "itemId": "755166113100",
+        "title": "Europe and the United States explosion models winter padded one-piece even yoga clothing long-sleeved warm wear fitness sports one-piece tights female",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mo2xba_astu.jpg",
+        "price": "¥74.00",
+        "toPrice": "$11.64",
+        "status": "normal",
+        "categoryId": 36,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "71184",
+        "mallType": "TB",
+        "itemId": "709796967643",
+        "title": "Cycling Clothing Triathlon Clothing Summer Cycling Swimming Running All-In-One Clothing Jumpsuit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mn9brf_m5rw.jpg",
+        "price": "¥141.84",
+        "toPrice": "$22.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "148786583",
+          "name": "尚骑运动服店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "62331",
+        "mallType": "TB",
+        "itemId": "635641049064",
+        "title": "Adult, Children, Men's Venom Raimi Spider Cosplay Black Raimi Spider Man jumpsuit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mj0fl6_4ikr.jpg",
+        "price": "¥83.00",
+        "toPrice": "$13.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116379409",
+          "name": "国际英雄联盟Zentai",
+          "type": "TB"
+        },
+        "categoryId": 38,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "46423",
+        "mallType": "TB",
+        "itemId": "601823012639",
+        "title": "Fall and winter new Europe and the United States tide brand street Slim high collar long-sleeved sweater sweater knitwear bottoming clothes",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mf3p08_rdfx.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "categoryId": 36,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39506",
+        "mallType": "TB",
+        "itemId": "725227348223",
+        "title": "Europe and the United States wind 2023 summer new women's sexy hollow package hip tight knitted high-waisted casual one-piece pants female",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmid8h_45nc.jpg",
+        "price": "¥32.90",
+        "toPrice": "$5.17",
+        "status": "normal",
+        "categoryId": 11,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "28625",
+        "mallType": "T1688",
+        "itemId": "683180495745",
+        "title": "1873 2022 Europe and the United States and the United States Amazon burst paragraph yoga personality letters webbing sports hip lifting fitness pants suit",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj10cy_m0zr.jpg",
+        "price": "¥37.00",
+        "toPrice": "$5.82",
+        "status": "normal",
+        "categoryId": 11,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "22484",
+        "mallType": "TB",
+        "itemId": "719421344222",
+        "title": "Sports Style Two-Piece Swimsuit for Women, Long-Sleeved, Long Pants, Sun Protection, Slim Fit, Outdoor Swimwear, Diving Suit, Rash Guard",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ngp2hm_bbbn.jpg",
+        "price": "¥141.07",
+        "toPrice": "$22.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65292731",
+          "name": "扬帆运动户外专营店",
+          "type": "TB"
+        },
+        "categoryId": 35,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "21041",
+        "mallType": "TB",
+        "itemId": "747431887362",
+        "title": "PNS High-quality Ride Men's 23 Cycling Jersey Bib Pants Set Road Bike Long Sleeve Top",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfwvw1_a4wd.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "categoryId": 32,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "8623",
+        "mallType": "T1688",
+        "itemId": "685270882593",
+        "title": "2023 New Foreign Trade Muslim Swimsuit Long Sleeve Long Pants 3-Piece Set Conservative Sunscreen Burkini with Chest Mat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mab2b1_qmix.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2528966160",
+          "name": "深圳市龙岗区朵拉儿服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021142184211916154985",
+  "language": "en"
+}

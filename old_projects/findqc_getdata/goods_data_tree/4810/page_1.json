@@ -1,0 +1,636 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3054146",
+        "mallType": "WD",
+        "itemId": "7513624323",
+        "title": "包",
+        "picUrl": "https://si.geilicdn.com/open1794975613-1234478995-092f00000198405444d70a231226_1080_1440.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794975613",
+          "name": "精品小铺",
+          "logo": "https://si.geilicdn.com/shopedit1966915708-582100000198a2b851a40a207569-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2137176",
+        "mallType": "WD",
+        "itemId": "7464516807",
+        "title": "Package #101",
+        "picUrl": "https://si.geilicdn.com/open1610767581-1234478995-7dba00000196c3c0fca30aa0834c_1080_1440.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1610767581",
+          "name": "纽共",
+          "logo": "https://si.geilicdn.com/wdseller1955521992-534c00000198d2a927910a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2965617",
+        "mallType": "T1688",
+        "itemId": "983218844628",
+        "title": "爆款围巾帽子套装针织男士羊毛刺绣围巾棋盘格子保暖男生围巾",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011FXUEC1SArDA5YKL9_!!2210001542207-0-cib.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBae_IzuNcBM-wol7O4i4FXA",
+          "name": "义乌市赛迪电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1397271",
+        "mallType": "WD",
+        "itemId": "7471128890",
+        "title": "[Heritage Welfare] The style of the hoodie blind box is random, and it will be sent randomly. After placing an order, it will not be returned or exchanged,",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb33ttl4_6mjy.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850717273",
+          "name": "YOLO",
+          "logo": "https://si.geilicdn.com/wdseller1845163825-643f0000018e441273ff0a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 215,
+        "qcVideoCnt": 10
+      },
+      {
+        "id": "2465924",
+        "mallType": "TB",
+        "itemId": "614080692015",
+        "title": "Sunflower Plush Toy Girls Sleeping Pillow Bed Cute Doll Oversized Popular Doll Doll Korea",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2315440005/O1CN01ManuoL1BuKZSskzht_!!2315440005.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "206435833",
+          "name": "艺点生活家居",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1823753",
+        "mallType": "WD",
+        "itemId": "7469311807",
+        "title": "hold or embrace",
+        "picUrl": "https://si.geilicdn.com/open1610767581-1234478995-7b7300000196c3c100bd0a8115c2_800_800.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1610767581",
+          "name": "纽共",
+          "logo": "https://si.geilicdn.com/wdseller1955521992-534c00000198d2a927910a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 100,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2465554",
+        "mallType": "T1688",
+        "itemId": "734824481231",
+        "title": "Netflix Takashi Murakami sunflower doll cushion plush toys office chair cushion window children's room floor cushion girls",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01srrhfb1JxYYobL6ZJ_!!2213048061095-0-cib.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213048061095",
+          "name": "扬州雅优工艺品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1929286",
+        "mallType": "TB",
+        "itemId": "666690142266",
+        "title": "New Colorful Sunflower Pillow Cushion with Funny Expressions, Plush Toy, Home Decoration Ornament, Holiday Gift",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/741571609/O1CN01I8Rx461Nky0UoLVOn_!!0-item_pic.jpg",
+        "price": "¥73.06",
+        "toPrice": "$11.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110426542",
+          "name": "Tobey Toy",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2783481",
+        "mallType": "T1688",
+        "itemId": "606387701271",
+        "title": "Rabbit fur colorful sunflower cushion plush toy pillow office butt cushion student kindergarten chair cushion",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dTs5d91v3B00asTPF_!!1893456116-0-cib.jpg",
+        "price": "¥19.50",
+        "toPrice": "$3.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBngz4KLKoRWvdP1VO2vSNew",
+          "name": "仪征市大仪镇瑞荣毛绒玩具经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1709567",
+        "mallType": "TB",
+        "itemId": "626471610866",
+        "title": "Sunflower Smiley Face Pillow Cushion Home Decoration Gift Unisex Trendy Doll Car Lumbar Pillow Trendy ins Murakami",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2699492096/O1CN01uQYzp61RM0p0V9xH8_!!2699492096.jpg",
+        "price": "¥73.47",
+        "toPrice": "$11.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "140727242",
+          "name": "KenJo高品质原单",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2735927",
+        "mallType": "TB",
+        "itemId": "626317415270",
+        "title": "Internet-Famous Sunflower Pillow Cushion for Floor Chairs, Office Long Sitting, Tatami, and Car Use",
+        "picUrl": "https://cdn.findqc.com/item/20251101/mhfu1l7n_b02r.jpg",
+        "price": "¥29.63",
+        "toPrice": "$4.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109003093",
+          "name": "羔羔熊旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1872351",
+        "mallType": "WD",
+        "itemId": "7494322963",
+        "title": "Cartoon small rabbit hair colorful sunflower cushion pillow plush sunflower flower cushion-XW1",
+        "picUrl": "https://si.geilicdn.com/open1793028253-252808396-00720000019790e1eeb90a8115c2_800_800.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793028253",
+          "name": "Archive專案",
+          "logo": "https://si.geilicdn.com/wdseller901960962938-4108000001979ccc50730a239646_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2461626",
+        "mallType": "WD",
+        "itemId": "7496840331",
+        "title": "Ta*kashi Mu*raka*mi Pill*ows Home Furnishings",
+        "picUrl": "https://cdn.findqc.com/item/20250927/mg1tyakl_lh0j.jpg",
+        "price": "¥92.00",
+        "toPrice": "$14.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684802429",
+          "name": "speed",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2157327",
+        "mallType": "WD",
+        "itemId": "7476267092",
+        "title": "*",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexnpzm6_nx37.jpg",
+        "price": "¥92.00",
+        "toPrice": "$14.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614498093",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-0be40000019522797ea80a21146b-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1792649",
+        "mallType": "T1688",
+        "itemId": "642173546524",
+        "title": "Cross border cartoon semi surrounded cat paw cushion, office seat, student cushion, bear paw cushion, lazy integrated sofa",
+        "picUrl": "https://cdn.findqc.com/item/20250728/mdmk18gr_t877.jpg",
+        "price": "¥27.50",
+        "toPrice": "$4.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210969422668",
+          "name": "扬州欧诺拉玩具有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1772469",
+        "mallType": "TB",
+        "itemId": "608924719885",
+        "title": "Sunflower Cartoon Office Cushion Pillow Cute Student Car Chair Cushion Sedentary Living Room Sofa Pillow",
+        "picUrl": "https://cdn.findqc.com/item/20250720/mdbguqyi_aany.jpg",
+        "price": "¥13.00",
+        "toPrice": "$2.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "100077694",
+          "name": "米布兔兔毛绒玩具",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "51402",
+        "mallType": "T1688",
+        "itemId": "650413223558",
+        "title": "Cartoon Rabbit Hair Colorful Sunflower Cushion Pillow Plush Sunflower Flower Cushion",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mh7iwr_qi4y.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByDQ_naW-6cNYuOeZo2MVXA",
+          "name": "扬州芳驰工艺品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 107,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "40768",
+        "mallType": "TB",
+        "itemId": "624772281378",
+        "title": "Black and White Seven-Color Sunflower Pillow Plush Toy Cushion Doll Seat Cushion Sunflower Cushion Gift for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmrr0g_5u4y.jpg",
+        "price": "¥29.02",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107161066",
+          "name": "棉花糖毛绒玩具礼品店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 105,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "21682",
+        "mallType": "WD",
+        "itemId": "1951771654",
+        "title": "Goya Handbag Envelope iPad Wallet Computer Bag Leather Handmade Women's Bag unisex Handbag",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ng0z09_r8je.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "164160968",
+          "name": "迷你小奢店",
+          "logo": "https://si.geilicdn.com/vshop164160968-1494562747.jpeg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 82,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3146",
+        "mallType": "TB",
+        "itemId": "565679177060",
+        "title": "ins Colorful Sunflower Cushion Pillow Doll Floor Mat Home Decoration Plush Toy Celebrity Style",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m38a9f_zx5q.jpg",
+        "price": "¥63.65",
+        "toPrice": "$10.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110426542",
+          "name": "Tobey Toy",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 534,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147241151911217308",
+  "language": "en"
+}

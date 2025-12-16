@@ -1,0 +1,624 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3104733",
+        "mallType": "TB",
+        "itemId": "721845585892",
+        "title": "Unwelcome&Mats Stitch Skeleton 3D Handmade Stereo Carpet for Living Room Stitch Skeleton",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2215495737509/O1CN012RTKly25LAu5DyDNU_!!2215495737509.jpg",
+        "price": "¥513.67",
+        "toPrice": "$80.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "568107987",
+          "name": "unwelcomemats",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2934722",
+        "mallType": "T1688",
+        "itemId": "861920962323",
+        "title": "Animal Cloth Patch Cartoon Crocodile Bear Lion Hippopotamus Dog Embroidery Label Children's Clothing Luggage Decoration Logo Badge Patch Patch\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012NRIUw1JEfteHukuO_!!2217024840997-0-cib.jpg",
+        "price": "¥0.60",
+        "toPrice": "$0.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBuQFNlNRbtCj5BVSI-rOpGA",
+          "name": "义乌市米琪服装辅料有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "743323",
+        "mallType": "TB",
+        "itemId": "770475957975",
+        "title": "Spot BBC Flying Dog Straight baggy jeans American hip-hop CLEANFIT MASVILLE BOXY Machete",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2378647568/O1CN018WLycw25mCULjuyKq_!!2378647568.jpg",
+        "price": "¥348.00",
+        "toPrice": "$54.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125409421",
+          "name": "DRIP美潮",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2234877",
+        "mallType": "T1688",
+        "itemId": "693205998160",
+        "title": "CDG Rei Kawakubo embroidery cloth stickers red love eyes DIY T-shirt holes decoration patch stickers versatile self-adhesive",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HWeZiN1xAcnxldRFq_!!2929196403-0-cib.jpg",
+        "price": "¥0.50",
+        "toPrice": "$0.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2929196403",
+          "name": "广州市花都区狮岭宝艺绣花店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2031102",
+        "mallType": "T1688",
+        "itemId": "811571116349",
+        "title": "Tide cool British fashion embroidery flower badge patch patch tide clothing decoration repair hole stickers wholesale goods",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sU142k2CLowWJB71T_!!2212787028458-0-cib.jpg",
+        "price": "¥0.68",
+        "toPrice": "$0.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212787028458",
+          "name": "义乌市乐思服装辅料有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2030776",
+        "mallType": "T1688",
+        "itemId": "774419775464",
+        "title": "Handmade DIY spot tide logo daisy brand badge logo name hot stamping clothing t-shirt heat transfer printing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01z8LorX1n2FXlZyjtt_!!2207894455031-0-cib.jpg",
+        "price": "¥2.00",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2207894455031",
+          "name": "义乌清欢服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1848625",
+        "mallType": "T1688",
+        "itemId": "650073170965",
+        "title": "Badge patch patch patch patch patch badge shoulder badge clothing accessories embroidery can be ironed hipster badge",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kQQLjV1neGAgJPunh_!!2207642285114-0-cib.jpg",
+        "price": "¥0.45",
+        "toPrice": "$0.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2207642285114",
+          "name": "义乌市雅绣服装辅料有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902769",
+        "mallType": "TB",
+        "itemId": "864929398181",
+        "title": "New fun shoes with flower patterns, hole holes, shoe accessories, high-end feel, cartoon character decoration buttons on shoes, DIY accessories, Spider Man",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk6qcb1_myg7.jpg",
+        "price": "¥2.61",
+        "toPrice": "$0.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "389997198",
+          "name": "UU鞋花",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2874724",
+        "mallType": "WD",
+        "itemId": "7477352328",
+        "title": "NBA&FOOTBALL Sticker Stickers Light",
+        "picUrl": "https://cdn.findqc.com/item/20251103/mhid11gl_jyud.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1378088195",
+          "name": "CND CLOTH",
+          "logo": "https://si.geilicdn.com/wdseller1378088195-5f6f000001739627e4360a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2136221",
+        "mallType": "T1688",
+        "itemId": "694840482048",
+        "title": "Towel Embroidery Large Peach Heart Love Letter A Clothing Patch Sticker Gift for Male Girlfriend Handmade Jacket Decoration Stickers",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NN83EO2JLY1dVra7O_!!2214970829405-0-cib.jpg",
+        "price": "¥0.75",
+        "toPrice": "$0.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214970829405",
+          "name": "广州一针一线服装辅料商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2726130",
+        "mallType": "T1688",
+        "itemId": "594984577701",
+        "title": "Longsheng Embroidery Small Wing Bead Embroidery Cloth Paste DIY Clothing Accessories Shining Patch Paste Decorative Seal with Back Adhesive",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1qbbhu_3gzc.jpg",
+        "price": "¥6.90",
+        "toPrice": "$1.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLYAH5UCOReILgW2o8IE95A",
+          "name": "东莞市隆盛刺绣有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2802315",
+        "mallType": "T1688",
+        "itemId": "663266842002",
+        "title": "Cashmere sweater embroidery, heart-shaped eyes, heart shaped small label, machine embroidery label, chest badge, badge, Kawakubo Rei accessory patch cloth sticker",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh7zw8lu_snjd.jpg",
+        "price": "¥0.50",
+        "toPrice": "$0.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9jktF5wqPpxQz2RSaTZ8IA",
+          "name": "义乌市乐思服装辅料有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1974934",
+        "mallType": "T1688",
+        "itemId": "816829534732",
+        "title": "Pink zebra embroidery fabric stickers python patch stickers clothes decorative cowboy hat embroidery label orange bow chapter boy",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ky4Fdu26F3OzWQv4S_!!2212758637631-0-cib.jpg",
+        "price": "¥0.68",
+        "toPrice": "$0.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212758637631",
+          "name": "义乌市万葵绣花厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2728262",
+        "mallType": "T1688",
+        "itemId": "591412172624",
+        "title": "Factory direct sales, popular foreign trade products, punk motorcycle embroidery cloth stickers, hot melt adhesive clothing patch stickers, spot wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgwjy1dm_4qy2.jpg",
+        "price": "¥0.78",
+        "toPrice": "$0.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBq2ZitegL_ASGLJl3BGAcPw",
+          "name": "泉州市丽的电脑绣花有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2050825",
+        "mallType": "T1688",
+        "itemId": "659363256633",
+        "title": "Junle baseball jersey, hat, trendy brand, fashionable clothing decoration, embroidered fabric, badge stickers, bag decoration, patch stickers, embroidered labels",
+        "picUrl": "https://cdn.findqc.com/item/20250912/mfgzjgbi_s36e.jpg",
+        "price": "¥0.48",
+        "toPrice": "$0.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6IPoXZiNkEgSKJz9EXA6CQ",
+          "name": "鲤城区君乐电脑绣花厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1764434",
+        "mallType": "TB",
+        "itemId": "835513855923",
+        "title": "Ralph Lauren Paul Cloth Stickers Embroider New arrival Stickers Embroider Trendy Ironing Cloth Stickers Clothes Rough Hole Stickers",
+        "picUrl": "https://cdn.findqc.com/item/20250719/mda0ccz1_w40o.jpg",
+        "price": "¥10.99",
+        "toPrice": "$1.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "191628160",
+          "name": "太阳高级布贴",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1685290",
+        "mallType": "TB",
+        "itemId": "666567503897",
+        "title": "Tufting Xizang Town House Tiger Carpet Tiger Carpet Living Room Bedroom Shaped Floor Mat Bedside Carpet Colorful Dragon Tapestry",
+        "picUrl": "https://cdn.findqc.com/item/20250709/mcv6o79v_1okz.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60573557",
+          "name": "调色盘打翻了casa da paleda",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1497206",
+        "mallType": "T1688",
+        "itemId": "703353611988",
+        "title": "Spot new trend double C letter embroidered cloth stickers for clothes, hats, shoes, socks, decorative patches",
+        "picUrl": "https://cdn.findqc.com/item/20250613/mbtoso90_06fh.jpg",
+        "price": "¥0.50",
+        "toPrice": "$0.08",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1395317",
+        "mallType": "TB",
+        "itemId": "745012435302",
+        "title": "Washable Ultra-Thin Self-Adhesive down Jacket Patch, Seamless Repair Patch, Black Machine Washable Hole Patch, No-Sew Fabric",
+        "picUrl": "https://cdn.findqc.com/item/20250525/mb348tm4_jm23.jpg",
+        "price": "¥5.60",
+        "toPrice": "$0.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "73015778",
+          "name": "金手针",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1167947",
+        "mallType": "TB",
+        "itemId": "776979524681",
+        "title": "Nigo Men's Wade Men's and Women's Couple Japanese Style Polar Bear Beach Loose Casual Sports Shorts Five-Fifth Pants Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250413/m9fr8yy7_ncdt.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "140038315",
+          "name": "潮流专柜店",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146131102553898706",
+  "language": "en"
+}

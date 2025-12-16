@@ -1,0 +1,623 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3165095",
+        "mallType": "T1688",
+        "itemId": "893814303185",
+        "title": "925 silver needle autumn and winter super fairy flower earrings, women's high-end sense, fashionable and versatile earrings, light luxury temperament earrings wholesale\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wr2sdj1FSB865d0Pr_!!2211617990485-0-cib.jpg",
+        "price": "¥1.50",
+        "toPrice": "$0.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXM7yegcAifuR1lIqUVf20g",
+          "name": "义乌市柚姿饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 12
+      },
+      {
+        "id": "2214516",
+        "mallType": "T1688",
+        "itemId": "944559358397",
+        "title": "HS05 with the same multifunction hair curling iron anion intelligent temperature control fast dry hair does not hurt the hair styling modeling",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XEPAhN1nSoXtG36UI_!!2208820205089-0-cib.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208820205089",
+          "name": "深圳市晶菲特科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3191873",
+        "mallType": "TB",
+        "itemId": "826410393948",
+        "title": "1Set Nail Art Drawing Pen Graffiti Nail Acrylic Pen Waterpro",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2213236049136/O1CN01XyuMWS2HMLRIUBE38_!!2213236049136.jpg",
+        "price": "¥39.24",
+        "toPrice": "$6.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "224135517",
+          "name": "Beauty and Fitness",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3060974",
+        "mallType": "TB",
+        "itemId": "782153542752",
+        "title": "Ligeia \"Pinch Hands\" Short Ladder Red Blood Stained Random Dark Subculture Short Style Handmade Wearing Armor",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/2216460621850/O1CN01a6B6ka1PXLfX4L7ga_!!2216460621850.jpg",
+        "price": "¥34.00",
+        "toPrice": "$5.35",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3060956",
+        "mallType": "TB",
+        "itemId": "960918446783",
+        "title": "【Mie Mie】Handmade Niche Pink-Black Sweet Cool Style Original Cross-Shaped Oval Press-On Nails Y2K",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2582668470/O1CN01SuWJhg2CRJkzVnxKa_!!2582668470.jpg",
+        "price": "¥23.54",
+        "toPrice": "$3.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "226468290",
+          "name": "MIE MIE 纯手工小众原创设计穿戴甲",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3060972",
+        "mallType": "TB",
+        "itemId": "822614160047",
+        "title": "Smudged Nail Art with a Bloody Style, Matte Surface, Red Smudged, Niche, Gender-Neutral Nail Art, Unique, Simple, Fashionable and Trendy Nails",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2218356202793/O1CN01tpOS8Q1WVFBiWZtRV_!!2218356202793.jpg",
+        "price": "¥45.97",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "416709268",
+          "name": "和川无性别穿戴美甲",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3093647",
+        "mallType": "TB",
+        "itemId": "964545312712",
+        "title": "New Nail Accessories Punk Style Alloy Rivet Cross Mixed Box White K-Gun Black Wearing Armor Accessories",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/671996100/O1CN01cL6hbv1uvr5CsvYx7_!!671996100.jpg",
+        "price": "¥2.58",
+        "toPrice": "$0.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "160024527",
+          "name": "靖川美甲",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3060949",
+        "mallType": "TB",
+        "itemId": "869618016324",
+        "title": "Black Star | New Year's New Wearable Nails Dark Style Nail Art Hot Girl Hand-Painted French Star Purely Handmade Wearable Nail Tips",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2215119527593/O1CN01bikjsL25xeLrfJ5Y6_!!2215119527593.jpg",
+        "price": "¥33.78",
+        "toPrice": "$5.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "512591196",
+          "name": "别野手工穿戴甲",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3060952",
+        "mallType": "TB",
+        "itemId": "964774556462",
+        "title": "Melody Wearable Nails Cute Nail Art Wearable Nails Nail Stickers Adorable Wearable Nails Sweet Princess",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2208130874238/O1CN015IOOlr1hB3bn8Jayu_!!4611686018427386750-0-item_pic.jpg",
+        "price": "¥9.07",
+        "toPrice": "$1.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "236838702",
+          "name": "晶馨旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2787603",
+        "mallType": "TB",
+        "itemId": "819030459786",
+        "title": "10-Piece Set of Handmade Wearable Nails, Pre-Made Nail Art Patches, Finished Removable Nail Patches, Cat Eye Nail Art Patches",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/850290572/O1CN01YsqXjB1G61WZxtdUS_!!850290572.jpg",
+        "price": "¥3.98",
+        "toPrice": "$0.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112290196",
+          "name": "穿戴甲批发零售店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3041591",
+        "mallType": "T1688",
+        "itemId": "827351790549",
+        "title": "Handmade Armor Dark Rock Punk Cool Girl West Dowager Detachable Nail Manicure",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vGnS802BQZOtOELT7_!!2215611978333-0-cib.jpg",
+        "price": "¥13.80",
+        "toPrice": "$2.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBE_tT1cX7ETg4_zajuvwPCQ",
+          "name": "连云港奈蔻美甲有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3102581",
+        "mallType": "T1688",
+        "itemId": "924809181096",
+        "title": "Meileti Handmade Wearing Armor Black Pink Gradient Japanese Nail Art",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qf5hse2BQZTLvSkiM_!!2215611978333-0-cib.jpg",
+        "price": "¥13.80",
+        "toPrice": "$2.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBE_tT1cX7ETg4_zajuvwPCQ",
+          "name": "连云港奈蔻美甲有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3103021",
+        "mallType": "TB",
+        "itemId": "620450676779",
+        "title": "Gaoy Goya Manicure Tool Set Complete Professional Manicure Set for Removing Dead Skin, Hand Care, Cuticle Oil, Dead Skin Scissors",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3064965846/O1CN019LtUpn1t3WUxbVu3K_!!4611686018427382486-0-item_pic.jpg",
+        "price": "¥25.97",
+        "toPrice": "$4.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "339679347",
+          "name": "GAOY戈雅旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3103010",
+        "mallType": "TB",
+        "itemId": "719673361857",
+        "title": "Kasi Wearable Nail Special Nail Tips Flat Arc Short Style No Need for Polishing Water Drop Trapezoid Seamless Extension Nail Art Nail Stickers",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1090137190/O1CN01DrQUNl22z4iLPnhRC_!!0-item_pic.jpg",
+        "price": "¥14.23",
+        "toPrice": "$2.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101190526",
+          "name": "kasi旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3041589",
+        "mallType": "T1688",
+        "itemId": "858102360404",
+        "title": "White Christmas Cat Eyes Snowflake Stars Christmas Tree Handmade Wearing Armor Finished Nail Art",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hF190U2BQZQkdeRKe_!!2215611978333-0-cib.jpg",
+        "price": "¥13.80",
+        "toPrice": "$2.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBE_tT1cX7ETg4_zajuvwPCQ",
+          "name": "连云港奈蔻美甲有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2735697",
+        "mallType": "TB",
+        "itemId": "973605707301",
+        "title": "New High-End Popular Wearable Handmade Dark Aurora European and American Metallic Pink High-End Cat-Eye Heavy-Duty Hot Girl Nail Art",
+        "picUrl": "https://cdn.findqc.com/item/20251106/mhn1hiqb_ry96.jpg",
+        "price": "¥8.03",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "380485502",
+          "name": "芝士奶昔饰品",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3065292",
+        "mallType": "TB",
+        "itemId": "952313412911",
+        "title": "New High-Brightness Ultra-Concentrated Light Therapy Nail Lamp for Quick-Drying Without Darkening Hands and Feet, Suitable for Applying Nail Tips",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/271476285/O1CN01wvesmw1wIaLXmpQRh_!!271476285.jpg",
+        "price": "¥9.12",
+        "toPrice": "$1.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58713068",
+          "name": "卡妞美甲",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3065285",
+        "mallType": "TB",
+        "itemId": "921645823984",
+        "title": "Nail Lamp for Beginners, Small Size for Home Use, Led Light for Nail Polish Gel, Non-Blackening, Quick-Drying Curing Lamp",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/53000265/O1CN012eyGRS1DpQ0ohRQtc_!!53000265.jpg",
+        "price": "¥28.87",
+        "toPrice": "$4.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57623279",
+          "name": "网购美女 美甲店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3076329",
+        "mallType": "TB",
+        "itemId": "757221187834",
+        "title": "Gaoy Goya Electric Nail Polish Remover and Grinder Small Household Pen-Type Nail Grinder Manicure Tool for Removing Dead Skin and Manicure",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3064965846/O1CN012atrmx1t3WU8FoSGy_!!4611686018427382486-0-item_pic.jpg",
+        "price": "¥50.06",
+        "toPrice": "$7.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "339679347",
+          "name": "GAOY戈雅旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3060965",
+        "mallType": "TB",
+        "itemId": "718415836839",
+        "title": "Sunuv Nail Lamp Sun2C Phototherapy Lamp Nail Dryer Gel Polish Curing Lamp Tool Yuchuang Synthetic Export Version",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3943939187/O1CN01NxmBsL2Hjhkyrgexw_!!3943939187.jpg",
+        "price": "¥143.60",
+        "toPrice": "$22.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "541221089",
+          "name": "格登美妆企业店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140580901911106915",
+  "language": "en"
+}

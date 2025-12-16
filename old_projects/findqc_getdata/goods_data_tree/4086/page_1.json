@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3126312",
+        "mallType": "TB",
+        "itemId": "792703679069",
+        "title": "Judydoll orange flower fine eyeliner gel pen waterproof, sweat resistant, smooth, lasting, non smudging, extremely fine eyeliner, continuous core\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1756873150/O1CN012deBoj1Z8kYu0X64H_!!1756873150.jpg",
+        "price": "¥31.02",
+        "toPrice": "$4.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105397544",
+          "name": "kyeonglee在首尔",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2653674",
+        "mallType": "T1688",
+        "itemId": "937900358522",
+        "title": "Cross-Border Same Style Hs08 Curling Iron Multi-Functional Styler Airwrap.I.D Intelligent Multi-Function",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NWqedh2H9426j7psl_!!2215663859107-0-cib.jpg",
+        "price": "¥620.00",
+        "toPrice": "$97.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBq_OfLn8Of9WZAGufr4tFvA",
+          "name": "义乌市社实电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1378279",
+        "mallType": "TB",
+        "itemId": "679219444904",
+        "title": "Makeup Artist's Special Eyebrow Pencil, Waterproof, Long-Lasting, Non-Fading, Ultra-Fine Hard Core, Wild Eyebrow Line Pencil for Women",
+        "picUrl": "https://cdn.findqc.com/item/20250526/mb4foro9_kzx4.jpg",
+        "price": "¥13.38",
+        "toPrice": "$2.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "224447276",
+          "name": "维系纹绣彩妆精选",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1,
+        "picWidth": "750",
+        "picHeight": "1000"
+      },
+      {
+        "id": "70491",
+        "mallType": "TB",
+        "itemId": "671923318432",
+        "title": "Thg Professional Tattoo Makeup Artist Line Drawing Anti-Smudge Hard Core Chisel Wild Eyebrow Pencil with Distinct Strokes, Waterproof and Non-Fading",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmzf19_qkl5.jpg",
+        "price": "¥39.21",
+        "toPrice": "$6.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108652809",
+          "name": "THG新锐纹绣",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40122",
+        "mallType": "TB",
+        "itemId": "657374722902",
+        "title": "[Heavy Makeup Style] Wosado Soft Magnetic False Eyelashes No Glue Needed Realistic Fox Style Dense Girl Group Little Devil",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmo787_pyaf.jpg",
+        "price": "¥193.12",
+        "toPrice": "$30.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "498664523",
+          "name": "wosado旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "9252",
+        "mallType": "TB",
+        "itemId": "720712736412",
+        "title": "Gudi Sickle Eyeliner Brush, Eyeshadow Blade Brush, Detail Brush, Angled Eyebrow Brush, Concealer Brush for Under-Eye Makeup",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3malmoy_d6vp.jpg",
+        "price": "¥12.53",
+        "toPrice": "$1.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63416583",
+          "name": "Goodgudi古迪旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021144572091911159841",
+  "language": "en"
+}

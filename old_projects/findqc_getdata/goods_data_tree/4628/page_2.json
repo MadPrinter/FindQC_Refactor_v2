@@ -1,0 +1,25 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "12749",
+        "mallType": "T1688",
+        "itemId": "751178955847",
+        "title": "Factory supply smooth hair comb massage comb dexterity long handle princess comb fluffy comb loose massage comb no knot comb comb head comb",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcb5mr_22k8.jpg",
+        "price": "¥2.70",
+        "toPrice": "$0.42",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146460962553878888",
+  "language": "en"
+}

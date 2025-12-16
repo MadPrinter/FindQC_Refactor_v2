@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2900734",
+        "mallType": "WD",
+        "itemId": "7528802989",
+        "title": "R96987-H49",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk813bg_cl14.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899654",
+        "mallType": "WD",
+        "itemId": "7232031605",
+        "title": "RL 4-color poplin cotton shirt for women, RL4-color poplin cotton women's shirt B",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk801c9_6rqd.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900802",
+        "mallType": "TB",
+        "itemId": "788502203826",
+        "title": "Summer New Product Women's V-neck Long sleeved Sweater Knitted Cardigan Coat Texture Short Skirt 2142059 2142058",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk3omxm_9ebw.jpg",
+        "price": "¥55.56",
+        "toPrice": "$8.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62486425",
+          "name": "ZASHOP女装正品折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900776",
+        "mallType": "TB",
+        "itemId": "770744711297",
+        "title": "Girls' Home Wear Long Sleeved Pants Pajamas Girls' Home Clothes Long Sleeves Long Pants",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk3loi5_7zva.jpg",
+        "price": "¥39.59",
+        "toPrice": "$6.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "491606195",
+          "name": "Pursuit of self clothing store",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900614",
+        "mallType": "TB",
+        "itemId": "741514326876",
+        "title": "Original! Kith Japanese Indigo American retro indigo washed denim shirt jacket coach",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk33pzf_le6f.jpg",
+        "price": "¥406.86",
+        "toPrice": "$63.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "544709694",
+          "name": "vvofficial线上",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900620",
+        "mallType": "TB",
+        "itemId": "670647161175",
+        "title": "Trendy Brand Handsome Jacket for Men, Spring, Autumn and Summer Thin Ice Silk Workwear White Shirt Top, Black Long-Sleeved Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk34yjd_vnl1.jpg",
+        "price": "¥19.25",
+        "toPrice": "$3.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "130510044",
+          "name": "文艺宅男店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900578",
+        "mallType": "WD",
+        "itemId": "7454434048",
+        "title": "Pearl button printed floral set",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk2yn96_jkk8.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "385171503",
+          "name": "FK纺织",
+          "logo": "https://si.geilicdn.com/wdseller385171503-1d65000001866524d6380a20e35c_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900053",
+        "mallType": "TB",
+        "itemId": "914844195650",
+        "title": "Taylor Stitch Men's Textured Organic Cotton Lapel Short Sleeve Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk81d9o_wxb6.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "271833732",
+          "name": "稻草外贸新店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900451",
+        "mallType": "TB",
+        "itemId": "674831194951",
+        "title": "Summer linen shirt men's long sleeved casual sunscreen thin style solid color Japanese retro workwear spring autumn cotton linen shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk2kpzu_p8cv.jpg",
+        "price": "¥29.39",
+        "toPrice": "$4.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "238412234",
+          "name": "Nice 潮牌穿搭男装店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900381",
+        "mallType": "TB",
+        "itemId": "771498458226",
+        "title": "Short sleeved shirt shorts beach suit for men",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk2dyzj_5zxp.jpg",
+        "price": "¥66.35",
+        "toPrice": "$10.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "589703946",
+          "name": "闹闹服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900120",
+        "mallType": "TB",
+        "itemId": "771839612623",
+        "title": "Casablanca Casabulca Green Wine Glass Hawaiian Vacation Style Casual Versatile Easy Long-Sleeved Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk1qscs_864d.jpg",
+        "price": "¥177.99",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "420899427",
+          "name": "casabulca",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900019",
+        "mallType": "WD",
+        "itemId": "7504569276",
+        "title": "25ss new early autumn men's series striped patchwork short sleeved shirt, short sleeved T-shirt shorts set for men",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk1i46r_x352.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1714467102",
+          "name": "小六外贸",
+          "logo": "https://si.geilicdn.com/wdseller1730445636-4f830000019a1e9e9dcb0a231177_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899998",
+        "mallType": "WD",
+        "itemId": "7519984738",
+        "title": "HFsMade stock independent P Chambray short sleeved shirt/casual shorts",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk1fa95_6ppi.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899966",
+        "mallType": "TB",
+        "itemId": "652374005676",
+        "title": "European and American high street fashion brand fog long base shirt with white inner layer, long sleeved T-shirt for men, hip-hop men",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk1cmeu_bdt7.jpg",
+        "price": "¥38.40",
+        "toPrice": "$6.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "61900631",
+          "name": "素本纯衣旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899731",
+        "mallType": "TB",
+        "itemId": "736495911148",
+        "title": "DUKEEN pure cotton Oxford spun shirt men's long sleeved spring and autumn white standing collar shirt high-end Henry collar jacket men",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk0tdkh_l1c9.jpg",
+        "price": "¥101.77",
+        "toPrice": "$16.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "217017148",
+          "name": "杜克恩旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1199041",
+        "mallType": "TB",
+        "itemId": "815501685486",
+        "title": "Cabinet 299! Men's 2024 autumn commuting collar long sleeved casual versatile linen blend shirt 4461401",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7quy8_kbhb.jpg",
+        "price": "¥97.46",
+        "toPrice": "$15.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "525790634",
+          "name": "ZABA男装工厂店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899584",
+        "mallType": "TB",
+        "itemId": "750458784854",
+        "title": "14GSL design sense Yamamoto Yohji irregular stand up collar shirt men's retro high-end Lemaire style shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk0f9f8_i11s.jpg",
+        "price": "¥104.25",
+        "toPrice": "$16.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "301547475",
+          "name": "14GSL",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899543",
+        "mallType": "TB",
+        "itemId": "850274742750",
+        "title": "Wind Valley ready to wear daily single solid color loose V-neck long sleeved knitted cardigan men's autumn quick drying casual jacket top",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk0cpr4_1joi.jpg",
+        "price": "¥59.57",
+        "toPrice": "$9.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33652794",
+          "name": "风之谷原单成衣 老店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899525",
+        "mallType": "TB",
+        "itemId": "784305199231",
+        "title": "New Chinese-Style Stand-Up Collar Mid-Sleeve Shirt for Men, Summer New Niche Ice Silk Shirt with a High-End Drape, Five-Quarter Sleeve Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk0bib7_1mks.jpg",
+        "price": "¥26.81",
+        "toPrice": "$4.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102390726",
+          "name": "潮流MAN男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899466",
+        "mallType": "WD",
+        "itemId": "7519406183",
+        "title": "AI shirt blue full print",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk0671g_tfpe.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114305522249892361",
+  "language": "en"
+}

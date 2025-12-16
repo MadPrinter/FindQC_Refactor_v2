@@ -1,0 +1,93 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "6072",
+        "mallType": "TB",
+        "itemId": "605448820863",
+        "title": "Fc model Expedition Fleece Jacket co-branded embroidery color clash rocker jacket jacket high street",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9cyyd_52n2.jpg",
+        "price": "¥339.00",
+        "toPrice": "$53.31",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5168",
+        "mallType": "TB",
+        "itemId": "780954020304",
+        "title": "High quality niche vintage nylon splicing assault jacket, lightweight jacket, functional jacket, men's American style",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m4dddh_pwx4.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "222606475",
+          "name": "A21 studio",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4481",
+        "mallType": "WD",
+        "itemId": "3663648998",
+        "title": "Nike Men's and Women's Windbreaker Jacket 2024 Spring and Autumn New Collection Stand up Windbreaker Casual Sports Jacket 4063 M-2XL",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3vidn_hb06.jpg",
+        "price": "¥106.00",
+        "toPrice": "$16.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1346408840",
+          "name": "小兔子外贸",
+          "logo": "https://si.geilicdn.com/bj-vshop-1346408840-1526322895527-559284031_656_656.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4264",
+        "mallType": "TB",
+        "itemId": "687942186382",
+        "title": "Men's Classic Minimalist Pony Embroidered Baseball Collar Zipper Cardigan Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3qz2t_2kz7.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3293",
+        "mallType": "T1688",
+        "itemId": "743314376609",
+        "title": "Trendy brand autumn street jacket, fashionable men's and women's clothing, hip-hop retro casual zipper top splicing design",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3bi4b_dwf4.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSLW3VJrMXVroR2bWU0xzVA",
+          "name": "中山玖条电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141110771911102154",
+  "language": "en"
+}

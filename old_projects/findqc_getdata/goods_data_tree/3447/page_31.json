@@ -1,0 +1,370 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "580417",
+        "mallType": "WD",
+        "itemId": "7308995993",
+        "title": "Factory Fall and Winter Casual Fashion Hooded Sweatshirt 026",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-718f00000192f5dfd7870a20e273_1200_1200.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1692591749",
+          "name": "powerball-Finds",
+          "logo": "https://si.geilicdn.com/shopedit1871584920-0017000001934ed51ef00a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "580285",
+        "mallType": "TB",
+        "itemId": "750987139031",
+        "title": "Original foreign trade spider web Sp5der sweatshirt 420G heavy-duty plush thick American high street trendy sports hoodie",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3044847129/O1CN01IVlWAD22X8YDudhPn_!!3044847129.jpg",
+        "price": "¥240.72",
+        "toPrice": "$37.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "303678588",
+          "name": "洛杉鸡跨境潮品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "401557",
+        "mallType": "T1688",
+        "itemId": "730145436584",
+        "title": "Trapstar rainbow gradient letter tiger head print ins trendy hoodie+pants sports sweatpants jogging set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BnPsuZ1gxJVXmnHyS_!!2214182664208-0-cib.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBh8ZgmRPKr8I6T-cLjS0UaA",
+          "name": "广州旺升服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 74,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1679482",
+        "mallType": "T1688",
+        "itemId": "848540410828",
+        "title": "Cross-border foreign trade wholesale tide brand BAPE shark ape head crew neck vests a generation of autumn and winter terry vests",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Wf7xZM1zbJJrOghoo_!!2217703186732-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSFv0WI5og8X_1Ldigo2B-A",
+          "name": "揭西县棉湖嬉皮猴日用百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1315167",
+        "mallType": "T1688",
+        "itemId": "862643113882",
+        "title": "Putian 327 sneakers Yuanzu gray retro casual thick bottom inside men women running shoes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QpkRG11Bs32qB2NPt_!!0-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2677825",
+        "mallType": "WD",
+        "itemId": "7533706857",
+        "title": "CD letter round neck hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1861372279-6eb000000198e747ce770a23047e_1280_1707.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1136767",
+        "mallType": "WD",
+        "itemId": "7427934134",
+        "title": "AE [Full Series] Sweatshirt Printed Short Sleeve T-Shirt Hooded Short Pants Set",
+        "picUrl": "https://si.geilicdn.com/open1723941549-1234478995-180700000195a319a22c0a231226_1000_1000.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1723941549",
+          "name": "Hype",
+          "logo": "https://si.geilicdn.com/wdseller1936242914-72e5000001960abd774e0a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2494338",
+        "mallType": "WD",
+        "itemId": "7454971239",
+        "title": "sp5 Foam Printed Loose Casual Hooded Sweatshirt Set",
+        "picUrl": "https://si.geilicdn.com/open1835503373-1234478995-54080000019675af751e0a22d249_750_750.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1835503373",
+          "name": "Mirari",
+          "logo": "https://si.geilicdn.com/shopedit1921415216-3d0c000001999a88f4a90a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2123723",
+        "mallType": "T1688",
+        "itemId": "777996039032",
+        "title": "FEAR OF GOD ESSENTIALS情侣装卫衣连帽男女复线高街潮牌秋冬外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0152W2Rw2NWJiYvZIRY_!!2217678079970-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217678079970",
+          "name": "佛山市南海区贝美伦服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2122922",
+        "mallType": "WD",
+        "itemId": "7413849214",
+        "title": "****",
+        "picUrl": "https://si.geilicdn.com/open1621630073-252808396-32370000019575644b9d0a22d249_1179_1438.jpg",
+        "price": "¥387.00",
+        "toPrice": "$60.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2069158",
+        "mallType": "T1688",
+        "itemId": "835757289849",
+        "title": "2024 Autonomous dark classic RO wind wizard hat men and women oblique zipper trend high street sweater jacket hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BBALo41pwFHuimMbE_!!2218638625424-0-cib.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218638625424",
+          "name": "揭阳市揭东区锡场镇东笙服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "224142",
+        "mallType": "WD",
+        "itemId": "7241265563",
+        "title": "New pure cotton hoodie, fashionable and simple letter hoodie, optional with added fleece",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p59ae_dv9n.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1636739441",
+          "name": "L xr 服饰",
+          "logo": "https://si.geilicdn.com/shopedit1802690076-02ba0000018fcd829fb50a22d172-unadjust_219_219.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1619249",
+        "mallType": "WD",
+        "itemId": "5212255203",
+        "title": "RO classic models fall and winter new version of the wizard hat men and women couples paragraph fleece sweater jacket hoodie 3 colors",
+        "picUrl": "https://si.geilicdn.com/open160087497-1234478995-2ed8000001822a2913ba0a219249_800_800.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "160087497",
+          "name": "RICK OWENS RO STORE",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1618803",
+        "mallType": "T1688",
+        "itemId": "821830009781",
+        "title": "Spot high quality 24 fall and winter new Miu family gray patch letters space cotton hooded sweatshirt jacket sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CgfejK1biaoM4Zr7y_!!2218134333499-0-cib.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218134333499",
+          "name": "深圳市龙岗区若琛服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1469707",
+        "mallType": "T1688",
+        "itemId": "812065347772",
+        "title": "PLAY CZXVS official 2024 fall and winter new heavyweight 350g couple tide loose cardigan hooded sweater man",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000000841/O1CN01NqTf5X1I5E3u69kVK_!!6000000000841-0-tbvideo.jpg",
+        "price": "¥171.00",
+        "toPrice": "$26.89",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1469361",
+        "mallType": "T1688",
+        "itemId": "834398198859",
+        "title": "Children's clothing 2024 FOG ESSENTIALS new autumn and winter collection, medium and large children's fleece hooded children's clothing, children's hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mVhI0B1rPO4QnJ4tA_!!2212830915623-0-cib.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAB8I1jBfTjP-ww4uBez4IQ",
+          "name": "上饶市沐晴服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1281026",
+        "mallType": "WD",
+        "itemId": "7390053520",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1621283801-252808396-18cc000001938273d5820a232357_429_438.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2310625",
+        "mallType": "T1688",
+        "itemId": "777437072769",
+        "title": "Europe and the United States cross-border retro hip-hop punk street foam letters hoodie in stock in seconds!",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XeU33c1vqe3U3VRWd_!!2217680806224-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217680806224",
+          "name": "广州三只鼠电子商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1000272",
+        "mallType": "TB",
+        "itemId": "688849198999",
+        "title": "Fan Fan power wear sweater female fall and winter mohair loose lazy wind letters graffiti long-sleeved pullover tops",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2633000341/O1CN01vGnfTT1EODqaqHQ0c_!!2633000341.jpg",
+        "price": "¥103.90",
+        "toPrice": "$16.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "159860414",
+          "name": "大C STUDIO 工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283878",
+        "mallType": "TB",
+        "itemId": "660199057937",
+        "title": "RAF wool knit NY letters jacquard pullover sweater casual loose bat sleeve knit sweater jacket tide",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m474fspv_r0en.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111083922",
+          "name": "时尚潮流私人定制衣橱",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142053731914135819",
+  "language": "en"
+}

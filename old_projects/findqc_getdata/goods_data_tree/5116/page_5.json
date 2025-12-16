@@ -1,0 +1,31 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3149",
+        "mallType": "WD",
+        "itemId": "6714136958",
+        "title": "N9060",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m38b1v_jpui.jpg",
+        "price": "¥259.00",
+        "toPrice": "$40.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 163,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148212961917914900",
+  "language": "en"
+}

@@ -1,0 +1,359 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2377172",
+        "mallType": "T1688",
+        "itemId": "937452486589",
+        "title": "Cross-Border American Fashion Hellstar American Street Hip-Hop Versatile Casual Autumn and Winter Printed Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1c3jd2_02ib.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxDBCvET7gINJhQC3FJcZFw",
+          "name": "广州绮言电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2249449",
+        "mallType": "TB",
+        "itemId": "963889974220",
+        "title": "Cross-border High-quality British-style Hooded Men's and Women's Sweatshirt Jacket Full-Cardigan Zipper Embroider logo",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mgu6pu5f_k33q.jpg",
+        "price": "¥114.52",
+        "toPrice": "$18.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "403001498",
+          "name": "粉粉抱服饰小铺",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2129341",
+        "mallType": "WD",
+        "itemId": "7517896214",
+        "title": "3M letter reflective hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh0zg7nw_mibs.jpg",
+        "price": "¥318.00",
+        "toPrice": "$50.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2484308",
+        "mallType": "WD",
+        "itemId": "7447224995",
+        "title": "Autumn and winter new couple's glasses round lens zipper hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh0ylbo3_79hp.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1745774349",
+          "name": "Findz",
+          "logo": "https://si.geilicdn.com/pcdecorate901948633402-6b110000019642c71a6f0a2315ef-unadjust_538_538.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2582277",
+        "mallType": "TB",
+        "itemId": "974429713812",
+        "title": "Under Armour official UA hoodie men's sportswear running top fitness hooded pullover",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh0wccri_uvu7.jpg",
+        "price": "¥203.14",
+        "toPrice": "$31.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "339374632",
+          "name": "UNDERARMOUR安德玛幸运叶子专卖店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2687639",
+        "mallType": "T1688",
+        "itemId": "964884586485",
+        "title": "潮牌圆领高街Spder连帽衫卫衣宽松复古oversize卫衣男做旧外套",
+        "picUrl": "https://cdn.findqc.com/item/20251020/mgyipt4n_vt86.jpg",
+        "price": "¥132.00",
+        "toPrice": "$20.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBM2AnWB1Hv09PdS8gGPN9iA",
+          "name": "广州源一电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "25637",
+        "mallType": "T1688",
+        "itemId": "654421403002",
+        "title": "Palm Angles European and American Style Spring & Fall New Rainbow Strip Casual Men and Women Couple Street Fashion Jacket Ins",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nic3hl_o5id.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBjQ_VO5TvsP9gRGwkgHa53g",
+          "name": "广州鸿允商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 76,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1966421",
+        "mallType": "T1688",
+        "itemId": "919160537026",
+        "title": "Cross-border Trendy Brand Pure Color for Men and Women Couple CP Glasses Round Lens Pullover Casual Sweat",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgwkdku0_266u.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBc5uN9xVssAb7iCq28dwCRg",
+          "name": "广州清楠服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 505,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843979",
+        "mallType": "TB",
+        "itemId": "859173599705",
+        "title": "Meichao Hell Star Retro Logo Printed Street Men's and Women's Loose Hoodie Casual Sports Pants Set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/409187313/O1CN013VAet223tPRett7NE_!!409187313.jpg",
+        "price": "¥90.59",
+        "toPrice": "$14.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156422319",
+          "name": "潮牌批发 一件代发",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1844095",
+        "mallType": "WD",
+        "itemId": "7460431877",
+        "title": "Dress 41XXX1s",
+        "picUrl": "https://si.geilicdn.com/pcitem1884592270-2f8300000192126b20870a23111a_800_800.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1760027485",
+          "name": "Xmlle buy",
+          "logo": "https://si.geilicdn.com/pcdecorate901975014850-242100000199325cdf6f0a2103bd-unadjust_517_517.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1848830",
+        "mallType": "TB",
+        "itemId": "846100711567",
+        "title": "Tide F Crowe Heart Horseshoe Circle Cross Printed Heavyweight Hooded Sweatshirt Men's Spring and Summer Thickened Pullover Long Sleeve",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/748777243/O1CN01LOi7HE23NLhscTLqS_!!0-item_pic.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68472781",
+          "name": "vorleshion旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1846532",
+        "mallType": "WD",
+        "itemId": "7475723250",
+        "title": "ZY16 Trendy Fashion Set WhatsApp +86 133 8692 5690",
+        "picUrl": "https://si.geilicdn.com/pcitem1943588520-020100000196c47f10a80a23037f_1278_1278.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1876829933",
+          "name": "NO.1 Quality Store",
+          "logo": "https://si.geilicdn.com/wdseller1943588520-404a00000196777a0a770a81347d_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1853400",
+        "mallType": "T1688",
+        "itemId": "895598039066",
+        "title": "Cross-border speed seller foreign trade new men and women Marant fleece leisure long-sleeved sweater Hoodie source wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zDfahV1VLL4Gd3v7R_!!2219400372636-0-cib.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219400372636",
+          "name": "上饶市禾帝服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1849275",
+        "mallType": "WD",
+        "itemId": "7261310965",
+        "title": "set of coordinated items",
+        "picUrl": "https://si.geilicdn.com/wdseller901866889059-1bc800000191697dc3ce0a22d172_1170_1170.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1849609",
+        "mallType": "TB",
+        "itemId": "815251885783",
+        "title": "Hellstar Hoodie American Vintage Aged Washed Print Hooded Sweatshirt Hoodie Sweatpants Set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2206701768128/O1CN012qGtnK29ugC7QVR0X_!!2206701768128.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "321958476",
+          "name": "GALLERY DEPT GD",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843903",
+        "mallType": "TB",
+        "itemId": "656970851948",
+        "title": "Adidas/Adidas genuine clover casual women's fashion trend sports hoodie H33539",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/417768840/O1CN01LHdpHM2FAlvcgN8OP_!!0-item_pic.jpg",
+        "price": "¥154.68",
+        "toPrice": "$24.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "61924625",
+          "name": "鲨鱼运动正品折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1850272",
+        "mallType": "T1688",
+        "itemId": "852429967443",
+        "title": "Cross-Border Trendy Brand Casablanca Casablanca Letter Painted Printing 320g Terry Round Neck Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250726/mdjkd3y8_ocgz.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrukiOWXwQtzelNIU-q-aCQ",
+          "name": "深圳市龙岗区铭爵服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1860564",
+        "mallType": "T1688",
+        "itemId": "682573702672",
+        "title": "RUIIENRS x WANLEGETU 2022 AW Japanese Fall Smiley Print Cardigan Jacket J2062",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012kDdYY2BNooklwT9b_!!3320728327-0-cib.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3320728327",
+          "name": "杭州金蟾服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1847284",
+        "mallType": "T1688",
+        "itemId": "826136815080",
+        "title": "2024 Autumn/Winter New OW Color Portrait Oil Painting Washed Hoodie for Men and Women, One Piece Batch Delivery",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zEPjmV1TjUfXcbdeu_!!2208944992418-0-cib.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbww6ovHwWs0DIcNgjgomJw",
+          "name": "深圳市宝安区绣屿服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146213661917917559",
+  "language": "en"
+}

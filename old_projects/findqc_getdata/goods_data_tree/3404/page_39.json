@@ -1,0 +1,381 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2234426",
+        "mallType": "WD",
+        "itemId": "7524883463",
+        "title": "Fall and winter casual fashion round neck sweater 002",
+        "picUrl": "https://si.geilicdn.com/pcitem901899304271-524e000001930b07272e0a2315ef_1200_1200.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1624546877",
+          "name": "China Factory Store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1509362",
+        "mallType": "WD",
+        "itemId": "7428602548",
+        "title": "B*u*r* * *r*r*y Zipper Hooded Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1936346844-75bc0000019694e3c1f00a2304aa-unadjust_408_546.png",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1870205613",
+          "name": "7mai",
+          "logo": "https://si.geilicdn.com/shopedit1936346844-18ba0000019551941d0d0a2304aa-unadjust_430_430.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3050073",
+        "mallType": "WD",
+        "itemId": "7343644943",
+        "title": "立体硅胶字母男女美式高街植绒连帽衫卫衣外套帽衫(质量问题售后周期为15天)-G1",
+        "picUrl": "https://si.geilicdn.com/open1668723765-1234478995-10a000000193544772ad0a22d234_800_800.jpg",
+        "price": "¥102.00",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "567409237",
+          "name": "GOOD BUY",
+          "logo": "https://si.geilicdn.com/shopedit567409237-0e07000001975278efce0a811411-unadjust_330_330.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2918392",
+        "mallType": "T1688",
+        "itemId": "860421878263",
+        "title": "New cross-border zipper cardigan hoodie new printing national tide treasure sweater hoodie jacket wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0109y5aU1Cv5G7Y7F7E_!!2214282480142-0-cib.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214282480142",
+          "name": "深圳市宝安区英伦酷童针织制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2728219",
+        "mallType": "T1688",
+        "itemId": "901407878217",
+        "title": "in stock Cross-border high quality British-style Hoodie Women's Jacket Short Cardigan Zipper Orderable LOGO Embroidery",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01uKV2Wb1j0dnHKHLaK_!!2211914024486-0-cib.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZRn8K1Oaqfc2yWq3yjBOUg",
+          "name": "邓州市依卡奇服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1696333",
+        "mallType": "T1688",
+        "itemId": "925959327011",
+        "title": "American Trendy Brand Avirex X Hellstar Leather Jacket Jacket Screaming Kidsren's Loose Hip-Hop High Street Men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xoaxwY1NJUYyuYZ3N_!!2219724861549-0-cib.jpg",
+        "price": "¥208.00",
+        "toPrice": "$32.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSCG6a80ga-588eIzONYKVg",
+          "name": "广州市万亿服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3171648",
+        "mallType": "T1688",
+        "itemId": "983682712103",
+        "title": "2025高品正确版现货新款首发夹克外套冲锋衣男士时尚欧美外贸代发",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BPgylc1VUV2sA6Oeh_!!2220839952656-0-cib.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220839952656",
+          "name": "广州潮禾服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2994459",
+        "mallType": "T1688",
+        "itemId": "819527258863",
+        "title": "新款保罗男士卫衣春秋纯棉圆领套头衫时尚休闲宽松长袖T恤大码",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01shznRt24MiklUnc7X_!!2315057377-0-cib.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2315057377",
+          "name": "东莞市日日昌服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2313730",
+        "mallType": "WD",
+        "itemId": "7526318743",
+        "title": "CP Down Jacket Hoodie - Collection\n",
+        "picUrl": "https://si.geilicdn.com/open1800251485-252808396-398400000196e688a3120a23b491_1920_1920.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622159709",
+          "name": "My shop",
+          "logo": "https://si.geilicdn.com/shopedit1952892442-671400000196a380b32b0a230115-unadjust_512_512.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2188102",
+        "mallType": "T1688",
+        "itemId": "895175934014",
+        "title": "Cross-border forwarding new classic print STU heavyweight hoodie pullover hooded sweatshirt men and women's jackets Stussy ins",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Y28arn1uzWCzUvmN6_!!2218961616108-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218961616108",
+          "name": "广州市黄埔区睿超贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "717256",
+        "mallType": "WD",
+        "itemId": "7344300624",
+        "title": "Sweatshirt 3-3 | default shipping upon purchase | non refundable/non exchangeable",
+        "picUrl": "https://si.geilicdn.com/pcitem1899315758-53a700000193ff67d6c10a210349_1280_1280.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1765030997",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2307340",
+        "mallType": "T1688",
+        "itemId": "946652523681",
+        "title": "Cross-border spot NK sweater spring and fall new co-branded NOCTA casual sports round neck long-sleeved sweater couple models",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XoC1xO2K28u08B1mI_!!2220137989498-0-cib.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220137989498",
+          "name": "义乌市紫桃服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2181584",
+        "mallType": "WD",
+        "itemId": "7464108415",
+        "title": "hoodie ➕ Sports pants, cardigan jacket -0013 (no reason for return without quality issues)",
+        "picUrl": "https://si.geilicdn.com/open1826614061-1234478995-1dbf00000196c38235eb0a22d249_800_800.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1826614061",
+          "name": "Choobuy",
+          "logo": "https://si.geilicdn.com/wdseller1934744405-621200000196f8ae4bbb0a210256_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1928265",
+        "mallType": "T1688",
+        "itemId": "931881077117",
+        "title": "New Co-Branded Nocta Air Layer Knitted 3m Reflective Strip Sports Pullover Sweatshirt and Sweatpants Cross-Border 659+661",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mGQOz51LNUnLh1ivW_!!2219070111287-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb1OTjrq1CJetvArFC7WiHQ",
+          "name": "平阳县楠易服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1986511",
+        "mallType": "WD",
+        "itemId": "7502618469",
+        "title": "Factory direct sales, brand shoes, clothing, bags and watches, enter the store to see more",
+        "picUrl": "https://si.geilicdn.com/open1791805196-1234478995-2b7b00000197dafd6e560a23b491_800_800.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791805196",
+          "name": "潮鞋buy",
+          "logo": "https://si.geilicdn.com/pcauth1417752191-148500000175e98a6a9f0a21348d_1080_1440.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3171347",
+        "mallType": "WD",
+        "itemId": "7571505663",
+        "title": "[DX29] Cross hooded zipper jacket\n",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-694f00000194341d8dfc0a239383_1024_1024.jpg",
+        "price": "¥225.00",
+        "toPrice": "$35.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1817679251",
+          "name": "何的店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2270015",
+        "mallType": "TB",
+        "itemId": "965298023868",
+        "title": "Paul long-sleeved round neck sweater men 2025 new trend of casual sports Hong Kong style youth versatile padded POLO shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3013447292/O1CN01Mz2XhX23jnC9MbcHt_!!3013447292.png",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "404255658",
+          "name": "果果服饰折扣",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2719674",
+        "mallType": "WD",
+        "itemId": "7544546808",
+        "title": "【DX15】High quality original sweater",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-640000000192a408be090a8115b5_1000_1000.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2653574",
+        "mallType": "T1688",
+        "itemId": "755114787746",
+        "title": "Cross-border Autumn and Winter Fleece Solid Color Hoodie Men's and Women's Sweater Loose Casual 19 Colors Sports Couple Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xb9yAG1lVtvOa1qEO_!!2217011934825-0-cib.jpg",
+        "price": "¥13.90",
+        "toPrice": "$2.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwL-U-7LldrLYt_IFn278OQ",
+          "name": "上饶市恒然诺服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2211456",
+        "mallType": "T1688",
+        "itemId": "933563369614",
+        "title": "Cross border classic STONE stone round neck badge long sleeved casual hoodie for both men and women, island couple correct version\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wOw7Pl1GtUQ5sdt78_!!2219770440680-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkmbUBxsjkuKyNQWOyRA4gA",
+          "name": "东莞市沐扬羽服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114154018249896531",
+  "language": "en"
+}

@@ -1,0 +1,336 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1251370",
+        "mallType": "WD",
+        "itemId": "7296108225",
+        "title": "SHIRT #3",
+        "picUrl": "https://si.geilicdn.com/pcitem1883595500-12ee00000192dda83ffc0a239646_1280_1280.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867107493",
+          "name": "hahabuy",
+          "logo": "https://si.geilicdn.com/shopedit1883595500-0f8b000001930fda03cd0a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1249320",
+        "mallType": "T1688",
+        "itemId": "838427711301",
+        "title": "American tide original 24SS Paint Tee paint spray paint graffiti letters printed short-sleeved T-shirt men and women with the same paragraph",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QRkn8j1HLQTldovRb_!!2218612460741-0-cib.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1249201",
+        "mallType": "T1688",
+        "itemId": "895760374561",
+        "title": "Original North Face Home Loose T-shirt 260g Unisex Couple Trendy Printed Loose Fashion Versatile Short Sleeve\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WPKead29LsA1AAPRN_!!2219428038052-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwR2mcSOGT4hd9RFZZaTDlQ",
+          "name": "广州辰辰国际商贸商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1077854",
+        "mallType": "WD",
+        "itemId": "7266658167",
+        "title": "R22167",
+        "picUrl": "https://si.geilicdn.com/pcitem901882847512-2d6a00000192a3f663ee0a20e273_4032_3024.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1077884",
+        "mallType": "T1688",
+        "itemId": "898479715294",
+        "title": "Season 2526 Santos Arsenal Real Madrid Miami Barcelona Brazil AC Thai Top soccer jerseys",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aDEtQi1bNWehIWz3i_!!2209945573453-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209945573453",
+          "name": "广州市顺烽服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1080274",
+        "mallType": "T1688",
+        "itemId": "898758974660",
+        "title": "Cross-border High Version Trendy Brand Short-sleeved Men's and Women's Letter Print American Style Street Pure Cotton Loose Couple's Casual T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019iP1IU28BVaIP55SQ_!!2218189817894-0-cib.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBARKWrgm_pG7beBtwajqj6g",
+          "name": "广州市白云区三元里街小沐服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1077838",
+        "mallType": "T1688",
+        "itemId": "789496434984",
+        "title": "Vintage Jerseys Wholesale Argentina Tigers Fiorentina AC Real Madrid Guoan Germany America Manchester United Soccer Jerseys",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000003596/O1CN01KdNHcd1cR1Hz6OTVy_!!6000000003596-0-tbvideo.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1077711",
+        "mallType": "T1688",
+        "itemId": "820729087087",
+        "title": "American high street summer new half-sleeved washed retro old ins hip-hop street short-sleeved T-shirt men and women with the same tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bYcS2g2A8sTXEujjS_!!2208863388159-0-cib.jpg",
+        "price": "¥46.00",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2473320",
+        "mallType": "TB",
+        "itemId": "668344032668",
+        "title": "Gallery Dept Washed French Logo Vintage Tee French Washed Retro T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2200592639458/O1CN01GF1pPX2JjojFDe4lN_!!2200592639458.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "468741747",
+          "name": "YQTSTUDIO",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2473319",
+        "mallType": "TB",
+        "itemId": "786303277375",
+        "title": "Gallery Dept American Trendy Brand Niche Design Print ins High Street Summer Loose T-Shirt Men's Short Sleeve",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2210749411287/O1CN01M724HD1LNUgg3jien_!!2210749411287.jpg",
+        "price": "¥42.79",
+        "toPrice": "$6.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "176363325",
+          "name": "赚个跑腿费",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2472729",
+        "mallType": "WD",
+        "itemId": "7239493471",
+        "title": "K Lo Short Sleeve Collection",
+        "picUrl": "https://si.geilicdn.com/open1858297913-1234478995-7cc80000018f9ce485520a8115b5_800_800.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858297913",
+          "name": "CZH顶级潮品",
+          "logo": "https://si.geilicdn.com/shopedit1852028364-378e0000018ee78d60630a2396f4-unadjust_600_597.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 61,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1077386",
+        "mallType": "TB",
+        "itemId": "826786059917",
+        "title": "KK11ActualHate KenCarson PlayboiCarti co-branded slogan cotton half-sleeve short sleeve t-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2212643669335/O1CN01nTAhkH2IpUFyB2LIW_!!2212643669335.png",
+        "price": "¥69.99",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1077485",
+        "mallType": "T1688",
+        "itemId": "889754655239",
+        "title": "25 years new flocking PRA full print DA velcro Pula short-sleeved T-shirt tops men and women da half-sleeved couple letters",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fG527X1NodTPbclci_!!2219342171617-0-cib.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1077309",
+        "mallType": "T1688",
+        "itemId": "802891601551",
+        "title": "Ji Family Short sleeved T-shirt for Men's Summer Trendy Brand Versatile Casual Heavy Weight Five Sleeve Youth Loose Half Sleeve T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WqcvPm1cyS7xcoZr6_!!2218056323669-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2296377",
+        "mallType": "WD",
+        "itemId": "7460129565",
+        "title": "XM-D Kapok T-shirt Short Sleeve Shorts Cotton",
+        "picUrl": "https://si.geilicdn.com/open333321600-1234478995-7ec300000196a67db7500a23b4de_800_800.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333321600",
+          "name": "Alpha  Luckin",
+          "logo": "https://si.geilicdn.com/wdseller333321600-608500000199331fab3b0a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2293341",
+        "mallType": "T1688",
+        "itemId": "919260638450",
+        "title": "High version LOE Yi Wei embroidery cotton short sleeve men and women with the same T shirt Luo family round neck loose 260g top tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lcPuqA1nFzYHitbsE_!!2219678665061-0-cib.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219678665061",
+          "name": "广州鑫蕴阁服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "908295",
+        "mallType": "T1688",
+        "itemId": "796964011659",
+        "title": "2024 new corteiz Alcatraz series Cotton T-shirt short sleeve letter print round neck short sleeve T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Yqbv5Y1r8tmGvF25K_!!2216588385587-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "908296",
+        "mallType": "T1688",
+        "itemId": "844376942207",
+        "title": "Correct version of the same star Kawaguchi tide pla love heart embroidery short-sleeved cotton red heart eyes couple T-shirt y",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000003438/O1CN01vwH8J41bGefqyW3wN_!!6000000003438-0-tbvideo.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "908292",
+        "mallType": "T1688",
+        "itemId": "893149429854",
+        "title": "Crossbody Vintage Hip Hop CentralCee Sachuschi Printed Short Sleeve Tee Heavyweight Long Sleeve Round Neck Hooded Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ocU9Tr1WTs3lMVysC_!!2209165032790-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "535272",
+        "mallType": "TB",
+        "itemId": "555961918338",
+        "title": "Printed T-shirt men and women short-sleeved simple loose summer American street hip-hop hip-hop brand",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/667748991/O1CN01LDEqP12GHvilll8av_!!667748991.jpg",
+        "price": "¥49.99",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "64771293",
+          "name": "佐治杰 GAAJ",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114329214249871636",
+  "language": "en"
+}

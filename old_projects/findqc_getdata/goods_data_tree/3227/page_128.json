@@ -1,0 +1,371 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1709781",
+        "mallType": "TB",
+        "itemId": "927306986294",
+        "title": "Corteiz American high street tide brand summer men and women with the same grass letters printed loose cotton short-sleeved T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2075710764/O1CN01yb6NdK1HVxeSpe8PY_!!2075710764.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1357928",
+        "mallType": "T1688",
+        "itemId": "873440273761",
+        "title": "Brand wholesale t-shirt men's ice silk quick-drying sports quick-drying mesh short-sleeved loose elastic round neck fitness leisure clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VZvYNe1MA2kK8U5Lz_!!2217975311393-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1356362",
+        "mallType": "WD",
+        "itemId": "7385723619",
+        "title": "shirts No returns without quality issues",
+        "picUrl": "https://si.geilicdn.com/pcitem1927531510-58fe00000194d46cc3fb0a210139_1080_1080.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819379021",
+          "name": "好店",
+          "logo": "https://si.geilicdn.com/pcdecorate1927531510-4bca00000194d415c43e0a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2610020",
+        "mallType": "WD",
+        "itemId": "7496801197",
+        "title": "La*co*ste Tee",
+        "picUrl": "https://si.geilicdn.com/open1684802429-1234478995-739200000197a70edca80a23b491_800_800.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684802429",
+          "name": "speed",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2242627",
+        "mallType": "TB",
+        "itemId": "840657853029",
+        "title": "Hands Against Hearts Love Makes American Design Street Heavy Washed Tie-Dye Crew Neck Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2218252751209/O1CN01ll8fAP1Knlq92BhMp_!!2218252751209.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263616202",
+          "name": "Artistic Resear",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2060191",
+        "mallType": "T1688",
+        "itemId": "836933113844",
+        "title": "Foreign trade U.S. tide hell star retro printing summer high street men and women couples loose casual short-sleeved T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01A4LQ711nmxztsfoCL_!!2218351735133-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218351735133",
+          "name": "广州市番禺区一生潮牌服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1569607",
+        "mallType": "TB",
+        "itemId": "925231688342",
+        "title": "Idlt Loose-Fit Polo Shirt, Heavyweight American Retro Color-Blocked Collar, Cuffed Hem, Campus-Style Turn-Down Collar T-Shirt for Men and Women ins",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1566784/O1CN01Yjp5FN1zz7xyoJGFQ_!!1566784.jpg",
+        "price": "¥100.63",
+        "toPrice": "$15.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33259211",
+          "name": "LXYZ 理想衣栈",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1529261",
+        "mallType": "TB",
+        "itemId": "923856377082",
+        "title": "Mm Short Sleeves S Style Short Sleeves (Long and Wide Version)",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2219155681050/O1CN01uVoHg21JcwvPrsPjd_!!2219155681050.jpg",
+        "price": "¥101.41",
+        "toPrice": "$15.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "468921244",
+          "name": "生活充满愉快",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1528808",
+        "mallType": "WD",
+        "itemId": "7430365979",
+        "title": "Men's short-sleeved men's t-shirt fashionable foreign embroidery lapel top-SR",
+        "picUrl": "https://si.geilicdn.com/open1668172557-252808396-46e6000001954fce4a7c0a231226_800_800.jpg",
+        "price": "¥117.00",
+        "toPrice": "$18.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668172557",
+          "name": "TOPSUMMER",
+          "logo": "https://si.geilicdn.com/pcdecorate901935370638-6dde000001956ab6cb320a231316-unadjust_350_350.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1527250",
+        "mallType": "TB",
+        "itemId": "923008117969",
+        "title": "Baseball print black street fashion short sleeved shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2214138141153/O1CN01C4ADa11KO7idKDhUd_!!2214138141153.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "236939721",
+          "name": "PIKAPIKAGOOO",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1174278",
+        "mallType": "WD",
+        "itemId": "7386734999",
+        "title": "Casual cotton half-sleeve T-shirt",
+        "picUrl": "https://si.geilicdn.com/wdseller1869801865-3d7d000001969533eb970a2301b4_800_800.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3051105",
+          "name": "潮牌Ostar  Shop",
+          "logo": "https://si.geilicdn.com/wdseller1869801865-61cb0000019619b560480a20e2c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "987749",
+        "mallType": "WD",
+        "itemId": "7250559721",
+        "title": "Milan loose short smoke T-shirt tee for men and women BOX letter short sleeved cross street",
+        "picUrl": "https://si.geilicdn.com/open1616169977-252808396-74f200000190c61a2b7a0a210298_800_800.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616169977",
+          "name": "9 MILES潮牌精选",
+          "logo": "https://si.geilicdn.com/shopedit1866172129-7a6d0000018fc87ff6280a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "987597",
+        "mallType": "T1688",
+        "itemId": "799776162906",
+        "title": "Foreign trade wholesale men's shirts summer tide Fanjia Gujia full letter print short-sleeved T-shirt two-piece set",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000002757/O1CN01h97bP11WEkuheTItt_!!6000000002757-0-tbvideo.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 86,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "987586",
+        "mallType": "WD",
+        "itemId": "7394918439",
+        "title": "Pony label V-neck short-sleeved T-shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem901921688251-1b8e000001968efdb6e80a8133cc_3872_3872.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802122381",
+          "name": "硕鼎潮流男装",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2856536",
+        "mallType": "TB",
+        "itemId": "883860435770",
+        "title": "Sprunki Rhythm Box Clothing Merchandise Children's Long-Sleeve T-Shirt Unisex Crew Neck Student Casual Top Base Layer T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251105/mhldls8s_g5v4.jpg",
+        "price": "¥22.28",
+        "toPrice": "$3.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111684143",
+          "name": "Q萌潮装T恤",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2608486",
+        "mallType": "T1688",
+        "itemId": "920712372443",
+        "title": "跨境斯图西美式潮牌休闲 宽松polo衫stussy黑8刺绣短袖t恤情侣款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PKZ2FL1pHU431NdCQ_!!2219552035335-0-cib.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219552035335",
+          "name": "广州六便士批发商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2423961",
+        "mallType": "WD",
+        "itemId": "7513659229",
+        "title": "DG Summer Casual T-Shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem325532644-7fa50000019840e1bd050a230115_1200_1200.jpg",
+        "price": "¥51.00",
+        "toPrice": "$8.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "325532644",
+          "name": "小山竹",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2057841",
+        "mallType": "WD",
+        "itemId": "7516823293",
+        "title": "European and American Cross-border Letter Printed Oversized T-shirt Loose Millennium Gothic Round Neck Couples Retro Top Graphic T-shirt",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-6faa0000019858e5b11d0a231226_1080_1080.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1720195805",
+          "name": "5号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2057399",
+        "mallType": "TB",
+        "itemId": "689954863274",
+        "title": "Actual spot new spring models graffiti creative black and white letters splash ink cotton short-sleeved fashion T-shirt men and women with the same paragraph tide",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2212957829158/O1CN01uHJOIU2HWPxaMAPao_!!2212957829158.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "294193084",
+          "name": "我没碰过钱 对钱没兴趣",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1883274",
+        "mallType": "WD",
+        "itemId": "7515528207",
+        "title": "discord.gg/zerom       * New Store Promotion*   MM25ss T shirt",
+        "picUrl": "https://si.geilicdn.com/wdseller1590426571-53af000001984f50622e0a2301b4_1066_1600.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809202962",
+          "name": "T0 Studio",
+          "logo": "https://si.geilicdn.com/wdseller1590426571-178c00000197270601a10a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142153882553915954",
+  "language": "en"
+}

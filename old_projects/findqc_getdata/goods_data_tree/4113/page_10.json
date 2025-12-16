@@ -1,0 +1,126 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "55530",
+        "mallType": "WD",
+        "itemId": "7238580560",
+        "title": "CU9225-200",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np9wb8_63v1.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "160885222",
+          "name": "Budgetshoes",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55374",
+        "mallType": "WD",
+        "itemId": "7238571708",
+        "title": "VIRGIL ABIOH - White Red",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np8g4b_gbu1.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "160885222",
+          "name": "Budgetshoes",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "53962",
+        "mallType": "WD",
+        "itemId": "7234533797",
+        "title": "【OG Batch】D*nk SB Low",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nodm3x_nlw5.jpg",
+        "price": "¥370.00",
+        "toPrice": "$58.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812255049",
+          "name": "888VIP-SNKRS",
+          "logo": "https://si.geilicdn.com/pcdecorate1816621089-76180000018cef01570f0a239737-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "51710",
+        "mallType": "WD",
+        "itemId": "7235437708",
+        "title": "[LJR] J0rdan 1 High/Low series",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mhmoqi_og2t.jpg",
+        "price": "¥540.00",
+        "toPrice": "$84.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812255049",
+          "name": "888VIP-SNKRS",
+          "logo": "https://si.geilicdn.com/pcdecorate1816621089-76180000018cef01570f0a239737-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "51178",
+        "mallType": "WD",
+        "itemId": "5026397317",
+        "title": "H50 Jordan 4 Retro Metallic Red-CT8527-112",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mh511i_av3k.jpg",
+        "price": "¥500.00",
+        "toPrice": "$78.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1611117650",
+          "name": "CNFactory",
+          "logo": "https://si.geilicdn.com/weidian1594556374-27ca0000017cb7f7c5100a207569_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "50799",
+        "mallType": "WD",
+        "itemId": "7235473965",
+        "title": "【VT】 @D Originals Samba OG",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mh0sx1_kdk8.jpg",
+        "price": "¥208.00",
+        "toPrice": "$32.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812255049",
+          "name": "888VIP-SNKRS",
+          "logo": "https://si.geilicdn.com/pcdecorate1816621089-76180000018cef01570f0a239737-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145101711917118351",
+  "language": "en"
+}

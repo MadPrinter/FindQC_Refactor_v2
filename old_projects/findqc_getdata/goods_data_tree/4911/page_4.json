@@ -1,0 +1,390 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1280541",
+        "mallType": "WD",
+        "itemId": "7458136664",
+        "title": "New Fashion Hundred Sandals-001",
+        "picUrl": "https://si.geilicdn.com/open1801466197-1234478995-336200000193b01505b30a210298_1200_1200.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848876445",
+          "name": "TrendyU",
+          "logo": "https://si.geilicdn.com/wdseller1951015104-648400000196729261ae0a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1549007",
+        "mallType": "WD",
+        "itemId": "7441870617",
+        "title": "【 ABC8 】 Activity Youth Slippers Dird",
+        "picUrl": "https://si.geilicdn.com/pcitem1583459867-372b0000018f148ac2980a81347d-unadjust_900_675.png",
+        "price": "¥87.60",
+        "toPrice": "$13.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615844877",
+          "name": "MlodyGee",
+          "logo": "https://si.geilicdn.com/shopedit1919750623-2b520000019604df61e40a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1268407",
+        "mallType": "TB",
+        "itemId": "631507142426",
+        "title": "Export Original Men's Shoes Export 350 Popcorn Sneakers Clearance Big Brand Non Slip Running Shoes Casual Sports Shoes",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/90527372/O1CN01FFPcA224KQQmmwsun_!!90527372.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "35465346",
+          "name": "名牌外贸鞋店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 105,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261273",
+        "mallType": "WD",
+        "itemId": "7388955427",
+        "title": "PH-12 A22 Classic Fashion Casual Sneakers",
+        "picUrl": "https://si.geilicdn.com/pcitem1525525797-66b90000019455d26b1e0a23041a_1200_1200.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "165821798",
+          "name": "Tmi Shop",
+          "logo": "https://si.geilicdn.com/shopedit165821798-7ad600000193fc327cd90a231316-unadjust_492_492.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 76,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "302415",
+        "mallType": "WD",
+        "itemId": "7234475616",
+        "title": "Activity youth sneakers dird (non-quality problems do not support no reason to return or exchange )",
+        "picUrl": "https://cdn.findqc.com/item/20241204/m49hog4f_6zwh.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1868238178",
+          "name": "Fat Shady",
+          "logo": "https://si.geilicdn.com/shopedit1861886529-13f00000018fd0a9cec30a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2103327",
+        "mallType": "WD",
+        "itemId": "7265039334",
+        "title": "Youth beautiful slippers (non-quality issues do not support no reason to return)",
+        "picUrl": "https://si.geilicdn.com/open1658301349-1234478995-6a7b00000191903cac700a8115b5_800_600.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1658301349",
+          "name": "The one",
+          "logo": "https://si.geilicdn.com/shopedit1884083029-46f3000001918e1717330a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 55,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1251341",
+        "mallType": "WD",
+        "itemId": "7424480767",
+        "title": " 1906 M Batch",
+        "picUrl": "https://si.geilicdn.com/pcitem1906283102-3a16000001961f208a900a23037f-unadjust_2480_2480.gif",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1774979637",
+          "name": "UPNYC",
+          "logo": "https://si.geilicdn.com/wdseller1906283102-23310000019321b320850a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1248716",
+        "mallType": "WD",
+        "itemId": "7357805367",
+        "title": "Aiguille black and white 2-color self-order",
+        "picUrl": "https://si.geilicdn.com/open1808531213-1234478995-222800000194513d10df0a22d234_2560_2560.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1808531213",
+          "name": "Wood table guy2",
+          "logo": "https://si.geilicdn.com/wdseller1921579797-1be800000194591f01190a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1935400",
+        "mallType": "WD",
+        "itemId": "7461895338",
+        "title": "R1 batch 350-1",
+        "picUrl": "https://si.geilicdn.com/pcitem1944731932-7ea70000019686c5fbdb0a23037f_1800_1200.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274399453",
+          "name": "CNMADE",
+          "logo": "https://si.geilicdn.com/pcdecorate1274399453-60fc00000193491051590a23037f-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1769478",
+        "mallType": "WD",
+        "itemId": "7395310720",
+        "title": "Fashion Trend Shoes YHH16-MBWZ-XZ",
+        "picUrl": "https://si.geilicdn.com/open1637372245-1234478995-460300000194fa3f26d50aa08290_1200_1200.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637372245",
+          "name": "Crazy Koala6",
+          "logo": "https://si.geilicdn.com/shopedit1900477981-61c100000192e1c1bbdb0a2102c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1572116",
+        "mallType": "WD",
+        "itemId": "7266664115",
+        "title": "Running shoes 745-261",
+        "picUrl": "https://si.geilicdn.com/pcitem1863871221-243d00000191b6c509340a2395d6_1202_1202.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769823481",
+          "name": "潮流时尚",
+          "logo": "https://si.geilicdn.com/weidian1863871221-224600000193a49974300a231316_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1412313",
+        "mallType": "WD",
+        "itemId": "7408725902",
+        "title": "XJXPCS New Fashionable Versatile Sandals 01",
+        "picUrl": "https://si.geilicdn.com/open1624510805-1234478995-5ac6000001955a38c0cf0a23b491_750_750.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1624510805",
+          "name": "Hip-Hop Panda",
+          "logo": "https://si.geilicdn.com/shopedit1900473224-100f00000193d971aef80a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 99,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2640657",
+        "mallType": "WD",
+        "itemId": "7359753206",
+        "title": "Collection",
+        "picUrl": "https://si.geilicdn.com/open1808531213-1234478995-56a900000194511420bd0a232357_1179_1179.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1808531213",
+          "name": "Wood table guy2",
+          "logo": "https://si.geilicdn.com/wdseller1921579797-1be800000194591f01190a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1569800",
+        "mallType": "WD",
+        "itemId": "7406349413",
+        "title": "C-L Version Casual Shoes Sneakers Top Version 210YHH",
+        "picUrl": "https://si.geilicdn.com/open1786272622-1234478995-36190000019558ad7abe0a23b4de_1200_1200.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1786272622",
+          "name": "TOP",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1222264",
+        "mallType": "T1688",
+        "itemId": "854039579320",
+        "title": "Luxury coconut shoes men 350 ice blue Putian men's shoes v2 genuine summer breathable sports casual shoes children's shoes tide shoes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eXVR2J2GoRv4nTZ6o_!!2213323109062-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218356711201",
+          "name": "广州优货鞋商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2229984",
+        "mallType": "WD",
+        "itemId": "7524738999",
+        "title": "sneakers",
+        "picUrl": "https://si.geilicdn.com/pcitem1978824016-5c9400000198a6587ad50a20e284_1080_1080.jpg",
+        "price": "¥379.00",
+        "toPrice": "$59.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1685384003",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "494311",
+        "mallType": "WD",
+        "itemId": "7352554971",
+        "title": "Youth Trendy Shoes 3.50",
+        "picUrl": "https://si.geilicdn.com/open1854046645-1234478995-49e60000019448f9323c0a8115b5_800_600.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854046645",
+          "name": "Allen",
+          "logo": "https://si.geilicdn.com/weidian1909820981-085600000193a976bb920a20e2c5_1118_1118.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2066820",
+        "mallType": "WD",
+        "itemId": "7494698085",
+        "title": "Yz***35o",
+        "picUrl": "https://si.geilicdn.com/pcitem1966151094-5e3a0000019796ed79540a23047e_750_750.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1790197117",
+          "name": "LOVE BUY",
+          "logo": "https://si.geilicdn.com/wdseller1966151094-10bb00000197a22264440a2304aa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1898136",
+        "mallType": "WD",
+        "itemId": "7469880450",
+        "title": "[DX123] activity youth slippers dird (non-quality problems do not support no reason to return)",
+        "picUrl": "https://si.geilicdn.com/pcitem1583459867-372b0000018f148ac2980a81347d-unadjust_900_675.png",
+        "price": "¥87.60",
+        "toPrice": "$13.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841415517",
+          "name": "面包Bread",
+          "logo": "https://si.geilicdn.com/pcdecorate901955802092-649000000196cdaa8d7a0a210139-unadjust_300_300.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533817",
+        "mallType": "WD",
+        "itemId": "7428047557",
+        "title": "【 ABC8 】 Activity Youth Slippers Dird (Non quality issues do not support returns or exchanges without reason) - CY",
+        "picUrl": "https://si.geilicdn.com/pcitem1583459867-372b0000018f148ac2980a81347d-unadjust_900_675.png",
+        "price": "¥87.60",
+        "toPrice": "$13.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668172557",
+          "name": "TOPSUMMER",
+          "logo": "https://si.geilicdn.com/pcdecorate901935370638-6dde000001956ab6cb320a231316-unadjust_350_350.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147439381917114056",
+  "language": "en"
+}

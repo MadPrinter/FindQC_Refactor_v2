@@ -1,0 +1,384 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "539303",
+        "mallType": "WD",
+        "itemId": "7314681647",
+        "title": "SU-Cana-da Jackets uf",
+        "picUrl": "https://si.geilicdn.com/pcitem1911025553-793b000001994ae5c8430a2396f4_668_670.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1697070005",
+          "name": "Jam Shop",
+          "logo": "https://si.geilicdn.com/shopedit1911025553-0f27000001938b50da3a0a23038e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2976050",
+        "mallType": "T1688",
+        "itemId": "989002872961",
+        "title": "ST ISLND跨境供货正确版徽章连帽棉服潮男女美式街头旅游户外批发",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014QQpQ92JpmEngP9Uj_!!2220890649471-0-cib.jpg",
+        "price": "¥151.05",
+        "toPrice": "$23.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrsyMspX3gYJ_H4ETX8m1qA",
+          "name": "义乌市或鸢服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "489957",
+        "mallType": "T1688",
+        "itemId": "849950079038",
+        "title": "New High-end Correct Edition Big Goose Big Pocket Men and Women Couple Parker Cotton-padded jacket Hooded Thickened Warm Windproof Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250907/mf9cr32b_tqxk.jpg",
+        "price": "¥250.00",
+        "toPrice": "$39.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7tkBjPXW59uOZ8gYfn-3VA",
+          "name": "佛山博渊贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 525,
+        "qcVideoCnt": 9,
+        "picWidth": "750",
+        "picHeight": "1000"
+      },
+      {
+        "id": "2825145",
+        "mallType": "WD",
+        "itemId": "7583136938",
+        "title": "Cross-border special Putian goose 17 the same men and women models jacket couple models winter thickening down jacket wholesale",
+        "picUrl": "https://si.geilicdn.com/open1622517075-1622517075-15c50000019a1025fd350a8115c2_799_1066.jpg",
+        "price": "¥253.00",
+        "toPrice": "$39.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622517075",
+          "name": "Janekrep",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-6d8b00000199f23ea2530a20e7c7-unadjust_1024_1024.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 514,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2504072",
+        "mallType": "WD",
+        "itemId": "7333488004",
+        "title": "Same style men's and women's jackets couple's winter thick down jacket d66\n",
+        "picUrl": "https://si.geilicdn.com/open1743389976-1234478995-777300000193fce051100a22d234_1076_1076.jpg",
+        "price": "¥298.00",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743389976",
+          "name": "koko Factory Store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2499660",
+        "mallType": "WD",
+        "itemId": "7534785633",
+        "title": "CP Cotton Jacket Jacket Autumn and Winter Cotton Coat Thickened Warm Hooded Top",
+        "picUrl": "https://si.geilicdn.com/open1758548380-1234478995-4b0900000198ee4832510aa0c791_1320_1308.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758548380",
+          "name": "OKOKOK",
+          "logo": "https://si.geilicdn.com/wdseller1542347260-5048000001967076d3660a811411_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1561275",
+        "mallType": "T1688",
+        "itemId": "831026548841",
+        "title": "Cross-Border Export Mjia Maya Casual Thickeneded Warm down Jacket Qimangkou Hooded down Jacket Warm and Windproof",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mezMoX2JTn7AhnVPO_!!2218520329423-0-cib.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBG-eEslogCbcOuzCnpQkT1w",
+          "name": "莆田市荔城区茹莺汇服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206854",
+        "mallType": "WD",
+        "itemId": "7582077591",
+        "title": "跨境Macmillan大鹅17款羽绒服莆田高版男女款夹克情侣款冬季加厚",
+        "picUrl": "https://si.geilicdn.com/open1780109907-1780109907-3b370000019a155e81970a23b491_1080_1080.jpg",
+        "price": "¥293.00",
+        "toPrice": "$46.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780109907",
+          "name": "LunaTrade",
+          "logo": "https://si.geilicdn.com/shopedit1999873750-6f7d00000199e6dc040f0a8134f0-unadjust_800_600.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 157,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2400925",
+        "mallType": "WD",
+        "itemId": "7547246936",
+        "title": "🔥🔥 Winter fashion loose and versatile down jacket+hoodie+sweater 003-ZKCP005",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh47xy7k_fabs.jpg",
+        "price": "¥86.25",
+        "toPrice": "$13.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1808865571",
+          "name": "DripNation",
+          "logo": "https://si.geilicdn.com/shopedit1983895551-0f2700000199428ebbe00a207569-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 577,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "193271",
+        "mallType": "T1688",
+        "itemId": "692090092934",
+        "title": "Fox Fur 2024 Winter Gold Shopping Scissors Large down Jacket 05 Women's 06 Men's Couple Style Last Men's and Women's Jackets",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqwjuo_6yxy.jpg",
+        "price": "¥460.00",
+        "toPrice": "$72.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxb7uDfwoaMH2IMYCXUzvGA",
+          "name": "荔城区黄石林俊福服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 510,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2025548",
+        "mallType": "T1688",
+        "itemId": "865224993760",
+        "title": "2024 Autumn and Winter New Tn Stand Collar Cotton Jacket Korean Style Fashion Couple Coat Youth Warm Fashion Versatile Style",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me9a7hge_tzr2.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvfgAAO1YAZb7_qOJBRJSVg",
+          "name": "广州奇诺服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1873245",
+        "mallType": "T1688",
+        "itemId": "939665254321",
+        "title": "Cross-Border Export High Version Mengjia Maya Men's and Women's Couple's Casual Thickeneded Versatile Warm Hooded Cotton Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251009/mgiii77u_5qsc.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcjBX4GnwcbFSF-zTVOgJNQ",
+          "name": "乐清众嵊服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 204,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "2060058",
+        "mallType": "T1688",
+        "itemId": "938222673288",
+        "title": "Cross-Border Foreign Trade Spot Winter Trendy Men's and Women's Thickened Cotton Outwear Fur Collar Hooded Warm Windproof Zipper Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgpzcxx1_n4bp.jpg",
+        "price": "¥295.00",
+        "toPrice": "$46.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLH7PUzF--syF9NbN70hOgA",
+          "name": "济南市历城区华尔服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 4,
+        "picWidth": "1066",
+        "picHeight": "1066"
+      },
+      {
+        "id": "1950884",
+        "mallType": "T1688",
+        "itemId": "861760285204",
+        "title": "02 Model Palm Men's Axe with Real Fur",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Au6KR81PSlmPW4f5b_!!2218992191840-0-cib.jpg",
+        "price": "¥550.00",
+        "toPrice": "$86.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIaDvhyUrJ_kDJ42EHOBnHQ",
+          "name": "广州源大鞋服商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2230728",
+        "mallType": "T1688",
+        "itemId": "966976091101",
+        "title": "跨境正确版本拉夫小马刺绣男女同款连帽加厚防风防水保暖棉服夹克",
+        "picUrl": "https://cdn.findqc.com/item/20250930/mg5db0di_ll7b.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQOQfChjOjZW2HEDPAaxkSw",
+          "name": "广州颜方休商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 234,
+        "qcVideoCnt": 8
+      },
+      {
+        "id": "1868439",
+        "mallType": "T1688",
+        "itemId": "955360361493",
+        "title": "European Export New m Brand Knitted Patchwork down Jacket in Stock Stand Collar Casual Fashion Unisex Coat",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgqvorrv_1ikr.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJq9ItVaR574gmwIYWF3euQ",
+          "name": "佛山市南海区亨瑞跨境服装贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 504,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "645992",
+        "mallType": "T1688",
+        "itemId": "821490512982",
+        "title": "Factory Outlet Explosions Cross-border Lightweight Cotton-padded jacket Zipper Windproof Warm Men's and Women's Couples Same Style All-match Men's Collar",
+        "picUrl": "https://cdn.findqc.com/item/20250902/mf1kzam5_99oa.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAzzL-tAakTHy6ljk3t_MUg",
+          "name": "石狮市密密服装店",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 179,
+        "qcVideoCnt": 9
+      },
+      {
+        "id": "2540015",
+        "mallType": "WD",
+        "itemId": "7562694279",
+        "title": "CP DD Shell Puff Jacket Best Version Down Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mggv12mb_utkj.jpg",
+        "price": "¥999.00",
+        "toPrice": "$157.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "507105153",
+          "name": "Dragon",
+          "logo": "https://si.geilicdn.com/wdseller507105153-19c1000001951ceded450a2395d6_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 293,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "86275",
+        "mallType": "T1688",
+        "itemId": "839088995535",
+        "title": "PALACE cotton-padded jacket autumn and winter casual sports waterproof cotton-padded jacket hooded windproof warm coat men's jacket fashion brand",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnclx4_0utj.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVZBK2shZivm7UjeoQF36Mg",
+          "name": "石狮市永盛宏顺服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 201,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "112388",
+        "mallType": "WD",
+        "itemId": "7273346001",
+        "title": "Fashion down jacket P-H",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnye88_2w1b.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1868514757",
+          "name": "Loongbuy",
+          "logo": "https://si.geilicdn.com/shopedit1878647969-5eea0000019189b4f4800a22d172-unadjust_229_229.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 530,
+        "qcVideoCnt": 2
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114238401249874442",
+  "language": "en"
+}

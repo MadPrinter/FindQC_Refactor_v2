@@ -1,0 +1,375 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2126149",
+        "mallType": "WD",
+        "itemId": "7451117296",
+        "title": "Fashion trendy sweatshirt suit No. 005-65 DZ",
+        "picUrl": "https://si.geilicdn.com/open1834095317-1234478995-7bcb00000193b9d63c6d0aa0834c_1200_1200.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834095317",
+          "name": "Bearbuy",
+          "logo": "https://si.geilicdn.com/wdseller1902888278-673600000192e1cd63cc0a210349_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "758311",
+        "mallType": "WD",
+        "itemId": "7351753897",
+        "title": "Sweatshirt round neck",
+        "picUrl": "https://si.geilicdn.com/open1841026309-252808396-144a00000192659b7af70a232357_1440_1919.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1762039621",
+          "name": "CSX",
+          "logo": "https://si.geilicdn.com/shopedit1809160355-1812000001947cbc74210a2395a3-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "580475",
+        "mallType": "TB",
+        "itemId": "738318454367",
+        "title": "Bomba Studio English Letter Design Printed Trendy Brand Loose Pullover Crew Neck Sweatshirt ins Unisex",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2966556892/O1CN01gIuqPk20maYmjqO2B_!!2966556892.jpg",
+        "price": "¥46.85",
+        "toPrice": "$7.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "478830324",
+          "name": "BOMBA STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "580435",
+        "mallType": "T1688",
+        "itemId": "788797145643",
+        "title": "2024 Casual Sports Hooded Men's Side Zipper 490 and 163 Suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jse5TF1ey73XBzWDy_!!2217351923939-0-cib.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhEowgm-hBx2dd2zzbjUR1Q",
+          "name": "莆田市秀屿区衣团和气服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 104,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "580411",
+        "mallType": "T1688",
+        "itemId": "689719609958",
+        "title": "Cross-border new sweatshirt Trapstar letters casual street youth sweatshirt cotton red black print padded hooded",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012vs9cC26pERusXYPZ_!!2206845027710-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "403292",
+        "mallType": "TB",
+        "itemId": "859492093175",
+        "title": "Y2448 Hooded Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/289554035/O1CN01s6Qsig1fg58osg5OE_!!289554035.png",
+        "price": "¥254.93",
+        "toPrice": "$40.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "401736",
+        "mallType": "T1688",
+        "itemId": "814861992005",
+        "title": "[Ready Stock] Geedup Blue and Black Sweatshirt High Street Pullover Hooded Jacket High Quality Cross-Border",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01J3TfmD1DKjUJpU8T0_!!2218117970198-0-cib.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmSdwGlVvQp8pbgUgdxR7nw",
+          "name": "泉州丰泽欧升信息科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "401554",
+        "mallType": "TB",
+        "itemId": "848934326160",
+        "title": "Casablanca Men's Heavy 380g American Printed Loose Round Neck Non Velvet Hoodie Trendy",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2209284609725/O1CN016gfh7w2Li6kIop9Jw_!!2209284609725.png",
+        "price": "¥69.90",
+        "toPrice": "$10.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "403515759",
+          "name": "潮牌工厂批发",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "401562",
+        "mallType": "T1688",
+        "itemId": "709032907014",
+        "title": "Fog Flocking Essentials Eighth Season Multi-Line High Street Loose Printed Couple Velvet Hooded Sweatshirt Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Jv6RoT1MsT0taqgPx_!!3540451490-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBv86TvY3GXAsYA_K6tnnWMA",
+          "name": "深圳市宝安区松岗周末潮品服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 208,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "401527",
+        "mallType": "WD",
+        "itemId": "7325676636",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/pcitem1799783535-1ac30000018f6c0c68be0a210256-unadjust_1200_1200.png",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873980137",
+          "name": "大迈服饰",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "393383",
+        "mallType": "T1688",
+        "itemId": "677852344751",
+        "title": "Cross-Border Trendy Brand Shark Head Terry Sweatshirt for Men and Women Casual Camouflage Thin Sweatshirt Loose Zipper Cardigan Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ghvvzz1lJzYr9M6bw_!!2986874799-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKPSMotCkPAVVPNw-8tscFw",
+          "name": "深圳市龙岗区梵希酷服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "393379",
+        "mallType": "T1688",
+        "itemId": "824303256911",
+        "title": "【 Hell Series 】 Fog High Street Washed Old Heavy Industry Head Printed Casual Hoodie Couple's Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01a3COpE1FtelfkhaLT_!!2782410545-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOaWnYH9ZXH598zvwbtzipw",
+          "name": "佛山市南海区韩潮社服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 76,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "393340",
+        "mallType": "TB",
+        "itemId": "853929271156",
+        "title": "Trendy Autumn and Winter New Men's and Women's Couple Sun-Rolled Basic Printed Fleece Hooded Sweatshirt Casual Sweatpants High Street",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2209720795702/O1CN01tFx4hV1rzZNMSqit0_!!2209720795702.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "410355596",
+          "name": "卿恒潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "223362",
+        "mallType": "WD",
+        "itemId": "6746681927",
+        "title": "Tommy thickened pullover sweater p219 yuan",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p07k4_zf85.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1798584048",
+          "name": ".",
+          "logo": "https://si.geilicdn.com/weidian1450586499-51540000019a2041c0890a23111a_1118_1118.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "111413",
+        "mallType": "TB",
+        "itemId": "848006159972",
+        "title": "Vetments 2018 Metal Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnutyg_9gde.jpg",
+        "price": "¥406.29",
+        "toPrice": "$63.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "490135367",
+          "name": "尼尔ARCHIVE",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "221345",
+        "mallType": "WD",
+        "itemId": "7260522068",
+        "title": "Casual hooded jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3qpoqtj_7ido.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1750913753",
+          "name": "核桃",
+          "logo": "https://si.geilicdn.com/weidian1991015231-145000000199972d3f7a0a20e672_996_996.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "112381",
+        "mallType": "WD",
+        "itemId": "7261855609",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnyaqq_x1pe.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1973492",
+        "mallType": "T1688",
+        "itemId": "873524168045",
+        "title": "Cross-Border Export Ida Sply Zip Hoodie Embroidered Logo Autumn and Winter Velvet Cardigan Zipper Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017iYhnt1UoMXT6GJBh_!!2215530522564-0-cib.jpg",
+        "price": "¥113.00",
+        "toPrice": "$17.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYyqDt_u310scS5hXtrQpcA",
+          "name": "海丰县潮煌服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1973255",
+        "mallType": "WD",
+        "itemId": "7267099640",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1751930489-252808396-78bf00000191a8593a200a210298_1278_1278.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1972972",
+        "mallType": "WD",
+        "itemId": "7475244659",
+        "title": "Bes boutique padded paragraph round neck sweater, clearance discount, non-quality problems do not support no reason to return-Ri",
+        "picUrl": "https://si.geilicdn.com/pcitem1888214674-56ac00000194665bf8a90a23038e_1280_1707.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1878930789",
+          "name": "Black X",
+          "logo": "https://si.geilicdn.com/wdseller1888214674-613b00000191c16772b10a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144209061913293753",
+  "language": "en"
+}

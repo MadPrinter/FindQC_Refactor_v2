@@ -1,0 +1,51 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "53945",
+        "mallType": "T1688",
+        "itemId": "753858988395",
+        "title": "The new Kemi KM-1855 barber electric shaving barber hair pusher hair Lang special oil head carving electric push clippers",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nodb51_u3b5.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32127",
+        "mallType": "T1688",
+        "itemId": "736765042051",
+        "title": "Cross-border 8148 hair clippers 8171 electric hair clippers 8504 hair clippers 1919/8509/8591/8594/8173",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njsg0a_figg.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "11710",
+        "mallType": "T1688",
+        "itemId": "703698325378",
+        "title": "Cross-border Komei KM-2296 electric hair clippers with base electric hair clippers USB oil head carving push hair clippers hair salon hair clippers",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbr3ae_8xk3.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140188192553871820",
+  "language": "en"
+}

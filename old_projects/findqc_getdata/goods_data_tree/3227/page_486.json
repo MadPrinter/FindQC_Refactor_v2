@@ -1,0 +1,369 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2230590",
+        "mallType": "WD",
+        "itemId": "7492532126",
+        "title": "G9-0608215 Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mes98v9m_6p75.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1971964",
+        "mallType": "TB",
+        "itemId": "944636551509",
+        "title": "Independently developed joint V-neck short sleeved tee",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mel27xa8_yhvz.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "353395546",
+          "name": "灰涩 club",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1502327",
+        "mallType": "WD",
+        "itemId": "7446205453",
+        "title": "Stone Short Sleeve Island T-shirt American Trendy Men and Women Loose Couple Versatile Casual Printed Top",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mel45b3o_i4za.jpg",
+        "price": "¥89.90",
+        "toPrice": "$14.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1833102969",
+          "name": "复制潮牌店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2113707",
+        "mallType": "T1688",
+        "itemId": "723299028896",
+        "title": "Summer full-time hunter personality men's European casual short sleeved T-shirt base shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mel0whl3_o7o5.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBtrEUB0LfWJnZFM0wpvC5Ug",
+          "name": "东莞市虎门艾莱利服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "63643",
+        "mallType": "TB",
+        "itemId": "649416740245",
+        "title": "Fugu Death God Skull Design T-shirt Classic Skull Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjiapw_4ait.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1916641",
+        "mallType": "T1688",
+        "itemId": "905442525644",
+        "title": "Foreign Trade Summer Paul Polo Shirt Men's Short sleeved T-shirt Flip Collar Pony Logo Embroidery Cross border Exclusive for Business",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mes76d7e_87df.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBB9BJmQDFAiUXGRGbOsAkeA",
+          "name": "跨境北美热卖频道",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2230396",
+        "mallType": "T1688",
+        "itemId": "923129368568",
+        "title": "2025 Cross border European and American Trendy Brand RH Character Coconut Tree Letter Printed Short Sleeve T-shirt for Men and Women American High Street Half Sleeve Tee",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mes5ynpv_5gjn.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQZt5h5MdXWsN5Bv0hvwe_Q",
+          "name": "深圳市宝安区学谦数码印花服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2025335",
+        "mallType": "T1688",
+        "itemId": "875706120187",
+        "title": "European Hot Broken Planet Cartoon Skull Foam Printed Round Neck Short Sleeve T-shirt Men's and Women's High Street Loose",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mekz1tyy_1z17.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVet7lIMIxlEI9DoMcC7XEA",
+          "name": "广州大魔国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "820782",
+        "mallType": "WD",
+        "itemId": "7258057519",
+        "title": "Youth Trend",
+        "picUrl": "https://cdn.findqc.com/item/20250826/meryggxt_mia9.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659295412",
+          "name": "Adam clothes",
+          "logo": "https://si.geilicdn.com/shopedit1516753669-2df80000019a63041c9b0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "489764",
+        "mallType": "T1688",
+        "itemId": "862206616275",
+        "title": "Original label: One piece trendy brand, SU West short sleeved T-shirt, dice black eight ice cream, basic American couple outfit, summer outfit",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mery2xsp_not2.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215442394186",
+          "name": "广州奇诺服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2103849",
+        "mallType": "TB",
+        "itemId": "945299897449",
+        "title": "High quality cross-border popular niche fashion brand mertra heavyweight short sleeved t-shirt men's special Sanskrit letter printed TEE",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mektjffc_5p93.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58566164",
+          "name": "FM707原创潮牌集合",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2181414",
+        "mallType": "TB",
+        "itemId": "959659290913",
+        "title": "High version: Vita Paris style 2025 new digital printed apple pattern men's and women's loose short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250826/merygfmc_j65h.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113384414",
+          "name": "『A7  Seven』潮牌缔造者",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2009682",
+        "mallType": "T1688",
+        "itemId": "949703659561",
+        "title": "25/26 Serie A new Roma jersey, number 21, Dybala, number 10, Totti home and away sports group jersey",
+        "picUrl": "https://cdn.findqc.com/item/20250826/meryhsqj_2rih.jpg",
+        "price": "¥37.00",
+        "toPrice": "$5.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnFqNYf-3yXeu5gY-AWKBaw",
+          "name": "佛山市南海区联之叶贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2113765",
+        "mallType": "T1688",
+        "itemId": "832244940846",
+        "title": "AliExpress Cross border New Product Playboi Carti Music Album Red Printed T-shirt Retro 90s Clothing",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mekpad7o_8y07.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRXvTpixxcoNdAoA1AK7f1g",
+          "name": "德化县千人依服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2108907",
+        "mallType": "T1688",
+        "itemId": "795553346160",
+        "title": "Sports tight fitting short sleeved breathable elastic men's T-shirt training fast drying high elasticity running basketball compression fitness suit",
+        "picUrl": "https://cdn.findqc.com/item/20250825/meqkmff6_ngoj.jpg",
+        "price": "¥13.00",
+        "toPrice": "$2.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYu8bLKplFcA9ENTS-bipIA",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "2181533",
+        "mallType": "T1688",
+        "itemId": "758541759877",
+        "title": "Artie Men's Clothing | 2025 Spring and Summer New Product 275g Reverse Fried Color Old Frayed Washed Men's T-Shirt Trendy Brand Retro t",
+        "picUrl": "https://cdn.findqc.com/item/20250825/meqk88x0_y4q7.jpg",
+        "price": "¥47.00",
+        "toPrice": "$7.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1549494",
+        "mallType": "T1688",
+        "itemId": "872365108519",
+        "title": "Breathedivinity American Trendy Street Style Loose Large Size Printed Fitness Sports Pure Cotton Men's Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcmdaaih_n8rd.jpg",
+        "price": "¥64.99",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBtQmhiNfDh9YKmLUcUKUBrA",
+          "name": "珠海安立商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2102498",
+        "mallType": "TB",
+        "itemId": "904179126148",
+        "title": "Summer new style shoulder down short sleeved five bar T-shirt for men, American fashion brand unbeaten heavyweight pure cotton loose round neck couple",
+        "picUrl": "https://cdn.findqc.com/item/20250819/mei04fvf_6900.jpg",
+        "price": "¥42.90",
+        "toPrice": "$6.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "432908675",
+          "name": "攀登者精品男装",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2041503",
+        "mallType": "TB",
+        "itemId": "913032875403",
+        "title": "Under Five Bars Official Spring New Product American Retro ICON Classic Logo Short Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250815/mecgop8m_jlxk.jpg",
+        "price": "¥69.90",
+        "toPrice": "$10.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "231903156",
+          "name": "lrving",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2229336",
+        "mallType": "TB",
+        "itemId": "890894174062",
+        "title": "JIL Minimalist SANDER Letter Short Sleeve T-shirt Oversize Men's and Women's Casual Choice Same Top Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250826/merredix_382l.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "327554957",
+          "name": "STA 欧货店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147107311913294506",
+  "language": "en"
+}

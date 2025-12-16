@@ -1,0 +1,30 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2852",
+        "mallType": "TB",
+        "itemId": "626783999754",
+        "title": "European and American Sexy Thong Rhinestone Lingerie for Women, Red Luxury Letter Strap Logo Push-Up Bra Set",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m32tt9_05h2.jpg",
+        "price": "¥91.85",
+        "toPrice": "$14.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "344554972",
+          "name": "weimi新开的店",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 91,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143176271911217734",
+  "language": "en"
+}

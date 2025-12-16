@@ -1,0 +1,382 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2735438",
+        "mallType": "WD",
+        "itemId": "7536750338",
+        "title": "GS.71311621",
+        "picUrl": "https://si.geilicdn.com/pcitem1798464021-3bab000001927653967f0a20e273_1170_1134.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1625782829",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2710668",
+        "mallType": "T1688",
+        "itemId": "977246821912",
+        "title": "Cross-border foreign trade high-quality classic models full of printed letters logo sports fashion suit casual zipper jacket sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ep48Xw1DGbwm0TPs5_!!2219920230189-0-cib.jpg",
+        "price": "¥278.00",
+        "toPrice": "$43.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219920230189",
+          "name": "东莞市心知晓科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2406672",
+        "mallType": "WD",
+        "itemId": "7509913073",
+        "title": "[DX38-6] Fashion Simple Casual Versatile Suit",
+        "picUrl": "https://si.geilicdn.com/pcitem901940024420-13030000019811c7abde0a20e284_1200_1200.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646048669",
+          "name": "Giant panda 🐼",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1600515",
+        "mallType": "T1688",
+        "itemId": "745899956037",
+        "title": "Jacket men's winter lambswool padded thickened fashion couple windbreaker shaker loose tide lamb wool cotton jacket",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000004861/O1CN01qp95q81lmO5vIkFqS_!!6000000004861-0-tbvideo.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215598741585",
+          "name": "石狮市奥斯卡丹服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2787224",
+        "mallType": "T1688",
+        "itemId": "601497653212",
+        "title": "Soccer Jerseys Jacket Men's Long Sleeve Training Uniforms Soccer Team Uniforms Sports Training Jacket Running Casual Clothing Jersey Winter",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/2019/252/512/11879215252_1688833740.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3965184471",
+          "name": "劲够鲁惊贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2787930",
+        "mallType": "TB",
+        "itemId": "988636298646",
+        "title": "Elite jacket ELITE men's ribbed colorful marathon athletics league jacket quick drying long sleeved sports training",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2214385587842/O1CN01aCrGRh27nh305JjY3_!!2214385587842.jpg",
+        "price": "¥141.30",
+        "toPrice": "$22.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "311285912",
+          "name": "老蓝运动服装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2781013",
+        "mallType": "T1688",
+        "itemId": "987087845931",
+        "title": "2025跨境某同款运动风衣春秋季休闲外套户外透气宽松长袖夹克002",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XJ7pKz1JjMVmTCHfY_!!2220879901064-0-cib.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoS4cuWL1bQCq1fD13LoAhA",
+          "name": "广州威斯汀外贸服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1091388",
+        "mallType": "WD",
+        "itemId": "7122513058",
+        "title": "grey set gray cruise set set",
+        "picUrl": "https://si.geilicdn.com/pcitem1378088195-6b740000018ce7cb8d680a20e672_1276_1276.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1378088195",
+          "name": "CND CLOTH",
+          "logo": "https://si.geilicdn.com/wdseller1378088195-5f6f000001739627e4360a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2372807",
+        "mallType": "T1688",
+        "itemId": "887154385641",
+        "title": "Jacket Spring and Autumn Korean version of the trend of couples sports female punching jacket outdoor windbreaker thin men's jacket 7152",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KiNHF41J7LZjTT69X_!!3523080981-0-cib.jpg",
+        "price": "¥84.00",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3523080981",
+          "name": "深圳市南山区伊韩美服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2023578",
+        "mallType": "WD",
+        "itemId": "7429709430",
+        "title": "nik sportswear",
+        "picUrl": "https://si.geilicdn.com/open1678116781-1234478995-4fd900000195aa10b4820a23b491_1200_1200.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1678116781",
+          "name": "UrbanPulse",
+          "logo": "https://si.geilicdn.com/shopedit1937851306-1f15000001959041b9260a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3142066",
+        "mallType": "WD",
+        "itemId": "7453377619",
+        "title": "冲锋衣夹克",
+        "picUrl": "https://si.geilicdn.com/pcitem1810691551-1be300000190ede3a9230a231316_800_800.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1857513709",
+          "name": "酷街服饰",
+          "logo": "https://si.geilicdn.com/shopedit1942469290-7f19000001963cf0dc4d0a8134f0-unadjust_505_505.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3141334",
+        "mallType": "WD",
+        "itemId": "7579534697",
+        "title": "06IC-2最新热门款连帽卫衣套装羽绒服WhatsApp：+86 133 1393 9670",
+        "picUrl": "https://si.geilicdn.com/pcitem1886196013-74cb00000192f7d55e8f0a2304aa_1200_1200.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "167404967",
+          "name": "Mondial buy",
+          "logo": "https://si.geilicdn.com/shopedit167404967-167b00000199429211d50a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1869826",
+        "mallType": "T1688",
+        "itemId": "840072699681",
+        "title": "Foreign trade in stock embroidered logo reflective strip jacket jacket jacket stand collar windproof 8623 nylon 40D wrinkle",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1e8mod_teh6.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAzzL-tAakTHy6ljk3t_MUg",
+          "name": "石狮市密密服装店",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2761012",
+        "mallType": "WD",
+        "itemId": "7580006521",
+        "title": "sportswear set",
+        "picUrl": "https://si.geilicdn.com/pcitem901936221522-71550000019a3e1915390a23047e_640_640.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2766178",
+        "mallType": "WD",
+        "itemId": "7578491349",
+        "title": "AA001-Outdoor travel punch WhatsApp +86 13256727890",
+        "picUrl": "https://si.geilicdn.com/open1663450365-1234478995-1d730000019809c00da00a23b491_800_800.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1797144227",
+          "name": "CopyCraft Studio",
+          "logo": "https://si.geilicdn.com/pcdecorate1986573173-21c2000001996b4efe3c0a210256-unadjust_650_650.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3137580",
+        "mallType": "TB",
+        "itemId": "977680066490",
+        "title": "Under Armour Launch Insulated Run Men's Running Sports Jacket Zipper Jacket 1380868-001",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3928103928/O1CN01ohJbzF1et4ptHxGgO_!!3928103928.jpg",
+        "price": "¥502.32",
+        "toPrice": "$78.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "288746859",
+          "name": "酷动体育企业店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3027807",
+        "mallType": "WD",
+        "itemId": "7565941749",
+        "title": "Freps - High quality sportswear\n",
+        "picUrl": "https://si.geilicdn.com/open1684698973-1234478995-6ecd00000198696a37170a8115c2_1846_1920.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1771590291",
+          "name": "Rabbit Buy",
+          "logo": "https://si.geilicdn.com/wdseller1996681092-309e00000199b3ccdb130a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3134554",
+        "mallType": "WD",
+        "itemId": "7558818376",
+        "title": "E*M*DHX23--高品质C毛衣纯棉羽绒服外套",
+        "picUrl": "https://si.geilicdn.com/pcitem901974558624-01070000019960f757920a231177-unadjust_1280_1280.png",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1723865058",
+          "name": "VIVI",
+          "logo": "https://si.geilicdn.com/wdseller1587119769-1233000001983ec0e7610a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2677602",
+        "mallType": "T1688",
+        "itemId": "980259050066",
+        "title": "Wholesale winter new sports students track and field half zipper running tops sports elastic training men and women long-sleeved thin section",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015zLqwU1Cv5KmvPOuG_!!2220196160142-0-cib.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220196160142",
+          "name": "广西奈思运动服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2740283",
+        "mallType": "T1688",
+        "itemId": "987331693750",
+        "title": "2025跨境某同款连帽夹克男士时尚夏季个性外套休闲运动透气潮流夹",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018uGBHz1JjMVnSV8EP_!!2220879901064-0-cib.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoS4cuWL1bQCq1fD13LoAhA",
+          "name": "广州威斯汀外贸服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140490481917918090",
+  "language": "en"
+}

@@ -1,0 +1,599 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3065318",
+        "mallType": "T1688",
+        "itemId": "853700188960",
+        "title": "Suitable for Ilumacase One/I One Protective Shell Pu Leather Leopard Print Anti-Fall Decorative Shell Cover Cross-Border Supply",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kZN8YB1IYzqbvFtjm_!!2213322720906-0-cib.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8Z_xLVnd4isVjT14l5zn5g",
+          "name": "深圳市迪加数码科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1347247",
+        "mallType": "T1688",
+        "itemId": "862013358661",
+        "title": "Rhode Hayley Hailey Lipstick Lip Moisturizing Colored Lipstick Blush Moisturizing Lip Protection Explosion American Lip Gloss",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015R0xju2FUTKXcZ4Oz_!!2459218883-0-cib.jpg",
+        "price": "¥2.50",
+        "toPrice": "$0.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTu4NN4_-2hj2q3-UTv_bvQ",
+          "name": "广州世嘉工艺品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3139154",
+        "mallType": "T1688",
+        "itemId": "710123414546",
+        "title": "起源 OXVA 适配Origin Coil五金配件",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aCCFCg1XoJEIOX1Ow_!!2214898632970-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214898632970",
+          "name": "深圳市和锦盛电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2633847",
+        "mallType": "T1688",
+        "itemId": "936092727633",
+        "title": "WGA 20K packaging box material",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ozND8H1g5jMt3BMSb_!!2208831614091-0-cib.jpg",
+        "price": "¥9.00",
+        "toPrice": "$1.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBsIl62y7As5mfwvjjobF6Vw",
+          "name": "深圳市佰丽儿电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3004610",
+        "mallType": "T1688",
+        "itemId": "896745542345",
+        "title": "Suitable for ilum one/I one anti-fall protective case IQO all-in-one 6 7 generation universal protective case PC PU leather",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xgCKXp1GXVLx3OU7H_!!3912510632-0-cib.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWIS9b488IEci9Gd04W0LtA",
+          "name": "深圳市鼎标技术有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1661819",
+        "mallType": "WD",
+        "itemId": "7479832801",
+        "title": "perfume",
+        "picUrl": "https://si.geilicdn.com/open1698740557-1838589072-14c3000001971560aaaa0aa0834c_800_800.jpg",
+        "price": "¥96.00",
+        "toPrice": "$15.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1698740557",
+          "name": "超值好物",
+          "logo": "https://si.geilicdn.com/pcdecorate1927530366-4b8e00000194d42a11e30a20e7c7-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902302",
+        "mallType": "TB",
+        "itemId": "684332849718",
+        "title": "Craftsman Master Sponge Bullet Soft Bullet Gun Toy Swift Prophecy Manual Launcher Low Resistance 15 ° Bearing Tube",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk53p6h_801m.jpg",
+        "price": "¥111.04",
+        "toPrice": "$17.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "126041063",
+          "name": "工匠大师WORKER",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2882893",
+        "mallType": "T1688",
+        "itemId": "651931724578",
+        "title": "Cross border foreign trade men's RFID anti-theft brush European and American Amazon metal card bag (in stock without logo)",
+        "picUrl": "https://cdn.findqc.com/item/20251103/mhivd3g9_pkf4.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBU5LTW6JpCIURKjyj6m4_Cw",
+          "name": "广州嵩发皮具有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2183661",
+        "mallType": "TB",
+        "itemId": "962306761980",
+        "title": "电子口腔清新喷雾可充电水果味清新口喷吸入提神润喉吐气棒雾化器",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2220230734864/O1CN01n2CWkt1lnlXojwtWF_!!4611686018427384848-0-item_pic.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "186817319",
+          "name": "诚与梦医疗器械专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2070549",
+        "mallType": "T1688",
+        "itemId": "798683087165",
+        "title": "CAUSONE Six Mans Fly MA two-hole energy bar/refreshing brain nasal pass anti-fatigue factory direct wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Jrj4dw1YGhs9epR7l_!!2217155053032-0-cib.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217155053032",
+          "name": "广州水瓶座跨境供应链有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2030887",
+        "mallType": "T1688",
+        "itemId": "913433269666",
+        "title": "New Portable Rechargeable Electric Nose Hair Trimmer Cleaning Nostrils for Men and Women for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rQAgJz2EdLNXJQc9q_!!2219657828767-0-cib.jpg",
+        "price": "¥16.62",
+        "toPrice": "$2.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219657828767",
+          "name": "上海钟雀科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2713319",
+        "mallType": "T1688",
+        "itemId": "921408083673",
+        "title": "Cross border Foreign Trade Vietnam perfume Naked Man Essence Scandal Women Scandal Second Generation essence Scandal Super Men Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mgtrtdlb_tgzy.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwc5TpJcZsmZ08Yd7YHlyXQ",
+          "name": "广州熙铃贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2684585",
+        "mallType": "WD",
+        "itemId": "7424192179",
+        "title": "Loe Har Joint Global Limited Edition Aromatherapy//Taken separately/Non refundable (Aromatherapy shipped by land cannot be shipped by air) - lyw30158",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgo6la7v_8h79.jpg",
+        "price": "¥339.00",
+        "toPrice": "$53.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1759817517",
+          "name": "威廉made",
+          "logo": "https://si.geilicdn.com/shopedit1935324330-63370000019541d89c440a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "484291",
+        "mallType": "TB",
+        "itemId": "845234305435",
+        "title": "Trendy Arabic Digital Logo Minimalist Portable Multifunctional Metal Stainless Steel High-end Men Anti-theft Card Case",
+        "picUrl": "https://cdn.findqc.com/item/20250112/m5tjzno2_q6rs.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "369285591",
+          "name": "无糖Killer",
+          "type": "TB"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 53,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "414343",
+        "mallType": "WD",
+        "itemId": "6585852406",
+        "title": "DY HS05",
+        "picUrl": "https://cdn.findqc.com/item/20250313/m867y0gk_2lnp.jpg",
+        "price": "¥850.00",
+        "toPrice": "$133.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787125025",
+          "name": "Apple果果",
+          "logo": "https://si.geilicdn.com/pccreshp1769897333-473700000188aaa5ccfd0a23034c_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 73,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "61158",
+        "mallType": "T1688",
+        "itemId": "709977598404",
+        "title": "Factory direct cross-border mouse pad precision lock edge non-slip thickened liquid large office keyboard pad mouse pads",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3minitp_fyds.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "38162",
+        "mallType": "T1688",
+        "itemId": "638127538355",
+        "title": "Leather Cigar Sleeve 2-in-1 Humidor - One Piece",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nlu1p6_ihp1.jpg",
+        "price": "¥52.99",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35574",
+        "mallType": "WD",
+        "itemId": "7242222507",
+        "title": "J-P* 6, non-quality problems do not support no reason to return the goods",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nklejp_2vo0.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802156977",
+          "name": "Rock Cat Store",
+          "logo": "https://si.geilicdn.com/wdseller1799811745-03320000019052d497520a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "31719",
+        "mallType": "TB",
+        "itemId": "729570964142",
+        "title": "alo yoga yoga mat natural milk rubber professional sports fitness non-slip mat anti-vibration household colorful floor mats",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3naqeen_d9px.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114223768249895677",
+  "language": "en"
+}

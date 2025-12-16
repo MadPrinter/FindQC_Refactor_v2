@@ -1,0 +1,417 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2620004",
+        "mallType": "T1688",
+        "itemId": "929680744222",
+        "title": "J.BL CHARGE5 shockwave 5 generation wireless bluetooth audio portable outdoor waterproof subwoofer small speaker",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011EFkBb1PeDkgESqiU_!!2219858841865-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219858841865",
+          "name": "深圳市智锐蓝科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2707590",
+        "mallType": "T1688",
+        "itemId": "931301784115",
+        "title": "Cross-Border Applicable Flip7 Kaleidoscope 7Th Generation Portable Subwoofer High-End Outdoor Speaker Desktop Audio",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh4fdetq_2c62.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJrigeRf-Mk9lrlCuRD1J9g",
+          "name": "深圳市魏之至科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1576311",
+        "mallType": "T1688",
+        "itemId": "786829846609",
+        "title": "Factory direct sales clip on microphone with adapter K8 K9 K35 Bluetooth wireless microphone for live streaming",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000002620/O1CN010xBAjM1VE0dsC4wvW_!!6000000002620-0-tbvideo.jpg",
+        "price": "¥8.30",
+        "toPrice": "$1.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217700043776",
+          "name": "广州市新希航电子科技商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40399",
+        "mallType": "TB",
+        "itemId": "740847461961",
+        "title": "Bluetooth speaker for Apple small sound HomePod mini wireless home smart high quality portable",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmpqke_275y.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "473719000",
+          "name": "犀狼旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39613",
+        "mallType": "T1688",
+        "itemId": "577665982666",
+        "title": "Third Generation Diamond Detector Multi-functional high-precision thermal conductivity diamond detector pen diamond detector tester",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmiwqo_10sj.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29104",
+        "mallType": "T1688",
+        "itemId": "681624557936",
+        "title": "Factory direct all-aluminum twill knob audio volume adjustment knob switch rotary potentiometer knob",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj39vg_gheb.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15917",
+        "mallType": "WD",
+        "itemId": "6934953673",
+        "title": "Flip6 Metal lo..go",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ne7f54_i4ew.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1670047201",
+          "name": "Toptronics",
+          "logo": "https://si.geilicdn.com/weidian1778940561-024b0000018e9c8690550a22e433_2104_2104.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15105",
+        "mallType": "TB",
+        "itemId": "630787192288",
+        "title": "Germany OVEYA fascia gun muscle relaxer electric massage instrument fascia machine multi-function fitness mini home use",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3md4kwk_l95o.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3967",
+        "mallType": "WD",
+        "itemId": "7232910701",
+        "title": "J Speaker Boombox3-No Returns for Non-Quality Issues",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3lt5m_ul4i.jpg",
+        "price": "¥358.00",
+        "toPrice": "$56.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834819569",
+          "name": "Digital store",
+          "logo": "https://si.geilicdn.com/pcdecorate1807659364-17c200000190168472c60a23038e-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147200192553912181",
+  "language": "en"
+}

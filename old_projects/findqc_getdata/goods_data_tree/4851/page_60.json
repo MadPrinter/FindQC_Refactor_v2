@@ -1,0 +1,370 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "393328",
+        "mallType": "WD",
+        "itemId": "7298734880",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1873980137-252808396-07300000019287956d380a8133b5_800_800.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769151449",
+          "name": "顺泽鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2155081",
+        "mallType": "T1688",
+        "itemId": "905530533527",
+        "title": "Fashion Trendy New Knitted Hat, Same Style Woolen Hat for Men and Women, Warm and Highly Elastic English Letter Warm Hat",
+        "picUrl": "https://cdn.findqc.com/item/20251006/mge5tomq_l21j.jpg",
+        "price": "¥5.50",
+        "toPrice": "$0.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHUp_HsUkOkdxrSj5Ws-cYQ",
+          "name": "金华市钰纤织服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 91,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2384482",
+        "mallType": "T1688",
+        "itemId": "962849489310",
+        "title": "Alo new yoga men's and women's hard top baseball caps, duckbill caps, couple breathable sports sun protection hats, Korean version",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7up4a_456v.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBc_lkouc2zQh2o-Ftq5Ec8Q",
+          "name": "义乌市绮嗬电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2130828",
+        "mallType": "T1688",
+        "itemId": "944988043778",
+        "title": "High-order texture letter webbing knit cold cap multicolor texture autumn and winter warm tide with big high quality L home",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fsX9q427IY5Fw66gu_!!2216228517774-0-cib.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216228517774",
+          "name": "深圳市龙岗区伊米饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2130814",
+        "mallType": "T1688",
+        "itemId": "762902908259",
+        "title": "New models direct supply racing men and women sports cap adjustable sunscreen sunshade four seasons duck tongue hat hip-hop hat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lXxCKf1aKwonO1wh1_!!2215800143312-0-cib.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215800143312",
+          "name": "仙游县枫亭镇云衣想服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2041258",
+        "mallType": "TB",
+        "itemId": "944204754335",
+        "title": "Full seal non-adjustable back wear LA baseball cap men and women American hip-hop outdoor sun flat cap street dance",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2200618458044/O1CN017aDIiA29ID1LItIR3~crop,316,0,1899,2532~_!!2200618458044.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "458758388",
+          "name": "温暖的帽帽",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1978358",
+        "mallType": "T1688",
+        "itemId": "921813520945",
+        "title": "American High Street Ch Trucker Hat Letter Embroidered Curved Brim Baseball Cap Cross Trucker Hat for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sxyHv62GDM5QWjV5U_!!2219001998981-0-cib.jpg",
+        "price": "¥33.80",
+        "toPrice": "$5.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfHWMV7fxMWfc8_6_UV24wg",
+          "name": "佛山市南海区元名莱服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975539",
+        "mallType": "T1688",
+        "itemId": "831076749617",
+        "title": "Aime Leon Dore Unisphere Hat American Vintage Baseball Cap Wide Brim Adjustable Couple's",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FgmjmT1HWPyfY8dwm_!!2208620350765-0-cib.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208620350765",
+          "name": "义乌市梦临电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975048",
+        "mallType": "T1688",
+        "itemId": "888535549963",
+        "title": "Ralph Lauren polo hats men and women winter curved brim soft top duck tongue cap tide khaki color versatile sunshade can mail no",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SVXSli1Qvuapg8NM5_!!2218978622039-0-cib.jpg",
+        "price": "¥37.51",
+        "toPrice": "$5.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219081872093",
+          "name": "柴桑区悦福贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1974863",
+        "mallType": "T1688",
+        "itemId": "793448719430",
+        "title": "Hat men's spring, summer and fall sunscreen casual sun hat Korean version of the simple fashion outdoor tourism mountaineering flat cap",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012ZEGzk1CyHy75FEJg_!!2217826460149-0-cib.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217826460149",
+          "name": "仙游县郊尾镇潮帽帽子店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2615971",
+        "mallType": "T1688",
+        "itemId": "819670809911",
+        "title": "现货供应网红同款新款时尚简约不挑脸型秋冬款翻边针织毛线帽",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01peHMpq1D7uJ5zsjRK_!!2215527350170-0-cib.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215527350170",
+          "name": "广州广潮帽业商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1823440",
+        "mallType": "WD",
+        "itemId": "7263986839",
+        "title": "-High quality 8-BH-002",
+        "picUrl": "https://si.geilicdn.com/open1848188377-1848188377-4e7800000190f8d9d1af0a22d234_1137_1137.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1798385733",
+          "name": "Freps_buy",
+          "logo": "https://si.geilicdn.com/shopedit1873695593-478b000001907c52cbaf0a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2432368",
+        "mallType": "TB",
+        "itemId": "818064824724",
+        "title": "Without Me/Laukward's Land Blood Cross Graffiti Distressed Camouflage Branch Pattern Duckbill Baseball Cap",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2206440332145/O1CN01taas7V1RiSXFnsYE8_!!2206440332145.png",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "509894892",
+          "name": "Without Me无我设计师品牌集合店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1636791",
+        "mallType": "T1688",
+        "itemId": "897737080202",
+        "title": "Pony label new hat female soft top polo baseball cap male sunshade wide brim large face show face small duck tongue cap",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000005870/O1CN01Vs6TZa1tEVwikzMOu_!!6000000005870-0-tbvideo.jpg",
+        "price": "¥8.80",
+        "toPrice": "$1.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217665921534",
+          "name": "义乌市铁爱电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633769",
+        "mallType": "T1688",
+        "itemId": "890277319326",
+        "title": "Japanese Alphabet Water Bucket Fisherman Hat Women's Four Seasons Sunscreen Basin Scattered Windproof Edge Hat Simple UV resistant Sunshade Hat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BRPYRa27kwbdUbwJ1_!!2216801377836-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBH5T0hRz5D2Jo1U8oHQKBLQ",
+          "name": "深圳市福田区筱筱云服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1633766",
+        "mallType": "T1688",
+        "itemId": "811439572399",
+        "title": "Cross-border summer explosion models fisherman hat washed cotton large brim fashion trend vacation burlap sling shade sun hat",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000004873/O1CN014d6gss1lrstS4xu4l_!!6000000004873-0-tbvideo.jpg",
+        "price": "¥15.50",
+        "toPrice": "$2.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212443648499",
+          "name": "义乌市宥潼帽业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1314593",
+        "mallType": "T1688",
+        "itemId": "904184708463",
+        "title": "The new cross-border Europe and the United States B embroidered checkered soft top fashion wild duck tongue cap personality wind striped outdoor baseball cap",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01r83avT1jcCGwkQVLv_!!2218460154568-0-cib.jpg",
+        "price": "¥31.00",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218460154568",
+          "name": "义乌市辛媛制帽厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1314580",
+        "mallType": "T1688",
+        "itemId": "841841111369",
+        "title": "Alcatraz Corteiz 5 Starz Guerillaz Bucket Hat Fisherman's Hat Sun Hat Europe and America",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000001103/O1CN017JU6CD1K1DrGaFJ8L_!!6000000001103-0-tbvideo.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "942137",
+        "mallType": "WD",
+        "itemId": "7287096952",
+        "title": "2238 B28 RL baseball caps for men and women multicolor baseball caps for men and women CAPS(KK)",
+        "picUrl": "https://si.geilicdn.com/pcitem1806271682-16ad00000191282da3e60a207569_1600_1600.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710514600",
+          "name": "Ralph Lauren Supplier",
+          "logo": "https://si.geilicdn.com/weidian1464099291-6451000001937a0d00eb0a8133cc_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2125913",
+        "mallType": "T1688",
+        "itemId": "886954862338",
+        "title": "Knitted cap 2023 new net red breathable winter trend hat embroidery plaid wool cap foreign trade explosive models batch",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01E2mVYF1VEvW7j9wY7_!!2210862322622-0-cib.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210862322622",
+          "name": "义乌市茸晶电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148165021924857646",
+  "language": "en"
+}

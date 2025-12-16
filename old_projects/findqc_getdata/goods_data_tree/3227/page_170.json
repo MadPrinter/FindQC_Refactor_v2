@@ -1,0 +1,364 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1846329",
+        "mallType": "WD",
+        "itemId": "7511030129",
+        "title": "**",
+        "picUrl": "https://si.geilicdn.com/open1854268377-1854268377-205e0000019823e9ab140a23b491-unadjust_800_800.png",
+        "price": "¥132.00",
+        "toPrice": "$20.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1661894",
+        "mallType": "T1688",
+        "itemId": "893121915026",
+        "title": "High version Chrome Hearts horseshoe print color blocking insert shoulder letter print long sleeve T-shirt men and women alike",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000002678/O1CN01Jmlx7b1VeZesj7jW6_!!6000000002678-0-tbvideo.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218008392777",
+          "name": "跨境鞋服箱包店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 108,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1661828",
+        "mallType": "T1688",
+        "itemId": "933614902511",
+        "title": "Foreign trade new Y2K2025 American street hip-hop style cartoon men and women printed loose T-shirt personalized versatile cross-border",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000000382/O1CN01p6HixE1Eh0LTdVo7I_!!6000000000382-0-tbvideo.jpg",
+        "price": "¥23.56",
+        "toPrice": "$3.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219676856131",
+          "name": "义乌市伈馨电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1661795",
+        "mallType": "T1688",
+        "itemId": "898289267173",
+        "title": "2024ss T-shirt 300gsm cotton double yarn loose plus size short sleeve",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000005104/O1CN01jYjJgO1nZgY45ozkh_!!6000000005104-0-tbvideo.jpg",
+        "price": "¥61.00",
+        "toPrice": "$9.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218008392777",
+          "name": "跨境鞋服箱包店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1661790",
+        "mallType": "T1688",
+        "itemId": "928216615453",
+        "title": "Tide BAPE classic shark short-sleeved big apes camouflage cartoon print T-shirt men couples women half-sleeved short-sleeved T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019TnstA1w2YT3PzbRH_!!2219724166250-0-cib.jpg",
+        "price": "¥47.00",
+        "toPrice": "$7.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215442394186",
+          "name": "广州奇诺服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1661453",
+        "mallType": "TB",
+        "itemId": "919111225742",
+        "title": "YOONGLA Superman Collaboration American Trendy Printed Large Loose Heavy Men's Sports Fitness Short Sleeve T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2212624613635/O1CN01ri47Yj1cisllfz9aa_!!2212624613635.png",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "274561799",
+          "name": "Muscle Star健身装备企业店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1661398",
+        "mallType": "TB",
+        "itemId": "763454266507",
+        "title": "American VLONE FOG tide brand big V sketch letters Logo cherry blossom short sleeve embroidery lip print graffiti print T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3344358625/O1CN01iI0sst2DaIzADbYzt_!!3344358625.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "383971356",
+          "name": "潮牌外单批发店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1295279",
+        "mallType": "T1688",
+        "itemId": "905765164839",
+        "title": "Foreign trade wholesale American fashion brand GALLERY DEP basic model letter classic logo slogan short sleeved men's and women's t-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IOirba1f4Wg1Q88TC_!!2214425623953-0-cib.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBB9BJmQDFAiUXGRGbOsAkeA",
+          "name": "跨境北美热卖频道",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1294422",
+        "mallType": "TB",
+        "itemId": "899047856610",
+        "title": "American-Style Cortez Alcatraz Short-Sleeve T-Shirt for Men ins Streetwear T-Shirt Summer Women's High Street Half-Sleeve Top",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1727457711/O1CN01BCzV1B26ph6Wau6y3_!!1727457711.jpg",
+        "price": "¥90.73",
+        "toPrice": "$14.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106638064",
+          "name": "大V先生",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "930461",
+        "mallType": "T1688",
+        "itemId": "844267483913",
+        "title": "Foreign trade cross-border wholesale PA tide brand 23 new broken bear palm coconut flame shark couples loose T-shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000003438/O1CN01vwH8J41bGefqyW3wN_!!6000000003438-0-tbvideo.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "930438",
+        "mallType": "T1688",
+        "itemId": "860216612015",
+        "title": "High quality 2025 spring and summer luxury tide with GU short-sleeved classic logo design loose casual G T-shirt ceiling",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000001424/O1CN011USUt81MOF0yhPRxv_!!6000000001424-0-tbvideo.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2357258",
+        "mallType": "T1688",
+        "itemId": "935896127525",
+        "title": "Cristiano Ronaldo",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CABWDl1zKMitYIZEq_!!2219639776695-0-cib.jpg",
+        "price": "¥13.80",
+        "toPrice": "$2.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219639776695",
+          "name": "铅山县壹丽服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2212065",
+        "mallType": "T1688",
+        "itemId": "946494928493",
+        "title": "UA Andromeda ice silk short-sleeved polo shirt men's summer new high-end lapel t-shirt sports quick-drying half-sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ECrvq41yOCQe8jWzL_!!2219651096568-0-cib.jpg",
+        "price": "¥57.31",
+        "toPrice": "$9.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219651096568",
+          "name": "义乌市胤颖贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2212064",
+        "mallType": "T1688",
+        "itemId": "813360899489",
+        "title": "Men's Red Star T-Shirt Short Sleeve 3D Printed T-Shirt O Neck Fitness Funny T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HdxwLM1EipqrFv8wU_!!2217566440386-0-cib.jpg",
+        "price": "¥13.90",
+        "toPrice": "$2.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217566440386",
+          "name": "铅山县泽中服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2155023",
+        "mallType": "T1688",
+        "itemId": "739886350320",
+        "title": "VLONE short-sleeved men and women with the same large V couple loose T-shirt co-branded reflective tide half-sleeves",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sNBImX1FwrVVau7qy_!!2215489100552-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215489100552",
+          "name": "汕头市澄海区颂邦服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2155003",
+        "mallType": "WD",
+        "itemId": "7451378544",
+        "title": "Cherry Blossom Short Half Sleeve Sketch Embroidery Lip Print Graffiti Print Short Sleeve T-Shirt-TOP",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-3d6700000192a3c5f77c0a232357_800_800.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1829075101",
+          "name": "CN Buy",
+          "logo": "https://si.geilicdn.com/shopedit1948390434-398e000001969fd188f50a20e7c7-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2154689",
+        "mallType": "T1688",
+        "itemId": "764444703321",
+        "title": "Zongchi Clothing Club ins American full print letters logo do old short-sleeved genderless wear high street vintage t-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lWfEDa1j7y0Zfu4Lo_!!2212873104502-0-cib.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212873104502",
+          "name": "佛山市纵驰衣社服装贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2154761",
+        "mallType": "T1688",
+        "itemId": "748709706249",
+        "title": "2024 summer new rising tide brand purple simple solid color printing gauche casual T-shirt men and women with the same paragraph",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rCTDtR1fCJHHmcnTK_!!2214320703970-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209431557532",
+          "name": "佛山市禅城区尚九潮流时装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2154758",
+        "mallType": "T1688",
+        "itemId": "868584533272",
+        "title": "2024 cross-border men's casual round neck personalized printed T-shirt men and women couple loose short sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015r4Uyi1J7nsCyRW8O_!!2217532530982-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219099645351",
+          "name": "广州墨梦服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2154690",
+        "mallType": "T1688",
+        "itemId": "891453130306",
+        "title": "M006 cotton 270G American street tide brand s English loose short-sleeved tee Men and women treasure co-branded printed T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ub0dcw22tZzpOTopw_!!2218882757178-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218882757178",
+          "name": "陆丰市东海润逸电子商务工作室（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142497821917914736",
+  "language": "en"
+}

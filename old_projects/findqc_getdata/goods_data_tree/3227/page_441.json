@@ -1,0 +1,363 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2024898",
+        "mallType": "WD",
+        "itemId": "7475227157",
+        "title": "Trendy Short Sleeves (Non refundable) - Z2-011",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfuofmlt_p22c.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746349085",
+          "name": "N.A.SHOW",
+          "logo": "https://si.geilicdn.com/shopedit1945863332-3e29000001963dc14dd20a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2475765",
+        "mallType": "WD",
+        "itemId": "7426237124",
+        "title": "Stu short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfunznh1_85tl.jpg",
+        "price": "¥93.00",
+        "toPrice": "$14.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1856566925",
+          "name": "Apple Fashion",
+          "logo": "https://si.geilicdn.com/shopedit1923367834-56e600000194f862baef0a20e7c7-unadjust_381_381.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2368866",
+        "mallType": "T1688",
+        "itemId": "961397572301",
+        "title": "批发单外贸新款运动健身跑步套装速干透气宽松日常休闲短袖短裤男",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfulps21_rf4h.jpg",
+        "price": "¥67.00",
+        "toPrice": "$10.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6tVBviJrN7xkXRp5dRYbDA",
+          "name": "广西奈思运动服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2253556",
+        "mallType": "TB",
+        "itemId": "942935842012",
+        "title": "25 Early Spring New Collection Island Style European and American Trendy Brand Solid Color Compass Armband Sweatshirt Unisex Loose Long Sleeve Crew Neck",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfnf9ptu_wldh.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "365254342",
+          "name": "欧美高街潮牌服饰",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1508288",
+        "mallType": "T1688",
+        "itemId": "900383932276",
+        "title": "Ami kmns Men's and Women's Pure Cotton Short-sleeved Loose Casual Round Neck T-shirt Summer Trendy Brand Cross-border Top",
+        "picUrl": "https://cdn.findqc.com/item/20250615/mbwirzg3_svyj.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_nVwfdBL2a1IkKL2ylljjA",
+          "name": "佛山市南海区槿音服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 135,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "2030178",
+        "mallType": "TB",
+        "itemId": "793985434521",
+        "title": "【6】Japanese Anime Series Jersey Goku Saiyan",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfuje7wq_j2kn.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "402134503",
+          "name": "球衣恋跨境球衣批发",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2426564",
+        "mallType": "T1688",
+        "itemId": "962740977670",
+        "title": "【CBD精英】三本针重磅260g长袖T恤男2025秋季新款纯色休闲打底衫",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfuje8o6_dj4a.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5Lkh_pcGC8rNqEs8VeUppA",
+          "name": "广州云茗服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2051232",
+        "mallType": "WD",
+        "itemId": "7506734037",
+        "title": "Cross border 25SS new fun Peter Rabbit series printed short sleeved T-shirt for couples, versatile",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfu4kgm9_xsy7.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858317181",
+          "name": "怀旧衣角",
+          "logo": "https://si.geilicdn.com/shopedit1966731580-22e40000019a86bf116c0a23111a-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2472952",
+        "mallType": "WD",
+        "itemId": "7526069692",
+        "title": "081224 Senshan Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfu2uq1h_doca.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1835475968",
+          "name": "海绵宝宝 Spongebob",
+          "logo": "https://si.geilicdn.com/shopedit1977362831-198b00000198b0a35df90a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2461662",
+        "mallType": "T1688",
+        "itemId": "845619052751",
+        "title": "Cross border American retro tupac printed short sleeved t-shirt Vintage loose heavyweight round neck hooded sweatshirt for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfu1fezr_xt7e.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB07dG-KZtKC2ACILWOJe8OA",
+          "name": "佛山厚米服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2266649",
+        "mallType": "TB",
+        "itemId": "964992064865",
+        "title": "25 Types of Letter Embroidered T-Shirts",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mftx8ud6_dzc1.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "140986050",
+          "name": "TOPAMIX",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67231",
+        "mallType": "WD",
+        "itemId": "6123484875",
+        "title": "Summer benefits, breathable and sweat wicking comfortable quick drying short sleeved shirt, Martin limited edition American quick drying short sleeved T-shirt 3V3 Black Monthly basketball training suit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlus6o_2c7r.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718816544",
+          "name": "空中花园",
+          "logo": "https://si.geilicdn.com/wdseller1423237814-20ad0000018a642f7be30a23136f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 124,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "246312",
+        "mallType": "WD",
+        "itemId": "7305848308",
+        "title": "【 STUS/Stu * * 】 99% of the Link3 T short sleeved shirts on the market come with an airplane box and a weight of 260 or more. ZP open version LI",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p7w22_jnqx.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850717273",
+          "name": "YOLO",
+          "logo": "https://si.geilicdn.com/wdseller1845163825-643f0000018e441273ff0a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 211,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1578340",
+        "mallType": "WD",
+        "itemId": "7458994715",
+        "title": "New Fashion Hundred Set-001-ice",
+        "picUrl": "https://si.geilicdn.com/open1705166133-1234478995-604c00000194e4c5c0c60a232357_1200_1200.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785130653",
+          "name": "SOFUN-FASHION",
+          "logo": "https://si.geilicdn.com/shopedit1950350917-59f2000001966ba9360e0a2102c5-unadjust_741_741.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2385300",
+        "mallType": "T1688",
+        "itemId": "961910913579",
+        "title": "短袖冰丝T恤男士薄款透气夏季速干衣弹力运动冰感宽松半袖t恤男式",
+        "picUrl": "https://cdn.findqc.com/item/20250919/mfqkuyfy_gt1k.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6tVBviJrN7xkXRp5dRYbDA",
+          "name": "广西奈思运动服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2471869",
+        "mallType": "TB",
+        "itemId": "895407114119",
+        "title": "2025 Summer Easy to Wear Printed Solid Color Washed Outdated Men's and Women's Summer Sports and Leisure Cotton Loose Round Neck Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mftw627b_4yu0.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "526384974",
+          "name": "Flee City逃离城市",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2011947",
+        "mallType": "T1688",
+        "itemId": "889313787523",
+        "title": "Mechao Cross-Border Hell Star Series Printed Double Yarn Pure Cotton Casual Men's and Women's Summer Loose Short-Sleeved T-Shirt t Trendy and Cool",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me083grp_043d.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDwbQPXm46TzsZxJf_yKOIg",
+          "name": "广州弘捷服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 82,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1582538",
+        "mallType": "WD",
+        "itemId": "7375198504",
+        "title": "【 High Version 】 400g Stone 24ss Autumn New Woolen Hoodie Men's and Women's Classic Badge Round Neck Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250921/mftrvv0g_2zyb.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1690402957",
+          "name": "fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate1921566546-79b9000001954de5629c0a20e2c5-unadjust_720_720.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2139102",
+        "mallType": "WD",
+        "itemId": "7494196221",
+        "title": "MM6 Magira Short Sleeve Trendy Loose Couple T-shirt Men's and Women's T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250921/mftr3g8p_as29.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1653350013",
+          "name": "Trend Stone",
+          "logo": "https://si.geilicdn.com/wdseller1965841734-63ba00000198a88251d30a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146335161911216361",
+  "language": "en"
+}

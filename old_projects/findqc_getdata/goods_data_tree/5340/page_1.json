@@ -1,0 +1,408 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1849025",
+        "mallType": "TB",
+        "itemId": "853063649129",
+        "title": "Japanese trendy brand knitted plush carpet, crochet floral design, heart type bedroom, modern and simple floor mat, cushion",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/369627773/O1CN01MFHxhs27I5hA1TllK_!!369627773.jpg",
+        "price": "¥48.88",
+        "toPrice": "$7.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60575514",
+          "name": "艺术毯",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2373762",
+        "mallType": "TB",
+        "itemId": "891979629374",
+        "title": "New NH35 dial diameter 28.5mm modified dial color bubble literal watch",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2219423564763/O1CN01hJanbD1l3VUt55D0T_!!2219423564763.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "387674933",
+          "name": "手表表盘改装配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1862980",
+        "mallType": "TB",
+        "itemId": "822771105487",
+        "title": "Export single cross Sanskrit carved black walnut Chinese antique solid wood tea cup cushion combination with shelf",
+        "picUrl": "https://cdn.findqc.com/item/20251101/mhg77zqf_hxz2.jpg",
+        "price": "¥171.00",
+        "toPrice": "$26.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106400327",
+          "name": "老罗仓库",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2660741",
+        "mallType": "TB",
+        "itemId": "742392232780",
+        "title": "French Cool Color LE CREUSET Home Insulation Mat, High Temperature Resistant Silicone Mat, Dining Table Anti Heat Mat, Pot Mat",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgq9jdm0_0nwy.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106113597",
+          "name": "weekend精选",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "458342",
+        "mallType": "TB",
+        "itemId": "777568934744",
+        "title": "DIY new logbook modification dial literally 28.5mm can be installed NH35 movement / 4R36 probe one probe two series",
+        "picUrl": "https://cdn.findqc.com/item/20250106/m5kz9ygb_mpxq.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106316112",
+          "name": "BOJALUN钟表配件",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "59775",
+        "mallType": "TB",
+        "itemId": "722328482827",
+        "title": "Japanese-Style Handmade Genuine Leather and Solid Wood Coasters, Vintage Cup Holders, Vegetable-Tanned Leather, Heat-Insulating Walnut Wood, Custom Logo",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mi2kax_39fq.jpg",
+        "price": "¥30.26",
+        "toPrice": "$4.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111633258",
+          "name": "魔法石真皮制品",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "47828",
+        "mallType": "T1688",
+        "itemId": "644550633550",
+        "title": "Scandinavian natural marble coasters coffee round anti-scald coasters square heat insulation tea coasters jewelry photos",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mg3zup_24w7.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "45106",
+        "mallType": "WD",
+        "itemId": "7171577773",
+        "title": "Whole point channel home Gift boxed New Year's good gift ysl right bank series CD vinyl coasters set Lane Crawford limited four pack gift box ins wind washable high fashion vinyl coasters a set of four box packaging",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mehzza_lvcp.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353253494",
+          "name": "大葱好虚荣二店",
+          "logo": "https://si.geilicdn.com/bj-wd-1353253494-1540818638389-1897890447_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021148510321916154310",
+  "language": "en"
+}

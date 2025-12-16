@@ -1,0 +1,396 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2332315",
+        "mallType": "T1688",
+        "itemId": "921858555069",
+        "title": "Foreign Trade Cross-Border Stock X Green Label Green Fork Anti-Adjustment Buckle X Tag Accessories Pendant Shoe Buckle Card Three-Piece Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NxdYyh23Wy4pEe4mh_!!2215703537264-0-cib.jpg",
+        "price": "¥1.80",
+        "toPrice": "$0.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVBjXYhOngSnEOdl1CB_eTA",
+          "name": "深圳市龙华区耐尅新佰伦阿迪鞋服商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2450898",
+        "mallType": "WD",
+        "itemId": "7546482940",
+        "title": "Versatile casual fashion messenger bag -eh",
+        "picUrl": "https://si.geilicdn.com/open1757144309-1234478995-373300000198747c2f9c0aa0c791_1200_1200.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "795371317",
+          "name": "darlene",
+          "logo": "https://si.geilicdn.com/weidian795371317-66db00000196fd44ee5a0a21146b_1096_1096.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2014472",
+        "mallType": "TB",
+        "itemId": "671886438214",
+        "title": "Fit Hyundai Hyundai Hyundai Rena trunk spare tire cover plate Elantra Sonata Pilot Langdang load bearing plate original car",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2131365886/O1CN01co9Iw31tLpzMeJS0L_!!0-item_pic.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113179056",
+          "name": "邻家小妃汽车用品旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "276361",
+        "mallType": "T1688",
+        "itemId": "784645518081",
+        "title": "Stock X green card green fork anti-adjustment bag buckle x tag accessories pendant shoe buckle",
+        "picUrl": "https://cdn.findqc.com/item/20241201/m44xs19n_4mkf.jpg",
+        "price": "¥3.80",
+        "toPrice": "$0.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYL47algpR6kLaMqo5a8MHA",
+          "name": "莆田市荔城区平恒鞋服店",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 173,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "71223",
+        "mallType": "TB",
+        "itemId": "674490718883",
+        "title": "Green Tag Stock X Green Cross Anti-Adjustment Buckle Anti-Theft Buckle",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mna0bc_xvpb.jpg",
+        "price": "¥2.06",
+        "toPrice": "$0.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33976102",
+          "name": "宏丰鞋服辅料包装",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "70020",
+        "mallType": "WD",
+        "itemId": "7180689361",
+        "title": "G Edition N-k Du-nk Low Series Collection Men's and Women's Casual Sneakers",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmthv1_l21f.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1633535166",
+          "name": "7PK",
+          "logo": "https://si.geilicdn.com/weidian1745918370-30780000018eda4553f50a23136f_1116_1116.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "45548",
+        "mallType": "TB",
+        "itemId": "679342363205",
+        "title": "Magic tiny particles toys leisure puzzle plastic diy building blocks 97042-50 Mahjong Van Gogh Creative Series",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3meofx8_s3am.jpg",
+        "price": "¥40.80",
+        "toPrice": "$6.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "126122085",
+          "name": "晴天积木玩具店",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114158183194368721",
+  "language": "en"
+}

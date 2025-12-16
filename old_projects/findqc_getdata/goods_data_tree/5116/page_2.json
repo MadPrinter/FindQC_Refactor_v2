@@ -1,0 +1,392 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1301342",
+        "mallType": "WD",
+        "itemId": "7291754029",
+        "title": "HANDBALL SPZL",
+        "picUrl": "https://si.geilicdn.com/pcitem901806932911-745100000192bd3d0fba0a239646_800_800.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2677508",
+        "mallType": "WD",
+        "itemId": "6980288848",
+        "title": "GD-1×TS-Low",
+        "picUrl": "https://si.geilicdn.com/pcitem901806932911-52df0000018f00e7a7f80a20e2c5-unadjust_800_800.gif",
+        "price": "¥289.00",
+        "toPrice": "$45.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2098781",
+        "mallType": "WD",
+        "itemId": "7314173202",
+        "title": "MM6 Little White Shoes\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901907625545-045800000193860adc810a8133cc-unadjust_800_800.gif",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1720950997",
+          "name": "CKT-Luxury",
+          "logo": "https://si.geilicdn.com/pccreshp413669337-21bb00000192c3c40c2c0a2396f4_736_1472.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "725411",
+        "mallType": "WD",
+        "itemId": "6969923995",
+        "title": "GD-1 HIGH",
+        "picUrl": "https://si.geilicdn.com/pcitem901806932911-68a00000018efc4ba2cf0a20e273-unadjust_800_800.gif",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2642999",
+        "mallType": "WD",
+        "itemId": "7438318598",
+        "title": "DOR Slide",
+        "picUrl": "https://si.geilicdn.com/pcitem901799735814-520100000195ec150d0e0a23057e-unadjust_800_800.gif",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "333711",
+        "mallType": "WD",
+        "itemId": "6704350241",
+        "title": "OG-3",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4l1m4nq_d9mw.jpg",
+        "price": "¥459.00",
+        "toPrice": "$72.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "329288",
+        "mallType": "WD",
+        "itemId": "6728328607",
+        "title": "DW-FOM RUNER",
+        "picUrl": "https://cdn.findqc.com/item/20241211/m4jaebmo_5j9h.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "319349",
+        "mallType": "WD",
+        "itemId": "6493722746",
+        "title": "1 Low-VT",
+        "picUrl": "https://cdn.findqc.com/item/20241209/m4g2oio1_x5nz.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 119,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2077639",
+        "mallType": "WD",
+        "itemId": "6979190675",
+        "title": "Conve 1970 H",
+        "picUrl": "https://si.geilicdn.com/pcitem901806932911-65620000018efc236a680a23041a-unadjust_800_800.gif",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1876804",
+        "mallType": "WD",
+        "itemId": "6851811908",
+        "title": "VG-Track 2.0",
+        "picUrl": "https://si.geilicdn.com/pcitem901806932911-4e950000018f00bd58890a8133cc-unadjust_800_800.gif",
+        "price": "¥479.00",
+        "toPrice": "$75.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1365104",
+        "mallType": "WD",
+        "itemId": "7440848379",
+        "title": "bestselling hXK A+",
+        "picUrl": "https://si.geilicdn.com/pcitem1944050038-43290000019609f506a00a20e273-unadjust_389_500.gif",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1717982701",
+          "name": "BestValue Buy",
+          "logo": "https://si.geilicdn.com/weidian1944050038-6f2900000198e2ae7ef60a23038e_1128_1128.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1337995",
+        "mallType": "WD",
+        "itemId": "7443565351",
+        "title": "TN MAX95",
+        "picUrl": "https://si.geilicdn.com/pcitem1944050038-79f5000001961e725d600a2303ee-unadjust_389_500.gif",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1717982701",
+          "name": "BestValue Buy",
+          "logo": "https://si.geilicdn.com/weidian1944050038-6f2900000198e2ae7ef60a23038e_1128_1128.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "466839",
+        "mallType": "WD",
+        "itemId": "5822239666",
+        "title": "PB-4",
+        "picUrl": "https://si.geilicdn.com/pcitem901806932911-0c470000018ef50112360a81347d-unadjust_800_800.gif",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "749351",
+        "mallType": "WD",
+        "itemId": "6774728897",
+        "title": "FS-Train",
+        "picUrl": "https://si.geilicdn.com/pcitem901806932911-425e0000018f05252e180a8134f0-unadjust_800_800.gif",
+        "price": "¥550.00",
+        "toPrice": "$86.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1967145",
+        "mallType": "WD",
+        "itemId": "7392772181",
+        "title": "SL low casual shoes",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm89sj_u28n.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1720950997",
+          "name": "CKT-Luxury",
+          "logo": "https://si.geilicdn.com/pccreshp413669337-21bb00000192c3c40c2c0a2396f4_736_1472.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2897151",
+        "mallType": "WD",
+        "itemId": "6837838270",
+        "title": "XA- 3XL",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjxgfpe_st4g.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "277339",
+        "mallType": "WD",
+        "itemId": "6717433330",
+        "title": "GODB-SSTR-2 ▶ [Due to the holidays, custom color matching will be shipped in about 10-15 days, please be patient]",
+        "picUrl": "https://cdn.findqc.com/item/20241201/m44s9oiu_n1sw.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 119,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "224",
+        "mallType": "WD",
+        "itemId": "6514895505",
+        "title": "DW-Sllde",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m27c2h_vl6e.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 172,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2825237",
+        "mallType": "WD",
+        "itemId": "7413619090",
+        "title": "M*u.M 530",
+        "picUrl": "https://cdn.findqc.com/item/20251029/mhaxk7t1_oin6.jpg",
+        "price": "¥490.00",
+        "toPrice": "$77.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1720950997",
+          "name": "CKT-Luxury",
+          "logo": "https://si.geilicdn.com/pccreshp413669337-21bb00000192c3c40c2c0a2396f4_736_1472.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1159341",
+        "mallType": "WD",
+        "itemId": "6718572203",
+        "title": "GODB-SSTR-4 ▶ Due to the holiday season, customized color matching will take about 10-15 days to ship. Please be patient",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgxs2dfx_y8h7.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148188092553884019",
+  "language": "en"
+}

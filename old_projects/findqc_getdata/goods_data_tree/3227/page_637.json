@@ -1,0 +1,337 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1207290",
+        "mallType": "WD",
+        "itemId": "7407040976",
+        "title": "022812 zhongshan short sleeve t-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9olee0y_3352.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1207293",
+        "mallType": "WD",
+        "itemId": "7378040309",
+        "title": "107L-30809",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9oo2nfa_hyiz.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1852329689",
+          "name": "Lemon2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1207272",
+        "mallType": "WD",
+        "itemId": "7288300090",
+        "title": "三色长谷川重磅水洗1983字母刺绣男女士情侣款宽松重工纯棉短袖",
+        "picUrl": "https://cdn.findqc.com/item/20250419/m9nride6_htdy.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710514600",
+          "name": "Ralph Lauren Supplier",
+          "logo": "https://si.geilicdn.com/weidian1464099291-6451000001937a0d00eb0a8133cc_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1207276",
+        "mallType": "WD",
+        "itemId": "7406781019",
+        "title": "XJXPCS new fashionable T-shirt-04",
+        "picUrl": "https://cdn.findqc.com/item/20250419/m9o2kodt_i9te.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1624510805",
+          "name": "Hip-Hop Panda",
+          "logo": "https://si.geilicdn.com/shopedit1900473224-100f00000193d971aef80a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1206295",
+        "mallType": "T1688",
+        "itemId": "875709544938",
+        "title": "The original label STU one piece of hair tide short-sleeved t-shirt dice letters basic paragraph parade American couple dress summer",
+        "picUrl": "https://cdn.findqc.com/item/20250419/m9nh2sqm_5wkd.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1205377",
+        "mallType": "TB",
+        "itemId": "878963482964",
+        "title": "Overseas orders tail ~ cut label withdrawal of foreign trade summer oversize cotton short-sleeved T-shirt men and women with the same paragraph tops",
+        "picUrl": "https://cdn.findqc.com/item/20250422/m9s5z0x8_yqxh.jpg",
+        "price": "¥9.99",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116636910",
+          "name": "VSFRR SKY IDCCO",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1205379",
+        "mallType": "T1688",
+        "itemId": "796606360514",
+        "title": "European version of washed old cotton loose large size large falling shoulder fashion retro heavy craft batik T-shirt for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250422/m9rwhx2h_pw7g.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFCzw3aa-HV_TXmhP8X2FLA",
+          "name": "深圳市群达服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1205376",
+        "mallType": "TB",
+        "itemId": "890290240403",
+        "title": "Overseas orders tail ~ cut the label to withdraw the foreign trade tide retro cotton short-sleeved t-shirt men and women with the same paragraph with the tops",
+        "picUrl": "https://cdn.findqc.com/item/20250422/m9s5z7sb_dyyz.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116636910",
+          "name": "VSFRR SKY IDCCO",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1205375",
+        "mallType": "TB",
+        "itemId": "861943289253",
+        "title": "Kanye Yeezy Three-Party Collaboration Peace Dove Small Logo Short-Sleeve High Street Loose Retro Unisex T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250422/m9rwvypa_9vzh.jpg",
+        "price": "¥66.99",
+        "toPrice": "$10.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "264073854",
+          "name": "潮男PENG",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1204310",
+        "mallType": "TB",
+        "itemId": "803914486547",
+        "title": "NOCTA collaboration DRAKE male duck FORZA American sports functional cotton short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250706/mcrapuse_nfdi.jpg",
+        "price": "¥158.88",
+        "toPrice": "$24.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "447469242",
+          "name": "机能战车",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1205294",
+        "mallType": "TB",
+        "itemId": "733253273034",
+        "title": "Jennie's Same Long-Sleeved Jumpsuit T-Shirt Women's Bottoming Shirt with Elastic Slimming Look Top",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9qfwv3k_r78v.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108830810",
+          "name": "aritzia羽绒",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1204320",
+        "mallType": "T1688",
+        "itemId": "870451854948",
+        "title": "2025 Summer Run Volume Trendy Brand Si Short sleeved T-shirt Dice Black Eight Ice Cream Basic Style American Couple Dress Summer P",
+        "picUrl": "https://cdn.findqc.com/item/20250531/mbc8cr9r_3vm9.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215442394186",
+          "name": "广州奇诺服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 176,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1204315",
+        "mallType": "T1688",
+        "itemId": "871323326885",
+        "title": "A trendy brand short sleeved T-shirt with dice letters, basic style for touring American couples, summer outfit",
+        "picUrl": "https://cdn.findqc.com/item/20250509/magw30uf_qg9u.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvfgAAO1YAZb7_qOJBRJSVg",
+          "name": "广州奇诺服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1203917",
+        "mallType": "WD",
+        "itemId": "7429377663",
+        "title": "💥 Factory direct sales-Fashion casual T-shirts 05",
+        "picUrl": "https://cdn.findqc.com/item/20250625/mcb5veei_la7z.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863333901",
+          "name": "PalmPulse",
+          "logo": "https://si.geilicdn.com/shopedit1918516420-5d0600000195b6f07bfb0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 133,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1203682",
+        "mallType": "TB",
+        "itemId": "902267120787",
+        "title": "Erd24Fw Prayer Portrait \"Be Careful\" Illustration Printed Portrait Washed T-Shirt Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mchv9jyk_dy90.jpg",
+        "price": "¥112.39",
+        "toPrice": "$17.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "462838309",
+          "name": "轨迹made",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1201360",
+        "mallType": "WD",
+        "itemId": "6094709589",
+        "title": "37 P Bird Joint Large Triangle Reflective Short Sleeve in Stock, Wang Yibo Same Style",
+        "picUrl": "https://cdn.findqc.com/item/20250418/m9ms233z_hdkn.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1253755126",
+          "name": "37°C TIDE SHOP",
+          "logo": "https://si.geilicdn.com/wdseller1253755126-135e00000184e699e1860a23132e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1201282",
+        "mallType": "T1688",
+        "itemId": "826739958559",
+        "title": "Off Hot Stamping Tape Printing Warlike Men's Large Size Short-Sleeved Ow Loose Round Neck Women's T-Shirt Couple White Same Style",
+        "picUrl": "https://cdn.findqc.com/item/20250418/m9mlem6a_hjb4.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAX-JC3XJI3SNjfREoGmw6g",
+          "name": "铅山县世辉家贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 85,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1199437",
+        "mallType": "TB",
+        "itemId": "896586278994",
+        "title": "Limited English washed distressed short sleeved t-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mcgxp5s7_9zk6.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107748732",
+          "name": "Singor2",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149146222553915968",
+  "language": "en"
+}

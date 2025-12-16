@@ -1,0 +1,604 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2894056",
+        "mallType": "TB",
+        "itemId": "762476507203",
+        "title": "Huaqiangbei Factory Air4 2Nd, 3Rd, 4Th, 5Th, 6Th, 7Th Generation Noise-Canceling Pods Suitable for Apple Pro2 Bluetooth Earphones Manufacturer",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/img/ibank/O1CN01h4NS671hn4SKAbkmi_!!2217182964321-0-cib.jpg",
+        "price": "¥22.83",
+        "toPrice": "$3.59",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905335",
+        "mallType": "TB",
+        "itemId": "967438609369",
+        "title": "Persimmon peanut mooncake mold 2025 new hand press household press mini 50g 75g baked goods grade",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk8upp5_1l69.jpg",
+        "price": "¥6.79",
+        "toPrice": "$1.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "193314828",
+          "name": "永佳厨具旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2903241",
+        "mallType": "WD",
+        "itemId": "7426333258",
+        "title": "Special wedian link to replace any product",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk8lpda_ckep.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1777172077",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2898485",
+        "mallType": "TB",
+        "itemId": "896123737689",
+        "title": " Blind Box Figure Foot Stickers Double-Sided Transparent Adhesive Stickers Non-Falling Glue/Stackable Storage Box Display Box Dust-Proof Box",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7xiwv_xh1f.jpg",
+        "price": "¥8.15",
+        "toPrice": "$1.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "572782347",
+          "name": "LULU盲盒潮玩店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899494",
+        "mallType": "TB",
+        "itemId": "952898403525",
+        "title": "25g75g Cartoon Handmade Mid Autumn Moon Cake Mould DIY Bean paste cake Chinese style Cake Hand pressing Mould Pineapple Crisp Mold",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk08wlm_r483.jpg",
+        "price": "¥4.99",
+        "toPrice": "$0.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "37101149",
+          "name": "每焙烘焙包装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896918",
+        "mallType": "TB",
+        "itemId": "839786104279",
+        "title": "Pudding Tart Mould Egg Tart Cylindrical Mousse Cup Cake Supplementary Food Steamed Chinese sponge cake Steamed Cake Multi purpose Silicone Baking Abrasive",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjx13gi_pdyi.jpg",
+        "price": "¥11.15",
+        "toPrice": "$1.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "353997188",
+          "name": "卡莱恩旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896042",
+        "mallType": "TB",
+        "itemId": "954532922362",
+        "title": "Cartoon Labubu Whole Body Handmade DIY Mung Bean Cake Moon Cake Hand pressed Mold Small Pineapple Crisp Mold",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjvhwcb_m07b.jpg",
+        "price": "¥5.86",
+        "toPrice": "$0.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58884572",
+          "name": "柒小梨",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1619258",
+        "mallType": "T1688",
+        "itemId": "771681507849",
+        "title": "24pcs Silicone Suction Cup Black Simple Suction Cup Stick Anti-slip Phone Case Portable Removable Cell Phone Holder Square",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01V5Xodf1Bs2vrIr6qh_!!0-0-cib.jpg",
+        "price": "¥0.24",
+        "toPrice": "$0.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217572987034",
+          "name": "东莞市硅艺科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "706",
+        "mallType": "T1688",
+        "itemId": "673585735435",
+        "title": "Cross-border New Airpo Luoda 1562A Two Three Four Generation Bluetooth Headset Five Generation pro2 Wireless TWS Noise Reduction ANC",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2goxl_6s31.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1fCp9u0HtSulYyB8tsWkmw",
+          "name": "深圳市光明区欧乐哲电子厂",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 133,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "1798316",
+        "mallType": "TB",
+        "itemId": "727510492025",
+        "title": "PALACE 19SS PAL ICE TRAY TRI-FERG Ice Box in Stock - P Triangle Logo",
+        "picUrl": "https://cdn.findqc.com/item/20250721/mdcflqms_gh3y.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "141654385",
+          "name": "墨雨堂",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1445276",
+        "mallType": "T1688",
+        "itemId": "836800013823",
+        "title": "Huaqiangbei 457 generation Air Jerry Zhongke Pods3/4 compatible with Apple Pro2 noise cancelling Bluetooth earphones cross-border",
+        "picUrl": "https://cdn.findqc.com/item/20250603/mbfcs8af_zhbb.jpg",
+        "price": "¥21.78",
+        "toPrice": "$3.42",
+        "status": "normal",
+        "categoryId": 19,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "999314",
+        "mallType": "T1688",
+        "itemId": "683117017259",
+        "title": "Huaqiangbei 1:1 Fully Functional Noise Reduction Fifth and Seventh Generation Air 4 Suitable for Apple Pods Pro2 Bluetooth Earphones",
+        "picUrl": "https://cdn.findqc.com/item/20250319/m8evb20c_9qof.jpg",
+        "price": "¥17.50",
+        "toPrice": "$2.75",
+        "status": "normal",
+        "categoryId": 19,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "402275",
+        "mallType": "TB",
+        "itemId": "596476676786",
+        "title": "Bjd Doll Full-Size Iris with Deep Pupils, Resin Eye Mold, Round Bottom Eye White Base, LAOSHU Eyeball Materials",
+        "picUrl": "https://cdn.findqc.com/item/20241228/m57y9xht_gre5.jpg",
+        "price": "¥22.58",
+        "toPrice": "$3.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "118335752",
+          "name": "Cubeco人形小物配件馆",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "181306",
+        "mallType": "TB",
+        "itemId": "14112235187",
+        "title": "mastermind japan MMJ burger key ring THE MASTER BURGER keychain",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqrgd0_tg38.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33052327",
+          "name": "Shop 70",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "62247",
+        "mallType": "T1688",
+        "itemId": "683450815080",
+        "title": "Saturn Series New White Small Jewelry Box with Logo, Second Generation Jewelry Packaging and Storage",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mizjqj_urzg.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210390994200",
+          "name": "深圳市龙岗区荞倾商贸商行",
+          "type": "T1688"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "48980",
+        "mallType": "T1688",
+        "itemId": "784800637837",
+        "title": "Acrylic red lips mouth design earrings fashion personality hip hop style earrings female",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgfz66_f45b.jpg",
+        "price": "¥2.00",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "27376",
+        "mallType": "TB",
+        "itemId": "560446854632",
+        "title": "Food-Grade Silicone Cake Mold, Thickened Swiss Roll Mat, Sushi Chiffon Baking Pan, Non-Stick Bottom Baking Tool",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nile4k_9p9w.jpg",
+        "price": "¥15.93",
+        "toPrice": "$2.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68400803",
+          "name": "铸味厨具商城",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "21909",
+        "mallType": "T1688",
+        "itemId": "762476507203",
+        "title": "Huaqiangbei Factory Air4 234567 Generation Noise Reduction Pods Suitable for Apple Pro2 Bluetooth Earphone Manufacturer",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ng3rvu_olwh.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBw4RfwmF89Gg0HI1wekV2BA",
+          "name": "深圳市龙岗区金源国鑫电子经营部",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 85,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15863",
+        "mallType": "T1688",
+        "itemId": "684715702705",
+        "title": "Empty top sun hat women face cover UV letters net red D sun hat hat lens cap full print sun hat",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ne7vj7_szn6.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "10302",
+        "mallType": "TB",
+        "itemId": "607447201887",
+        "title": "Leather Case Eyepiece Cover Microscope Eyepiece Telescope Wf10Xwf20X Accessories Rubber Ring Suitable for Szm St",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mb2929_dr1l.jpg",
+        "price": "¥3.61",
+        "toPrice": "$0.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109493561",
+          "name": "显微光电批发",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114658233249897991",
+  "language": "en"
+}

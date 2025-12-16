@@ -1,0 +1,228 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "180123",
+        "mallType": "WD",
+        "itemId": "7288408654",
+        "title": "Seasonal Clearance No Returns No Exchanges ERD24SS Bathhouse Portrait Silk Short Sleeve Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqfo8g_52hf.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858885532",
+          "name": "2December的小屋",
+          "logo": "https://si.geilicdn.com/wdseller1543338394-5bb800000185725383710a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180108",
+        "mallType": "TB",
+        "itemId": "843169085133",
+        "title": "Dragonrep C-P Jacket Hooded Goggles Windbreaker",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqfnba_1wq0.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "516216707",
+          "name": "TyphoonRep",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179833",
+        "mallType": "TB",
+        "itemId": "764590416219",
+        "title": "[in Stock] Ski 3B Reflective Padded Ski Jacket, Parka Coat, Loose Fit, Unisex",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqdrll_znro.jpg",
+        "price": "¥912.70",
+        "toPrice": "$143.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "553648748",
+          "name": "汉堡Made",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179769",
+        "mallType": "TB",
+        "itemId": "824655846966",
+        "title": "24FW Europe and the United States wind early fall star models hollow totem logo denim jacket fashion men and women straight pants",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqdb4g_1rki.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "categoryId": 11,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179768",
+        "mallType": "TB",
+        "itemId": "848963665476",
+        "title": "ALD AIME LOEN DORE SS24 reversible jacket reversible baseball cotton jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqd9pz_z0ui.jpg",
+        "price": "¥298.00",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "478341726",
+          "name": "AI Tide thing",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179460",
+        "mallType": "TB",
+        "itemId": "845808002595",
+        "title": "Clever Stoner 23SS Pima Cotton Hooded Jacket 43310",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq9n9q_yic7.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "177367",
+        "mallType": "TB",
+        "itemId": "768227628605",
+        "title": "Niche design sense of patchwork leather embroidery fall men and women denim shirt loose couple shirt with long-sleeved jacket tide",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq6bfb_812q.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "categoryId": 42,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "177354",
+        "mallType": "TB",
+        "itemId": "791975107605",
+        "title": "2025 Heavy weight New arrival for sale TAYLOR BACK navy blue gray nylon jacket stand collar Outwear",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq6707_mzt6.jpg",
+        "price": "¥468.00",
+        "toPrice": "$73.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "228832195",
+          "name": "TAYLOR BACK裁缝回归",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "177324",
+        "mallType": "TB",
+        "itemId": "817335474630",
+        "title": "Voguo Relay Korean Style Retro Blue Denim Jacket Loose and Stylish Long-Sleeve Denim Jacket Top",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq5wxz_lggh.jpg",
+        "price": "¥179.62",
+        "toPrice": "$28.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "543182892",
+          "name": "Voguo Relay 中国",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "175341",
+        "mallType": "TB",
+        "itemId": "848270604882",
+        "title": "FOG FEAR OF GOD Seventh season niche tide high street casual loose cardigan jacket fall and winter jacket man",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq2ruv_ueid.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "174322",
+        "mallType": "TB",
+        "itemId": "811601572793",
+        "title": "(Bangbang Made) Erd 24Ss Green Distressed Badge Jacket Enfants Detroit (in Stock)",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq1xdz_ss02.jpg",
+        "price": "¥699.00",
+        "toPrice": "$109.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "300311748",
+          "name": "邦邦 made",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "174280",
+        "mallType": "WD",
+        "itemId": "7005890421",
+        "title": "Barrie Reversible Coat C11",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq1fh1_p73a.jpg",
+        "price": "¥525.00",
+        "toPrice": "$82.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "165060980",
+          "name": "Patternerpp",
+          "logo": "https://si.geilicdn.com/shopedit165060980-79060000018bbd27fb150a22d246-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "173398",
+        "mallType": "TB",
+        "itemId": "752084258514",
+        "title": "Activity rebate link, cola clay dyeing and old, was 488 now 288",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq10g1_1dxv.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "349170071",
+          "name": "MADEBYSWAG1",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147384412553894717",
+  "language": "en"
+}

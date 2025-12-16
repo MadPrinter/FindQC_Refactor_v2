@@ -1,0 +1,356 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "987728",
+        "mallType": "WD",
+        "itemId": "7386674813",
+        "title": "SP5 Sweatshirt Collection Set",
+        "picUrl": "https://si.geilicdn.com/pcitem1907900548-10c000000194e617f2890a210139-unadjust_797_798.png",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1644229429",
+          "name": "SHOP",
+          "logo": "https://si.geilicdn.com/pcdecorate1907900548-2019000001951892838f0a239846-unadjust_563_563.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2835896",
+        "mallType": "WD",
+        "itemId": "7573606825",
+        "title": "Essentials-SS22 - Flocked printed front and back pullover hooded sweatshirt HOODIE",
+        "picUrl": "https://si.geilicdn.com/open1780109907-1780109907-504200000199ece22b170a22d249_885_885.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780109907",
+          "name": "LunaTrade",
+          "logo": "https://si.geilicdn.com/shopedit1999873750-6f7d00000199e6dc040f0a8134f0-unadjust_800_600.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 132,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2794836",
+        "mallType": "T1688",
+        "itemId": "893805831559",
+        "title": "Cross-border sweater men's stand-up collar cardigan long-sleeved 2025 fall new fashion trend large size loose casual long-sleeved",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0184ssoU1lvYEbRJcRa_!!2219346614881-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219346614881",
+          "name": "上饶市舒意服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2608928",
+        "mallType": "WD",
+        "itemId": "7558570457",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1798016725-1234478995-449300000192efe7a7100a210298_800_1200.jpg",
+        "price": "¥311.85",
+        "toPrice": "$49.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1690057923",
+          "name": "Dark Side",
+          "logo": "https://si.geilicdn.com/pcdecorate1979907207-42690000019951fee9aa0a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2606646",
+        "mallType": "WD",
+        "itemId": "7521555064",
+        "title": "High Quality Sweatshirt Set",
+        "picUrl": "https://si.geilicdn.com/open1801848893-1234478995-1e4c00000198741747240a8115c2_1200_1200.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801848893",
+          "name": "OSAKA",
+          "logo": "https://si.geilicdn.com/shopedit1958133466-73aa0000019a348fb8080a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2424228",
+        "mallType": "T1688",
+        "itemId": "920972451373",
+        "title": "Corteiz Terry Collection Series Letter Embroidered Hooded Zipper Sweatshirt Trendyy Casual Sweatpants for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01e3WIeA1igUOr6fKYz_!!2214078924442-0-cib.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzrn2Pmluz8jzmBiHr6u0oA",
+          "name": "广州懒漫人生服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2424675",
+        "mallType": "WD",
+        "itemId": "7445255335",
+        "title": "【DX23】New Fashion Letter Graffiti Clothes and Pants",
+        "picUrl": "https://si.geilicdn.com/pcitem901862111834-5eef00000192d115e2650a22d172_800_800.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1687670541",
+          "name": "Super-We",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424363-395c00000195e72bcda10a20e273-unadjust_626_626.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2242548",
+        "mallType": "WD",
+        "itemId": "7513685928",
+        "title": "Bu Plaid Hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1910531722-04a100000196add643db0a23111a_3418_4448.jpg",
+        "price": "¥127.00",
+        "toPrice": "$19.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1821957629",
+          "name": "Factory store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2242541",
+        "mallType": "WD",
+        "itemId": "7530944567",
+        "title": "Flying Man with Velvet Coat",
+        "picUrl": "https://si.geilicdn.com/wdseller901935754251-498700000198d4b1ba200a811411_1170_1170.jpg",
+        "price": "¥83.00",
+        "toPrice": "$13.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2057796",
+        "mallType": "WD",
+        "itemId": "7299782348",
+        "title": "Casual Bottom Shirt Pullover Round Neck Sweatshirt 2024 Fall New 11",
+        "picUrl": "https://si.geilicdn.com/open1778595797-1234478995-284a0000019301ea27490a210298_800_800.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1778595797",
+          "name": "Trendy brand store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1881204",
+        "mallType": "WD",
+        "itemId": "7297746677",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/pcitem1799783535-28990000018f76421fa30a20e2c5_1920_1920.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1628294393",
+          "name": "LLL",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-41c30000018f93b4a0620a22d172-unadjust_604_604.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1524286",
+        "mallType": "WD",
+        "itemId": "7387258700",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1828016549-252808396-597f00000194c2bf22210a8133b5_2000_2000.jpg",
+        "price": "¥450.00",
+        "toPrice": "$70.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1688018469",
+          "name": "胡奥",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1168178",
+        "mallType": "T1688",
+        "itemId": "883488451651",
+        "title": "Autumn and winter velvet Paul Pony embroidered solid color hoodie men's casual pure cotton hooded zipper cardigan jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GDaO1D1yLS1082XJE_!!2219068936562-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 185,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1168210",
+        "mallType": "T1688",
+        "itemId": "859342892869",
+        "title": "Embroidered pony logo fleece cardigan zipper sweatshirt men's spring and autumn hooded jacket with pants set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01b9s5Dq1Rh5PoKq1p5_!!2217560922142-0-cib.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoCztABgf8qyBRdI8vc321w",
+          "name": "上饶市禄瑶电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 277,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "987325",
+        "mallType": "T1688",
+        "itemId": "847173908827",
+        "title": "SS23BACK APPLIQUE HOODIE new hat embroidery letters LOGO high street retro zipper sweater",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000005074/O1CN01hy61X81nLwdamq2Vu_!!6000000005074-0-tbvideo.jpg",
+        "price": "¥87.00",
+        "toPrice": "$13.68",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "983524",
+        "mallType": "WD",
+        "itemId": "7401852065",
+        "title": "【 DX19 】 Hoodie 666-Re",
+        "picUrl": "https://si.geilicdn.com/open1791080881-252808396-6dfa0000019014afa4020aa0233d_1080_1080.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1402906147",
+          "name": "Reenos",
+          "logo": "https://si.geilicdn.com/shopedit1402906147-3c15000001953bad21720a20e7c7-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "805441",
+        "mallType": "TB",
+        "itemId": "866995763273",
+        "title": "25 year new sports hooded jacket sweatshirt air layer cotton zipper jacket autumn orange pressed rubber jacket set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2212201090857/O1CN01y2xL5Y1ICYS2Ub5Lw_!!2212201090857.jpg",
+        "price": "¥231.76",
+        "toPrice": "$36.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "308640679",
+          "name": "小艾Windrunner",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "636438",
+        "mallType": "TB",
+        "itemId": "880366807958",
+        "title": "New American Denim Tears Camouflage Kapok Zipper Cardigan Sweatshirt Hoodie Camouflage Casual Loose",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3451721578/O1CN01cOZqtd1NWm1NnYjME_!!3451721578.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "520847650",
+          "name": "超特价经营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "805336",
+        "mallType": "WD",
+        "itemId": "4422070594",
+        "title": "Sweatshirt Autumn New Round Neck Embroidered LOGO Casual Versatile Sports Hoodie Unisex Trendy 883",
+        "picUrl": "https://si.geilicdn.com/pcitem981500612-77e80000017bf7035f840a20e35c_800_800.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "981500612",
+          "name": "小不点456",
+          "logo": "https://si.geilicdn.com/pcdecorate1992191740-133900000199677e59990a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143291171911103642",
+  "language": "en"
+}

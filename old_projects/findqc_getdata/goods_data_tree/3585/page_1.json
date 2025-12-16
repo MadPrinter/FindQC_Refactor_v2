@@ -1,0 +1,408 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3150150",
+        "mallType": "WD",
+        "itemId": "7289745044",
+        "title": "阿玛泥同款3针外套男士羊驼毛 入冬必选 羊毛混纺毛衣 4.2支粗针毛织 含32%羊驼毛 厚款 多口袋设计+LOGO刻字扣 2025年新款 G2421055861",
+        "picUrl": "https://si.geilicdn.com/pcitem901645523796-0b7b0000019299d3d75c0a2301b4_1200_1200.jpg",
+        "price": "¥499.00",
+        "toPrice": "$78.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791660632",
+          "name": "梦想港湾 精品服饰",
+          "logo": "https://si.geilicdn.com/pcdecorate901645523796-1cc50000018011542f190a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2672624",
+        "mallType": "T1688",
+        "itemId": "775507398022",
+        "title": "Cross-Border Stone Ghost Series Stone Splicing Pocket Pullover Knitwear Casual Pullover Knitwear for Men and Women Trendy",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FrVTeL28poKriebx7_!!2217600167982-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRYDOTNQrnwK0239R3_e3Vg",
+          "name": "广州晴娜服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1923629",
+        "mallType": "T1688",
+        "itemId": "849161224317",
+        "title": "European and American Cross-border Internet Popular Brand Zipper Cardigan Men's and Women's Knitted Hooded Jacket Personalized Simple All-match Warm Sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Po8TUH1wltcteAy54_!!2217468556349-0-cib.jpg",
+        "price": "¥91.50",
+        "toPrice": "$14.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAfpiDOjwZzku76IlqNhgdw",
+          "name": "深圳特赛奥电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1203299",
+        "mallType": "TB",
+        "itemId": "813761256134",
+        "title": "Embroidery Knitted Shirts for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250607/mbm98731_yn49.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112021994",
+          "name": "YUPO STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1175349",
+        "mallType": "TB",
+        "itemId": "843826138507",
+        "title": "JCAESAR DAMAGED SWEATER battle damaged sweater, naturally damaged, worn, grain velvet texture, short width",
+        "picUrl": "https://cdn.findqc.com/item/20250417/m9kqei9q_5jbz.jpg",
+        "price": "¥349.00",
+        "toPrice": "$54.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "175282967",
+          "name": "JCAESAR STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "37851",
+        "mallType": "T1688",
+        "itemId": "775302791810",
+        "title": "Europe and the United States men's casual knitted cardigan summer cool hollow short-sleeved men's shirt solid color men's white tops",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nlq7uc_9nst.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36690",
+        "mallType": "TB",
+        "itemId": "726095892766",
+        "title": "[Four Stitches Series] Four Stitches Military Green Stand Collar Zipper Knitted Wool Cardigan Jacket for Men",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkzqel_3d32.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "208319214",
+          "name": "AMIGO CHINA",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "27543",
+        "mallType": "TB",
+        "itemId": "712945140038",
+        "title": "Men's Casual Thin Short-Sleeved Shorts Set for Outdoor Wear Men's Shorts Short Sleeve Set",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nimqg1_mquw.jpg",
+        "price": "¥78.15",
+        "toPrice": "$12.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "235393563",
+          "name": "Happy shopping supermarket",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021142332961913203057",
+  "language": "en"
+}

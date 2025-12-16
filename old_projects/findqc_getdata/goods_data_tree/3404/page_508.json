@@ -1,0 +1,307 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "302360",
+        "mallType": "WD",
+        "itemId": "7287398614",
+        "title": "Autumn and winter casual fashion hooded sweatshirt, sweatpants, down jacket YHH01",
+        "picUrl": "https://cdn.findqc.com/item/20241204/m48wzwn2_dgej.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672216213",
+          "name": "Crazy Koala",
+          "logo": "https://si.geilicdn.com/shopedit1897196691-072e000001928fa9890e0a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 96,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "302349",
+        "mallType": "WD",
+        "itemId": "7294300505",
+        "title": "Cotton blossom loose casual hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241204/m48un1cv_wios.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1740512853",
+          "name": "happy time",
+          "logo": "https://si.geilicdn.com/shopedit1900256189-196800000192a8b98b1c0a20e2c5-unadjust_352_352.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "296346",
+        "mallType": "T1688",
+        "itemId": "726587408507",
+        "title": "Cross-border foreign trade wholesale off hooded sweatshirt ow tide sketch line astronaut arrow men and women pullover jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m46uchin_gda1.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "296319",
+        "mallType": "T1688",
+        "itemId": "775980996474",
+        "title": "25 Spring Couple Casual Sports Color blocked Hoodie Jacket Zipper Hoodie Cross border Couple Style",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m46mrjiq_21sx.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217563886143",
+          "name": "常熟市莫城街道三棵柳服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "296306",
+        "mallType": "T1688",
+        "itemId": "741350172167",
+        "title": "23SS cross-border tide chrome Hearts Chrome Hearts letter graffiti hooded sweatshirt high street men's and women's hoodies",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m46f6due_ha9j.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "296302",
+        "mallType": "T1688",
+        "itemId": "836584870333",
+        "title": "Nocta Series Joint Model Small Hook Logo Silicone Printed Casual Hooded Sweatshirt Nocta Sweatshirt Fleece-Lined",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m46cs6zj_rs38.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRloWw5Q0CpxglLdPnuje3A",
+          "name": "武汉市东西湖区尚美服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 168,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "296284",
+        "mallType": "WD",
+        "itemId": "7257291904",
+        "title": "240822 zhongshan",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m4684yhr_b3ru.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "296282",
+        "mallType": "T1688",
+        "itemId": "688021162981",
+        "title": "Air Jd 6x Travis Scott Co-Branded Patchwork Print TS Cactus Embroidered Hooded Sweatshirt Padded",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m4683omv_o4it.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214425623953",
+          "name": "广州奕辰国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 55,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "296275",
+        "mallType": "WD",
+        "itemId": "6794739039",
+        "title": "American fashion brand STUSSY towel embroidered hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m4668von_wc9r.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "294273",
+        "mallType": "T1688",
+        "itemId": "751697527638",
+        "title": "Cross-Border Foreign Trade Trendy Brand Chest Letter Embroidery Classic Small Label Embroidery Loose Hooded Sweatshirt for Men and Women Couples",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m464gu7c_ujaz.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJQs5eNm3_2Su40BzgVMlKg",
+          "name": "海丰县艺了个潮服装店",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 59,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "286302",
+        "mallType": "T1688",
+        "itemId": "754753490744",
+        "title": "21SS Correct Chrome Hearts Matty Graffiti Flame Crucifix Arms Hooded Sweatshirt for Couples",
+        "picUrl": "https://cdn.findqc.com/item/20241201/m45rhyz5_tyne.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "286278",
+        "mallType": "T1688",
+        "itemId": "818956816080",
+        "title": "Scan code/export single Ralph Xiaoma logo unisex RL hoodie jacket hooded top for sports and leisure",
+        "picUrl": "https://cdn.findqc.com/item/20241201/m45ntd9b_dcwb.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHtfB0EtLf0IDwWJA44tSEA",
+          "name": "杭州余杭及可服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 164,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "284234",
+        "mallType": "TB",
+        "itemId": "837598640332",
+        "title": "Trendy Chuanjiu Men's and Women's Couple Styles Play Heart Hooded Sweatshirt Fleece-lined thickened Cardigan Zipper Bowling Outwear Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241203/m48cmr3v_vlm1.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110795552",
+          "name": "潮牌冠军品牌卖店",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283842",
+        "mallType": "TB",
+        "itemId": "687510501851",
+        "title": "Angel Letter Print Heavyweight Hooded Sweatshirt American Retro Street West Coast Lazy Style Tops for Men and Women Couples",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m474ektl_3w3x.jpg",
+        "price": "¥89.90",
+        "toPrice": "$14.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "190576232",
+          "name": "Call me宝藏店",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283484",
+        "mallType": "T1688",
+        "itemId": "737557646375",
+        "title": "Correct Version Gallery Dept Autum Tie-Dye Zipper Cardigan Sweatshirt High Street Retro Loose Hooded Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m4738j2m_hep3.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxbzIaBI73f3IZfjju3i7Jw",
+          "name": "高安市壹朵电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283444",
+        "mallType": "TB",
+        "itemId": "849723901490",
+        "title": "Saint Alexander hoodie set loose straight tube European and American celebrity style hip-hop rap casual solid color",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m46mdcim_ln8w.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "353881675",
+          "name": "星马豪的冲锋号Tang",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283476",
+        "mallType": "T1688",
+        "itemId": "745115680584",
+        "title": "European and American hip-hop rap trendy brand TRAVIS co-branded m hoodie sweater lovers coat T SCOTT trousers",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m471ychp_h60d.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkZQhHOnAqRbgkwSQM3RUng",
+          "name": "广州奕辰国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148206921913208720",
+  "language": "en"
+}

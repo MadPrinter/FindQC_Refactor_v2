@@ -1,0 +1,376 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2085075",
+        "mallType": "T1688",
+        "itemId": "895972091767",
+        "title": "Gipsophila Silicone Stereo Backpack Male and Female Student Bag Travel Backpack Sports Schoolbag Senior high school Student Schoolbag",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ifjVaZ1mSz9IKH1GD_!!2204410194954-0-cib.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKx4HgFN56B5esqjwX-pBRQ",
+          "name": "保定白沟新城贯全箱包厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902295",
+        "mallType": "TB",
+        "itemId": "769230859314",
+        "title": "Laptop Sleeve 14inch Suitable for MacBook Air/Pro 13inch Anti-Drop and Shockproof Apple iPad Pro11 Portable Protective Case Huawei Lenovo Xiaoxin Pro15.6 Computer Bag",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk52f2f_q7g4.jpg",
+        "price": "¥15.57",
+        "toPrice": "$2.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "446937016",
+          "name": "outer shell元素",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843922",
+        "mallType": "TB",
+        "itemId": "841934362916",
+        "title": "Expedited large came 13L generation ditch 880 outdoor lightweight waterproof double zipper large capacity shoulder armpit bag",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1657099032/O1CN015liwAe2GaiHDQ0hM1_!!1657099032.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103334092",
+          "name": "Shylie Toffee",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2646091",
+        "mallType": "T1688",
+        "itemId": "714899490559",
+        "title": "Fashion Hot Selling Cross Garden Apron High Quality Workwear Canvas Tool Apron Amazon Custom logo Apron",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgrr33a1_9p2z.jpg",
+        "price": "¥48.60",
+        "toPrice": "$7.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBLl9SEMtsg-MKnUK0HZqxw",
+          "name": "南通恒狮纺织科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2357217",
+        "mallType": "TB",
+        "itemId": "737168156680",
+        "title": "Wang Jiaer's same large nylon wandering cow horn bag, casual and lazy style, adjustable diagonal span",
+        "picUrl": "https://cdn.findqc.com/item/20250908/mfazty8d_8urj.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "534578763",
+          "name": "7777777 Studios",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "43749",
+        "mallType": "TB",
+        "itemId": "672523446180",
+        "title": "22Ss Kapital Hirata Kazuhiro Japanese Style Two-Tone Cotton and Linen Paisley Patchwork Unisex Crossbody Bag",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3me0v86_3aou.jpg",
+        "price": "¥138.34",
+        "toPrice": "$21.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "565030055",
+          "name": "SNOOPY工作室",
+          "type": "TB"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114601779249899620",
+  "language": "en"
+}

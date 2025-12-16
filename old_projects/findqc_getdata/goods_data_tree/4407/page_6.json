@@ -1,0 +1,337 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "200605",
+        "mallType": "TB",
+        "itemId": "593562359874",
+        "title": "Pok é mon English 151 Special Edition PTCG Traditional Chinese Version Pok é mon Dark Flame Zhu EX Enhanced Expansion Pack",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ofx30e_shjx.jpg",
+        "price": "¥27.89",
+        "toPrice": "$4.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "130708408",
+          "name": "桌游卡牌屋",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200398",
+        "mallType": "TB",
+        "itemId": "842585910674",
+        "title": "【Games Warehouse】Worms: The Board Game",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3odixw9_wcz6.jpg",
+        "price": "¥525.00",
+        "toPrice": "$82.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "124169618",
+          "name": "桌游秘库",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200281",
+        "mallType": "TB",
+        "itemId": "688716934047",
+        "title": "Pok é mon Card Vmax Pok é mon Card Super Evolution Fire Dragon Vstar Crack Seat English Flash Card Book",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3obutva_odc2.jpg",
+        "price": "¥19.90",
+        "toPrice": "$3.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "124335269",
+          "name": "壹家卡牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "199434",
+        "mallType": "TB",
+        "itemId": "831871872708",
+        "title": "Clank!: Catacombs – Lairs & Lost Chambers（Import）",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nvis3w_1f3c.jpg",
+        "price": "¥225.00",
+        "toPrice": "$35.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "124169618",
+          "name": "桌游秘库",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "181020",
+        "mallType": "TB",
+        "itemId": "745687876845",
+        "title": "【Doujuer Cards】Pokémon Cards Ptcg Official Pokémon Sv2A Japanese Version Ar Single Card Japanese Version 151",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqoom5_d8vq.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "228237347",
+          "name": "豆汁儿卡牌小屋",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "181019",
+        "mallType": "TB",
+        "itemId": "770177689730",
+        "title": "[fermented sour milk made from ground mung bean wow gold Er Card] Baokemeng Card PTCG Japanese SV2a Kokand SR Card 151 Yusanjia Single Card",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqolmd_igco.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "228237347",
+          "name": "豆汁儿卡牌小屋",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "154365",
+        "mallType": "TB",
+        "itemId": "759204039911",
+        "title": "Pokémon Traditional Chinese Card Black Flame Overlord Zhu Ex Flash Card Pokémon Sun English Booster Pack",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpoy1s_d63x.jpg",
+        "price": "¥46.90",
+        "toPrice": "$7.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "313444033",
+          "name": "七彩恐龙的小店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "66657",
+        "mallType": "TB",
+        "itemId": "751322774101",
+        "title": "Pokémon Collectible Card Game Genuine PTCG Simplified Chinese 4.0 Intense Ink Lai Indigo Fat Packs Supplemental Packs",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlod0a_wwqc.jpg",
+        "price": "¥154.00",
+        "toPrice": "$24.22",
+        "status": "normal",
+        "categoryId": 17,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "64318",
+        "mallType": "TB",
+        "itemId": "742488358630",
+        "title": "Ptcg Pokémon Trading Card Game 4.0 Simplified Chinese Sword and Shield Rich Color Indigo Supplement Pack",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjpx0c_a9a0.jpg",
+        "price": "¥459.00",
+        "toPrice": "$72.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103001115",
+          "name": "小蜜蜂玩具铺",
+          "type": "TB"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "64118",
+        "mallType": "TB",
+        "itemId": "743447310034",
+        "title": "Sanctuary City Pokémon PTCG Cards Jane Zhong Genuine Sword & Shield 4.0 Mega Charcoal Mountain V Full Map SR",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjnplw_187b.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "61414",
+        "mallType": "TB",
+        "itemId": "759219454349",
+        "title": "Pokémon Ancient Battle Ptcg Simplified Chinese 5.0 Mauji Fat Box Original Box",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mir9fi_nal6.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "143041529",
+          "name": "墩墩卡店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "58136",
+        "mallType": "TB",
+        "itemId": "700070744638",
+        "title": "Sacred City Pokémon PTCG Cards Jane Zhong Genuine Banki Lass Hook Eye GX SR TT Hand-painted",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqf03r_w5pl.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "58140",
+        "mallType": "TB",
+        "itemId": "776634540783",
+        "title": "Endgame Dance Pokémon Trading Card Game 6.5 Ptcg Simplified Chinese Official Sword & Shield Card Booster Pack",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqf0vp_1v22.jpg",
+        "price": "¥176.00",
+        "toPrice": "$27.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "452410942",
+          "name": "韵格玩具",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "57576",
+        "mallType": "TB",
+        "itemId": "765599090393",
+        "title": "Pokémon Cards PTCG Janeaka Phaedra Gold Energy Advancement Box Phaedra Gold Basic Box",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nq8clr_908i.jpg",
+        "price": "¥588.00",
+        "toPrice": "$92.46",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55941",
+        "mallType": "TB",
+        "itemId": "763254137612",
+        "title": "Pokémon Cards Fire Breathing Dragon Gift Box PTCG Genuine Tide Play New Year's Gift",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npf86m_m301.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "143041529",
+          "name": "墩墩卡店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55061",
+        "mallType": "TB",
+        "itemId": "730762999672",
+        "title": "Pikachu Pokémon Cards Pokemon Cards English Edition 360 sheets per box pokemon non-genuine",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3noxnu9_4c4u.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "53313",
+        "mallType": "TB",
+        "itemId": "788568167247",
+        "title": "Pokémon Gold Pikachu card deck fire-breathing dragon vmax Pokémon pokemon ptcg English flashcards",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ncdk46_nffs.jpg",
+        "price": "¥33.80",
+        "toPrice": "$5.31",
+        "status": "normal",
+        "categoryId": 17,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "52753",
+        "mallType": "TB",
+        "itemId": "786958655126",
+        "title": "Ptcg Simplified Chinese Pokémon Card 6.5Th Edition Final Flame Dance Eevee Display Aceyrola Card Album Card Holder",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nny8qa_2y7n.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62055678",
+          "name": "中国早晨卡牌及周边",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "51938",
+        "mallType": "TB",
+        "itemId": "749287366762",
+        "title": "Sanctuary City Pokémon PTCG Cards Janaka Genuine Sun, Moon and Globe Gift Box Shining Fantasy Color Violation",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nn2b9d_qxhc.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "categoryId": 25,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "49673",
+        "mallType": "TB",
+        "itemId": "812726801790",
+        "title": "Pok é mon Collection Replacement Card PTCG Simplified Chinese Genuine Shadow Capture 7.5 Enhancement Pack Card Pack",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgo5xp_iorn.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "181406760",
+          "name": "浩硕PTCG卡牌",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146111552553928865",
+  "language": "en"
+}

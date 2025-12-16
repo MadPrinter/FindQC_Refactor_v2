@@ -1,0 +1,107 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "19233",
+        "mallType": "WD",
+        "itemId": "7236410560",
+        "title": "@d Campus 00S",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfay7p_h2z1.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812255049",
+          "name": "888VIP-SNKRS",
+          "logo": "https://si.geilicdn.com/pcdecorate1816621089-76180000018cef01570f0a239737-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "19035",
+        "mallType": "WD",
+        "itemId": "7261062374",
+        "title": "OW",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nf8jbf_jedf.jpg",
+        "price": "¥400.00",
+        "toPrice": "$62.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614216041",
+          "name": "Cool Kicks",
+          "logo": "https://si.geilicdn.com/wdseller1833424671-32e40000018d69a4252f0a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "18523",
+        "mallType": "WD",
+        "itemId": "7241935498",
+        "title": "[HY] A1R FORCE 1'07",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nf3fui_ox7n.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812255049",
+          "name": "888VIP-SNKRS",
+          "logo": "https://si.geilicdn.com/pcdecorate1816621089-76180000018cef01570f0a239737-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "18382",
+        "mallType": "WD",
+        "itemId": "5673673366",
+        "title": "H56CN Jordan 4 Retro Kaws-930155-003",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nf1dyl_ykep.jpg",
+        "price": "¥560.00",
+        "toPrice": "$88.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1753723858",
+          "name": "CNFactory2",
+          "logo": "https://si.geilicdn.com/shopedit1598594944-142f0000018617b347180a2313a2-unadjust_123_123.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "17755",
+        "mallType": "WD",
+        "itemId": "7241324519",
+        "title": "FN3695-001",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3neu68p_mxoa.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "160885222",
+          "name": "Budgetshoes",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145136821930822780",
+  "language": "en"
+}

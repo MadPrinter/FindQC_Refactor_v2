@@ -1,0 +1,642 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2151545",
+        "mallType": "T1688",
+        "itemId": "865409484128",
+        "title": "08 models of fall and winter new large 䳘 down jacket vest collar sleeveless shoulders couple models jacket men and women Canada",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015HDVeK2L3nuTx1kLH_!!2219046209637-0-cib.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219046209637",
+          "name": "阜阳市颍泉区好旺角贸易行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2465854",
+        "mallType": "WD",
+        "itemId": "7298677138",
+        "title": "***************",
+        "picUrl": "https://si.geilicdn.com/pcitem1810691551-0d8a00000190caa920aa0a231316_1440_1080.jpg",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3060736",
+        "mallType": "TB",
+        "itemId": "994672997178",
+        "title": "[2025 Goose] Goose My down Jacket Goose down My",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1094137104/O1CN01CP9gi222LgkvkVY5K_!!1094137104.png",
+        "price": "¥979.47",
+        "toPrice": "$154.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155279124",
+          "name": "WOOYOUNGMI",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2055425",
+        "mallType": "T1688",
+        "itemId": "955375429095",
+        "title": "New Model Large Goose Correct Version Large Pocket High-End Couple Parka Thickened Hooded Windproof Warm Jacket for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgqsfn2u_qnpn.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJq9ItVaR574gmwIYWF3euQ",
+          "name": "佛山市南海区亨瑞跨境服装贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 505,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "227230",
+        "mallType": "T1688",
+        "itemId": "758642312573",
+        "title": "High Version Plaid Hooded American Version 1996 Down Cotton-padded Jacket Men's Thickened Windproof Bread Clothing Women's Warm Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241122/m3rt1znb_0zgh.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBMlFtZ411CqfM1mjZmEddCg",
+          "name": "广州战地服装贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 191,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "58",
+        "mallType": "WD",
+        "itemId": "4440111263",
+        "title": "Nine colors (15 new colors added) 1996 down and cotton jacket comes standard with a genuine tote bag made of high-quality down cotton, full and elastic with excellent resilience. Imported machine, precision embroidery, factory customized zipper, 15 new colors added",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m1z4v0_t8vw.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672784288",
+          "name": "老熟人：批发零售",
+          "logo": "https://si.geilicdn.com/weidian1424843450-22fa0000016a820f46570a21924a_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 584,
+        "qcVideoCnt": 7,
+        "picWidth": "1170",
+        "picHeight": "780"
+      },
+      {
+        "id": "1800864",
+        "mallType": "WD",
+        "itemId": "7511151286",
+        "title": "CNXJXPCS New Fashion Versatile Set - N * i * ke",
+        "picUrl": "https://si.geilicdn.com/open491195045-1234478995-7c91000001981349db140a8115c2_1080_1080.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "491195045",
+          "name": "Puffbuy",
+          "logo": "https://si.geilicdn.com/shopedit491195045-566d00000193bedae2e80a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3052009",
+        "mallType": "WD",
+        "itemId": "7592017923",
+        "title": "TNF北面经典冲锋衣1990",
+        "picUrl": "https://si.geilicdn.com/pcitem1944731932-35f70000019951d57d080a23038e_1074_1074.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1817566685",
+          "name": "CNMADE",
+          "logo": "https://si.geilicdn.com/weidian1957208570-15360000019a19f9de920a8134f0_1132_1132.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3060011",
+        "mallType": "WD",
+        "itemId": "7596778481",
+        "title": "bm 保暖羽绒服时尚外套冲锋衣",
+        "picUrl": "https://si.geilicdn.com/open1639646819-1234478995-19c90000019a5e87d4640aa081c2_800_800.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639646819",
+          "name": "FeiShow",
+          "logo": "https://si.geilicdn.com/shopedit1989019387-686a0000019928313d660a23047e-unadjust_638_638.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2601579",
+        "mallType": "T1688",
+        "itemId": "857850726827",
+        "title": "North Face Down Jacket 1996 American Edition Men's and Women's Same 90 White Duck Down 700 Puff Embroidered Coat Winter Putian High Version\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GXYgfc1EXNzajMa7L_!!2217983470361-0-cib.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmEaUuA9VOSnCjFTfbS6pCA",
+          "name": "莆田市城厢区刘小林虎鞋服商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2810269",
+        "mallType": "WD",
+        "itemId": "7552076394",
+        "title": "High quality down jacket 008",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-34a000000195db999f040aa0834c_1200_1200.jpg",
+        "price": "¥394.80",
+        "toPrice": "$62.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1865721389",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3043193",
+        "mallType": "WD",
+        "itemId": "7506712473",
+        "title": "高品质鞋015-XW",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-63d800000195d6a7c5aa0a8115c2_1200_1200.jpg",
+        "price": "¥257.04",
+        "toPrice": "$40.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645901725",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2110061",
+        "mallType": "T1688",
+        "itemId": "945344715409",
+        "title": "Factory direct cross-border high version canada trillium goose down jacket women's medium-length parka",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hBtgoP1RG44eRLZXa_!!2219999892083-0-cib.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219999892083",
+          "name": "广州唯蒙服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2659197",
+        "mallType": "T1688",
+        "itemId": "864793382342",
+        "title": "Putian High Version Beijia American Version 1996 Down Jacket Men's and Women's 700 Peng Bread Clothes Embroidered Couple's Coat Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgld1abd_wrzl.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByByVQ4A7Fx8AOWviF1W-Rw",
+          "name": "阜阳市颍泉区米兰到位贸易行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1988086",
+        "mallType": "T1688",
+        "itemId": "942939797343",
+        "title": "In-Stock Cross-Border Foreign Trade Winter Goose down Vest Unisex Sleeveless Vest Classic Style Warm Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfvaji8j_3p9b.jpg",
+        "price": "¥83.90",
+        "toPrice": "$13.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiIbQr-Ds9iPOQwTgfmO14g",
+          "name": "广州婉勤贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 514,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "3004550",
+        "mallType": "WD",
+        "itemId": "7585420831",
+        "title": "Double Eleven Welfare Shen Min'er Same Style North Multi Pocket Logo Velcro Work Clothes Hooded Down Jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem727423186-1bb70000019a2dd552c60a2103bd_1080_1080.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "727423186",
+          "name": "REP Emperor",
+          "logo": "https://si.geilicdn.com/wdseller727423186-6f0400000198118992270a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1789328",
+        "mallType": "WD",
+        "itemId": "7278295501",
+        "title": "1995",
+        "picUrl": "https://si.geilicdn.com/wdseller1891614120-584d000001922a962bb80a2102c5_800_800.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1032287",
+        "mallType": "WD",
+        "itemId": "3098962121",
+        "title": "[Counter models] new 1996 North down cotton jacket men and women jacket jacket thickened cotton M-XXL",
+        "picUrl": "https://si.geilicdn.com/pcitem1328474753-7f0e000001955a4456b90a239846-unadjust_750_750.png",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1328474753",
+          "name": "小兔子外贸（北面）",
+          "logo": "https://si.geilicdn.com/shopedit1328474753-78da0000019988fcab320a210139-unadjust_650_650.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2915898",
+        "mallType": "WD",
+        "itemId": "7539084961",
+        "title": "bm feather duck down waterproof windproof long sleeve warm jacket spreadsheet.help/",
+        "picUrl": "https://si.geilicdn.com/open1759839533-1234478995-79e5000001986b5000780a231226_1080_1080.jpg",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1623462477",
+          "name": "TrendBound",
+          "logo": "https://si.geilicdn.com/shopedit1926420298-21af00000198d55ba77a0a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2725472",
+        "mallType": "WD",
+        "itemId": "7554776005",
+        "title": "B-M-Y winter fashionable loose and versatile down jacket 001- limited time discount of 10 yuan",
+        "picUrl": "https://si.geilicdn.com/open1691720597-1234478995-21bc000001927a6dea1f0a210559_800_800.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1723865058",
+          "name": "VIVI",
+          "logo": "https://si.geilicdn.com/wdseller1587119769-1233000001983ec0e7610a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021142338472553894685",
+  "language": "en"
+}

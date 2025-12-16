@@ -1,0 +1,361 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1655295",
+        "mallType": "TB",
+        "itemId": "945771813566",
+        "title": "(in Stock) Hysteric Glamour × Destroy All Monsters Double-Zip Hoodie",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2214509255639/O1CN01cNefhu1rWiU0713BL_!!2214509255639.jpg",
+        "price": "¥352.92",
+        "toPrice": "$55.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "369537604",
+          "name": "泽爻studio",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2023878",
+        "mallType": "T1688",
+        "itemId": "751595672561",
+        "title": "Corteiz Trendy Street Loose Sweatshirt Suit Men American Tide Hip Hop Skateboarding Casual Couple Suit Autumn",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019YQ4yf1NO4MzDELrb_!!2215589061559-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215589061559",
+          "name": "中山依泊尔贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2023674",
+        "mallType": "T1688",
+        "itemId": "822129264321",
+        "title": "Corteiz American street Alcatraz printed shorts summer loose five pants men and women sports casual sweat pants",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01iCPwEB22T0vVVD6oP_!!2217003697120-0-cib.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218351735133",
+          "name": "广州市番禺区一生潮牌服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1840106",
+        "mallType": "T1688",
+        "itemId": "841056454119",
+        "title": "New casual loose slouchy zipper cardigan jacket FRED-FR zipper striped shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rQYH042CdDyIZiKET_!!2211367678496-0-cib.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211367678496",
+          "name": "烟台斑斓空间国际贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1840022",
+        "mallType": "T1688",
+        "itemId": "933199477164",
+        "title": "Foreign trade tide brand explosion models men's sports and leisure suit Europe and the United States in the spring and fall new men's outdoor mountaineering suit male",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01omi6If1CfVo9fxMmP_!!2219335450108-0-cib.jpg",
+        "price": "¥78.99",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219497749505",
+          "name": "铅山县依维娜电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1655263",
+        "mallType": "T1688",
+        "itemId": "768880352269",
+        "title": "CEL letters printed hooded casual zipper jacket terry cotton sweater 24 Spring and Autumn men and women with the same paragraph that the Mo tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01v6wZcY1DZO1SxqWEm_!!2215771590230-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215771590230",
+          "name": "即墨区优贝美服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2926505",
+        "mallType": "T1688",
+        "itemId": "779903531466",
+        "title": "2024跨境欧美女装春秋定位印花套装",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01INBXW21mBa0HhnaxK_!!2215418864916-0-cib.jpg",
+        "price": "¥72.00",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215418864916",
+          "name": "广州玛佳丽服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1289879",
+        "mallType": "T1688",
+        "itemId": "881899469337",
+        "title": "Cross-border foreign trade original label mengkoumiao men's hoodie sweater cardigan zipper embroidery long-sleeved tide sweater man",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016MtSPi27QKjrFdzNw_!!2218528287791-0-cib.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1289721",
+        "mallType": "T1688",
+        "itemId": "908547017830",
+        "title": "New Handsome Men's Fashionable Brand Fashionable Jacket Hooded Niche All-match Jacket American Casual Spring and Autumn Plaid",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ho5j0f1zLjtY45l9r_!!2219501506698-0-cib.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBN3dLfSJB7k63pb1dPofJLw",
+          "name": "义乌市然些电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 92,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1289605",
+        "mallType": "TB",
+        "itemId": "913433235591",
+        "title": "Classic Series Ship Print Logo Thin Fleece Loop Hooded Sweatshirt Trendy Casual for Men and Women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3480560492/O1CN01kgzdDd1FVNujC06Hw_!!3480560492.jpg",
+        "price": "¥163.40",
+        "toPrice": "$25.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "392882169",
+          "name": "艾美Aim",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2732272",
+        "mallType": "T1688",
+        "itemId": "978077646558",
+        "title": "休闲卫衣美式复古灰色开衫卫衣男潮流加绒连帽潮牌春秋款情侣外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gsZpSs266oL8wwVoK_!!2219521277613-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5zVwRvXJeTySFyB2j3FkKg",
+          "name": "上饶市芬洁服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "922724",
+        "mallType": "T1688",
+        "itemId": "746819631787",
+        "title": "Ape head bape tide with camouflage shark head 3D digital printing hoodie sweater men and women pullover jacket",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000007538/O1CN015g2BbM25YSR2koIZZ_!!6000000007538-0-tbvideo.jpg",
+        "price": "¥36.80",
+        "toPrice": "$5.79",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2556705",
+        "mallType": "WD",
+        "itemId": "7538180005",
+        "title": "AA-39--Half-Zip Pullover Sweatshirt Set-WhatsApp+86 182 5902 4114+86 182 5902 4114",
+        "picUrl": "https://si.geilicdn.com/open1819314179-1234478995-737f000001986990d37a0aa043f9_800_800.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1643175405",
+          "name": "Trendy sneakers and apparel",
+          "logo": "https://si.geilicdn.com/shopedit1944702635-111b00000196528fd6910a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2555040",
+        "mallType": "WD",
+        "itemId": "7450665681",
+        "title": "Double line flocking printed sweatshirt and sweatpants casual wide mouth cotton sweatshirt and sweatpants set",
+        "picUrl": "https://si.geilicdn.com/pcitem901865421148-7a2f00000195e65a0c100a2102c5_750_750.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769286001",
+          "name": "ME精品",
+          "logo": "https://si.geilicdn.com/shopedit1802690165-7d230000018faaeac0a70a23047e-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554774",
+        "mallType": "T1688",
+        "itemId": "975557368043",
+        "title": "Supree加绒全系列连帽卫衣连帽衫腰果花BOX经典19FW23FW24FW",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01MtZPI81yxSwjUh61u_!!2220552836645-0-cib.jpg",
+        "price": "¥34.00",
+        "toPrice": "$5.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBD0_rbcF-GAG_JeLftR1tww",
+          "name": "铅山县嘉泽电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554099",
+        "mallType": "WD",
+        "itemId": "7501029207",
+        "title": "Stereoscopic Silicone Letters Men's and Women's American High Street Flocked Hoodie Sweatshirt Jacket Hoodie-CY",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-1fb400000192b20312930a239383_800_800.jpg",
+        "price": "¥102.00",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1876461789",
+          "name": "DDone buy",
+          "logo": "https://si.geilicdn.com/pcdecorate901975097152-1efc00000198b1fea4ac0a20e2c5-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2391661",
+        "mallType": "WD",
+        "itemId": "7271878782",
+        "title": "New Jacket Coat",
+        "picUrl": "https://si.geilicdn.com/wdseller1885217009-67d2000001926ac9c3140a2303ee_1164_1164.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1827198373",
+          "name": "For Shop",
+          "logo": "https://si.geilicdn.com/weidian1900994996-2e07000001998fe8c8b00a23037f_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "922440",
+        "mallType": "TB",
+        "itemId": "858017856097",
+        "title": "Hellstar Studios Zip up Hoodie Zippered Washed Cotton Hooded Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/790239661/O1CN01BIWwwB2LEnPAf7JS8_!!790239661.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "393210361",
+          "name": "最高荣誉",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "556318",
+        "mallType": "TB",
+        "itemId": "877426604363",
+        "title": "Syna World College Tracksuit Black SY set sweatshirt pants unisex",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/727551888/O1CN01dMGPT81PoknhyS7Ud_!!727551888.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68140943",
+          "name": "LouisAngelking",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "556287",
+        "mallType": "T1688",
+        "itemId": "650609380216",
+        "title": "Cross-border spring, fall and winter fashion fleece sweatshirt one piece over three seasons racing suit off-road riding manufacturers",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000002876/O1CN012OltFV1X7FmYmRTUR_!!6000000002876-0-tbvideo.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143519122553929045",
+  "language": "en"
+}

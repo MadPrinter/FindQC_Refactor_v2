@@ -1,0 +1,628 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1077576",
+        "mallType": "T1688",
+        "itemId": "696290166880",
+        "title": "New square glasses rimless sunglasses women European and American fashion glasses gradient color sunscreen sunglasses wholesale",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000003312/O1CN01j4UkPk1aKwjoEsyq7_!!6000000003312-0-tbvideo.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3212536",
+        "mallType": "T1688",
+        "itemId": "782499013064",
+        "title": "欧美跨境潮流街拍偏光墨镜S32105复古防紫外线高级手工板材太阳镜",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ARUhEF21K1Y7ImZ3s_!!2029046965-0-cib.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2029046965",
+          "name": "临海市万大眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2922843",
+        "mallType": "WD",
+        "itemId": "7271123343",
+        "title": "glasses93016#",
+        "picUrl": "https://si.geilicdn.com/open1654914021-1234478995-2aaf00000191f92401160a210298_800_800.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1654914021",
+          "name": "Luxury buy",
+          "logo": "https://si.geilicdn.com/shopedit1891903161-215400000191fba6b9580a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3101813",
+        "mallType": "T1688",
+        "itemId": "829797379432",
+        "title": "Yumomo2025新款蛤蟆镜太阳眼镜T字大框飞行员太阳镜个性女士墨镜",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0191G2YG1bTTn1ztl89_!!3892673466-0-cib.jpg",
+        "price": "¥11.00",
+        "toPrice": "$1.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3892673466",
+          "name": "义乌市古源眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3133789",
+        "mallType": "T1688",
+        "itemId": "983478258812",
+        "title": "新款欧美户外运动骑行偏光太阳镜男女潮复古驾驶开车墨镜",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NJal7l1bzXSxhRW2E_!!2212782963536-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBclSIx0fKrrm4S0lYvCrwvQ",
+          "name": "广州市锦狮户外用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2043184",
+        "mallType": "T1688",
+        "itemId": "750248743542",
+        "title": "Zinc Alloy European and American Polarized Sunglasses for Men and Women Trendy Outdoor Sports Riding Driving Sunglasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0115OO4x1bzXO7vhtOO_!!2212782963536-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBclSIx0fKrrm4S0lYvCrwvQ",
+          "name": "广州市锦狮户外用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2258411",
+        "mallType": "T1688",
+        "itemId": "726575606117",
+        "title": "Sunglasses wholesale new square men's and women's fashion trend UV protection sunglasses C-18",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016NYHMm2D64v7Y7Iuu_!!2215043608559-0-cib.jpg",
+        "price": "¥14.80",
+        "toPrice": "$2.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215043608559",
+          "name": "临海市希品眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3164577",
+        "mallType": "TB",
+        "itemId": "941609543504",
+        "title": "Retro French-Style Large-Frame Cat-Eye High-End Mesh Sunglasses for Big Faces, Slimming, Fashionable, Anti-Uv Sunshade Sunglasses",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/123873339/O1CN01m1sMMu1aXJWtgvat8_!!123873339.jpg",
+        "price": "¥36.29",
+        "toPrice": "$5.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "59029511",
+          "name": "MIRROR HOME  眼镜",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3202080",
+        "mallType": "T1688",
+        "itemId": "694917109293",
+        "title": "New glass sunglasses men and women with the same style sunglasses fashion travel sunglasses 92140",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01P8RNYX1vooZV1Lg8V_!!2578796220-0-cib.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1fHQtgzkuI0c3Y27VvKxkQ",
+          "name": "临海市艾欧眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 47,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3164579",
+        "mallType": "TB",
+        "itemId": "947809925813",
+        "title": "2025 New Cat-Eye Sunglasses for Women, High-End Uv400 Sun Protection, Anti-Ultraviolet, Slimming Effect for Large Faces, Trendy Sunglasses",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2799353096/O1CN01aZw7dh1Yk1I1TxaVo_!!2799353096.jpg",
+        "price": "¥33.72",
+        "toPrice": "$5.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "520534749",
+          "name": "JINNI潮牌眼镜",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3201803",
+        "mallType": "T1688",
+        "itemId": "627025417915",
+        "title": "Sunglasses Glasses Case for Men and Women, Versatile Leather Suit Box with Folding Sunglasses, Portable",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/20953956339_1180061143.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9XvWxc8iRcbRnyYzAuUrqA",
+          "name": "台州市新瑾眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2142831",
+        "mallType": "T1688",
+        "itemId": "819588708746",
+        "title": "Crossborder X Square Sunglasses Polarized UV Protection",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012eoBzI20cVwxp9iDY_!!3649396870-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3649396870",
+          "name": "临海市富力眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "323396",
+        "mallType": "T1688",
+        "itemId": "838218632616",
+        "title": "(New Customer Reduction) P Stars Same Style Sunglasses Rectangular Glasses Anti-ultraviolet Anti-glare Advanced Sunglasses ins",
+        "picUrl": "https://cdn.findqc.com/item/20241210/m4i4yla2_6avx.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBA21hAQpsYk1FVH0I9e46tg",
+          "name": "台州加来贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 162,
+        "qcVideoCnt": 12,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "1957878",
+        "mallType": "T1688",
+        "itemId": "873530602156",
+        "title": "New Cp Pilot Autumn and Winter Knitted Hat for Men and Women Warm Korean Style Couple Woolen Hat Knitted Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250909/mfblwwk3_uoam.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGP79WJYNrs5pJt-efdFPKg",
+          "name": "义乌市赞峰帽子厂",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 295,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "3050220",
+        "mallType": "TB",
+        "itemId": "945844996874",
+        "title": "G-Dragon Style Jmm Whiskeyclone Narrow Rectangular Sunglasses Unisex Acetate Fiber Sunglasses",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1656517162/O1CN01p1sdiG22mFh5SqGKo_!!4611686018427384362-0-item_pic.jpg",
+        "price": "¥356.30",
+        "toPrice": "$56.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105351547",
+          "name": "高品味眼镜店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3111515",
+        "mallType": "WD",
+        "itemId": "7498446191",
+        "title": "【 DX58-3 】 New Retro Street Photography Fashion Sunglasses (24033/24034/24059/24064/33069/33176)\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901940024420-3c8700000197aa5b9cf80a81347d_800_800.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1748301213",
+          "name": "BLZ Repzone",
+          "logo": "https://si.geilicdn.com/pcdecorate1950804333-539d00000196fb4b2bd30a2396f4-unadjust_360_360.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3191414",
+        "mallType": "T1688",
+        "itemId": "891394518373",
+        "title": "New Fashion Simple Retro Cat Eye Sunglasses Ins Stylish Casual Outdoor Street Photography Anti-Uv Sunglasses Trend",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vgmO791PEZWBardhy_!!2210254251809-0-cib.jpg",
+        "price": "¥9.50",
+        "toPrice": "$1.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNbDQZCGU7nvtVrrKWfl-eQ",
+          "name": "临海市伊北眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "261279",
+        "mallType": "WD",
+        "itemId": "7291538829",
+        "title": "Y2K future technology style cycling glasses alloy plastic splicing frame F1 driver's model ink",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ngyxs_pg0v.jpg",
+        "price": "¥210.00",
+        "toPrice": "$33.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848972357",
+          "name": "Adam",
+          "logo": "https://si.geilicdn.com/shopedit1874119249-0bc5000001909e05d0d80a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1787192",
+        "mallType": "TB",
+        "itemId": "725922602614",
+        "title": "Mr.Blingggggg Europe and the United States hip-hop jewelry Lil Tjay the same full of diamonds rap sunglasses sunglasses can be equipped with",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2488987402/O1CN0176Bp5724YAX2Ss05V_!!2488987402.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "217334292",
+          "name": "MrBlingggggg Jewelry",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3065329",
+        "mallType": "T1688",
+        "itemId": "978229952922",
+        "title": "欧美潮流墨镜女时尚方形跨境太阳镜切边碎花工艺镜片金属防紫外线",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Mo9JJb1zCa1AvDCg8_!!2214148236678-0-cib.jpg",
+        "price": "¥12.50",
+        "toPrice": "$1.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBK5ttYImZ1t3L31ZTsF-qhQ",
+          "name": "临海市琴佐眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 5
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146039631917139058",
+  "language": "en"
+}

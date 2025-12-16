@@ -1,0 +1,30 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "13773",
+        "mallType": "TB",
+        "itemId": "808069362789",
+        "title": "2025 New Model Pure Cotton Pillowcases, Set of Two, Children's All-Cotton Pillowcases, Pillow Core Inner Cover, Single Piece 48Cmx74Cm",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcmks6_rq6a.jpg",
+        "price": "¥15.50",
+        "toPrice": "$2.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66551256",
+          "name": "苏萱家纺旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149210721917917054",
+  "language": "en"
+}

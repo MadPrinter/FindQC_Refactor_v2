@@ -1,0 +1,451 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2907058",
+        "mallType": "TB",
+        "itemId": "957506936983",
+        "title": "Chinese Building Blocks Mario Series 40787 horsepower European Kart Stinger Turtle Shell Children's Assembled Toy Gift",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkha9pb_wbps.jpg",
+        "price": "¥45.81",
+        "toPrice": "$7.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "241913383",
+          "name": "国产积木品牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1652766",
+        "mallType": "T1688",
+        "itemId": "839537886563",
+        "title": "UFC match gold belt adult size 1/1 gold belt boxing gym souvenir gold belt boxing match hand puppet",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000001066/O1CN01ySwIlv1JkHCX6ZlCt_!!6000000001066-0-tbvideo.jpg",
+        "price": "¥225.00",
+        "toPrice": "$35.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218688422388",
+          "name": "广州敬亭山国际贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2679373",
+        "mallType": "TB",
+        "itemId": "749923260544",
+        "title": "Pok é mon 5.0 PTCG Simplified Chinese Honghuang Martial Arts Stimulating Fat Pack Genuine Collection Swap Card Card Pack",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgqfaffi_gf46.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "181406760",
+          "name": "浩硕PTCG卡牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2300338",
+        "mallType": "TB",
+        "itemId": "743895838519",
+        "title": "PTCG genuine Pok é mon Jianzhong one-year anniversary colorful ink elegant gift box Wuji Taina Cangxiang brand box set",
+        "picUrl": "https://cdn.findqc.com/item/20250904/mf4dgc9j_4ste.jpg",
+        "price": "¥62.80",
+        "toPrice": "$9.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101693988",
+          "name": "北境卡牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "154364",
+        "mallType": "TB",
+        "itemId": "742866529608",
+        "title": "Pokémon Blind BoxesDestined Rivals Enhanced BoxesEnglish CardsPokémon Journey PTCG Cards",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpoyp3_sdga.jpg",
+        "price": "¥48.80",
+        "toPrice": "$7.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60381878",
+          "name": "神奇宝贝学社",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1246430",
+        "mallType": "TB",
+        "itemId": "827535350384",
+        "title": "Pokémon Simplified Chinese Official Edition 8.0 Ptcg Sword & Shield Series Shadow of the Sea Howling Chase Booster Pack Fat Box Slim Box",
+        "picUrl": "https://cdn.findqc.com/item/20250429/ma1wngg3_573a.jpg",
+        "price": "¥276.05",
+        "toPrice": "$43.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "384373572",
+          "name": "温零卡牌",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "334238",
+        "mallType": "TB",
+        "itemId": "683839008847",
+        "title": "Chinese Building Blocks Marvel Iron Man 76223 Nano Infinity Gauntlet Infinity Gauntlet Educational Assembly Building Block Toys",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4l36qk3_fj9n.jpg",
+        "price": "¥91.13",
+        "toPrice": "$14.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155240895",
+          "name": "晴文动漫玩具商贸",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "154367",
+        "mallType": "TB",
+        "itemId": "757890136376",
+        "title": "Pokémon Cards Paradox Rift Blind Box Pokémon Scarlet & Violet Sv4 Paradox Rift English Version Card Pack",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpoyd7_dy0f.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63103238",
+          "name": "千家千坊",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15329",
+        "mallType": "TB",
+        "itemId": "624351504789",
+        "title": "Wrestling WE Championship Belt Heavyweight Boxing Fighting Competition Gold Belt Sanshou Boxing Champion Belt Gold Plated",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ne0seq_9cba.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "12951",
+        "mallType": "TB",
+        "itemId": "753955067329",
+        "title": "Domestic Old D Transformer Toys Telescope Robot Camera Robot Transformer Mecha Telescope",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mce4at_a5og.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "8674",
+        "mallType": "TB",
+        "itemId": "719165095376",
+        "title": "Spot Pokémon Cards ptcg janaka 1.0 first bullet Yokozuna 5-pack Hec Cangze Refill Packs",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mabxv7_sq65.jpg",
+        "price": "¥548.00",
+        "toPrice": "$86.17",
+        "status": "normal",
+        "categoryId": 25,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147540931911100633",
+  "language": "en"
+}

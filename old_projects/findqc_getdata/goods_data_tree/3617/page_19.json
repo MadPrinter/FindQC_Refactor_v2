@@ -1,0 +1,44 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3593",
+        "mallType": "T1688",
+        "itemId": "681454104158",
+        "title": "European goods winter tide removable hooded down vest men 2024 new couples suit shoulders undershirt jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3g6pj_imqi.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3401",
+        "mallType": "WD",
+        "itemId": "4422452212",
+        "title": "North Cotton Vest Men's and Women's 2025 Autumn/Winter New Collection Stand Collar Warm Coat Sports Tank Top ED-1995 S-2XL",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3dbmg_wx33.jpg",
+        "price": "¥132.00",
+        "toPrice": "$20.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1346408840",
+          "name": "小兔子外贸",
+          "logo": "https://si.geilicdn.com/bj-vshop-1346408840-1526322895527-559284031_656_656.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 111,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114300706194364213",
+  "language": "en"
+}

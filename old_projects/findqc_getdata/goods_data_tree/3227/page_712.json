@@ -1,0 +1,293 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "223991",
+        "mallType": "WD",
+        "itemId": "7263060558",
+        "title": "[Second bullet] Summer new printed men's and women's loose casual short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p4j7h_vwy7.jpg",
+        "price": "¥84.00",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1636739441",
+          "name": "L xr 服饰",
+          "logo": "https://si.geilicdn.com/shopedit1802690076-02ba0000018fcd829fb50a22d172-unadjust_219_219.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "223985",
+        "mallType": "WD",
+        "itemId": "7240943537",
+        "title": "Basic classic letter casual short sleeved t-shirt for both men and women, oversized fit boutique",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p4j2e_wky8.jpg",
+        "price": "¥53.36",
+        "toPrice": "$8.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873187321",
+          "name": "Artist潮流精品",
+          "logo": "https://si.geilicdn.com/shopedit1865109611-06860000018fcd8facad0a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "223516",
+        "mallType": "WD",
+        "itemId": "7228689814",
+        "title": "COR T-shirt short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p13t8_kk9p.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648195145",
+          "name": "BRAND COLLECT",
+          "logo": "https://si.geilicdn.com/shopedit1816205840-18940000018c297bd1820a23132e-unadjust_596_596.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "221274",
+        "mallType": "WD",
+        "itemId": "7262671698",
+        "title": "Europe and the United States classic 12-color round neck long-sleeved sweater simple solid color sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3q7i5d9_961z.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637972337",
+          "name": "优物服饰",
+          "logo": "https://si.geilicdn.com/shopedit1802691278-006d0000018feb38bf3c0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205393",
+        "mallType": "TB",
+        "itemId": "805590926068",
+        "title": "Enfants Riches Deprimes ERD Melancholy Richie Rich Tricycle Print Loose Long Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42oxl2c_jv0c.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "211433482",
+          "name": "PV的店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205111",
+        "mallType": "TB",
+        "itemId": "711586769919",
+        "title": "2024 summer new two sides wear letters broken holes undershirt half-body skirt suit female fashion Slim sleeveless knitwear",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ov60t_todi.jpg",
+        "price": "¥398.00",
+        "toPrice": "$62.58",
+        "status": "normal",
+        "categoryId": 18,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205091",
+        "mallType": "TB",
+        "itemId": "752423554585",
+        "title": "Korean Chic Autumn and Winter Retro Niche Round Neck Color-Block Striped Jacquard Slim Fit Flared Sleeve Knit Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ov4b2_zelh.jpg",
+        "price": "¥41.33",
+        "toPrice": "$6.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "127134933",
+          "name": "良良家 韩国chic女装定制",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205063",
+        "mallType": "WD",
+        "itemId": "7265607544",
+        "title": "【 10/10 】 (slim fit) 25 classic polo shirt, evergreen style, three buttons, three button slim fit, pure cotton lapel, PH7937",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ov3cf_7j05.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646496609",
+          "name": "Fr fish①",
+          "logo": "https://si.geilicdn.com/weidian1487868650-5664000001921049e8990a21146b_756_756.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 395,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205037",
+        "mallType": "TB",
+        "itemId": "819732405815",
+        "title": "Overseas Order Surplus ~ Cut Label, Withdrawn from Export, American Retro Trendy Cool Printed Short-Sleeve T-Shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ov30o_x2f7.jpg",
+        "price": "¥11.64",
+        "toPrice": "$1.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109998675",
+          "name": "Merrccd Recd Iorger",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204998",
+        "mallType": "TB",
+        "itemId": "833886114930",
+        "title": "【Pure Welfare】Ourlegacy New-Box Tee Heavyweight Autumn and Winter Bottom Short Sleeve Solid Color Small Neckline",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ovccm_ap3j.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205011",
+        "mallType": "WD",
+        "itemId": "7250655157",
+        "title": "[best] 24 summer new business casual men's solid color simple short-sleeved polo shirts high-end customer-supplied pearl ground cotton fabric smooth, silky and breathable different colors and different embroidery design PH8017",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ouygb_acsj.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646496609",
+          "name": "Fr fish①",
+          "logo": "https://si.geilicdn.com/weidian1487868650-5664000001921049e8990a21146b_756_756.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204999",
+        "mallType": "WD",
+        "itemId": "6444484656",
+        "title": "Walking snow mountain printing short-sleeved T-shirt cotton fabric men and women alike\nUsing the original board exclusive customized 260 grams of 32 double yarn cotton fabrics\nThe texture is very soft and comfortable 100% difference between the market ** fabric (does not shrink, not deformed, not pilling)",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ov745_49ll.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1714467102",
+          "name": "小六外贸",
+          "logo": "https://si.geilicdn.com/wdseller1730445636-4f830000019a1e9e9dcb0a231177_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204973",
+        "mallType": "TB",
+        "itemId": "828771180057",
+        "title": "Kith Weiman's 85Th Anniversary Collection Klmnop",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ou009_h7rg.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "393210361",
+          "name": "最高荣誉",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204970",
+        "mallType": "TB",
+        "itemId": "744501785590",
+        "title": "Kith for Sp1Der Wei Man Spider-Man Series Big Collection",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42otzm5_gbwq.jpg",
+        "price": "¥110.41",
+        "toPrice": "$17.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "393210361",
+          "name": "最高荣誉",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204966",
+        "mallType": "TB",
+        "itemId": "837795706821",
+        "title": "Nike/Nikepro Tight Short Sleeve T-Shirt Summer Sports Tights Basketball Running Fitness Training Speedo",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ou0xu_enfs.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204955",
+        "mallType": "WD",
+        "itemId": "7266956755",
+        "title": "Ami 2024 SS Autumn Classic Big Zhangzi Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ou4pu_do80.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1808379089",
+          "name": "Asha",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021150166202553922776",
+  "language": "en"
+}

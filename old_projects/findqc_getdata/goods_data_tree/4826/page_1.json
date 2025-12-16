@@ -1,0 +1,456 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2966036",
+        "mallType": "TB",
+        "itemId": "820426181364",
+        "title": "Momo's Workshop Rose Series Powder Puff Ultra Soft and High Elasticity Makeup Set Makeup Base Apply Skin",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2214407623682/O1CN01TsrqMW1d4POQ8eAry_!!4611686018427384834-0-item_pic.jpg",
+        "price": "¥43.29",
+        "toPrice": "$6.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "484537965",
+          "name": "MomosWorkshop毛吉吉旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1982205",
+        "mallType": "T1688",
+        "itemId": "778096382441",
+        "title": "YS Leather Air Cushion BB Cream Formal Sample Durable Oil Control without Makeup Removing and Moisturizing concealer liquid foundation Factory Direct Shop\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01M7Ia3L1pdvMAVzknn_!!2207485815384-0-cib.jpg",
+        "price": "¥8.50",
+        "toPrice": "$1.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoaz8Vj_w3cH2ggICsSiR0w",
+          "name": "凝肽美(广州)生物科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2865524",
+        "mallType": "T1688",
+        "itemId": "928764263138",
+        "title": "Xiangfeng's New Overseas Version Luxury Facial Cream Gift Cosmetic Mirror Classy Metal Flip Double-Sided Small Mirror",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VmuoVc1RywsVFgRi3_!!2219786362181-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBLtXT4ppoAU57kNEyLE6CA",
+          "name": "即墨区严小颜服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2745461",
+        "mallType": "TB",
+        "itemId": "626248379738",
+        "title": "Missha Missha Big Red Bb Cream Official Genuine Flawless Long-Lasting Concealer Cc Foundation Moisturizing Sunscreen Contouring Cream",
+        "picUrl": "https://cdn.findqc.com/item/20251023/mh37emy8_vus7.jpg",
+        "price": "¥61.61",
+        "toPrice": "$9.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "64781708",
+          "name": "Claireskorea海外品牌店",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2512148",
+        "mallType": "T1688",
+        "itemId": "914270603698",
+        "title": "【】Di Ning Zhi Long-Lasting Makeup Locking Cushion Powder 10g Loose Powder Setting Powder Long-Lasting Makeup Concealer before Makeup Long-Lasting Setting Powder",
+        "picUrl": "https://cdn.findqc.com/item/20251003/mgahmv6i_np8s.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGDyXt3rJTdR84OSfskx6pg",
+          "name": "广州佳洺化妆品商行",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2597363",
+        "mallType": "T1688",
+        "itemId": "936553396460",
+        "title": "D Home Cross border Beauty Gift Makeup Mirror Sheepskin Beauty Double sided Mirror Foldable Portable Beauty Mirror",
+        "picUrl": "https://cdn.findqc.com/item/20251006/mgerkvnl_ljgp.jpg",
+        "price": "¥22.50",
+        "toPrice": "$3.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219935290100",
+          "name": "东莞市常平旭风盛世塑胶厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67263",
+        "mallType": "T1688",
+        "itemId": "785042582869",
+        "title": "G Home Beauty Counter Double Sided Mirror Metal Cosmetic Mirror Folding Convenient Giveaway Mirror",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlvlih_ku45.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "59391",
+        "mallType": "TB",
+        "itemId": "797997582359",
+        "title": "Yueji Secret Garden Customized Metal Cone Nipple Covers Washable Silicone Adhesive Breast Covers",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mhx3e1_9o62.jpg",
+        "price": "¥74.12",
+        "toPrice": "$11.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "431944118",
+          "name": "悦己秘密花园",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "19177",
+        "mallType": "TB",
+        "itemId": "711572107400",
+        "title": "23 years new makeup bag cherry embroidery mesh storage bag original storage bag sweetheart Package",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nf9b4r_7l6k.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "categoryId": 17,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "18639",
+        "mallType": "TB",
+        "itemId": "732187609616",
+        "title": "Fatini Air Cushion for Dry Skin and Oily Skin, Moisturizing, Oil-Controlling, Concealer, Long-Lasting, Non-Removing Makeup Foundation, Official Flagship Store Genuine Product",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nf5g4d_ud63.jpg",
+        "price": "¥160.12",
+        "toPrice": "$25.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "588643043",
+          "name": "法汀妮旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "13374",
+        "mallType": "TB",
+        "itemId": "667483922729",
+        "title": "Ultra-Thin (Base Color Changing) Transparent Color-Changing to Gray and Brown Aspheric Protective Myopia Lenses 1.56/ 0.081kg Piece",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcihd6_d8ip.jpg",
+        "price": "¥183.61",
+        "toPrice": "$28.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105351547",
+          "name": "高品味眼镜店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147266432553891121",
+  "language": "en"
+}

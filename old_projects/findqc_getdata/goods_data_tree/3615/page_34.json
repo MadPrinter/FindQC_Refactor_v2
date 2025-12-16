@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1675315",
+        "mallType": "TB",
+        "itemId": "915232390686",
+        "title": "Summer thin American tide retro lapel washed casual sports suit men loose hundred breathable two-piece set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2216233139003/O1CN01eUdeN62GNQpSpSEom_!!4611686018427386683-0-item_pic.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "222402048",
+          "name": "挚马旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1987901",
+        "mallType": "T1688",
+        "itemId": "663173274718",
+        "title": "TOMMY/Tommy 6-color all cotton Oxford spun fabric men's versatile long sleeved business casual pure cotton washed shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgr70dig_y0us.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212856060217",
+          "name": "常熟市琴川街道潮之品服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2679409",
+        "mallType": "TB",
+        "itemId": "919004479855",
+        "title": "American style Lu series outdoor hooded sunscreen jacket for men in summer, lightweight and breathable skin jacket, quick drying sports jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgr2xvap_04zp.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "291598689",
+          "name": "唯衣出品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2698717",
+        "mallType": "WD",
+        "itemId": "7491148279",
+        "title": "A-C1996 Embroidered Zipper Back Coat",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgqrkori_o4ft.jpg",
+        "price": "¥338.00",
+        "toPrice": "$53.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1647133",
+        "mallType": "WD",
+        "itemId": "7497409913",
+        "title": "【DX10】Activity Youth Short Sleeve",
+        "picUrl": "https://si.geilicdn.com/pcitem1583459867-2bc40000018ecbeb4cee0a8133ca-unadjust_878_906.png",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646048669",
+          "name": "Giant panda 🐼",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2679368",
+        "mallType": "TB",
+        "itemId": "958706975718",
+        "title": "SUITSMAN | Industry Authority! Flowing light blue pure cotton long pointed neck shirt, no ironing business formal gray shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgqcz73o_6e4g.jpg",
+        "price": "¥235.00",
+        "toPrice": "$36.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "306983596",
+          "name": "SUITSMAN 玩家",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2191582",
+        "mallType": "TB",
+        "itemId": "774174901299",
+        "title": "Camouflage Maple Leaf Branch and Fallen Leaves All-Over Print Jacket, Jackson Wang Style, Unisex Multi-Pocket Denim Zipper Work Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251001/mg7f6g77_w4iu.jpg",
+        "price": "¥215.00",
+        "toPrice": "$33.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "67925095",
+          "name": "STARFATION潮牌服装",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2523357",
+        "mallType": "T1688",
+        "itemId": "962196388919",
+        "title": "RL 拉夫纯色开衫卫衣  男女同款  原单   高版本",
+        "picUrl": "https://cdn.findqc.com/item/20251009/mgit8g14_jf8w.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmJHeSvzw5-EwvaoIPS4X9Q",
+          "name": "东莞市长安五悦服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1561157",
+        "mallType": "TB",
+        "itemId": "914895120726",
+        "title": "【 Exclusive Stock 】 ERD Soviet Surveillance Portrait Illustration Splicing Knitted Black Long Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgpvppli_dq30.jpg",
+        "price": "¥262.43",
+        "toPrice": "$41.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "383556858",
+          "name": "乌龙茶FDA",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1618793",
+        "mallType": "T1688",
+        "itemId": "929110581122",
+        "title": "Amei click heavyweight workwear double pocket shirt men's washed and brushed long-sleeved Japanese retro loose wholesale",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000002083/O1CN01aGxbO51RG4412yIdF_!!6000000002083-0-tbvideo.jpg",
+        "price": "¥34.20",
+        "toPrice": "$5.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219779891761",
+          "name": "杭州建德至振服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1618511",
+        "mallType": "T1688",
+        "itemId": "944323090368",
+        "title": "Source Manufacturer European and American Cross-Border Ca Home Sweater Knitted Short-Sleeved Suit Shorts Men and Women Pearl Buttons Cross-Border Customization",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01roxvkK1Pwzy8f1atp_!!2219513151906-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBh7PXHH6z9LCMunz7WJ1cDA",
+          "name": "广州依烁服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1619131",
+        "mallType": "WD",
+        "itemId": "7468786766",
+        "title": "p home set",
+        "picUrl": "https://si.geilicdn.com/open1700843421-1234478995-5b9100000196c9c4fc080aa0834c_720_720.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700843421",
+          "name": "X",
+          "logo": "https://si.geilicdn.com/weidian1951546885-776b00000198b25faabc0a230115_1328_1328.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1636531",
+        "mallType": "TB",
+        "itemId": "820137957944",
+        "title": "Men's casual shirt T-shirt European and American men's casual shirt tops skeleton shirt T-shirt men",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1131279917/O1CN01u3REk72N82lEJgm75_!!1131279917.jpg",
+        "price": "¥55.76",
+        "toPrice": "$8.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104144639",
+          "name": "Customer first88",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1618492",
+        "mallType": "WD",
+        "itemId": "7498511865",
+        "title": "Lovingly embroidered cotton shirt for men and women",
+        "picUrl": "https://si.geilicdn.com/open411716067-1234478995-177400000197bc90f6570a23b491_1000_1000.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "411716067",
+          "name": "Top outfit",
+          "logo": "https://si.geilicdn.com/shopedit411716067-19ac0000019971e8cc690a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2688390",
+        "mallType": "WD",
+        "itemId": "7541147421",
+        "title": "Cotton Harrington jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgp2dq6p_p754.jpg",
+        "price": "¥379.00",
+        "toPrice": "$59.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "141289",
+        "mallType": "T1688",
+        "itemId": "803113491389",
+        "title": "2025 Spring and Summer New American Pony Embroidered Green Shirt Loose Long-Sleeved Cotton and Linen Shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpj4sp_1krq.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBv00fjTkuFSJFegM2Lw5fMQ",
+          "name": "广州潮柜服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 218,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2600210",
+        "mallType": "T1688",
+        "itemId": "974029143169",
+        "title": "跨境供货RL拉夫25新品秋季高端休闲小马标水洗灯芯绒棉长袖衬衫男",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgm2cxbh_q625.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBM1Mt-4xhSstHFXXWoEb9SQ",
+          "name": "常熟市莫城街道潮久社服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2684365",
+        "mallType": "WD",
+        "itemId": "7329237122",
+        "title": "POLO shirt 34546-99963",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgo5b7qo_4z5l.jpg",
+        "price": "¥107.00",
+        "toPrice": "$16.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616169977",
+          "name": "9 MILES潮牌精选",
+          "logo": "https://si.geilicdn.com/shopedit1866172129-7a6d0000018fc87ff6280a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2361689",
+        "mallType": "T1688",
+        "itemId": "773324680886",
+        "title": "Casablanca CASABLANCA Digital Printed Long Sleeve Shirt Independent Station Cross border E-commerce Foreign Trade",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgo1z00g_hgtb.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217586256286",
+          "name": "广州市卡萨布蓝卡服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2679276",
+        "mallType": "TB",
+        "itemId": "951419022128",
+        "title": "Homemade TheBar * net Eight Milk Sweet and Fresh Lotus Leaf Edge Doll Neck Loose Short Sleeve Shirt Top for Women",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgo13a4x_nxwj.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "552418152",
+          "name": "Canwin",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143105831930821495",
+  "language": "en"
+}

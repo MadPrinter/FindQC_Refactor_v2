@@ -1,0 +1,370 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "894771",
+        "mallType": "WD",
+        "itemId": "7265647678",
+        "title": "[BLCG 24FW Show Plaid Flannel Plaid Shirt Statue of Liberty Fake Two Piece Shirt Jacket",
+        "picUrl": "https://si.geilicdn.com/wdseller1648192646-4b0d00000191988fc9b40a2302e6_1179_1523.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785725882",
+          "name": "GR10K",
+          "logo": "https://si.geilicdn.com/wdseller1648192646-60ea0000018e7ec4bce50a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "307511",
+        "mallType": "WD",
+        "itemId": "7304219824",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241207/m4d8o4ot_0b1a.jpg",
+        "price": "¥24.32",
+        "toPrice": "$3.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873980137",
+          "name": "大迈服饰",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 95,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1556921",
+        "mallType": "TB",
+        "itemId": "928290412982",
+        "title": "2025 Summer New Men's Vacation Style Hollow Crochet Short Sleeve Textured Shirt Shorts 3772410 251",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2986903901/O1CN01UpLks61egi6uAQl0m_!!2986903901.png",
+        "price": "¥85.90",
+        "toPrice": "$13.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "286767100",
+          "name": "男装正品折扣店7",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2363032",
+        "mallType": "WD",
+        "itemId": "7478705011",
+        "title": "Stormtrooper series hooded outdoor sports soft shell windproof jacket",
+        "picUrl": "https://si.geilicdn.com/open1293584826-1234478995-45770000019281dc74a70a8115b5_1080_1080.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840805981",
+          "name": "Super Brand Outlet",
+          "logo": "https://si.geilicdn.com/pcdecorate1952227328-2ee100000196ab622fa80a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1235312",
+        "mallType": "TB",
+        "itemId": "680588065197",
+        "title": "Gallery Dept Letter Print Logo High Street Trend Waffle Long Sleeve T-Shirt Autumn Loose Bottom Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1602154797/O1CN01lsOpe21lJ4hP6AYtz_!!1602154797.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102659967",
+          "name": "小众街头潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "886549",
+        "mallType": "T1688",
+        "itemId": "794987540548",
+        "title": "Cross-border RL Ralph men's spring and fall business casual washed cotton pony embroidery long-sleeved shirt pointed collar shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zDezI41XbwZuJi7ck_!!2216984962943-0-cib.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1232848",
+        "mallType": "T1688",
+        "itemId": "849568181941",
+        "title": "24 High-quality Ralph RL Oxford cloth shirt embroidered men and women with the same models Slim casual long-sleeved couple cross-border foreign trade",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bIr9jC20Hu9b6OqMK_!!2218013926825-0-cib.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2642708",
+        "mallType": "T1688",
+        "itemId": "902169703089",
+        "title": "Autonomous compass logo line bright line metal nylon long sleeve shirt jacket jacket men and women summer cross-border",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01laj8VR28lEToldukr_!!2217550377972-0-cib.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217550377972",
+          "name": "义乌市江渚电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1561224",
+        "mallType": "T1688",
+        "itemId": "914337747964",
+        "title": "RL Ralph Little Horse Logo Embroidered Shirt Men's POLO Pure Cotton Sunscreen Shirt Spring/Summer Thin Couple's Top Long Sleeve Stripe",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01js8Te81ChLPSlTNjZ_!!2219517740112-0-cib.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnbA5BnsL0wGM05O4vXhWmw",
+          "name": "广州小佳外贸服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2454281",
+        "mallType": "WD",
+        "itemId": "7390101102",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/pcitem1799783535-23d30000018f6c6412b90a2301b4-unadjust_1200_1200.png",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1033206",
+        "mallType": "TB",
+        "itemId": "898591547457",
+        "title": "Marcelo Correct Version Colorful Feather Illusion Wings Sweatshirt Marcelo Lightning Blade Couple Outfit Hoodie",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/812088627/O1CN01Db8iey2DbDtu2p0KP_!!812088627.jpg",
+        "price": "¥136.00",
+        "toPrice": "$21.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101271032",
+          "name": "想当暴发户",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179449",
+        "mallType": "WD",
+        "itemId": "4038181257",
+        "title": "Dior Classic Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq9ep7_iw8t.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1231409163",
+          "name": "ppp",
+          "logo": "https://si.geilicdn.com/bj-wd-1231409163-1540555047437-985955172_1242_1242.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2630390",
+        "mallType": "T1688",
+        "itemId": "914577446653",
+        "title": "RL拉夫小马刺绣亚麻女衬衫春夏显瘦不挑身材百搭休闲款老钱风上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012k0o5l1maltRRBDG5_!!2219438524971-0-cib.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219438524971",
+          "name": "茂名市茂南区鳌头镇小宇商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1911551",
+        "mallType": "TB",
+        "itemId": "706982403628",
+        "title": "【In stock】NIke Run Division Men's Casual Sports Reversible Black Baseball Jacket Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1106053894/O1CN01t1CTDk1edVLrWDnvF_!!1106053894.jpg",
+        "price": "¥599.00",
+        "toPrice": "$94.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "128426372",
+          "name": "Lope Store",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1802367",
+        "mallType": "WD",
+        "itemId": "7495539629",
+        "title": "Love embroidery pure cotton shirt for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250817/mefga0th_wd00.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1652366165",
+          "name": "WTWT What to wear tomorrow",
+          "logo": "https://si.geilicdn.com/shopedit1901491844-69a900000193494ed06f0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1903339",
+        "mallType": "T1688",
+        "itemId": "886087777367",
+        "title": "25 year new cross-border foreign trade Korean version casual simple loose long sleeved lapel zipper cardigan shirt youth shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oipPfR1LfMDOguZ4O_!!2219228381326-0-cib.jpg",
+        "price": "¥78.03",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiIbQr-Ds9iPOQwTgfmO14g",
+          "name": "广州婉勤贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 55,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2070625",
+        "mallType": "T1688",
+        "itemId": "895143303315",
+        "title": "25s Summer RL Ralph Pony Label Embroidered POLO Short Sleeve Knit Sweater Small Twisted Cardigan Simple T-Shirt Top Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GRRv0I1uH5n2GwTKt_!!2216489456011-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216489456011",
+          "name": "广州起运服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2497687",
+        "mallType": "WD",
+        "itemId": "7492837363",
+        "title": "******",
+        "picUrl": "https://si.geilicdn.com/open1700008665-252808396-660400000192042510760a22d234_1200_1200.jpg",
+        "price": "¥186.00",
+        "toPrice": "$29.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2158725",
+        "mallType": "T1688",
+        "itemId": "938144936323",
+        "title": "Cross border supply European code CP company workwear pocket shirt American street jacket lens badge lapel for men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01OcdwxE1JwBZBYxiDW_!!2218201461092-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4sO4e6Bg-zAOZMFskpvP1g",
+          "name": "广州小潮六服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2143048",
+        "mallType": "WD",
+        "itemId": "7402670506",
+        "title": "Full Short Sleeve Shirt Version Model Three Label Loose T-Shirt Men's and Women's Plaid-Re",
+        "picUrl": "https://si.geilicdn.com/open1779104521-252808396-573f000001923e650b5d0a8115b5_1074_1074.jpg",
+        "price": "¥117.00",
+        "toPrice": "$18.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1402906147",
+          "name": "Reenos",
+          "logo": "https://si.geilicdn.com/shopedit1402906147-3c15000001953bad21720a20e7c7-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142540391911155759",
+  "language": "en"
+}

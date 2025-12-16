@@ -1,0 +1,639 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3206997",
+        "mallType": "T1688",
+        "itemId": "985267426492",
+        "title": "休闲秋季鳄鱼原始高清薄款长袖卫衣男女同款纯棉圆领套头纯色百塔",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01b3v2ka2FhkpqIFe4N_!!2208209028912-0-cib.jpg",
+        "price": "¥54.58",
+        "toPrice": "$8.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOjHxv4qCKsp9k2oV8muZVQ",
+          "name": "铅山县鹏非电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1600705",
+        "mallType": "T1688",
+        "itemId": "934840495021",
+        "title": "250 grams of heavyweight cotton! American oversize peach blossom tree vintage print couple women loose short sleeve t-shirt man",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HoG3gI1TWfevvpNgq_!!2219539222390-0-cib.jpg",
+        "price": "¥13.00",
+        "toPrice": "$2.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219539222390",
+          "name": "揭阳市揭东区锡场镇波傲爆服装批发商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3215800",
+        "mallType": "WD",
+        "itemId": "3505120519",
+        "title": "海外限定 BPE x CHROM HEART 联名限量款马蹄猿人印花圆领T恤",
+        "picUrl": "https://si.geilicdn.com/weidian1423745562-422c00000180039613860a22e456_800_800.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1689883296",
+          "name": "Lily Show Brands衣柜",
+          "logo": "https://si.geilicdn.com/weidian1423745562-0b1600000178fac2176a0a217205_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1790092",
+        "mallType": "TB",
+        "itemId": "909398646213",
+        "title": "Cross border fashion Godspeed retro skull print summer casual trend hip-hop washed pure cotton short sleeved T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/409187313/O1CN013eZsXx23tPTbi4a5H_!!409187313.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156422319",
+          "name": "潮牌批发 一件代发",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2055825",
+        "mallType": "T1688",
+        "itemId": "906513930138",
+        "title": "Cross-border new 25 summer Europe and the United States and the United States men and women printed text ideas cotton set head short-sleeved youth popular collar men and women T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZjAVbh1MDFXPdk7EF_!!2211545901400-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211545901400",
+          "name": "佛山市禅城区鑫潮度服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1368287",
+        "mallType": "TB",
+        "itemId": "907203008054",
+        "title": "American Trendy Doberman Male and Female Pure Cotton Short-Sleeved T-Shirts",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2214911645147/O1CN01myw41X1ntNd9pylr2_!!2214911645147.jpg",
+        "price": "¥100.09",
+        "toPrice": "$15.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "429007070",
+          "name": "Trendy Brand Link",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "2361304",
+        "mallType": "WD",
+        "itemId": "7520555905",
+        "title": "RL Men's Shirt Collection",
+        "picUrl": "https://si.geilicdn.com/wdseller238424219-07f600000197c57852b70a210139_1080_1080.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "238424219",
+          "name": "SUDU-gadgets",
+          "logo": "https://si.geilicdn.com/wdseller238424219-53dd0000018cdad711910a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1664315",
+        "mallType": "TB",
+        "itemId": "611746609656",
+        "title": "(Buy One, Get One Free) 200g Heavy-Duty Xinjiang Cotton Pure Cotton Base Shirt Men's Short-Sleeve T-Shirt 2025 New Model for Men and Women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3696765290/O1CN01hj9XV81owrqwTkoYG_!!3696765290.jpg",
+        "price": "¥56.13",
+        "toPrice": "$8.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "332540370",
+          "name": "我家只做纯棉T",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3004906",
+        "mallType": "T1688",
+        "itemId": "946697540906",
+        "title": "Gallery Dept High Street Vintage Washed Distressed Heavy T-Shirt Cleanfit Boys Short-Sleeved College Students",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010PXnPP1pHU4zs1Di7_!!2214170225335-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAX-JC3XJI3SNjfREoGmw6g",
+          "name": "铅山县世辉家贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3151965",
+        "mallType": "WD",
+        "itemId": "7572525897",
+        "title": "Factory High Quality Sweat Set-XW\n",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-2c82000001988899e80c0a23b491-unadjust_1506_1506.png",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780011453",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2697413",
+        "mallType": "WD",
+        "itemId": "7569729543",
+        "title": "RL colored Pony Quarter Zip Pullover RL colored horse half zip hoodie G",
+        "picUrl": "https://cdn.findqc.com/item/20251018/mgv80d9t_fycq.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "3093405",
+        "mallType": "T1688",
+        "itemId": "991639641336",
+        "title": "欧美新款潮牌Derschutze blossm knit 重工手工花卉刺绣圆领毛衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SnCX912GTqQXYlwuj_!!2218547169017-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzkh8N4DzTXyN5oZh_9WSNQ",
+          "name": "广州市番禺区开帆服饰贸易店",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1321170",
+        "mallType": "T1688",
+        "itemId": "794946736634",
+        "title": "American fashion brand Cole Buxton short sleeved men's couple ins high street spring summer loose T-shirt women CB half sleeved\n",
+        "picUrl": "https://cdn.findqc.com/item/20250729/mdnnk0yj_3su1.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpFj8PLxgL0hsKlR9Yhsirw",
+          "name": "一鹿（广州）服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3356",
+        "mallType": "T1688",
+        "itemId": "764211462529",
+        "title": "Aime Leon Dore Abstract Color Block LOGO Printing Summer High Street Men's and Women's Loose Casual Short-sleeved T-shirt Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3crac_n3jy.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpFj8PLxgL0hsKlR9Yhsirw",
+          "name": "一鹿（广州）服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 606,
+        "qcVideoCnt": 13,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "2401423",
+        "mallType": "WD",
+        "itemId": "7471102512",
+        "title": "DX21-2] small label loose simple leisure men and women with the same short-sleeved",
+        "picUrl": "https://si.geilicdn.com/open1839861941-252808396-254d000001956468a21b0a23b491_1200_1200.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2076923",
+        "mallType": "WD",
+        "itemId": "7469187129",
+        "title": "[DX34] 2025 summer new high-quality cotton men and women with the same T-shirt printed short-sleeved",
+        "picUrl": "https://si.geilicdn.com/open1839861941-252808396-32c500000194e3b002c00aa08290_1200_1200.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1268732",
+        "mallType": "WD",
+        "itemId": "7444419028",
+        "title": "Best Batch-A2",
+        "picUrl": "https://si.geilicdn.com/pcitem1939237025-2115000001961610ea4f0a23057e_800_800.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1781212269",
+          "name": "WX",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1457762",
+        "mallType": "T1688",
+        "itemId": "917220557443",
+        "title": "Classic Men's Rl Pony Logo Polo Shirt Lapel Embroider Pure Color Cotton Large Size Loose Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250611/mbr4hohz_f5bc.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdk06KvQj2foDTeNXOyTvYA",
+          "name": "广州欣众服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 410,
+        "qcVideoCnt": 24,
+        "picWidth": "1440",
+        "picHeight": "1920"
+      },
+      {
+        "id": "3185124",
+        "mallType": "T1688",
+        "itemId": "773489986782",
+        "title": "Long term in stock cross-border summer European and American trendy brand T SHIRT loose and versatile printed short sleeved T-shirt shirt\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zWgBz11s1Ot0GtI1s_!!2216971025706-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6btN04GWFH8cZZqwk8fX-Q",
+          "name": "长汀县京溢服装店",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1387047",
+        "mallType": "T1688",
+        "itemId": "909303378737",
+        "title": "Foreign Trade Paul T-shirt LF Pony Embroidery Women's Crewneck Short-sleeved Cotton Half-sleeved Men's Sweater All-match Base Shirt Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250528/mb80ys3s_o8yy.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4l4eznzO6avG-QKxnEAv6w",
+          "name": "广州兰冰服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 555,
+        "qcVideoCnt": 74
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140376022553883111",
+  "language": "en"
+}

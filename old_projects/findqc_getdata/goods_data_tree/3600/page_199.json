@@ -1,0 +1,141 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "59398",
+        "mallType": "WD",
+        "itemId": "6691992583",
+        "title": "Ralph Lauren vintage hunting jacket p 399 yuan",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mhx0yb_aga7.jpg",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1798584048",
+          "name": ".",
+          "logo": "https://si.geilicdn.com/weidian1450586499-51540000019a2041c0890a23111a_1118_1118.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "58722",
+        "mallType": "WD",
+        "itemId": "7265719840",
+        "title": "Fashion cotton jacket (no reason for return or exchange unless it is a quality issue)",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqmwcq_rgsv.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802156977",
+          "name": "Rock Cat Store",
+          "logo": "https://si.geilicdn.com/wdseller1799811745-03320000019052d497520a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 189,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "58437",
+        "mallType": "TB",
+        "itemId": "749499678636",
+        "title": "BND Garden ROA Mountain HIKING Outdoor Colorblocking Carhartt Punch Workwear Long Pants Men's Loose",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqj6v5_1bak.jpg",
+        "price": "¥379.00",
+        "toPrice": "$59.60",
+        "status": "normal",
+        "categoryId": 11,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "57387",
+        "mallType": "T1688",
+        "itemId": "738303936498",
+        "title": "Winter new men's patchwork down jacket warm sweater knitted sleeves 2024 fashion warm stand-up collar jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nq2s5t_m0ig.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "categoryId": 33,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56669",
+        "mallType": "TB",
+        "itemId": "686435028674",
+        "title": "POLO SPORT men's solid color collar down jacket lightweight autumn and winter new warm casual white duck down jacket men",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nptlxk_x5t6.jpg",
+        "price": "¥2,990.00",
+        "toPrice": "$470.16",
+        "status": "normal",
+        "categoryId": 33,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56616",
+        "mallType": "TB",
+        "itemId": "691077019106",
+        "title": "Super Mue Jacket 다운 재재킷",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npssrd_gr9s.jpg",
+        "price": "¥850.00",
+        "toPrice": "$133.66",
+        "status": "normal",
+        "categoryId": 33,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56405",
+        "mallType": "TB",
+        "itemId": "735415913154",
+        "title": "BR Down Jacket Short Jacket with Hidden Hat",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npl0ts_bxcz.jpg",
+        "price": "¥660.00",
+        "toPrice": "$103.78",
+        "status": "normal",
+        "categoryId": 33,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56107",
+        "mallType": "TB",
+        "itemId": "743531965516",
+        "title": "Moe Straight Zipper Side Double Metal Zipper Sleeve with Small Label 2 Color Down Six",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npgk9s_o1ak.jpg",
+        "price": "¥668.00",
+        "toPrice": "$105.04",
+        "status": "normal",
+        "categoryId": 33,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56046",
+        "mallType": "TB",
+        "itemId": "698107462333",
+        "title": "F Cotton jacket high version half zipper stand-up collar 56B",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npgb6q_vr82.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "categoryId": 33,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145189311911106909",
+  "language": "en"
+}

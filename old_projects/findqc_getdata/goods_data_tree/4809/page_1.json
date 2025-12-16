@@ -1,0 +1,353 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "578",
+        "mallType": "TB",
+        "itemId": "669734042504",
+        "title": "50 Stickers 50Pcs Ba Stickers Laptop Scrapbook Ba Stickers",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2egd9_5wut.jpg",
+        "price": "¥12.20",
+        "toPrice": "$1.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113140732",
+          "name": "林避风雨路的小店",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 101,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "181420",
+        "mallType": "TB",
+        "itemId": "838653018205",
+        "title": "[Surprise Price] Haikyuu!! Hinata Shoyo Backpack Volleyball Pendant Anime Merchandise Gift Collection",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqsh2x_v387.jpg",
+        "price": "¥30.22",
+        "toPrice": "$4.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "276914512",
+          "name": "GuGuGuGu",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "174317",
+        "mallType": "TB",
+        "itemId": "570571076826",
+        "title": "Patent Leather Bikini Set, Wai Mengshe Black, Pink, White, Red, Purple Collection, Daily Wear, Photoshoot, Wai Mengshe",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq1vob_lt54.jpg",
+        "price": "¥60.42",
+        "toPrice": "$9.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33896400",
+          "name": "歪萌舍",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32546",
+        "mallType": "T1688",
+        "itemId": "558421030190",
+        "title": "Ba monkey keychain influx of apes three-color lock key ring small pendant jewelry",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njubhp_8f3k.jpg",
+        "price": "¥2.50",
+        "toPrice": "$0.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3407308093",
+          "name": "深圳市宝安区国外风工艺礼品商行",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "22584",
+        "mallType": "TB",
+        "itemId": "655001142168",
+        "title": "Playing ball SpongeBob SquarePants Patrick Star brooch female Japanese cute cartoon anime characters badge decorative book bag pins",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ngu10l_40y8.jpg",
+        "price": "¥3.90",
+        "toPrice": "$0.61",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147241152553900759",
+  "language": "en"
+}

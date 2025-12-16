@@ -1,0 +1,361 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "226205",
+        "mallType": "WD",
+        "itemId": "7248659414",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg8g39_craf.jpg",
+        "price": "¥133.00",
+        "toPrice": "$20.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735791321",
+          "name": "新丝路鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 49,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "226083",
+        "mallType": "WD",
+        "itemId": "7247584684",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg6yk9_93en.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735791321",
+          "name": "新丝路鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "226069",
+        "mallType": "WD",
+        "itemId": "7247546888",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg5wvq_mk3u.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735791321",
+          "name": "新丝路鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2406600",
+        "mallType": "WD",
+        "itemId": "7526718949",
+        "title": "Fall and winter casual fashion hooded sweatshirt-xyw",
+        "picUrl": "https://si.geilicdn.com/pcitem901901383085-0bf800000192e33ea66f0a20e2c5_1200_1200.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1770735261",
+          "name": "一个小目标",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2223918",
+        "mallType": "T1688",
+        "itemId": "882106794441",
+        "title": "Spring and Autumn RL Long Sleeve Hoodie for Men's Casual Solid Color Embroidered Pony Logo Zipper Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UyttEu2FhkoBLfxFa_!!2208209028912-0-cib.jpg",
+        "price": "¥36.65",
+        "toPrice": "$5.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOjHxv4qCKsp9k2oV8muZVQ",
+          "name": "铅山县鹏非电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 332,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2223261",
+        "mallType": "T1688",
+        "itemId": "652341844432",
+        "title": "2023 Spring and Autumn year new men's Korean Slim hooded jacket Korean Slim fashion printing jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PzLAee1t6is3eOHcb_!!3494655853-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3494655853",
+          "name": "松阳县帅克服装批发部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2223666",
+        "mallType": "WD",
+        "itemId": "7262088400",
+        "title": "Casual couple set",
+        "picUrl": "https://si.geilicdn.com/open1719588686-1234478995-3d2500000191647a1d180a210559_1024_1024.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1719588686",
+          "name": "SX Market",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2040586",
+        "mallType": "T1688",
+        "itemId": "925428850385",
+        "title": "American POLO cotton half-high zipper sweater fall new pony stand-up collar casual outwear versatile tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ikip6W26jHZiauCJP_!!2219767307697-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219767307697",
+          "name": "广州橙宝服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2040500",
+        "mallType": "T1688",
+        "itemId": "793893795076",
+        "title": "6PM Foreign Trade Cross border AliExpress Amazon Zipper Top Sweatshirt Coat Long Sleeve Hoodie Embroidered with Velvet",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TEtVLV1gMfuimZLdk_!!2213938324128-0-cib.jpg",
+        "price": "¥63.00",
+        "toPrice": "$9.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBysftIZoiYQ3DTTcYLKSwAQ",
+          "name": "东莞市虎门楚瑜服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 201,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2040318",
+        "mallType": "T1688",
+        "itemId": "903955454657",
+        "title": "Correct version of the Meng family summer new couple sweater M family badge embroidery letters Shu breathable casual round neck tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kfCje11zLjtRYIpzO_!!2219501506698-0-cib.jpg",
+        "price": "¥66.00",
+        "toPrice": "$10.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219501506698",
+          "name": "义乌市然些电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2040433",
+        "mallType": "T1688",
+        "itemId": "928246878135",
+        "title": "Cross-border STONE ISLA stone island generation purchase zipper cardigan hooded sweater men and women's models hooded jacket sweater tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RYlAMt1NaRDcH1j8f_!!2219854451586-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219854451586",
+          "name": "广州欧朗服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1863132",
+        "mallType": "TB",
+        "itemId": "940755343677",
+        "title": "ESSENTIALS plush printed hooded sweatshirt for men and women, loose and casual, pure cotton looped pants, high street set trendy",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2206507970482/O1CN01CeOFrA1FQnyAliHYj_!!2206507970482.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "511615227",
+          "name": "阿兰威迪服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2035923",
+        "mallType": "TB",
+        "itemId": "782710483109",
+        "title": "Trendy Street Loose Sweatshirt Suit Men American Tide Hip Hop Skateboarding Casual Couple Suit Spring and Autumn Clothes",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3963271900/O1CN01GZFzkY1PuFTFLcoHs_!!3963271900.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "193302120",
+          "name": "夏洛特服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1863121",
+        "mallType": "T1688",
+        "itemId": "940997447748",
+        "title": "Foreign trade hot selling RL Little Horse logo hoodie men's half zipper stand up collar cotton style solid color embroidery knitted sweater long sleeved jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010lFGLE1TEoDUr82Ph_!!2220030392351-0-cib.jpg",
+        "price": "¥41.90",
+        "toPrice": "$6.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220030392351",
+          "name": "铅山县资漫电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 209,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1862995",
+        "mallType": "T1688",
+        "itemId": "853512623988",
+        "title": "Foreign Trade Men's and Women's Ralph Lauren New Classic Pony Logo Embroidery Standard Pullover Round Neck Long Sleeve Casual Sweat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016wf7WT1toEoAjmyGN_!!2216447485948-0-cib.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmsj2O9g5N2szGNiGe4EidA",
+          "name": "东莞市长安芯昕服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 143,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1860619",
+        "mallType": "WD",
+        "itemId": "7475627091",
+        "title": "em sta full range",
+        "picUrl": "https://si.geilicdn.com/open1825510877-1234478995-52d90000019703562dd70a23b4de_1920_1920.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1825510877",
+          "name": "CN FIRE STITCH",
+          "logo": "https://si.geilicdn.com/wdseller1956967710-37e200000199bc0068ce0a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1860508",
+        "mallType": "T1688",
+        "itemId": "890001896580",
+        "title": "Europe and the United States across the border American retro street trend Harajuku hip-hop zipper hoodie sports sweater jacket men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GgsZvr1KRKTGaS5MZ_!!2215002491160-0-cib.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215002491160",
+          "name": "义乌市后周服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1679764",
+        "mallType": "T1688",
+        "itemId": "782892492917",
+        "title": "2023 new play peach heart cardigan jacket back big black heart collar terry sweater men and women parent-child models",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000001280/O1CN01laxQtE1LKHuYvXwmo_!!6000000001280-0-tbvideo.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217746612756",
+          "name": "深圳市宝安区腾煌贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 164,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1679643",
+        "mallType": "WD",
+        "itemId": "7282796475",
+        "title": "Original classic looped round neck long sleeved spring and autumn hoodie",
+        "picUrl": "https://si.geilicdn.com/open1750913753-252808396-3d810000019265cb8ec60a210298_800_800.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1750913753",
+          "name": "核桃",
+          "logo": "https://si.geilicdn.com/weidian1991015231-145000000199972d3f7a0a20e672_996_996.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143383972553921878",
+  "language": "en"
+}

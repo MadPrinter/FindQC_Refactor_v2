@@ -1,0 +1,384 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3172968",
+        "mallType": "WD",
+        "itemId": "7569804470",
+        "title": "服饰",
+        "picUrl": "https://si.geilicdn.com/pcitem901862111834-690900000192c7596b810a239846_1080_1080.jpg",
+        "price": "¥440.00",
+        "toPrice": "$69.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637970835",
+          "name": "CnBuy",
+          "logo": "https://si.geilicdn.com/wdseller1998773248-6cca00000199e23e09390a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2804283",
+        "mallType": "WD",
+        "itemId": "7260106641",
+        "title": "Embroidered hard shell windproof and waterproof outdoor leisure hiking jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1349447958-3afa0000019155324a410a239846_1200_1200.jpg",
+        "price": "¥266.00",
+        "toPrice": "$41.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1349447958",
+          "name": "Lock shop（仅七天无理由退货）",
+          "logo": "https://si.geilicdn.com/wdseller1349447958-781d0000019010a28bbf0a2301b4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2874706",
+        "mallType": "T1688",
+        "itemId": "904462144589",
+        "title": "Niaojia Ping Ti SL beta laminated jacket for men and women, windproof full overflow rubber outdoor hard shell jacket jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01thAgwG1qUb0gnMTvr_!!2606775499-0-cib.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7eOERXtL_Sp9CASF_7JhIg",
+          "name": "台州市鸿踏服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2302781",
+        "mallType": "WD",
+        "itemId": "7535560424",
+        "title": "NUM Punching Jacket Jacket",
+        "picUrl": "https://si.geilicdn.com/open1684063885-1234478995-59a300000195b94e44990a8133b0_1200_1200.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1753845725",
+          "name": "global fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate1957274275-3f1f00000197b69b37240a210256-unadjust_686_686.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2154820",
+        "mallType": "WD",
+        "itemId": "7493748016",
+        "title": "New Fashionable Punching Jacket-SP",
+        "picUrl": "https://si.geilicdn.com/open1854641997-1234478995-6c39000001977907207f0a22d249_1080_1080.jpg",
+        "price": "¥440.00",
+        "toPrice": "$69.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854641997",
+          "name": "Super shop",
+          "logo": "https://si.geilicdn.com/shopedit1927964658-714c00000194c9d7ef590a2102c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3133792",
+        "mallType": "TB",
+        "itemId": "965514252473",
+        "title": "Gtx Waterproof and Windproof Ski Jacket! Urban Functional Business Casual Mid-Length Thick Hooded down Jacket for Men",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/46319897/O1CN01QezpIK2MysxTbUJYA~crop,0,85,640,640~_!!46319897.jpg",
+        "price": "¥171.28",
+        "toPrice": "$26.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33972309",
+          "name": "简衣男装一原沧桑出品外贸男装户外",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3167590",
+        "mallType": "T1688",
+        "itemId": "681242092290",
+        "title": "Spring and Autumn New Outdoor Single Layer Thin Jacket Men's Windproof Breathable Couple's Windbreaker Jacket Casual Coat Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kKEOfV1eKiobZnh8B_!!2210820343853-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6fFTO_xyFzNWTcITtn3JjQ",
+          "name": "石狮市年少有为服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901871",
+        "mallType": "T1688",
+        "itemId": "946977432641",
+        "title": "[High Quality] Taizhou Bird Home beta Beta Beta LW Hard Shell Punching Jacket lightweight waterproof wind outdoor",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zwtCRQ1J3gRPM0m44_!!2220124240973-0-cib.jpg",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220124240973",
+          "name": "三门县云然户外用品厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1170388",
+        "mallType": "T1688",
+        "itemId": "900110555403",
+        "title": "Sports Jacket Men's Running Jacket Outdoor Charge Clothes Spring and Autumn Casual Hooded Jacket Windproof Track and Field Training",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014FmUHp1Sdi6xMop1r_!!2217899822270-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFK_CPjdM9ikEap7FZdD5Ww",
+          "name": "广州安耐运动服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2608321",
+        "mallType": "WD",
+        "itemId": "7557694098",
+        "title": "Punching Jacket-Collection 8",
+        "picUrl": "https://si.geilicdn.com/pcitem1952892442-7edb000001991896198a0a230115_800_800.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668008861",
+          "name": "w2c",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2638682",
+        "mallType": "WD",
+        "itemId": "7445369622",
+        "title": "Simple Jacket Windproof Waterproof Hooded Hiking Jacket",
+        "picUrl": "https://si.geilicdn.com/open1690402957-1234478995-6124000001961c1c69e40a8115c2_800_800.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1690402957",
+          "name": "fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate1921566546-79b9000001954de5629c0a20e2c5-unadjust_720_720.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2215838",
+        "mallType": "T1688",
+        "itemId": "944880790291",
+        "title": "Mammoth Spring & Fall Windproof Soft Shell Jacket Men's Outdoor Loose Hooded Sports Waterproof Jacket Trendy",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01o32rKl2DaJ8SVW8rY_!!2219060088625-0-cib.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByN4avLj4-SfdDUyxNBUXgQ",
+          "name": "即墨区驰润鸿服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2809339",
+        "mallType": "WD",
+        "itemId": "7567029658",
+        "title": "SHbo-高品质户外冲锋衣集合TOPWhatsApp+18359305797",
+        "picUrl": "https://si.geilicdn.com/pcitem1984311395-43b9000001993e5f11000a811411_800_800.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684195715",
+          "name": "High-quality products to wear",
+          "logo": "https://si.geilicdn.com/shopedit1974687175-74e1000001983b1ef9510a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3149519",
+        "mallType": "WD",
+        "itemId": "7569381429",
+        "title": "户外软壳冲锋衣防风",
+        "picUrl": "https://si.geilicdn.com/open1875660057-252808396-42ae00000195b8cd62240aa08290_1290_1290.jpg",
+        "price": "¥359.00",
+        "toPrice": "$56.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1874246272",
+          "name": "UrbanFactory",
+          "logo": "https://si.geilicdn.com/shopedit1412063705-018300000199d7666e020a23038e-unadjust_499_499.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2318086",
+        "mallType": "T1688",
+        "itemId": "938605320532",
+        "title": "Niaojia's New Sl Hard-Shell Jacket, Fully Heat-Sealed, Rubber-Overflowed, Single-Layer Mountaineering Jacket, Hot and Cold-Pressed Three-In-One down Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250905/mf5yczgf_fdjs.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBg7MKfOuk0qP-fOK6Z8o3Lw",
+          "name": "三门飞狼服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2035572",
+        "mallType": "WD",
+        "itemId": "7426086690",
+        "title": "Stormtrooper jacket, outdoor armband, hooded jacket, outerwear",
+        "picUrl": "https://si.geilicdn.com/open1730337125-252808396-5458000001959a52c3e70a231226_1080_1080.jpg",
+        "price": "¥181.72",
+        "toPrice": "$28.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1730337125",
+          "name": "Sunshine Buy",
+          "logo": "https://si.geilicdn.com/shopedit1887914577-3eb200000195be55a8790a8133cc-unadjust_250_250.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2738706",
+        "mallType": "WD",
+        "itemId": "7526549949",
+        "title": "ARC Outdoor Hard Shell Jacket TERYX",
+        "picUrl": "https://si.geilicdn.com/open1665611613-1234478995-65a000000198ae73229f0a231226_800_800.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665611613",
+          "name": "Coco Shop",
+          "logo": "https://si.geilicdn.com/weidian1954676780-2b2d000001974b9300b90a239846_990_990.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1419922",
+        "mallType": "T1688",
+        "itemId": "901561477849",
+        "title": "Hooded hard shell winter new assault clothing plus cotton dragon year limited windproof waterproof warm cotton-padded jacket handsome wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tDRF5n1q9Wmj6RFtN_!!2219413035453-0-cib.jpg",
+        "price": "¥99.30",
+        "toPrice": "$15.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4Je0ynIJjjVUklBo-CbvBQ",
+          "name": "广州亭合贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3141527",
+        "mallType": "WD",
+        "itemId": "7550073433",
+        "title": "NA 冲锋衣外套 半拉链",
+        "picUrl": "https://si.geilicdn.com/pcitem1956204083-7c9e000001994e926eea0a8134f0_900_1200.jpg",
+        "price": "¥310.00",
+        "toPrice": "$48.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1847318237",
+          "name": "A+",
+          "logo": "https://si.geilicdn.com/shopedit1956204083-73f900000196cf3755e60a23038e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2097793",
+        "mallType": "WD",
+        "itemId": "7491165119",
+        "title": "【DX6-10】Casual Jacket Hooded Solid Color Blouse Coat",
+        "picUrl": "https://si.geilicdn.com/open1667032845-252808396-510300000197714f1b0b0a8115c2_1278_1278.jpg",
+        "price": "¥219.30",
+        "toPrice": "$34.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667032845",
+          "name": "超级牛",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424514-4cfb00000195e79975270a81347d-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114505865137310462",
+  "language": "en"
+}

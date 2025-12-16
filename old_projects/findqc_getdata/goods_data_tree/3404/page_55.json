@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1973869",
+        "mallType": "WD",
+        "itemId": "7491835887",
+        "title": "Sweatshirt#",
+        "picUrl": "https://si.geilicdn.com/open1735853037-1234478995-2d940000019778640e9b0a8133b0_800_800.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1984433",
+        "mallType": "WD",
+        "itemId": "7513538472",
+        "title": "Hoodie#\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901961619676-13a00000019867ed8b910a239646_800_800.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2372970",
+        "mallType": "WD",
+        "itemId": "7541605237",
+        "title": "[The best 1:1] Factory direct sales010-MLMLSPHO0202",
+        "picUrl": "https://si.geilicdn.com/open1801466197-1234478995-407f000001982c9348f90a23b491_1512_2016.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1829917603",
+          "name": "RichBuy",
+          "logo": "https://si.geilicdn.com/shopedit1986951808-30120000019a0ad84a1c0a2301b4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2045419",
+        "mallType": "T1688",
+        "itemId": "927939745761",
+        "title": "Cross border Stone Island classic solid color round neck long sleeved badge sports hoodie for men and women, one piece hair replacement genuine product",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0108hA131zp3FoYz9Eo_!!2218329476762-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-fGPvnIijFOPC3RfKWsm3g",
+          "name": "广州赛谷服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2116944",
+        "mallType": "T1688",
+        "itemId": "788280425981",
+        "title": "Corteiz trendy street loose sweater set outfit tide brand hip-hop skateboarding casual sweater men's spring and fall suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01W1lfH61kjLz9GdGFQ_!!2217811274719-0-cib.jpg",
+        "price": "¥31.00",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217811274719",
+          "name": "义乌市羽柒服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3148013",
+        "mallType": "WD",
+        "itemId": "7581661172",
+        "title": "Fashion hoodies",
+        "picUrl": "https://si.geilicdn.com/wdseller1580621215-7fb600000199514e88a60a23037f_1200_1200.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867175491",
+          "name": "CROSS STAR",
+          "logo": "https://si.geilicdn.com/shopedit1976990974-381c00000198ef385ee80a2396f4-unadjust_614_614.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553316",
+        "mallType": "WD",
+        "itemId": "7485539156",
+        "title": "High Quality Sweatshirt Set-FW2C",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-1a84000001973483e5370aa08290_1200_1200.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1714358237",
+          "name": "BROVIBE",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1770225",
+        "mallType": "WD",
+        "itemId": "6938893080",
+        "title": "[00's Vintage Wear] High quality Oak Oak chest circle small logo embroidery Logo solid color vintage round neck padded sweatshirt men and women",
+        "picUrl": "https://si.geilicdn.com/wdseller1303790680-5f810000018c32e48f8f0a2313a2_1284_1284.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1303790680",
+          "name": "草帽出品【八点开拍】🎩",
+          "logo": "https://si.geilicdn.com/bj-wd-1303790680-1514196291898-1398575325_1239_1185.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3131803",
+        "mallType": "T1688",
+        "itemId": "684328654711",
+        "title": "2025年春秋连帽卫衣男潮牌美式外套纯色宽松上衣高街情侣百搭帽衫",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YryGG029v8OuZziiE_!!2214044128129-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214044128129",
+          "name": "石狮市克莱纳斯服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533943",
+        "mallType": "T1688",
+        "itemId": "894280311673",
+        "title": "Cross-border new Europe and the United States hip-hop singers with the same foam letters printed sweat pants hoodie sweater men and women suit tide",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000005191/O1CN01v2Bzzx1oDWo8CTVXh_!!6000000005191-0-tbvideo.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2674432",
+        "mallType": "TB",
+        "itemId": "847780836205",
+        "title": "Zhangyu's Kenijima-Style Vintage Wyoming University Limited Edition Retro Navy Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2213067445201/O1CN01JPapgU1oI6wNQ5rtG_!!2213067445201.jpg",
+        "price": "¥172.81",
+        "toPrice": "$27.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "232928763",
+          "name": "漳渔Make",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1347364",
+        "mallType": "T1688",
+        "itemId": "901965081418",
+        "title": "Cross-border European and American Fashion Brand 25 Spring and Autumn and Winter Printed Long-sleeved Men's and Women's Loose All-match Couple's High-quality Round Neck Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CLU2MJ224k2VsaBhT_!!2219457227067-0-cib.jpg",
+        "price": "¥69.90",
+        "toPrice": "$10.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUuJemymEjwJPKkbapfFVtw",
+          "name": "揭阳市揭东区新亨镇集超服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 106,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2264726",
+        "mallType": "WD",
+        "itemId": "7528731377",
+        "title": "High street retro batik washed vintage hooded zipper hoodie",
+        "picUrl": "https://si.geilicdn.com/open313949354-1234478995-022200000198c6790aac0a8133b0_600_600.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "313949354",
+          "name": "Apex made",
+          "logo": "https://si.geilicdn.com/shopedit313949354-0aa900000198c11a6b950a231177-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2844450",
+        "mallType": "WD",
+        "itemId": "7541795399",
+        "title": "Factory Autumn/Winter Casual Fashion Hoodie - LF",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-021d00000198d5a9cbc60a23b4de_1200_1200.jpg",
+        "price": "¥154.80",
+        "toPrice": "$24.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "982822976",
+          "name": "CRAGON",
+          "logo": "https://si.geilicdn.com/shopedit982822976-1fda00000196bf7a94a80a210139-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2742824",
+        "mallType": "T1688",
+        "itemId": "736218949085",
+        "title": "23Ss Corehoodie 23 Black Core Hoodies",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01q61tSX28s6Rpk6tDs_!!2216476787987-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZpIlSFNzjXlgOXfl1PS1wg",
+          "name": "宁波市海曙永泰服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2713482",
+        "mallType": "WD",
+        "itemId": "7279627515",
+        "title": "[New Listing] Fashion big logo hoodie sweatshirt, thin and versatile!",
+        "picUrl": "https://si.geilicdn.com/open1834819569-1234478995-60fb000001923380c6df0a239383_1227_1228.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834819569",
+          "name": "Digital store",
+          "logo": "https://si.geilicdn.com/pcdecorate1807659364-17c200000190168472c60a23038e-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2471317",
+        "mallType": "WD",
+        "itemId": "7387441340",
+        "title": "Casual matching suit for men and women",
+        "picUrl": "https://si.geilicdn.com/pcitem1231267992-7fde00000194d0ab091c0a20e672_1080_1349.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1231267992",
+          "name": "ASEN",
+          "logo": "https://si.geilicdn.com/wdseller1231267992-76a000000191a894efbe0a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2419643",
+        "mallType": "WD",
+        "itemId": "7541755593",
+        "title": "Factory high-quality autumn and winter new classic hot hooded sweatshirt set ce23",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-4f3200000195d17578e50a23b491_1200_1200.jpg",
+        "price": "¥118.80",
+        "toPrice": "$18.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "982822976",
+          "name": "CRAGON",
+          "logo": "https://si.geilicdn.com/shopedit982822976-1fda00000196bf7a94a80a210139-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2023900",
+        "mallType": "TB",
+        "itemId": "958104287332",
+        "title": "06-Fw22 Hooded Sweatshirt Stock X Goat",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/322524793/O1CN01fMsd871lHFRHbSPu4_!!322524793.jpg",
+        "price": "¥142.91",
+        "toPrice": "$22.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60023852",
+          "name": "富贵潮哥哥",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1891910",
+        "mallType": "T1688",
+        "itemId": "678219154483",
+        "title": "ESSENTIALS Children's Autumn and Winter Fleece-Lined Casual Children's Wear Boys and Girls New Sweater Children's Pullover",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vhPnsu1Cw08CB526S_!!2210916220144-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB2OEXBaxbJX2zNtdkXHYNLg",
+          "name": "上饶市潮工坊服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 38,
+        "qcPicCnt": 81,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142073521913299020",
+  "language": "en"
+}

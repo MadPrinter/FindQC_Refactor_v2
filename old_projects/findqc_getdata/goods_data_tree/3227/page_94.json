@@ -1,0 +1,377 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2515445",
+        "mallType": "WD",
+        "itemId": "7323234041",
+        "title": "Classic Versatile T-Shirt-006",
+        "picUrl": "https://si.geilicdn.com/pcitem901913528699-3f6b00000193cde9ce660a2396f4_1200_1200.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700486773",
+          "name": "Sumlly Shopping",
+          "logo": "https://si.geilicdn.com/weidian1912928605-3248000001945f2e43f90a8134f0_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1987928",
+        "mallType": "TB",
+        "itemId": "890179035658",
+        "title": "Casablanca short-sleeved t-shirt men's heavyweight cotton 260g American tide niche summer loose half-sleeved tops",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3604726099/O1CN01YismQ41uvOdkG3PkY_!!3604726099.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "167553790",
+          "name": "中国潮牌有嘻哈",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1987634",
+        "mallType": "TB",
+        "itemId": "896038675996",
+        "title": "BZTZQ 2025 summer new printing round neck short-sleeved T-shirt loose version of men and women couples models top bottom shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2208405608377/O1CN01b4UxjU2Bkisl0cmwA_!!2208405608377.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "231053871",
+          "name": "小代冲锋衣",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1430298",
+        "mallType": "T1688",
+        "itemId": "911747832161",
+        "title": "Chelsea Jersey 2526 Home and Away Thai Version 2223 Football Suit Short Sleeve Top Training Suit Year of the Snake Version Team Uniform No.",
+        "picUrl": "https://cdn.findqc.com/item/20251002/mg8mqblh_ctpw.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWCg0rDbG7g_tXZ1DWWor0g",
+          "name": "广州市顺烽服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2702219",
+        "mallType": "T1688",
+        "itemId": "823759548464",
+        "title": "2024 Europe and the United States cross-border new women's long-sleeved stretch round neck ribbed T-shirt Slim casual basic paragraph tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01m45nC61ag0y7wI5Ds_!!2217077033358-0-cib.jpg",
+        "price": "¥12.50",
+        "toPrice": "$1.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217077033358",
+          "name": "赣州市嘉莉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2588291",
+        "mallType": "TB",
+        "itemId": "632577847325",
+        "title": "warren lotas Trendy American Basketball T-Shirt Curry James Alphabet Gobker Durant Short Sleeve ins",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1821370988/O1CN01TmPCJB1JAXx65L9AD_!!1821370988.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "466965569",
+          "name": "旋旋体育",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2700286",
+        "mallType": "T1688",
+        "itemId": "725302190319",
+        "title": "Summer new amiri short-sleeved shirt classic letters logo printing Amiri tide men and women shirts shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Scm0bg1jMchddrDtc_!!2215408074534-0-cib.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215408074534",
+          "name": "佛山市禅城区惠佳蕾服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2347937",
+        "mallType": "T1688",
+        "itemId": "801030106354",
+        "title": "Factory Outlet FOG CRAZY Line ESSENTIALS Eight Seasons 22 Summer American High Street Fashion Brand Short Sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HTMYO51Ye41sxIjvI_!!2215534553083-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvCfizEFJJYet7J-A011nRg",
+          "name": "象山文美服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2171719",
+        "mallType": "T1688",
+        "itemId": "943615275061",
+        "title": "That's a Awful Lot of Cough Syrup Cross-Border European and American Men's Fashion Brand Short-Sleeved Men's T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012WVUBq20RywxsL8EX_!!2218903556847-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBU52j4cAJ8QmWaYqTJpCTYg",
+          "name": "深圳市福田区滨岩贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2144561",
+        "mallType": "T1688",
+        "itemId": "785881672873",
+        "title": "Cross border trendy brand letter printed short sleeved T-shirt American casual loose street hip-hop retro half sleeved men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pvfvx51FfSWinVbHf_!!2216891680514-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpFj8PLxgL0hsKlR9Yhsirw",
+          "name": "一鹿（广州）服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 120,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2143232",
+        "mallType": "T1688",
+        "itemId": "746082192657",
+        "title": "VLONE FOG pixel cherry blossom pink big V letter heavyweight long sleeved T-shirt round neck sweatshirt base shirt trend",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tHjHJT24SfosXrPlv_!!2215632767390-0-cib.jpg",
+        "price": "¥59.90",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgjUk4ri80m4lzD8FiQhUFw",
+          "name": "广州市馨雅贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2035704",
+        "mallType": "T1688",
+        "itemId": "890116089933",
+        "title": "Nanyou direct supply Paris front and back double ring embroidery splicing washed short-sleeved men and women with the same T-shirt high grams of small neckline",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01T44Ey12ILGAU4TmNk_!!2219277829269-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219277829269",
+          "name": "新余泰菲商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1987016",
+        "mallType": "WD",
+        "itemId": "7242557026",
+        "title": "青春版活动套装（NEW）",
+        "picUrl": "https://si.geilicdn.com/pcitem1583459867-5a7c0000018fe41ceabf0a239846_1282_1282.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1866605945",
+          "name": "Jackson",
+          "logo": "https://si.geilicdn.com/shopedit1583459867-54e8000001933f26ee6a0a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1986840",
+        "mallType": "T1688",
+        "itemId": "905074010465",
+        "title": "Cross border source summer new solid color chest patch compass small label short sleeved unisex loose cotton T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017BbAut1rpx5y9TWr5_!!2219501725681-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJeRyHCmeBHlWehF9nvIaHg",
+          "name": "广州衣己服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1860320",
+        "mallType": "T1688",
+        "itemId": "816065200391",
+        "title": "Wholesale Foreign Trade Trendy Brand High Quality Off Short Sleeve OW Trendy Brand Dissolving Arrow Gradient Starry Sky Splashing Ink T-shirt Couple's Style",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VuY0xg1JL5OWBNcVG_!!2215779331011-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBvmMqo19MJ2aq98pqoth8w",
+          "name": "广州思成跨境贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1675970",
+        "mallType": "T1688",
+        "itemId": "892497013859",
+        "title": "The correct version of cross-border SS25 tide Paris classic models B family letters printed loose men and women couples short-sleeved T-shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000000761/O1CN01CI7mqp1HUaRSxqHEz_!!6000000000761-0-tbvideo.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217666833296",
+          "name": "佛山市南海区蓝靓阁服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1675938",
+        "mallType": "WD",
+        "itemId": "7473069575",
+        "title": "FFB Fashion Casual T-shirt-14",
+        "picUrl": "https://si.geilicdn.com/open1621880285-1234478995-5a8a00000196ec3b0ee40a22d249_1200_1200.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621880285",
+          "name": "FunkyFitsBuy",
+          "logo": "https://si.geilicdn.com/wdseller1957175964-564000000196e87b77650a207569_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1653234",
+        "mallType": "T1688",
+        "itemId": "889098579807",
+        "title": "FOG ICON compound line 2025 spring and summer new double row dopamine letters short-sleeved men and women high street T-shirt half-sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010x1pdw2A5DMmzxskc_!!2218164908151-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218164908151",
+          "name": "佛山市雅婷服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1653093",
+        "mallType": "WD",
+        "itemId": "7428743344",
+        "title": "Sy29",
+        "picUrl": "https://si.geilicdn.com/wdseller1947146724-6ec10000019624b198e90a230246_1290_1290.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1312301",
+        "mallType": "WD",
+        "itemId": "7455549579",
+        "title": "Athletic Short Sleeve Quick Dry-HD",
+        "picUrl": "https://si.geilicdn.com/open968554960-1234478995-05d40000019677f46ba90a8133b0_1600_1200.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "968554960",
+          "name": "YT-Clothes",
+          "logo": "https://si.geilicdn.com/weidian968554960-493a00000193488ac3770a20e672_1112_1112.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114149428249898877",
+  "language": "en"
+}

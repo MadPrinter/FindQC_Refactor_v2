@@ -1,0 +1,625 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2898371",
+        "mallType": "WD",
+        "itemId": "7481777961",
+        "title": "Functional multi-pocket waterproof casual work pants",
+        "picUrl": "https://si.geilicdn.com/pcitem1411762318-62830000017d9e1794a40a20e672_1984_1984.jpg",
+        "price": "¥348.00",
+        "toPrice": "$54.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896990",
+        "mallType": "TB",
+        "itemId": "706705590601",
+        "title": "Pas Cycling Clothing Summer Bib Shorts Cycling Short-Sleeved Suit Road Cycling Clothing Comfortable and Breathable",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk8l2i9_sed7.jpg",
+        "price": "¥66.10",
+        "toPrice": "$10.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "517292914",
+          "name": "迈赛力运动服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3138297",
+        "mallType": "T1688",
+        "itemId": "873871940204",
+        "title": "FOX Downhill Suit Quick-Dry Breathable Long-Sleeved T-Shirt Top Men's Mountain Motorcycle Suit Racing Suit Off-Road Cycling Suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01iDxu4b1f0P6lDQZnj_!!2212319503944-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOD3DJPQd0BBVhk9snTmh1Q",
+          "name": "东莞市茶山一帆风顺服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3122805",
+        "mallType": "WD",
+        "itemId": "7603120378",
+        "title": "巴黎球衣2122巴黎训练服长袖半拉足球训练服成人套装厂家直批代发",
+        "picUrl": "https://si.geilicdn.com/open1622517075-1622517075-59650000019a748bfe0d0a8133b0_360_480.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622517075",
+          "name": "Janekrep",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-6d8b00000199f23ea2530a20e7c7-unadjust_1024_1024.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2630568",
+        "mallType": "T1688",
+        "itemId": "781066087803",
+        "title": "Cross-border short-sleeved cycling suit can be made to send any picture to customer service one can be made factory direct sales.",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01z0OzF21tzgYtlWdl4_!!3328715973-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6aXs5_0spdsCnbFdmFpKHg",
+          "name": "深圳市陌熙林贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2632738",
+        "mallType": "T1688",
+        "itemId": "841181523516",
+        "title": "PAS2024款夏季男女自行车骑行服单车公路车运动装备套装速干防晒",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DMRh2D1cSORFKPOrn_!!2218720813599-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218720813599",
+          "name": "东莞市茶山鸿联服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2875206",
+        "mallType": "TB",
+        "itemId": "727335371862",
+        "title": "Cpo Independently Designed Sports Retro Jersey Long-Sleeve High-Neck Polo Zipper T-Shirt Loose Fit Unisex",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/114718968/O1CN01CbzWDy2G7Om3v6u2l_!!114718968.jpg",
+        "price": "¥174.39",
+        "toPrice": "$27.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36030542",
+          "name": "罗尼仔",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2478255",
+        "mallType": "T1688",
+        "itemId": "952797885381",
+        "title": "Europe and the United States across the border simple splicing letters printed round neck loose long-sleeved t-shirt fall and winter bottoming casual pullover tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pT8HhP1Y7Y1WLlSdy_!!2219188173012-0-cib.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219188173012",
+          "name": "义乌市雁川贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1877562",
+        "mallType": "TB",
+        "itemId": "776578331902",
+        "title": "24-25 De Guo Home Player Version Jersey Football Uniform",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/4284346448/O1CN01g15n9U1xVEluLf6ii_!!4284346448.jpg",
+        "price": "¥59.89",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "566835888",
+          "name": "博邦体育",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1876614",
+        "mallType": "TB",
+        "itemId": "801282643566",
+        "title": "112 Heavyweight High Version GODSPEED American Hip Hop Short Sleeve Direct Printed West Coast Street Trend T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2201440195721/O1CN014w7mG61s8GvVCCWiL_!!2201440195721.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "190175786",
+          "name": "Beast欧美潮流",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1381456",
+        "mallType": "T1688",
+        "itemId": "921533603889",
+        "title": "Long sleeved football jersey 242526 player version Arsenal Miami Portugal Tottenham Argentina Paris Football Club",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LRLzk21ocGPz1w3ch_!!2219766795245-0-cib.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSNjYPlgUPaCsotXlVWHTCQ",
+          "name": "东莞市厚街弘株服饰贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386665",
+        "mallType": "T1688",
+        "itemId": "873776596731",
+        "title": "Cross-Border Cross-Country Racing Suit European and American Sizes Versatile and Handsome Downhill Suit T-Shirt Long-Sleeved Top Summer",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oDEiYs1f0P6sfHZgf_!!2212319503944-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOD3DJPQd0BBVhk9snTmh1Q",
+          "name": "东莞市茶山一帆风顺服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "942008",
+        "mallType": "T1688",
+        "itemId": "695433109869",
+        "title": "Venom Suit Boxing Long Sleeve Tights Fighting Fighting Training Clothing Shotgun Clothing Fitness Long Pants Quick Dry Two Piece Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01peMksZ28yVj8lFrBl_!!2207917468001-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "467032",
+        "mallType": "T1688",
+        "itemId": "632723056879",
+        "title": "TLD Speedo Bicycle Cycling Clothing Long Sleeve Top Summer Cycling Clothing Cyclocross Clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/23278953924_10612727.jpg",
+        "price": "¥42.94",
+        "toPrice": "$6.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3015128570",
+          "name": "东莞市威沃服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2289309",
+        "mallType": "T1688",
+        "itemId": "661456057256",
+        "title": "Venom Set Boxing Long Sleeve Tight Clothes Fighting Fighting Training Clothes Sanda Clothes Fitness Pants Quick Drying Two Piece Set",
+        "picUrl": "https://cdn.findqc.com/item/20250902/mf1vc76w_p4j2.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8-WuBJ0P-Jsm9Q1xSioAjw",
+          "name": "深圳市龙华区雅韶服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2907053",
+        "mallType": "TB",
+        "itemId": "818968825391",
+        "title": "PNS new cycling suit summer short sleeved men's and women's breathable quick drying racing cycling Tour de France cycling suit",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkh967g_a2x5.jpg",
+        "price": "¥137.04",
+        "toPrice": "$21.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "152058733",
+          "name": "户外运动精选服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899764",
+        "mallType": "TB",
+        "itemId": "604019042110",
+        "title": "2022Pns Passione Niche Personalized Competitive Version Milk Silk Cycling Jersey Short-Sleeved Cycling Shirt Bib Shorts",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk0vyci_fez4.jpg",
+        "price": "¥82.22",
+        "toPrice": "$12.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "237863070",
+          "name": "骑行服运动直销",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1844005",
+        "mallType": "T1688",
+        "itemId": "908351318066",
+        "title": "PAS Summer New Thin T.K.O. Long Short Sleeve Bicycle Cycling Clothing Tops Breathable Quick Dry Outdoor Sports Fast Drying",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SvwelL2G7rMQjvqIa_!!2218066838969-0-cib.jpg",
+        "price": "¥69.90",
+        "toPrice": "$10.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218066838969",
+          "name": "东莞市瑞曜服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2355380",
+        "mallType": "TB",
+        "itemId": "811203049991",
+        "title": "New Pns Suit Competitive Cycling Clothing Unisex Top Road Cycling Clothing Milk Silk High Elastic Fabric",
+        "picUrl": "https://cdn.findqc.com/item/20250909/mfcgqllw_e1sn.jpg",
+        "price": "¥79.90",
+        "toPrice": "$12.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "249274333",
+          "name": "PASPNS骑行服",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "730302",
+        "mallType": "TB",
+        "itemId": "689125180681",
+        "title": "Naples Training Uniform 22/23 Season Player Version Autumn and Winter Appearance Jacket Hoodie Football Jacket Team Uniform",
+        "picUrl": "https://cdn.findqc.com/item/20250906/mf83pbdd_966m.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "531279050",
+          "name": "心怡体育",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146294751911219634",
+  "language": "en"
+}

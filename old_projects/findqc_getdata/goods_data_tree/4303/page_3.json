@@ -1,0 +1,82 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "10662",
+        "mallType": "T1688",
+        "itemId": "680762091361",
+        "title": "Baoxin Children's Clothing Summer Korean Edition Women's Middle and Children's Printed Lace Strap Hollow Cotton Skirt Two Piece Set Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbbeop_8cs3.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213035591254",
+          "name": "宝薪(广州)贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "8723",
+        "mallType": "T1688",
+        "itemId": "748489115201",
+        "title": "Cross-border Europe and the United States new Ms. sexy ribbed sleeveless jumpsuit body shaping high elastic belly lift buttocks Slim jumpsuit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3macw2j_5cx9.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "8486",
+        "mallType": "T1688",
+        "itemId": "781990375332",
+        "title": "One-piece swimsuit Europe and the United States sexy black zipper swimsuit speedway amazon cross-border bikini D502K",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3ma8bjw_gu1m.jpg",
+        "price": "¥31.00",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "8161",
+        "mallType": "TB",
+        "itemId": "725463074266",
+        "title": "Monogrammed halter cardigan dress monogrammed halter skirt cardigan dress",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3ma03o2_jdpj.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "categoryId": 37,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6509",
+        "mallType": "T1688",
+        "itemId": "719791718745",
+        "title": "90042 European and American new summer one-piece dress",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9hdyv_kelk.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "categoryId": 37,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145468151911210721",
+  "language": "en"
+}

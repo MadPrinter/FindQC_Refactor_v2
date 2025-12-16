@@ -1,0 +1,62 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "17410",
+        "mallType": "TB",
+        "itemId": "723167154648",
+        "title": "999 Pure Silver Australian White-Gray Pearl Stud Earrings for Women 2025 New Popular Genuine High-End High-Heeled Shoes Earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nerusx_g95q.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "137015764",
+          "name": "FeLin Style 费琳配饰",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "12280",
+        "mallType": "T1688",
+        "itemId": "742622452900",
+        "title": "Avelle sparkling emerald zirconia earrings s925 sterling silver daily versatile white gold-plated jewelry earrings female",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbxtdb_tohb.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "8906",
+        "mallType": "WD",
+        "itemId": "3752152087",
+        "title": "[Special loss clearance brand new] non-refundable and non-exchangeable No packaging Xiangjia Xiang Xiang ch new simple temperament models of silver-colored diamond CC fragrant milk earrings earrings female 包邮",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mag0c9_1pd8.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "857927295",
+          "name": "Misslaura高端定制店",
+          "logo": "https://si.geilicdn.com/wdseller857927295-32e1000001713e7934540a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144286141917111131",
+  "language": "en"
+}

@@ -1,0 +1,348 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1796347",
+        "mallType": "WD",
+        "itemId": "7507282755",
+        "title": "Embroidered round neck T-shirt with blue letters at the front and back",
+        "picUrl": "https://cdn.findqc.com/item/20250828/meuc80mf_hshz.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2202212",
+        "mallType": "TB",
+        "itemId": "745250956424",
+        "title": "Independent Yohji Yamamoto Dark Wind 100% Merino Wool Half High Collar Knitted Sweater Tie Scarf Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250824/meou6i6i_28ce.jpg",
+        "price": "¥429.00",
+        "toPrice": "$67.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "537874001",
+          "name": "sososry",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1458833",
+        "mallType": "T1688",
+        "itemId": "808690138914",
+        "title": "MM24 Summer New Fashionable Hot Diamond Letter Style Slimming and Straightening Knitted Tank Top",
+        "picUrl": "https://cdn.findqc.com/item/20250823/meo0lndg_wemc.jpg",
+        "price": "¥72.00",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218100420725",
+          "name": "佛山市禅城区老咖不咖服装商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "967",
+        "mallType": "TB",
+        "itemId": "549049879504",
+        "title": "Correct Version Off Ow Yellow Belt Belt down Jacket White Industrial Style Canvas Embroidered Belt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mzmene_dg0g.jpg",
+        "price": "¥55.45",
+        "toPrice": "$8.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104772050",
+          "name": "缘份户外用品店",
+          "type": "TB"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 161,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "346547",
+        "mallType": "WD",
+        "itemId": "7242444244",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sar3c3_jn2i.jpg",
+        "price": "¥174.00",
+        "toPrice": "$27.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2128187",
+        "mallType": "T1688",
+        "itemId": "893552054289",
+        "title": "Foreign Trade Cross border 2025 New Summer New European and American Style Midi Slimming Cowboy Midi Dress 2284576",
+        "picUrl": "https://cdn.findqc.com/item/20250818/mefxcurk_dfo9.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213277678333",
+          "name": "苏州精佰鸟商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2126155",
+        "mallType": "WD",
+        "itemId": "7471089540",
+        "title": "Towel letter round neck T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250817/mefouv5x_iftp.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2078604",
+        "mallType": "WD",
+        "itemId": "7424061011",
+        "title": "ST 100210 HMCP",
+        "picUrl": "https://cdn.findqc.com/item/20250817/mef45z7c_4e8m.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1653446037",
+          "name": "应龙",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2106389",
+        "mallType": "T1688",
+        "itemId": "841125996511",
+        "title": "Yu Shuxin's new 2024 autumn style hollow letter metal logo y2k spicy girl design sense knitted suspender",
+        "picUrl": "https://cdn.findqc.com/item/20250815/meciq0m2_71mr.jpg",
+        "price": "¥72.00",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215964953062",
+          "name": "佛山市妙玳服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283630",
+        "mallType": "TB",
+        "itemId": "670975649688",
+        "title": "Alice girl original new Lolita bloodshed rose ballet halter with half-skirt two-piece dress",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m473p27e_uf25.jpg",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2062068",
+        "mallType": "TB",
+        "itemId": "758939225699",
+        "title": "RO style European and American thin wool Tencel slim fit tailcoat style sleeveless fashion summer long style personalized men's and women's casual vest",
+        "picUrl": "https://cdn.findqc.com/item/20250811/me6rs6we_rn0z.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106169498",
+          "name": "DKISSHDW高端男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1198846",
+        "mallType": "WD",
+        "itemId": "7444299120",
+        "title": "*****",
+        "picUrl": "https://cdn.findqc.com/item/20250810/me5tdfmi_iyef.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614498093",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-0be40000019522797ea80a21146b-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1946605",
+        "mallType": "TB",
+        "itemId": "945736326410",
+        "title": "WGWE2025 summer Korean version versatile slimming heavy industry hollow hook flower twisted temperament retro skirt vacation style dress",
+        "picUrl": "https://cdn.findqc.com/item/20250810/me5fij5s_zg19.jpg",
+        "price": "¥67.20",
+        "toPrice": "$10.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57058085",
+          "name": "百度一方",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1600497",
+        "mallType": "T1688",
+        "itemId": "934061607576",
+        "title": "Cross border Europe, America, UK, Saudi Arabia, Canada Bar Atmosphere Props Toys Gold Yuan Pound Party Film and Television Paper Shooting Non circulation",
+        "picUrl": "https://cdn.findqc.com/item/20250809/me4fl2ju_bksg.jpg",
+        "price": "¥5.80",
+        "toPrice": "$0.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIZBCzUDTq1NBiH1TEX7O9Q",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2046234",
+        "mallType": "TB",
+        "itemId": "901587009655",
+        "title": "Angel King 25SS PESO basic embroidered vest for both men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250809/me4erkxv_4ldv.jpg",
+        "price": "¥91.07",
+        "toPrice": "$14.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "345599177",
+          "name": "ANGELKING",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1926297",
+        "mallType": "T1688",
+        "itemId": "896949712514",
+        "title": "Summer new style French short sleeved lace retro fashion slim fit, slimming and waist cinching versatile plaid skirt dress top",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdwvrpxp_1i2z.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218339339139",
+          "name": "中山市博特斯电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1926300",
+        "mallType": "T1688",
+        "itemId": "909710809030",
+        "title": "2025 Summer New Artistic Retro Style Design Wave Dot Printed Strap A-line Skirt for Women",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdwvrqyc_gdbi.jpg",
+        "price": "¥27.25",
+        "toPrice": "$4.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219554433860",
+          "name": "中山市卡贝隆服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "148273",
+        "mallType": "TB",
+        "itemId": "762789514306",
+        "title": "Dopamine Square Neck Vest Knit Dress 2024 Spring New Design Tie-Dye Print Irregular Long Dresses",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpm9v8_z48c.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "categoryId": 37,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "135719",
+        "mallType": "TB",
+        "itemId": "653513554434",
+        "title": "Mesh digital printing fabric peony flower two colors flower fabric fabric spring and summer vacation style brand with the same fabrics",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpd7is_x2np.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "421345961",
+          "name": "小蘑菇印花面料",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140370342553879868",
+  "language": "en"
+}

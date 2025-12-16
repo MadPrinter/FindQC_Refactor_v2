@@ -1,0 +1,364 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "838417",
+        "mallType": "TB",
+        "itemId": "733854319078",
+        "title": "New Sports 3D Printing T-Shirt Men's and Women's Boxing Top",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2215548577013/O1CN01wj8MN921g0TZCbK4m_!!2215548577013.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "570121010",
+          "name": "许多米DOMI",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "838363",
+        "mallType": "T1688",
+        "itemId": "868677542973",
+        "title": "[260g] am peace dove flow paint graffiti letters starry sky classic logo printing short sleeve couple t-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aeIVnc1NwsZRVUQqi_!!2517871635-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVgGA1PiwvwtUQz5_OCHnuw",
+          "name": "深圳市宝安区优乐希贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "838343",
+        "mallType": "WD",
+        "itemId": "7263485342",
+        "title": "RLFranchiseStore-018 Fashion Short Sleeves",
+        "picUrl": "https://si.geilicdn.com/pcitem901850089474-776b0000018eaeaabf590a2312e8_2000_2000.jpg",
+        "price": "¥96.00",
+        "toPrice": "$15.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616169977",
+          "name": "9 MILES潮牌精选",
+          "logo": "https://si.geilicdn.com/shopedit1866172129-7a6d0000018fc87ff6280a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "835295",
+        "mallType": "TB",
+        "itemId": "780731984139",
+        "title": "ESSENTIALS short-sleeved t-shirt Europe and the United States high street FOG compound line couple men and women with the same paragraph tide cotton round neck loose",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1090806015/O1CN01Ea4QL01uIvHS9Tvz1_!!1090806015.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101198640",
+          "name": "原创潮流社",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "834278",
+        "mallType": "TB",
+        "itemId": "806793806924",
+        "title": "European and American fashion brand Hell Star human letter print autumn thin washed hip-hop loose long sleeved T-shirt for men and women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2206397301473/O1CN01Jowp711MkgN1DZD8l_!!2206397301473.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "255594027",
+          "name": "86号店原创潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "834276",
+        "mallType": "TB",
+        "itemId": "803432409426",
+        "title": "U.S. tide ins the same style hell star retro printing high street men and women loose casual trend cotton long-sleeved T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/409187313/O1CN01yHFIpL23tPOK8IhZp_!!409187313.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156422319",
+          "name": "潮牌批发 一件代发",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2373226",
+        "mallType": "T1688",
+        "itemId": "949054650876",
+        "title": "2526 Juve AC Marseille Tunisia Newcastle Morocco Portugal Botha Corinthians soccer jersey collection",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017uITie1SdFk0CIWtv_!!2217708822269-0-cib.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218545699869",
+          "name": "平南县镇隆镇中艺服装贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "676343",
+        "mallType": "WD",
+        "itemId": "7271326175",
+        "title": "youthfulness",
+        "picUrl": "https://si.geilicdn.com/pcitem1891929359-1a6400000191fb29b9ea0a23057e_651_651.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621092325",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2373187",
+        "mallType": "T1688",
+        "itemId": "962008965935",
+        "title": "American tide light blue embroidered short-sleeved t-shirt female summer loose oversize design niche cotton tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LDDvFc1ijhB1ULXOr_!!2219455804449-0-cib.jpg",
+        "price": "¥26.90",
+        "toPrice": "$4.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219455804449",
+          "name": "佛山市南海区阡晗希服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "676422",
+        "mallType": "WD",
+        "itemId": "7316128020",
+        "title": "A Love Short Sleeve Shorts",
+        "picUrl": "https://si.geilicdn.com/pcitem1820417972-36090000018e9d92f3050a22d4f5_800_800.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707576757",
+          "name": "N-A",
+          "logo": "https://si.geilicdn.com/wdseller1910531722-1dce0000019569847ad20a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1710131",
+        "mallType": "TB",
+        "itemId": "775531553482",
+        "title": "[Correct single stitch] Erd23Fw melancholic rich second-generation washed old damaged slogan round neck short sleeved shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2212255011082/O1CN017SRi3X1JrbTjUwf0J~crop,168,0,414,552~_!!2212255011082.jpg",
+        "price": "¥101.46",
+        "toPrice": "$15.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "349327212",
+          "name": "厂妹杀手",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "996384",
+        "mallType": "T1688",
+        "itemId": "820297965850",
+        "title": "European station light luxury tide small monster print sweater men's spring and fall eyes round neck pullover Slim bottoming shirt tops",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000006746/O1CN01CgviqU1zhioPQUjdw_!!6000000006746-0-tbvideo.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "996339",
+        "mallType": "T1688",
+        "itemId": "872035186270",
+        "title": "The original label one piece of hair tide brand 23 new stu short-sleeved dice dinosaur letters printed tops men and women with the same t-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ul0Gpd2BtsmuMcGDP_!!2218763088397-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "995597",
+        "mallType": "T1688",
+        "itemId": "819817432576",
+        "title": "AMI&EANM correct version of the classic small heart embroidery short-sleeved t-shirt men's summer tide loose casual versatile t-shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000002144/O1CN018TXasz1Ri0Dpj4fNs_!!6000000002144-0-tbvideo.jpg",
+        "price": "¥73.47",
+        "toPrice": "$11.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217762209750",
+          "name": "石狮市挽昭服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 131,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "995570",
+        "mallType": "WD",
+        "itemId": "7312830622",
+        "title": "C-A-SA-BL-AN-CA Various trendy brands autumn and winter men's and women's pullover hoodie with looped hair, autumn and winter hooded hoodie with loose fit",
+        "picUrl": "https://si.geilicdn.com/open1629391697-1234478995-439700000193735d07f10a8133b5-unadjust_1329_1297.png",
+        "price": "¥109.50",
+        "toPrice": "$17.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629391697",
+          "name": "RepTigerSupply",
+          "logo": "https://si.geilicdn.com/weidian1788880988-2ebf000001937ca639f50a23038e_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "995347",
+        "mallType": "WD",
+        "itemId": "7421907497",
+        "title": "Casual Athletic Training Set",
+        "picUrl": "https://si.geilicdn.com/open1757144309-1234478995-5901000001958e9c36030a23b491_1200_1200.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1757144309",
+          "name": "Charizard",
+          "logo": "https://si.geilicdn.com/shopedit1914950886-488b00000193e49aa2ed0a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "995346",
+        "mallType": "T1688",
+        "itemId": "829651008959",
+        "title": "2024 Summer New American Trendy Brand Men's and Women's Couple's Big Size Loose Water Washed Short Sleeve T-shirt Teen Tee",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01A4jKt621sNHzpdonp_!!3830027040-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLxJtVUJ8HveVnDoyNbZEsA",
+          "name": "广州唐牛牛服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "991624",
+        "mallType": "WD",
+        "itemId": "7238054923",
+        "title": "**********************",
+        "picUrl": "https://si.geilicdn.com/open1787182201-252808396-3e7f0000018f6b95de8b0a239631_1000_1000.jpg",
+        "price": "¥80.86",
+        "toPrice": "$12.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787182201",
+          "name": "至独嘉",
+          "logo": "https://si.geilicdn.com/shopedit1794237888-43e6000001963942522a0a210256-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "991556",
+        "mallType": "WD",
+        "itemId": "7233357291",
+        "title": "Activity youth short sleeve dird (non-quality issues do not support no reason to return or exchange )",
+        "picUrl": "https://si.geilicdn.com/pcitem1583459867-1c460000018ecbbb39270a22e433_1284_1712.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1868238178",
+          "name": "Fat Shady",
+          "logo": "https://si.geilicdn.com/shopedit1861886529-13f00000018fd0a9cec30a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "991502",
+        "mallType": "T1688",
+        "itemId": "868928625957",
+        "title": "Foreign trade cross-border Phantom Gate letters logo print Casablanca short sleeve round neck short sleeve personalized T-shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000000544/O1CN01lXMX8b1FtCU4i6e5K_!!6000000000544-0-tbvideo.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114413388194362715",
+  "language": "en"
+}

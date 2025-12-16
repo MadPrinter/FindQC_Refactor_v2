@@ -1,0 +1,382 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "511954",
+        "mallType": "T1688",
+        "itemId": "738980685717",
+        "title": "Factory Direct sales tb High version hooded sweater fashion brand spring and autumn coat four bars couple zipper top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01653OZx1LTuJxgNG4K_!!2216500701301-0-cib.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVIX22eAJAuqIEXdpOh1BTw",
+          "name": "广州伟霖服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "511896",
+        "mallType": "WD",
+        "itemId": "7316184644",
+        "title": "Autumn and winter casual fashion hooded sweatshirt, sweatpants, down jacket 022",
+        "picUrl": "https://si.geilicdn.com/open1743389976-1234478995-22d300000193914163c00a8115b5-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743389976",
+          "name": "koko Factory Store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 147,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "342024",
+        "mallType": "T1688",
+        "itemId": "748487512531",
+        "title": "Europe and the United States street tide ESSENTIALS reflective stereo letters men and women oversize hoodie couple fleece sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4rircfi_d0or.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215779331011",
+          "name": "广州思成跨境贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 96,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "341987",
+        "mallType": "WD",
+        "itemId": "7257296500",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4rbys78_j11k.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769151449",
+          "name": "顺泽鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 108,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "341988",
+        "mallType": "T1688",
+        "itemId": "844972167416",
+        "title": "Letter embroidery men and women in Europe and the United States type of fall and winter outside the sewing line street hip-hop tide brand hooded men and women pullover sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4rbzjd4_ncw7.jpg",
+        "price": "¥34.80",
+        "toPrice": "$5.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217763247440",
+          "name": "深圳麦德好电子商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "341556",
+        "mallType": "WD",
+        "itemId": "7286410691",
+        "title": "Fashion printed hoodie set 10261-006",
+        "picUrl": "https://cdn.findqc.com/item/20241216/m4q2fb4z_aflq.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672750613",
+          "name": "WOWGOODBUY",
+          "logo": "https://si.geilicdn.com/pcdecorate1893313002-499d0000019275416ae70a231316-unadjust_550_550.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "341564",
+        "mallType": "TB",
+        "itemId": "709573042611",
+        "title": "New spring and fall men's Korean version of the loose casual sports youth students pullover hoodie sweater men's tide jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241216/m4q4e0je_3rda.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "445134073",
+          "name": "Lens Crew",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "341404",
+        "mallType": "T1688",
+        "itemId": "691579438630",
+        "title": "22FW patch splicing hoodie 555555 printed men's and women's couple style hooded sweatshirt European and American celebrity same style hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241215/m4p5w1he_fq3i.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHSqzkrTXs1aLK0oqZXno2g",
+          "name": "商丘冰王商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "340363",
+        "mallType": "WD",
+        "itemId": "7252026826",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241215/m4p7p3zx_obet.jpg",
+        "price": "¥143.00",
+        "toPrice": "$22.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2836149",
+        "mallType": "WD",
+        "itemId": "7297157031",
+        "title": "C Fashion Round Neck Loose Long Sleeve",
+        "picUrl": "https://si.geilicdn.com/open1765992741-1234478995-324900000192e70eee600a210298_1200_1200.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1765992741",
+          "name": "3M fashion",
+          "logo": "https://si.geilicdn.com/shopedit1881657422-3ef300000192f4ea34430a22d172-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2644644",
+        "mallType": "WD",
+        "itemId": "7400335294",
+        "title": "Cross Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1864649781-1234478995-08c40000019528ee33590a22d249_800_800.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864649781",
+          "name": "wowo",
+          "logo": "https://si.geilicdn.com/wdseller1905866793-1ff30000019363bc56fb0a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2644437",
+        "mallType": "TB",
+        "itemId": "955944740820",
+        "title": "Corteiz American Devil's Island Embroidered Letter Stand up Collar Zipper Cardigan Street Hip Hop Men's and Women's Knitted Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2247438892/O1CN01n8ZmMR2FYatPh8YL4_!!2247438892.jpg",
+        "price": "¥172.91",
+        "toPrice": "$27.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "254401958",
+          "name": "33 TRENTE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2644368",
+        "mallType": "T1688",
+        "itemId": "888428946404",
+        "title": "Pony Paul Zipper Spring New Padded Sweatshirt Set Cardigan Hooded Casual Embroidered Men's Jacket Tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XaULcE1N8V29pHHGf_!!2219365121525-0-cib.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219365121525",
+          "name": "宁海润佩服装商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2642330",
+        "mallType": "T1688",
+        "itemId": "928561537546",
+        "title": "High-quality overseas pop-up NOCTA series simple Logo reflective stripes air layer cotton sports hooded sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01l4Fxop1NiDx423w0K_!!2219716581603-0-cib.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219716581603",
+          "name": "义乌市嗬迅服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2636773",
+        "mallType": "WD",
+        "itemId": "7519917187",
+        "title": "[DX38] Cardigan Loose Knit Casual Sports Reflective Suit-SRKA",
+        "picUrl": "https://si.geilicdn.com/pcitem901940024420-3ff600000198646da43a0a81347d_3024_3024.jpg",
+        "price": "¥153.00",
+        "toPrice": "$24.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668172557",
+          "name": "TOPSUMMER",
+          "logo": "https://si.geilicdn.com/pcdecorate901935370638-6dde000001956ab6cb320a231316-unadjust_350_350.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2465409",
+        "mallType": "WD",
+        "itemId": "7305355821",
+        "title": "Autumn and Winter Casual Versatile Round Neck Sweatshirt (P-0068)",
+        "picUrl": "https://si.geilicdn.com/pcitem901901383085-555e000001935cea885e0a207569_1200_1200.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1641796437",
+          "name": "UMI BUY",
+          "logo": "https://si.geilicdn.com/shopedit1901381675-3bd900000192bcbc93a40a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2286241",
+        "mallType": "WD",
+        "itemId": "7526234645",
+        "title": "Human Face Vintage Sweatshirt Cardigan Hoodie",
+        "picUrl": "https://si.geilicdn.com/open1691545257-252808396-025600000198ac98618f0a8115c2_800_800.jpg",
+        "price": "¥281.00",
+        "toPrice": "$44.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1691545257",
+          "name": "M先生",
+          "logo": "https://si.geilicdn.com/shopedit1827918087-04510000018d599e27120a239737-unadjust_286_286.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2285797",
+        "mallType": "T1688",
+        "itemId": "739813345911",
+        "title": "Cross-border new factory direct sales foreign trade men's sportswear fashion casual winter hooded couple sweater printing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XNHlfw1Slx4uy6emt_!!2216553912288-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216553912288",
+          "name": "上饶市锦鼎服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2093516",
+        "mallType": "WD",
+        "itemId": "7507575580",
+        "title": "Round neck autumn and winter casual solid color lens design pocket zipper hoodie",
+        "picUrl": "https://si.geilicdn.com/open1672878880-1234478995-63d800000197f3d63c780aa0c791_800_800.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672878880",
+          "name": "AKRep Studio",
+          "logo": "https://si.geilicdn.com/shopedit1422394722-45d300000196e31ec2d60a21146b-unadjust_736_736.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2093045",
+        "mallType": "T1688",
+        "itemId": "842024428693",
+        "title": "hooded sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SiGGSo1Qexv9xKnAX_!!2209882462002-0-cib.jpg",
+        "price": "¥37.00",
+        "toPrice": "$5.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209882462002",
+          "name": "铅山县芝灵服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144501121911218061",
+  "language": "en"
+}

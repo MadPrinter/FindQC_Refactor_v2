@@ -1,0 +1,374 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1552368",
+        "mallType": "TB",
+        "itemId": "848024133637",
+        "title": "Night Lab(Nl) +862002 Rivet White Hair Flower Gray Fitted Hooded Sweatshirt Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250827/messpmid_rjqa.jpg",
+        "price": "¥499.00",
+        "toPrice": "$78.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "118600936",
+          "name": "Night Lab",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "531365",
+        "mallType": "WD",
+        "itemId": "7259730624",
+        "title": "Repeat Line E Trendy New Chest Logo Embossed Hooded Sweatshirt FOG",
+        "picUrl": "https://si.geilicdn.com/open1642952505-1234478995-3fb100000191410f78e40a210559_800_800.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1642952505",
+          "name": "Fashion brand",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "531356",
+        "mallType": "WD",
+        "itemId": "7319819593",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1769151449-252808396-693800000193b303c9df0a239383_1080_1080.jpg",
+        "price": "¥141.00",
+        "toPrice": "$22.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769151449",
+          "name": "顺泽鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "531366",
+        "mallType": "T1688",
+        "itemId": "868845556436",
+        "title": "Cross-border tide trapstar sweater blue tiger chest embroidery pullover hooded men's and women's casual sweatpants suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01D0TvnG28BVZCAZlaO_!!2218189817894-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1516571",
+        "mallType": "T1688",
+        "itemId": "825354362952",
+        "title": "2024SU elastic edge wrapped flannel hoodie, ESSENTIALS flower chestnut brown grass gray hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesqe3b5_7o45.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211916693878",
+          "name": "宁波市鄞州钟公庙宜山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2234645",
+        "mallType": "TB",
+        "itemId": "893595622698",
+        "title": "Nike/Nike Tech Fleece Men's Outdoor Comfortable Knitted Hoodie FB7917-063",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesogo8d_ids7.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "165894747",
+          "name": "LMJP SPORT",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1413320",
+        "mallType": "WD",
+        "itemId": "7475418833",
+        "title": "Black round neck hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesnzzdx_gyuh.jpg",
+        "price": "¥298.00",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1754772",
+        "mallType": "TB",
+        "itemId": "906540826143",
+        "title": "NIKE men's spring and autumn sports casual knitted hooded windproof loose jacket top women's HV0950",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesmw2sm_7a3w.jpg",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "166853448",
+          "name": "向前跑体育",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2233192",
+        "mallType": "TB",
+        "itemId": "712836984765",
+        "title": "Self made show style tri color Paris Manchester United mud dyed series distressed hand drawn graffiti zipper washed hoodie hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250826/meslyo77_vzj3.jpg",
+        "price": "¥300.00",
+        "toPrice": "$47.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "122619958",
+          "name": "吾關",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2152210",
+        "mallType": "T1688",
+        "itemId": "708721294334",
+        "title": "FOG Double Line Season 8 ESSENTIALSZONE High Street Trendy Brand Front and Rear Plush Letter Loose Long Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesl4214_lwnx.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDGqJRMiWn2YDeP70CuBV3Q",
+          "name": "中山市艾美电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1284356",
+        "mallType": "TB",
+        "itemId": "815510253775",
+        "title": "Cabinet 399! Men's clothing 2024 autumn fashion casual cotton pullover loose hooded sweatshirt jacket 0761350",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesg2ebd_63m2.jpg",
+        "price": "¥85.92",
+        "toPrice": "$13.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "525790634",
+          "name": "ZABA男装工厂店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1780474",
+        "mallType": "WD",
+        "itemId": "7505543060",
+        "title": "Foam letter casual jacket American high street loose hooded sweatshirt straight leg pants",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesccnuw_qvvo.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639340781",
+          "name": "N&amp;K",
+          "logo": "https://si.geilicdn.com/shopedit1943468581-0aee000001997ad96ea80a23038e-unadjust_401_401.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2226437",
+        "mallType": "TB",
+        "itemId": "833651179701",
+        "title": "KITH Half Zipper American Hoodie Men's and Women's Velvet Autumn/Winter Collection Stand up Collar Jacket Hoodie Heavy Weight Couple's Coat",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mesa2d7u_y2rv.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "197760662",
+          "name": "Defans Noah Kith",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "342627",
+        "mallType": "T1688",
+        "itemId": "726111681654",
+        "title": "Artie Men's Clothing丨2025 Autumn and Winter New Trendy Brand 350g Dopamine Velvet Thickened Loose Round Neck Men's Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241220/m4w2as87_6nt6.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 135,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1563245",
+        "mallType": "WD",
+        "itemId": "7498997659",
+        "title": "Classic letter loose hooded sweatshirt, ALD men's and women's high street baseball jacket, outerwear",
+        "picUrl": "https://cdn.findqc.com/item/20250815/mebr7nax_cumg.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639340781",
+          "name": "N&amp;K",
+          "logo": "https://si.geilicdn.com/shopedit1943468581-0aee000001997ad96ea80a23038e-unadjust_401_401.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2000328",
+        "mallType": "WD",
+        "itemId": "7477809422",
+        "title": "LF hooded sweatshirt pants",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mes76cw6_3ou4.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794036957",
+          "name": "TOPTOPTOP",
+          "logo": "https://si.geilicdn.com/shopedit1955411113-5e540000019a29f297b50a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2029989",
+        "mallType": "WD",
+        "itemId": "7504407020",
+        "title": "2025 Cross border Foreign Trade Agent Double Hat Casual Hoodie Zipper Coat Starry Sky Camouflage Trendy Brand Loose Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250826/mes76ck5_lr85.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1653098685",
+          "name": "时尚旋风",
+          "logo": "https://si.geilicdn.com/shopedit1961490307-0f6f0000019a86b9aedc0a230115-unadjust_260_260.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2120863",
+        "mallType": "TB",
+        "itemId": "964289324255",
+        "title": "NELY silhouette logo graffiti letters American casual hooded sweatshirt autumn and winter plus fleece hoodie men and women's trend",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mekrna7e_zybi.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36412463",
+          "name": "NELY小尼力",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "342315",
+        "mallType": "T1688",
+        "itemId": "817091464179",
+        "title": "2025 Autumn and Winter New Product 450g Spray-Dyed Splash-Ink Hole Distressed Hooded Sweatshirt Men's Street Fashion Brand Retro Men's Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4rfm31o_2t1j.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1792450",
+        "mallType": "T1688",
+        "itemId": "893367034779",
+        "title": "Loop Thin Sweatshirt Men's and Women's Autumn Ape-Man Letter Camouflage Printed Loose Crewneck Pullover Top Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250819/mehufdc5_17ki.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9A2QytFofnIUz-_6lJRF9g",
+          "name": "义乌市翁熙电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147154171930823728",
+  "language": "en"
+}

@@ -1,0 +1,30 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "7455",
+        "mallType": "TB",
+        "itemId": "543780901483",
+        "title": "Magnetic Refrigerator Magnets from Around the World, Including the United States, the United Kingdom, France, Germany, South Korea, Thailand, Italy, Japan, Dubai, and Switzerland",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9scr5_gj32.jpg",
+        "price": "¥10.14",
+        "toPrice": "$1.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65732768",
+          "name": "love3232家居",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114443339137310058",
+  "language": "en"
+}

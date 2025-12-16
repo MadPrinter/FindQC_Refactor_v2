@@ -1,0 +1,648 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1044322",
+        "mallType": "WD",
+        "itemId": "7321043977",
+        "title": "604133-050",
+        "picUrl": "https://si.geilicdn.com/pcitem160885222-2a630000018f540263890a239846_4032_3024.jpg",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "160885222",
+          "name": "Budgetshoes",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048508",
+        "mallType": "WD",
+        "itemId": "7585040781",
+        "title": "新款时尚百搭潮鞋-008-pro",
+        "picUrl": "https://si.geilicdn.com/open1830128381-1234478995-662800000197f3fdfdb10a22d249_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830128381",
+          "name": "SourceDock",
+          "logo": "https://si.geilicdn.com/pcdecorate1968389199-126a00000197eeb5cd720a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2698338",
+        "mallType": "WD",
+        "itemId": "7487645372",
+        "title": "New fashion hundred tide shoes-012",
+        "picUrl": "https://si.geilicdn.com/open1842365021-1234478995-4ee5000001973a45342e0a22d249_1200_1200.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1842365021",
+          "name": "LumiFit",
+          "logo": "https://si.geilicdn.com/shopedit1952633067-2c5e00000196ceda1bca0a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3026107",
+        "mallType": "WD",
+        "itemId": "7571221050",
+        "title": "高品质鞋4-air",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-1c9900000197d53314670a231226-unadjust_637_800.gif",
+        "price": "¥409.00",
+        "toPrice": "$64.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830128381",
+          "name": "SourceDock",
+          "logo": "https://si.geilicdn.com/pcdecorate1968389199-126a00000197eeb5cd720a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2309269",
+        "mallType": "WD",
+        "itemId": "7525251239",
+        "title": "High quality shoes 4",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-1c9900000197d53314670a231226-unadjust_637_800.gif",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2898892",
+        "mallType": "WD",
+        "itemId": "7585097081",
+        "title": "New fashionable and versatile tide shoes-008-bru",
+        "picUrl": "https://si.geilicdn.com/open1830128381-1234478995-662800000197f3fdfdb10a22d249_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830128381",
+          "name": "SourceDock",
+          "logo": "https://si.geilicdn.com/pcdecorate1968389199-126a00000197eeb5cd720a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2574771",
+        "mallType": "WD",
+        "itemId": "7548531176",
+        "title": "新款时尚百搭潮鞋-013",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-010400000197d52c3a120a23b4de_1220_1229.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2562294",
+        "mallType": "WD",
+        "itemId": "7565400316",
+        "title": "New Fashion Hundred Hipster Shoes-008",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-7e4200000197d52ac5fc0a8133b0_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1678116131",
+          "name": "Super-Factory",
+          "logo": "https://si.geilicdn.com/pcdecorate1984009210-4ae2000001999af7cae40a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2722744",
+        "mallType": "WD",
+        "itemId": "7566923156",
+        "title": "Green X/GX Slide/Foam RNR Cave Shoes Collection",
+        "picUrl": "https://si.geilicdn.com/pcitem1425026222-310e00000199ac2f67dd0a2301b4_1440_1440.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802771872",
+          "name": "鲨鱼饲养员 Shark breeder",
+          "logo": "https://si.geilicdn.com/wdseller1425026222-11d200000192ba3610ae0a23111a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2809553",
+        "mallType": "WD",
+        "itemId": "7581013156",
+        "title": "ab11-AF**1 Sneakers Collection (Sale) WhatsApp:+86 173 0597 0797",
+        "picUrl": "https://si.geilicdn.com/open1737227933-1234478995-22ef0000019661d33f020a22d249_800_800.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1837904067",
+          "name": "Prime Source Global (PSG)",
+          "logo": "https://si.geilicdn.com/shopedit1979412545-33b7000001999a5c5e2f0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2109537",
+        "mallType": "WD",
+        "itemId": "7520274710",
+        "title": "New Fashion Versatile Trendy Shoes -008-OPXZ",
+        "picUrl": "https://si.geilicdn.com/open1658831453-1234478995-286400000196c7ea62580a22d249_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1658831453",
+          "name": "DripMill",
+          "logo": "https://si.geilicdn.com/shopedit1952637023-22f100000196ca6a80f80a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554838",
+        "mallType": "WD",
+        "itemId": "7548391882",
+        "title": "New Fashion Hundred Hipster Shoes-041",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-634d00000197d53a17190aa0c791_800_600.jpg",
+        "price": "¥249.00",
+        "toPrice": "$39.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2509626",
+        "mallType": "WD",
+        "itemId": "7546482033",
+        "title": "High quality shoes 4\n",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-1c9900000197d53314670a231226-unadjust_637_800.gif",
+        "price": "¥409.00",
+        "toPrice": "$64.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2491796",
+        "mallType": "WD",
+        "itemId": "7554802035",
+        "title": "rep sneaker collection (tiny dirt is normal) YHH06",
+        "picUrl": "https://si.geilicdn.com/open1796353693-1234478995-4752000001966c6cf76d0a8133b0_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672505827",
+          "name": "FlexCartel",
+          "logo": "https://si.geilicdn.com/shopedit1992337973-314f0000019970e3d8940a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2765765",
+        "mallType": "WD",
+        "itemId": "7512052020",
+        "title": "【OG】AM1R1 SK1EL T0P L0W",
+        "picUrl": "https://si.geilicdn.com/pcitem1944912174-6114000001981cad81df0a2301b4_1200_1200.jpg",
+        "price": "¥489.00",
+        "toPrice": "$76.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1638149101",
+          "name": "PR Factory",
+          "logo": "https://si.geilicdn.com/shopedit1944912174-3e1b00000198bbc6f5d70a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603772",
+        "mallType": "WD",
+        "itemId": "7548327060",
+        "title": "Fashion Shoes-DS",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-05ee00000197d52f39c80a8115c2_2400_2400.jpg",
+        "price": "¥309.00",
+        "toPrice": "$48.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2710601",
+        "mallType": "WD",
+        "itemId": "7545945654",
+        "title": "New fashionable shoes-",
+        "picUrl": "https://si.geilicdn.com/pcitem1781761601-0cd30000018ceea577250a210349_800_800.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858423235",
+          "name": "CN Featured",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603849",
+        "mallType": "WD",
+        "itemId": "7544083527",
+        "title": "HJYE-Arrowhead Shoes+WhatsApp+86 185 6795 5052",
+        "picUrl": "https://si.geilicdn.com/open1722878069-1234478995-39b600000196574032620a8133b0_1200_1200.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867502173",
+          "name": "Perfect quality shop",
+          "logo": "https://si.geilicdn.com/shopedit1952691964-51d900000197ff02727a0a2301b4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36240",
+        "mallType": "WD",
+        "itemId": "7184968383",
+        "title": "【 GX Version 】 Pure Original Impulse Version N1 * K @ * r Force 1 Air * Military Pure White Low Help Independent Mold * * Version Collection Link",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkvkip_t0hl.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812255049",
+          "name": "888VIP-SNKRS",
+          "logo": "https://si.geilicdn.com/pcdecorate1816621089-76180000018cef01570f0a239737-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 188,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2507998",
+        "mallType": "WD",
+        "itemId": "7504126995",
+        "title": "High Street Trend Sneakers Casual Shoes-Pa",
+        "picUrl": "https://si.geilicdn.com/open1668140461-1234478995-394400000195e60a3dfe0aa0834c_1200_1200.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668140461",
+          "name": "LW   Shop-RY1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145026821911215701",
+  "language": "en"
+}

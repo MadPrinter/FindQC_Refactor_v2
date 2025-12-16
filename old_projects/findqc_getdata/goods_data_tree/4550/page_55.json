@@ -1,0 +1,371 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1586378",
+        "mallType": "WD",
+        "itemId": "7386703228",
+        "title": "35A6-23m",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-799200000194a48349ee0a23111a_1066_800.jpg",
+        "price": "¥315.00",
+        "toPrice": "$49.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2674967",
+        "mallType": "WD",
+        "itemId": "7290417362",
+        "title": "jacket 840",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgnq9oy6_wke1.jpg",
+        "price": "¥450.00",
+        "toPrice": "$70.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1759076664",
+          "name": "THE ONE",
+          "logo": "https://si.geilicdn.com/wdseller1479050240-214b000001946df5bfc30a2395a3_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2560527",
+        "mallType": "T1688",
+        "itemId": "941362344796",
+        "title": "High Version Original Embroidery Rl Men's Style Old Cadre Can Be Scanned",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgg74l4f_snnj.jpg",
+        "price": "¥172.00",
+        "toPrice": "$27.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmJHeSvzw5-EwvaoIPS4X9Q",
+          "name": "东莞市长安五悦服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2578918",
+        "mallType": "TB",
+        "itemId": "964640124709",
+        "title": "Three-Color Armband Motorcycle Suit",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgn29dr1_iogd.jpg",
+        "price": "¥186.42",
+        "toPrice": "$29.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "447969573",
+          "name": "Rep reps",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2637421",
+        "mallType": "TB",
+        "itemId": "861358501414",
+        "title": "2025 Autumn/Winter New Trendy Brand American High Street Leather Embroidered Zipper Collar Jacket Men's and Women's Fashion Loose Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgmz9j7k_t3na.jpg",
+        "price": "¥338.00",
+        "toPrice": "$53.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "528576418",
+          "name": "P8潮公馆",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2213090",
+        "mallType": "TB",
+        "itemId": "844398521881",
+        "title": "Vtm Flight Jacket with Velcro Embroidery, Bomber Silhouette Cotton Jacket, Autumn and Winter Coat ins Unisex European and American Trendy Brand",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgmrm5c6_rtfh.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109505073",
+          "name": "HACULLA",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1565434",
+        "mallType": "WD",
+        "itemId": "7487930086",
+        "title": "L23650-N66",
+        "picUrl": "https://si.geilicdn.com/pcitem901759552439-3d19000001973e31276a0a231316_1440_1440.jpg",
+        "price": "¥329.00",
+        "toPrice": "$51.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1642381057",
+          "name": "L6",
+          "logo": "https://si.geilicdn.com/wdseller901757496628-0b2f000001948c383fa10a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1560286",
+        "mallType": "TB",
+        "itemId": "841094297612",
+        "title": "Tommy Hilfiger Men's New Autumn and Winter Casual Fashion Stand-Up Collar Hooded Windproof Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/O1CN01ffAuSP20lDUfMXJFa_!!0-fleamarket.jpg",
+        "price": "¥246.81",
+        "toPrice": "$38.81",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1560966",
+        "mallType": "TB",
+        "itemId": "693777480991",
+        "title": "Spot 22AW American SHERPA JACKET lamb wool back black 8 men and women couples reversible jacket jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2075560730/O1CN01ET58Od1HGNvRbmSRz_!!2075560730.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125240686",
+          "name": "伟诚外贸 日单精品潮流男装店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2637397",
+        "mallType": "WD",
+        "itemId": "7550559711",
+        "title": "ZZ men's cashmere and real silk stand up knitted sweater cardigan jacket with textured patterns on the inner side of the shoulder sleeves, and a double bar logo embellished on the back collar to showcase a modern and elegant gentleman's style!",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgmcbyy7_uvmf.jpg",
+        "price": "¥378.00",
+        "toPrice": "$59.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1363431703",
+          "name": "太古汇-EA7总店",
+          "logo": "https://si.geilicdn.com/pcdecorate1363431703-71ea0000018798e93e830a231179-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2660446",
+        "mallType": "T1688",
+        "itemId": "902997581638",
+        "title": "RL Raff Classic Men's and Women's Old Cadre Zipper Jacket Coat Yi Mengling Same",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgm3ofjf_1rtt.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiiMFgjLpDVR89DAvVniWSQ",
+          "name": "常熟市莫城街道贝因舒服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2314135",
+        "mallType": "TB",
+        "itemId": "966793597905",
+        "title": "ERD melancholy rich second-generation 24fw corduroy short salmon field island ten thousand needle embroidery washed cotton jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mglqz3hn_popz.jpg",
+        "price": "¥499.00",
+        "toPrice": "$78.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "590930507",
+          "name": "暗号made",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2427036",
+        "mallType": "WD",
+        "itemId": "7553287448",
+        "title": "Vintage touring canvas cotton jacket with zipper and jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mglotmer_0a0f.jpg",
+        "price": "¥435.00",
+        "toPrice": "$68.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1853693293",
+          "name": "AT66 Studio",
+          "logo": "https://si.geilicdn.com/wdseller1940495825-5a5e00000196b44f0c400a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "887505",
+        "mallType": "T1688",
+        "itemId": "840382914788",
+        "title": "Real Shot RL Ralph Little Horse Logo Embroidered American Jacket Men's Retro Top Collar Splicing Grid Coat Women's Same Style",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgl8a4rw_j5fh.jpg",
+        "price": "¥84.00",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218163216614",
+          "name": "普宁市梅塘欧佳迪宜服饰店(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2637362",
+        "mallType": "TB",
+        "itemId": "884706151018",
+        "title": "Black shoulder pad lapel flight jacket for men in autumn, trendy brand, cool and high-end design, short zipper jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgl5umhj_anz8.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "308683131",
+          "name": "天伦法奴旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5028",
+        "mallType": "WD",
+        "itemId": "6283145069",
+        "title": "New high-quality and fashionable CP men's casual sports jacket in stock, windproof and warm thick cotton clothing, youth students' autumn and winter trendy brand cotton clothing",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m48eow_805s.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333752350",
+          "name": "潮牌大眼镜",
+          "logo": "https://si.geilicdn.com/wdseller1936861697-3a16000001970f8c23b50a23038e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 74,
+        "qcVideoCnt": 2,
+        "picWidth": "2560",
+        "picHeight": "2560"
+      },
+      {
+        "id": "2327676",
+        "mallType": "TB",
+        "itemId": "967620476898",
+        "title": "Spring New Style Senior Cadre Jacket, Executive Lapel Jacket, Unisex, Versatile, Embroidered, Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghstjm7_juaq.jpg",
+        "price": "¥123.25",
+        "toPrice": "$19.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "325775061",
+          "name": "品尚潮男店",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1533285",
+        "mallType": "T1688",
+        "itemId": "803509494395",
+        "title": "Spring and Autumn Sports Color Men's Jacket Men's New Cross-border Foreign Trade Casual Jacket Men's Amazon Factory Outlet",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013ffpAw1k7nWJn7tBd_!!2207353964637-0-cib.jpg",
+        "price": "¥37.00",
+        "toPrice": "$5.82",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2077",
+        "mallType": "T1688",
+        "itemId": "745686511805",
+        "title": "CARHARTT Carhart J97 Detroit Wash Retro Dressed Antique Denim Canvas Crock Jacket Coat",
+        "picUrl": "https://cdn.findqc.com/item/20250605/mbis6550_zdse.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpxrTKhFx6rwxs-KwdpqO8w",
+          "name": "广州蛮秀贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 360,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2602158",
+        "mallType": "WD",
+        "itemId": "7297493939",
+        "title": "Tyler Joint Baseball Jacket Iu10120",
+        "picUrl": "https://cdn.findqc.com/item/20251010/mgkddkby_jtce.jpg",
+        "price": "¥1,499.00",
+        "toPrice": "$235.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830297161",
+          "name": "珍绮made",
+          "logo": "https://si.geilicdn.com/wdseller1816236668-25940000018cea5d9ac60a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147136281930829681",
+  "language": "en"
+}

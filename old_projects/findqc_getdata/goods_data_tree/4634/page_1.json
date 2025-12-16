@@ -1,0 +1,636 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2047626",
+        "mallType": "WD",
+        "itemId": "7487610869",
+        "title": "AP Accessories Collectio",
+        "picUrl": "https://si.geilicdn.com/wdseller238424219-4e0000000192772042500a8134f0_1290_1290.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801320989",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3151984",
+        "mallType": "T1688",
+        "itemId": "896800326622",
+        "title": "PD20W/35W British standard fast charging head suitable for Apple chargers, foldable three pin UKCA certified typec head\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Azf9a42Mystz72Hum_!!2215609619897-0-cib.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHuKxhMZT2BqEc3NPTBbrLw",
+          "name": "深圳市叁希电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3186207",
+        "mallType": "WD",
+        "itemId": "7406378907",
+        "title": "Battery pack",
+        "picUrl": "https://si.geilicdn.com/open1786272622-1234478995-2150000001955882e2b70aa0834c_1440_1920.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1786272622",
+          "name": "TOP",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3102389",
+        "mallType": "T1688",
+        "itemId": "839619089073",
+        "title": "PD20W British standard fast charging head suitable for Apple iPhone 15-11 Pro three pin folding charger 8",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01l2pzz61ERtDq0qTSx_!!2212841340349-0-cib.jpg",
+        "price": "¥2.50",
+        "toPrice": "$0.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgQmfJkF8Va39VNyXXm6Rew",
+          "name": "深圳市集结电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3164868",
+        "mallType": "T1688",
+        "itemId": "842153116295",
+        "title": "PD35W charger is suitable for Apple iPhone15 charging head British fast charging head double Type-C fast charging line",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01K8JQ7e293YHCchx9n_!!3843148012-0-cib.jpg",
+        "price": "¥2.60",
+        "toPrice": "$0.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXjWaV6VBrsgXtydWZ1Oybw",
+          "name": "深圳市龙华区龙聚达电子商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2098300",
+        "mallType": "T1688",
+        "itemId": "925462531884",
+        "title": "65W fast charging head is suitable for OPPOReno4pro super flash charging head Ace2/Findx2 real charger",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010pxFMf1D5cPLZj8xf_!!2207746750165-0-cib.jpg",
+        "price": "¥3.36",
+        "toPrice": "$0.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfS3ZEMLIHAJs6WKUaf_BEw",
+          "name": "深圳市莱思卡科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "746642",
+        "mallType": "WD",
+        "itemId": "7233795908",
+        "title": "AP Accessories Collection",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me9ck2tm_4wmn.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "238424219",
+          "name": "SUDU-gadgets",
+          "logo": "https://si.geilicdn.com/wdseller238424219-53dd0000018cdad711910a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 66,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1796553",
+        "mallType": "WD",
+        "itemId": "7320876727",
+        "title": "Battery pack\n",
+        "picUrl": "https://si.geilicdn.com/open1648936853-1234478995-4d3d00000193b4bf7ef20a8133b5_1440_1920.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648936853",
+          "name": "StyleTransit",
+          "logo": "https://si.geilicdn.com/shopedit1898318301-4f3900000198d55a5daa0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 47,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2692042",
+        "mallType": "T1688",
+        "itemId": "657279836489",
+        "title": "Suitable for Apple 16pro mobile phone packaging box 16promax/15promax mobile phone empty box activity display box",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mlVIka2HWQACHMKKW_!!2212760559158-0-cib.jpg",
+        "price": "¥1.00",
+        "toPrice": "$0.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaxcCPiW94S3YRwQCZgNL4A",
+          "name": "东莞市厚街新起点电子商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975079",
+        "mallType": "WD",
+        "itemId": "7338360154",
+        "title": "Lili 24 small time shivering tone small red book Pinduoduo cross-border W07 3-in-1 wireless charger for smartphones",
+        "picUrl": "https://si.geilicdn.com/open949985859-1838589072-61d700000194081a4b900a8133b5_800_800.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2123140",
+        "mallType": "T1688",
+        "itemId": "674201446091",
+        "title": "适用iphone14手机type-c充电器 20w苹果PD快充头 欧规电源适配器",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01P1DQ6r1DbDSDm7E9b_!!2209781900234-0-cib.jpg",
+        "price": "¥3.96",
+        "toPrice": "$0.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209781900234",
+          "name": "深圳市弘扬智创科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1962583",
+        "mallType": "WD",
+        "itemId": "7285538120",
+        "title": "Mag.Safe Wire.less Char.ger (cnfans cant buy,buy it on acbuy or others)",
+        "picUrl": "https://si.geilicdn.com/open1795529188-1234478995-65ad00000192755bcc800a239383_800_800.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1795529188",
+          "name": "Dream Factory",
+          "logo": "https://si.geilicdn.com/wdseller844114706-0043000001924e5caeb00a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2620039",
+        "mallType": "TB",
+        "itemId": "706006308471",
+        "title": "30W fast charging is suitable for Apple iphone14 charger head 17pro data cable 15/16/13/12p plug mobile phone plus dedicated xr fast charging PD Suit original max fast charging 20W wo Beiye",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3300390708/O1CN01YWEcA41H6JH7QnwZJ_!!0-item_pic.jpg",
+        "price": "¥14.30",
+        "toPrice": "$2.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263728842",
+          "name": "永鼎荣利数码专营",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2250938",
+        "mallType": "TB",
+        "itemId": "910957339235",
+        "title": "【National 3C Certification】Bethinking Dynamic Charger 45W Gallium Nitride with TYPEC Retractable Cable 30W Charger 67W Charging Head iPhone 16 Fast Charger 15Promax Phone Plug",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3162645913/O1CN01ANPJfq1tYCz3HAczw_!!4611686018427381145-2-item_pic.png",
+        "price": "¥243.00",
+        "toPrice": "$38.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "189911962",
+          "name": "倍思正百川专卖店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2906498",
+        "mallType": "TB",
+        "itemId": "950621668356",
+        "title": "Xiaomi European Standard Charging Head Original 33W 67W 90W 120W Phone Charger Suitable for Xiaomi European Standard Flash Charging Head",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhke1664_009t.jpg",
+        "price": "¥30.23",
+        "toPrice": "$4.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33101306",
+          "name": "阳光硅谷联想配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "307572",
+        "mallType": "WD",
+        "itemId": "7289041444",
+        "title": "ch.ar.ging 20W",
+        "picUrl": "https://cdn.findqc.com/item/20241207/m4dlcr7x_916q.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840753881",
+          "name": "Heart Encounter",
+          "logo": "https://si.geilicdn.com/shopedit1848930946-76a500000197d779782e0a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2799585",
+        "mallType": "T1688",
+        "itemId": "822588932955",
+        "title": "3C certification PD30W for iphone15 mobile phone charging head 13promax Apple 11 data cable 20W fast charging",
+        "picUrl": "https://cdn.findqc.com/item/20251029/mhbo1giw_eca9.jpg",
+        "price": "¥1.75",
+        "toPrice": "$0.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWt0327Gt2NbIojIvxPjbxw",
+          "name": "深圳市适扬科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2376488",
+        "mallType": "T1688",
+        "itemId": "832742464439",
+        "title": "New Pd120W Mobile Phone Charger 5V2.4A European, American and British Standard Pd+3Usb Multi-Port Adapter Charging Head",
+        "picUrl": "https://cdn.findqc.com/item/20250914/mfjdq592_tsmr.jpg",
+        "price": "¥6.20",
+        "toPrice": "$0.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBViOutGyk58X_2L9FblBmCw",
+          "name": "深圳市速豹数码科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1364803",
+        "mallType": "WD",
+        "itemId": "7387232164",
+        "title": "2025ss All products that were taken in one bite",
+        "picUrl": "https://cdn.findqc.com/item/20250908/mfa4wtwv_gep6.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1690156005",
+          "name": "ULSUM STORE【The only store】",
+          "logo": "https://si.geilicdn.com/shopedit777921373-593e00000191f55d839c0a231316-unadjust_689_689.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2167372",
+        "mallType": "T1688",
+        "itemId": "682698341053",
+        "title": "SAA Certified PD65W Three-mouth Australian Standard Fast Charging Charger 65W for Apple 14 Laptop Fast Charging Head",
+        "picUrl": "https://cdn.findqc.com/item/20250825/meqrzfvx_2cpd.jpg",
+        "price": "¥61.50",
+        "toPrice": "$9.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdARS0J2RqhJk3kJMb59HTw",
+          "name": "深圳市古石科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114647198249897497",
+  "language": "en"
+}

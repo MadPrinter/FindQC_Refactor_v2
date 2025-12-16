@@ -1,0 +1,386 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2914221",
+        "mallType": "WD",
+        "itemId": "7589470575",
+        "title": "Classic and versatile fashionable down jacket YHH07",
+        "picUrl": "https://si.geilicdn.com/open1796353693-1234478995-14a2000001985fb569f50a8115c2_800_800.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1725200113",
+          "name": "CN Fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate901899444631-680100000192b902f9940a23041a-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2595026",
+        "mallType": "T1688",
+        "itemId": "895689117852",
+        "title": "High version of men and women with the same filling silicone strip zipper thick section full bread clothing hooded long-sleeved down jacket jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Pv3hPc2E6pC1Rrz22_!!2218829108696-0-cib.jpg",
+        "price": "¥515.00",
+        "toPrice": "$80.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218396706149",
+          "name": "莆田市秀屿区冠顶鞋服商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2580541",
+        "mallType": "WD",
+        "itemId": "7552255619",
+        "title": "可扫码外贸拉夫RL可拆卸帽超厚羽绒服防风防水情侣款拉链夹克",
+        "picUrl": "https://si.geilicdn.com/open1642048181-1234478995-7cc5000001983caffadd0aa043f9_1074_1074.jpg",
+        "price": "¥580.00",
+        "toPrice": "$91.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1826036269",
+          "name": "CN Shop",
+          "logo": "https://si.geilicdn.com/weidian1933178602-2d16000001974b94cda80a2395a3_990_990.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576456",
+        "mallType": "WD",
+        "itemId": "7447886143",
+        "title": "1996羽绒服",
+        "picUrl": "https://si.geilicdn.com/wdseller1635830834-21aa0000018ae4ecf45f0a22d1c8_1098_1098.jpg",
+        "price": "¥496.00",
+        "toPrice": "$77.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614498093",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-0be40000019522797ea80a21146b-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2585777",
+        "mallType": "T1688",
+        "itemId": "868740392075",
+        "title": "American retro loose solid color padded warm double head zipper cardigan sweater fall and winter hooded fur splicing jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yHBwdH1hHT5xOj3Qx_!!2215472844252-0-cib.jpg",
+        "price": "¥38.86",
+        "toPrice": "$6.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215472844252",
+          "name": "中山市玛卡巴卡电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2580470",
+        "mallType": "WD",
+        "itemId": "7547366711",
+        "title": "Glossy Clothing same warm embroidered commuter cotton clothing badge island solid color men and women sleeve label ST bread foreign trade",
+        "picUrl": "https://si.geilicdn.com/open1854641997-252808396-23b70000019938e602ed0aa043f9_1280_1280.jpg",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854641997",
+          "name": "Super shop",
+          "logo": "https://si.geilicdn.com/shopedit1927964658-714c00000194c9d7ef590a2102c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2577055",
+        "mallType": "WD",
+        "itemId": "7555084700",
+        "title": "法国精选R.B可拆卸羽绒服-c鹅质量好",
+        "picUrl": "https://si.geilicdn.com/pcitem1962441348-0dbb000001989bfb308d0a8133cc-unadjust_800_1067.png",
+        "price": "¥196.00",
+        "toPrice": "$30.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629528547",
+          "name": "FRANCE",
+          "logo": "https://si.geilicdn.com/shopedit1992232559-701c0000019a5717c3950a23038e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2581940",
+        "mallType": "WD",
+        "itemId": "7496207202",
+        "title": "G0AT-XW1",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-148000000191a185a6960aa0233d_800_800.jpg",
+        "price": "¥682.00",
+        "toPrice": "$107.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793028253",
+          "name": "Archive專案",
+          "logo": "https://si.geilicdn.com/wdseller901960962938-4108000001979ccc50730a239646_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2581149",
+        "mallType": "WD",
+        "itemId": "7290399390",
+        "title": "Tr*aps*tar连帽新款棉服冬季潮牌保暖情侣加厚男女外套防风",
+        "picUrl": "https://si.geilicdn.com/open1842902085-1234478995-185a00000192a8d7b4440a22d234_1200_1200.jpg",
+        "price": "¥489.00",
+        "toPrice": "$76.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1842902085",
+          "name": "黎319100748",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2595198",
+        "mallType": "T1688",
+        "itemId": "963207659868",
+        "title": "BAPE cotton jacket shark tide brand camouflage zipper double-sided wearing couple jacket autumn and winter fluffy cross-border hair collection",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TBlz0K2DY1AYnUIvL_!!2218651308620-0-cib.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZXEjxRbyFiYbjfRNVk83XA",
+          "name": "中山市成四制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2593878",
+        "mallType": "WD",
+        "itemId": "7565914906",
+        "title": "Spider **** feather",
+        "picUrl": "https://si.geilicdn.com/open1627975405-1234478995-0b90000001990bd621590aa0c791_906_906.jpg",
+        "price": "¥588.00",
+        "toPrice": "$92.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667321309",
+          "name": "YH Style Hub",
+          "logo": "https://si.geilicdn.com/shopedit1957181106-623e00000197d683cbaa0a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576884",
+        "mallType": "WD",
+        "itemId": "7550119294",
+        "title": "TOP. wyndham jackets",
+        "picUrl": "https://si.geilicdn.com/pcitem711711932-7110000001993f1339f50a20e284_1280_1280.jpg",
+        "price": "¥798.00",
+        "toPrice": "$125.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "711711932",
+          "name": "Factory goose",
+          "logo": "https://si.geilicdn.com/wdseller711711932-738e00000198a244b9630a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576375",
+        "mallType": "WD",
+        "itemId": "7542170066",
+        "title": "Fashion Down Jacket",
+        "picUrl": "https://si.geilicdn.com/open1737128957-1234478995-60a900000198ac57eb560a231226_1200_1459.jpg",
+        "price": "¥580.00",
+        "toPrice": "$91.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1777327485",
+          "name": "BTC 001",
+          "logo": "https://si.geilicdn.com/shopedit1966423484-06c900000197a521e8e90a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2590648",
+        "mallType": "T1688",
+        "itemId": "973844582961",
+        "title": "台州鸟家男女同款LT三合一羽绒服冲锋衣防水风男内胆可拆卸外套",
+        "picUrl": "https://cdn.findqc.com/item/20251010/mgkacdud_w4ce.jpg",
+        "price": "¥289.00",
+        "toPrice": "$45.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBsD0bq7GzXgbKzdKv2Ta7gQ",
+          "name": "三门县云然户外用品厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2593872",
+        "mallType": "WD",
+        "itemId": "7554603194",
+        "title": "C B206 whatApp 86 19739082725",
+        "picUrl": "https://si.geilicdn.com/pcitem1959671169-5786000001996077bcb10a20e672_1440_1920.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751744829",
+          "name": "八方来财",
+          "logo": "https://si.geilicdn.com/wdseller1959671169-216100000197118263ac0a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576616",
+        "mallType": "WD",
+        "itemId": "7555907776",
+        "title": "TOP quality classic fashion trend winter warm down cotton jacket men's and women's winter jacket / vest +86 19959480034",
+        "picUrl": "https://si.geilicdn.com/open1863516261-1234478995-332200000192766d2d990a8115b5_1200_1200.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735713571",
+          "name": "Top quality products 1",
+          "logo": "https://si.geilicdn.com/wdseller1984500315-602e0000019ab0ce96b40a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576314",
+        "mallType": "WD",
+        "itemId": "7565899216",
+        "title": "【DJ版】TNF 1996 Nuptse",
+        "picUrl": "https://si.geilicdn.com/pcitem901953596047-2f20000001995dd51c360a23047e_1080_1080.jpg",
+        "price": "¥325.00",
+        "toPrice": "$51.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743677485",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1931680837-3bfe00000196b9a749100a231316-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2578672",
+        "mallType": "T1688",
+        "itemId": "758278150470",
+        "title": "REP European and American niche fashion brands, British autumn and winter bread jackets, feather silk cotton jackets, jackets, men's and women's high street cotton clothes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dR7J5B1z0D95QqoDV_!!2209536126651-0-cib.jpg",
+        "price": "¥265.00",
+        "toPrice": "$41.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFBztPwGwNj8oKYh_hSHUMQ",
+          "name": "深圳市雄伟天成贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2577189",
+        "mallType": "TB",
+        "itemId": "863840217033",
+        "title": "LACOSTE French crocodile menswear Fashion Trendy Casual pure color hooded duck down Down jacket Outwear | BH7841",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2206592911695/O1CN01VnJaVF1OOMQLocA5V_!!4611686018427382095-0-item_pic.jpg",
+        "price": "¥3,790.00",
+        "toPrice": "$595.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "591272274",
+          "name": "lacoste官方奥莱旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2577149",
+        "mallType": "WD",
+        "itemId": "7563412237",
+        "title": "经典百搭时尚羽绒服-032",
+        "picUrl": "https://si.geilicdn.com/open1851689603-1234478995-673500000198c188877f0a22d249-unadjust_800_800.png",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751940371",
+          "name": "TOP SHOP",
+          "logo": "https://si.geilicdn.com/pcdecorate1995639365-522400000199aa52cf0c0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143170191913209629",
+  "language": "en"
+}

@@ -1,0 +1,333 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1937034",
+        "mallType": "T1688",
+        "itemId": "923947221843",
+        "title": "ami short-sleeved 25ss small heart embroidery star with the same men and women cotton loose summer fashion T-shirt half-sleeved blouse",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01My7CQB1PJbtYLvo7H_!!2219542581820-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219542581820",
+          "name": "广州佐凯服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1780345",
+        "mallType": "WD",
+        "itemId": "7493726634",
+        "title": "S16-S20",
+        "picUrl": "https://si.geilicdn.com/wdseller1947147904-1a82000001977926239b0a2301b4_1240_1240.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1775998",
+        "mallType": "WD",
+        "itemId": "7389388781",
+        "title": "****",
+        "picUrl": "https://si.geilicdn.com/open1779836585-252808396-182d00000194feb52aa10aa0834c_800_800.jpg",
+        "price": "¥84.00",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2903569",
+        "mallType": "TB",
+        "itemId": "709250165572",
+        "title": "Zrshop European and American Style Fishbone Corset Crop Top Long-Sleeve T-Shirt for Women, Pure and Sexy Tight-Fitting Top, Base Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2184060753/O1CN01QxYPCH1HQv3hRO40z_!!2184060753.jpg",
+        "price": "¥60.12",
+        "toPrice": "$9.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "150489083",
+          "name": "ZR SHOP STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1580821",
+        "mallType": "TB",
+        "itemId": "744550218389",
+        "title": "21Fw Junya Watanabe Nature Tee Natural Print Short-Sleeved T-Shirt for Men and Women, Couple Style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3421444534/O1CN01AbnSRE1jMceXbU1Ry_!!3421444534.jpg",
+        "price": "¥90.23",
+        "toPrice": "$14.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "464464911",
+          "name": "大S潮牌社",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "894704",
+        "mallType": "T1688",
+        "itemId": "827099560086",
+        "title": "Trapstar Short Sleeve Correct Creative Print Ins Niche Cross Border Tide Loose American High Street T-Shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000005695/O1CN0155xXlj1rwMZncAg5K_!!6000000005695-0-tbvideo.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "894729",
+        "mallType": "T1688",
+        "itemId": "779027065239",
+        "title": "Travis Scott Cactus Jack Full Collection Collection M Memorabilia Co-Branded Patterned Letter Short Sleeve T-Shirt Summer",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000000588/O1CN01DD5aXL1GDLpQl4LPE_!!6000000000588-0-tbvideo.jpg",
+        "price": "¥51.00",
+        "toPrice": "$8.02",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "894700",
+        "mallType": "WD",
+        "itemId": "7281877789",
+        "title": "Two Color Casual Basic Short Sleeve Couple's T-Shirt",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-3207000001909149c4ef0a22d234_768_1024.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1691545257",
+          "name": "M先生",
+          "logo": "https://si.geilicdn.com/shopedit1827918087-04510000018d599e27120a239737-unadjust_286_286.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "894425",
+        "mallType": "WD",
+        "itemId": "7392693750",
+        "title": "American high street niche hip-hop foam printing casual sports suit men and women loose thick drawstring shorts couple tide",
+        "picUrl": "https://si.geilicdn.com/open1858164021-1234478995-6d9f000001950afabfc60a22d249_800_800.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858164021",
+          "name": "PrimeSelect",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "866652",
+        "mallType": "TB",
+        "itemId": "848618284673",
+        "title": "Billionaire Studios Short Sleeve",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2217868191481/O1CN01JLJXuX1MoLZqeAHnc_!!2217868191481.jpg",
+        "price": "¥80.85",
+        "toPrice": "$12.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "345599177",
+          "name": "ANGELKING",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346644",
+        "mallType": "WD",
+        "itemId": "7258792775",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saw0fm_73iv.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346633",
+        "mallType": "WD",
+        "itemId": "7251080803",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4savzyo_h2xh.jpg",
+        "price": "¥101.00",
+        "toPrice": "$15.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346631",
+        "mallType": "WD",
+        "itemId": "7251108589",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saw0yy_ftlj.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 41,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1664531",
+        "mallType": "TB",
+        "itemId": "946147172318",
+        "title": "Erd Melancholic Rich Second Generation 25Ss Bandage Portrait You Are Nothing Slogan Printed Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251105/mhlmuwra_zlnv.jpg",
+        "price": "¥102.35",
+        "toPrice": "$16.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "211433482",
+          "name": "PV的店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "952306",
+        "mallType": "TB",
+        "itemId": "878848066308",
+        "title": "220g Heavyweight, Non-See-Through! Slowdive Band Logo Round Neck Short-Sleeve T-Shirt, Psychedelic Rock",
+        "picUrl": "https://cdn.findqc.com/item/20250306/m7wx2cbf_ofr6.jpg",
+        "price": "¥30.90",
+        "toPrice": "$4.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58024562",
+          "name": "Brandon美式发烧友",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 118,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3012593",
+        "mallType": "T1688",
+        "itemId": "916632546781",
+        "title": "Represent赛车主题旗帜字母英文印花高街潮牌百搭男女宽松短袖T恤",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cbr7X31wD5ZVjN3a2_!!2209273606273-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209273606273",
+          "name": "广州市白云区黄石扎西德勒服装店（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2104652",
+        "mallType": "T1688",
+        "itemId": "931019471128",
+        "title": "Foreign trade wholesale American tide brand G D basic models letters classic logo slogan casual loose short-sleeved men and women t-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AES9Hl1PJbtqSaksS_!!2219542581820-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219542581820",
+          "name": "广州佐凯服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1786292",
+        "mallType": "TB",
+        "itemId": "848072332047",
+        "title": "Destroy Lonely Blak Amerika LOS ANGELES Tee Los Angeles Limited Short sleeved T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2212643669335/O1CN018jNIlr2IpUHJPrnHp_!!2212643669335.jpg",
+        "price": "¥69.99",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142115661911104027",
+  "language": "en"
+}

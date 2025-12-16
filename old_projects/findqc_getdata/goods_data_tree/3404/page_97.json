@@ -1,0 +1,386 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2577215",
+        "mallType": "WD",
+        "itemId": "7297674774",
+        "title": "GF-1高品质男女同款经典白红拼接圆领T恤卫衣针织衣（TOP品质）",
+        "picUrl": "https://si.geilicdn.com/pcitem1886196013-679a00000192de3ccd540a2395d6_1200_1200.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863516261",
+          "name": "Trendy Buy",
+          "logo": "https://si.geilicdn.com/shopedit1886196013-3dad00000193e98aafee0a20e284-unadjust_743_743.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576406",
+        "mallType": "WD",
+        "itemId": "7565878890",
+        "title": "ZJL22 时尚休闲运动套装",
+        "picUrl": "https://si.geilicdn.com/open1863333901-1234478995-767d00000198bfecf1df0a231226_1200_1200.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1796549837",
+          "name": "ZJL店铺",
+          "logo": "https://si.geilicdn.com/wdseller1929322312-196900000198610716560a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2594645",
+        "mallType": "WD",
+        "itemId": "7560024706",
+        "title": "LB-02 Fashionable and versatile trend sweater",
+        "picUrl": "https://si.geilicdn.com/open1665887472-1234478995-07f5000001983221328c0a22d249_800_800.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780861357",
+          "name": "Edison Shop-H2",
+          "logo": "https://si.geilicdn.com/shopedit1937465692-7a0b000001963a19025d0a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2580589",
+        "mallType": "WD",
+        "itemId": "7552470162",
+        "title": "sup*** hoodie-高质量卫衣",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-77f700000198d1c416070a23b4de_1200_1200.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1635218211",
+          "name": "1号商店",
+          "logo": "https://si.geilicdn.com/wdseller1984574574-5a64000001996c0f62dd0a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2585354",
+        "mallType": "T1688",
+        "itemId": "693672649421",
+        "title": "Kanji Y2K sunglasses female sunscreen riding sports windproof sunglasses in Europe and the United States personality rimless one-piece mirror glasses male",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012oNQUh1WdwXGzbskG_!!2206436662812-0-cib.jpg",
+        "price": "¥9.00",
+        "toPrice": "$1.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206436662812",
+          "name": "广州市越秀区蓝眸眼镜商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2578967",
+        "mallType": "WD",
+        "itemId": "7458416971",
+        "title": "Exquisite coat",
+        "picUrl": "https://si.geilicdn.com/open2064273-1234478995-12d500000196872d8a3a0a231226_867_1100.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2064273",
+          "name": "LaLa buy",
+          "logo": "https://si.geilicdn.com/pcdecorate901944571744-59000000019696c25a830a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2582097",
+        "mallType": "WD",
+        "itemId": "7549985745",
+        "title": "sp Hoodie Crew neck Sweatshirt Long pants 40 pcs.",
+        "picUrl": "https://si.geilicdn.com/open1718394333-1234478995-0554000001972c5792f30a8115c2_1242_1265.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "786477228",
+          "name": "Coco Shop",
+          "logo": "https://si.geilicdn.com/wdseller901989068092-432200000199244e4a820a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576649",
+        "mallType": "T1688",
+        "itemId": "802941914828",
+        "title": "ESSENTIALS children's new fall and winter padded suit boys and girls sweater sweatpants",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PO7rg21uKksm470AA_!!2208544466019-0-cib.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208544466019",
+          "name": "即墨区麦欧欧服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2588843",
+        "mallType": "WD",
+        "itemId": "7549294729",
+        "title": "Pandabuy CnFans-Casual Sportswear Trendy Fashion New Products",
+        "picUrl": "https://si.geilicdn.com/pcitem901894188906-5f56000001924d00b8010a23047e_1200_1200.jpg",
+        "price": "¥250.00",
+        "toPrice": "$39.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1853303901",
+          "name": "QING SHOP-M1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2577205",
+        "mallType": "WD",
+        "itemId": "7514682882",
+        "title": "Represent Classic slogan letters hooded sweatshirt loose tide couple men and women hoodie",
+        "picUrl": "https://si.geilicdn.com/open312768324-1234478995-701a000001983a69a9f50a23b491_800_800.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "312768324",
+          "name": "花椒C姐🍀",
+          "logo": "https://si.geilicdn.com/wdseller312768324-41fa0000018a0f12b4740a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2593824",
+        "mallType": "WD",
+        "itemId": "7556362170",
+        "title": "Cross-Border European and American Trendy Brand Popular Fashion Printed Singer Hoodies for Men and Women Sweatshirts and Sweatshirts Wholesale in Sweatshirts and Sweatshirts Wholesale in",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-5ed8000001996d1570230a23b4de_1000_1000.jpg",
+        "price": "¥27.14",
+        "toPrice": "$4.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1686510125",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1933140557-5cb800000196b9cd65f60a2303ee-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576285",
+        "mallType": "TB",
+        "itemId": "961098243528",
+        "title": "ERD Shadow Pocket Retro Washed, Hand Damaged, Heaven and Earth Needle Single Stitching Craft Round Neck Long Sleeve T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2075710764/O1CN01vbaD4K1HVxfsXd8Sg_!!2075710764.jpg",
+        "price": "¥81.75",
+        "toPrice": "$12.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576289",
+        "mallType": "T1688",
+        "itemId": "817447479776",
+        "title": "Cross-border Export Aime Round Neck Sweatshirt New York Queen Area Landmark Architectural Print Simple Versatile Hooded Sweatshirt for Men",
+        "picUrl": "https://cdn.findqc.com/item/20251002/mg896kgf_bop4.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBc6kCKQ99KNGranVMEZWkKA",
+          "name": "广州市番禺区追潮龙贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 54,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2580640",
+        "mallType": "WD",
+        "itemId": "7554873998",
+        "title": "印花长袖男女卫衣",
+        "picUrl": "https://si.geilicdn.com/pcitem1935176436-580500000195507f5fe00a2304aa_1200_1200.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661456173",
+          "name": "UmiShop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2578345",
+        "mallType": "WD",
+        "itemId": "7533810865",
+        "title": "New sweatshirt Factory Pullover P&Multi Batch",
+        "picUrl": "https://si.geilicdn.com/wdseller1452235621-1ce800000198e943d77f0a8133cc_885_880.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1872163848",
+          "name": "Toppanda",
+          "logo": "https://si.geilicdn.com/wdseller1452235621-5feb000001900af719320a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576960",
+        "mallType": "T1688",
+        "itemId": "822468339306",
+        "title": "美潮蛛网Sp5der 555555发泡字母印花休闲情侣装连帽套头卫衣套装",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vj2Fnw209CbOWxgD8_!!2215369576806-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215369576806",
+          "name": "佛山市南海区远奕潮霏服装贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2577255",
+        "mallType": "WD",
+        "itemId": "7526673634",
+        "title": "新款时尚潮流百搭圆领卫衣-004",
+        "picUrl": "https://si.geilicdn.com/open1851689603-1234478995-59ed0000019845e100980a8133b0_2000_2000.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1722000323",
+          "name": "Best Pick",
+          "logo": "https://si.geilicdn.com/pcdecorate1981547250-08be00000198a211a7fa0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576333",
+        "mallType": "WD",
+        "itemId": "7561579544",
+        "title": "dq-时尚潮流经典百搭舒适卫衣",
+        "picUrl": "https://si.geilicdn.com/open1874679197-1234478995-32ea000001983299e53d0aa0c791_1200_1200.jpg",
+        "price": "¥348.00",
+        "toPrice": "$54.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1705479459",
+          "name": "Gentle-ＭＨ1",
+          "logo": "https://si.geilicdn.com/shopedit1984321434-0b990000019956cd0a640a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2578310",
+        "mallType": "TB",
+        "itemId": "960583070587",
+        "title": "Remedy American handwriting foam three-dimensional printing loose T-shirt base shirt couple long sleeved T-shirt men and women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2039568504/O1CN013YbpQx2CgtDtXhO4P_!!2039568504.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109883697",
+          "name": "Remedy线上商店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2577232",
+        "mallType": "WD",
+        "itemId": "7441961891",
+        "title": "【DX34】秋季时尚卫衣",
+        "picUrl": "https://si.geilicdn.com/open1658301349-1234478995-75af0000019213f075160a210298_800_800.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615844877",
+          "name": "MlodyGee",
+          "logo": "https://si.geilicdn.com/shopedit1919750623-2b520000019604df61e40a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142426251917113404",
+  "language": "en"
+}

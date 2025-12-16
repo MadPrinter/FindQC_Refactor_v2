@@ -1,0 +1,344 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1892657",
+        "mallType": "WD",
+        "itemId": "7497728585",
+        "title": "C眼镜连帽卫衣",
+        "picUrl": "https://si.geilicdn.com/open260671440-1234478995-6e31000001922a0df7fb0a210298_1000_1000.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1619766589",
+          "name": "MVP1",
+          "logo": "https://si.geilicdn.com/shopedit1959948500-02fe000001997aabb2820a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1892312",
+        "mallType": "T1688",
+        "itemId": "901086281615",
+        "title": "2023 cross-border foreign trade fall new skull 3d digital printing men's hooded sweatshirt to figure Z",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018asm671RXvUZNJM35_!!2219352982122-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219352982122",
+          "name": "上饶市海风服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1891909",
+        "mallType": "T1688",
+        "itemId": "895245031267",
+        "title": "Windproof windbreaker National Club Arsenal Yellow Horse Italy Italy Taipan Man L Chelsea pre-match sports training jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Y9I0dd1mRbxbUtDS5_!!2219437004951-0-cib.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219437004951",
+          "name": "广州劲翼服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1556438",
+        "mallType": "WD",
+        "itemId": "7494580359",
+        "title": "M High Quality Jacket 1",
+        "picUrl": "https://si.geilicdn.com/open1622159709-252808396-623d0000019795768e050aa043be_1080_1080.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622159709",
+          "name": "My shop",
+          "logo": "https://si.geilicdn.com/shopedit1952892442-671400000196a380b32b0a230115-unadjust_512_512.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1021327",
+        "mallType": "TB",
+        "itemId": "724802353553",
+        "title": "B family SkaterJean Shorts water washed blue denim Shorts Cat must do old skateboard Casual Half Length pants tide",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/402758480/O1CN013PMgkt2CVtUQANap0_!!402758480.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68313956",
+          "name": "IM shop高端高街",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1021281",
+        "mallType": "T1688",
+        "itemId": "737669339092",
+        "title": "New INS high street deerskin velvet zipper jacket high street tide retro solid color casual fashion long sleeve jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019a9w2g1Z3i7nJC35k_!!2216174593139-0-cib.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1719293",
+        "mallType": "T1688",
+        "itemId": "928998061501",
+        "title": "European Station Fashion Casual Men's Summer Jacket Lightweight Breathable Casual Business Hooded High Quality Outdoor Sports",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01k3Cahx2I4lvvaOhpD_!!2216040859233-0-cib.jpg",
+        "price": "¥67.00",
+        "toPrice": "$10.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-i_9wVorC_n8_qzrBNn8TA",
+          "name": "海城市加贝男装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1550345",
+        "mallType": "TB",
+        "itemId": "909257820804",
+        "title": "Correct CORTEIZ Alcatraz Destroyed LOGO American men and women jeans pants tide denim jacket jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1885912624/O1CN017TTqHv1VFqK86G5gt_!!1885912624.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "264073854",
+          "name": "潮男PENG",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1549216",
+        "mallType": "WD",
+        "itemId": "6516820595",
+        "title": "Classic Double G Full Print Jacquard Webbing Jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem901765499184-5c9400000189ac0ba9910a22d1c8_1512_1512.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1823763137",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/wdseller901765499551-0c86000001948c2db84d0a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1505322",
+        "mallType": "T1688",
+        "itemId": "869770423345",
+        "title": "Heavy Weightweight Small Label Classic Stand-Up Collar Zipper Cashmere Jacket Jacket for Men and Women Same Style Couple Polar Fleece Top Trendy",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bpc63z1dP1DigQvFN_!!2214252353727-0-cib.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDSByteUxFLX-xicXExPygQ",
+          "name": "常熟市尚湖镇好书人服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1381983",
+        "mallType": "T1688",
+        "itemId": "869779023955",
+        "title": "Blackicon American vintage washed distressed Detroit hooded jacket Carhartt jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01v5oaHK2JEg534HRW8_!!2210041349390-0-cib.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210041349390",
+          "name": "广州优尼体文化服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1198514",
+        "mallType": "T1688",
+        "itemId": "898192498536",
+        "title": "2025 Chinese-Style Silk Jacket with Stand Collar and Button Closure, Loose-Fitting Tang Suit for Men, Spring Season",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cL9Hih1QblG5t1bnR_!!2219352681995-0-cib.jpg",
+        "price": "¥215.00",
+        "toPrice": "$33.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBp_mhd6Ish3zAnCcjHhgSHg",
+          "name": "上海橙珵贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1198314",
+        "mallType": "TB",
+        "itemId": "847500937849",
+        "title": "Trapstar American Gradient Long Sleeve Men's Fall Thin Hooded Punching Jacket Sports Outdoor Windbreaker Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1034922469/O1CN011X6wU81U6qtFjlsOP_!!1034922469.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103318446",
+          "name": "FFCP Studios",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1517237",
+        "mallType": "T1688",
+        "itemId": "696062190285",
+        "title": "American Detroit Heavy Lapel Crock Canvas Zipper Quilted Coach Jacket Men's Casual Loose Jacket Coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hU5dyb1dP1Dl1Uq4O_!!2214252353727-0-cib.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDSByteUxFLX-xicXExPygQ",
+          "name": "常熟市尚湖镇好书人服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1013440",
+        "mallType": "WD",
+        "itemId": "7388270101",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/pcitem1799783535-2ad00000019360b359d70a2395a3_281_290.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1364391",
+        "mallType": "T1688",
+        "itemId": "896457531031",
+        "title": "High version of foreign trade double-sided zipper hooded knit cardigan loose models jacquard letters high-quality men's and women's models jacket",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000001556/O1CN01jWdDiY1NMhJ88BJ6m_!!6000000001556-0-tbvideo.jpg",
+        "price": "¥315.00",
+        "toPrice": "$49.53",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1363272",
+        "mallType": "T1688",
+        "itemId": "921541542130",
+        "title": "2025 summer new colorblocking sports outdoor refreshing breathable UV protection hooded time",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012TLZRv1zzaMQu3t3Z_!!2216210876785-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1188276",
+        "mallType": "TB",
+        "itemId": "827789424148",
+        "title": "SUNTEEZA heavyweight Detroit vintage worn out romantic workwear jacket denim jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2200620532864/O1CN01QsyjSb1X1lKhgQMMy_!!2200620532864.jpg",
+        "price": "¥568.00",
+        "toPrice": "$89.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "287700251",
+          "name": "危险的太阳",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2420227",
+        "mallType": "WD",
+        "itemId": "7505478880",
+        "title": "Fall and Winter Fashionable Jacket 002",
+        "picUrl": "https://si.geilicdn.com/open908363001-1234478995-334000000197e43225190a22d249_1200_1200.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "908363001",
+          "name": "TOPBUY1",
+          "logo": "https://si.geilicdn.com/weidian908363001-5be1000001988a100cc10a2315ef_1156_1156.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147008721917112217",
+  "language": "en"
+}

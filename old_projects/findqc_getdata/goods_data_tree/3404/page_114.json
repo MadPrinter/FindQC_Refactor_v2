@@ -1,0 +1,369 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2454828",
+        "mallType": "WD",
+        "itemId": "7436098061",
+        "title": "Fashion Sweatshirt (ME-0109)",
+        "picUrl": "https://si.geilicdn.com/open1860739466-1234478995-1d5600000194640d93d80a232357_1200_1200.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1860739466",
+          "name": "New Goat",
+          "logo": "https://si.geilicdn.com/shopedit1932874979-713d000001981eb095d40a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451831",
+        "mallType": "WD",
+        "itemId": "7283341186",
+        "title": "Trapstar Towel Embroidery Letter Hooded Sweatshirt Patchwork Casual Suit Long Pants Street Hip Hop Men and Women",
+        "picUrl": "https://si.geilicdn.com/open1629391697-1234478995-7b8700000192617626d00a210298_800_800.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629391697",
+          "name": "RepTigerSupply",
+          "logo": "https://si.geilicdn.com/weidian1788880988-2ebf000001937ca639f50a23038e_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2454589",
+        "mallType": "WD",
+        "itemId": "7519814691",
+        "title": "QLH02-Fashion casual pop-up sports suit",
+        "picUrl": "https://si.geilicdn.com/open1703402205-1234478995-2e1000000198749ac4510a8133b0_1200_1200.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1703402205",
+          "name": "COCO factory",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451416",
+        "mallType": "WD",
+        "itemId": "7529583047",
+        "title": "ZM02-Youth Trend Activity Sweatshirt (non-quality problems do not support returns) +86 173 0597 0797",
+        "picUrl": "https://si.geilicdn.com/open1800331971-1234478995-24f400000198c7e59dd60a22d249-unadjust_800_800.png",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1800331971",
+          "name": "High-quality Chinese stores",
+          "logo": "https://si.geilicdn.com/shopedit1980225506-054f0000019a59ac39700a811411-unadjust_605_605.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2458337",
+        "mallType": "WD",
+        "itemId": "7492569233",
+        "title": "Loose Hooded Sweatshirt (ME-0183)",
+        "picUrl": "https://si.geilicdn.com/open1860130941-1234478995-1f6e000001977e649e920a23b4de_1200_1200.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1860130941",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/pcdecorate901973512370-62a0000001987ac0b5c50a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2455265",
+        "mallType": "WD",
+        "itemId": "7524253391",
+        "title": "***",
+        "picUrl": "https://si.geilicdn.com/pcitem152000357-4dba0000019892dba94a0a2303ee_2000_2000.jpg",
+        "price": "¥144.00",
+        "toPrice": "$22.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1778752965",
+          "name": "青云",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2471540",
+        "mallType": "WD",
+        "itemId": "7516412892",
+        "title": "Sweat Crewneck-XW-1",
+        "picUrl": "https://si.geilicdn.com/open1841026309-252808396-144a00000192659b7af70a232357_1440_1919.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1625782829",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451566",
+        "mallType": "T1688",
+        "itemId": "737463230572",
+        "title": "DSQ LIAN D2 Express Amazon Cross-border foreign trade network exclusive men's sweater DSQUARED2",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ho1MnU2MSMcIqIMOE_!!2211384509826-0-cib.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211384509826",
+          "name": "广州誉民服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2450356",
+        "mallType": "WD",
+        "itemId": "7485738983",
+        "title": "New Fashion Hundred Hipster Clothes-002",
+        "picUrl": "https://si.geilicdn.com/open1842365021-1234478995-3c4c000001973a36c3e30a22d249_800_800.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1842365021",
+          "name": "LumiFit",
+          "logo": "https://si.geilicdn.com/shopedit1952633067-2c5e00000196ceda1bca0a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2454969",
+        "mallType": "WD",
+        "itemId": "7552247501",
+        "title": "TP01 2025 Pop Embroidered Zipper Sweater Sweatshirt Sweatpants Collection WhatsApp+86 177 5033 6825",
+        "picUrl": "https://si.geilicdn.com/pcitem1934717690-546e000001995d2230e20a20e2c5_1200_1200.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1871303186",
+          "name": "Xinsiyuan Factory",
+          "logo": "https://si.geilicdn.com/pcdecorate1588303267-69800000019914d2dfe50a21146b-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451247",
+        "mallType": "TB",
+        "itemId": "852079012231",
+        "title": "[Culi Star Collection] Hkgn American Basketball Sweatshirt High Street Student Plus Velvet Thickened Pure Cotton Loose Men's Trendy",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/728500969/O1CN01vs7o3r1J1qnNwHny1_!!728500969.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101396229",
+          "name": "HKGN",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2450457",
+        "mallType": "WD",
+        "itemId": "7368730852",
+        "title": "Sweatshirt 3｜Shipping by default｜No returns, no exchanges",
+        "picUrl": "https://si.geilicdn.com/open1630144085-1234478995-5fa00000019465fe07aa0a8115b5_1200_1500.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1630144085",
+          "name": "Pure Original Batch-",
+          "logo": "https://si.geilicdn.com/wdseller1899941623-60450000019461388c320a2304aa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451094",
+        "mallType": "WD",
+        "itemId": "7547909952",
+        "title": "Fashion Trend Hooded Sweatshirt 004YHH",
+        "picUrl": "https://si.geilicdn.com/open1796353693-1234478995-3a20000001985fbf8dd10a22d249-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1660742301",
+          "name": "Supercats",
+          "logo": "https://si.geilicdn.com/shopedit1949380991-5cab000001992d737e5d0a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451123",
+        "mallType": "TB",
+        "itemId": "978424001302",
+        "title": "2025 Autum New arrival Super Handsome, Unique Style, American Ins Trendy Sports and Fitness Print Zip-Up Hoodie",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2216460755820/O1CN015fsHRO1srcC5Qu9lP_!!2216460755820.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "383781088",
+          "name": "SCA健身潮人馆",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2450372",
+        "mallType": "WD",
+        "itemId": "7543091964",
+        "title": "【9.5/10】LaFullZipHoodies&SweatshirtsforMen9809",
+        "picUrl": "https://si.geilicdn.com/weidian1487675303-3b41000001989f62c9af0a8133cc_790_1006.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848918484",
+          "name": "french fish②",
+          "logo": "https://si.geilicdn.com/shopedit1512293904-7beb0000018627a925370a813470-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451410",
+        "mallType": "WD",
+        "itemId": "7487301158",
+        "title": "Zipper pullover sweater",
+        "picUrl": "https://si.geilicdn.com/pcitem1959671169-15fd00000197389ec81f0a2102c5_1179_1179.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751744829",
+          "name": "八方来财",
+          "logo": "https://si.geilicdn.com/wdseller1959671169-216100000197118263ac0a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1691291",
+        "mallType": "TB",
+        "itemId": "727019795762",
+        "title": "American tide Travis Scott zipper cardigan sweater men couple ins fall and winter padded hooded jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1727457711/O1CN01rp315S26ph4kW80jD_!!1727457711.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106638064",
+          "name": "大V先生",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "794271",
+        "mallType": "WD",
+        "itemId": "7387426498",
+        "title": "Sweatshirt. Shorts.",
+        "picUrl": "https://si.geilicdn.com/open1858164021-1234478995-0b4600000194d527e9000a22d234_800_800.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858164021",
+          "name": "PrimeSelect",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2507772",
+        "mallType": "WD",
+        "itemId": "7547092161",
+        "title": "Hooded monogrammed flocked fog sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open312768324-1234478995-73c600000199378709320a22d249_800_800.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "312768324",
+          "name": "花椒C姐🍀",
+          "logo": "https://si.geilicdn.com/wdseller312768324-41fa0000018a0f12b4740a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142562012553878890",
+  "language": "en"
+}

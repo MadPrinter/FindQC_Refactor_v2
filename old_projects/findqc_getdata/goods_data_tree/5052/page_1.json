@@ -1,0 +1,376 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2827815",
+        "mallType": "T1688",
+        "itemId": "901544555793",
+        "title": "Jihu Small Particles 880018 Kumamon Japanese House Toy Play House Villa Assembled Building Blocks",
+        "picUrl": "https://cdn.findqc.com/item/20251101/mhfynduc_3205.jpg",
+        "price": "¥102.00",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiWZOD4Wxmx9EOmzUch5NmQ",
+          "name": "汕头市澄海区多乐聚玩具商行",
+          "type": "T1688"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1901411",
+        "mallType": "T1688",
+        "itemId": "798628710363",
+        "title": "适用乐高10294泰坦尼克号模型手办亚克力展示盒积木透明防尘罩子",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01uDwSDw1IGDYVxwqXA_!!2214638510865-0-cib.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214638510865",
+          "name": "吉安星晨科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1662309",
+        "mallType": "TB",
+        "itemId": "899340433201",
+        "title": "I'm bored! Assemble an internet famous LEGO building block ornament, not a buddy shrimp, as a gift for boys assembling toys",
+        "picUrl": "https://cdn.findqc.com/item/20250710/mcx2st4k_amn9.jpg",
+        "price": "¥34.80",
+        "toPrice": "$5.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "594902046",
+          "name": "Bored小顽意杂货店",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1623202",
+        "mallType": "TB",
+        "itemId": "904731049682",
+        "title": "Jurassic Tyrannosaurus Rex Fossil Skeleton 1:12 Building Blocks Puzzle Assembly Dinosaur Toy Boy Children's Day Gift Ornament",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnzwgss_o43v.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "181812942",
+          "name": "万达积木",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "577367",
+        "mallType": "TB",
+        "itemId": "780670559328",
+        "title": "Light and Shadow Creation 1/64 711 Rosen Familymart Convenience Store Supermarket Scene Model Architectural Ornament",
+        "picUrl": "https://cdn.findqc.com/item/20250123/m68vjnga_zeck.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66794429",
+          "name": "光影造物",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6501",
+        "mallType": "TB",
+        "itemId": "679194503032",
+        "title": "Architecture Series 21058 Khufu Pyramid Giza Retro Statue Children's Assembly Chinese Building Blocks Toy 6111",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9ha8h_3y92.jpg",
+        "price": "¥99.90",
+        "toPrice": "$15.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "241913383",
+          "name": "国产积木品牌店",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021148074961924853900",
+  "language": "en"
+}

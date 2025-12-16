@@ -1,0 +1,49 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "14727",
+        "mallType": "WD",
+        "itemId": "7256461983",
+        "title": "Glasses Lily",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3md15pv_v5oh.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1378088195",
+          "name": "CND CLOTH",
+          "logo": "https://si.geilicdn.com/wdseller1378088195-5f6f000001739627e4360a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "11233",
+        "mallType": "T1688",
+        "itemId": "691411431486",
+        "title": "BR007 European and American New Fashion men's and women's cyberpunk Y2K sunglasses 3D printing trendy sunglasses",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbkvip_u9wd.jpg",
+        "price": "¥9.00",
+        "toPrice": "$1.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2416381373",
+          "name": "台州市盈邦眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144349581917919223",
+  "language": "en"
+}

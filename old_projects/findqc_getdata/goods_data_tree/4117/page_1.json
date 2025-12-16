@@ -1,0 +1,632 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2852440",
+        "mallType": "T1688",
+        "itemId": "903013585260",
+        "title": "Bird's Same Lt Outdoor Single-Layer Casual Jacket, Windproof, Waterproof, Breathable Mountaineering Jacket, Three-Layer Laminated Jacket Logo",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01EXBpRk1UHqR5nRMlt_!!2219482822493-0-cib.jpg",
+        "price": "¥235.00",
+        "toPrice": "$36.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkLVXq7GbAA8yzkHu44FMhQ",
+          "name": "三门县京戈电子商务经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3212946",
+        "mallType": "T1688",
+        "itemId": "893506147263",
+        "title": "春秋季新款户外运动休闲风衣连帽防风防水薄外套冲锋衣适合北方面",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01uAW8eM1LuTI51Z0AZ_!!2218412101359-0-cib.jpg",
+        "price": "¥104.00",
+        "toPrice": "$16.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218412101359",
+          "name": "石狮市产禾服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206653",
+        "mallType": "WD",
+        "itemId": "7571503066",
+        "title": "（120-170）拼色连帽儿童冲锋衣外套新款童装gu9701",
+        "picUrl": "https://si.geilicdn.com/wdseller1444539219-208100000199d3a43fe40a23057e_1440_1440.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864128688",
+          "name": "夏夏童品（童鞋童装）",
+          "logo": "https://si.geilicdn.com/wdseller1444539219-1bf200000179006d0b570a217216_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3127646",
+        "mallType": "WD",
+        "itemId": "7600525647",
+        "title": "【Black Friday Mega Deals】szn 连帽硬壳冲锋衣",
+        "picUrl": "https://si.geilicdn.com/pcitem1967287714-7cde0000019a4ee6551a0a23111a_1080_1080.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667334397",
+          "name": "Appel",
+          "logo": "https://si.geilicdn.com/weidian1967287714-2fe300000198527b7cba0a23041a_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3096856",
+        "mallType": "WD",
+        "itemId": "7564103887",
+        "title": "TNF Peak series assault suit\n",
+        "picUrl": "https://si.geilicdn.com/open1733523732-1234478995-4a1e00000193834403010aa08290_2560_1920.jpg",
+        "price": "¥410.00",
+        "toPrice": "$64.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1676081342",
+          "name": "WWTOP",
+          "logo": "https://si.geilicdn.com/wdseller1745861162-5a7e00000199dfed666d0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3096421",
+        "mallType": "T1688",
+        "itemId": "822520032234",
+        "title": "男装春秋季男士卫衣美式复古潮牌套头连帽衫多口袋防水休闲外套男",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rgqqP41knThMO8rTi_!!2813694728-0-cib.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2813694728",
+          "name": "慈溪市爱玲服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2403513",
+        "mallType": "WD",
+        "itemId": "7542212958",
+        "title": "The North Face New 2025 Autumn/Winter Co branded Stormtrooper Zipper Hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1771671367-454c000001990ecf536b0a2303ee-unadjust_756_678.png",
+        "price": "¥266.00",
+        "toPrice": "$41.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1671953411",
+          "name": "一家破店",
+          "logo": "https://si.geilicdn.com/shopedit1971118109-758500000198dfa3d9210a210139-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2623108",
+        "mallType": "WD",
+        "itemId": "7232932029",
+        "title": "现货｜早入早享受#【内里全压胶】原厂品质 A*G  户外机能防水防风压胶硬壳冲锋衣 男女款",
+        "picUrl": "https://si.geilicdn.com/wdseller1841360202-41c20000018ebd37b07d0a239931_1288_1288.jpg",
+        "price": "¥329.00",
+        "toPrice": "$51.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1303790680",
+          "name": "草帽出品【八点开拍】🎩",
+          "logo": "https://si.geilicdn.com/bj-wd-1303790680-1514196291898-1398575325_1239_1185.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1898288",
+        "mallType": "T1688",
+        "itemId": "949962453474",
+        "title": "【Lt Bird House】First Seven Generations Hooded Ancestral Jacket Windproof Hard Shell Waterproof Outdoor Hiking Jacket for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250912/mffofym8_wpf2.jpg",
+        "price": "¥178.80",
+        "toPrice": "$28.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYPmHsvsh9lNFqQFosHVv3Q",
+          "name": "漳州高新区包冯程服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 54,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1469482",
+        "mallType": "T1688",
+        "itemId": "904131513103",
+        "title": "Spring and autumn men's work jacket men's windproof warm hooded casual coat factory direct in stock supply wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250624/mcacbkwp_7mmb.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLFxo4UawfiUMA4nXIa6a9g",
+          "name": "麻城市齐咨贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 124,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3165251",
+        "mallType": "T1688",
+        "itemId": "832987414061",
+        "title": "Cross border hot spring and autumn casual jacket men's versatile loose youth top men's jacket hooded outdoor assault jacket\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ty5EgY1k7nWJbme0T_!!2207353964637-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOiiXPfAHGeMZ1yfE1u7FUA",
+          "name": "石狮市雅欢迪服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2813423",
+        "mallType": "T1688",
+        "itemId": "965642719985",
+        "title": "Cross-border Patag Bata outdoor waterproof jacket 3-in-1 rushing jacket jacket couple models versatile hooded trend",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Life6N28KfY5CVXF9_!!2219820447914-0-cib.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219820447914",
+          "name": "上海王乐嘉服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3191963",
+        "mallType": "WD",
+        "itemId": "7589572333",
+        "title": "tnf1990夹克冲锋衣",
+        "picUrl": "https://si.geilicdn.com/open1780109907-1780109907-29f00000019a4210810b0a23b491_1080_1080.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780109907",
+          "name": "LunaTrade",
+          "logo": "https://si.geilicdn.com/shopedit1999873750-6f7d00000199e6dc040f0a8134f0-unadjust_800_600.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3017321",
+        "mallType": "TB",
+        "itemId": "806340699815",
+        "title": "Arctic Queen Three-In-One Jacket, Hard Shell down Liner, Men's and Women's Outdoor Sports Windproof and Rainproof Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2883986202/O1CN01fQhpFn1vgZN8mSPAA_!!2883986202.jpg",
+        "price": "¥203.21",
+        "toPrice": "$31.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156624734",
+          "name": "杰克大鸟",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3014104",
+        "mallType": "WD",
+        "itemId": "7583636209",
+        "title": "ZHCL_冬季冲锋衣热卖款-合集 +86 183 5930 5797",
+        "picUrl": "https://si.geilicdn.com/pcitem1972684837-68ef00000199befb23390a8133cc-unadjust_1200_1200.png",
+        "price": "¥136.00",
+        "toPrice": "$21.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1777712221",
+          "name": "GoldemDesn",
+          "logo": "https://si.geilicdn.com/shopedit1952630684-605e00000197493c2ec10a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2414001",
+        "mallType": "WD",
+        "itemId": "7547502176",
+        "title": "10461",
+        "picUrl": "https://si.geilicdn.com/pcitem901982669672-5ebb00000199314efd770a811411_1024_1024.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1689245949",
+          "name": "TOP潮奢世家",
+          "logo": "https://si.geilicdn.com/shopedit1967092450-56c900000197ceeb82090a207569-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2842199",
+        "mallType": "WD",
+        "itemId": "7583417514",
+        "title": "Autumn and winter new fashion trend casual jacket hooded solid color collar teenage cotton jacket jacket coat",
+        "picUrl": "https://si.geilicdn.com/open1622517075-1622517075-45a70000019a123a46090a23b4de_1278_1278.jpg",
+        "price": "¥144.00",
+        "toPrice": "$22.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622517075",
+          "name": "Janekrep",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-6d8b00000199f23ea2530a20e7c7-unadjust_1024_1024.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 517,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1542973",
+        "mallType": "T1688",
+        "itemId": "902907809643",
+        "title": "2025 spring and fall rushing jacket outdoor windproof waterproof mountaineering men and women jacket coat black ether blue",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000008100/O1CN01zsywT529hrAp1sfv0_!!6000000008100-0-tbvideo.jpg",
+        "price": "¥226.32",
+        "toPrice": "$35.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219443039525",
+          "name": "上海甄驹贸易商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "854369",
+        "mallType": "T1688",
+        "itemId": "841019105776",
+        "title": "Cross Border StoneIsland Stone Island Hard Shell Top 3L-TC Material Waterproof Outdoor Jacket Jacket Coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NOhbra1zp3C0hsY2p_!!2218329476762-0-cib.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-fGPvnIijFOPC3RfKWsm3g",
+          "name": "广州赛谷服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 131,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1565470",
+        "mallType": "T1688",
+        "itemId": "940449634134",
+        "title": "2025 summer new LULU Lulu lightweight men's skinsuit cool feeling ice silk breathable sunwear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01V9v5cq1jjz1iGknMH_!!2218540774585-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145049522553919603",
+  "language": "en"
+}

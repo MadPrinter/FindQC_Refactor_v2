@@ -1,0 +1,339 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1382148",
+        "mallType": "T1688",
+        "itemId": "910072996977",
+        "title": "High end European men's short sleeved polo shirt with trendy brand collar and half sleeved T-shirt, simple and luxurious, solid color base shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KsrtWT2IS87emm0ZG_!!2217659899284-0-cib.jpg",
+        "price": "¥29.80",
+        "toPrice": "$4.69",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533639",
+        "mallType": "T1688",
+        "itemId": "925147640673",
+        "title": "Also stop men's Lycra short-sleeved shirt men's spring and summer senior sense of Korean simple loose boys solid color shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013Xcq6F1PJbtPOX2V3_!!3007911820-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2061594",
+        "mallType": "TB",
+        "itemId": "856786904456",
+        "title": "New Corteiz Alcatraz Retro Printed American Tide High Street Loose Cardigan Hooded Sweatshirt Casual Long Pants Set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1758909839/O1CN012idWHR2MYJu4iUbDB_!!1758909839.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106546547",
+          "name": "海外小众设计师",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2061013",
+        "mallType": "T1688",
+        "itemId": "924009006035",
+        "title": "Jersey England Paris France Japan Argentina Portugal Holland Korea Brazil soccer jerseys fan edition",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HYZPZa1xMXMa4dURr_!!2217861066429-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217861066429",
+          "name": "广州市蜂朝运动服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1891633",
+        "mallType": "TB",
+        "itemId": "919476151762",
+        "title": "New Men's Green Loose Striped Textured Short Sleeve Shirt Loose Premium 4840300",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2986903901/O1CN01cucjnF1egi6chQh3F_!!2986903901.png",
+        "price": "¥85.90",
+        "toPrice": "$13.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "286767100",
+          "name": "男装正品折扣店7",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1177278",
+        "mallType": "T1688",
+        "itemId": "802482277359",
+        "title": "Original Foreign Trade PL Classic Pony Embroidered Linen Blossoms Long Sleeve Commuter Casual Loose Versatile Shirt for Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013dSkYV1mfLlV1oasj_!!2217834324981-0-cib.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217834324981",
+          "name": "杭州市西湖区衣雅阁服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1709616",
+        "mallType": "TB",
+        "itemId": "842463891088",
+        "title": "24Ss Collaboration New Model Mm6 Loose Fit Washed Distressed Letter Print Unisex Casual Hoodie Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2675365904/O1CN01F1xZaS1tU5N2NftCD_!!2675365904.jpg",
+        "price": "¥93.02",
+        "toPrice": "$14.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258120736",
+          "name": "欧美高街潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1002538",
+        "mallType": "WD",
+        "itemId": "7250711821",
+        "title": "Men's Washed Cotton Soft Casual Oxford Dyed Single High Density Shirt",
+        "picUrl": "https://si.geilicdn.com/open1616169977-252808396-7b4000000190c6a80efe0a210559_800_800.jpg",
+        "price": "¥133.00",
+        "toPrice": "$20.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616169977",
+          "name": "9 MILES潮牌精选",
+          "logo": "https://si.geilicdn.com/shopedit1866172129-7a6d0000018fc87ff6280a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "838334",
+        "mallType": "T1688",
+        "itemId": "775464332536",
+        "title": "Cross-border broken planet Europe and the United States tide foam letters printed padded hooded sweater loose leisure suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01n0vWR927PsMel3buA_!!2215544457790-0-cib.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "996295",
+        "mallType": "T1688",
+        "itemId": "863943606807",
+        "title": "Can scan code RL cross-border Ralph pony embroidery Oxford cloth shirt men and women old money wind business casual cotton shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000007936/O1CN01PQJzNi28UkCRfGYDl_!!6000000007936-0-tbvideo.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2376677",
+        "mallType": "WD",
+        "itemId": "7466854553",
+        "title": "1:1 Fashion Fashion Casual Shorts Set mc",
+        "picUrl": "https://si.geilicdn.com/pcitem901908345148-53150000019440f9a1f90a2395a3_2000_2000.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1741168821",
+          "name": "做个老实人",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2374756",
+        "mallType": "WD",
+        "itemId": "7289269428",
+        "title": "ASK jacket velvet black D956",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-3d170000019296171d100a210139_480_480.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "461311",
+        "mallType": "TB",
+        "itemId": "829588923222",
+        "title": "Heavyweight Stiff American Vintage J97 Workwear Washed and Aged Detroit Jacket Loose Tough Jacket Coat",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2587298462/O1CN01Wqc3CN2CNeUiu5qTK_!!2587298462.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "149831584",
+          "name": "暴富Boff",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "461281",
+        "mallType": "T1688",
+        "itemId": "826148317658",
+        "title": "Can stand up! 14 color carhartt J97 stiff men's jacket couple American workwear vintage washed jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KwOUKf1vm48Th2JzU_!!2215545636214-0-cib.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215545636214",
+          "name": "上海琦欧百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2827764",
+        "mallType": "WD",
+        "itemId": "7399169050",
+        "title": "(In stock) mattyboy black and red striped jacquard long sleeve/plated with thick silver hardware/special braided jacquard/cabinet jacquard weaving/bamboo cotton fabric/...",
+        "picUrl": "https://si.geilicdn.com/wdseller1405292126-72c30000019a0c1c230f0a2395e9_1290_1223.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1405292126",
+          "name": "杰尼龟",
+          "logo": "https://si.geilicdn.com/wdseller1405292126-7eda0000017c2d2f51a40a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2373422",
+        "mallType": "TB",
+        "itemId": "624127085427",
+        "title": "Complete jilsand classic minimalist style shirt thin windbreaker men's and women's coat wool loose Lemaire style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3450930833/O1CN01RFq8wd1I1YXMNuwMV_!!3450930833.jpg",
+        "price": "¥7,777.00",
+        "toPrice": "$1,222.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "490683351",
+          "name": "ON MY OWN",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1174513",
+        "mallType": "T1688",
+        "itemId": "848389417011",
+        "title": "Pure original moral training SAMBA, shell head, GAZELLE,SPEZIAL, Putian men's and women's board shoes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fD0VMh1qU8bkW4W3M_!!2217581125498-0-cib.jpg",
+        "price": "¥235.00",
+        "toPrice": "$36.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBM3-jEeySud6GC-nVbS1NaQ",
+          "name": "莆田市城厢区超洛汇鞋服商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 74,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "989597",
+        "mallType": "WD",
+        "itemId": "7270143250",
+        "title": "Spring/Summer Casual Heavyweight Apparel",
+        "picUrl": "https://si.geilicdn.com/wdseller1833616355-0de000000192190e036e0a2303ea_2560_2560.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1778579305",
+          "name": "Jackjoo shop",
+          "logo": "https://si.geilicdn.com/wdseller1833616355-038700000191e09fceda0a8133cc_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "989586",
+        "mallType": "TB",
+        "itemId": "772511030558",
+        "title": "Thousand Trendy Summer Short-sleeved T-Shirt Men Classy silm Fashion Leck Embroidered Horse Standard Daily New arrival White Polo Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/258459081/O1CN014NoKxd2Gx9bbqaRXL_!!258459081.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58431688",
+          "name": "千潮派服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 128,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143015552553880108",
+  "language": "en"
+}

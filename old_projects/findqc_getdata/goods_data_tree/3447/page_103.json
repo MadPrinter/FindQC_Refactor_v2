@@ -1,0 +1,30 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2840",
+        "mallType": "TB",
+        "itemId": "681682836335",
+        "title": "SAINT MICHAEL retro painting graffiti washed and old holes loose padded hooded sweatshirt for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m32l82_cljn.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "255594027",
+          "name": "86号店原创潮牌",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143046371924859043",
+  "language": "en"
+}

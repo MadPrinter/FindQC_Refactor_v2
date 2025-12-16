@@ -1,0 +1,376 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2778086",
+        "mallType": "WD",
+        "itemId": "7555287180",
+        "title": "Row Niche style Trendy Kanye-Style Brushed Denim jacket American Style Casual Retro Washed and Distressed Unisex Jeans Outwear",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-1af30000019962254f040aa0229a_1080_1440.jpg",
+        "price": "¥173.80",
+        "toPrice": "$27.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1731615349",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1912557549-57ec00000196b9cbdadb0a2315ef-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2409196",
+        "mallType": "WD",
+        "itemId": "7536521723",
+        "title": "Fall and Winter Casual Fashion Hooded Sweatshirt 036",
+        "picUrl": "https://si.geilicdn.com/pcitem1693924694-07e200000198f5a02a620a23057e_1000_1000.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "908363001",
+          "name": "TOPBUY1",
+          "logo": "https://si.geilicdn.com/weidian908363001-5be1000001988a100cc10a2315ef_1156_1156.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2588453",
+        "mallType": "T1688",
+        "itemId": "844519968191",
+        "title": "DKS Wellington Jacket Classic 2232 design fixed weave high density twill fabric fall and winter men's and women's couple jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ODuaIR1rt9ou6BRNh_!!2217559365688-0-cib.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217559365688",
+          "name": "上海侗朋商贸经营部(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1680218",
+        "mallType": "T1688",
+        "itemId": "910452615742",
+        "title": "25 European and American Foreign Trade Baseball Suit Toronto Raptors Embroidered pu Leather Sleeve Stitching Cotton Jacket Jacket for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XMARAx1EAUE1DnvOT_!!2218786470311-0-cib.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB38fCygB3GLuDT8ZVWIBNeQ",
+          "name": "镇平县雅婷商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2404023",
+        "mallType": "T1688",
+        "itemId": "948530650736",
+        "title": "Cross-Border Spot Stone Island Stone Multi-Flap Pocket Pants Island Half-Zip Functional Washed Work Jacket for Men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KvADIu1zp3GfOSskS_!!2218329476762-0-cib.jpg",
+        "price": "¥177.00",
+        "toPrice": "$27.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-fGPvnIijFOPC3RfKWsm3g",
+          "name": "广州赛谷服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2222304",
+        "mallType": "WD",
+        "itemId": "7398678855",
+        "title": "Fall and Winter Fashionable Hundred Jacket 002T",
+        "picUrl": "https://si.geilicdn.com/open1657027377-1234478995-4cb8000001952aa02a160aa0834c_1200_1200.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1657027377",
+          "name": "TOPBUY2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2346562",
+        "mallType": "T1688",
+        "itemId": "895443855569",
+        "title": "Two-sided wear couples loose waterproof collar versatile 2024 spring and fall rushing jacket new jacket coat one piece of hair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RC2PhO23w9qPWtlRw_!!2214445087319-0-cib.jpg",
+        "price": "¥45.99",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214445087319",
+          "name": "广州羽昊贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2033238",
+        "mallType": "T1688",
+        "itemId": "887582618441",
+        "title": "2024 fall and winter models trend washed tight male God personality nightclub fashion cat scratch D2 denim jacket men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mcZATM1lsnr0OaUPq_!!3446594875-0-cib.jpg",
+        "price": "¥215.00",
+        "toPrice": "$33.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3446594875",
+          "name": "零陵区宁静致远潮尚服饰",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "408337",
+        "mallType": "T1688",
+        "itemId": "843196813703",
+        "title": "Corteiz set grey velour amg set -grey Euro size XS-XXL",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01JiZF4u1mriUleB6ST_!!2217003845008-0-cib.jpg",
+        "price": "¥245.00",
+        "toPrice": "$38.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217003845008",
+          "name": "厦门市星火木禾电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "226283",
+        "mallType": "WD",
+        "itemId": "7258869037",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg8fzf_8htj.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2346960",
+        "mallType": "WD",
+        "itemId": "7526476925",
+        "title": "Fall and winter fashion versatile jacket r",
+        "picUrl": "https://si.geilicdn.com/open1665611613-1234478995-514200000198ae756a2b0aa0c791_1200_1200.jpg",
+        "price": "¥208.00",
+        "toPrice": "$32.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665611613",
+          "name": "Coco Shop",
+          "logo": "https://si.geilicdn.com/weidian1954676780-2b2d000001974b9300b90a239846_990_990.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2347696",
+        "mallType": "WD",
+        "itemId": "7269517536",
+        "title": "P's hooded jacket jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkvgco2_2o3h.jpg",
+        "price": "¥390.00",
+        "toPrice": "$61.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1635271033",
+          "name": "Taoist",
+          "logo": "https://si.geilicdn.com/weidian1861411028-240d000001911ef7cfe40a23041a_1116_1116.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2347995",
+        "mallType": "TB",
+        "itemId": "896673527653",
+        "title": "Luyin Studio Undercover 06Ss t Period Multi-Element Patchwork Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2217964616975/O1CN01Aj5XHW21Obb91nCdR_!!2217964616975.jpg",
+        "price": "¥210.00",
+        "toPrice": "$33.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "269674624",
+          "name": "绿茵Studio",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1137069",
+        "mallType": "WD",
+        "itemId": "7429713752",
+        "title": "RL Lapel jacket American vintage coat lapel jacket American vintage jacket R08(QJ)",
+        "picUrl": "https://si.geilicdn.com/pcitem1806271682-420400000195a9070b370a231316_1440_1440.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "402069",
+        "mallType": "WD",
+        "itemId": "7262149269",
+        "title": "C Fashion Jacket",
+        "picUrl": "https://si.geilicdn.com/open1812523301-1234478995-70a6000001917e887a990a8115b5_1200_1200.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812523301",
+          "name": "W2C",
+          "logo": "https://si.geilicdn.com/shopedit1881677880-29d6000001913a041cdf0a20e7c7-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 41,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "397441",
+        "mallType": "T1688",
+        "itemId": "710734370738",
+        "title": "Men's cross-border T-shirt Amazon Foreign Trade Platform Knight Terror Skull 3D Printed Speedway Explosion Short Sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014Udr0p25LB3rmUG23_!!2215568417509-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215568417509",
+          "name": "上饶市亦彩服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "941772",
+        "mallType": "WD",
+        "itemId": "7297265703",
+        "title": "Fashion Versatile Set -006 Large Group",
+        "picUrl": "https://si.geilicdn.com/pcitem901900035971-22dc00000192e04679ed0a2303ee_1200_1200.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1697135169",
+          "name": "Welfare Shop",
+          "logo": "https://si.geilicdn.com/wdseller901897616982-0c1f00000192708836bb0a23111a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1305146",
+        "mallType": "T1688",
+        "itemId": "835583999262",
+        "title": "1306 lapel jacket men's fall European goods tide light luxury fashion versatile tops youth handsome collar leisure clip",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eAwhxY1KP2Rr1Ib4U_!!2217876651155-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217876651155",
+          "name": "海城市兴海区梦美服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "579276",
+        "mallType": "T1688",
+        "itemId": "854033776770",
+        "title": "OW co-branded AC American retro loose embroidered baseball suit biker racing suit jacket couple VINTAGE jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01taTgCI2C6hrdpUcMa_!!2218356428425-0-cib.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2030823",
+        "mallType": "TB",
+        "itemId": "923348204360",
+        "title": "High-definition Stone stone metal nylon zipper pockets men and women loose sunscreen jacket thin solid color jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1897225278/O1CN01WwWYpw1orNUSFSoRH_!!1897225278.jpg",
+        "price": "¥179.90",
+        "toPrice": "$28.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107525523",
+          "name": "小艾外贸",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147038851930828713",
+  "language": "en"
+}

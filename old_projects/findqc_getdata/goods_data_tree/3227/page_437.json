@@ -1,0 +1,296 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1136497",
+        "mallType": "WD",
+        "itemId": "7409353586",
+        "title": "No Returns on Orders",
+        "picUrl": "https://si.geilicdn.com/open1675159853-1234478995-7059000001955c8dd9de0a231226_800_800.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675159853",
+          "name": "Jersey Shop",
+          "logo": "https://si.geilicdn.com/wdseller1933464700-50c800000196b4335fb60a2301b4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 159,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1136437",
+        "mallType": "T1688",
+        "itemId": "830372227601",
+        "title": "vibe American tide retro geometric letters short-sleeved T-shirt men and women loose personalized abby wind tops summer",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vombrJ1r8to3silOT_!!2216588385587-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1136562",
+        "mallType": "T1688",
+        "itemId": "804649479766",
+        "title": "American washed and worn short sleeved T-shirt for men in summer 2024, loose and trendy, fashionable, Instagram fashion brand clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kFa0WO1Fv20aKq3R8_!!2217730230548-0-cib.jpg",
+        "price": "¥26.80",
+        "toPrice": "$4.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBjIwekQYajBT3tM_82Wzl6Q",
+          "name": "普宁市池尾恩臻服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1136428",
+        "mallType": "T1688",
+        "itemId": "868323363694",
+        "title": "Cartoon skull bubble printing round neck short sleeve casual American tide T-shirt men and women high street loose foreign trade wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kxXsvK1heMtmt9oop_!!2218266314302-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1123297",
+        "mallType": "TB",
+        "itemId": "905046808911",
+        "title": "Alice Hollywood Cloth Cross Duck Tongue Cap ASAP Rocky Same Style Washed Damaged Embroidered Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxqck4j_lv36.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "211433482",
+          "name": "PV的店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2404022",
+        "mallType": "WD",
+        "itemId": "7480138147",
+        "title": "**",
+        "picUrl": "https://cdn.findqc.com/item/20250919/mfqj53w6_fjuc.jpg",
+        "price": "¥47.00",
+        "toPrice": "$7.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1688018469",
+          "name": "胡奥",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1770096",
+        "mallType": "WD",
+        "itemId": "7491138535",
+        "title": "MC Double Shadow Printed T-shirt restocking in progress",
+        "picUrl": "https://cdn.findqc.com/item/20250902/mf1oyt8g_yjgz.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2461481",
+        "mallType": "T1688",
+        "itemId": "925614598080",
+        "title": "New Trbottomy Brand Round Neck Straight Short-Sleeved T-Shirt for Men and Women, Loose Round Neck Top, Bottoming Shirt, Trbottomy and Fashionable",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxqckur_qzfd.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBsrd303Fmg-StWMNtbe_J3Q",
+          "name": "余姚多鑫服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2461710",
+        "mallType": "T1688",
+        "itemId": "891882814295",
+        "title": "24Ss/Essentials Double-Line Summer Trendy Brand Wide Short-Sleeved Pure Cotton Combed Cotton Short-Sleeved",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxpx5dj_md8c.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbKgREvNtXyGbAKZnHg2OCQ",
+          "name": "宁波市佐格服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1766042",
+        "mallType": "WD",
+        "itemId": "7506733201",
+        "title": "2208 On Trek-T Men's Outdoor T-shirt Running Round Neck Speed Dry Ice Silk Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxo7evz_nbfg.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648679456",
+          "name": "萌萌出品（全店包邮 一件代发）",
+          "logo": "https://si.geilicdn.com/wdseller1420898802-23160000017a7cd73d650a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1153333",
+        "mallType": "T1688",
+        "itemId": "713153312914",
+        "title": "Fog Factory Wholesale Summer Essentials Short-Sleeved T-Shirt Series for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250609/mbp05j0m_uc24.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdTuNZII7YoB8BCLhyODk1g",
+          "name": "广州星盛品牌管理有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2426577",
+        "mallType": "WD",
+        "itemId": "7445331485",
+        "title": "H e llstar Studios T-shirts Tee",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxnrz7d_v7ew.jpg",
+        "price": "¥86.40",
+        "toPrice": "$13.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1725200113",
+          "name": "CN Fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate901899444631-680100000192b902f9940a23041a-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2461367",
+        "mallType": "WD",
+        "itemId": "7526726663",
+        "title": "1985 Angpao ON2025 Spring New Men's Half Zipper Pullover Long Sleeve T-shirt Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxns6q7_b08u.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648679456",
+          "name": "萌萌出品（全店包邮 一件代发）",
+          "logo": "https://si.geilicdn.com/wdseller1420898802-23160000017a7cd73d650a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2412397",
+        "mallType": "TB",
+        "itemId": "825194791204",
+        "title": "Xiao Chen Story Duo 260g Heavyweight Pure Cotton! Pixelated Fluffy Cat Niche Versatile Loose Design Short-Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250919/mfqh080k_dvbg.jpg",
+        "price": "¥19.23",
+        "toPrice": "$3.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "122697387",
+          "name": "小陈故事多原创工作室",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2412404",
+        "mallType": "TB",
+        "itemId": "778557587640",
+        "title": "Xiaochen Story Has More Than 260g Heavyweight Pure Cotton! Uppercase Question Mark American Retro Oversize Short-Sleeved T-Shirt Trend",
+        "picUrl": "https://cdn.findqc.com/item/20250919/mfqe05o6_gs42.jpg",
+        "price": "¥18.80",
+        "toPrice": "$2.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "122697387",
+          "name": "小陈故事多原创工作室",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2412401",
+        "mallType": "TB",
+        "itemId": "902545655058",
+        "title": "Xiao Chen Has Many Stories 3A260G Double Yarn Pure Cotton! American Retro Style Couple's Heavy Loose Short-Sleeve T-Shirt for Women and Men",
+        "picUrl": "https://cdn.findqc.com/item/20250919/mfqe0571_7gms.jpg",
+        "price": "¥14.22",
+        "toPrice": "$2.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "122697387",
+          "name": "小陈故事多原创工作室",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146304292553874448",
+  "language": "en"
+}

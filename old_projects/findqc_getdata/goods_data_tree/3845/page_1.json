@@ -1,0 +1,586 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3175356",
+        "mallType": "TB",
+        "itemId": "955155459079",
+        "title": "[Same Style as Wang Jiaer] S925 Sterling Silver Single Earring Niche Light Luxury Earrings Unisex Versatile Hip-Hop Earrings",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2218474592712/O1CN01YKWeG51Vu9CrBRdfh_!!2218474592712.jpg",
+        "price": "¥66.44",
+        "toPrice": "$10.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "512153581",
+          "name": "Svp饰品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1434308",
+        "mallType": "T1688",
+        "itemId": "671086785843",
+        "title": "Western Empress Dowager VIVIENNE WEST WOOD four-section activity armor ring men's and women's hip-hop personality fashion hand",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mh0drp11_yqd5.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOPzWRSuG4J1HpLBGW_yuSw",
+          "name": "海丰县梅陇镇新名家首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508754",
+        "mallType": "TB",
+        "itemId": "743662363817",
+        "title": "Metal earrings for women with irregular hollowed out earrings, featuring a cool and aloof style",
+        "picUrl": "https://cdn.findqc.com/item/20250620/mc4v8nw0_r7lb.jpg",
+        "price": "¥2.50",
+        "toPrice": "$0.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71687323",
+          "name": "都山饰品",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1060295",
+        "mallType": "T1688",
+        "itemId": "860397382036",
+        "title": "Saint's Home High Version New Letter YS Earrings Women's High End Sense Full Diamond Pearl Earrings Fashion Trendy Poplar Forest Earrings",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrw0b4_jnli.jpg",
+        "price": "¥9.00",
+        "toPrice": "$1.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218396472680",
+          "name": "海丰县梅陇镇金柏盛首饰厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1554478",
+        "mallType": "T1688",
+        "itemId": "754720913542",
+        "title": "S925 Silver Earrings, Ear Rings, Ear Bone Nails, Women's Ear Care, Small and Premium Sensory Rings, Circle Earrings, Ear Buckles, Ear Needles, Earrings, Women's Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mcgrnru8_hx18.jpg",
+        "price": "¥1.10",
+        "toPrice": "$0.17",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1055323",
+        "mallType": "T1688",
+        "itemId": "780818968896",
+        "title": "Senior sense of fashion simple love white mother-of-pearl pendant handmade necklace bracelet earrings diy jewelry accessories wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250327/m8r484ue_a0n2.jpg",
+        "price": "¥7.20",
+        "toPrice": "$1.13",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "819306",
+        "mallType": "T1688",
+        "itemId": "815310670016",
+        "title": "Pan family S925 white copper silver-plated silver gold earrings earrings Europe and the United States style fashion temperament to send a girlfriend",
+        "picUrl": "https://cdn.findqc.com/item/20250217/m78axakj_f59d.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "394362",
+        "mallType": "WD",
+        "itemId": "6320454176",
+        "title": "2198 Fan Ke Ya Bao Four Leaf Clover Half Flower Half Diamond 3? 2 Five Flower Bracelet White Shell/Gray Shell/Black Agate/Ruby/Malachite",
+        "picUrl": "https://cdn.findqc.com/item/20250714/md2bp7zp_ardl.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648679456",
+          "name": "萌萌出品（全店包邮 一件代发）",
+          "logo": "https://si.geilicdn.com/wdseller1420898802-23160000017a7cd73d650a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182904",
+        "mallType": "TB",
+        "itemId": "717463253890",
+        "title": "Fashionable ~ moon cake abstract square diamond hollowing Europe and the United States gold earrings female temperament light luxury unique earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr9gdu_rywy.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "61849",
+        "mallType": "TB",
+        "itemId": "622731100136",
+        "title": "[Round] lucent annual meeting sharp weapon ins selena Gomez925 silver needle crystal gem earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3miv3tz_qgrc.jpg",
+        "price": "¥51.00",
+        "toPrice": "$8.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "511617908",
+          "name": "lucentstudio定制店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "60272",
+        "mallType": "WD",
+        "itemId": "5591751606",
+        "title": "H home mini pop colorful enamel stud earrings Hermes mini H pop enamel letters stud earrings recognized my home product purchasing grade quality version ear pin detachable",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3miau85_96gp.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "857927295",
+          "name": "Misslaura高端定制店",
+          "logo": "https://si.geilicdn.com/wdseller857927295-32e1000001713e7934540a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "54428",
+        "mallType": "TB",
+        "itemId": "773277989423",
+        "title": "Un doux a sweet bag pendant lock hardware accessories",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nokc1a_8459.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "54352",
+        "mallType": "TB",
+        "itemId": "762221659574",
+        "title": "The pickaxe version of the new kaleidoscope earrings female sterling silver plated 18k rose gold earrings earrings paragraph light luxury niche high-level feeling",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3noiumt_het0.jpg",
+        "price": "¥408.00",
+        "toPrice": "$64.16",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "52489",
+        "mallType": "T1688",
+        "itemId": "744454773715",
+        "title": "French BV Full Diamond Knotted Twist Earrings Palace Retro Style Accessible Luxury Heavy Industry Earrings Versatile Copper Alloy Women's Earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nntd9t_5vbo.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLlnZ3iIjfFawjfjjqt0uLw",
+          "name": "广州简枫饰品商行",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "50889",
+        "mallType": "TB",
+        "itemId": "736110018281",
+        "title": "Sterling Silver Earrings for Women, Micro-Inlaid Five-Pointed Star Design, Short Earrings, Japanese and Korean Style, Elegant and Luxurious New Silver Jewelry",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mh1tgz_7rb4.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "527502561",
+          "name": "言若银饰品旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "50514",
+        "mallType": "TB",
+        "itemId": "602337790537",
+        "title": "Cute small fresh symmetrical cat earrings aesthetic girl temperament color balloon pearl drop oil ear clip earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgxp04_swws.jpg",
+        "price": "¥3.50",
+        "toPrice": "$0.55",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "43854",
+        "mallType": "WD",
+        "itemId": "7228313397",
+        "title": "Pengpeng Home only focuses on ZP development, high-end original design, luxury brand Xiaoxiang Shuang C Home, 23 years of early spring new design, very retro design, black and gold matched with irregular square earrings. This season's square earrings should be taken seriously for their beauty",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3me2364_h5a2.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1289611287",
+          "name": "鹏鹏的名品小窝 9年老店 大牌饰品聚集地",
+          "logo": "https://si.geilicdn.com/bj-wd-1289611287-1528815762113-628950578_1242_1242.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40230",
+        "mallType": "TB",
+        "itemId": "630981918936",
+        "title": "Hjoyu Cufflinks Cuff Studs Cufflinks French Men Cufflinks Men Master Craftsmanship Xyt001",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmoaus_p6oo.jpg",
+        "price": "¥53.50",
+        "toPrice": "$8.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "58877468",
+          "name": "西雅图小囡袖扣",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "24758",
+        "mallType": "TB",
+        "itemId": "761799076931",
+        "title": "Europe and the United States new fashion net red popular simple cute boutique personality matte gift tassel hundred with earrings female models",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ni5wc5_nlh1.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "24025",
+        "mallType": "T1688",
+        "itemId": "705385658530",
+        "title": "French retro multi-layer lines metal wind c-shaped earrings senior sense of luxury simple fashion silver needle earrings earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ni21i9_w9d8.jpg",
+        "price": "¥21.90",
+        "toPrice": "$3.44",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143585741916157703",
+  "language": "en"
+}

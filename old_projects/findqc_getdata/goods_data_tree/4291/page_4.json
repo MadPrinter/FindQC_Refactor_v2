@@ -1,0 +1,376 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2020121",
+        "mallType": "WD",
+        "itemId": "7492583186",
+        "title": "***",
+        "picUrl": "https://si.geilicdn.com/open1659999653-252808396-623d0000019675d7504c0a231226_800_800.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2735692",
+        "mallType": "WD",
+        "itemId": "7515523739",
+        "title": "Ye Jie MADE Luo Family's Self made Versatile Small LOGO Embroidered Tank Top for Men",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8vk7ic_5rjx.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2725375",
+        "mallType": "TB",
+        "itemId": "838500265258",
+        "title": "2024 autumn and winter with chest cushion and plush suspender, lamb plush warm bottom shirt, no need to wear bra, integrated inner layer",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mh06de37_db45.jpg",
+        "price": "¥25.28",
+        "toPrice": "$3.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "387175431",
+          "name": "馨丽莉旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2725394",
+        "mallType": "TB",
+        "itemId": "871376285806",
+        "title": "Sexy Unique Lace Small Camisole Intimates Women's 2025 with Chest Pad Tube Top Beautiful Back Tops Outwear Winter",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mh0avgtq_ohqe.jpg",
+        "price": "¥20.61",
+        "toPrice": "$3.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "387175431",
+          "name": "馨丽莉旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2725378",
+        "mallType": "TB",
+        "itemId": "854550511549",
+        "title": "White Lace Camisole for Women, Autumn and Winter 2024 New Style, Outerwear for Suits, Inner Layer, French-Style Top",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mh0bqcc8_6fam.jpg",
+        "price": "¥29.77",
+        "toPrice": "$4.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "387175431",
+          "name": "馨丽莉旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2745777",
+        "mallType": "T1688",
+        "itemId": "897853377418",
+        "title": "Japanese Cross Lace Back Underwear Women's Set Small Chest Converge Thickened Display Large Adjustable Breast Collection Set for Women",
+        "picUrl": "https://cdn.findqc.com/item/20251026/mh74w96e_hx39.jpg",
+        "price": "¥14.80",
+        "toPrice": "$2.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIwe5kbOo6BO-zWCKdIGHqA",
+          "name": "普宁市军埠丽美阁服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "953547",
+        "mallType": "T1688",
+        "itemId": "752255236042",
+        "title": "CE Home 2022 Summer New Product Jacquard Embroidery Letter Elastic Bottom Shirt Versatile Short Strap Top for Women",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgxgh9nm_w381.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBC4ao2eumkuurINSg62uOEQ",
+          "name": "佛山市妙玳服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2540857",
+        "mallType": "TB",
+        "itemId": "976889661029",
+        "title": "In-Stock Alo Yoga Sports Women's Tank Top Fitness Top Skin-Friendly Breathable Yoga Midriff-Baring Camisole",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgd3qt2r_fkil.jpg",
+        "price": "¥127.30",
+        "toPrice": "$20.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "369657161",
+          "name": "d[s369657161]",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2725377",
+        "mallType": "TB",
+        "itemId": "968099762320",
+        "title": "2025 New Pure Desire Style Lace Strap Tank Top for Women, Interior and Exterior, Slim Fit, Spicy Girl Short Style with Chest Cushion Bottom Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251021/mh08qfbi_6cpm.jpg",
+        "price": "¥13.15",
+        "toPrice": "$2.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "387175431",
+          "name": "馨丽莉旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1065271",
+        "mallType": "TB",
+        "itemId": "892583830975",
+        "title": "Aime Leon Dore American Fashion Brand Basic Letter Embroidered Logo Sleeveless Vest T-Shirt for Sports and Fitness ins",
+        "picUrl": "https://cdn.findqc.com/item/20251023/mh2bn3iw_6da3.jpg",
+        "price": "¥44.64",
+        "toPrice": "$7.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "231291512",
+          "name": "钱部到这里来",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1871969",
+        "mallType": "T1688",
+        "itemId": "819410298936",
+        "title": "Europe and the United States trend of new V-neck sleeveless knitted wool sweater jacquard figures men and women with the same spot cross-border European goods",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rq76gk1la1YZOqF0O_!!2218354894834-0-cib.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218354894834",
+          "name": "广州金齐行服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1871866",
+        "mallType": "T1688",
+        "itemId": "920994297500",
+        "title": "25 New CH Summer New Sweet Temperament Embroidery Spice Girls Backless Knitted Camisole Women's Tank Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pQz3La1jo6a1FoX3U_!!2219632994594-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219632994594",
+          "name": "广州澜潮服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2599606",
+        "mallType": "TB",
+        "itemId": "917126477758",
+        "title": "H2 Le Loose Casual Solid Color Embroidered Printed Round Neck Vest ",
+        "picUrl": "https://cdn.findqc.com/item/20251016/mgss9w1a_0yet.jpg",
+        "price": "¥17.90",
+        "toPrice": "$2.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70721690",
+          "name": "zipper girl",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1909376",
+        "mallType": "TB",
+        "itemId": "778471587841",
+        "title": "In Stock! Multi-color ~ Sexy Basics! SKIMS Gold Kardashian Shaping Collection Body Shaping and Waisted Jumpsuit",
+        "picUrl": "https://cdn.findqc.com/item/20251016/mgsz4yph_wtda.jpg",
+        "price": "¥162.53",
+        "toPrice": "$25.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "405878501",
+          "name": "LOTUSWANG",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2679414",
+        "mallType": "WD",
+        "itemId": "7542221074",
+        "title": "God Luxury Trend (Don't take photos if you mind after 9.16) | IUIU Black Chest Letter Logo Jacquard Knitted Tank Top",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgrav8du_frw0.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1617411897",
+          "name": "江稚的店",
+          "logo": "https://si.geilicdn.com/wdseller1855856211-64230000019552dce0040a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1469452",
+        "mallType": "T1688",
+        "itemId": "805091847735",
+        "title": "Summer Embroidered Thread Sleeveless Inner Tank Top Elastic Slim Fit Versatile Strap Factory One Piece Hair Replacement",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgr8aqib_wv6d.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBow65x7hF8n3C39zgcz-V5A",
+          "name": "深圳市宝安区矿烈服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2679404",
+        "mallType": "TB",
+        "itemId": "645355856613",
+        "title": "This summer, the spicy girls in West Kowloon are wearing new fashionable strapless and chest hugging outfits. They are wearing outerwear and outerwear",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgr09g8l_kzqe.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "252142709",
+          "name": "西九穿搭",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2679391",
+        "mallType": "WD",
+        "itemId": "7240251956",
+        "title": "ERD Melancholy Rich Second Generation Summer Limited Edition Flower Font Milk White Pure Cotton Elastic Tank Top Base Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgqvopoe_svy8.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1824980712",
+          "name": "忧郁男孩",
+          "logo": "https://si.geilicdn.com/wdseller1468816995-78480000018f2f6758920a210349_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1652313",
+        "mallType": "TB",
+        "itemId": "944792497513",
+        "title": "Good quality ~ Spice Girls design color collision hanging neck halter undershirt female summer Slim thin striped sleeveless tops",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/671943427/O1CN01W4KpVL1bBcNvr7nMd_!!671943427.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "66918971",
+          "name": "我是可可 每天上新",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2679375",
+        "mallType": "T1688",
+        "itemId": "940936352079",
+        "title": "Guess you're eating European and American women's sports fabric logo vest, ribbed cotton square logo, inner vest, underwear T-shirt, women's style",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgqg4564_hd3o.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3166196891",
+          "name": "深圳市宝安区西乡顶浩服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145461721911100698",
+  "language": "en"
+}

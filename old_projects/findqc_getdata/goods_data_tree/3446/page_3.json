@@ -1,0 +1,380 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3177410",
+        "mallType": "WD",
+        "itemId": "7201078439",
+        "title": "欧美轻奢冰糖钻手链男女夏ins潮嘻哈小众设计手串简约百搭手饰品",
+        "picUrl": "https://si.geilicdn.com/open1778275904-252808396-29550000018d3e396dac0a23028d_772_772.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1778275904",
+          "name": "peace shop",
+          "logo": "https://si.geilicdn.com/pcdecorate1415520129-459500000196969adb060a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3177299",
+        "mallType": "WD",
+        "itemId": "7338394952",
+        "title": "复古手链-ric",
+        "picUrl": "https://si.geilicdn.com/open1617346517-1234478995-430100000193b6012e780a232357_800_800.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1617346517",
+          "name": "SSLL",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2771496",
+        "mallType": "T1688",
+        "itemId": "923129748478",
+        "title": "Shijia Gradient Black Blue Swan Bracelet Women's Swarovski Elements Crystal Blue Swan Pull Shrink Bracelet",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Mz84BX1Rs4vv99zDC_!!2219791522166-0-cib.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXKq6QoWV2yBLJqpISpOj3w",
+          "name": "海丰县梅陇镇艾洛熙首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "3109291",
+        "mallType": "WD",
+        "itemId": "7489232467",
+        "title": "ViviEnne West Wood wristband",
+        "picUrl": "https://si.geilicdn.com/open1831945424-252808396-10af00000195af86e4fb0a23b4de_800_800.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834214869",
+          "name": "Accessory",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2139168",
+        "mallType": "T1688",
+        "itemId": "890731369444",
+        "title": "Vintage leather bracelet, light luxury, made of four leaf clover leather, non fading, high-end and fashionable\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NRwy2f1WUKTAv9pd2_!!2216963082791-0-cib.jpg",
+        "price": "¥5.50",
+        "toPrice": "$0.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbEHZKSUUmVyvnI8iUufHfg",
+          "name": "东莞市长安香欧饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2437923",
+        "mallType": "WD",
+        "itemId": "7526796599",
+        "title": "Z03 Fashion Bracelet",
+        "picUrl": "https://si.geilicdn.com/open1806639213-1234478995-33fd00000198b0ce10520aa043f9_1200_1200.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1806639213",
+          "name": "ImiChic",
+          "logo": "https://si.geilicdn.com/shopedit1938272804-22f400000195bc6554a40a20e2c5-unadjust_257_257.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2746397",
+        "mallType": "T1688",
+        "itemId": "863878185189",
+        "title": "Four-Leaf Clover Five-Flower Lucky Bracelet Thick Chain Version Plated with 18K Rose Gold and White Mother-Of-Pearl Large and Small Flowers",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01L2zpoR1bPM8i88Bll_!!2217534623457-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTPa_yEulsSs_IavAA3R_Yw",
+          "name": "海丰县卡丽莱批发厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1250437",
+        "mallType": "T1688",
+        "itemId": "881621030181",
+        "title": "[Same style low price] 1017 alloy transparent trendy brand personalized metal functional wind buckle bracelet ALYX official website couple's same style bracelet",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VxIa3C27ScWFzXoGm_!!3843297796-0-cib.jpg",
+        "price": "¥16.50",
+        "toPrice": "$2.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBB9BJmQDFAiUXGRGbOsAkeA",
+          "name": "跨境北美热卖频道",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3172124",
+        "mallType": "T1688",
+        "itemId": "891014324980",
+        "title": "Holy Family Yangshulin Alphabet Classic European and American Alphabet Bracelet Simple and Versatile Fashion Light Luxury Personalized Trend Temperament Gold\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zeeWdh2Bcw5EhVGr2_!!2218015698360-0-cib.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrzkP_KSzM_4TqPBYJVviiA",
+          "name": "海丰县梅陇镇熙熙家首饰行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3032849",
+        "mallType": "WD",
+        "itemId": "7583444628",
+        "title": "VCA Premium Limited Edition Piece · Exclusive Quality · Full Gift Set Packaging",
+        "picUrl": "https://si.geilicdn.com/pcitem1923191567-272d0000019a14482d700a2103bd_1278_1278.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1694781069",
+          "name": "pandaGO",
+          "logo": "https://si.geilicdn.com/pcdecorate1923191567-186300000197436212f60a2102c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1482475",
+        "mallType": "T1688",
+        "itemId": "923619668617",
+        "title": "Hot Selling New Titanium Steel Magnet Bracelet Men's Stainless Steel 18K Gold Non-Fading Adjustable Watch Chain Bracelet",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0c47zz_0p6q.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHE9yShMVktgq19bIck13Ew",
+          "name": "东莞市怡齐饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 225,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2844577",
+        "mallType": "WD",
+        "itemId": "7516322902",
+        "title": "INFiniTE HF Necklace Bodyaesthetics Niche Thorns Spine Bone Metal Punk Futuristic-INFiniTE HF",
+        "picUrl": "https://si.geilicdn.com/pcitem901965113164-313800000197c99fe4a30a8134f0_750_1000.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1643420205",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2846428",
+        "mallType": "TB",
+        "itemId": "950392547978",
+        "title": "Bracelet Sterling Silver Sparkling Eternal Knot Concentric Chain Buckle Snake Bone Chain Bracelet Gift",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2217100751383/O1CN01o43tUI1M5SpcyYqn7_!!2217100751383.png",
+        "price": "¥64.32",
+        "toPrice": "$10.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "519694409",
+          "name": "潘家首饰DIY工坊",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3169711",
+        "mallType": "T1688",
+        "itemId": "898816015477",
+        "title": "New Arrival Dijia Round Resin Bee CD Bracelet Women's High-end Light Luxury Rose Gold Pearl Bracelet D Home Jewelry",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ouNJGD1fHoB6u2z9E_!!2219476833982-0-cib.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTkjJaiiQVZ5lULn4xSb4Ig",
+          "name": "海丰县梅陇镇银鑫艺首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2920651",
+        "mallType": "T1688",
+        "itemId": "926523219170",
+        "title": "Crowe Classic Retro Distressed Dice Bracelet European and American Hip-Hop Male and Female Couple Personalized Trendyy Versatile Hand Jewelry",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ld67G62J0wEWGVQjm_!!2219798219360-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBD8VZoNQyqrOhIVySDzxVdg",
+          "name": "海丰县梅陇镇中古潮牌饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2633335",
+        "mallType": "T1688",
+        "itemId": "967454206017",
+        "title": "西太后大号orb20mm立体土星项链男女同款高版冰川蓝玻璃球毛衣链",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01y4yhQX1weZMwFC60R_!!2219386196333-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4CLNOLMKyRnUjBkCZwq7Iw",
+          "name": "海丰县梅陇镇鑫奢首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2998346",
+        "mallType": "T1688",
+        "itemId": "943876824928",
+        "title": "European and American Hip-Hop Niche Oil-Dropping Cross Bracelet Men's Fashion Personality Simple Bracelet Cross-Border Men's Hot-Selling Hand Jewelry",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aqSGrY1euuOglqMfx_!!2219362523932-0-cib.jpg",
+        "price": "¥1.50",
+        "toPrice": "$0.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVpm1jPQZo7dGsTYfeyF6Ag",
+          "name": "义乌市施语饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "305509",
+        "mallType": "T1688",
+        "itemId": "712163761289",
+        "title": "Cyber Celebrous Sydney Snake Quan Zhilong Same Cross Bracelet for Men and Women Trendy Crow Fashion Couple Bracelet",
+        "picUrl": "https://cdn.findqc.com/item/20241205/m4awopqe_5hw0.jpg",
+        "price": "¥4.50",
+        "toPrice": "$0.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB28m0i8thh0ikfoGf0dMYfQ",
+          "name": "义乌市股今电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 241,
+        "qcVideoCnt": 14,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "2182310",
+        "mallType": "TB",
+        "itemId": "959944769442",
+        "title": "New Titanium Steel Magnetic Bracelet for Men, Stainless Steel 18K Gold, Non-Fading, Adjustable Watch Chain Bracelet",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2214091835374/O1CN01VfVMq91pZLXHQ9N7D_!!2214091835374.jpg",
+        "price": "¥8.13",
+        "toPrice": "$1.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "531162473",
+          "name": "依心满意",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2096118",
+        "mallType": "T1688",
+        "itemId": "933021207458",
+        "title": "Vintage Chunky Letter Bracelet Dice Scout Flower Cross Flower Ball Full Flower Gold Bracelet Unisex",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IyDsNJ1V83bYBQJ60_!!2219873752607-0-cib.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKAkLlabmYAqKwvkzPYhWlQ",
+          "name": "海丰县梅陇镇枫利首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 4
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141408942553881761",
+  "language": "en"
+}

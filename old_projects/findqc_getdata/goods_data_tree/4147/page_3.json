@@ -1,0 +1,75 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "47330",
+        "mallType": "TB",
+        "itemId": "535884410531",
+        "title": "Anjia Crochet Flower Crochet Handmade Women's Bag Shoulder Bag Handbag Ladies Large Bag Vintage Fashion Style Bag",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mfqb3r_snbt.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104312941",
+          "name": "安家手工艺术",
+          "type": "TB"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34379",
+        "mallType": "T1688",
+        "itemId": "567757352133",
+        "title": "Crossing the border new handmade knitting blanket yarn infused core yarn knit your own diy thick Icelandic yarn bag bag blanket cloth stripes line",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkbk8h_g101.jpg",
+        "price": "¥4.00",
+        "toPrice": "$0.63",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "19462",
+        "mallType": "TB",
+        "itemId": "749435324123",
+        "title": "Mengjia winter warm wool cap fox fur ball cap Korean version of hundred ears thickened knitted cold cap",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfdlzd_1eiv.jpg",
+        "price": "¥46.55",
+        "toPrice": "$7.32",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7021",
+        "mallType": "WD",
+        "itemId": "6102807443",
+        "title": "TN108FJTYR",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9mn9q_e8rx.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1872837086",
+          "name": "Makebetter",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114523207249899155",
+  "language": "en"
+}

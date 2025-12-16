@@ -1,0 +1,635 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3207030",
+        "mallType": "T1688",
+        "itemId": "912343602518",
+        "title": "跨境货源RL拉夫彩色小马刺绣网眼棉翻领短袖Polo衫短袖珠地棉透气",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01R11AHu24JW3QZSFci_!!2217659207370-0-cib.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217659207370",
+          "name": "上海璇灵服装厂(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206839",
+        "mallType": "WD",
+        "itemId": "7380174983",
+        "title": "【9/10】男装25春夏新款时尚金色logo翻领短袖POLO衫PH5305",
+        "picUrl": "https://si.geilicdn.com/weidian1487675303-759b00000194850fc0ac0a811411_1496_1496.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646496609",
+          "name": "Fr fish①",
+          "logo": "https://si.geilicdn.com/weidian1487868650-5664000001921049e8990a21146b_756_756.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "57",
+        "mallType": "TB",
+        "itemId": "710444688840",
+        "title": "New Men's Clothing European and American Classic Versatile Basic Style Summer Men's Pure Cotton Short-Sleeved Business Casual Lapel Short-Sleeved Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m1z3xt_dkjn.jpg",
+        "price": "¥87.29",
+        "toPrice": "$13.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "115207252",
+          "name": "云端shop",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 589,
+        "qcVideoCnt": 49,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "1681281",
+        "mallType": "T1688",
+        "itemId": "819979036688",
+        "title": "Same RL Ruff Pony Embroidered Lap Short-sleeved Polo Shirt Men's Loose Cross-border Top T-shirt Business Casual",
+        "picUrl": "https://cdn.findqc.com/item/20250726/mdj945nx_yqyr.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBj2mPxfVq7HKZd2Pt9fowKg",
+          "name": "佛山市南海区兴维轩商贸部",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "3099284",
+        "mallType": "WD",
+        "itemId": "7549768242",
+        "title": "【DX19】经典条纹刺绣百搭",
+        "picUrl": "https://si.geilicdn.com/open1615844877-252808396-3fa7000001977395aa130aa043be_1920_1920.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794541533",
+          "name": "1:1A&amp;V",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1927303",
+        "mallType": "T1688",
+        "itemId": "938846631543",
+        "title": "SS cross-border summer new RL Ralph Dumas embroidery casual versatile cotton men and women with the same polo short-sleeved t",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ccJBIe1S8ZCW6hgZs_!!2219755002202-0-cib.jpg",
+        "price": "¥69.99",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219755002202",
+          "name": "广州张耐耐服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2204454",
+        "mallType": "WD",
+        "itemId": "7492195134",
+        "title": "Mon-T-shirt",
+        "picUrl": "https://si.geilicdn.com/open1848972357-1234478995-18220000019741f540e90a23b491_1080_1080.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848972357",
+          "name": "Adam",
+          "logo": "https://si.geilicdn.com/shopedit1874119249-0bc5000001909e05d0d80a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1199039",
+        "mallType": "T1688",
+        "itemId": "889224904833",
+        "title": "2025SJ spring and summer polo shirt casual striped lapel business versatile men and women with the same embroidery breathable short-sleeved",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01MZVaDd1uPKulUasab_!!2219364606029-0-cib.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3202590",
+        "mallType": "WD",
+        "itemId": "7399043138",
+        "title": "Pony short-sleeved POLO shirt\n",
+        "picUrl": "https://si.geilicdn.com/pcitem1205735575-31210000019523393e520a230115_1200_1200.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1205735575",
+          "name": "ALi Clothing",
+          "logo": "https://si.geilicdn.com/shopedit1205735575-2a240000018f6260bcb30a23041a-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3201939",
+        "mallType": "WD",
+        "itemId": "7282402587",
+        "title": "R.L Popular T-shirt high quality",
+        "picUrl": "https://si.geilicdn.com/pcitem1769897421-4c2200000193e12367230a210349-unadjust_1200_1200.png",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787125025",
+          "name": "Apple果果",
+          "logo": "https://si.geilicdn.com/pccreshp1769897333-473700000188aaa5ccfd0a23034c_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3051245",
+        "mallType": "T1688",
+        "itemId": "953427756006",
+        "title": "Summer Wheat Shirt Casual Short-Sleeved Men's Shirt Free Shipping Heavy Embroidered Lapel New Trend",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kWAH591veHUfAqA2I_!!2220274286197-0-cib.jpg",
+        "price": "¥67.49",
+        "toPrice": "$10.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6J9epRklhl1k49c5po9AGg",
+          "name": "深圳市纽融科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2376950",
+        "mallType": "T1688",
+        "itemId": "842084865944",
+        "title": "Lapel short-sleeved men's summer fashion simple t-shirt high-grade spot embroidery cotton breathable sweat casual foreign trade",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016OIjXV1NwQAVYnqGv_!!2332851634-0-cib.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2332851634",
+          "name": "深圳市龙岗区阿曼莉服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2601003",
+        "mallType": "WD",
+        "itemId": "7520793089",
+        "title": "R New Cardigan Zipper Sweater-1016",
+        "picUrl": "https://si.geilicdn.com/open1799248707-1234478995-454e000001987f57b3a60a22d249_2000_2000.jpg",
+        "price": "¥205.00",
+        "toPrice": "$32.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1799248707",
+          "name": "dadarep",
+          "logo": "https://si.geilicdn.com/weidian1978915425-4f3400000198711a45760a2396f4_2312_1736.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1973902",
+        "mallType": "TB",
+        "itemId": "901189644843",
+        "title": "Paul 100% cotton POLO shirt short-sleeved casual men's 2025 new solid color pony label embroidery lapel T-shirt men",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3166209090/O1CN0142uJxo2H1HHvCNIJY_!!3166209090.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "426386361",
+          "name": "保罗品牌折扣男装店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2434847",
+        "mallType": "T1688",
+        "itemId": "888808848753",
+        "title": "Hot models summer pony polo shirt men's short-sleeved T-shirt lapel pony label embroidery cross-border casual simple clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wKW3U91NUU2uQ92M8_!!2218643231573-0-cib.jpg",
+        "price": "¥33.99",
+        "toPrice": "$5.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218643231573",
+          "name": "铅山县橙穗电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1861107",
+        "mallType": "T1688",
+        "itemId": "951766488506",
+        "title": "Embroidered City Series Lapel Summer Loose Short Sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdw0jtsb_elfm.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWSYb0-6dsbOzyKAmm3rLCw",
+          "name": "陕西继林服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 183,
+        "qcVideoCnt": 12,
+        "picWidth": "799",
+        "picHeight": "1066"
+      },
+      {
+        "id": "3034877",
+        "mallType": "WD",
+        "itemId": "7436285077",
+        "title": "Devil Summer Classic Short Sleeves\n",
+        "picUrl": "https://si.geilicdn.com/open1863212117-252808396-546000000195eb30e6260aa0834c_496_498.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863212117",
+          "name": "ANSWERBUY",
+          "logo": "https://si.geilicdn.com/wdseller1899299882-508c00000192b82be91d0a210349_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1578501",
+        "mallType": "TB",
+        "itemId": "943580136649",
+        "title": "Summer Men's Sports Polo Shirt Embroidered Lapel Golf Casual t Short-Sleeved Top Chicago New York Black",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgng70s0_4jpd.jpg",
+        "price": "¥87.31",
+        "toPrice": "$13.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "73255618",
+          "name": "Ke运动服饰",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "1236388",
+        "mallType": "WD",
+        "itemId": "7442614015",
+        "title": "[DX19] Summer Men's Lapel Big Size Loose Solid Color Cotton Embroidery Short Sleeve T-Shirt",
+        "picUrl": "https://si.geilicdn.com/open1652813497-252808396-17db000001940ca820530a239383_1920_1920.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1667032845",
+          "name": "超级牛",
+          "logo": "https://si.geilicdn.com/pcdecorate901935424514-4cfb00000195e79975270a81347d-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3037470",
+        "mallType": "TB",
+        "itemId": "792447867843",
+        "title": "[Foreign Trade Surplus Goods] Original Surplus Stock from Foreign Trade, Brand Men's and Women's Clothing, Unisex Military Green Collared T-Shirt Polo Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/155950158/O1CN01cLk27q1D2PX5PPBUz_!!155950158.jpg",
+        "price": "¥60.01",
+        "toPrice": "$9.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36883561",
+          "name": "贸牌货",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141553422553920239",
+  "language": "en"
+}

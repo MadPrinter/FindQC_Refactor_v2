@@ -1,0 +1,265 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "36515",
+        "mallType": "TB",
+        "itemId": "791761276488",
+        "title": "Wave Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkx5qz_f9qz.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36141",
+        "mallType": "TB",
+        "itemId": "741441317960",
+        "title": "MRCYC Lazy Round Neck Woolen Knitted Sweater for Men's Autumn and Winter, Korean Trendy Loose Soft and Sticky Plush Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nktiwr_wi0z.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34598363",
+          "name": "MRCYC 韩系男装",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35677",
+        "mallType": "T1688",
+        "itemId": "747694518369",
+        "title": "Specialized 4200+90 Wool 10 Cashmere Heavy Industry Bear Embroidery Age Reduction Academy Old Money Wind Round Neck Long Sleeve Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nklt6s_dqi1.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpCHXhZxRZ-pZq01ojJzoYg",
+          "name": "东莞市大朗小林源头服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 205,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35132",
+        "mallType": "T1688",
+        "itemId": "692992280023",
+        "title": "Martine Rose Chunky Needle Rolled Hem Loose OS Pool Print Pullover Long Sleeve Drop Shoulder Slouchy Sweater Knit",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkk3it_xxru.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35057",
+        "mallType": "TB",
+        "itemId": "629861040610",
+        "title": "Jk Designer Brand Autumn and Winter 100% Consinee Cashmere Long-Sleeved Cardigan for Women with New Colors",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nki346_iaim.jpg",
+        "price": "¥1,011.29",
+        "toPrice": "$159.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36863456",
+          "name": "小野莉张外贸",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34215",
+        "mallType": "TB",
+        "itemId": "731915092753",
+        "title": "23A621.Spain MD Cut Label~Wool Cashmere Blend Half Collar Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk8qij_01uq.jpg",
+        "price": "¥69.99",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "33935",
+        "mallType": "TB",
+        "itemId": "740647595182",
+        "title": "Sleeveless knitted vest female round neck head jacquard foreign styles stacked design sense loose jacket shoulders spring and fall new!",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk76xu_kj5g.jpg",
+        "price": "¥32.90",
+        "toPrice": "$5.17",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "33030",
+        "mallType": "TB",
+        "itemId": "687058998891",
+        "title": "Korean ins Autumn and Winter Lazy Style Thickened V-Neck Short Pullover Sweater for Women Long-Sleeved Versatile Solid Color Knit Top",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njwydd_zvfz.jpg",
+        "price": "¥51.65",
+        "toPrice": "$8.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72034471",
+          "name": "米奇格格女装",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "31928",
+        "mallType": "TB",
+        "itemId": "742847792150",
+        "title": "CRICLE CAGE Loop Hole Short Wide \"Ice Cream\" Crew Neck Chunky Knit Fall/Winter Long Sleeve Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njpwsk_8yox.jpg",
+        "price": "¥296.00",
+        "toPrice": "$46.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "561321353",
+          "name": "CRICLE CAGE(环洞)",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "31318",
+        "mallType": "TB",
+        "itemId": "713700809582",
+        "title": "Cross-Border Autumn and Winter New Street Style Sweater Printed Sweater 2022 Personalized Casual Round Neck Sweatshirt for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njgyhw_xkwg.jpg",
+        "price": "¥78.55",
+        "toPrice": "$12.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "487685508",
+          "name": "漫萌工坊",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "31283",
+        "mallType": "TB",
+        "itemId": "773700149612",
+        "title": "French single your brand pure yuan G net not yet out 30% cashmere 70% wool gray straight sweater knit sweater embroidery new",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njf90v_vm3s.jpg",
+        "price": "¥388.00",
+        "toPrice": "$61.01",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29962",
+        "mallType": "TB",
+        "itemId": "665455550881",
+        "title": "Gentle and Lazy Style Loose Pink Knitwear for Women Winter New Style Oversize Fashionable Pullover Knitwear",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj8hwy_1xvi.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "293565811",
+          "name": "MRH梦茹画",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29905",
+        "mallType": "TB",
+        "itemId": "627696733129",
+        "title": "Kapital Hirata Kazuhiro Vintage Pure Cotton Color-Blocked Portrait Long-Sleeve Couple Knit Pullover Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj7o0o_w53p.jpg",
+        "price": "¥524.14",
+        "toPrice": "$82.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105857296",
+          "name": "壹加古着",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29880",
+        "mallType": "T1688",
+        "itemId": "739886023693",
+        "title": "2025 Autumn and Winter New Cotton Heavy Industry Cartoon Bear Round Neck College Age Reduction Easiest for Match Sweater Same Style for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj7qft_aiti.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpCHXhZxRZ-pZq01ojJzoYg",
+          "name": "东莞市大朗小林源头服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 523,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29837",
+        "mallType": "TB",
+        "itemId": "732111523357",
+        "title": "Su Su Women's PIMA Cotton Washed Slightly Elastic Rolled Hem Small Straight Casual Pants X160",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj7hch_pn4f.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "categoryId": 11,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "27179",
+        "mallType": "TB",
+        "itemId": "760326174890",
+        "title": "M11 100% Wool Logo on hemline",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nik5s2_8ddw.jpg",
+        "price": "¥349.00",
+        "toPrice": "$54.88",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142428601917912888",
+  "language": "en"
+}

@@ -1,0 +1,362 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1658837",
+        "mallType": "WD",
+        "itemId": "7498425701",
+        "title": "CP Jersey-pencil-effect-graphics",
+        "picUrl": "https://cdn.findqc.com/item/20250715/md3u137b_2nwm.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1329468934",
+          "name": "DreamRemake2",
+          "logo": "https://si.geilicdn.com/shopedit1329468934-062100000197bafb32870a20e7c7-unadjust_89_89.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3167218",
+        "mallType": "T1688",
+        "itemId": "898941797532",
+        "title": "高版本1V家高品质25新款字母印花短袖T恤男女同款休闲百搭上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nZ4Gpt1qrxCohYunr_!!2216888315550-0-cib.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216888315550",
+          "name": "佛山市南海区金恒滔服装商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "743333",
+        "mallType": "T1688",
+        "itemId": "669625424054",
+        "title": "In stock Amazon pop-up cotton love heart embroidery couple model t-shirt summer short sleeve round neck tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yvnpt41JMuzVmUJFI_!!2998231015-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3167122",
+        "mallType": "T1688",
+        "itemId": "893749654386",
+        "title": "Palm棕榈天使 Angels爱心溶解心涂鸦字母男女t恤宽松圆领短袖夏季",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DLr6gh2BCpZMYpoxu_!!2219011778303-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219011778303",
+          "name": "广州市潮物贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1891994",
+        "mallType": "T1688",
+        "itemId": "917883319882",
+        "title": "棕榈天使 爱心溶解心涂鸦字母男女T恤宽松圆领短袖夏季（无领标）",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VqtCSi20cW1Z5bJMn_!!2219641786870-0-cib.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219641786870",
+          "name": "上饶市安轩服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2271148",
+        "mallType": "T1688",
+        "itemId": "927091895199",
+        "title": "High version of the D short-sleeved letters printed do old worn loose versatile casual pullover men's and women's models T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019ixjJt1hYsBEWAtrD_!!2219820964290-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219820964290",
+          "name": "广州启岩网络科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1294309",
+        "mallType": "T1688",
+        "itemId": "907581979085",
+        "title": "Palm Palm Angels Angels love dissolving heart graffiti letters men and women t-shirt loose round neck short sleeve summer",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000000649/O1CN01aLC3hH1GfI00E068U_!!6000000000649-0-tbvideo.jpg",
+        "price": "¥30.40",
+        "toPrice": "$4.78",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3037348",
+        "mallType": "WD",
+        "itemId": "7583346344",
+        "title": "跨境爆款克罗伈Chrome Heart高品质双纱纯棉圆领男女印花长袖T恤",
+        "picUrl": "https://si.geilicdn.com/open1622517075-1622517075-1fa90000019a11224d770aa081c2_800_800.jpg",
+        "price": "¥83.00",
+        "toPrice": "$13.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622517075",
+          "name": "Janekrep",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-6d8b00000199f23ea2530a20e7c7-unadjust_1024_1024.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 215,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3166875",
+        "mallType": "WD",
+        "itemId": "7453729449",
+        "title": "时尚短袖-xyw",
+        "picUrl": "https://si.geilicdn.com/pcitem901934017056-3e1e00000195c149aa340a21146b_3198_3198.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1770735261",
+          "name": "一个小目标",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 154,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3166884",
+        "mallType": "WD",
+        "itemId": "7564120309",
+        "title": "TBNCRMCP-高性价比时尚新款短袖-67-Rare",
+        "picUrl": "https://si.geilicdn.com/open1702596949-1234478995-274e00000197ed7329ea0a231226_1000_1000.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1727550549",
+          "name": "WuKongFANS（8000+item）",
+          "logo": "https://si.geilicdn.com/shopedit1978030695-2dd8000001991951b2af0a231177-unadjust_729_729.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3166423",
+        "mallType": "T1688",
+        "itemId": "921551321541",
+        "title": "夏季新款保罗小熊标印花男款短袖男士纯棉T恤衫圆领打底衫",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018BzHh12K6GS3nXw06_!!2219060239507-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219060239507",
+          "name": "平阳县盈真服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3166409",
+        "mallType": "T1688",
+        "itemId": "830223529761",
+        "title": "in stock New Summer New Men's and Women's Fashionable Refreshing Casual Personality Printed Trendy Round Neck Short Sleeve Top T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01h7lfKL21GMPtR69sC_!!2218444206957-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRaVfvb7qKTeTLD03Ef8j7A",
+          "name": "广州西潮服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3166408",
+        "mallType": "T1688",
+        "itemId": "946569749702",
+        "title": "夏季大马城市款休闲POLO衫短袖跨境爆款男士翻领刺绣纯棉上衣T恤",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oXN1lm2KLNXKcHwul_!!2219973109540-0-cib.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219973109540",
+          "name": "广州油咪服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2477329",
+        "mallType": "WD",
+        "itemId": "7317866709",
+        "title": "Devil T-Shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1231267992-341600000193a55fc9030a23038e_600_600.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1231267992",
+          "name": "ASEN",
+          "logo": "https://si.geilicdn.com/wdseller1231267992-76a000000191a894efbe0a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 178,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2066429",
+        "mallType": "T1688",
+        "itemId": "917286849269",
+        "title": "Sports Athletics Running Basketball Fitness Quick Drying Top Men's Mixed Color Peplum Night Running Moisture Transferring Sweat Training Short Sleeve Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01x5zs7I1Sdi7XOs7qU_!!2217899822270-0-cib.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217899822270",
+          "name": "广州安耐运动服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1210286",
+        "mallType": "TB",
+        "itemId": "777569213514",
+        "title": "Quality Compassion! 500g heavyweight pure cotton round neck short sleeved T-shirt, summer loose solid color versatile men's and women's top",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2256081673/O1CN01kgex8W1OEHYaTSrZn_!!2256081673.jpg",
+        "price": "¥67.69",
+        "toPrice": "$10.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113818603",
+          "name": "岂曰无衣 Studio",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1565259",
+        "mallType": "T1688",
+        "itemId": "915899156865",
+        "title": "Short Sleeve 422",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ow31ac1QexyTyGT5B_!!2209882462002-0-cib.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3164301",
+        "mallType": "T1688",
+        "itemId": "981971124879",
+        "title": "秋海外爆款NK男士卫裤 跨境钩子印花拼接针织锥形束腿休闲运动裤",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kOCF651kplflaHUgG_!!2220598704733-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBi6JHUISyg-1zKo-JHRiIqw",
+          "name": "义乌市璨缘服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2786882",
+        "mallType": "T1688",
+        "itemId": "951882612597",
+        "title": "New sports bodysuit basketball running fitness height elastic short sleeved quick drying breathable track and field running compression T-shirt\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Jwm8bX2FMgakHHdAa_!!2219766098866-0-cib.jpg",
+        "price": "¥25.99",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWabuW_TtK1lLOj3YuE1U2A",
+          "name": "郑州市管城回族区庆研百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2708352",
+        "mallType": "T1688",
+        "itemId": "919897749117",
+        "title": "Vlone Fog Big V Short-Sleeved Chinese Dragon Limited Fujiwara Hiroshi Wang Yibo Same Style Trendy Brand Men's Loose T-Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YFxZO71PeDiQxVddt_!!2217212051865-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDwHbaC0-KW8CT-NYqbWaMg",
+          "name": "铅山县苏禾服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141038911913296473",
+  "language": "en"
+}

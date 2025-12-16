@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1590319",
+        "mallType": "WD",
+        "itemId": "7345243756",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/wdseller1424843450-3ce80000018e2114c02c0a20e284_800_800.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1815387845",
+          "name": "晓风",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1590295",
+        "mallType": "WD",
+        "itemId": "7265137262",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/wdseller1424843450-3e3d0000018be2a0c2eb0a22d1c8_1290_1290.jpg",
+        "price": "¥134.60",
+        "toPrice": "$21.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1662150305",
+          "name": "ice-cream",
+          "logo": "https://si.geilicdn.com/wdseller482156889-617f00000188dac6dd980a23132e_132_132.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1590273",
+        "mallType": "WD",
+        "itemId": "7302493734",
+        "title": "****",
+        "picUrl": "https://si.geilicdn.com/open1779836585-252808396-6c1900000192c5a0a5e10a210298_1074_1074.jpg",
+        "price": "¥650.00",
+        "toPrice": "$102.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1435942",
+        "mallType": "T1688",
+        "itemId": "848874099392",
+        "title": "maya breadwear monja maya down jacket men's and women's maya same down jacket monkou",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ysqx7s1KqycXzWcvw_!!2216326971216-0-cib.jpg",
+        "price": "¥370.00",
+        "toPrice": "$58.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216326971216",
+          "name": "海口龙华曼凌丝服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1435406",
+        "mallType": "T1688",
+        "itemId": "842826391029",
+        "title": "2025 Winter New Men's down Jacket Stand Collar Hooded Fluffy Casual Easiest for Match Warm Jacket Men's down Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cfFTBg1EA1ms275M2_!!2218403760310-0-cib.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB37UHPg-plPes5ZMJLHdFFQ",
+          "name": "哈尔滨市南岗区雕刻时光潮牌男装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1199115",
+        "mallType": "TB",
+        "itemId": "850369325014",
+        "title": "Trapstar New Autumn and Winter Glossy Pu Leather Jacket Thickened down Cotton Coat Hooded Jacket Unisex Cotton Coat High Street Fashion",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1034922469/O1CN01UfmHl41U6qtQYTMPt_!!1034922469.jpg",
+        "price": "¥247.01",
+        "toPrice": "$38.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103318446",
+          "name": "FFCP Studios",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1077766",
+        "mallType": "T1688",
+        "itemId": "848347625775",
+        "title": "The top version of the M family Maya down jacket glossy men and women couples duck down cross-border foreign trade casual versatile jacket tide 1",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000001699/O1CN01r2oor11OQBv6h6fPE_!!6000000001699-0-tbvideo.jpg",
+        "price": "¥329.00",
+        "toPrice": "$51.73",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "908276",
+        "mallType": "WD",
+        "itemId": "7385755605",
+        "title": "beta down Jacket",
+        "picUrl": "https://si.geilicdn.com/open1653727541-1234478995-5f8200000194d4efae030a239383_459_475.jpg",
+        "price": "¥600.00",
+        "toPrice": "$94.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1653727541",
+          "name": "DreamRemake1",
+          "logo": "https://si.geilicdn.com/shopedit1906842454-6ac900000194e99e5ddb0a20e273-unadjust_300_300.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "354274",
+        "mallType": "T1688",
+        "itemId": "846146434615",
+        "title": "Cross-border Corteiz Alcatraz Island Men's Thickened Trendy Brand Hooded Loose Couple's Warm Cotton-padded Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241220/m4wn4cus_0z1i.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWWAty0D9b596xbKRMh7XNA",
+          "name": "镇平县茂先商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 134,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "352305",
+        "mallType": "WD",
+        "itemId": "7321420429",
+        "title": "High quality big name down jacket collection PH",
+        "picUrl": "https://cdn.findqc.com/item/20241219/m4v3ub0x_w87x.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758991445",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "350249",
+        "mallType": "WD",
+        "itemId": "7294684792",
+        "title": "Classic down jacket with down filling and water-resistant jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241222/m4yjye3y_s8g9.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "227764523",
+          "name": "electronic store",
+          "logo": "https://si.geilicdn.com/shopedit227764523-0122000001921dc7c7410a239646-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2074874",
+        "mallType": "T1688",
+        "itemId": "830165591403",
+        "title": "Cross-border Crofton27 down jacket with the same cold-proof jacket down jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CpNQqq1I8QqmhCG7h_!!2218423490848-0-cib.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218423490848",
+          "name": "莆田市秀屿区瑞达兴服饰店（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 122,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1906271",
+        "mallType": "TB",
+        "itemId": "633894093886",
+        "title": "Short Canadian down Jacket 2024 Outdoor Winter New Thickened Warm Pilot Waterproof Loose Fit for Men and Women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/328387458/O1CN01R3Celt24xoV2Vo7yn_!!328387458.jpg",
+        "price": "¥401.62",
+        "toPrice": "$63.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "59889976",
+          "name": "小羔羊咩咩咩",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1431545",
+        "mallType": "T1688",
+        "itemId": "915285810574",
+        "title": "Wholesale cross-border new men's cotton clothing with red label Amazon cotton clothing men's solid color simple men's hooded",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dYKMzx1z3sPjbkGJF_!!2216933856659-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBB9BJmQDFAiUXGRGbOsAkeA",
+          "name": "跨境北美热卖频道",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "488308",
+        "mallType": "WD",
+        "itemId": "7317618205",
+        "title": "The 11 most cost-effective down and cotton jackets with no quality issues, no returns, no exchanges, no worries, no photos",
+        "picUrl": "https://si.geilicdn.com/pcitem1899933383-013300000193f77c9a530a23037f_800_800.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1748174421",
+          "name": "Boutique｜LJR 陆续发货",
+          "logo": "https://si.geilicdn.com/shopedit1899933383-2462000001935fae72c30a2396f4-unadjust_347_347.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "349984",
+        "mallType": "WD",
+        "itemId": "7283272750",
+        "title": "Warm Detachable Sleeve Jacket Coat Down Ins",
+        "picUrl": "https://cdn.findqc.com/item/20241220/m4vxgw1s_laqw.jpg",
+        "price": "¥386.00",
+        "toPrice": "$60.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1748694677",
+          "name": "High quality",
+          "logo": "https://si.geilicdn.com/shopedit1896876854-78a10000019abf30b00b0a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "349979",
+        "mallType": "WD",
+        "itemId": "7272910908",
+        "title": "Down Jackets",
+        "picUrl": "https://cdn.findqc.com/item/20241220/m4vvr7yv_pwbp.jpg",
+        "price": "¥698.00",
+        "toPrice": "$109.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "212531682",
+          "name": "EV潮牌店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "349904",
+        "mallType": "WD",
+        "itemId": "7302025927",
+        "title": "Canada Jackets",
+        "picUrl": "https://cdn.findqc.com/item/20241219/m4vfux3q_nsuo.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1635309029",
+          "name": "musk factory shop",
+          "logo": "https://si.geilicdn.com/shopedit1891205553-5fe4000001922bff69280a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "305444",
+        "mallType": "WD",
+        "itemId": "7238268029",
+        "title": "(Special) Down feather Mon*c1er Support NFC sensing",
+        "picUrl": "https://cdn.findqc.com/item/20241205/m4a74ydp_m1cm.jpg",
+        "price": "¥498.00",
+        "toPrice": "$78.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858297913",
+          "name": "CZH顶级潮品",
+          "logo": "https://si.geilicdn.com/shopedit1852028364-378e0000018ee78d60630a2396f4-unadjust_600_597.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "305382",
+        "mallType": "T1688",
+        "itemId": "757050354501",
+        "title": "Cross border foreign trade Trapstar cotton jacket with retro stand up collar, blue letter small label embroidery, loose couple jacket jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241204/m49ecpna_h736.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8V0ooCjmzuo2zdxuLalu2g",
+          "name": "海丰县城东潮参服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114404434137310220",
+  "language": "en"
+}

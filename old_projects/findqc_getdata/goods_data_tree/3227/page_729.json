@@ -1,0 +1,286 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "182764",
+        "mallType": "TB",
+        "itemId": "711962344191",
+        "title": "BOYUE Paleo American tide striped splicing short-sleeved youth loose hip-hop street handsome five-quarter sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr6tbn_x53y.jpg",
+        "price": "¥38.90",
+        "toPrice": "$6.12",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182752",
+        "mallType": "TB",
+        "itemId": "817944816211",
+        "title": "NewJeans same VINTAGE striped embroidered quick-drying mesh jersey retro loose couple long-sleeved sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr6yxn_vf8p.jpg",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182724",
+        "mallType": "WD",
+        "itemId": "7249904305",
+        "title": "Fashion Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr6ftu_81gl.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801729521",
+          "name": "PK king",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182710",
+        "mallType": "TB",
+        "itemId": "777779974795",
+        "title": "Fear of God Collaboration Three-Stripe Velvet High-Street Pure Cotton Loose-Fitting Unisex Couple Short-Sleeve T-Shirt Fog Trend",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr6awd_ee97.jpg",
+        "price": "¥46.02",
+        "toPrice": "$7.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "145512645",
+          "name": "陈大赚 Studio",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182706",
+        "mallType": "TB",
+        "itemId": "827070317574",
+        "title": "24-25 Ac Home Fan Edition Jersey Milano Football Uniform",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr6c34_wjnl.jpg",
+        "price": "¥38.34",
+        "toPrice": "$6.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "379790794",
+          "name": "广州运动体育",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182705",
+        "mallType": "TB",
+        "itemId": "827025769219",
+        "title": "24-25 Ba Sa Erke Jersey Football Uniform",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr6amq_45tx.jpg",
+        "price": "¥38.66",
+        "toPrice": "$6.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "379790794",
+          "name": "广州运动体育",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182703",
+        "mallType": "TB",
+        "itemId": "704926545729",
+        "title": "23-24 niu ka si er 130th anniversary jersey Newcastle United Football Jersey",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr65q5_0qyt.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182702",
+        "mallType": "TB",
+        "itemId": "779528894342",
+        "title": "24-25 AC Black Special Edition Jersey AC Milan Football Jersey",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr64xb_i8cd.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182700",
+        "mallType": "TB",
+        "itemId": "828718216546",
+        "title": "24-25 a sen na second guest jersey Arsenal soccer jersey",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr66cx_6xs1.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182699",
+        "mallType": "TB",
+        "itemId": "830020456177",
+        "title": "24-25 Niu Ka Si Er Lian Home Jersey Newcastle United Football Uniform",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr66ch_sxie.jpg",
+        "price": "¥39.72",
+        "toPrice": "$6.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "379790794",
+          "name": "广州运动体育",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182675",
+        "mallType": "WD",
+        "itemId": "7258194590",
+        "title": "Fashion Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5u06_xhac.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801729521",
+          "name": "PK king",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182655",
+        "mallType": "WD",
+        "itemId": "7265622394",
+        "title": "GVC 25SS new 4G letters embroidered logo bright line round neck short-sleeved T-shirt men and women alike",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5jv9_etra.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1688936825",
+          "name": "FIRE-STUDIO",
+          "logo": "https://si.geilicdn.com/wdseller1861306345-00230000018fbd82541c0a2304aa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182653",
+        "mallType": "TB",
+        "itemId": "670503319327",
+        "title": "Men's/women's cool T Loose round neck T-shirt summer Casual 5 sleeve short sleeve New arrival E465185/475355",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5ks3_u7fz.jpg",
+        "price": "¥44.36",
+        "toPrice": "$6.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "264203543",
+          "name": "可可家优品外贸",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182646",
+        "mallType": "TB",
+        "itemId": "790983919952",
+        "title": "M.exic 1998 retro home jersey [ID: 5090821] S-2XL",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5huo_tg4e.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258023338",
+          "name": "America 丨 AAAA18",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182630",
+        "mallType": "TB",
+        "itemId": "678855047034",
+        "title": "oldschool American retro cartoon simple long nose piglet print pattern shoulder cotton half-sleeves men and women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5btz_csoq.jpg",
+        "price": "¥49.80",
+        "toPrice": "$7.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102246172",
+          "name": "Autismss宝藏屋",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182626",
+        "mallType": "T1688",
+        "itemId": "640143721294",
+        "title": "Retro Tide Loose Short Sleeve 280g Solid Color Cotton Men's t-shirt Culture Shirt Customized Wholesale Printing Embroidery",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5bji_17l5.jpg",
+        "price": "¥30.60",
+        "toPrice": "$4.81",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182569",
+        "mallType": "TB",
+        "itemId": "840051577130",
+        "title": "Niche American vintage chest UND letter print logo five bar jersey long mesh long sleeve couple loose",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr4t0s_ojj6.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021150303002553887177",
+  "language": "en"
+}

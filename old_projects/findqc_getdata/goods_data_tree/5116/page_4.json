@@ -1,0 +1,392 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "181751",
+        "mallType": "WD",
+        "itemId": "6847467830",
+        "title": "VG- Runne",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqvp91_sk52.jpg",
+        "price": "¥489.00",
+        "toPrice": "$76.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 188,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180979",
+        "mallType": "WD",
+        "itemId": "7249352917",
+        "title": "BIRKSTO",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqnwr2_2olb.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179548",
+        "mallType": "WD",
+        "itemId": "6714171476",
+        "title": "N9060-1",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqajbp_ath9.jpg",
+        "price": "¥259.00",
+        "toPrice": "$40.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 161,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "154366",
+        "mallType": "WD",
+        "itemId": "7244185823",
+        "title": "Skeleton",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpoxqg_8reb.jpg",
+        "price": "¥259.00",
+        "toPrice": "$40.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "71196",
+        "mallType": "WD",
+        "itemId": "7036042568",
+        "title": "KX-Fl",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mn9ewa_8kar.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 83,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "70249",
+        "mallType": "WD",
+        "itemId": "6800489521",
+        "title": "TOP-DUAN 1",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmvknr_2ien.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "59026",
+        "mallType": "WD",
+        "itemId": "6708029707",
+        "title": "OG-5",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqquye_dkmy.jpg",
+        "price": "¥459.00",
+        "toPrice": "$72.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "59008",
+        "mallType": "WD",
+        "itemId": "7023805440",
+        "title": "Mc.Queen",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqqs38_h9mm.jpg",
+        "price": "¥259.00",
+        "toPrice": "$40.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 77,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "57814",
+        "mallType": "WD",
+        "itemId": "6782227077",
+        "title": "FK-TS×Fl",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqb29u_2va4.jpg",
+        "price": "¥469.00",
+        "toPrice": "$73.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "44306",
+        "mallType": "WD",
+        "itemId": "6855427186",
+        "title": "VG- TripleS",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3me8859_sbjo.jpg",
+        "price": "¥419.00",
+        "toPrice": "$65.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29842",
+        "mallType": "WD",
+        "itemId": "6712661355",
+        "title": "OG-Yzy35OV2",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj7fa7_b4yt.jpg",
+        "price": "¥449.00",
+        "toPrice": "$70.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "17722",
+        "mallType": "WD",
+        "itemId": "7209615215",
+        "title": "XA-BLENCIA 10XL",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3netnn9_k131.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "17637",
+        "mallType": "WD",
+        "itemId": "5904635644",
+        "title": "FK-1",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3netcgu_6ovx.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "17411",
+        "mallType": "WD",
+        "itemId": "7249199717",
+        "title": "KX-Gazelle Indoor",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nerphm_2fyy.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5546",
+        "mallType": "WD",
+        "itemId": "6974811059",
+        "title": "KT-N 2002R",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m93mvg_s3ru.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 103,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5125",
+        "mallType": "WD",
+        "itemId": "6716676156",
+        "title": "GODB-1 ▶ Due to the holiday season, customized color matching will take about 10-15 days to ship. Please be patient",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m496sa_piax.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "4689",
+        "mallType": "WD",
+        "itemId": "6669585103",
+        "title": "BS",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m401xh_aug8.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4422",
+        "mallType": "WD",
+        "itemId": "6744593152",
+        "title": "Small G-X-4",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3u90x_8q4x.jpg",
+        "price": "¥319.00",
+        "toPrice": "$50.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4375",
+        "mallType": "WD",
+        "itemId": "5649904653",
+        "title": "DUNA-M",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3t7yf_42n5.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 152,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4239",
+        "mallType": "WD",
+        "itemId": "6966411504",
+        "title": "GD-YZY35O",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3ql3u_au90.jpg",
+        "price": "¥249.00",
+        "toPrice": "$39.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413669337",
+          "name": "𝐂𝐊𝐓",
+          "logo": "https://si.geilicdn.com/wdseller413669337-65bf00000183cb0065840a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148205251924856742",
+  "language": "en"
+}

@@ -1,0 +1,381 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2905680",
+        "mallType": "TB",
+        "itemId": "823575412014",
+        "title": "Subway Hooligan C7031 Printed Long Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhka3pxn_ulov.jpg",
+        "price": "¥122.93",
+        "toPrice": "$19.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905634",
+        "mallType": "WD",
+        "itemId": "7432935379",
+        "title": "High quality T-shirt 11",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9yoiu_46c4.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779779637",
+          "name": "MangoBuy-A",
+          "logo": "https://si.geilicdn.com/shopedit1905370046-4fa1000001931f90c0a80a2395d6-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905668",
+        "mallType": "WD",
+        "itemId": "7457935041",
+        "title": "A Home EA7 Original Order! Men's professional tennis round neck short sleeved T-shirt (TENNIS PRO T-SHIRT), made of VENTUS7 technology fabric",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhka3z42_p5ls.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "255042208",
+          "name": "TINA的精品店",
+          "logo": "https://si.geilicdn.com/weidian255042208-05ae000001684707b8b10a20b7b9_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905657",
+        "mallType": "TB",
+        "itemId": "951801834477",
+        "title": "Rogue Short-sleeved T-shirt Men's Women's Hot-selling ndy",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhka14zm_qtcc.jpg",
+        "price": "¥57.24",
+        "toPrice": "$9.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "268286361",
+          "name": "tbtbDRM45xK的小店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905656",
+        "mallType": "WD",
+        "itemId": "7484720344",
+        "title": "270g double yarn wave logo short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhka1cwy_toup.jpg",
+        "price": "¥141.67",
+        "toPrice": "$22.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905651",
+        "mallType": "WD",
+        "itemId": "7461364436",
+        "title": "25SS T-shirt 5235",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhka18ei_89vo.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1775281049",
+          "name": "潮牌一号1968",
+          "logo": "https://si.geilicdn.com/shopedit1843669675-5a7500000194253745c90a23047e-unadjust_362_362.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905632",
+        "mallType": "TB",
+        "itemId": "679245883576",
+        "title": "Kith Vanilla Matcha Ice Cream Loose Round Neck Short-Sleeved T-Shirt for Men and Women Couple T-Shirt with Logo Print Tee",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9ykl0_wgt9.jpg",
+        "price": "¥110.20",
+        "toPrice": "$17.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "393210361",
+          "name": "最高荣誉",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905629",
+        "mallType": "WD",
+        "itemId": "7243677790",
+        "title": "Loose plus size T-shirt, high street trendy brand short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9xgrj_s80i.jpg",
+        "price": "¥143.00",
+        "toPrice": "$22.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864913249",
+          "name": "JTC Jack&#39;s treasure chest",
+          "logo": "https://si.geilicdn.com/pcdecorate1775697816-2d580000019002b5b42f0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905583",
+        "mallType": "TB",
+        "itemId": "912931231369",
+        "title": "【 Raspberry Powder 】 320G Heavy duty T-shirt for men and women, with a small neckline and an old American style trendy brand. Wear short sleeves on both sides",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9pmu1_ij67.jpg",
+        "price": "¥111.74",
+        "toPrice": "$17.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "67151795",
+          "name": "美式v复古",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905586",
+        "mallType": "TB",
+        "itemId": "952657461846",
+        "title": "BLSGGTVT Top Edition! 1996 Printed 85% Cotton 15% Linen Couple's Loose Short sleeved T-shirt Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9pm2n_i173.jpg",
+        "price": "¥154.14",
+        "toPrice": "$24.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "300582195",
+          "name": "TNT MADE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905547",
+        "mallType": "TB",
+        "itemId": "669285857959",
+        "title": "Ice silk quick drying T-shirt custom printed logo summer short sleeved workwear sports top team cultural shirt work clothes",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9kgso_kg9t.jpg",
+        "price": "¥29.37",
+        "toPrice": "$4.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "64342189",
+          "name": "依扬玖源旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905562",
+        "mallType": "WD",
+        "itemId": "7315823515",
+        "title": "REP short sleeved yellow hair girls print 92HD",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9mzfj_wlor.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905540",
+        "mallType": "TB",
+        "itemId": "824140918752",
+        "title": "Jk2 Studio Japanese Style Cute Net Surprised Cat Big Face Front Printed Cotton Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9kfnf_zt10.jpg",
+        "price": "¥81.72",
+        "toPrice": "$12.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60708268",
+          "name": "JK2 STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905529",
+        "mallType": "WD",
+        "itemId": "7512666771",
+        "title": "Dijia Ao Dio25ss new loose fit T-shirt short sleeved white cotton bamboo joint plain knitted fabric this T",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9ijxf_9lhi.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1714467102",
+          "name": "小六外贸",
+          "logo": "https://si.geilicdn.com/wdseller1730445636-4f830000019a1e9e9dcb0a231177_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905526",
+        "mallType": "WD",
+        "itemId": "7515644807",
+        "title": "2025 New Cotton Silicone Lion Head Men's and Women's Short sleeved T-shirt Round Neck Casual Fashion Versatile Top",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9idvx_xqa5.jpg",
+        "price": "¥131.67",
+        "toPrice": "$20.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905521",
+        "mallType": "TB",
+        "itemId": "778397330686",
+        "title": "Pure Desire Style White Large Neckline Short-Sleeve T-Shirt for Women 2025 Spring/Summer Women's Clothing Slim Fit Waist-Cinching Sexy Slightly Sheer Top",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9i297_iid2.jpg",
+        "price": "¥51.11",
+        "toPrice": "$8.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108912446",
+          "name": "小仪简约女装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905510",
+        "mallType": "TB",
+        "itemId": "908204099350",
+        "title": "Corteiz Summer New Style Alcatraz Fun Lettering European and American Niche Trendy Brand Unisex Loose Round Neck Short-Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9fh0k_ejjx.jpg",
+        "price": "¥46.20",
+        "toPrice": "$7.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "591329348",
+          "name": "黑仙森",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905488",
+        "mallType": "TB",
+        "itemId": "670247629400",
+        "title": "MRCYC short sleeved T-shirt for men in summer, loose Korean style trend, high-end feeling, pure cotton versatile half sleeved solid color T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9e2k7_el2r.jpg",
+        "price": "¥54.66",
+        "toPrice": "$8.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34598363",
+          "name": "MRCYC 韩系男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905482",
+        "mallType": "WD",
+        "itemId": "7571531911",
+        "title": "Trendy clothes with solid color short sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9cq5p_v4pw.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1655086339",
+          "name": "Shoe+",
+          "logo": "https://si.geilicdn.com/weidian1972191435-0c51000001980e7f9a020a8133cc_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905465",
+        "mallType": "TB",
+        "itemId": "778772441625",
+        "title": "Row Delicate Skin-Friendly Cotton 2025 Spring and Summer New Classic Versatile Simple Loose Silhouette Round Neck Short-Sleeved T-Shirt for Women",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9bjfy_uljp.jpg",
+        "price": "¥193.99",
+        "toPrice": "$30.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105150618",
+          "name": "THE 极简主义",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144521661917919072",
+  "language": "en"
+}

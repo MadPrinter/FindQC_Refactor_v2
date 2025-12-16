@@ -1,0 +1,330 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1135284",
+        "mallType": "TB",
+        "itemId": "734334500594",
+        "title": "2023 new sweater long-sleeved spring and fall thick jacket round neck pure bottoming shirt business casual top letter embroidery",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3821874583/O1CN01wFXzEa1jj42PdL6Lc_!!3821874583.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1134278",
+        "mallType": "WD",
+        "itemId": "7206795029",
+        "title": "LL58001",
+        "picUrl": "https://cdn.findqc.com/item/20250408/m97le7i6_e4n8.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661271393",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/wdseller1776267771-75d1000001913c53d35e0a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1132309",
+        "mallType": "WD",
+        "itemId": "7261502660",
+        "title": "BLCG Paris vintage hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250407/m96ljule_ka5t.jpg",
+        "price": "¥250.00",
+        "toPrice": "$39.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614136830",
+          "name": "Top3",
+          "logo": "https://si.geilicdn.com/wdseller1753177533-370d0000018a698c13400a22d3fa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1130280",
+        "mallType": "WD",
+        "itemId": "7433307447",
+        "title": "VTM OG METAL HOODIE",
+        "picUrl": "https://cdn.findqc.com/item/20250407/m965xsbj_jwt7.jpg",
+        "price": "¥285.00",
+        "toPrice": "$44.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639300028",
+          "name": "K嘉Made",
+          "logo": "https://si.geilicdn.com/wdseller1557226961-726b00000189694d74d20a23132e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1128357",
+        "mallType": "WD",
+        "itemId": "7388929560",
+        "title": "Compass Badge Basic Hoodie Functional Casual Men's and Women's Round Neck Hoodie Island",
+        "picUrl": "https://cdn.findqc.com/item/20250429/ma2j0hwl_x40n.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1643416824",
+          "name": "Timbuy",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 81,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1125918",
+        "mallType": "T1688",
+        "itemId": "762524161709",
+        "title": "Hot Hot Shark Clothing Bape Shark Head Ape Head Sweater Men's 3D Sweater Zipper Hoodie Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250407/m96p5fz6_qek9.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnJuh4aNVhIcD39Pm9qP7Ug",
+          "name": "上饶市锦亿服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 103,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1125543",
+        "mallType": "T1688",
+        "itemId": "820459035927",
+        "title": "Hooded Zipper Red Love Hoodie Spring and Autumn New Japanese Trendy Brand Manufacturer Straight Cross border Exclusive Top Coat",
+        "picUrl": "https://cdn.findqc.com/item/20250406/m95svvnh_otuu.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTfK6e0zDYyn_W-qalqN7EA",
+          "name": "深圳市宝安区石岩梵翎希制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1125537",
+        "mallType": "TB",
+        "itemId": "891688995325",
+        "title": "Los Angeles men's fitness hoodie pullover hooded high weight pure cotton washed loose shoulder for couples",
+        "picUrl": "https://cdn.findqc.com/item/20250526/mb4h9ail_b04q.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "589470915",
+          "name": "Godspower Club小众健身服装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1125424",
+        "mallType": "WD",
+        "itemId": "7435964902",
+        "title": "Small fish 6-color jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9pwmyx2_ssnf.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "401766315",
+          "name": "700",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1122281",
+        "mallType": "TB",
+        "itemId": "845832819670",
+        "title": "E574 Hooded Print Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250406/m94xcua1_7009.jpg",
+        "price": "¥259.00",
+        "toPrice": "$40.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1116295",
+        "mallType": "WD",
+        "itemId": "7418349836",
+        "title": "CH K 2024 Spring and Autumn New Collection Luo Dark Pattern Ten Lawen Tifan Cardigan Zipper Hoodie Men's and Women's Styles",
+        "picUrl": "https://cdn.findqc.com/item/20250614/mbvc371m_lid9.jpg",
+        "price": "¥285.00",
+        "toPrice": "$44.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "411716067",
+          "name": "Top outfit",
+          "logo": "https://si.geilicdn.com/shopedit411716067-19ac0000019971e8cc690a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1112360",
+        "mallType": "T1688",
+        "itemId": "887703362667",
+        "title": "Spring and Autumn Winter hoodie new jacket knitted embroidery casual men's and women's zipper hooded sports cardigan loose and plush",
+        "picUrl": "https://cdn.findqc.com/item/20250530/mbavzprk_kly7.jpg",
+        "price": "¥72.80",
+        "toPrice": "$11.45",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1110310",
+        "mallType": "T1688",
+        "itemId": "791364465369",
+        "title": "Foreign trade rl American POLO sweater men's thin casual cotton solid color embroidery pony label hooded cardigan sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250404/m92vnvbd_fvpa.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1108307",
+        "mallType": "TB",
+        "itemId": "808074502816",
+        "title": "Men's solid color cardigan jacket hooded Korean version of the casual youth thickened sweater hood Sweater CP1050",
+        "picUrl": "https://cdn.findqc.com/item/20250404/m92r51dt_vpel.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "445752720",
+          "name": "HypeStreet",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1104279",
+        "mallType": "WD",
+        "itemId": "7294175149",
+        "title": "High elasticity customer supplied fabric # [Sports sweatshirt] Original factory order AS1 3m reflective logo sports training long sleeved sweatshirt unisex",
+        "picUrl": "https://cdn.findqc.com/item/20250403/m91fbup7_paiu.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1303790680",
+          "name": "草帽出品【八点开拍】🎩",
+          "logo": "https://si.geilicdn.com/bj-wd-1303790680-1514196291898-1398575325_1239_1185.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 128,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1102300",
+        "mallType": "WD",
+        "itemId": "4452960190",
+        "title": "Special Offer~Nike Co branded Stusey Classic Logo Autumn/Winter New Hoodie Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250403/m90w91s2_hben.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1689883296",
+          "name": "Lily Show Brands衣柜",
+          "logo": "https://si.geilicdn.com/weidian1423745562-0b1600000178fac2176a0a217205_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1102065",
+        "mallType": "WD",
+        "itemId": "7224377417",
+        "title": "De * i * te * s foam cotton flower high street loose hooded sweatshirt and pants casual set",
+        "picUrl": "https://cdn.findqc.com/item/20250405/m93dczuv_gxia.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1634542849",
+          "name": "King Gold",
+          "logo": "https://si.geilicdn.com/shopedit1756248604-2cad0000018acc61418c0a22d30f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1101990",
+        "mallType": "T1688",
+        "itemId": "873862649491",
+        "title": "Fear of God Essentials Fog Eight Season 24 High Street Loose Velvet Autumn and Winter Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250802/mdtpakuy_fqmz.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvCfizEFJJYet7J-A011nRg",
+          "name": "象山文美服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147502952553902406",
+  "language": "en"
+}

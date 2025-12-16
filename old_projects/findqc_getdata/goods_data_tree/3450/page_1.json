@@ -1,0 +1,607 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2830242",
+        "mallType": "WD",
+        "itemId": "7585013859",
+        "title": "QLH11- Quick drying breathable running pants zipper fitness training sportswear+86 19959480034",
+        "picUrl": "https://si.geilicdn.com/pcitem1970092633-47e40000019a2981400f0a2301b4-unadjust_336_444.png",
+        "price": "¥153.00",
+        "toPrice": "$24.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1737128957",
+          "name": "TOP High quality",
+          "logo": "https://si.geilicdn.com/wdseller1970092633-061300000198991d28710a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2175932",
+        "mallType": "TB",
+        "itemId": "959671255058",
+        "title": "Classic Af1 Air Force One Sneakers for Men and Women, White Sneakers, 2025 New Model, Putian Couple Casual Sports Shoes",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2217327820589/O1CN01kuBAkz1GDoMWCTwrX_!!4611686018427387693-0-item_pic.jpg",
+        "price": "¥113.01",
+        "toPrice": "$17.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "380084827",
+          "name": "NKYEEZY旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2424609",
+        "mallType": "T1688",
+        "itemId": "931377599861",
+        "title": "MIJKO Men's Women's Double Knee Contour Jeans Men's and Women's Straight Rip Ripped Distressed Trousers",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bOyHGI2BKcKMFtvBE_!!2210306378320-0-cib.jpg",
+        "price": "¥138.89",
+        "toPrice": "$21.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210306378320",
+          "name": "广州市米积高街头文化发展有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1987149",
+        "mallType": "TB",
+        "itemId": "883002043274",
+        "title": "正品空军.一号男款af1运动休闲低帮板鞋2025新款夏季百搭小白鞋女",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2206804385447/O1CN014BdiGo1q6mOx6iwNz_!!4611686018427387559-0-item_pic.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "247297509",
+          "name": "敬伊旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1583079",
+        "mallType": "T1688",
+        "itemId": "927534202139",
+        "title": "syna trucker hat baseball cap flat-brimmed duck tongue cap UKDRIPDRILL European and American hip-hop street",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DCltFy1fg5BR4W9w0_!!2211898564035-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211898564035",
+          "name": "仙居县晨一工艺品厂(普通合伙)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "340482",
+        "mallType": "TB",
+        "itemId": "814615472989",
+        "title": "Crtz spring tracksuit rushing jacket jacket shorts",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/4084171057/O1CN01LLo5AL1Jg9c3X5Tmq_!!4084171057.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "476776567",
+          "name": "十三行尾单清仓",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 115,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1051439",
+        "mallType": "T1688",
+        "itemId": "860014838490",
+        "title": "Fall on the new sweater fashion personality street style printing figure men and women with the same casual hooded sweater suit tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AxgSnw1Gs79ZHzKPj_!!2218583560677-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895328",
+        "mallType": "TB",
+        "itemId": "891539711083",
+        "title": "New season fashion samurai printing pullover long-sleeved hooded sweater set men's casual versatile jacket tide tops",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2649531631/O1CN01QbjrMZ1Nv31FjLzev_!!2649531631.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "246274305",
+          "name": "欧美Trendy clothing店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1358064",
+        "mallType": "T1688",
+        "itemId": "891301357305",
+        "title": "24 cross-border high-quality Ralph RL veteran cadre pony letter embroidery zipper lapel long sleeved jacket black jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01x5L9Hi1JwBXRczpXw_!!2218201461092-0-cib.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4sO4e6Bg-zAOZMFskpvP1g",
+          "name": "广州小潮六服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1358021",
+        "mallType": "TB",
+        "itemId": "900013599713",
+        "title": "Mr. Blingggggg European and American Hip Hop Jewelry PLAYBOY CARTI Brand Same YVL Full Diamond Pendant",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2488987402/O1CN01PZmfoI24YAj1Jp0uy_!!2488987402.jpg",
+        "price": "¥709.31",
+        "toPrice": "$111.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "217334292",
+          "name": "MrBlingggggg Jewelry",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283639",
+        "mallType": "TB",
+        "itemId": "656814873108",
+        "title": "Original airbrushed purple spider dark hole micro flare casual pants men's and women's jeans",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m473nit4_f8q8.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "467536084",
+          "name": "indifferent WSW",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1032763",
+        "mallType": "T1688",
+        "itemId": "860007958929",
+        "title": "Autumn New Sweat Fashion Personality Street Style Printed Figure Men's and Women's Casual Hooded Sweat suit Top",
+        "picUrl": "https://cdn.findqc.com/item/20251101/mhfn6pgd_3n8i.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzQgtyzfKq5uMwxXghbv5mQ",
+          "name": "揭阳市旺益服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 139,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2070965",
+        "mallType": "T1688",
+        "itemId": "640811328895",
+        "title": "cos clothing spell back to war clothing nail saki wild rose zen garden maki volkuro kei tiger staff yohito gojo goku suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gGE5uT1SQseyY6pYr_!!2200647282242-0-cib.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2200647282242",
+          "name": "武汉市洪山区雅芙之家服饰厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2561012",
+        "mallType": "WD",
+        "itemId": "7314000743",
+        "title": "YEEZY Coconut 700V2",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghuw7bz_dgwv.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648171445",
+          "name": "Anonymous",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "987994",
+        "mallType": "TB",
+        "itemId": "895490665368",
+        "title": "American Casbla short sleeved shirt, men's and women's NCA couple ins, summer Weiyi beach T-shirt, shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3840921710/O1CN01V0XLNF1OVEJIai05X_!!3840921710.jpg",
+        "price": "¥89.90",
+        "toPrice": "$14.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "464480656",
+          "name": "欧美潮牌市场店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1739349",
+        "mallType": "TB",
+        "itemId": "575411775707",
+        "title": "Starting from scratch in a different world of life, Laiyue, Pleiades, cosplay costumes, daily wear, outerwear, men's and women's cosplay costumes",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5qhjhp_cq7g.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "539244081",
+          "name": "漫龙动漫工坊",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1221512",
+        "mallType": "TB",
+        "itemId": "821269967929",
+        "title": "Versatile Little White Shoes AF1 Air Force No.1 Men's and Women's Board Shoes 2025 New Popular Thick soled Casual Sports Shoes",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9px6up4_eipq.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "380084827",
+          "name": "NKYEEZY旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1161334",
+        "mallType": "TB",
+        "itemId": "841918371803",
+        "title": "From Street Lazy Relaxed Casual Pants Loose Strap Sweetpants Soft Waxy Niche style pants Drape Straight-leg Loose pants",
+        "picUrl": "https://cdn.findqc.com/item/20250411/m9bqcw9l_hr7j.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71788017",
+          "name": "FROM THE STREET 来自街头",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182745",
+        "mallType": "TB",
+        "itemId": "739780091660",
+        "title": "Kiko Kostadiov Style Geometric Pattern Wool Blended Hoodie Knitted Wool Long Sleeve Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr6n3j_3ewo.jpg",
+        "price": "¥282.64",
+        "toPrice": "$44.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "430361375",
+          "name": "Cross Shop",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114140531194369212",
+  "language": "en"
+}

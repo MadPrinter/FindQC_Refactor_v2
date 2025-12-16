@@ -1,0 +1,441 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2066360",
+        "mallType": "WD",
+        "itemId": "6382363155",
+        "title": "Pink Oak Leaf Print Short Sleeve White",
+        "picUrl": "https://si.geilicdn.com/pcitem1678115151-004900000188a2bc41190a231273-unadjust_304_304.png",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1810379",
+        "mallType": "WD",
+        "itemId": "6078155856",
+        "title": "Hermes HERMES 100 count long staple cotton custom four piece blanket set, interpreting the grand and majestic home style with a distinct posture, revealing the trendy self in the collision of art and fashion",
+        "picUrl": "https://si.geilicdn.com/weidian323676306-4f9c0000018659f56b670a231179_1080_1099.jpg",
+        "price": "¥390.00",
+        "toPrice": "$61.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "323676306",
+          "name": "潮牌潮品潮流",
+          "logo": "https://si.geilicdn.com/weidian323676306-5d1a00000172939585de0a21c2a8_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899235",
+        "mallType": "TB",
+        "itemId": "817170564781",
+        "title": "Super soft water washed cotton simple solid color bed four piece set, duvet cover, bed sheet, double all cotton dormitory three piece set",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjzn14a_ap7r.jpg",
+        "price": "¥50.57",
+        "toPrice": "$7.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "559289810",
+          "name": "希贝儿家纺",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2358945",
+        "mallType": "T1688",
+        "itemId": "949426260320",
+        "title": "Fan Family Cross border Thickened Towel Set for Home Use, Soft and Absorbent Medusa Foreign Trade Face Towels, Pure Cotton, Adult, Male and Female",
+        "picUrl": "https://cdn.findqc.com/item/20250908/mfb8h3wa_0btw.jpg",
+        "price": "¥199.50",
+        "toPrice": "$31.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220006271208",
+          "name": "佛山市禅城区彩裳阁服装商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "153272",
+        "mallType": "TB",
+        "itemId": "829490363480",
+        "title": "Dormitory Bed Table with Side Rotatable Bunk Bed Desk, Movable, Suspended, Foldable, Hanging Type for Student Dormitory",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpo43u_d2t4.jpg",
+        "price": "¥30.64",
+        "toPrice": "$4.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "514902887",
+          "name": "樱花小屋Blooming",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "183548",
+        "mallType": "TB",
+        "itemId": "776031572023",
+        "title": "Pure Cotton Four-Piece Bedding Set, Washed 100% Cotton, Simple Striped Bedding, Student Dormitory Bed Sheet, Duvet Cover, Three-Piece Set 4",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mrhpoe_8erx.jpg",
+        "price": "¥130.12",
+        "toPrice": "$20.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65045370",
+          "name": "Moonlight Home",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67553",
+        "mallType": "T1688",
+        "itemId": "649195293139",
+        "title": "Cut flower three-piece cross-border bedding tufted comforter set pillowcase simple amazon hot sale wholesale manufacturers wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlz6kn_att7.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40134",
+        "mallType": "WD",
+        "itemId": "4473662990",
+        "title": "Frette Frette 580TC/100pcs Counter Edition 4-Piece Set",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmo1sb_eez9.jpg",
+        "price": "¥460.00",
+        "toPrice": "$72.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1314202148",
+          "name": "稀奇百货之家",
+          "logo": "https://si.geilicdn.com/pcdecorate1314202148-21250000018645c1e2760a22d1c8-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26163",
+        "mallType": "TB",
+        "itemId": "612278587136",
+        "title": "80-Count Tencel Four-Piece Set, Summer Ice Silk, Suitable for Sleeping Naked, Silk-Like, Light Luxury, High-End Feel, Bed Sheet, Fitted Sheet, Duvet Cover, Bedding",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nidx8c_my0n.jpg",
+        "price": "¥333.23",
+        "toPrice": "$52.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "435051781",
+          "name": "格丹犀牛旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16822",
+        "mallType": "T1688",
+        "itemId": "37145483150",
+        "title": "Bedding four seasons four-piece set brushed solid color duplex three-piece set one piece of hair manufacturers wholesale foreign trade",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nenbu0_e6jv.jpg",
+        "price": "¥34.00",
+        "toPrice": "$5.35",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021149536931911152780",
+  "language": "en"
+}

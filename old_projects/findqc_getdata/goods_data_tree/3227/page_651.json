@@ -1,0 +1,303 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1107276",
+        "mallType": "TB",
+        "itemId": "872540181648",
+        "title": "Wave Hot Embossed English Print Short Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250404/m91o6pm1_xfve.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1106423",
+        "mallType": "TB",
+        "itemId": "902601405235",
+        "title": "AT Print Short Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250510/mai9aay0_an9b.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 59,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1106321",
+        "mallType": "TB",
+        "itemId": "892941548572",
+        "title": "Casablanca short sleeved heavy-duty pure cotton 260g American trendy brand niche loose high street t-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250404/m91nuhfg_b3p7.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "591329348",
+          "name": "黑仙森",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1105361",
+        "mallType": "WD",
+        "itemId": "7412229493",
+        "title": "YYS Embroidered Collar T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrxpxx_ymv7.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1105338",
+        "mallType": "TB",
+        "itemId": "800373575861",
+        "title": "Wine VISVIM 24SS TORA Nakamura Japanese casual long-staple cotton tiger letter print short sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrxqoc_b15h.jpg",
+        "price": "¥108.73",
+        "toPrice": "$17.10",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1105299",
+        "mallType": "T1688",
+        "itemId": "886327178399",
+        "title": "MJ UnIqIoU Library U Home Short sleeved T-shirt Youjia Candy Color Round Neck Unisex 11 Color Ribbon Label Shipping",
+        "picUrl": "https://cdn.findqc.com/item/20250607/mbm98bid_y0i9.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1105286",
+        "mallType": "T1688",
+        "itemId": "838455135132",
+        "title": "2024 spring and summer new FOGI compound line letters printed round neck pullover short-sleeved men and women with the same paragraph a batch of generation",
+        "picUrl": "https://cdn.findqc.com/item/20250404/m91oljzc_2uhk.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1105284",
+        "mallType": "T1688",
+        "itemId": "852470552207",
+        "title": "2024 autumn and winter new FOG badge small letter printing crew neck pullover short sleeve men and women with a wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrwewy_7uzx.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbww6ovHwWs0DIcNgjgomJw",
+          "name": "深圳市宝安区绣屿服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1104283",
+        "mallType": "T1688",
+        "itemId": "832419630730",
+        "title": "25 year new camouflage classic embroidery and velvet hoodie, loose men's and women's hooded sweatshirt, simple American fashion brand",
+        "picUrl": "https://cdn.findqc.com/item/20250403/m91hy91d_x6z1.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218396052221",
+          "name": "广州至高服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 153,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1104276",
+        "mallType": "WD",
+        "itemId": "7250382995",
+        "title": "R22081-H65",
+        "picUrl": "https://cdn.findqc.com/item/20250403/m91eoni0_mfpa.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1103276",
+        "mallType": "T1688",
+        "itemId": "676733923606",
+        "title": "Short Sleeve 1977 High Street Loose Men's and Women's Couple Round Neck T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250403/m90zjh6e_w4hz.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1102309",
+        "mallType": "TB",
+        "itemId": "860959630479",
+        "title": "Spot the new hellokitty print short-sleeved Sanrio T-shirt men and women cotton versatile casual loose body shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250403/m910c84y_sfnb.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1102246",
+        "mallType": "T1688",
+        "itemId": "841319953204",
+        "title": "The United States tide original Paint Tee paint spray paint graffiti letters printed short-sleeved T-shirt more styles one piece for delivery",
+        "picUrl": "https://cdn.findqc.com/item/20250503/ma8ch6gq_r9za.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218396052221",
+          "name": "广州至高服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 106,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1102134",
+        "mallType": "T1688",
+        "itemId": "887226618339",
+        "title": "Paris B 2025 Spring/Summer New 10 Jersey Printing Embroidered Crewneck Short Sleeve T-shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250603/mbg8r3pw_b4cq.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBE3Uc_JDjti0lzPm56Tp_5A",
+          "name": "广州凤潮贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 57,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1101945",
+        "mallType": "T1688",
+        "itemId": "894732834024",
+        "title": "2024 New AMl Love Letter Loose and Versatile Round Neck Long Sleeve Couple Knitted Sweater Casual Top for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250405/m934074x_j9jg.jpg",
+        "price": "¥72.00",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 55,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1101872",
+        "mallType": "T1688",
+        "itemId": "897429592803",
+        "title": "High-Quality Hmp Heavy Linen Cotton British Hip-Hop Street Embroidered Short-Sleeved T-Shirt Men's Trendy Brand Loose Round Neck T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250608/mbnl6cpn_wt9p.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSodJut_h4Qq7nDZyIcOeRw",
+          "name": "广州市集潮社服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1101683",
+        "mallType": "T1688",
+        "itemId": "899278116057",
+        "title": "2526 football jersey, football kit, football jersey, football jersey, Real Madrid, Basaman, L jersey",
+        "picUrl": "https://cdn.findqc.com/item/20250603/mbgm3e9h_acuo.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219395344523",
+          "name": "广州品达服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 125,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1101362",
+        "mallType": "TB",
+        "itemId": "785038087788",
+        "title": "In Stock Hellvlonestar X 999 Juice Wrld Collaboration Butterfly Graffiti Orange Big V Short-Sleeve Tee",
+        "picUrl": "https://cdn.findqc.com/item/20250403/m90yl83u_6id7.jpg",
+        "price": "¥29.99",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111291053",
+          "name": "DARKNESS C",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149268081917133538",
+  "language": "en"
+}

@@ -1,0 +1,380 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2481289",
+        "mallType": "WD",
+        "itemId": "7541596476",
+        "title": "Sweatshirt 666",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1e8lq0_0ulb.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1760924864",
+          "name": "易特购",
+          "logo": "https://si.geilicdn.com/weidian1417752191-594c000001968d5e50440a210256_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1939338",
+        "mallType": "T1688",
+        "itemId": "870604119758",
+        "title": "Cross-border foreign trade wholesale kapok sweater pants suit youth foam tide brand American street hooded jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251001/mg702vi8_e9cr.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBn1tM5U1FQ-kgXriVMlUlwg",
+          "name": "揭阳市揭东区新亨镇绍发服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 117,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1566444",
+        "mallType": "T1688",
+        "itemId": "905986280243",
+        "title": "24SS Cross-border European and American Tide Brand AM1R1 ICON Year of the Dragon Red Rabbit Letter Hooded Sweatshirt Men's and Women's High Street Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8hrk9j_o68n.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBL81wpaFiF6Fs5kQhkhno_w",
+          "name": "广州潮疯街国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2681823",
+        "mallType": "T1688",
+        "itemId": "863687695664",
+        "title": "Wholesale Beauty Trend Broken Planet Velvet Sweatshirts for Men and Women Autumn and Winter Couple Hoodies",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1cj0pp_ccgw.jpg",
+        "price": "¥83.00",
+        "toPrice": "$13.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXgGYCnC9cIcnc8LLDjXy2g",
+          "name": "广州七叔出品服装贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2805030",
+        "mallType": "T1688",
+        "itemId": "932226625554",
+        "title": "Cross border trendy brand Maison Margiela MM6 high-quality unisex looped round neck hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8b2s29_kq7e.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8D4_sYgy6ibKUDgzm97T-A",
+          "name": "广州吉彦国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1597336",
+        "mallType": "T1688",
+        "itemId": "829851927182",
+        "title": "Cross-Border Dropshipping 2024 New Ralph Lauren Couple Style American Old Money Style Waffle Bear Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8ah62c_vfli.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRaVfvb7qKTeTLD03Ef8j7A",
+          "name": "广州西潮服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2803019",
+        "mallType": "T1688",
+        "itemId": "898695434440",
+        "title": "Amazon letter print casual trend fashion personality street cool versatile comfortable hoodie spring hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh84g33e_kv05.jpg",
+        "price": "¥38.99",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOxYAl_esjRBZBBJXNC9ovg",
+          "name": "深圳市易斯菲尔电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1435308",
+        "mallType": "TB",
+        "itemId": "869965529987",
+        "title": "Sp5Der Aop Web Hoodie Heather Gray Spider Hoodie Sweatshirt Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh82q28b_u9z8.jpg",
+        "price": "¥161.97",
+        "toPrice": "$25.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "390001758",
+          "name": "专注明星同款",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2802479",
+        "mallType": "T1688",
+        "itemId": "977414385012",
+        "title": "跨境潮牌刺绣小马半高拉链秋冬季男新款立领外穿百搭加绒卫衣",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh80xman_wikc.jpg",
+        "price": "¥46.00",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBs4KouyvXO_Bj4zjecvOM-g",
+          "name": "上饶市飞邦服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2459320",
+        "mallType": "T1688",
+        "itemId": "977001081360",
+        "title": "2025秋季运动休闲拉链男士圆领长袖t恤",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh80rcme_w5rs.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_pwgSUOzaYhNAt56-jui7w",
+          "name": "广州珍品阁服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1860488",
+        "mallType": "T1688",
+        "itemId": "867774222471",
+        "title": "Cross-border wholesale Hellstar Hell Star wash water old hoodie sweater trousers suit men's and women's tide brand",
+        "picUrl": "https://cdn.findqc.com/item/20251020/mgywkr33_a8lr.jpg",
+        "price": "¥82.00",
+        "toPrice": "$12.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBL81wpaFiF6Fs5kQhkhno_w",
+          "name": "广州潮疯街国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "404318",
+        "mallType": "T1688",
+        "itemId": "785196702098",
+        "title": "Stone Classic Solid Color Hooded Badge Long-Sleeve Jacket Unisex Couple Trendy Cross-Border Export",
+        "picUrl": "https://cdn.findqc.com/item/20241229/m590n7w4_89ro.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRYDOTNQrnwK0239R3_e3Vg",
+          "name": "广州晴娜服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 545,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2403467",
+        "mallType": "WD",
+        "itemId": "7528757419",
+        "title": "RL25 Xiaoma Autumn/Winter New Men's Full Zipper Cotton Hoodie Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20251015/mgrqoku4_b0ls.jpg",
+        "price": "¥247.50",
+        "toPrice": "$38.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707895709",
+          "name": "Nubik online shop",
+          "logo": "https://si.geilicdn.com/shopedit1951404784-22d00000019a12bb05e50a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1,
+        "picWidth": "1080",
+        "picHeight": "1080"
+      },
+      {
+        "id": "1981284",
+        "mallType": "T1688",
+        "itemId": "902533122326",
+        "title": "2024 fall and winter new casual men and women couple models glasses casual sports pullover hooded sweater one piece of hair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01R16M8S1C2a9XQs7We_!!2216043880023-0-cib.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216043880023",
+          "name": "广州市深夜电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975937",
+        "mallType": "WD",
+        "itemId": "7463613240",
+        "title": "32A2-1c-ZQ",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-405100000195414317f90a2301b4_800_800.jpg",
+        "price": "¥152.00",
+        "toPrice": "$23.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975934",
+        "mallType": "WD",
+        "itemId": "7472889896",
+        "title": "32A2-11c",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-2b4300000196e8223fe40a210139-unadjust_800_800.png",
+        "price": "¥186.00",
+        "toPrice": "$29.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975672",
+        "mallType": "WD",
+        "itemId": "7519615355",
+        "title": "MZ05-Washed Hooded Sweatshirt Set WhatsApp +86 13656920862",
+        "picUrl": "https://si.geilicdn.com/open1869621117-1234478995-2b68000001985bcec5850a8115c2_1200_1200.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1869621117",
+          "name": "Superb shop",
+          "logo": "https://si.geilicdn.com/shopedit1966941561-606f00000198363398300a2301b4-unadjust_526_526.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1978363",
+        "mallType": "WD",
+        "itemId": "7463634768",
+        "title": "BR-Hoodie-Breakout",
+        "picUrl": "https://si.geilicdn.com/pcitem1944731932-48540000019685edf8420a81347d_800_800.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274399453",
+          "name": "CNMADE",
+          "logo": "https://si.geilicdn.com/pcdecorate1274399453-60fc00000193491051590a23037f-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975134",
+        "mallType": "TB",
+        "itemId": "838638097349",
+        "title": "Going to the mall! Soft and sticky sheep's wool blend! Autumn and winter new padded warm half-zipper stand-up collar long-sleeved sweater man",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/516368181/O1CN01sULWAe2AIxIC7EGDC_!!516368181.jpg",
+        "price": "¥69.90",
+        "toPrice": "$10.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117280183",
+          "name": "野马家 专注6年精品男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1975952",
+        "mallType": "T1688",
+        "itemId": "902451314955",
+        "title": "STONE new stone sweater hooded jacket solid color men and women autumn and winter island tide terry loose casual spot",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FpoydH264WJPAXQbt_!!2219543987608-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219543987608",
+          "name": "麻城市昆致贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146125502553928229",
+  "language": "en"
+}

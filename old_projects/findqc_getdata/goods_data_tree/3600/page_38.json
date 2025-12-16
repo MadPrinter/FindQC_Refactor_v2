@@ -1,0 +1,385 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2250492",
+        "mallType": "WD",
+        "itemId": "7355524465",
+        "title": "Down vest (Whats app: +86 152 0596 8861)",
+        "picUrl": "https://si.geilicdn.com/open1853208008-1234478995-7f23000001944d00bf530a232357_800_800.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1853208008",
+          "name": "Bab luxury",
+          "logo": "https://si.geilicdn.com/wdseller1459840158-2be800000195ede28fa00a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2781164",
+        "mallType": "WD",
+        "itemId": "7578386125",
+        "title": "🔥🔥 Winter fashion loose and versatile down jacket+hoodie+sweater 003-ZKCP005",
+        "picUrl": "https://si.geilicdn.com/pcitem1900469054-4342000001939b26baa20a20e273_3024_3024.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1654508",
+        "mallType": "T1688",
+        "itemId": "886483459654",
+        "title": "Jingkou 2025 New Winter down Jacket for Men and Women, Fashionable and Casual Hooded White Duck down Couple Trendy Brand down",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ow7jm31Hq73RJxMMm_!!2219359850808-0-cib.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKBlopfzuCTY6AbkrQHQrBQ",
+          "name": "高密市索振百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3134333",
+        "mallType": "WD",
+        "itemId": "7592687101",
+        "title": "GS.54216795",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-3a52000001939ae6383d0a81347d_2000_2000.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620559267",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2478257",
+        "mallType": "WD",
+        "itemId": "7555227998",
+        "title": "Fashion Trend High Version Cotton Jacket 188",
+        "picUrl": "https://si.geilicdn.com/open1634098741-1234478995-079200000198a7d7f6160a8133b0_800_800.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1610715395",
+          "name": "Starko",
+          "logo": "https://si.geilicdn.com/wdseller1971495123-45760000019803ecb4920a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2391591",
+        "mallType": "T1688",
+        "itemId": "846634597539",
+        "title": "Trap-Esfog Cardigan for Men and Women, Vintage Stand-Up Collar, Hooded, Simple Letter Embroidery, Cotton Fleece Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jIqfGJ1MRuAUaU6hx_!!2210988121432-0-cib.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBe0-_odkxaduOeR_szprAzA",
+          "name": "广州妙伶贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3112687",
+        "mallType": "T1688",
+        "itemId": "948330197554",
+        "title": "蒙家羽绒服高版本现货针织拼接M家白鸭绒连帽保暖外套春秋季",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BhoRpn1XtLhrU6DzD_!!2218105982981-0-cib.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220145305828",
+          "name": "广州鹧天贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2108499",
+        "mallType": "T1688",
+        "itemId": "933102247435",
+        "title": "2025 explosion models tide velvet Maya shoulders hooded vest high-end men and women couples models loose bright surface with comfortable models",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017kAk2e2DS40ZonM66_!!2219877918607-0-cib.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219877918607",
+          "name": "广州黄埔区锦南衣阁服装经营商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2605061",
+        "mallType": "WD",
+        "itemId": "7528988159",
+        "title": "JD couple down jacket for men and women",
+        "picUrl": "https://si.geilicdn.com/pcitem1310658119-19ba000001994868ac970a20e284_1195_1172.jpg",
+        "price": "¥758.00",
+        "toPrice": "$119.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1310658119",
+          "name": "TrekStride",
+          "logo": "https://si.geilicdn.com/weidian1310658119-3d540000019992f3562b0a239846_1096_1096.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2962955",
+        "mallType": "WD",
+        "itemId": "7548337946",
+        "title": "ZPZ新款时尚百搭羽绒服-014",
+        "picUrl": "https://si.geilicdn.com/pcitem1904699878-6257000001931a2595590a2303ee_1280_1280.jpg",
+        "price": "¥613.80",
+        "toPrice": "$96.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2669273",
+        "mallType": "WD",
+        "itemId": "7559495190",
+        "title": "High quality pony down jacket 1",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-000e00000198d1dc283a0a231226_1200_1200.jpg",
+        "price": "¥226.80",
+        "toPrice": "$35.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1656095251",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2554571",
+        "mallType": "WD",
+        "itemId": "7542974845",
+        "title": "潮流马甲-羽绒服合集",
+        "picUrl": "https://si.geilicdn.com/pcitem1952892442-2e9c000001990de886280a811411_1200_1200.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1753845725",
+          "name": "global fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate1957274275-3f1f00000197b69b37240a210256-unadjust_686_686.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2297948",
+        "mallType": "WD",
+        "itemId": "7526182392",
+        "title": "Comfortable and warm down jackets 09",
+        "picUrl": "https://si.geilicdn.com/open1792093805-1234478995-488f00000198a0fed3260a231226_1200_1200.jpg",
+        "price": "¥439.00",
+        "toPrice": "$69.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1792093805",
+          "name": "Spider-Shop",
+          "logo": "https://si.geilicdn.com/shopedit1940212137-586600000195c63a8abe0a239646-unadjust_626_626.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "768279",
+        "mallType": "WD",
+        "itemId": "7275198856",
+        "title": "Goose 26 down jackets",
+        "picUrl": "https://si.geilicdn.com/open1848972357-1234478995-004a000001920f7973cb0a22d234_1170_1560.jpg",
+        "price": "¥488.00",
+        "toPrice": "$76.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848972357",
+          "name": "Adam",
+          "logo": "https://si.geilicdn.com/shopedit1874119249-0bc5000001909e05d0d80a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "466785",
+        "mallType": "WD",
+        "itemId": "7293320004",
+        "title": "Canadian Scissors=Down Jacket (WhatsApp+86 158 9205 5479)",
+        "picUrl": "https://si.geilicdn.com/open1857878373-1234478995-0df400000192c359d5870a8115b5_1080_1440.jpg",
+        "price": "¥689.00",
+        "toPrice": "$108.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1857878373",
+          "name": "Zoe",
+          "logo": "https://si.geilicdn.com/wdseller605567491-379b00000191ac13c5d10a2315ef_1241_1243.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2921267",
+        "mallType": "WD",
+        "itemId": "7571900428",
+        "title": "High quality down jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-37f3000001939af28abd0a23038e_3024_3024.jpg",
+        "price": "¥194.00",
+        "toPrice": "$30.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1874246272",
+          "name": "UrbanFactory",
+          "logo": "https://si.geilicdn.com/shopedit1412063705-018300000199d7666e020a23038e-unadjust_499_499.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3112541",
+        "mallType": "T1688",
+        "itemId": "980820034327",
+        "title": "跨境男士羽绒服工装青年冬季男女情侣保暖外套潮新款飞行服鹅",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01suZFRs1XGQ6F2yv4K_!!2214136532896-0-cib.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214136532896",
+          "name": "保定名洲服装制造有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2174380",
+        "mallType": "T1688",
+        "itemId": "854830450447",
+        "title": "Factory in stock 1996 cotton-padded cotton-padded jacket men and women couples winter bread clothing cold warm coat wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hlWsup1i6IwAQB5Z7_!!2214000174363-0-cib.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7tkBjPXW59uOZ8gYfn-3VA",
+          "name": "佛山博渊贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3131724",
+        "mallType": "T1688",
+        "itemId": "658788304780",
+        "title": "冬季灯芯绒加厚保暖夹克外套男士棉衣服棉袄青少年学生羊羔绒上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XSg2HS1uSXMrw3O2S_!!3413096036-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3413096036",
+          "name": "深圳市龙岗区韩尚衣馆服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3117279",
+        "mallType": "WD",
+        "itemId": "7568782600",
+        "title": "工厂高质量羽绒服-XW",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-72c900000198d1944d060a231226_1200_1200.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1755807005",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143059512553922864",
+  "language": "en"
+}

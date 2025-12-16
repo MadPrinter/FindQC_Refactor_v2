@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2185785",
+        "mallType": "TB",
+        "itemId": "874293227138",
+        "title": "American purple brand short sleeved T-shirt for men FOG high street ins spring and summer loose trendy brand T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memv9oet_i554.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "61208705",
+          "name": "直销潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1888301",
+        "mallType": "WD",
+        "itemId": "7511672868",
+        "title": "Balaclava USD Head Cover Mask",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memt0p3n_mjhy.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1847561709",
+          "name": "Highstreet CND ISLAND",
+          "logo": "https://si.geilicdn.com/wdseller1575136538-7c5400000195f1126c630a23057e_1242_1245.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2185367",
+        "mallType": "WD",
+        "itemId": "7335125676",
+        "title": "37 PO co branded patchwork printed short sleeved mesh jersey",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memscc27_mecv.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1253755126",
+          "name": "37°C TIDE SHOP",
+          "logo": "https://si.geilicdn.com/wdseller1253755126-135e00000184e699e1860a23132e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2185291",
+        "mallType": "WD",
+        "itemId": "7440312404",
+        "title": "Krypton Club Ac Reverse Printed Short Sleeve Stockholm Limited Edition",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memrs9ws_ukeg.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858885532",
+          "name": "2December的小屋",
+          "logo": "https://si.geilicdn.com/wdseller1543338394-5bb800000185725383710a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "859460",
+        "mallType": "WD",
+        "itemId": "7252207804",
+        "title": "Men's summer new T-shirt pure cotton round neck casual sports versatile short sleeved 1400",
+        "picUrl": "https://cdn.findqc.com/item/20250822/mems79oi_b2x0.jpg",
+        "price": "¥26.99",
+        "toPrice": "$4.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "981500612",
+          "name": "小不点456",
+          "logo": "https://si.geilicdn.com/pcdecorate1992191740-133900000199677e59990a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "796824",
+        "mallType": "TB",
+        "itemId": "771699647397",
+        "title": "Spring pure cotton loose casual heart striped round neck long sleeved PLAY base top couple Kawakubo Ling t-shirt women",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memozd4d_xyc5.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "346656663",
+          "name": "精品纯棉T恤",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2091297",
+        "mallType": "T1688",
+        "itemId": "959733982411",
+        "title": "Chuan Jiu Play Summer Colorful Love Embroidered Polo Collar Short Sleeve Collar T-shirt Couple's Polo Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250817/meff15ch_u39o.jpg",
+        "price": "¥33.90",
+        "toPrice": "$5.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBlA3WnyRDYkcz5KjjkXKJog",
+          "name": "上饶市彬衫服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2025458",
+        "mallType": "T1688",
+        "itemId": "944710007888",
+        "title": "2025SS European and American trendy brand summer new C home letter print+embroidery casual loose and versatile men's and women's short sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20250816/mee075sr_ozhg.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219383549264",
+          "name": "广州小欣服装贸易商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1780347",
+        "mallType": "TB",
+        "itemId": "944496378555",
+        "title": "Kk11 Nettspend Invert Tour Merch Tee Venue Limited Edition Short-Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250806/mdzpm8wf_ekup.jpg",
+        "price": "¥73.54",
+        "toPrice": "$11.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "43622",
+        "mallType": "TB",
+        "itemId": "726345013192",
+        "title": "2023 Summer New Style Bamboo Cotton Short-Sleeved Loose-Fitting Korean Style Stylish White Round-Neck T-Shirt Base Shirt for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdznpt_ryhp.jpg",
+        "price": "¥296.59",
+        "toPrice": "$46.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "115759360",
+          "name": "d[s115759360]",
+          "type": "TB"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 90,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1053985",
+        "mallType": "WD",
+        "itemId": "7399714317",
+        "title": "Loose T-shirt made of pure cotton with high-definition printed front and back, casual unisex trendy brand short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250328/m8rqq6s0_kpsc.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1652366165",
+          "name": "WTWT What to wear tomorrow",
+          "logo": "https://si.geilicdn.com/shopedit1901491844-69a900000193494ed06f0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1346966",
+        "mallType": "T1688",
+        "itemId": "874205400688",
+        "title": "Cross border beauty trend supreme funny BOX classic letter print loose short sleeved street American T-shirt half sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memicuxr_eu7y.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBALLs0wazWQ5RwEIVStEopw",
+          "name": "佛山市南海区英纶潮牌服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 120,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1971580",
+        "mallType": "T1688",
+        "itemId": "900328656662",
+        "title": "Rl Laff Pony Logo Embroidery Summer Pure Cotton V-Neck Solid Color Short Sleeve T-Shirt for Women American Style Slim Fit Base Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me9bfecn_mcrj.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnbA5BnsL0wGM05O4vXhWmw",
+          "name": "广州小佳外贸服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1394080",
+        "mallType": "T1688",
+        "itemId": "899245000312",
+        "title": "Popular clubs, national teams, football, professional sports clothing, spot delivery/customer customized styles, cross-border",
+        "picUrl": "https://cdn.findqc.com/item/20250715/md3kb818_4enj.jpg",
+        "price": "¥29.70",
+        "toPrice": "$4.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBx9WZFBtvxkRzAd1-5N296g",
+          "name": "广州先行运动服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 153,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1876135",
+        "mallType": "WD",
+        "itemId": "7433856430",
+        "title": "T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250817/mefc9z8m_6wkp.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2183467",
+        "mallType": "TB",
+        "itemId": "684956257950",
+        "title": "Yamamoto style Yohj dark series Yamamoto Yoji Kashiwagi kan noblewoman playing long sleeved casual unisex",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memfp4ne_l3wk.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108655808",
+          "name": "Road Store公路商店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "40604",
+        "mallType": "TB",
+        "itemId": "668084541339",
+        "title": "Summer Pure Cotton Arizona University Short-Sleeved School Uniform Loose College Style Vintage American T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmqrpq_cucz.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70841964",
+          "name": "Bookstore定制店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2183402",
+        "mallType": "T1688",
+        "itemId": "923031468655",
+        "title": "2025 new STU with complete three labels for spring and summer, trendy brand, classic parade, printed letters, unisex short sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memd4e9s_aruh.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217515010143",
+          "name": "佛山市南海区槿音服装商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2102305",
+        "mallType": "WD",
+        "itemId": "7526270466",
+        "title": "BV Style Rabbit Paper Print Embroidery Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250817/mef45yy9_m94u.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1822186869",
+          "name": "四喜来一件",
+          "logo": "https://si.geilicdn.com/wdseller1970724894-4be000000197f55146a80a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2091543",
+        "mallType": "T1688",
+        "itemId": "939878653705",
+        "title": "250g Heavy Cotton! American Oversize Number 22 Printed Couple Women's Loose Short-Sleeved T-Shirt Men's Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250817/mef3ssth_34g2.jpg",
+        "price": "¥13.00",
+        "toPrice": "$2.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBruba6q8hBlalpMBJeZmd6A",
+          "name": "揭阳市揭东区锡场镇波傲爆服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147161732553929857",
+  "language": "en"
+}

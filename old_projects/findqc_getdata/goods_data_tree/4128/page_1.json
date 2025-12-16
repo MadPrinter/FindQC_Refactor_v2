@@ -1,0 +1,599 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2250010",
+        "mallType": "WD",
+        "itemId": "7492957931",
+        "title": "RL High Quality Kit",
+        "picUrl": "https://si.geilicdn.com/open1833841789-1234478995-4f0d000001978342bf8e0a23b491_1920_1920.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1833841789",
+          "name": "MonkeyReps",
+          "logo": "https://si.geilicdn.com/pcdecorate901965687241-186600000197885abf290a207569-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603802",
+        "mallType": "TB",
+        "itemId": "746385387412",
+        "title": "23-24 ji fu di na mo away jersey Dynamo Kyiv football jersey",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/4284346448/O1CN01fZQ58G1xVEj0IJwam_!!4284346448.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "566835888",
+          "name": "博邦体育",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2580775",
+        "mallType": "WD",
+        "itemId": "7263594489",
+        "title": "GX Edition J4 Series Collection 2 WhatsApp: +86 13055698157",
+        "picUrl": "https://si.geilicdn.com/pcitem901866017498-0dec0000019186de162e0a8134f0-unadjust_1378_1184.png",
+        "price": "¥420.00",
+        "toPrice": "$66.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1633363540",
+          "name": "匿名人：本店铺已停止使用",
+          "logo": "https://si.geilicdn.com/wdseller901606786479-04330000018f2ade70a50a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2305944",
+        "mallType": "WD",
+        "itemId": "7500401434",
+        "title": "Fashion Casual Shoes Classic",
+        "picUrl": "https://si.geilicdn.com/pcitem1967540221-402400000197b5645d410a811411-unadjust_1024_1024.gif",
+        "price": "¥208.00",
+        "toPrice": "$32.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1800767741",
+          "name": "Swank Select",
+          "logo": "https://si.geilicdn.com/shopedit1967540221-6bc000000197b465c3b50a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1548448",
+        "mallType": "T1688",
+        "itemId": "867312776100",
+        "title": "Syna Drill style American street hip-hop embroidered logo patchwork stand-up collar windbreaker jacket casual pants suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GHYJbq1C2a892skKD_!!2216043880023-0-cib.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1440335",
+        "mallType": "WD",
+        "itemId": "7464932922",
+        "title": "Chest B round embroidery PL",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8k774y_wzt2.jpg",
+        "price": "¥289.00",
+        "toPrice": "$45.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "867430",
+        "mallType": "WD",
+        "itemId": "7314016647",
+        "title": "GX version J4 series collection 2 WhatsApp:+86 13055698157",
+        "picUrl": "https://cdn.findqc.com/item/20250907/mf9qi0xz_j2t2.jpg",
+        "price": "¥420.00",
+        "toPrice": "$66.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648171445",
+          "name": "Anonymous",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1770101",
+        "mallType": "TB",
+        "itemId": "883188233102",
+        "title": "HQ1 Barcelona jerseys, training uniforms, football T-shirts, pre match warm-up exercise T-shirts, plus size needle hole 3D printing",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md6q8hjp_jkxj.jpg",
+        "price": "¥19.90",
+        "toPrice": "$3.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72969837",
+          "name": "90定制",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1767304",
+        "mallType": "TB",
+        "itemId": "924906591655",
+        "title": "Angel King Sailing Ship Color-Blocked Retro Jersey Short-Sleeve Tee for Men and Women, Couple Street Style Versatile",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5w0hjw_xj4e.jpg",
+        "price": "¥100.79",
+        "toPrice": "$15.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71335301",
+          "name": "ANGELKING2025",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1477692",
+        "mallType": "WD",
+        "itemId": "7288671760",
+        "title": "IZ4808 Men's Long Sleeve XS-XL 80",
+        "picUrl": "https://cdn.findqc.com/item/20250613/mbu7wgt0_82oo.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1724649408",
+          "name": "阿军供货",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1175320",
+        "mallType": "TB",
+        "itemId": "742722965745",
+        "title": "2022 Ba Xi Black Special Edition jersey Brazil football jersey",
+        "picUrl": "https://cdn.findqc.com/item/20250418/m9m6e5fd_ibze.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "566835888",
+          "name": "博邦体育",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1006327",
+        "mallType": "WD",
+        "itemId": "6875687169",
+        "title": "G Serpentine Coat",
+        "picUrl": "https://cdn.findqc.com/item/20250320/m8h58twy_wzhh.jpg",
+        "price": "¥519.00",
+        "toPrice": "$81.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "68703",
+        "mallType": "TB",
+        "itemId": "822510621388",
+        "title": "Multicolor Letter Jersey T-shirt American retro",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmdxb4_5n5v.jpg",
+        "price": "¥222.69",
+        "toPrice": "$35.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "329685377",
+          "name": "CHiLL Mind",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "68451",
+        "mallType": "WD",
+        "itemId": "6909325605",
+        "title": "R Hat Grid Zipper Hoodie Black",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mm9w5f_eca9.jpg",
+        "price": "¥449.00",
+        "toPrice": "$70.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "20478",
+        "mallType": "WD",
+        "itemId": "6757283125",
+        "title": "D Glitter Line Sweatshirt Crew Neck Gray",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nflnyc_u01c.jpg",
+        "price": "¥339.00",
+        "toPrice": "$53.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "14223",
+        "mallType": "WD",
+        "itemId": "6935645239",
+        "title": "CE Arc de Triomphe Small Label Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mctytx_tn3b.jpg",
+        "price": "¥499.00",
+        "toPrice": "$78.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "11138",
+        "mallType": "WD",
+        "itemId": "7233671985",
+        "title": "R Classic Letter Hoodie Black",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbixzk_jmok.jpg",
+        "price": "¥319.00",
+        "toPrice": "$50.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7757",
+        "mallType": "WD",
+        "itemId": "5688630809",
+        "title": "DC Embroidered Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9vdui_v46v.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 195,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145133001917113634",
+  "language": "en"
+}

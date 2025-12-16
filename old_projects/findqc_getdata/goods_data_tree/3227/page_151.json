@@ -1,0 +1,376 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2396416",
+        "mallType": "WD",
+        "itemId": "7507049006",
+        "title": "Tees",
+        "picUrl": "https://si.geilicdn.com/pcitem1967821138-292800000197ef9c4d000a8134f0_800_800.jpg",
+        "price": "¥94.00",
+        "toPrice": "$14.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1856173309",
+          "name": "ggggg",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2397029",
+        "mallType": "T1688",
+        "itemId": "861194103915",
+        "title": "Spot Japanese tide printed short-sleeved men t-shirt cotton pullover round neck casual loose white fashion tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017EhunP1JMukTbYFlS_!!2998231015-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217320314045",
+          "name": "跨境一路发发工厂店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2397251",
+        "mallType": "TB",
+        "itemId": "965790768794",
+        "title": "American Style Trendy Three-Needle Heavy weight pure cotton Small Neckline Embroider Loose Casual Half Length Short-Sleeve T-Shirt Fashion Trendy Men's",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/699896050/O1CN013k0ToS1uYxHRa6RMq_!!699896050.png",
+        "price": "¥56.80",
+        "toPrice": "$8.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "216760081",
+          "name": "HongxinJieya潮男服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2401074",
+        "mallType": "T1688",
+        "itemId": "645926384094",
+        "title": "250g Japanese heavyweight thick cotton V-neck short-sleeved basic paragraph bottoming shirt T-shirt men and women solid color chicken heart collar body shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KYEfoy1bS6G8MoBoD_!!2208513993463-0-cib.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208513993463",
+          "name": "绍兴丹普诗服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2396861",
+        "mallType": "T1688",
+        "itemId": "912444675975",
+        "title": "Cross-border foreign trade wholesale Stussy printed short-sleeved T-shirt tide stussy casual loose bottoming shirt men and women ius",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01T6lY8l1pHU3mtl4C8_!!2219552035335-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219552035335",
+          "name": "广州六便士批发商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2396444",
+        "mallType": "T1688",
+        "itemId": "958704759811",
+        "title": "Wholesale Summer Sports Athletics Training Short Sleeve Shorts Set Men's and Women's Sports Quick Dry Fitness Running Five Points Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ecyA4H1Cv5Ju5akXH_!!2220196160142-0-cib.jpg",
+        "price": "¥72.00",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220196160142",
+          "name": "广西奈思运动服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2413772",
+        "mallType": "TB",
+        "itemId": "824468452164",
+        "title": "New Pure Cotton Cartoon Watermelon Ice Cream Ice Cream Popsicles Cotton Trendy Brand Fashion Short-Sleeved T-Shirt Adult Clothes",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/808666945/O1CN01xgkPis21ArefpU2VT_!!808666945.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70161133",
+          "name": "DSQ2潮牌服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2397422",
+        "mallType": "TB",
+        "itemId": "955145530935",
+        "title": "American Football League All-Cotton Embroidered Crew Neck Sports Short-Sleeve Basketball Jersey, Large Size, Loose Hip-Hop Trendy T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/60959997/O1CN01v5U3NQ2NigXsdOxsb_!!60959997.jpg",
+        "price": "¥64.90",
+        "toPrice": "$10.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34481489",
+          "name": "良品服饰2008 大码服装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2397366",
+        "mallType": "T1688",
+        "itemId": "949663242755",
+        "title": "25SS High Version Xiangjia Black and White Versatile Slim Fit Simple Cotton Thread Embroidered Top",
+        "picUrl": "https://cdn.findqc.com/item/20250919/mfqh0304_7t0t.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiTLpbMlVHJe3jRoCNfwrBw",
+          "name": "广州多财女装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2396567",
+        "mallType": "T1688",
+        "itemId": "823190872563",
+        "title": "American tide Casa black and white short-sleeved men's ins summer T-shirt women's loose tops half-sleeved cotton",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kJ1n6M22Ah7oiXnce_!!2822597080-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2822597080",
+          "name": "深圳市宝安区学谦数码印花服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2396911",
+        "mallType": "WD",
+        "itemId": "7540120149",
+        "title": "***************",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-4b110000018f43a7c5210a232357_800_800.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2397416",
+        "mallType": "TB",
+        "itemId": "891863411285",
+        "title": "North American Sports League American Single Cotton Round Neck Loose Hip-Hop Plus Size Long-Sleeve Sports Shooting Jersey Trendy T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/60959997/O1CN015b40Fh2NigVQ1SoxC_!!60959997.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34481489",
+          "name": "良品服饰2008 大码服装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2952808",
+        "mallType": "T1688",
+        "itemId": "900695946671",
+        "title": "2025 Summer 3D Creative Digital Printing Round Neck T-Shirt Shorts suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01MActsj2HTDRLWlLa2_!!2219530369151-0-cib.jpg",
+        "price": "¥44.00",
+        "toPrice": "$6.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB2odIMSz4KEGtwLOKXzO9Ng",
+          "name": "宁波枳夏服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2023325",
+        "mallType": "TB",
+        "itemId": "884259679864",
+        "title": "Eminem Kanye TravisScott Tupac XXX American Hip Hop Vintage Washed Reversible Printed Short Sleeve",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2150868520/O1CN019j5Kte2CoDVozR0yR_!!2150868520.jpg",
+        "price": "¥87.12",
+        "toPrice": "$13.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "159533294",
+          "name": "Arnold 美式",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2396435",
+        "mallType": "T1688",
+        "itemId": "862873064477",
+        "title": "Men's short sleeved silk cotton ice silk summer hot stamping knight round neck versatile trendy T-shirt slim letter slimming trend",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01suOjDs1U3e8lg69ot_!!2211933532462-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQ-ZvazEtDHdMwiOjxKs98Q",
+          "name": "惠州市金源优品服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2574317",
+        "mallType": "WD",
+        "itemId": "7565949668",
+        "title": "Produced by the Studio! Maja Style Short-Sleeved T-Shirt with Four-Corner Stitched Pockets and Print, Unisex Trendy Style",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-6e27000001995d1108fc0a23b4de_1182_1182.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743677485",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1931680837-3bfe00000196b9a749100a231316-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2396765",
+        "mallType": "T1688",
+        "itemId": "877270143945",
+        "title": "2025 spring and summer new CH Crowe classic large horseshoe Sanskrit patch high street short-sleeved T-shirt men and women with the same tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QLDwOM1JA5wiKh0sM_!!2218758660987-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218758660987",
+          "name": "广州市潮瘾贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2396651",
+        "mallType": "T1688",
+        "itemId": "964071339600",
+        "title": "33 American Tide MIXED EMOTION Hot rhinestone high quality popular hip-hop round neck cotton short sleeve T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fReyVT1YRhSYycdyH_!!2220123683056-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220123683056",
+          "name": "广州森亩贸易商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2396360",
+        "mallType": "WD",
+        "itemId": "7527071633",
+        "title": "105A7-3c-P",
+        "picUrl": "https://si.geilicdn.com/open1775823299-1234478995-0e6000000198b304d7bc0a8115c2_1200_1200.jpg",
+        "price": "¥129.65",
+        "toPrice": "$20.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1775823299",
+          "name": "Trendy Hub 2",
+          "logo": "https://si.geilicdn.com/shopedit1981004707-79ee00000198a7c8225d0a210256-unadjust_749_749.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2030737",
+        "mallType": "T1688",
+        "itemId": "927081889968",
+        "title": "Cross-border D home spring and summer letters Logo print short-sleeved 240 grams double yarn fabric loose T-shirt men and women models tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LoSrq4271bQ1JROlD_!!2219806377737-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219806377737",
+          "name": "广州嘉卡服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142339512553920075",
+  "language": "en"
+}

@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "987644",
+        "mallType": "WD",
+        "itemId": "7322280033",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-3f8000000191129494b70a210559_800_800.jpg",
+        "price": "¥57.00",
+        "toPrice": "$8.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "986339",
+        "mallType": "T1688",
+        "itemId": "848631692420",
+        "title": "Cross-border American tide amri monogrammed embroidered baseball cap outdoor sun hat duck tongue cap bent brim cap men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kC5Kiq1MAV3PNiQhw_!!2210803131394-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 54,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "816444",
+        "mallType": "WD",
+        "itemId": "7384625007",
+        "title": "Golden Classic letter models G candy color baseball cap female hard top sun hat male fashion duck tongue cap cap",
+        "picUrl": "https://si.geilicdn.com/open1826523129-252808396-66fa0000019436ef01640a8115b5_1080_1080.jpg",
+        "price": "¥51.00",
+        "toPrice": "$8.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1768387529",
+          "name": "Young",
+          "logo": "https://si.geilicdn.com/shopedit1821369977-2d9b00000191029f51fa0a210256-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "465335",
+        "mallType": "WD",
+        "itemId": "7328171568",
+        "title": "XJXPCS new fashionable hundred hats-01",
+        "picUrl": "https://si.geilicdn.com/pcitem1900462010-4b9e000001962ebb984b0a2304aa-unadjust_1200_1200.png",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1874129237",
+          "name": "Snap Wolf",
+          "logo": "https://si.geilicdn.com/shopedit1900462010-02a500000193ddde888a0a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "646157",
+        "mallType": "WD",
+        "itemId": "7325732400",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/pcitem1771955121-6a9a00000190c0d2f3780a207569_640_640.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873980137",
+          "name": "大迈服饰",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "646055",
+        "mallType": "WD",
+        "itemId": "7275884624",
+        "title": "peaked cap",
+        "picUrl": "https://si.geilicdn.com/wdseller1293584826-66680000019332acf5900a23057e_1080_1080.jpg",
+        "price": "¥61.00",
+        "toPrice": "$9.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1293584826",
+          "name": "King’s store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "284052",
+        "mallType": "TB",
+        "itemId": "712355409098",
+        "title": "Amazon hot Y2K Gothic spider web jacquard knitted hat for men and women, hip-hop warm woolen hat, cold hat",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m4752k8k_461k.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "585263594",
+          "name": "天空之尘的小店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "459332",
+        "mallType": "WD",
+        "itemId": "7236021505",
+        "title": "Hat K4-00128",
+        "picUrl": "https://si.geilicdn.com/open1704920025-1234478995-3b8e0000018f1f5817550a210298_1074_1074.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704920025",
+          "name": "M1 BUY",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "436841",
+        "mallType": "T1688",
+        "itemId": "728750185146",
+        "title": "EE baseball cap, American duckbill cap, outdoor sun protection and sunshade cap, three-dimensional embroidery adjustable, cross-border exclusive for leisure",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zGPRk62LmEA5SSt1o_!!3348689734-0-cib.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGH-hdhd-0NAgMtBzpScZKw",
+          "name": "深圳市龙岗区北极狼人服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "436481",
+        "mallType": "T1688",
+        "itemId": "674344035364",
+        "title": "Shade sunscreen baseball cap embroidery black duck tongue hat Korean version of the hat men's spring and summer female outdoor leisure sun hat",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000006711/O1CN01B1zDRt1zRggsqYodM_!!6000000006711-0-tbvideo.jpg",
+        "price": "¥7.30",
+        "toPrice": "$1.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3382355610",
+          "name": "保定白沟新城大鹏鹏制帽厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2566513",
+        "mallType": "WD",
+        "itemId": "7536592586",
+        "title": "Fashion warm knitted hat 05",
+        "picUrl": "https://si.geilicdn.com/pcitem1902887107-6d3800000198ea0cc1aa0a239646_1200_1200.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1691720597",
+          "name": "Cheapbuy",
+          "logo": "https://si.geilicdn.com/shopedit1898283710-233c000001928471eacc0a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "816408",
+        "mallType": "TB",
+        "itemId": "850163159369",
+        "title": "New Cp Winter Outdoor Casual Windproof and Cold-Proof Warm Knitted Hat for Young Men and Women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2213371994473/O1CN013Csgbc1iugbpl7ID8_!!2213371994473.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "438139743",
+          "name": "OW OFF 怀特高端潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283920",
+        "mallType": "TB",
+        "itemId": "601787246910",
+        "title": "19Fw Logo Beanie Cashew Flower Embroidery Cold Weather Hat Knitted Hat Wool Hat Men's Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m474gr36_a0fc.jpg",
+        "price": "¥70.98",
+        "toPrice": "$11.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "210327342",
+          "name": "六六制造",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 141,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2962726",
+        "mallType": "WD",
+        "itemId": "7571381818",
+        "title": "BOBO-\n\nFashion warm knitted hat 05",
+        "picUrl": "https://si.geilicdn.com/pcitem1902887107-6d3800000198ea0cc1aa0a239646_1200_1200.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1817980035",
+          "name": "Dear Jone",
+          "logo": "https://si.geilicdn.com/shopedit1974088022-538800000198c776cbc70a20e2c5-unadjust_512_512.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2372572",
+        "mallType": "WD",
+        "itemId": "7505289336",
+        "title": "Hat (no returns or exchanges without quality issues)",
+        "picUrl": "https://si.geilicdn.com/pcitem901967500132-05ec00000197e375a2280a20e284_865_865.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1806492089",
+          "name": "LOGO BUY",
+          "logo": "https://si.geilicdn.com/wdseller1857795769-045f00000192617265fd0a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "454271",
+        "mallType": "T1688",
+        "itemId": "866437447952",
+        "title": "No Return for Autumn and Winter New Wool Hat Sweet Cool Cross Pullover Hat Warm Cold Hat Men's Fashionable Knitted Letter",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01a7fwYl2EUBPUBgdal_!!2218385738747-0-cib.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvPZcciKksFzUBMQV2qF6Gw",
+          "name": "义乌市荀帽电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "437273",
+        "mallType": "T1688",
+        "itemId": "805414111989",
+        "title": "2024 H Series Hellstar HAT Hot Diamond Embroidered Logo for Couples, Casual Sports Baseball Hat, Sunshade",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mGWUsR21KwMN6fLyX_!!2208483206967-0-cib.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIxgvAzmapWfmae5nPQU3CQ",
+          "name": "广州永耀服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2376805",
+        "mallType": "WD",
+        "itemId": "7543449330",
+        "title": "Versatile rolled edge woolen hat for autumn and winter, cold hat for warmth, knitted hat - LMLSPTS0606",
+        "picUrl": "https://si.geilicdn.com/open1854382549-1234478995-6b9a000001983bf457b80aa043f9_1074_1074.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1878102947",
+          "name": "KUKUBUY",
+          "logo": "https://si.geilicdn.com/shopedit1987390702-201e0000019a0ad109830a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2372705",
+        "mallType": "TB",
+        "itemId": "933569748243",
+        "title": "【Youli】High-Quality Black Polyester Baseball Cap with Correct Triangle Logo, Unisex Cap, Available in Multiple Colors",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2206496828231/O1CN012wsyON2Afr4tHagmj_!!2206496828231.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "560099281",
+          "name": "高端家奢",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "277338",
+        "mallType": "WD",
+        "itemId": "7284882684",
+        "title": "uncharted",
+        "picUrl": "https://cdn.findqc.com/item/20241201/m44s5s2b_g9w4.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840466345",
+          "name": "莫非潮服商行",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148312861911102601",
+  "language": "en"
+}

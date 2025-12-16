@@ -1,0 +1,625 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1314372",
+        "mallType": "TB",
+        "itemId": "841507460620",
+        "title": "Trendy and Versatile K Luo Xin Colorful Resin Ch Cross Necklace, Exclusive to Qingshan, Celebrity Style, Elegant ins",
+        "picUrl": "https://cdn.findqc.com/item/20250801/mdsry8yz_xbfj.jpg",
+        "price": "¥5.94",
+        "toPrice": "$0.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "184574150",
+          "name": "可心人旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2327346",
+        "mallType": "TB",
+        "itemId": "925439895581",
+        "title": "[Correct Version Can Pass Inspection] K Luo Xin 20Th Anniversary Limited Edition Cross Necklace for Men and Women, Niche High-End Trendy Style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2698224212/O1CN01SQokM11gz9Ho2l0zB_!!2698224212.jpg",
+        "price": "¥20.22",
+        "toPrice": "$3.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262671724",
+          "name": "0'Zero 零",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2865238",
+        "mallType": "TB",
+        "itemId": "881661851119",
+        "title": "Versatile and Stylish Men's Necklace Pendant ins Hip-Hop Sweater Chain Accessory for Women's Clothing Decoration",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3785357314/O1CN01ptIUuT23trr8Vvqrd_!!4611686018427385858-0-item_pic.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "302770825",
+          "name": "百克饰品旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3098607",
+        "mallType": "T1688",
+        "itemId": "899659572712",
+        "title": "巴萨尤文皇马项链吊坠大巴黎曼城利物浦阿森纳巴塞罗那足球挂件男",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CUrfhl1Fzc2t0TaZ4_!!2219486840558-0-cib.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219486840558",
+          "name": "莆田市荔城区拱辰街道陈伟箱包商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3104473",
+        "mallType": "T1688",
+        "itemId": "941999267508",
+        "title": "镶钻说唱潮流饰品男士十字架吊坠嘻哈4mm网球链跨境专供潮酷项链",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kouw3f1OuQ7g2TUdX_!!2216492821765-0-cib.jpg",
+        "price": "¥4.90",
+        "toPrice": "$0.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216492821765",
+          "name": "义乌市驭则进出口有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1174489",
+        "mallType": "T1688",
+        "itemId": "750286279493",
+        "title": "Swarovski Swan Necklace Women Gradient Blue Black White Red Classic Swarovski elements collarbone chain on behalf of the sending",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000001726/O1CN01PuPdaR1OcYQfVECp9_!!6000000001726-0-tbvideo.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "868290",
+        "mallType": "T1688",
+        "itemId": "834245570418",
+        "title": "CH Trendy Brand Croix Vintage with Diamond Thai Silver Cross Explosive Necklace Pendant for Men and Women Classic Sweater Chain",
+        "picUrl": "https://cdn.findqc.com/item/20250222/m7fi3u10_d7db.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSy9KHorP7cyNNx-Mb7Oycg",
+          "name": "海丰县梅陇镇克罗汇白铜首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 78,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2403598",
+        "mallType": "T1688",
+        "itemId": "868122158366",
+        "title": "European and American Light Luxury Zircon Rabbit Necklace Cold Hip Hop Personality Full Diamond Rabbit Necklace with Clavicle Chain Accessories for Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016ESfxh1VHDUE4Ilig_!!2216635902627-0-cib.jpg",
+        "price": "¥2.30",
+        "toPrice": "$0.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBj3gPd3aMTrFFF4ZxfXLJFQ",
+          "name": "金华市源俪莱电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2091327",
+        "mallType": "T1688",
+        "itemId": "718365951541",
+        "title": "European and American cross-border jewelry retro multi-layer cross pendant waist chain pants metal accessories sweet cool spicy girl wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VKaV831nhT5eh3Bfi_!!2201231405121-0-cib.jpg",
+        "price": "¥4.00",
+        "toPrice": "$0.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLb1JmeGt3SanwQbiMQcrJg",
+          "name": "义乌市文贝饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3111664",
+        "mallType": "TB",
+        "itemId": "782061751779",
+        "title": "Zoozmo Pure Desire Sweetheart Black Bow Lace Collar Female Neck Strap Choker Neck Accessories Clavicle Chain\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2215370559603/O1CN01Dajkqr2KoEMkhnYZE_!!2215370559603.jpg",
+        "price": "¥10.29",
+        "toPrice": "$1.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "554696391",
+          "name": "ZOOZMOMO",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2986367",
+        "mallType": "T1688",
+        "itemId": "849254140386",
+        "title": "高版V金西太后项链女薇薇安土星珍珠别针回形针吊坠星球欧美跨境",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wrpF4j29azElwORQf_!!2218759178085-0-cib.jpg",
+        "price": "¥29.40",
+        "toPrice": "$4.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218759178085",
+          "name": "海丰县梅陇镇银盛轩首饰厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2916675",
+        "mallType": "TB",
+        "itemId": "678740929215",
+        "title": "In Stock Mastermind Japan Mmj Skull Ghost Head Titanium Steel Necklace with Box and Velvet Pouch",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2991222867/O1CN01SJhFin1X38HrNYQMh_!!2991222867.jpg",
+        "price": "¥123.32",
+        "toPrice": "$19.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "556033007",
+          "name": "广州钢铁战士",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2187875",
+        "mallType": "TB",
+        "itemId": "596630625098",
+        "title": "European and American full diamond necklace collarbone chain hip-hop street trendsetters single row tennis chain men's tennis chain\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1721509058/O1CN01O8oF3A2Gmc6C81ZLy_!!1721509058.jpg",
+        "price": "¥28.93",
+        "toPrice": "$4.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109667288",
+          "name": "KAKA潮牌饰品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3199403",
+        "mallType": "T1688",
+        "itemId": "717291114006",
+        "title": "Tiktok Hot Sales High Edition Pearl Saturn Necklace Full Diamond Pearl Collar Chain Noble Fashion Fashion Necklace Fashion\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oRbGCZ1tuBml6md4x_!!2213632225961-0-cib.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzqO8cGveTJGxJar83ceD5A",
+          "name": "义乌市芊雨饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3051720",
+        "mallType": "T1688",
+        "itemId": "954128629797",
+        "title": "CH克羅复古情侣手链十字架骰子手链满钻ins潮流嘻哈风格镶钻",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01uR3aD61x05ySzMl0V_!!2218918456380-0-cib.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218918456380",
+          "name": "海丰县梅陇镇壹饰梵珠宝首饰厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3198961",
+        "mallType": "T1688",
+        "itemId": "851287290225",
+        "title": "美式潮流复古潮轩克罗心十字架嘻哈朋克高级圆珠十字架拼接项链",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TBZBxY1vNKly2Yhct_!!2218034596160-0-cib.jpg",
+        "price": "¥47.60",
+        "toPrice": "$7.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218034596160",
+          "name": "海丰县梅陇镇枫叶首饰厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3196152",
+        "mallType": "T1688",
+        "itemId": "876653421021",
+        "title": "San Luo family suit classic poplar forest letter necklace bracelet female pair version retro fashion temperament clavicle chain wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bnLMOI2AXbuuIoYk8_!!2218900488213-0-cib.jpg",
+        "price": "¥9.00",
+        "toPrice": "$1.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1i0LSV1ZMFdnCyjfGwRKWQ",
+          "name": "海丰县梅陇镇新广隆饰首饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2683307",
+        "mallType": "T1688",
+        "itemId": "919377671052",
+        "title": "High version large orb three-dimensional earth planet necklace 20mm glass bead pendant logo buckle high sense sweater chain",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh4fdes5_jv3v.jpg",
+        "price": "¥10.50",
+        "toPrice": "$1.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_HIU-ME00pLo9EcBCXTv8A",
+          "name": "义乌市隽莘饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 8
+      },
+      {
+        "id": "3009275",
+        "mallType": "WD",
+        "itemId": "7527158195",
+        "title": "GS.73625599",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-3b9000000190f72fb0750a8133b5_800_800.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699631517",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2738530",
+        "mallType": "WD",
+        "itemId": "7573405702",
+        "title": "************",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-041500000190912ad3290a232357_1074_1074.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1807496083",
+          "name": "2号商店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141040632553870327",
+  "language": "en"
+}

@@ -1,0 +1,99 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "44982",
+        "mallType": "TB",
+        "itemId": "765707545343",
+        "title": "Morning Glory Automatic Pencil 0.3 Hand Drawing Detail Outlining Pencil for Art Students Drawing 2b Sketching Activity 0.5 Drawing 0.7 Automatic Pencil Manga Drawing Line Drawing Pencil High Color Art Outlining",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3megb7c_zoo5.jpg",
+        "price": "¥4.90",
+        "toPrice": "$0.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "493482897",
+          "name": "晨光百联硕专卖店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "33797",
+        "mallType": "T1688",
+        "itemId": "620330244070",
+        "title": "Binlemei Papermate Neutral Pen Signature Pen P1 Quick Drying Set for Smooth Writing",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk404q_bj0p.jpg",
+        "price": "¥3.40",
+        "toPrice": "$0.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208076144892",
+          "name": "上海景初贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "27393",
+        "mallType": "TB",
+        "itemId": "729428995604",
+        "title": "Watch Accessories Logo Luminous Hands for NH35 Movement Hands",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nilg88_wnpm.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4230",
+        "mallType": "WD",
+        "itemId": "6388594180",
+        "title": "pen,cil,2nd/pen,cil(usb-c)3nd",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3qih6_5qy7.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787125025",
+          "name": "Apple果果",
+          "logo": "https://si.geilicdn.com/pccreshp1769897333-473700000188aaa5ccfd0a23034c_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 71,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3971",
+        "mallType": "WD",
+        "itemId": "6577709168",
+        "title": "The Apple Pencil 2nd is non quality and cannot be returned or replaced",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3lu2b_vwe4.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684891361",
+          "name": "ThebigY store",
+          "logo": "https://si.geilicdn.com/wdseller1778358520-557d00000196f8821c200a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143579341914138489",
+  "language": "en"
+}

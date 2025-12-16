@@ -1,0 +1,75 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "17812",
+        "mallType": "TB",
+        "itemId": "687197935525",
+        "title": "pata freaks store Reversible lamb's wool hooded loose jacket fall and winter men's and women's models",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3neuyi6_lo50.jpg",
+        "price": "¥265.00",
+        "toPrice": "$41.67",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "17553",
+        "mallType": "TB",
+        "itemId": "607321897106",
+        "title": "SYTM FOG Atmosphere LA Limited Fear of god style vintage military cloth rabbit fur MA1 jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3net57c_bjha.jpg",
+        "price": "¥1,699.00",
+        "toPrice": "$267.16",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "13321",
+        "mallType": "TB",
+        "itemId": "754568274962",
+        "title": "Feima embroidery KITH cotton clip loose short flight suit jacket jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mchqyn_ovrl.jpg",
+        "price": "¥430.00",
+        "toPrice": "$67.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "316937204",
+          "name": "风云服饰小店",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7304",
+        "mallType": "WD",
+        "itemId": "6122150869",
+        "title": "In stock / BxA co-branded three stripes embroidered nylon zipper jacket sports loose jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9q9sc_yxwm.jpg",
+        "price": "¥428.00",
+        "toPrice": "$67.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614894398",
+          "name": "你有巴黎吗",
+          "logo": "https://si.geilicdn.com/shopedit1744628422-219100000187cd65e8760a22d246-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142064391911150185",
+  "language": "en"
+}

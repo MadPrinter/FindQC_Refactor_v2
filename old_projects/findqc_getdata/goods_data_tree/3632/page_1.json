@@ -1,0 +1,624 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "922944",
+        "mallType": "WD",
+        "itemId": "7240256313",
+        "title": "2425 Summer Club New Football Clothes (Flash Sale)",
+        "picUrl": "https://si.geilicdn.com/open1804138897-1234478995-66240000018fb4be83770aa0233d_800_800.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1804138897",
+          "name": "Maketheone-Tech",
+          "logo": "https://si.geilicdn.com/wdseller1785215318-19580000018e41300db90a210244_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 100,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1898395",
+        "mallType": "T1688",
+        "itemId": "934783926161",
+        "title": "世俱杯25-26赛季俱乐部足球运动服装葡萄牙法国球迷版单上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01W6bYbp1JsynDZ3M4f_!!6000000001085-0-cib.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218889022625",
+          "name": "广州朝越运动服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2267271",
+        "mallType": "TB",
+        "itemId": "710461842854",
+        "title": "Thai Version Jerseys, Player Edition European Clubs, Less Popular, Big Clubs, Optional, Soccer, Clearance Sale",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2762865350/O1CN01MT3JlH1pOM0pAmYRu_!!2762865350.jpg",
+        "price": "¥16.37",
+        "toPrice": "$2.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "584254927",
+          "name": "娜家球衣",
+          "type": "TB"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1994000",
+        "mallType": "TB",
+        "itemId": "903419800882",
+        "title": "Long-sleeved soccer training suit suit half-zip children's students team uniforms fall and winter jerseys player version of the sport warm-ups",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2219479326598/O1CN01H0PG4E1ybwHmQogxj_!!2219479326598.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "200183905",
+          "name": "睿智体育工厂店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3213129",
+        "mallType": "T1688",
+        "itemId": "734843764391",
+        "title": "足球主客场10号梅西成人套装内马尔姆巴佩球员版巴黎圣日耳曼球衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hQdGL51UNnPZRjpIM_!!2214415092506-0-cib.jpg",
+        "price": "¥14.00",
+        "toPrice": "$2.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214415092506",
+          "name": "铅山县睿景服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2882274",
+        "mallType": "T1688",
+        "itemId": "975007881007",
+        "title": "Stretch men's and women's winter on burning new training long-sleeved running sports T-shirt outdoor fitness track and field half pull t",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Cvmfh724NdetN0Ww7_!!2220148017379-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220148017379",
+          "name": "平南县明深服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3212772",
+        "mallType": "T1688",
+        "itemId": "919074252817",
+        "title": "巴塞球衣10号梅西9号罗纳尔多马拉多纳足球服球员版西甲复古潮流",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ic2hOQ285YRhpmHae_!!2218263147881-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218263147881",
+          "name": "深圳市宝安区小伍服装商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1675758",
+        "mallType": "T1688",
+        "itemId": "935063734435",
+        "title": "Cross-Border 25/26 Real Madrid Thai Version Jersey Mbappe Personalized Number Away Second Away Football Uniform Dropshipping",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01w4HMCT1IdZtDoGi4H_!!2215510310916-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBenx_opvEiysQBVGNPHhYsQ",
+          "name": "广州市领陆服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1381485",
+        "mallType": "T1688",
+        "itemId": "894364098839",
+        "title": "Factory direct supply retro long-sleeved players version breathable sweat-absorbing quick-drying men's and women's sports soccer uniforms tops",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000002776/O1CN01qiZKJd1WNSVw3lXW9_!!6000000002776-0-tbvideo.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2412767",
+        "mallType": "T1688",
+        "itemId": "935437599776",
+        "title": "2526 Season Club National Team Real Madrid Barcelona Fan Edition Football Jersey Cross-Border Real Madrid Quick-Drying",
+        "picUrl": "https://cdn.findqc.com/item/20250921/mftcmr4l_oigd.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6CxbdOV-7AeDDMWEbRNEHg",
+          "name": "平南县镇隆镇足魅服装店",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 4,
+        "picWidth": "1282",
+        "picHeight": "1282"
+      },
+      {
+        "id": "1971808",
+        "mallType": "T1688",
+        "itemId": "949420386737",
+        "title": "Classic retro Serie A, Inter Milan, home and away, all season Champions League version, fan version, football jersey, football uniform, wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01W6LLAF1Vq1dZFw8rX_!!2220203252703-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220203252703",
+          "name": "广州零零七运动服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1061725",
+        "mallType": "T1688",
+        "itemId": "889484114914",
+        "title": "2526 Brazilian League Jerseys Palmeiras Flamengo Sao Paulo Santos Soccer Jersey Jersey",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01p8dcm61tlwrNMhCK9_!!2200639045943-0-cib.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3212508",
+        "mallType": "T1688",
+        "itemId": "950978453898",
+        "title": "一件代发批发廉价2526足球儿童套装曼城阿森纳拜仁巴萨巴黎足球服",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZTexIG2K9TEyg3fdE_!!2220063709514-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220063709514",
+          "name": "广州力博休闲服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206824",
+        "mallType": "T1688",
+        "itemId": "989894343109",
+        "title": "2526款巴萨皇马利物浦球衣主客场二客10号姆巴佩维尔茨长袖足球服",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fd02vF1j2vpfxuVuk_!!2219798104491-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219798104491",
+          "name": "广州亚马儿服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206772",
+        "mallType": "T1688",
+        "itemId": "947492530214",
+        "title": "Wholesale 25/26 Real Madrid Jersey Long-Sleeved Champions League Home and Away Player Version Mbappe Bellingham Football Uniform",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gaRte62FcG3VM2f7Y_!!2219608388900-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUApHkrT8KHqKMUzDIGR__g",
+          "name": "广州市星远运动服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206740",
+        "mallType": "WD",
+        "itemId": "7547436989",
+        "title": "【DX1-1】热门球衣爆款推荐（号码定制款不退不换）",
+        "picUrl": "https://si.geilicdn.com/pcitem901950709638-7947000001977e1305e90a23038e_800_800.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1837144611",
+          "name": "维索尔山羊",
+          "logo": "https://si.geilicdn.com/pcdecorate901986749736-0b8a00000199bfa8c5770a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206753",
+        "mallType": "TB",
+        "itemId": "974025383494",
+        "title": "2526 Real Madrid Home Long-Sleeved Jersey No. 10 Mbappe 7 Vinicius C. Ronaldo Bellingham Football Uniform Set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2041106309/O1CN01hI4Nd51wTZrsBWWHd_!!2041106309.jpg",
+        "price": "¥59.78",
+        "toPrice": "$9.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110677125",
+          "name": "小雄足球体育用品特卖店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "84",
+        "mallType": "T1688",
+        "itemId": "671733657941",
+        "title": "Chelsea Inter Atletico Madrid training uniform football uniform long sleeve main suit half zipper Jersey wholesale a generation of hair",
+        "picUrl": "https://cdn.findqc.com/item/20241219/m4u7s9pq_gcte.jpg",
+        "price": "¥72.00",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEFLGSXxogPV2KDSwHBS8vQ",
+          "name": "广州市隆广服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 557,
+        "qcVideoCnt": 12
+      },
+      {
+        "id": "70",
+        "mallType": "T1688",
+        "itemId": "722779024154",
+        "title": "Source Goods Football Jersey 24-25 Miami International Arsenal Real Madrid Bayern Marseille Barcelona AC Inter Jersey",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m1zboj_swtz.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBM_i9ZDcfWVLzdPGjBOZDHA",
+          "name": "广州宏扬服饰批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 647,
+        "qcVideoCnt": 48,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "1844083",
+        "mallType": "TB",
+        "itemId": "899906787436",
+        "title": "New Real Madrid Bellingham VINI JR Kids kit MBAPPE Jerseys",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/900198793/O1CN011mvaDu2EpFg2VEjml_!!900198793.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109277203",
+          "name": "杰出体育",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021142535401930821976",
+  "language": "en"
+}

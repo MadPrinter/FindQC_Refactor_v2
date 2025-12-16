@@ -1,0 +1,389 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3188114",
+        "mallType": "T1688",
+        "itemId": "597773329517",
+        "title": "适用macbookpor水晶磨砂保护套 case外壳 苹果笔记本电脑保护壳",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01S9wegX2Ida4oTWlgv_!!2201422689309-0-cib.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2201422689309",
+          "name": "深圳市德成科技实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902682",
+        "mallType": "TB",
+        "itemId": "736878689379",
+        "title": "Oil Painting Style Suitable for Apple MacBook Air Protective Case, Mac Notebook 2025 Model M4 Computer Pro Cover, Mac Pro 14-Inch 13 Transparent MacBook Air M2 Film M1 Accessories 2023 Soft 16",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk6dyvf_qn8c.jpg",
+        "price": "¥37.69",
+        "toPrice": "$5.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "330026798",
+          "name": "干贝数码专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179471",
+        "mallType": "TB",
+        "itemId": "702476679763",
+        "title": "Geek Amaterasu Mouse Pad Extra Large Chinese Style Men's Office Gaming Keyboard Desk Mat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq9zds_yaoe.jpg",
+        "price": "¥20.43",
+        "toPrice": "$3.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "525917727",
+          "name": "Geek 极客数码",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "37156",
+        "mallType": "TB",
+        "itemId": "722320058747",
+        "title": "Shell | Suitable for MacBook Apple Laptop Air13 Protective Case M1Pro 14inch Matte Black Pro16Max Simple Pure Black Personalized Air15/ 13inch Simple Laptop Case",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nl6ra6_1mye.jpg",
+        "price": "¥10.35",
+        "toPrice": "$1.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "448036185",
+          "name": "SHELL 壳子",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35807",
+        "mallType": "TB",
+        "itemId": "723977560364",
+        "title": "Lenovo ThinkPad P16v Laptop 2023 Model 13 Computer Sticker P15V Case Protective Film 16 inch Black Starlight Frosted Carbon Fiber Keyboard Screen Film",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkr1q5_ell6.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "25613",
+        "mallType": "TB",
+        "itemId": "802899318089",
+        "title": "Huge mouse pad Geng Gui anime male video game dedicated computer desktop keyboard pad peripheral mouse pad",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nib4xc_rdrr.jpg",
+        "price": "¥6.80",
+        "toPrice": "$1.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "200074843",
+          "name": "索近旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "24012",
+        "mallType": "TB",
+        "itemId": "745109788430",
+        "title": "The second five stripes of Goku gaming mouse pad oversized lock edge gaming keyboard pad thickened non-slip customized men's table mat",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ni23e5_yop3.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "219676937",
+          "name": "凡羲数码专营店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140301812553892505",
+  "language": "en"
+}

@@ -1,0 +1,519 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2789955",
+        "mallType": "WD",
+        "itemId": "7573463831",
+        "title": "No.493351371",
+        "picUrl": "https://si.geilicdn.com/pcitem1798464021-0222000001901b6d31220a8133cc_800_800.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1860739466",
+          "name": "New Goat",
+          "logo": "https://si.geilicdn.com/shopedit1932874979-713d000001981eb095d40a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2051287",
+        "mallType": "WD",
+        "itemId": "7498218593",
+        "title": "[DX153] Mask Headgear Headgear",
+        "picUrl": "https://si.geilicdn.com/open1791080881-252808396-069d0000018f8aa74d7a0a232357_800_800.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2231161",
+        "mallType": "T1688",
+        "itemId": "709349662103",
+        "title": "Camouflage Breathable Sunscreen Headgear Military Tactical Camouflage Outdoor Riding Fishing Hiking Camping Skiing Headgear Masks",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GnZe7H1j8shlZOrLN_!!2200607994504-0-cib.jpg?sign=247617_MzMyMzI3MTI1",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2200607994504",
+          "name": "义乌市圣顶户外用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1332279",
+        "mallType": "T1688",
+        "itemId": "771129730175",
+        "title": "Headgear cross-border ice silk headgear motorcycle helmet fishing outdoor riding cross-border spring and summer can be printed logo",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000002015/O1CN01VsBFNL1Qkv0Fr0e7Z_!!6000000002015-0-tbvideo.jpg",
+        "price": "¥0.99",
+        "toPrice": "$0.16",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1405321",
+        "mallType": "WD",
+        "itemId": "7468356020",
+        "title": "Face mask, head cover, head mask",
+        "picUrl": "https://si.geilicdn.com/open1791080881-252808396-069d0000018f8aa74d7a0a232357_800_800.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659999653",
+          "name": "我的店铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-641800000193b565e3020a23038e-unadjust_288_288.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2264389",
+        "mallType": "TB",
+        "itemId": "868665956795",
+        "title": "Nike high neck football scarf, warm and windproof scarf, men's ear protection, outdoor exercise, fitness, cycling, sports training head cover",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/740024864/O1CN01iVyDgR1lnlUS4Xif1_!!4611686018427380256-0-item_pic.jpg",
+        "price": "¥133.15",
+        "toPrice": "$20.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68146386",
+          "name": "极地运动专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2597391",
+        "mallType": "WD",
+        "itemId": "7469303957",
+        "title": "Cross border new high-quality European and American trendy brand D.T kapok flower full printed short sleeved loose T-shirt men's and women's shorts set",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgfkindr_snoe.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672426709",
+          "name": "你看看这！",
+          "logo": "https://si.geilicdn.com/shopedit1902426083-19b10000019971e5dc9a0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1314739",
+        "mallType": "T1688",
+        "itemId": "802522819720",
+        "title": "Ice Silk Sun Protection Cycling Hood Spring and Summer Motorcycle Helmet Equipment Universal Hat Motorcycle Windproof Sun Protection Mask",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memmit75_au8x.jpg",
+        "price": "¥2.30",
+        "toPrice": "$0.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiVJExUiXNiX9h5xh5cZrvg",
+          "name": "佛山尚妍森户外服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "195311",
+        "mallType": "TB",
+        "itemId": "762609195834",
+        "title": "Guan Xiaotong, Wang Yibo, and Yi Yang Qianxi Face Performance Prank Headgear Skull Full-Face Mask Balaclava",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3neiq4s_7xt9.jpg",
+        "price": "¥13.09",
+        "toPrice": "$2.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116058372",
+          "name": "骑淇户外店",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "111471",
+        "mallType": "T1688",
+        "itemId": "740237116247",
+        "title": "Ethika Same Style Shorts Sports American Trbottomy Brand Men's Underwear Boxer Ice Silk Quick-Drying Bottoming 5-Point Pants",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnvv0c_u4qt.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBA4tkind-T8v6FYw_e_Vshw",
+          "name": "中山市视界跳动服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "68425",
+        "mallType": "TB",
+        "itemId": "657783831764",
+        "title": "Japan! Yamamoto Ys Designer Style Unisex Ink Wash Hand-Painted Gradient Color Grid Yarn Scarf Long Style for Autumn and Winter",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mm9m1r_vkfv.jpg",
+        "price": "¥92.17",
+        "toPrice": "$14.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156431918",
+          "name": "大布家围巾",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "63230",
+        "mallType": "T1688",
+        "itemId": "711450695340",
+        "title": "New football mask, basketball face protection, sports protection, Halloween men's and women's masks, upper half face performance party costumes",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjdqy0_p340.jpg",
+        "price": "¥7.80",
+        "toPrice": "$1.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbAJ1tePXBh4Uxo2gKcgMbA",
+          "name": "义乌市悦涛面具厂",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "25937",
+        "mallType": "T1688",
+        "itemId": "654362233362",
+        "title": "Ethika's Same Men's Underwear Boxer Trbottomy Brand Shorts Ice Silk Print Sports Quick-Drying Extbottomed Leggings",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nig969_v2ax.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBA4tkind-T8v6FYw_e_Vshw",
+          "name": "中山市视界跳动服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 149,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3005",
+        "mallType": "TB",
+        "itemId": "656107035692",
+        "title": "Ice silk headgear for outdoor summer sun protection cycling scarf, men's and women's fishing face shields, face shields, windproof camouflage headgear, hat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m35nx9_g075.jpg",
+        "price": "¥7.80",
+        "toPrice": "$1.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "69922542",
+          "name": "军酷旅户外",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 101,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140256182553871660",
+  "language": "en"
+}

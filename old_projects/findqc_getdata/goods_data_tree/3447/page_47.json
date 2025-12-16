@@ -1,0 +1,348 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1813284",
+        "mallType": "WD",
+        "itemId": "7507571514",
+        "title": "Stay-071038 sweater",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7tgyb_n0pm.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2745723",
+        "mallType": "TB",
+        "itemId": "986082871143",
+        "title": "Paradise Export Cartoon Letter Embroider Loose Slim Looking Crewneck Terry Long sleeves Sweatshirt Long sleeves Playful Tops",
+        "picUrl": "https://cdn.findqc.com/item/20251028/mh9xht3l_ilbm.jpg",
+        "price": "¥35.69",
+        "toPrice": "$5.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "346665265",
+          "name": "小黄豆外贸女装批发",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2900193",
+        "mallType": "WD",
+        "itemId": "7449668633",
+        "title": "Nanyi-0420009 Spring Sports Set",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk1w7z6_cv86.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817869",
+        "mallType": "WD",
+        "itemId": "7297129772",
+        "title": "hoodie #1",
+        "picUrl": "https://cdn.findqc.com/item/20251029/mhbr1gwb_1d5b.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1867107493",
+          "name": "hahabuy",
+          "logo": "https://si.geilicdn.com/shopedit1883595500-0f8b000001930fda03cd0a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2899168",
+        "mallType": "TB",
+        "itemId": "839434754703",
+        "title": "24 autumn/winter women's zipper decoration hooded loose long sleeved sweatshirt flannel straight leg pants 4174843 4174842",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjzhtcc_85jp.jpg",
+        "price": "¥87.54",
+        "toPrice": "$13.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62486425",
+          "name": "ZASHOP女装正品折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896557",
+        "mallType": "WD",
+        "itemId": "7421268349",
+        "title": "Exclusive Original Version: Alo Couple Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjwd0yl_0d37.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787094464",
+          "name": "婧妤de外贸小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895963",
+        "mallType": "WD",
+        "itemId": "7278209919",
+        "title": "RR-1 Casual ID Hoodie 'LX Batch'",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7w1ru_vasd.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1764738789",
+          "name": "新店1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2894128",
+        "mallType": "WD",
+        "itemId": "7285652117",
+        "title": "Hoodie Japanese style niche men's and women's casual sweatpants",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjtf6qs_9vb3.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1611844261",
+          "name": "00",
+          "logo": "https://si.geilicdn.com/shopedit1883892555-554b00000196b76d4cd80a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1845344",
+        "mallType": "WD",
+        "itemId": "2965306111",
+        "title": "L2025 Autumn/Winter New Collection for Boys and Girls Original Customized Edition",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk7touc_40ww.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622399072",
+          "name": "TOPKIDS欧美大牌定制童装",
+          "logo": "https://si.geilicdn.com/weidian1425960945-58660000018c4b0dff2d0a8133ca_974_974.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1654696",
+        "mallType": "WD",
+        "itemId": "7300506575",
+        "title": "TS hoodie with red RODE print H261",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjh2jbr_n4cr.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2695823",
+        "mallType": "WD",
+        "itemId": "7571193255",
+        "title": "Embroidered hooded cardigan with warhorse on the chest",
+        "picUrl": "https://cdn.findqc.com/item/20251023/mh2u1c15_khlr.jpg",
+        "price": "¥325.00",
+        "toPrice": "$51.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840972441",
+          "name": "Thunder 01",
+          "logo": "https://si.geilicdn.com/shopedit1842086105-06b80000019746ca6bf50a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 104,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2212625",
+        "mallType": "T1688",
+        "itemId": "818620248899",
+        "title": "Autumn and winter jacket cross-border Amazon Europe and the United States new monogram print fashion 3D printing round neck ladies sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aZUAyl1pyzc0rsyih_!!2216861115430-0-cib.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216861115430",
+          "name": "上饶市艾凡欧服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2210930",
+        "mallType": "WD",
+        "itemId": "7528977145",
+        "title": "Cartoon Printed Men's and Women's Terry Hooded Sweatshirt ba",
+        "picUrl": "https://si.geilicdn.com/open1735731997-1234478995-216700000198c8a388c00a8133b0_1200_1200.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735731997",
+          "name": "Nice",
+          "logo": "https://si.geilicdn.com/shopedit1948125176-0fc80000019a3bc79be60a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2222520",
+        "mallType": "T1688",
+        "itemId": "802039047182",
+        "title": "ASTROWORLD WISH YOU WERE HERE HOODIES Europe and the United States trend men's tide brand hooded sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xgtddl1YTzJtLiHBU_!!2217581483061-0-cib.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217581483061",
+          "name": "义乌市界丝服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2215505",
+        "mallType": "WD",
+        "itemId": "7502714408",
+        "title": "*(PD Legacy) Hoodie Mystery Box - Random Shipment, No Returns or Exchanges",
+        "picUrl": "https://si.geilicdn.com/open1820645545-1234478995-25f000000197ce8df3780a8133b0_1792_1792.jpg",
+        "price": "¥59.90",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1820645545",
+          "name": "MUMU007",
+          "logo": "https://si.geilicdn.com/pcdecorate1826598197-25ae000001964c99eb730a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1565045",
+        "mallType": "T1688",
+        "itemId": "859611044190",
+        "title": "New full embroidery American retro youth trend fashionable zippered hooded sweater suit looks slim China-Chic",
+        "picUrl": "https://cdn.findqc.com/item/20251103/mhijcjyl_o6gm.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQNWfOEKzIudh93DV0o5Pkg",
+          "name": "东莞市长安天骋服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2191443",
+        "mallType": "WD",
+        "itemId": "7283081981",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1815387845-252808396-5be6000001926603ae580a8115b5_800_800.jpg",
+        "price": "¥163.68",
+        "toPrice": "$25.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1778752965",
+          "name": "青云",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2189315",
+        "mallType": "T1688",
+        "itemId": "862060183612",
+        "title": "2025 fall and winter dark style splicing zipper jacket men and women with the same hip-hop casual hoodie hooded sweatshirt shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01V6iP0v1roZusyAs4b_!!3361665678-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3361665678",
+          "name": "广州焯耀服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142187541917917687",
+  "language": "en"
+}

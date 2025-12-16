@@ -1,0 +1,382 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2844774",
+        "mallType": "WD",
+        "itemId": "7257373943",
+        "title": "R7050-H28",
+        "picUrl": "https://cdn.findqc.com/item/20251031/mher3r9y_vjbj.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "487331",
+        "mallType": "T1688",
+        "itemId": "854560965883",
+        "title": "Spring and Autumn 2024 New Leisure Sports Air Layer Hooded Jacket Coat and Sweatpants suit 454 and 461",
+        "picUrl": "https://cdn.findqc.com/item/20251031/mhe9sa9c_5u5u.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBeLSiQZqiAg-KkCfalYXmdg",
+          "name": "广州衣模衣样服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 204,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "617389",
+        "mallType": "T1688",
+        "itemId": "877505099289",
+        "title": "Overseas Original Velvet Sweatshirt Hoodie Men's Printed Spider Sp5Der Hoodies",
+        "picUrl": "https://cdn.findqc.com/item/20251105/mhkywe26_mtp0.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGU_8EM53xVGZZsm3uz3wUQ",
+          "name": "揭阳市揭东区新亨镇纤沫服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2052",
+        "mallType": "TB",
+        "itemId": "794384453885",
+        "title": "Denim Kapok American-Style Hoodie Made in Portugal Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2qrna_2856.jpg",
+        "price": "¥309.78",
+        "toPrice": "$48.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "345599177",
+          "name": "ANGELKING",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 506,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2247505",
+        "mallType": "WD",
+        "itemId": "7522670813",
+        "title": "Personalized Simple Printed Zipper Hoodie European Retro",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-640d00000198948b272b0a22d249_1200_1600.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699631517",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2242379",
+        "mallType": "WD",
+        "itemId": "7319926054",
+        "title": "RF 100082 BN",
+        "picUrl": "https://si.geilicdn.com/pcitem901899113037-15d400000193aea2152a0a20e273-unadjust_768_768.png",
+        "price": "¥208.88",
+        "toPrice": "$32.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1636214037",
+          "name": "鲲鹏",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2236663",
+        "mallType": "T1688",
+        "itemId": "949045302467",
+        "title": "y2k gothic American retro hoodie new letter print dark wind loose fashion casual sweater batch",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VpqYwZ24O62LGW3cW_!!2212770877380-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212770877380",
+          "name": "深圳市合之恒电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2230969",
+        "mallType": "T1688",
+        "itemId": "827352779165",
+        "title": "2024 early fall new casual suit women slash shoulder long-sleeved sweater loose wide-legged shorts two-piece suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01L0NZ1J1IIxxPv7UX3_!!2207598090871-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2207598090871",
+          "name": "常熟初奥服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2249342",
+        "mallType": "T1688",
+        "itemId": "786468507079",
+        "title": "23SS fall and winter U.S. tide Sp5der 555555 hip-hop men and women with the same casual hooded padded sweater suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Yij7VZ1ZYOjkJq9wn_!!2214269653206-0-cib.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214269653206",
+          "name": "广州星盛品牌管理有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "989432",
+        "mallType": "WD",
+        "itemId": "7323607544",
+        "title": "F hoodie 24 rows FRAE2254",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm7d0e_7fov.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2339586",
+        "mallType": "WD",
+        "itemId": "7540770244",
+        "title": "Embroidered logo zipper hooded sweatshirt cardigan",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm9f0h_tkxu.jpg",
+        "price": "¥318.00",
+        "toPrice": "$50.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1783999672",
+          "name": "Andy Shop",
+          "logo": "https://si.geilicdn.com/shopedit1480613185-4df90000018fa4d4b84b0a23057e-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2906493",
+        "mallType": "TB",
+        "itemId": "867619620117",
+        "title": "1225 [Cat Home Preferred] Colored surfboard organic cotton loop hoodie (free shipping)",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhke16o0_u6j1.jpg",
+        "price": "¥131.66",
+        "toPrice": "$20.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "35205274",
+          "name": "猫猫and猫姐的店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "955304",
+        "mallType": "WD",
+        "itemId": "7233000917",
+        "title": "(100-150) High street front and back tape letter elements logo design full of hooded children's hoodies and children's clothing",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm88h8_gh31.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864128688",
+          "name": "夏夏童品（童鞋童装）",
+          "logo": "https://si.geilicdn.com/wdseller1444539219-1bf200000179006d0b570a217216_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2906097",
+        "mallType": "TB",
+        "itemId": "743172827465",
+        "title": "Long sleeved T-shirt for men in summer, thin design, pure cotton, loose fit, 2025 new style, autumn T-shirt, bottom layer, black Hong Kong style versatile shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkc3df1_3yiu.jpg",
+        "price": "¥29.71",
+        "toPrice": "$4.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36412463",
+          "name": "NELY小尼力",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905864",
+        "mallType": "WD",
+        "itemId": "7300896875",
+        "title": "Gradient round neck green bean paste",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkaxahw_wi18.jpg",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1723687097",
+          "name": "Madebykungfu",
+          "logo": "https://si.geilicdn.com/wdseller1855819126-13ec0000018ef0425f300a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896067",
+        "mallType": "TB",
+        "itemId": "898501154287",
+        "title": "25 New Korean Golf Women's Hoodie, Short Sleeve Shorts Set, Sports, Leisure, Fashion, Versatile Ball Wear",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmd66r_53m3.jpg",
+        "price": "¥172.99",
+        "toPrice": "$27.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "592577363",
+          "name": "麓野户外运动系列",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2903166",
+        "mallType": "TB",
+        "itemId": "762938239310",
+        "title": "24 early spring new classic short style chest leather label black gray loose drawstring hooded pure cotton sweatshirt shorts set",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk87n01_k2yo.jpg",
+        "price": "¥368.95",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70256468",
+          "name": "左岸朝颜的巴黎梦",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902777",
+        "mallType": "WD",
+        "itemId": "7518832831",
+        "title": "Designer Half Zipper Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk82e8a_qqob.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "161114561",
+          "name": "BACK-STUDIO",
+          "logo": "https://si.geilicdn.com/wdseller161114561-4f0200000192bcff28af0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2901206",
+        "mallType": "WD",
+        "itemId": "7307337853",
+        "title": "New autumn and winter couple suit hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk4unze_agfv.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1671931806",
+          "name": "Top technology",
+          "logo": "https://si.geilicdn.com/wdseller1736228097-2b980000019546a46eb00a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2901015",
+        "mallType": "WD",
+        "itemId": "7314092082",
+        "title": "Amiri Arts District poster letter print high-quality looped hoodie hoodie for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk4a66m_jdbm.jpg",
+        "price": "¥231.67",
+        "toPrice": "$36.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142176962553920199",
+  "language": "en"
+}

@@ -1,0 +1,386 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2827427",
+        "mallType": "WD",
+        "itemId": "7584694239",
+        "title": "Reversible Linen Jacket, double-sided linen jacket M\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901993774356-6f580000019a28602ae50a23057e_1280_1280.jpg",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3074599",
+        "mallType": "WD",
+        "itemId": "7261181185",
+        "title": "[BLACK NOVEMBER] [8/10] Classic Fish Autumn Winter New Men's Down Cotton Lightweight Jacket Jacket, European and American Simple Leisure Solid Color Cotton Coat BH9703 Non refundable and non exchangeable\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901508968008-2deb0000017453aefb0a0a20b7b9-unadjust_679_680.png",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708531204",
+          "name": "French fish",
+          "logo": "https://si.geilicdn.com/weidian1487675303-18ed00000179a1d9e6190a217216_1312_1312.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604314",
+        "mallType": "WD",
+        "itemId": "7457736303",
+        "title": "**",
+        "picUrl": "https://si.geilicdn.com/pcitem1754113913-4b770000019387ef6c9d0a2396f4_800_800.jpg",
+        "price": "¥423.00",
+        "toPrice": "$66.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614498093",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-0be40000019522797ea80a21146b-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603346",
+        "mallType": "TB",
+        "itemId": "972647330538",
+        "title": "American EVERLAST boxing Street Trendy Fashion corduroy function men's and women's double-sided jacket Outwear",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2219158770546/O1CN01quqyLn1Fu7L7nDKcy_!!4611686018427384690-0-item_pic.jpg",
+        "price": "¥429.00",
+        "toPrice": "$67.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "495726060",
+          "name": "EVERLAST旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2605283",
+        "mallType": "TB",
+        "itemId": "827672090021",
+        "title": "Andemar Official Men Outwear Autumn New arrival Running Fitness Training Sportswear Casual Windproof Woven jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2213229810617/O1CN0158fEh21GQdMYDgDdx_!!0-item_pic.jpg",
+        "price": "¥388.00",
+        "toPrice": "$61.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "339374632",
+          "name": "UNDERARMOUR安德玛幸运叶子专卖店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2608383",
+        "mallType": "WD",
+        "itemId": "7555287146",
+        "title": "冲锋夹克",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-1bee00000198a8c087ea0aa043f9_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791426493",
+          "name": "Next Level",
+          "logo": "https://si.geilicdn.com/wdseller1964328929-631c0000019896be1fbe0a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603547",
+        "mallType": "WD",
+        "itemId": "7563504345",
+        "title": "SHCP new fall and winter fashion versatile down jacket-005",
+        "picUrl": "https://si.geilicdn.com/pcitem901983308669-68b3000001991e147dcc0a239646_1750_1750.jpg",
+        "price": "¥549.00",
+        "toPrice": "$86.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1678116131",
+          "name": "Super-Factory",
+          "logo": "https://si.geilicdn.com/pcdecorate1984009210-4ae2000001999af7cae40a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2606983",
+        "mallType": "TB",
+        "itemId": "770919442712",
+        "title": "American Version 1990 Jacket with Inner Lining, Spring and Autumn Thickened Fleece Jacket, Three-In-One Detachable Warm Fleece Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2215770049820/O1CN01Bk2JI52MPcIQkTvsG_!!2215770049820.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "424401605",
+          "name": "凯旋设计店铺",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604172",
+        "mallType": "WD",
+        "itemId": "7550106462",
+        "title": "[DX38-1] LeatherJacketCoat",
+        "picUrl": "https://si.geilicdn.com/open1762039621-252808396-7df8000001979d3c79e60a8115c2_1066_1066.jpg",
+        "price": "¥274.00",
+        "toPrice": "$43.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794541533",
+          "name": "1:1A&amp;V",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604004",
+        "mallType": "WD",
+        "itemId": "7564049453",
+        "title": "LM01-High Quality Jacket-Down Jacket-WhatsApp +86 13256727890",
+        "picUrl": "https://si.geilicdn.com/open1622159709-252808396-623d0000019795768e050aa043be_1080_1080.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708273241",
+          "name": "Utopia Shopping",
+          "logo": "https://si.geilicdn.com/shopedit1845896993-7ae2000001990ad76a110a20e672-unadjust_702_702.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603347",
+        "mallType": "TB",
+        "itemId": "903135522955",
+        "title": "In Stock CARHARTT WIP OG SANTA FE JACKET Carhart SANTA FE JACKET 034825",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1022745158/O1CN01uODLJe1nyPx2R5uxM_!!1022745158.png",
+        "price": "¥1,049.00",
+        "toPrice": "$164.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "276993584",
+          "name": "蜂鸟代GO",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2812572",
+        "mallType": "WD",
+        "itemId": "7506488743",
+        "title": "Retro Half Zipper Hoodie Autumn/Winter New Style Men's and Women's Loose Pony Embroidered Long Sleeve Collar Hoodie - TOP",
+        "picUrl": "https://si.geilicdn.com/open1768478723-1234478995-22ec00000197f89b3fe30a23b491_900_900.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1768478723",
+          "name": "兴彬10",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3004485",
+        "mallType": "WD",
+        "itemId": "7601666460",
+        "title": "Cola's Pra Raindew Hemp Ready to Wear Washed Shirt Jacket (in stock, shipped within 7 days)",
+        "picUrl": "https://si.geilicdn.com/wdseller1939166533-16f00000019a6c1c45020a20e7c7_1290_1627.jpg",
+        "price": "¥398.00",
+        "toPrice": "$62.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3068381",
+        "mallType": "WD",
+        "itemId": "7553819438",
+        "title": "LL20033-L4",
+        "picUrl": "https://si.geilicdn.com/pcitem901991457653-234d000001995bbb13130a239846_2000_2000.jpg",
+        "price": "¥231.00",
+        "toPrice": "$36.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1775031533",
+          "name": "L3",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2586012",
+        "mallType": "T1688",
+        "itemId": "837297042541",
+        "title": "European station 2025 new printing hooded casual Slim jacket Qiantang 6618 Spring and Autumn Men's Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01uajcFP1KJXhC3XDbb_!!2216554891143-0-cib.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216554891143",
+          "name": "南和县一萱服装门市",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2578602",
+        "mallType": "WD",
+        "itemId": "7562379489",
+        "title": "G317 Ralph Classic Embroidered Logo Collar Executive Zipper Jacket/55, Ralph Lauren Original Cotton Classic Embroidered Logo Collar Executive Zipper Jacket, Perfect Craftsmanship Details, Complete Hangtag Accessories, Same Style for Men and Women",
+        "picUrl": "https://si.geilicdn.com/pcitem1224398227-0916000001999451a06d0a2102c5_1080_1080.jpg",
+        "price": "¥259.00",
+        "toPrice": "$40.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1224398227",
+          "name": "小麋鹿",
+          "logo": "https://si.geilicdn.com/wdseller1224398227-0a7b0000017221d1c1b20a21c2a7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2580615",
+        "mallType": "T1688",
+        "itemId": "858423285435",
+        "title": "Thug club星月铆钉金属拉链Bomber飞行夹克小众重磅棉服短宽外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01G11ZwB230uJQRAy8k_!!2213007237194-0-cib.jpg",
+        "price": "¥255.00",
+        "toPrice": "$40.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213007237194",
+          "name": "三亚崖州区傲铁升百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2585949",
+        "mallType": "T1688",
+        "itemId": "686061131372",
+        "title": "Pilot jacket men's jacket classic lapel winter thickened Alpha Martin tide leisure loose flight suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012xGmVu2FZ2zu9r4nD_!!2200723108893-0-cib.jpg",
+        "price": "¥176.00",
+        "toPrice": "$27.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2200723108893",
+          "name": "厦门玄凡豹贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2581085",
+        "mallType": "TB",
+        "itemId": "889347853237",
+        "title": "Lulu Alternative Single-Layer Jacket Spring Men's Casual Jacket Coat Men's Clothing - Mt028",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2209056624378/O1CN01BSRA5f1iDB0h60eAN_!!2209056624378.jpg",
+        "price": "¥102.00",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "367263080",
+          "name": "交个朋友外贸男装店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1378273",
+        "mallType": "WD",
+        "itemId": "7282026339",
+        "title": "【 Spot Delivery 】 HH/Original Triangle Brand Prada 24FW J97 Washed Used Workwear Cotton Jacket for Winter",
+        "picUrl": "https://cdn.findqc.com/item/20250601/mbcr6m36_t0qh.jpg",
+        "price": "¥439.00",
+        "toPrice": "$69.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1258568610",
+          "name": "Satan Made",
+          "logo": "https://si.geilicdn.com/wdseller1258568610-48150000018e4727cc280a8133ca_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 110,
+        "qcVideoCnt": 4,
+        "picWidth": "1170",
+        "picHeight": "1560"
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146400661914130873",
+  "language": "en"
+}

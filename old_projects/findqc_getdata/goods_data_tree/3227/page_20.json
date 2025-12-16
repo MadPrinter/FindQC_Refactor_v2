@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3061133",
+        "mallType": "WD",
+        "itemId": "7576231213",
+        "title": "Limited edition T-shirt in blue",
+        "picUrl": "https://si.geilicdn.com/pcitem1678115151-34b400000199f9b1af4e0a23041a_2134_2134.jpg",
+        "price": "¥259.00",
+        "toPrice": "$40.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1520364",
+        "mallType": "WD",
+        "itemId": "7458594323",
+        "title": "Colorful round neck T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250731/mdr68pmr_ez4m.jpg",
+        "price": "¥83.00",
+        "toPrice": "$13.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1831762514",
+          "name": "NEWDP",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3151983",
+        "mallType": "TB",
+        "itemId": "906311987294",
+        "title": "Black American-Style Regular Shoulder Short-Sleeve Summer T-Shirt for Slightly Chubby Men, Heavyweight Tummy-Covering T-Shirt, Pure Cotton Base Layer",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2095599905/O1CN01TswwFZ2N2Y4qTX0rL_!!4611686018427384097-0-item_pic.jpg",
+        "price": "¥39.03",
+        "toPrice": "$6.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110849277",
+          "name": "雅帝森旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3187173",
+        "mallType": "WD",
+        "itemId": "7612452628",
+        "title": "台州鸟家男女同款betajacket硬壳防水防风三层压胶户外运动冲锋衣",
+        "picUrl": "https://si.geilicdn.com/open1616862771-1616862771-10780000019a92d1c2670a22d249_799_1066.jpg",
+        "price": "¥294.00",
+        "toPrice": "$46.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616862771",
+          "name": "Trendy Space",
+          "logo": "https://si.geilicdn.com/pccreshp2004312742-59780000019a15529e330a81347d-unadjust_1200_1200.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2292076",
+        "mallType": "WD",
+        "itemId": "7490116317",
+        "title": "New Fashionable and Versatile Short Sleeves -014\n",
+        "picUrl": "https://si.geilicdn.com/open1783991630-1234478995-5b6600000197640b063b0aa043be_790_790.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1783991630",
+          "name": "TopMade",
+          "logo": "https://si.geilicdn.com/pcdecorate901983317115-2ae10000019975f20a240a20e284-unadjust_516_516.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1958045",
+        "mallType": "WD",
+        "itemId": "7401639238",
+        "title": "【 DX47 】 Trendy and Versatile Short Sleeves - Re",
+        "picUrl": "https://si.geilicdn.com/pcitem901933984914-41a50000019535c680f90a239646_300_300.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1402906147",
+          "name": "Reenos",
+          "logo": "https://si.geilicdn.com/shopedit1402906147-3c15000001953bad21720a20e7c7-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1812796",
+        "mallType": "TB",
+        "itemId": "901979919011",
+        "title": "【 Exclusive Stock 】 ERD 24FW Lake Green Ink Green Destruction Slogan Printed Short Sleeve T-shirt BOXY Version",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3162495111/O1CN01etQRNH1nctKtHOT4n_!!3162495111.jpg",
+        "price": "¥235.02",
+        "toPrice": "$36.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "383556858",
+          "name": "乌龙茶FDA",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1818057",
+        "mallType": "WD",
+        "itemId": "7462716023",
+        "title": "Short sleeved T-shirt fashionable pure cotton - C\n",
+        "picUrl": "https://si.geilicdn.com/open1850807833-1234478995-3bbc00000196b94890660aa0834c_924_919.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850807833",
+          "name": "Dupe&amp;Brand",
+          "logo": "https://si.geilicdn.com/shopedit1839305834-5e5100000196d4c108590a811411-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3187042",
+        "mallType": "T1688",
+        "itemId": "871509241856",
+        "title": "外贸批发明星同款潮牌爱心刺绣短袖纯棉红心情侣装T恤长衬衫卫衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0131f25R280ySXXIFUP_!!2218508327871-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218508327871",
+          "name": "义乌市巨耀服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3187032",
+        "mallType": "T1688",
+        "itemId": "897058446143",
+        "title": "正确版 明星同款川久潮牌pla爱心刺绣短袖纯棉红心眼睛情侣装T恤y",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WasFfS280yTQSR9yz_!!2218508327871-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218508327871",
+          "name": "义乌市巨耀服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1477308",
+        "mallType": "TB",
+        "itemId": "627630175149",
+        "title": "Gasp Fitness Short-Sleeve Men's Training T-Shirt Muscle Sports Squat Strength Slim Fit Top Elastic Print",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3704401267/O1CN012JBBIb1LEKWJKiWmj_!!3704401267.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "550071914",
+          "name": "毛睿战士运动服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3186202",
+        "mallType": "T1688",
+        "itemId": "783264951844",
+        "title": "跨境批发欧美潮牌amiri简约字母logo圆领卫衣情侣装长袖T恤连帽衫",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lFLWcD1f4WXOq4qZ2_!!2214425623953-0-cib.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217367370380",
+          "name": "佛山市南海区潮疯街贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1923606",
+        "mallType": "T1688",
+        "itemId": "889977072495",
+        "title": "22SS-Essentials Repeat Line Cotton Front and Back Flocked Print TEE",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ahdFFw214SAMP8paV_!!2219382536931-0-cib.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219382536931",
+          "name": "余姚市碧煜服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2110144",
+        "mallType": "T1688",
+        "itemId": "923855899817",
+        "title": "Summer Classic Polo Print Men's and Women's Short Sleeves Pu",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UrUmoK1e8MP7RxZbg_!!2219799713826-0-cib.jpg",
+        "price": "¥20.40",
+        "toPrice": "$3.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219799713826",
+          "name": "广州炎阳服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2501497",
+        "mallType": "WD",
+        "itemId": "7556694250",
+        "title": "Ni vest/pants/suit 8",
+        "picUrl": "https://si.geilicdn.com/pcitem1910531722-4338000001968fdba1fd0a81347d_1279_1706.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1619766589",
+          "name": "MVP1",
+          "logo": "https://si.geilicdn.com/shopedit1959948500-02fe000001997aabb2820a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2196166",
+        "mallType": "T1688",
+        "itemId": "898068660383",
+        "title": "High-quality cross-border Trapstar hip-hop printed cotton T-shirt men and women with the same loose letters casual short-sleeved summer",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01i2FMC01GA99bhZRXD_!!2219178440581-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219178440581",
+          "name": "东莞市清柒电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3185874",
+        "mallType": "T1688",
+        "itemId": "673264797707",
+        "title": "2025 Summer New Spot Trendy Brand Men's Pure Cotton Short-Sleeved Men's T-Shirt Round Neck Heart Printed Casual Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wdwvZz1JMulBsqB9V_!!2998231015-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTfK6e0zDYyn_W-qalqN7EA",
+          "name": "深圳市宝安区石岩梵翎希制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2838109",
+        "mallType": "T1688",
+        "itemId": "880937600818",
+        "title": "Cross-border 2025 New Neymar Football Direct Injection Printed Heavy Short-sleeved T-shirt Men's and Women's Cotton Small Collar T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0166hm421Yz8JtPqBGC_!!2217950923129-0-cib.jpg",
+        "price": "¥53.90",
+        "toPrice": "$8.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzh6e3H9qHLxRLA-NBLSYRA",
+          "name": "广州反自服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2357130",
+        "mallType": "TB",
+        "itemId": "973375118887",
+        "title": "Playboi Carti Collaboration Tee T-Shirt T-Shirt Trendy Rap Short t Trendy Rap",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/865990972/O1CN01nnpqwR1J3E429KXtH_!!865990972.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72645513",
+          "name": "WEME BUENO线上商店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2661120",
+        "mallType": "T1688",
+        "itemId": "969503917634",
+        "title": "PRO运动紧身衣长袖男T恤高弹健身教练服速干透气篮球跑步训练上衣",
+        "picUrl": "https://cdn.findqc.com/item/20251029/mhbdagjt_43i3.jpg",
+        "price": "¥11.00",
+        "toPrice": "$1.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwe9vBOHJaltbtJIvqKBh0w",
+          "name": "东莞市南城津泽服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 5
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140515612553907329",
+  "language": "en"
+}

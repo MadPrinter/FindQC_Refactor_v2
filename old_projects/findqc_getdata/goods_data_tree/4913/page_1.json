@@ -1,0 +1,559 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2586273",
+        "mallType": "T1688",
+        "itemId": "703898425283",
+        "title": "Cross-border Hot Sale Solid Color Wide-brimmed Stretch Adult Nightcap Men's and Women's Fashion Hair Care Beauty Shower Cap Sade Chemotherapy Cap",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Hz81Fg1xSUKy7hqBY_!!2208249856442-0-cib.jpg",
+        "price": "¥3.10",
+        "toPrice": "$0.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBj84ck8sHU7cAny5f0XzutA",
+          "name": "义乌市穆斯服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 81,
+        "qcVideoCnt": 7
+      },
+      {
+        "id": "2874606",
+        "mallType": "TB",
+        "itemId": "774020685425",
+        "title": "Free shipping nightcap shower cap women solid color shower cap fashionable satin wide edge nightcap women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2208390300034/O1CN016LOsFe1C7cOz2M9Ih_!!2208390300034.jpg",
+        "price": "¥9.27",
+        "toPrice": "$1.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "557679008",
+          "name": "Your design",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2710994",
+        "mallType": "WD",
+        "itemId": "7533139144",
+        "title": "Minimalist Seven Color Are Sports Hip Hop Cold Hat",
+        "picUrl": "https://si.geilicdn.com/pcitem1941018259-5e2a00000198d794c6440a239646-unadjust_1242_1074.png",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1875944813",
+          "name": "Dragon",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2384715",
+        "mallType": "T1688",
+        "itemId": "959937069255",
+        "title": "2024 fall and winter new spot L family hat hundred with cold cap knitted cap embroidery warm bird family hat wool cap",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fcwjC51ziBKmtNjDx_!!2218979346747-0-cib.jpg",
+        "price": "¥14.00",
+        "toPrice": "$2.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218979346747",
+          "name": "义乌市麦董电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2212790",
+        "mallType": "T1688",
+        "itemId": "937387573059",
+        "title": "2025 Hip-Hop Trendy Letter Print Men's and Women's Spring and Autumn Warm Adult Hats Wholesale Men's and Women's Casual Fashion Cross-Border",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01au10K22FFofZ1HZB3_!!2214146128851-0-cib.jpg",
+        "price": "¥18.90",
+        "toPrice": "$2.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBh6TRa2ddbHkjpAom5XbJOw",
+          "name": "中山市创纪电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 82,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2116931",
+        "mallType": "T1688",
+        "itemId": "895776962381",
+        "title": "Amazon Y2K Personality Graffiti Black and White Hat Cross-border INS Independent Station Wholesale Warm Four Seasons Universal",
+        "picUrl": "https://cdn.findqc.com/item/20250817/meelb1c6_d6yl.jpg",
+        "price": "¥19.86",
+        "toPrice": "$3.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-gCCA0MAhoIKurKPaoYv7g",
+          "name": "中山市玛卡巴卡电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 125,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2252287",
+        "mallType": "TB",
+        "itemId": "963960934054",
+        "title": "CRTZStarz seven color Are sports hip hop cold cap",
+        "picUrl": "https://cdn.findqc.com/item/20250829/mevt4p6f_q439.jpg",
+        "price": "¥102.60",
+        "toPrice": "$16.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "447969573",
+          "name": "Rep reps",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390350",
+        "mallType": "T1688",
+        "itemId": "617483297315",
+        "title": "Europe and the United States classic solid color shower cap adult cross-border hot fashion satin wide-brimmed sleeping cap ladies chemotherapy hair care",
+        "picUrl": "https://cdn.findqc.com/item/20241226/m543lj1o_cewi.jpg",
+        "price": "¥2.27",
+        "toPrice": "$0.36",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "253288",
+        "mallType": "WD",
+        "itemId": "7240153681",
+        "title": "Minimalist Seven Color Are Sports Hip Hop Cold Hat",
+        "picUrl": "https://cdn.findqc.com/item/20241127/m3ysfjir_kv1a.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704512009",
+          "name": "微小店",
+          "logo": "https://si.geilicdn.com/wdseller1808630503-24340000018ec283e2b90a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 57,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205084",
+        "mallType": "TB",
+        "itemId": "545430238459",
+        "title": "Silicone swimming cap for men and women applicable micro defective products special price processing national 28 yuan from shipping",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ouzkk_7dz0.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "150761401",
+          "name": "意鑫户外运动产品",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182177",
+        "mallType": "TB",
+        "itemId": "815284220097",
+        "title": "Micha beanie personalized knit cold hat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr1f62_1evz.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "175337",
+        "mallType": "TB",
+        "itemId": "814867511551",
+        "title": "CRTZStarz Seven Color Are Sports Hip Hop Cold Hat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq2o1t_lmmb.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "476776567",
+          "name": "十三行尾单清仓",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 158,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "52251",
+        "mallType": "T1688",
+        "itemId": "811920345941",
+        "title": "2024 new seven batch wolf jacquard cap popular wool cap outdoor sports trend cool running cross-border knitted hat",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nn4wv6_jkvl.jpg",
+        "price": "¥5.90",
+        "toPrice": "$0.93",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "51378",
+        "mallType": "T1688",
+        "itemId": "718209073002",
+        "title": "Cross-border sourcing satin sleeping cap hair care shower cap wide-brimmed thin section of high elasticity chemotherapy women's hair care cap satin beauty",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mh774q_8j50.jpg",
+        "price": "¥1.98",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "50542",
+        "mallType": "TB",
+        "itemId": "740016009503",
+        "title": "Reflective Light Version Red and Black Hood",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgxtod_tl1g.jpg",
+        "price": "¥36.27",
+        "toPrice": "$5.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "238602113",
+          "name": "CNDISLAND",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "27507",
+        "mallType": "T1688",
+        "itemId": "590296461346",
+        "title": "Amazon Hot Stock Oversized Satin Round Hat Stretchy Wide-Brimmed Sleeping Hat Chemotherapy Hat TJM-405A",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3niq0zn_g900.jpg",
+        "price": "¥4.80",
+        "toPrice": "$0.75",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "22883",
+        "mallType": "TB",
+        "itemId": "745772070101",
+        "title": "La Laoma lower right color centaur logo 11 color knit cap sharp",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nhurws_sw03.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16794",
+        "mallType": "T1688",
+        "itemId": "619402617496",
+        "title": "Amazon hot sale silk breathable bottom wig cap dome cap wide brim elastic round cap wave cap",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nelxua_3l7r.jpg",
+        "price": "¥2.28",
+        "toPrice": "$0.36",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147418181911106199",
+  "language": "en"
+}

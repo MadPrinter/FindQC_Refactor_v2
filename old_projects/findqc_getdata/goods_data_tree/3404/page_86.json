@@ -1,0 +1,359 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3103649",
+        "mallType": "TB",
+        "itemId": "770581555384",
+        "title": "Gallery Dept French Gray Basic French American High Street Zipper Sweatshirt Hoodie Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/771059074/O1CN011OIqWO2GtwvD5GI4a_!!771059074.jpg",
+        "price": "¥435.79",
+        "toPrice": "$68.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70152127",
+          "name": "CDIARY HOMME",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2732774",
+        "mallType": "TB",
+        "itemId": "921473701880",
+        "title": "Ss22 Round Neck Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/322524793/O1CN01zPZh1O1lHFOhkgPCE_!!322524793.jpg",
+        "price": "¥88.79",
+        "toPrice": "$13.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60023852",
+          "name": "富贵潮哥哥",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1157039",
+        "mallType": "WD",
+        "itemId": "7390943553",
+        "title": "NiK joint technology open top hooded sport",
+        "picUrl": "https://si.geilicdn.com/open1155015821-1234478995-713d00000195130bf3580aa08290_1440_1920.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1155015821",
+          "name": "kmns order boy",
+          "logo": "https://si.geilicdn.com/wdseller1155015821-549000000195b0361e5c0a23038e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 193,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1358242",
+        "mallType": "T1688",
+        "itemId": "895769738980",
+        "title": "25 spring and autumn men's and women's new pull home Paul pony logo half zipper pullover stand collar long sleeve knitted sweater lovers",
+        "picUrl": "https://cdn.findqc.com/item/20250518/mat9tdiy_q3g5.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB302Gev0uEdxSZnDFyYdXTA",
+          "name": "即墨区尚美达服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 234,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "45675",
+        "mallType": "T1688",
+        "itemId": "694118916115",
+        "title": "2022FW Hooded Sweat Letter Flocking ESSENTIALS Trendy Brand Cross-border Hot Selling Loose Men",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3meqya3_5z3m.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWJpAX1Ml7oscoB2p4HVoAg",
+          "name": "宁波市鄞州钟公庙宜山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 506,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "401630",
+        "mallType": "T1688",
+        "itemId": "682424909755",
+        "title": "DSQ LIAN D2 AliExpress Amazon cross-border foreign trade network for men's clothing DSQUARED2",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1cjy6z_5zbg.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhvfgbHoccYf_jeZzJyg-Nw",
+          "name": "广州誉民服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1358005",
+        "mallType": "TB",
+        "itemId": "874634236890",
+        "title": "Autumn and Winter Men's New Zippered Pure Cotton Velvet Sweatshirt Versatile Pony Logo Embroidered Jacket Hooded Cardigan Long Sleeves",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2244906393/O1CN01EFxswF1x634gikYMC_!!2244906393.jpg",
+        "price": "¥121.89",
+        "toPrice": "$19.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "398963573",
+          "name": "好运来外贸服饰店",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "276355",
+        "mallType": "WD",
+        "itemId": "7312643845",
+        "title": "High quality hoodies and sweatshirts",
+        "picUrl": "https://cdn.findqc.com/item/20241201/m44xsb14_br4d.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1754045653",
+          "name": "Chinese Factory",
+          "logo": "https://si.geilicdn.com/shopedit1902740711-0e000000019367eb1e490a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 209,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1917161",
+        "mallType": "WD",
+        "itemId": "7517886722",
+        "title": "American Retro Washed Distressed Jeans for Men Loose Straight Street ins Style High Street Letters Casual Jeans Trend",
+        "picUrl": "https://cdn.findqc.com/item/20250930/mg6qmyfd_rw6i.jpg",
+        "price": "¥134.30",
+        "toPrice": "$21.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784936349",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1966097",
+        "mallType": "T1688",
+        "itemId": "932710788766",
+        "title": "Correct Version of 25 Spring & Fall New Fog Multi-Thread Joint Team Series Pullover Hooded Flocking Sweatshirt for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01JnIumA1PFwjadGpWZ_!!2219913091812-0-cib.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8D4_sYgy6ibKUDgzm97T-A",
+          "name": "广州吉彦国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2327480",
+        "mallType": "TB",
+        "itemId": "959948656535",
+        "title": "Erd Melancholic Rich Second-Generation Zipper Patchwork Distressed Portrait Hoodie for Men and Women Trendy",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1758116570/O1CN01RKAqnG1yP7EXT4BQb~crop,99,0,600,800~_!!1758116570.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105529592",
+          "name": "阿三阿四",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3101955",
+        "mallType": "TB",
+        "itemId": "846290999435",
+        "title": "Grailz American High Street Band Two-In-One Detachable Gloves Hooded Sweatshirt Unisex Jacket Trendy Brand",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2292743663/O1CN01ts1ZWW1cvhn04mnfv_!!2292743663.jpg",
+        "price": "¥220.50",
+        "toPrice": "$34.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "594279159",
+          "name": "Boboo studios",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3101878",
+        "mallType": "TB",
+        "itemId": "756851785465",
+        "title": "Authentic Nike Men's Embroidered Fleece-Lined Warm Sports Casual Hooded Pullover Sweatshirt 623453-063",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3288641669/O1CN01Vek2Mo1OCRxjyxSgc_!!3288641669.jpg",
+        "price": "¥126.71",
+        "toPrice": "$19.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "593134696",
+          "name": "老井运动 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533320",
+        "mallType": "T1688",
+        "itemId": "919770348662",
+        "title": "High-Quality Cross-Border Trade Rl Basic Solid Color Pony Logo Embroidered Casual Sweatshirt Pullover Jacket for Men and Women with Hood",
+        "picUrl": "https://cdn.findqc.com/item/20251001/mg722mgt_vf4s.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBeR-M-ohrboakQHjgwrtwPA",
+          "name": "常熟市川奕锦贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 328,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "141384",
+        "mallType": "T1688",
+        "itemId": "729897332462",
+        "title": "FOG Double Line Letter Hooded Sweater European and American High Street Trendy Brand Loose Long Sleeve Knitted Sweater Warm Sweater Jacket for Men",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpkruv_2j55.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXt1DvseXCoyfDKtEKlIgIQ",
+          "name": "广州继德商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1869259",
+        "mallType": "T1688",
+        "itemId": "921331638086",
+        "title": "Trendy Spring and Autumn New Style Correct Version m Plus Classic Versatile Embroidered Badge Long Sleeve Sweatshirt Unisex Casual Loose Fit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DjqnWR2NboZGoCkGy_!!2219427089982-0-cib.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhZxqA1O0We25idQuAINSNA",
+          "name": "广州星瑞熊跨境贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 265,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3094022",
+        "mallType": "T1688",
+        "itemId": "745329277164",
+        "title": "Foreign Trade Hooded Sweatshirt Classic Mountain Logo Casual Long-Sleeved Jacket for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IvEUfB1IOv0sN0cib_!!2215456940884-0-cib.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBv5CsqVOEK_a6szdGxy_VAw",
+          "name": "广州晶鑫供应链管理有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1848883",
+        "mallType": "T1688",
+        "itemId": "832074814555",
+        "title": "Foreign Trade European and American Trendy Brand Three-Dimensional Letter Classic Style Autumn and Winter Fleece-Lined Loose Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250726/mdjbwt70_tbjp.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9QjhMNhqpR2o7uKu5RpcEg",
+          "name": "佛山市禅城区尚九潮流时装店",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 524,
+        "qcVideoCnt": 2,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "48411",
+        "mallType": "TB",
+        "itemId": "822537495640",
+        "title": "Subway Hooligan E550 Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgadx4_ahx5.jpg",
+        "price": "¥265.07",
+        "toPrice": "$41.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 283,
+        "qcVideoCnt": 3
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114233222194363918",
+  "language": "en"
+}

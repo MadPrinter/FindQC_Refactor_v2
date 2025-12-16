@@ -1,0 +1,631 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2223544",
+        "mallType": "TB",
+        "itemId": "831638432430",
+        "title": "Suitable for Apple Pencil, capacitive pen, Apple Pencil, second-generation iPad 11, stylus, 10th generation Air6 Pencil, touch sensitive iPad Pro tablet, iPad Pencil touch screen\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2207290559984/O1CN01drSuep2NcjPrvDIUQ_!!4611686018427383280-0-item_pic.jpg",
+        "price": "¥98.15",
+        "toPrice": "$15.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "226460002",
+          "name": "伽克斯数码专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3177915",
+        "mallType": "WD",
+        "itemId": "7224624567",
+        "title": " 2代",
+        "picUrl": "https://si.geilicdn.com/pcitem1829592427-0f3a0000018df8e639210a2313a2_693_837.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1773830057",
+          "name": "Brand factory",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2760325",
+        "mallType": "TB",
+        "itemId": "760461841846",
+        "title": "2024 New arrival USB-C third generation iPad pencil handwriting stylus for Apple tablet capacitive pen",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3247468821/O1CN01QhgTcs2F24buiPTLr_!!3247468821.jpg",
+        "price": "¥142.08",
+        "toPrice": "$22.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "205442784",
+          "name": "远航数码专业店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "696379",
+        "mallType": "WD",
+        "itemId": "6784122404",
+        "title": "2nd generation pen",
+        "picUrl": "https://cdn.findqc.com/item/20250731/mdr8dwag_8rnf.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834819569",
+          "name": "Digital store",
+          "logo": "https://si.geilicdn.com/pcdecorate1807659364-17c200000190168472c60a23038e-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1198304",
+        "mallType": "T1688",
+        "itemId": "891710039291",
+        "title": "Huaqiangbei fourth generation Pro pen is suitable for Apple Pencil, first, second, and third generation handwriting pens, tablet pens, capacitive touch pens",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UKTVsZ2B3DFk5fU3i_!!2217594108282-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB96mFcHSrGopMYQW7RQZw5g",
+          "name": "深圳市福田区新创宇数码商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 54,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "511624",
+        "mallType": "WD",
+        "itemId": "6763581072",
+        "title": "Pen 2🖊️ non-quality problems do not support no reason to return or exchange goods Before ordering, please note the color, model number, specifications",
+        "picUrl": "https://si.geilicdn.com/wdseller1799811745-68920000018b6884409a0a813470_800_800.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802156977",
+          "name": "Rock Cat Store",
+          "logo": "https://si.geilicdn.com/wdseller1799811745-03320000019052d497520a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2239880",
+        "mallType": "T1688",
+        "itemId": "727703182619",
+        "title": "iPad触控笔适用平替苹果Apple Pencil 一代 二代绘画华强北电容笔",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01E59EMc1ll0wXLMqkS_!!2214775964858-0-cib.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214775964858",
+          "name": "深圳市艾联电子有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1655264",
+        "mallType": "T1688",
+        "itemId": "782404742995",
+        "title": "Suitable for Apple Capacitive Pen, Ipad-Specific Touch Screen Pen, Third-Generation Upgraded Magnetic Charging, Anti-Accidental Touch, Bluetooth Stylus",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhccftb3_ecb5.jpg",
+        "price": "¥12.80",
+        "toPrice": "$2.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXXnDudB4aHgm8EiMkBaGZQ",
+          "name": "深圳市程安创新科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2098270",
+        "mallType": "T1688",
+        "itemId": "595522734788",
+        "title": "3DSXL Touch Pen Boss III Stylus 3DSLL Nintendo Game Boy Resistive Screen Navigation Plastic Pen",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01u04Duh28Xwg3Q4g57_!!994417943-0-cib.jpg",
+        "price": "¥0.15",
+        "toPrice": "$0.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "994417943",
+          "name": "深圳市中裕宏电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1562366",
+        "mallType": "T1688",
+        "itemId": "727060572824",
+        "title": "Magnetic Charging iPad Capacitive Pen Suitable for Apple Second Generation Pen Apple Pencil Stylus Painting Stylus",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh5twksc_gaqq.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbHSD2mVrncsxlJFz5Tde5A",
+          "name": "深圳市福田区嘉源发电子商行",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1618373",
+        "mallType": "T1688",
+        "itemId": "803103196558",
+        "title": "Spot universal models capacitive pen stylus Huawei tablet stylus for Apple and Android cell phone stylus",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000005353/O1CN01omboZf1pPj9dfIHM5_!!6000000005353-0-tbvideo.jpg",
+        "price": "¥9.80",
+        "toPrice": "$1.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217841920795",
+          "name": "隆回辉源电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1618370",
+        "mallType": "T1688",
+        "itemId": "943375099355",
+        "title": "For Android Huawei capacitive pen cell phone stylus universal Apple stylus magnetic adsorption stylus wholesale",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000002151/O1CN01Uhxi2n1RlCzmFFmtL_!!6000000002151-0-tbvideo.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219808958774",
+          "name": "东莞市瀚庆科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2074692",
+        "mallType": "T1688",
+        "itemId": "912009255982",
+        "title": "Magnetic Charging Is Suitable for Apple iPad Pencil First Generation, Second Generation, Third Generation and Fourth Generation Pro Capacitive Stylus",
+        "picUrl": "https://cdn.findqc.com/item/20250812/me8fv2m6_y5mr.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbJbVJcomz1yZvMR80NaIDg",
+          "name": "深圳市福田区兴维盛电子经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67348",
+        "mallType": "T1688",
+        "itemId": "713431254578",
+        "title": "Universal active capacitive pen for apple pen ipadpencil tablet touch screen stylus stylus wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlwrpn_ztq3.jpg",
+        "price": "¥14.99",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1568434",
+        "mallType": "WD",
+        "itemId": "7032786829",
+        "title": "Aple Pencil, Original packaging, L: 18 * 5CM, non quality issues, non refundable and non exchangeable",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mcghp0to_0193.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1842760073",
+          "name": "YM Store",
+          "logo": "https://si.geilicdn.com/wdseller1812657741-5b590000019552a48fdf0a2395a3_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1281295",
+        "mallType": "WD",
+        "itemId": "7068576754",
+        "title": "pen,cil,2nd/pen,cil(usb-c)3nd",
+        "picUrl": "https://cdn.findqc.com/item/20250501/ma46phjs_t3vy.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1644274849",
+          "name": "Hello apple",
+          "logo": "https://si.geilicdn.com/pcdecorate1771223853-30280000018cb4bb04320a2313c4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "577339",
+        "mallType": "WD",
+        "itemId": "6812745754",
+        "title": "1:1  pencil 2 Stylus Pen For Display iPad Pencil",
+        "picUrl": "https://cdn.findqc.com/item/20250123/m687ao2j_pv4v.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1817341169",
+          "name": "Taolami",
+          "logo": "https://si.geilicdn.com/wdseller161287346-2eea0000018b45688fc00a22d1c8_300_300.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "426378",
+        "mallType": "WD",
+        "itemId": "6716751448",
+        "title": "Pencil 2 top",
+        "picUrl": "https://cdn.findqc.com/item/20250128/m6gjka81_zf5z.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "227764523",
+          "name": "electronic store",
+          "logo": "https://si.geilicdn.com/shopedit227764523-0122000001921dc7c7410a239646-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "65099",
+        "mallType": "WD",
+        "itemId": "7229143340",
+        "title": "Aple Pencil 2nd,L 18 * 5CM non-quality problem no refund or exchange",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjzljn_f56q.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1875545129",
+          "name": "Electronics Shop",
+          "logo": "https://si.geilicdn.com/shopedit1822945068-2cec0000018e41a42c340a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "53167",
+        "mallType": "T1688",
+        "itemId": "610528784324",
+        "title": "Specializing in the production of 3dsxl plastic stylus pen Nintendo game stylus pen GPS navigation Pen Industrial screen stylus pen",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3no4pfm_lszi.jpg",
+        "price": "¥0.15",
+        "toPrice": "$0.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJ6AEzAokACGoxxLVhLDt5g",
+          "name": "深圳市豪运鑫科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143571202553927409",
+  "language": "en"
+}

@@ -1,0 +1,585 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3169799",
+        "mallType": "WD",
+        "itemId": "7539372861",
+        "title": "《一次性产品》安大妈翻领速干长袖！厂家库存积压多年，不能洗！面料洗他会烂，所以只能穿一天两天丢掉！适应各种场景应用！全新包装，三标齐全，质量一流！不退不换，不能接受的朋友绕道哈，看个人用途哈",
+        "picUrl": "https://si.geilicdn.com/weidian167926830-4fcd00000199082e2ec10a21146b_1728_2304.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "167926830",
+          "name": "豪门体育发烧友俱乐部",
+          "logo": "https://si.geilicdn.com/bj-vshop-167926830-1538285153287-1564406060_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2490687",
+        "mallType": "TB",
+        "itemId": "979217474468",
+        "title": "Mvt Jeans",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg43raqh_s16y.jpg",
+        "price": "¥339.22",
+        "toPrice": "$53.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "236556112",
+          "name": "MVT",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2403306",
+        "mallType": "T1688",
+        "itemId": "965183853285",
+        "title": "跨境冰丝运动外套男士春秋季防晒薄款防风连帽速干透气拉链外套潮",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Xwc68F27v1MpnYXMO_!!2217106367858-0-cib.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBMlFtZ411CqfM1mjZmEddCg",
+          "name": "广州战地服装贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1240392",
+        "mallType": "WD",
+        "itemId": "7243863152",
+        "title": "European full print men's lapel short sleeved polo set",
+        "picUrl": "https://si.geilicdn.com/wdseller1452235621-4ebf000001900a760bb80a20e284_1280_960.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1872163848",
+          "name": "Toppanda",
+          "logo": "https://si.geilicdn.com/wdseller1452235621-5feb000001900af719320a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 133,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "646053",
+        "mallType": "T1688",
+        "itemId": "827653497553",
+        "title": "Sports Jacket, Outdoor Jacket, Men's Zipper, Windproof, Waterproof, Breathable Jacket, Windbreaker, Cycling and Mountaineering Clothing for Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HY60DR1Sdi6wEhvOl_!!2217899822270-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFK_CPjdM9ikEap7FZdD5Ww",
+          "name": "广州安耐运动服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 146,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2895684",
+        "mallType": "TB",
+        "itemId": "824915894279",
+        "title": "Nike/Nike Dri FIT Men's Running Training Quick Drying Breathable Jacket DQ4756-206",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjuvy15_2w2h.jpg",
+        "price": "¥240.46",
+        "toPrice": "$37.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105917002",
+          "name": "强扭的瓜体育运动正品店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1484316",
+        "mallType": "WD",
+        "itemId": "7480325507",
+        "title": "Cocoa balaclava mask with box",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mchs3ne9_3ymk.jpg",
+        "price": "¥37.00",
+        "toPrice": "$5.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1847561709",
+          "name": "Highstreet CND ISLAND",
+          "logo": "https://si.geilicdn.com/wdseller1575136538-7c5400000195f1126c630a23057e_1242_1245.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 352,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "2080348",
+        "mallType": "WD",
+        "itemId": "7255092338",
+        "title": "Men's Spring and Autumn Knitted Sweater Women's",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgn29jny_sokw.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1872163848",
+          "name": "Toppanda",
+          "logo": "https://si.geilicdn.com/wdseller1452235621-5feb000001900af719320a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2074306",
+        "mallType": "T1688",
+        "itemId": "959460159098",
+        "title": "2025跨境新款某同款速干长袖防晒立领户外运动休闲男士透气防晒服",
+        "picUrl": "https://cdn.findqc.com/item/20251001/mg6y8wqx_59gy.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_pwgSUOzaYhNAt56-jui7w",
+          "name": "广州珍品阁服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 131,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2221352",
+        "mallType": "TB",
+        "itemId": "961598851827",
+        "title": "Spring and Autumn Zip-Up Cardigan Vest for Men, Large Size, Loose Fit, Sleeveless Cotton Sweatshirt, Stand Collar, Embroidered Logo, Men's Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250828/mev3c68t_j8vz.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "511369322",
+          "name": "时尚服饰888",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "542314",
+        "mallType": "WD",
+        "itemId": "7316937839",
+        "title": "Aloyoga casual sports long sleeved men's autumn and winter thin velvet half zipper stand up collar top outdoor fitness running warm pullover",
+        "picUrl": "https://cdn.findqc.com/item/20250119/m63l848l_xj84.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735969156",
+          "name": "AlOyogo",
+          "logo": "https://si.geilicdn.com/wdseller1489596767-6147000001910f7bd61c0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2119",
+        "mallType": "WD",
+        "itemId": "5636401198",
+        "title": "1963 stand up collar half zipper sports men's fitness long sleeved T-shirt base shirt!!",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2rumc_xb1x.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648679456",
+          "name": "萌萌出品（全店包邮 一件代发）",
+          "logo": "https://si.geilicdn.com/wdseller1420898802-23160000017a7cd73d650a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 167,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1693633",
+        "mallType": "WD",
+        "itemId": "7217090200",
+        "title": "M Family Classic Belt unisex versatile two-layer cowhide M letter buckle double-sided waist belt needle buckle belt",
+        "picUrl": "https://cdn.findqc.com/item/20250710/mcwhm3rw_x9fm.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1774183465",
+          "name": "Lucky Star",
+          "logo": "https://si.geilicdn.com/shopedit1822286743-013f0000019904b5e4db0a210139-unadjust_749_749.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "702449",
+        "mallType": "WD",
+        "itemId": "7286533951",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20250203/m6oate57_ledf.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1628294393",
+          "name": "LLL",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-41c30000018f93b4a0620a22d172-unadjust_604_604.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "118306",
+        "mallType": "TB",
+        "itemId": "836885065452",
+        "title": "New golf clothing men's autumn long-sleeved T-shirt solid color simple sports polo shirt golf clothes men's tops",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mo1jnk_zyux.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "58952",
+        "mallType": "TB",
+        "itemId": "687547573001",
+        "title": "Talorae TaylorMade Gault Clothing Long Sleeve Autumn Wind Jacket yMd Taylorcraft Clothing Men's Winter Casual Sports Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqqsk1_69o9.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "28471",
+        "mallType": "TB",
+        "itemId": "755808924052",
+        "title": "New Autumn and Winter Reflective Half-Zip Long-Sleeve Sports Training Jacket, Base Layer Style, Quick-Drying Breathable Sweatshirt, Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nizgln_jwi7.jpg",
+        "price": "¥50.55",
+        "toPrice": "$7.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109959995",
+          "name": "火爆男装服饰",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "11479",
+        "mallType": "TB",
+        "itemId": "724887220778",
+        "title": "badblood American vintage square shoulder polo shirt short sleeve t-shirt women black chic short Spice Girls tops slimming",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbokrz_u8pk.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "categoryId": 36,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114632282194366990",
+  "language": "en"
+}

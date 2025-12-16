@@ -1,0 +1,372 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2458826",
+        "mallType": "WD",
+        "itemId": "7542888106",
+        "title": "Fashion sweater",
+        "picUrl": "https://si.geilicdn.com/wdseller1580621215-637000000198611a98ac0a23041a_900_900.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785157187",
+          "name": "Island C",
+          "logo": "https://si.geilicdn.com/shopedit1977614934-36d600000198ef3b4f0a0a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2085247",
+        "mallType": "WD",
+        "itemId": "7315034719",
+        "title": "High Street's new color blocked checkered square letter pattern unisex knitted sweater C-a-s-a-Sweater",
+        "picUrl": "https://si.geilicdn.com/pcitem1788880988-29f900000193909e70690a23111a_1080_1080.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629391697",
+          "name": "RepTigerSupply",
+          "logo": "https://si.geilicdn.com/weidian1788880988-2ebf000001937ca639f50a23038e_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 296,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1406850",
+        "mallType": "T1688",
+        "itemId": "859208279732",
+        "title": "Cross border warm knit round neck pullover sweater for autumn and winter in Europe and America, hip-hop high street fashion, suitable for men and women, wholesale for foreign trade\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qBww6s1neGUq3mdsN_!!2217804805114-0-cib.jpg",
+        "price": "¥62.99",
+        "toPrice": "$9.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPFKciTKd6g4PTkvU3Xgjdg",
+          "name": "佛山江思电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "867404",
+        "mallType": "T1688",
+        "itemId": "853623924909",
+        "title": "2025 Autumn/Winter New Heavy Industry Pentagram Embroidered Stripe National Flag Hoodie Round Neck Knitted Women's Sweater Women's Style\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ejz6Sf24aSfUNMtb7_!!2215510567407-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpCHXhZxRZ-pZq01ojJzoYg",
+          "name": "东莞市大朗小林源头服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2432803",
+        "mallType": "T1688",
+        "itemId": "905724858018",
+        "title": "Fall/winter 25 new cotton heavy industry cartoon bear crew neck sweater long sleeve college age-reducing Joker sweater women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vmPcIu24aShmmEIWH_!!2215510567407-0-cib.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpCHXhZxRZ-pZq01ojJzoYg",
+          "name": "东莞市大朗小林源头服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2264465",
+        "mallType": "T1688",
+        "itemId": "936919086142",
+        "title": "Winter new signature letters loose soft mohair black knit sweater lazy wind sweater tops for men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012Lsrq22JPDEL58b3E_!!2219884049413-0-cib.jpg",
+        "price": "¥140.10",
+        "toPrice": "$22.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219884049413",
+          "name": "惠州市绪芊商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2258789",
+        "mallType": "T1688",
+        "itemId": "939498690606",
+        "title": "Original label high version donkey home heavyweight double-sided applique logo blended wool yarn round neck wool men and women sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AhBuXb1TaKpY2GR3e_!!2218308812398-0-cib.jpg",
+        "price": "¥330.00",
+        "toPrice": "$51.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218308812398",
+          "name": "广州俊兴服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1033056",
+        "mallType": "WD",
+        "itemId": "7316054758",
+        "title": "2024 Winter New Signature Letter Loose Soft Glutinous Mohair Black Knitted Sweater Lazy Style Sweater Top for Men and Women",
+        "picUrl": "https://si.geilicdn.com/open1629391697-1234478995-608b00000193908b74750a210298_900_900.jpg",
+        "price": "¥172.50",
+        "toPrice": "$27.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629391697",
+          "name": "RepTigerSupply",
+          "logo": "https://si.geilicdn.com/weidian1788880988-2ebf000001937ca639f50a23038e_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 438,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "702294",
+        "mallType": "WD",
+        "itemId": "7354443687",
+        "title": "YL mohair letter jacquard long sleeved sweater",
+        "picUrl": "https://si.geilicdn.com/pcitem1274399453-367c000001944a05c3ba0a230115_1280_1920.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274399453",
+          "name": "CNMADE",
+          "logo": "https://si.geilicdn.com/pcdecorate1274399453-60fc00000193491051590a23037f-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2071108",
+        "mallType": "TB",
+        "itemId": "932543422696",
+        "title": "Women's Sweater R*L Pure Cotton 2025 Early Spring Bear Knitwear",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2209028833254/O1CN01gND2xr1ZuNrIqGfyb_!!2209028833254.jpg",
+        "price": "¥149.54",
+        "toPrice": "$23.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "536960718",
+          "name": "童欣艺",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2066711",
+        "mallType": "T1688",
+        "itemId": "900682246330",
+        "title": "Cross border Ins American Love Jacquard Knitted Long Sleeve Am * Sweater Men's and Women's Autumn/Winter Couple's Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01v0V8UE1heMuw2c5DA_!!2218266314302-0-cib.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBL81wpaFiF6Fs5kQhkhno_w",
+          "name": "广州潮疯街国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2065028",
+        "mallType": "T1688",
+        "itemId": "761819651669",
+        "title": "Wholesale Classic Off Sweater Long Coatow Tide Gradient Arrow Mohair Knit Sweater Wool Couple's Clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015SItdZ1f4WR2YnWJS_!!2214425623953-0-cib.jpg",
+        "price": "¥109.90",
+        "toPrice": "$17.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216043880023",
+          "name": "广州市深夜电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1905695",
+        "mallType": "T1688",
+        "itemId": "942617591151",
+        "title": "AMI love jacquard cloud knit sweater cashmere blend round neck sweater winter casual versatile couple models tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bc1jsc1LCxh3xMlV0_!!2216954621264-0-cib.jpg",
+        "price": "¥92.00",
+        "toPrice": "$14.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216954621264",
+          "name": "佛山市南海区卡曼尼诗服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1905692",
+        "mallType": "T1688",
+        "itemId": "944948713732",
+        "title": "AMI macaron color love jacquard sweater cotton yarn paragraph pullover round neck knit sweater winter casual couple tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DymFjA1LCxh8u9AjQ_!!2216954621264-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216954621264",
+          "name": "佛山市南海区卡曼尼诗服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 478,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1904023",
+        "mallType": "T1688",
+        "itemId": "947156826698",
+        "title": "2024 winter new signature letters loose soft mohair black knit sweater lazy wind sweater tops for men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dMkm5M1WxdmLSjM2e_!!4611686018427382567-0-cbu_common_content.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219535414378",
+          "name": "杭州一路发发跨境电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1903965",
+        "mallType": "T1688",
+        "itemId": "897557369268",
+        "title": "Casablanca25FW autumn and winter new embroidered letters logo men and women loose color blocking knitted pullover sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tuVkYl1FfScIsftoY_!!2216891680514-0-cib.jpg",
+        "price": "¥137.00",
+        "toPrice": "$21.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218810922404",
+          "name": "广州壹朵服装贸易商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901659",
+        "mallType": "WD",
+        "itemId": "7497864577",
+        "title": "**",
+        "picUrl": "https://si.geilicdn.com/open1791080881-252808396-75e40000019325a027fa0a232357_1066_1066.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1892393",
+        "mallType": "T1688",
+        "itemId": "861996688747",
+        "title": "V-neck long sleeved women's early autumn and winter new vintage embroidery knitting top worn inside and outside pullover Fried Dough Twists sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01s7FhgX1ML2FBpTEmA_!!2217720041417-0-cib.jpg",
+        "price": "¥20.70",
+        "toPrice": "$3.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBMURVVaJM7X84l1IRxE8ZRQ",
+          "name": "东莞市钟意服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1735714",
+        "mallType": "T1688",
+        "itemId": "947934231097",
+        "title": "Winter new signature letters loose soft mohair black knit sweater lazy wind sweater tops for men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mB0bJY1l8XtAaWkKy_!!2219560854774-0-cib.jpg",
+        "price": "¥137.17",
+        "toPrice": "$21.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220112769625",
+          "name": "苍南子威电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386375",
+        "mallType": "T1688",
+        "itemId": "912297472682",
+        "title": "2024 winter new signature letters loose soft mohair black knit sweater lazy wind sweater tops for men and women",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000002297/O1CN019BX2VW1Sq4nwwrag4_!!6000000002297-0-tbvideo.jpg",
+        "price": "¥144.39",
+        "toPrice": "$22.70",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142311441911211747",
+  "language": "en"
+}

@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3130486",
+        "mallType": "WD",
+        "itemId": "7565795297",
+        "title": "青春时尚连帽卫衣-UF",
+        "picUrl": "https://si.geilicdn.com/pcitem901904891510-3f96000001990da6f4ee0a20e7c7_1200_1200.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1759472067",
+          "name": "lizi Shop-ZY1",
+          "logo": "https://si.geilicdn.com/shopedit1980923846-1d760000019a252fe2ca0a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2225136",
+        "mallType": "WD",
+        "itemId": "7521669693",
+        "title": "Spring and summer fashion versatile hoodie T-shirt hot-SQ002\n",
+        "picUrl": "https://si.geilicdn.com/open1801180035-1234478995-0971000001988863950a0aa0c791-unadjust_1200_1200.png",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3191545",
+        "mallType": "WD",
+        "itemId": "7406357398",
+        "title": "Xin喜TopqualitySupremeBigLogoHoodie连帽卫衣美潮字母上衣",
+        "picUrl": "https://si.geilicdn.com/open1710514600-252808396-489a000001954733b1a50aa0834c_1920_1920.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710514600",
+          "name": "Ralph Lauren Supplier",
+          "logo": "https://si.geilicdn.com/weidian1464099291-6451000001937a0d00eb0a8133cc_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2424615",
+        "mallType": "T1688",
+        "itemId": "974516853560",
+        "title": "High version of Paris SS25 new B family co-branded Lamborghini mud pattern printed sweater zipper cardigan jacket men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ixo5fD28s6SxaSJlc_!!2215450777987-0-cib.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215450777987",
+          "name": "广州依璇服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2862726",
+        "mallType": "WD",
+        "itemId": "7589070607",
+        "title": "Embroidered Fleece Sweatshirt Embroidered Fleece Sweatshirt 494156 E",
+        "picUrl": "https://si.geilicdn.com/pcitem901993774356-72f70000019a3e3727930a2396f4-unadjust_600_800.png",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2187984",
+        "mallType": "WD",
+        "itemId": "7520335721",
+        "title": "E.S.S Hooded Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1863727869-1234478995-65d8000001987a3518e00a23b4de_800_800.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863727869",
+          "name": "Fashion Store",
+          "logo": "https://si.geilicdn.com/shopedit1968497625-719500000198849da56f0a20e7c7-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3191407",
+        "mallType": "T1688",
+        "itemId": "819858663582",
+        "title": "跨境时尚潮牌Y2K印花卫衣美式嘻哈街头水洗装男女套头衫休闲套装",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ps6nor1YxIgIfII6G_!!2217007463125-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217007463125",
+          "name": "汕头市潮阳区爱悦汇服装商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3074694",
+        "mallType": "TB",
+        "itemId": "990555066645",
+        "title": "[in Stock] Paly Hollywood'Bird Man' Printed Zip-Up Sweatshirt, Same Style as Pengiri",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2217226947655/O1CN01eMzBnZ26Q2z8jsmis_!!2217226947655.jpg",
+        "price": "¥512.97",
+        "toPrice": "$80.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "205590935",
+          "name": "Knight Made",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2615367",
+        "mallType": "WD",
+        "itemId": "7560001466",
+        "title": "Fashion tracksuits",
+        "picUrl": "https://si.geilicdn.com/wdseller1812690884-6da200000199850f02e30a231177_1180_1474.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1716734345",
+          "name": "WuKong Buy",
+          "logo": "https://si.geilicdn.com/wdseller1812690884-502300000191bc1f42590a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2542623",
+        "mallType": "TB",
+        "itemId": "895086510247",
+        "title": "Special Offer American Tommy Sweatshirt Crew Neck Unisex Spring and Autumn Loose Fit Oversized Drop Shoulder Cotton Long Sleeve T-Shirt Solid Color",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/4107061841/O1CN01F4T37c1PTEC4GEsby_!!4107061841.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "525171060",
+          "name": "美国汤米服装店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "392453",
+        "mallType": "T1688",
+        "itemId": "859769574151",
+        "title": "Cross-border exclusive for ten-color Lav RL basic pony embroidery Logo hooded sweater men's and women's zipper coat tide",
+        "picUrl": "https://cdn.findqc.com/item/20250122/m66zogvk_ubd0.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJdYMe9cQzHabL8HVDE5tSw",
+          "name": "常熟市莫城街道英卡恩服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 624,
+        "qcVideoCnt": 11
+      },
+      {
+        "id": "1862439",
+        "mallType": "T1688",
+        "itemId": "895528747557",
+        "title": "Cross-border classic STONE stone solid color crew neck badge long sleeve sweater men's and women's island couples correct version",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh82qty6_6un7.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkCgB4vMyCtonLp2I0VSqzQ",
+          "name": "广州财韵坊服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 192,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "988120",
+        "mallType": "T1688",
+        "itemId": "888771080098",
+        "title": "Cross-border Foreign Trade Spring and Autumn Classic Mongolian Crewneck Sweatshirt Basic Cotton terry for Men and Women Sweatshirt Coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KFaDl91LfMDWA1Iax_!!2219228381326-0-cib.jpg",
+        "price": "¥63.90",
+        "toPrice": "$10.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiIbQr-Ds9iPOQwTgfmO14g",
+          "name": "广州婉勤贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 513,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2193298",
+        "mallType": "T1688",
+        "itemId": "949245777687",
+        "title": "Ar Men's Clothing | 2025 Autumn/Winter New 430g Fleece-Lined Constant Temperature Hooded Basic Solid Color Men's Loose Warm Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250829/mew728qc_5zme.jpg",
+        "price": "¥91.00",
+        "toPrice": "$14.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1511872",
+        "mallType": "T1688",
+        "itemId": "854474605163",
+        "title": "Cross-border tide brand autumn and winter new CH Crowe black simple letters round neck vests for men and women with a generation of batch",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rYQ4eb1KNfHDClbm1_!!2217551301152-0-cib.jpg",
+        "price": "¥87.00",
+        "toPrice": "$13.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBj9_yDsfWum-d_tv7co5tDw",
+          "name": "深圳市宝安区顺腾服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1659243",
+        "mallType": "T1688",
+        "itemId": "943936569971",
+        "title": "Cross-Border Export Ten-Color Rl Basic Pony Logo Embroidered Logo Hooded Sweatshirt Men's and Women's Zipper Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250825/mepx81zf_4zoq.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJ7TxEOC6SUGeU8u96MDwTA",
+          "name": "常熟市莫城街道语韵霖服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 536,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "165308",
+        "mallType": "TB",
+        "itemId": "823688419463",
+        "title": "Sp American High Street Style Hooded Spider Sweatshirt Hoodie (Listing 1)",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpwa9e_l3n7.jpg",
+        "price": "¥103.06",
+        "toPrice": "$16.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "414863767",
+          "name": "Lufilo Studio",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 144,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2201063",
+        "mallType": "T1688",
+        "itemId": "935108830430",
+        "title": "24S High Version Chrome Heart Sanskrit Hooded Sweatshirt Couple Style New Autumn and Winter Guangzhou Wholesale Trendy Brand Cross",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CkaZWf1arvGsRaB1c_!!2218394303384-0-cib.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0NTz5zaKyNjVviKGtOPw6w",
+          "name": "广州梦煊服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3012647",
+        "mallType": "WD",
+        "itemId": "7584624655",
+        "title": "DU，10.28-2025秋冬新款插肩拉链连帽开衫卫衣",
+        "picUrl": "https://si.geilicdn.com/pcitem1960619614-0dbe0000019a268de2a80a2315ef_800_800.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1764019005",
+          "name": "WufeiBuy",
+          "logo": "https://si.geilicdn.com/weidian1960619614-50920000019725f7beda0a23037f_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3028208",
+        "mallType": "T1688",
+        "itemId": "854492009027",
+        "title": "肥佬大码开衫卫衣男士春秋款加肥夹克外套美式运动休闲连帽衫8XL",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012Vpv311H0ofn7AgDv_!!2215509560696-0-cib.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215509560696",
+          "name": "揭阳市揭东区桂岭镇卿依服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141409121914133093",
+  "language": "en"
+}

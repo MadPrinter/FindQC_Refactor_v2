@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2224494",
+        "mallType": "TB",
+        "itemId": "969357886715",
+        "title": "Mm Big Large Embroidered Jacket with Letters on the Hem",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfla63t7_ntyk.jpg",
+        "price": "¥289.01",
+        "toPrice": "$45.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258373061",
+          "name": "MadMan2024",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "820390",
+        "mallType": "T1688",
+        "itemId": "852994014135",
+        "title": "Synaword Cross-Border European and American Hip-Hop Street Casual Loose Fleece-Lined Hoodie Sweatshirt Set Trendy New Product",
+        "picUrl": "https://cdn.findqc.com/item/20250401/m8xbzls7_tbz7.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfi7ukfPqVXkepDSPyum-pg",
+          "name": "深圳市龙华区至圣博莉服饰贸易行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 220,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "354374",
+        "mallType": "TB",
+        "itemId": "765867829257",
+        "title": "Fog Multi-Line Essentials Letter Print on Chest Hooded Sweatshirt Unisex Pullover American Style Loose Fit Autumn and Winter Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241221/m4xkgw61_o4o2.jpg",
+        "price": "¥83.74",
+        "toPrice": "$13.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101198640",
+          "name": "原创潮流社",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1547319",
+        "mallType": "WD",
+        "itemId": "7463674200",
+        "title": "BR-Hoodie-3",
+        "picUrl": "https://cdn.findqc.com/item/20250719/md9aeiha_rj5x.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274399453",
+          "name": "CNMADE",
+          "logo": "https://si.geilicdn.com/pcdecorate1274399453-60fc00000193491051590a23037f-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 5,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "2824355",
+        "mallType": "T1688",
+        "itemId": "902131899751",
+        "title": "American Street Hip Hop Y2K Harajuku Hand in Hand Color Letter Print Men's and Women's Autumn and Winter Loose Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01w0Vwei1u8OGnBpL14_!!2217159525992-0-cib.jpg",
+        "price": "¥38.99",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBXq4aiQzSsPE5m6OqFw5-ZA",
+          "name": "铅山县春季服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "437063",
+        "mallType": "TB",
+        "itemId": "838257295164",
+        "title": "Nuto in Stock [Celebrity Style] Vintage Print Patchwork Long Sleeve Loose Hooded Sweatshirt Cardigan Jacket for Winter",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1821451028/O1CN01TdWL3q1JSs9IqwZ3U_!!1821451028.jpg",
+        "price": "¥218.90",
+        "toPrice": "$34.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "372164665",
+          "name": "nuto market",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1370",
+        "mallType": "TB",
+        "itemId": "736469349863",
+        "title": "Cardigan Sweatshirt Men's Pure Cotton Sports Autumn Clothing American Casual Simple Jacket Loose Hooded Zipper Jacket Large Size",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3n072j8_nkmo.jpg",
+        "price": "¥118.22",
+        "toPrice": "$18.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "398963573",
+          "name": "好运来外贸服饰店",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 579,
+        "qcVideoCnt": 13
+      },
+      {
+        "id": "303289",
+        "mallType": "T1688",
+        "itemId": "689584467994",
+        "title": "off Hooded Sweater ow Chao Brand Little Daisy Donald Duck Joint Warning Tape Dissolving Ice Cube Arrow Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241203/m486gba6_0ig0.jpg",
+        "price": "¥57.00",
+        "toPrice": "$8.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkZQhHOnAqRbgkwSQM3RUng",
+          "name": "广州奕辰国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 140,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1033396",
+        "mallType": "T1688",
+        "itemId": "890500079047",
+        "title": "25SS 24FW Hoodie Hoodie Printed ESSENTIALS Trendy Brand Hoodie Cross Border",
+        "picUrl": "https://cdn.findqc.com/item/20250418/m9lrl3bz_skha.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWJpAX1Ml7oscoB2p4HVoAg",
+          "name": "宁波市鄞州钟公庙宜山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 512,
+        "qcVideoCnt": 10
+      },
+      {
+        "id": "3004901",
+        "mallType": "T1688",
+        "itemId": "978117516637",
+        "title": "潮牌 G D手绘泼墨涂鸦卫衣连帽套头高街宽松男女情侣同款外套帽衫",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01grqDxX1WwGfbdSJY1_!!2217982592852-0-cib.jpg",
+        "price": "¥63.00",
+        "toPrice": "$9.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUzIB2WRgIzL44PXOCvtnNg",
+          "name": "佛山市禅城区左一诚服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "180",
+        "mallType": "TB",
+        "itemId": "746534627739",
+        "title": "European and American Style Classic Solid Color Basic Double-Sided Fabric Vintage Heavy-Duty Simple Crew Neck Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m26t7v_fr0c.jpg",
+        "price": "¥101.64",
+        "toPrice": "$15.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "115207252",
+          "name": "云端shop",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 578,
+        "qcVideoCnt": 9
+      },
+      {
+        "id": "2513471",
+        "mallType": "WD",
+        "itemId": "7559502079",
+        "title": "RL bear sweatshirt round neck hoodie RL020 F",
+        "picUrl": "https://cdn.findqc.com/item/20251009/mgj4bxo2_bpmh.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1605283",
+        "mallType": "T1688",
+        "itemId": "874750820326",
+        "title": "Breathedivinity Autumn and Winter Loose Large Size Printed Sports Trendy Brand High-End American High Street Men's Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01MDlzc321tkbA8ivnL_!!2217276507043-0-cib.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBtQmhiNfDh9YKmLUcUKUBrA",
+          "name": "珠海安立商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2893902",
+        "mallType": "T1688",
+        "itemId": "843343765351",
+        "title": "ERD GRAC Melancholy Rich Second Generation Niche Trendy Brand Washed Old Padded Fabric Zipper Hooded Sweater Cardigan Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XNpX8a1GQAyYlc1xH_!!2212085780616-0-cib.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWtHTfLif8QxYhHyjplpdbA",
+          "name": "广州汇安宸电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3202350",
+        "mallType": "T1688",
+        "itemId": "764073587613",
+        "title": "3D printing fashion brand sweater men's and women's thin BAPE WGM shark head digital zipper casual wholesale independent station",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BgOHDC1Yz84TlCeBF_!!2213228753129-0-cib.jpg",
+        "price": "¥36.99",
+        "toPrice": "$5.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBywMNIl_P85P6pjppGu9Rcg",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2815858",
+        "mallType": "WD",
+        "itemId": "7571380516",
+        "title": "Camouflage printed multicolor embroidered fleece cardigan",
+        "picUrl": "https://si.geilicdn.com/open1875660057-252808396-1bd300000195aec08d6b0a23b491_800_800.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1874246272",
+          "name": "UrbanFactory",
+          "logo": "https://si.geilicdn.com/shopedit1412063705-018300000199d7666e020a23038e-unadjust_499_499.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3202301",
+        "mallType": "TB",
+        "itemId": "974971587828",
+        "title": "Gallery Dept. New French Letter Print Round Neck Long Sleeve Heavy-Duty Water Ripple Washed Vintage T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2910653253/O1CN01fhbVA31ZtvUYYVBuA_!!2910653253.jpg",
+        "price": "¥190.49",
+        "toPrice": "$29.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "162281259",
+          "name": "怪不得有钱赚",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1538479",
+        "mallType": "WD",
+        "itemId": "7490887080",
+        "title": "L16084-H83",
+        "picUrl": "https://si.geilicdn.com/pcitem901891920858-0aa2000001975ce97c530a811411_800_800.jpg",
+        "price": "¥309.00",
+        "toPrice": "$48.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832428901",
+          "name": "CharlesKing6",
+          "logo": "https://si.geilicdn.com/shopedit901891921241-426d0000019253ebf0d20a2395d6-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3095843",
+        "mallType": "WD",
+        "itemId": "7448845221",
+        "title": "【DX19】G0AT",
+        "picUrl": "https://si.geilicdn.com/pcitem1799783535-1aa30000018f6c0c351a0a210349-unadjust_1200_1200.png",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1804228360",
+          "name": "AB-WG",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1912025",
+        "mallType": "T1688",
+        "itemId": "854967511905",
+        "title": "Cross-border high quality Original Sp5der Wear 450G Heavy fleece-lined Couple Hoodie Amazon Cross-border Special",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0196waZ020RysFejPnl_!!2218903556847-0-cib.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBU52j4cAJ8QmWaYqTJpCTYg",
+          "name": "深圳市福田区滨岩贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114132463194360427",
+  "language": "en"
+}

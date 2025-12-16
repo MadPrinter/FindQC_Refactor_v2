@@ -1,0 +1,365 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2503857",
+        "mallType": "WD",
+        "itemId": "7551970459",
+        "title": "Autumn and Winter Classic Versatile Round Neck Sweatshirt 072",
+        "picUrl": "https://si.geilicdn.com/pcitem1883972066-38f1000001995bfb08f50a20e672_1440_1440.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819063973",
+          "name": "Balus Hoodies",
+          "logo": "https://si.geilicdn.com/shopedit1883972066-2e8800000191c03602510a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2504178",
+        "mallType": "WD",
+        "itemId": "7519434276",
+        "title": "ZZ02 Fashion Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1819467261-1234478995-29c6000001985ac149ef0a8115c2_1200_1200.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819467261",
+          "name": "Superme",
+          "logo": "https://si.geilicdn.com/wdseller1969492450-605e000001985099e3580a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2503905",
+        "mallType": "WD",
+        "itemId": "7558578780",
+        "title": "Liberty Print Hooded Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open313949354-1234478995-2cd8000001997a983e160a8115c2_1278_1278.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "313949354",
+          "name": "Apex made",
+          "logo": "https://si.geilicdn.com/shopedit313949354-0aa900000198c11a6b950a231177-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2507912",
+        "mallType": "WD",
+        "itemId": "7529930914",
+        "title": "xiaoxiao-0804220 Hooded Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1977362831-402800000198be611e1c0a8133cc_1440_1920.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1835475968",
+          "name": "海绵宝宝 Spongebob",
+          "logo": "https://si.geilicdn.com/shopedit1977362831-198b00000198b0a35df90a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2504056",
+        "mallType": "WD",
+        "itemId": "7556044957",
+        "title": "LH25-Fall/Winter TOP New Long Sleeve",
+        "picUrl": "https://si.geilicdn.com/open1656187325-1234478995-3c4e00000198c2c9a47c0a23b491_1200_1200.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1825295651",
+          "name": "Safe Shop-Y3",
+          "logo": "https://si.geilicdn.com/wdseller1984319327-52040000019ad9c99f8d0a23038e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2504253",
+        "mallType": "WD",
+        "itemId": "7547078609",
+        "title": "High-quality sets SP",
+        "picUrl": "https://si.geilicdn.com/open1710883753-1234478995-03c400000190badec9180a239383_1920_1920.jpg",
+        "price": "¥186.00",
+        "toPrice": "$29.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784277725",
+          "name": "4号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2504176",
+        "mallType": "WD",
+        "itemId": "7531772341",
+        "title": "BYT05-High Quality Factory New Hooded Sweatshirt Set",
+        "picUrl": "https://si.geilicdn.com/open1823866485-1234478995-73db00000194da763ee20a22d234_2400_2400.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1703252739",
+          "name": "CXY  High quality",
+          "logo": "https://si.geilicdn.com/shopedit1972764199-418200000198fffdbf0c0a23047e-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2507829",
+        "mallType": "WD",
+        "itemId": "7557529811",
+        "title": "LL99 Bu plaid hoodie+WhatsApp+86 13256727890",
+        "picUrl": "https://si.geilicdn.com/pcitem1910531722-04a100000196add643db0a23111a_3418_4448.jpg",
+        "price": "¥127.00",
+        "toPrice": "$19.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1669672189",
+          "name": "Top Fashion Stores",
+          "logo": "https://si.geilicdn.com/shopedit1968041856-356e000001983284f9cf0a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2504160",
+        "mallType": "TB",
+        "itemId": "979748492214",
+        "title": "6pm American Niche style Trendy Patchwork Embroider letter LOGO Loose zipper hooded Outwear Casual pants Suit",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1602154797/O1CN01cfJqAE1lJ51FgABh9_!!1602154797.jpg",
+        "price": "¥107.00",
+        "toPrice": "$16.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102659967",
+          "name": "小众街头潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3042131",
+        "mallType": "WD",
+        "itemId": "7524332490",
+        "title": "0809108 amiri hooded sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1977362831-09150000019891b8f4e50a21146b_768_768.jpg",
+        "price": "¥225.00",
+        "toPrice": "$35.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1835475968",
+          "name": "海绵宝宝 Spongebob",
+          "logo": "https://si.geilicdn.com/shopedit1977362831-198b00000198b0a35df90a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1933289",
+        "mallType": "T1688",
+        "itemId": "802834031348",
+        "title": "Factory direct TB autumn and winter high quality classic four-bar sweater pants suit casual Joker men's and women's style",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mgu758jg_b2nl.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBC53zQ_EhuS8C6pD7JkfFtw",
+          "name": "深圳市宝安区布郎尼服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1618287",
+        "mallType": "WD",
+        "itemId": "7497400147",
+        "title": "【 DX30 】 Solid color hooded cardigan zipper sweatshirt sleeve label loose casual sports jacket collection",
+        "picUrl": "https://cdn.findqc.com/item/20251103/mhiuun34_2e5w.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646048669",
+          "name": "Giant panda 🐼",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "437034",
+        "mallType": "TB",
+        "itemId": "860080074271",
+        "title": "25 European Station Export Nocta Series Hooded Jacket Couple Collaboration Spring and Autumn Casual Sweatshirt Sports Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250729/mdntyx3y_tnws.jpg",
+        "price": "¥143.49",
+        "toPrice": "$22.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "533907816",
+          "name": "奕家运动服饰",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 107,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1059319",
+        "mallType": "WD",
+        "itemId": "7428881164",
+        "title": "DS Western Cowboy Zipper Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250329/m8t0ud8y_82x9.jpg",
+        "price": "¥245.00",
+        "toPrice": "$38.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1739784557",
+          "name": "pengreps",
+          "logo": "https://si.geilicdn.com/wdseller1940384309-57d700000195ec36cfa00a8133cc_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 78,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "3026274",
+        "mallType": "T1688",
+        "itemId": "798240136916",
+        "title": "Jiaojia GAMMA Soft Shell Wool Jacket Replacement Jiaojia Jacket Wool Outwear Jacket Late Autumn Autumn and Winter",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016TSCAU1YgM4aLEZaE_!!2217945753088-0-cib.jpg",
+        "price": "¥153.00",
+        "toPrice": "$24.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqDmM0HQFKiz99uQloQVl_g",
+          "name": "苏州八达纺织有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2090096",
+        "mallType": "T1688",
+        "itemId": "930283601319",
+        "title": "Godspeed Cross-Border 25Ss Autumn and Winter New Direct Spray Printing Washed Retro Pure Cotton Hip-Hop Fashion Hoodie Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TkmQiT1wpYs2viSj2_!!2219367156357-0-cib.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxDBCvET7gINJhQC3FJcZFw",
+          "name": "广州绮言电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2333316",
+        "mallType": "TB",
+        "itemId": "963496716067",
+        "title": "Grailz Project Gr Trendy Brand War Horse Embroidery Distressed Zipper Cardigan Hoodie Sweatshirt Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3281198393/O1CN01ZHg5zX2Bs3GFH9Sa1_!!3281198393.jpg",
+        "price": "¥162.27",
+        "toPrice": "$25.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "516774669",
+          "name": "回到洛杉矶",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2903445",
+        "mallType": "TB",
+        "itemId": "751585237946",
+        "title": "And Wander Micro Fleece Pullover Polar Fleece Sweatshirt Loose Outdoor Warm Layer Liner",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1699320970/O1CN01zrtfuM1J2J5KLUItS_!!1699320970.jpg",
+        "price": "¥185.25",
+        "toPrice": "$29.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111558063",
+          "name": "直接打钱 LAB",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1210300",
+        "mallType": "T1688",
+        "itemId": "815426579361",
+        "title": "Eric Emanuel Basic Hooded Sweatshirt Vintage High Street Hip Hop Men's and Women's Sports Casual fleece-lined Pants",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xCQHAb24UxsXp3k03_!!2218048897395-0-cib.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBsc3QLHsILUG12SD85BZ02A",
+          "name": "佛山市风一样贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142493341911218020",
+  "language": "en"
+}

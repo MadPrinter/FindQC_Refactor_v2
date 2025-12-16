@@ -1,0 +1,321 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1011510",
+        "mallType": "WD",
+        "itemId": "7422860862",
+        "title": "outerwear",
+        "picUrl": "https://si.geilicdn.com/open1660551049-252808396-28e2000001958758583d0a23b4de_800_800.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1660551049",
+          "name": "Vogue Square",
+          "logo": "https://si.geilicdn.com/wdseller1814526504-6a9200000190c0d42b470a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553440",
+        "mallType": "T1688",
+        "itemId": "899858072984",
+        "title": "Chest leather tag double-sided inner lining zipper hooded men's jacket men's top jacket men jacket jacket men jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250918/mfpkba92_gu9g.jpg",
+        "price": "¥368.00",
+        "toPrice": "$57.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217984923993",
+          "name": "广州雅瑞衣舍服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1365419",
+        "mallType": "TB",
+        "itemId": "844633493996",
+        "title": "Grailz Project Trendy Raglan Two-In-One Gloves Cardigan Distressed Sweatshirt High Street American Casual Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250519/matz8vo1_mr0b.jpg",
+        "price": "¥194.84",
+        "toPrice": "$30.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "241108161",
+          "name": "拿钱买快乐",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2430900",
+        "mallType": "WD",
+        "itemId": "7413903930",
+        "title": "030788 xinpusen jacket jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250918/mfobrder_weud.jpg",
+        "price": "¥275.00",
+        "toPrice": "$43.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261623",
+        "mallType": "TB",
+        "itemId": "896637858092",
+        "title": "Correct version of NOCTA GOLF Golf co branded round neck pullover long sleeved quick drying sports base shirt T-shirt sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250918/mfoamdn4_vy3o.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "251000169",
+          "name": "原创73stidio",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1764318",
+        "mallType": "T1688",
+        "itemId": "767810332745",
+        "title": "Trendy Outer 2024 Spring Style Japanese Style Retro Outdoor Functional Jacket Men's Trendy Contrasting Color Stitching Embroidered Hooded Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PLZuxW1Y3QJ9RZmvW_!!2468623003-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByjQWhMPBRVSieKEKekL1zg",
+          "name": "杭州潮外服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "986288",
+        "mallType": "WD",
+        "itemId": "7296162831",
+        "title": "24FW new V Pharrell Phillip Dong show models four-leaf clover print logo pockets workwear denim jacket jacket men and women with the same paragraph",
+        "picUrl": "https://si.geilicdn.com/wdseller1861306345-5136000001942d5108d20a2102c5_1290_1718.jpg",
+        "price": "¥898.00",
+        "toPrice": "$141.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1688936825",
+          "name": "FIRE-STUDIO",
+          "logo": "https://si.geilicdn.com/wdseller1861306345-00230000018fbd82541c0a2304aa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1151279",
+        "mallType": "T1688",
+        "itemId": "895687548620",
+        "title": "High Version New Lock Knitted Cardigan Men's and Women's Casual All-match Simple British Wool Sweater Korean Style Lazy Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrxup7_k4im.jpg",
+        "price": "¥187.00",
+        "toPrice": "$29.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBeV6hQS0nHqCe15Uq1DBByA",
+          "name": "佛山市南海区维耶尼服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1,
+        "picWidth": "1066",
+        "picHeight": "1066"
+      },
+      {
+        "id": "1792463",
+        "mallType": "WD",
+        "itemId": "7480521770",
+        "title": "Trendy brand leather jacket men's embroidered thick PU leather motorcycle suit baseball cotton suit couple cotton jacket motorcycle flight jacket women",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfns1ovj_qa36.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1663819725",
+          "name": "008-Aya",
+          "logo": "https://si.geilicdn.com/shopedit1932007053-56d500000198d2298c6d0a230115-unadjust_636_636.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "179845",
+        "mallType": "WD",
+        "itemId": "7287269155",
+        "title": "Wearing within the system # 【 Regular and stylish 】 Original factory quality R home classic Spurs embroidery logo stand up collar long sleeved casual jacket jacket for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqduyf_8g10.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1303790680",
+          "name": "草帽出品【八点开拍】🎩",
+          "logo": "https://si.geilicdn.com/bj-wd-1303790680-1514196291898-1398575325_1239_1185.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1616023",
+        "mallType": "T1688",
+        "itemId": "896007323014",
+        "title": "23 New Camouflage Classic Embroidered fleece-lined Hoodie Loose Men's and Women's Hooded Sweater Fashion Brand in stock Whole Single Cotton",
+        "picUrl": "https://cdn.findqc.com/item/20250910/mfdoakkd_frl7.jpg",
+        "price": "¥136.00",
+        "toPrice": "$21.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpbRRbHtfnGGrT-CUlqtc4Q",
+          "name": "佛山市南海区萌棠荣贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 158,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "968553",
+        "mallType": "T1688",
+        "itemId": "843889658730",
+        "title": "In stock Carharrt Carharrt mainline American washed canvas padded work jacket J130 hooded jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lqDVy81Bs304YiUmd_!!0-0-cib.jpg",
+        "price": "¥162.00",
+        "toPrice": "$25.47",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2414249",
+        "mallType": "TB",
+        "itemId": "842498868298",
+        "title": "Randi is not only cost-effective, but also VTM cotton jacket with a silhouette for motorcycle racing design, autumn and winter air force Bomber jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250916/mflqyhiq_aehi.jpg",
+        "price": "¥549.00",
+        "toPrice": "$86.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "416413990",
+          "name": "大光头燃弟",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1156290",
+        "mallType": "T1688",
+        "itemId": "864242106106",
+        "title": "Brazil Football Rush Clothes Cotton-padded Coat Paris Barcelona Chelsea Men's and Women's Windbreaker fleece-lined Thin",
+        "picUrl": "https://cdn.findqc.com/item/20250916/mflgcquc_9w04.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB2W1n0jWrvCCp78qLgVeb3w",
+          "name": "广州力康运动服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 443,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2264942",
+        "mallType": "T1688",
+        "itemId": "966603099144",
+        "title": "2025欧美外贸跨境新款男装休闲连帽3D印花男式开衫卫衣外套批发",
+        "picUrl": "https://cdn.findqc.com/item/20250908/mfat2wr5_ctc0.jpg",
+        "price": "¥36.80",
+        "toPrice": "$5.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRR2Hey8MNJCuQh8vXQnyfg",
+          "name": "上饶市尚劲服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "937285",
+        "mallType": "WD",
+        "itemId": "7339036063",
+        "title": "123028 AMG Rocker Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250304/m7tgrnsv_cna8.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2407257",
+        "mallType": "TB",
+        "itemId": "844948209531",
+        "title": "Hooded cloth embroidered letter windbreaker jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkrfy3b_eqj2.jpg",
+        "price": "¥338.00",
+        "toPrice": "$53.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113677911",
+          "name": "Singor1",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147177871916158189",
+  "language": "en"
+}

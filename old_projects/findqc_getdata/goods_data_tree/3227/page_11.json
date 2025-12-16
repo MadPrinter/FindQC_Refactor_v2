@@ -1,0 +1,383 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3053677",
+        "mallType": "WD",
+        "itemId": "7573467503",
+        "title": "BB1  2025耐耐运动套装  (非质量问题不支持无理由退换货)",
+        "picUrl": "https://si.geilicdn.com/pcitem1179716448-15bb00000197552d019c0a20e672-unadjust_1200_1200.png",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779261693",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3060508",
+        "mallType": "TB",
+        "itemId": "798634708167",
+        "title": "BuettiKer American retro high street design, palm print short sleeved T-shirt, unisex casual top, trendy",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2388244991/O1CN01vzJdpV1mjvit23U5A_!!2388244991.jpg",
+        "price": "¥20.16",
+        "toPrice": "$3.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "162338124",
+          "name": "BuettiKer",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3054230",
+        "mallType": "WD",
+        "itemId": "7595493772",
+        "title": "European and American Trendy Brand Embroidered Five-Pointed Star Short-Sleeved Trendy Polo Shirt Men's Clothing Number 47 Printed Lapel Casual Half-Sleeve",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-088f000001987a5f4e000a8115c2_1200_1199.jpg",
+        "price": "¥129.35",
+        "toPrice": "$20.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699631517",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3051300",
+        "mallType": "WD",
+        "itemId": "7507742851",
+        "title": "GD短袖",
+        "picUrl": "https://si.geilicdn.com/open1846974525-1234478995-2476000001980780b8d50aa0c791_2457_3276.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1846974525",
+          "name": "Next Drop",
+          "logo": "https://si.geilicdn.com/shopedit1958405495-4ff000000196fc5a83d60a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048326",
+        "mallType": "WD",
+        "itemId": "7368524486",
+        "title": "long sleeves高性价比 无质量问题不支持无理由退换",
+        "picUrl": "https://si.geilicdn.com/pcitem1893397454-4aa000000194655e36790a210256_600_600.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1764057365",
+          "name": "haobuy",
+          "logo": "https://si.geilicdn.com/shopedit1893397454-093a000001930aca39e80a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049291",
+        "mallType": "WD",
+        "itemId": "7599718251",
+        "title": "2025年潮牌BAPE夏季新款短袖t恤男女情侣款宽松猿人头半袖",
+        "picUrl": "https://si.geilicdn.com/open1807496083-1234478995-21a50000019a1bae3e380a231226_800_800.jpg",
+        "price": "¥114.00",
+        "toPrice": "$17.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1807496083",
+          "name": "2号商店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048737",
+        "mallType": "WD",
+        "itemId": "7594167291",
+        "title": "新款涂鸦印花街霸个性嘻哈宽松长袖短袖纯棉T恤w02",
+        "picUrl": "https://si.geilicdn.com/open1700845037-1234478995-34a60000019623a2ee580a22d249_1200_1200.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1739646749",
+          "name": "Prometheus store",
+          "logo": "https://si.geilicdn.com/weidian1948450944-4838000001995215e0650a8133cc_1094_1094.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048684",
+        "mallType": "T1688",
+        "itemId": "838686526708",
+        "title": "24SU-SShirt T-shirt 24 summer small standard short sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN019FNWQH28s6RrfpTEq_!!2216476787987-0-cib.jpg",
+        "price": "¥72.00",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216476787987",
+          "name": "宁波市海曙永泰服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3051449",
+        "mallType": "WD",
+        "itemId": "7599734206",
+        "title": "CRF C.P卫衣-裤子合集",
+        "picUrl": "https://si.geilicdn.com/pcitem1952892442-52c8000001990dccb1760a23041a_800_800.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639542179",
+          "name": "Chic Vault Global",
+          "logo": "https://si.geilicdn.com/shopedit1987193824-327300000199128eeb7d0a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3053966",
+        "mallType": "T1688",
+        "itemId": "901669395064",
+        "title": "2024 Spring and Summer B@Pe Classic Series Camouflage Round Man Letter Print Collection Short Sleeve Trendy Men's and Women's Casual T-Shirts",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mUe6OR1nmy36onAlR_!!2218351735133-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGEBgNZPSmugxuLqQ7A2R6w",
+          "name": "广州市番禺区一生潮牌服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048835",
+        "mallType": "T1688",
+        "itemId": "987078125257",
+        "title": "2526跨境俱乐部新款足球服上衣皇马阿森纳国米利物浦源头厂家批发",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01OCzILi1HmRwyPGsie_!!2220904940800-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdp5-eRB90pGHb7rt70L0zQ",
+          "name": "桂平市木乐镇羽飞服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3050360",
+        "mallType": "TB",
+        "itemId": "892259829606",
+        "title": "Slipknot Heavy Metal Band Short-Sleeve T-Shirt Rapcore West Coast American Retro Style Five-Quarter Sleeve Men's",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2597575066/O1CN01MLOPqp1nIHVOnd55Q_!!2597575066.jpg",
+        "price": "¥69.65",
+        "toPrice": "$10.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "127539494",
+          "name": "Rock and roll 藏经阁",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049530",
+        "mallType": "WD",
+        "itemId": "7502559603",
+        "title": "时尚圆领短袖",
+        "picUrl": "https://si.geilicdn.com/open1811769437-1234478995-4e0900000196f7839c380a8133b0_1200_1200.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1824928765",
+          "name": "Super Buy-1",
+          "logo": "https://si.geilicdn.com/pccreshp1957381453-326100000197d5d14ed10a2395a3_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3051178",
+        "mallType": "TB",
+        "itemId": "912330837264",
+        "title": "Buettiker 260g Heavyweight Pure Cotton American Retro Street Anime Girl Print Short-Sleeved T-Shirt Casual Women's",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2388244991/O1CN01KUQ0TO1mjvoT5AWs0_!!2388244991.jpg",
+        "price": "¥14.10",
+        "toPrice": "$2.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "162338124",
+          "name": "BuettiKer",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048850",
+        "mallType": "T1688",
+        "itemId": "892134606339",
+        "title": "南油篙品25秋冬新款LP撞色边100%羊毛长袖圆领针织打底衫减龄款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0159xRBQ1b9KNDlVjl6_!!2215496013422-0-cib.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215496013422",
+          "name": "东莞市大朗你好漂亮服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048388",
+        "mallType": "WD",
+        "itemId": "7495970396",
+        "title": "DS068#（全年不下架）拉夫新款重工刺绣男女同款情侣短袖/34，280g高克重纯棉 高端  好品质拉夫劳伦Ralph Lauren经典基础重工大刺绣百搭款圆领短袖 男女同款",
+        "picUrl": "https://si.geilicdn.com/pcitem1224398227-2306000001978c19e85e0a207569_1080_1080.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1224398227",
+          "name": "小麋鹿",
+          "logo": "https://si.geilicdn.com/wdseller1224398227-0a7b0000017221d1c1b20a21c2a7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048971",
+        "mallType": "T1688",
+        "itemId": "901252869167",
+        "title": "True Religion T-shirt Women Short Sleeves Men Vintage Casual",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TnC9471CXGghl2ZQA_!!2214908790090-0-cib.jpg",
+        "price": "¥22.90",
+        "toPrice": "$3.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214908790090",
+          "name": "佛山市禅城区美嘉彤贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048894",
+        "mallType": "WD",
+        "itemId": "7244894349",
+        "title": "【天花板】巴黎BLCG 25SS新款经典小logo合集印花圆领短袖T恤 男女同款 三色入",
+        "picUrl": "https://si.geilicdn.com/wdseller1861306345-071f00000196430482c70a23047e_1290_1659.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1688936825",
+          "name": "FIRE-STUDIO",
+          "logo": "https://si.geilicdn.com/wdseller1861306345-00230000018fbd82541c0a2304aa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2841476",
+        "mallType": "WD",
+        "itemId": "7583929314",
+        "title": "Foreign trade Paul T-shirt LF pony label embroidered women round neck short-sleeved cotton casual men's sweater hundred bottoming shirt tide",
+        "picUrl": "https://si.geilicdn.com/open1789896019-1789896019-288c0000019a151d96420aa081c2_750_752.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789896019",
+          "name": "Kopiax",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-4e3500000199f1873e460a8133cc_1080_1440.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3198828",
+        "mallType": "TB",
+        "itemId": "982339133899",
+        "title": "2025F1 Style Red Bull Panzi Same Style White Base Layer Bodysuit Racing Suit Inner Wear Slim Fit Long Sleeve Close-Fitting",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2220156111146/O1CN01TO0Y8n1KKuzAQgfnH~crop,146,0,877,1170~_!!2220156111146.jpg",
+        "price": "¥69.76",
+        "toPrice": "$10.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "360674155",
+          "name": "茗胜机车服",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140452261911108394",
+  "language": "en"
+}

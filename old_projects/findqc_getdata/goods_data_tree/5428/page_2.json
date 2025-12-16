@@ -1,0 +1,92 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "55865",
+        "mallType": "TB",
+        "itemId": "673405789783",
+        "title": "Upgraded! H family letter blanket cashmere cover blanket small time sofa h family blanket h pillow cushion head 50x50",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npe2cb_idzr.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "282810340",
+          "name": "H潮品严选",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "44146",
+        "mallType": "TB",
+        "itemId": "745215591578",
+        "title": "Christmas Night Frights Ghost Skeleton King Jack Blanket Halloween Glow-in-the-Dark Costume Cape Spooky Spooky Boys",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3me6c0p_qgz0.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42206",
+        "mallType": "TB",
+        "itemId": "776070537701",
+        "title": "Warm Coral Fleece Blanket Winter Sheet Bedspread Sofa Throw",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdky9i_jusm.jpg",
+        "price": "¥13.92",
+        "toPrice": "$2.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "424749669",
+          "name": "蟹黄海绵宝堡",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "13055",
+        "mallType": "TB",
+        "itemId": "662064189604",
+        "title": "Big pancake blanket, flying pancake blanket, funny and funny pancake pizza blanket, cabbage blanket with plush air conditioning blanket, office nap blanket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcfbqy_8kqd.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "159555369",
+          "name": "煕小轩家纺",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "12568",
+        "mallType": "TB",
+        "itemId": "740498446642",
+        "title": "[Bionic Rabbit Poncho] withpuji original design double sided coral velvet mechanical drop ear rabbit cape autumn",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mc5geh_0ma4.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149054192553881538",
+  "language": "en"
+}

@@ -1,0 +1,380 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2131554",
+        "mallType": "WD",
+        "itemId": "7448481057",
+        "title": "GU-Belt",
+        "picUrl": "https://si.geilicdn.com/open1673704173-1234478995-602500000196466a8cca0aa08290_800_800.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1673704173",
+          "name": "Hip-Hop Kid",
+          "logo": "https://si.geilicdn.com/weidian1942973884-1b7500000195e2317b330a207569_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2037744",
+        "mallType": "T1688",
+        "itemId": "751987466488",
+        "title": "zv French Simple Ladies Cowhide Leather Belt Waistband",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vQizVP2FvUWSf8KIz_!!4146818942-0-cib.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "4146818942",
+          "name": "广州市花都区狮岭蓝色皮具店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2131529",
+        "mallType": "WD",
+        "itemId": "7385535817",
+        "title": "24A21-2c",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-267000000194cc4be9690a23111a-unadjust_850_474.png",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2130386",
+        "mallType": "T1688",
+        "itemId": "901400168184",
+        "title": "Classic men's belts inside wear two layer cowhide business belt TB casual versatile pants belt Baoli manufacturers wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tDQCDw2Bqg0PrH1Ta_!!2218903868390-0-cib.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219520925725",
+          "name": "平阳县智优皮具商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 118,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2130313",
+        "mallType": "T1688",
+        "itemId": "808451841600",
+        "title": "Cross-border hot sale 2.8cm including buckle crocodile leather belt gift box assembly skirt ladies belt source manufacturers",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01JyGrkB1v7Irubi7GC_!!3106546125-0-cib.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3106546125",
+          "name": "广东东欧实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2129877",
+        "mallType": "T1688",
+        "itemId": "837960934503",
+        "title": "New men's belt letter A tide models light luxury business fashion lychee grain jeans belt manufacturers wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017F9i2f1pZLS4ZrnBX_!!2217847715374-0-cib.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217847715374",
+          "name": "平阳县华绚电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1979208",
+        "mallType": "WD",
+        "itemId": "7445366205",
+        "title": "girdle",
+        "picUrl": "https://si.geilicdn.com/pcitem1799783535-44900000018f7ba591c60a23041a-unadjust_800_800.png",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1688018469",
+          "name": "胡奥",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1974578",
+        "mallType": "T1688",
+        "itemId": "939103015369",
+        "title": "Equestrian sports belt, head layer cowhide leather, hand-stitched",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01reWQ5s1NhJ8bVt9BD_!!2218386381601-0-cib.jpg",
+        "price": "¥110.45",
+        "toPrice": "$17.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220039607976",
+          "name": "济南市历城区九域贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1974387",
+        "mallType": "WD",
+        "itemId": "7406371578",
+        "title": "QMQ3-Fashion Belt (without box) +852 5573 8209",
+        "picUrl": "https://si.geilicdn.com/open1656483509-1234478995-003c00000194546cc46a0aa08290_800_800.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1656483509",
+          "name": "TOP  copy",
+          "logo": "https://si.geilicdn.com/shopedit1909826522-35b400000194404af13a0a23111a-unadjust_240_240.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1973302",
+        "mallType": "WD",
+        "itemId": "7392318823",
+        "title": "Leisure Belt",
+        "picUrl": "https://si.geilicdn.com/pcitem901782690343-79780000018d91b02e1a0a2313e0-unadjust_1200_1200.png",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1768602549",
+          "name": "MagicBuy",
+          "logo": "https://si.geilicdn.com/shopedit1910834196-1691000001938661b02b0a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2684404",
+        "mallType": "TB",
+        "itemId": "861244349443",
+        "title": "Black and Red Disc-Shaped Dragon Subculture Belt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2214492275933/O1CN01mqB7Ps1thMsN6rqHq_!!2214492275933.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "225726307",
+          "name": "RORY诺里",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1636514",
+        "mallType": "T1688",
+        "itemId": "816244127527",
+        "title": "High end leather belt for men, genuine leather for youth, casual, simple and versatile jeans with trendy fashion, business needle buckle belt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wztyoo1rMBHJ1mao5_!!2217835425616-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaTuX5WzzLOkAurRIZt1vsw",
+          "name": "郴州市保罗皮诺仕贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1631383",
+        "mallType": "T1688",
+        "itemId": "850393383606",
+        "title": "New Korean version of the belt men's double G smooth buckle leather belt letters fashion trend versatile pants belt factory direct sale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01t76Nmg2Cnl5bOfRts_!!2218806088519-0-cib.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218806088519",
+          "name": "平阳县玉恒电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1305294",
+        "mallType": "WD",
+        "itemId": "7257482497",
+        "title": "(No. 150) GG unisex hot selling business high-quality belt with printed top layer cowhide belt, 4.0cm wide, fully packaged.\n",
+        "picUrl": "https://si.geilicdn.com/weidian1881152794-5ae5000001937df123290a20e273_1440_1920.jpg",
+        "price": "¥205.00",
+        "toPrice": "$32.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1817934373",
+          "name": "Leo Studio",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2124235",
+        "mallType": "T1688",
+        "itemId": "890045175252",
+        "title": "New men's belt smooth buckle belt letters youth plaid pattern pants belt men Korean version of the trend of casual versatile",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016IPYv820s5SGTdYz6_!!2219038076904-0-cib.jpg",
+        "price": "¥26.28",
+        "toPrice": "$4.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219362677211",
+          "name": "柴桑区秋铭贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "401767",
+        "mallType": "T1688",
+        "itemId": "822691729441",
+        "title": "Alphabet belt men's leather bronze buckle round buckle multi-color foreign trade belt simple pants pocket smooth buckle 3.8cm",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sFTRuW1LfMA7WGldF_!!2214703351326-0-cib.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214703351326",
+          "name": "龙港市蓝江电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1972694",
+        "mallType": "WD",
+        "itemId": "7456256372",
+        "title": "GU Belt",
+        "picUrl": "https://si.geilicdn.com/open1669626653-1234478995-1fca00000196741762870a8115c2_800_800.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1669626653",
+          "name": "Glow Shop",
+          "logo": "https://si.geilicdn.com/weidian1942973884-1249000001963aa98c5f0a2396f4_1536_1536.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1968948",
+        "mallType": "T1688",
+        "itemId": "755931657940",
+        "title": "Foreign trade new belt men and women fashion casual leather buckle jeans belt one piece of hair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yUuuA31JlBuDLxh60_!!2213078821068-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213078821068",
+          "name": "东莞市蔻莉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2677903",
+        "mallType": "T1688",
+        "itemId": "746626065206",
+        "title": "Trendy new D-letter buckle belt dress, jeans accessories, fashionable and versatile, internet famous, American retro belt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dcOH0k2M2iSMCris1_!!2214266239770-0-cib.jpg",
+        "price": "¥9.80",
+        "toPrice": "$1.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBlFgcwTEDB5PJmdr_G2nQHQ",
+          "name": "广州金保航皮具有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1137343",
+        "mallType": "WD",
+        "itemId": "7337752696",
+        "title": "Melancholy Richie 23 New Double Studded Cross Imported Punk Aged Belt",
+        "picUrl": "https://si.geilicdn.com/pcitem1914294265-0e0500000196ceb610d10a20e284_1100_1100.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1803384693",
+          "name": "Fine",
+          "logo": "https://si.geilicdn.com/weidian1914294265-696800000195991be52c0a20e672_1118_1118.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140437711911103311",
+  "language": "en"
+}

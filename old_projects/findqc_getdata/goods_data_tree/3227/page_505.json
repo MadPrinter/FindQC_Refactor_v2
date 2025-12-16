@@ -1,0 +1,342 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2100794",
+        "mallType": "TB",
+        "itemId": "917530091643",
+        "title": "Nike/Nike Authentic New Men's Round Neck Casual Sports Breathable Short Sleeve DD4852-010",
+        "picUrl": "https://cdn.findqc.com/item/20250815/mebu40qs_tfmh.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "61924625",
+          "name": "鲨鱼运动正品折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2098910",
+        "mallType": "TB",
+        "itemId": "917953749166",
+        "title": "2025 Summer Men's Short sleeved Polo Shirt Cotton Collar Embroidered Pony Business Casual Men's T-shirt Polo Logo",
+        "picUrl": "https://cdn.findqc.com/item/20250815/mebnw6vd_usx3.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "551104047",
+          "name": "POLO纽约男装店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1125309",
+        "mallType": "T1688",
+        "itemId": "892158444195",
+        "title": "24 Cross-border Correct Version Chrome Hearts high quality Horseshoe Sanskrit Crewneck T-shirt Short Sleeve Joker",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me9nn1x7_98ak.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaWb-a5eY-xvLn8WZdXnbsA",
+          "name": "广州槿禾服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 240,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1793040",
+        "mallType": "T1688",
+        "itemId": "892652717008",
+        "title": "Spring and Summer Cartoon Printed Men's and Women's T-shirt New Summer Short-sleeved Street Art Loose Casual Short-sleeved",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me9q6090_aam1.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBo8koro_Ic5WFopkJGse-8Q",
+          "name": "揭阳市揭东区锡场镇边韵服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "269292",
+        "mallType": "TB",
+        "itemId": "682794860107",
+        "title": "Racing American retro TEE vintage VINTAGE 100% pure cotton short sleeved t-shirt for men and women ins trendy brand couple loose fit",
+        "picUrl": "https://cdn.findqc.com/item/20241130/m434lzbo_byy8.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109110560",
+          "name": "亦梦儿服装店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 123,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1534216",
+        "mallType": "TB",
+        "itemId": "672452697088",
+        "title": "ESSENTIALS Double Line High Street Men's and Women's Summer Casual Loose Plush 1977 Short Sleeve T-shirt Large Couple's Wear",
+        "picUrl": "https://cdn.findqc.com/item/20250814/mebj8dd9_isy8.jpg",
+        "price": "¥86.58",
+        "toPrice": "$13.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "289371854",
+          "name": "耶和华G",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1682299",
+        "mallType": "T1688",
+        "itemId": "789699974271",
+        "title": "2526 football jersey, German Tigers, Wonder Woman, Japanese Sakura Goddess, Chelsea, Leverkubitis, Hokage",
+        "picUrl": "https://cdn.findqc.com/item/20250814/mebkdybt_ko12.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217776044551",
+          "name": "广州市创亿体育服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2091527",
+        "mallType": "WD",
+        "itemId": "7498409039",
+        "title": "HFsMade BL Wardrobe Series Letter Printed Round Neck Short Sleeve Normal Edition Grey",
+        "picUrl": "https://cdn.findqc.com/item/20250814/mebj50du_ffov.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2097970",
+        "mallType": "WD",
+        "itemId": "7501706350",
+        "title": "College style trend summer new item niche letter embroidery logo casual loose men and women couple short sleeves",
+        "picUrl": "https://cdn.findqc.com/item/20250814/mebgo9k4_6yn1.jpg",
+        "price": "¥153.00",
+        "toPrice": "$24.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1653098685",
+          "name": "时尚旋风",
+          "logo": "https://si.geilicdn.com/shopedit1961490307-0f6f0000019a86b9aedc0a230115-unadjust_260_260.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1061878",
+        "mallType": "TB",
+        "itemId": "904172400398",
+        "title": "Playboi Carti Yvl Polo Shirt Slim Fit Simple Solid Color Lapel Short Sleeve High-End T-Shirt Opium",
+        "picUrl": "https://cdn.findqc.com/item/20250814/mebflnz4_93ui.jpg",
+        "price": "¥90.66",
+        "toPrice": "$14.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 91,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1560961",
+        "mallType": "WD",
+        "itemId": "7449592745",
+        "title": "American fashion brand STU short sleeved t-shirt white collection printed short sleeved t-shirt casual couple unisex",
+        "picUrl": "https://cdn.findqc.com/item/20250814/mebf7jar_eycm.jpg",
+        "price": "¥138.90",
+        "toPrice": "$21.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1697509485",
+          "name": "HOTREPS",
+          "logo": "https://si.geilicdn.com/shopedit1938853185-7042000001979d0fa3990a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346824",
+        "mallType": "WD",
+        "itemId": "7281925343",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sb6a3j_o2at.jpg",
+        "price": "¥111.20",
+        "toPrice": "$17.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1628294393",
+          "name": "LLL",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-41c30000018f93b4a0620a22d172-unadjust_604_604.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2097496",
+        "mallType": "T1688",
+        "itemId": "919293261890",
+        "title": "New triangle trendy brand round neck letter metal casual short sleeved shirt for men and women, summer fashion top versatile ZS",
+        "picUrl": "https://cdn.findqc.com/item/20250814/mebdgoat_s0xw.jpg",
+        "price": "¥64.85",
+        "toPrice": "$10.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218820651018",
+          "name": "高密市斋烁贸易商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2091466",
+        "mallType": "WD",
+        "itemId": "7506822334",
+        "title": "Vini (in stock) P small label base short sleeved/50 count skin friendly silky cotton/adhesive logo",
+        "picUrl": "https://cdn.findqc.com/item/20250814/meb918u9_uho6.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2095847",
+        "mallType": "T1688",
+        "itemId": "921461897211",
+        "title": "2025 New Trendy Brand Flat Fabric 3D Printed Short Sleeves for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250814/meb6gqah_jw7d.jpg",
+        "price": "¥19.00",
+        "toPrice": "$2.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216030844004",
+          "name": "上饶市超怡服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2056367",
+        "mallType": "T1688",
+        "itemId": "909268430545",
+        "title": "Cross border trendy brand American high street THUG CLUB retro distressed dirty dyed faded star moon flag print short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250814/meb4n0vv_yfhp.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaWb-a5eY-xvLn8WZdXnbsA",
+          "name": "广州槿禾服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1813358",
+        "mallType": "WD",
+        "itemId": "7512905726",
+        "title": "Co branded printed football jersey loose sports short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250809/me3xoqd6_vese.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1853693293",
+          "name": "AT66 Studio",
+          "logo": "https://si.geilicdn.com/wdseller1940495825-5a5e00000196b44f0c400a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2056370",
+        "mallType": "T1688",
+        "itemId": "906435784068",
+        "title": "Summer American Warren Lotas Cartoon Skull Hell Death Print Short-Sleeved Couple High Street 15 T-Shirts",
+        "picUrl": "https://cdn.findqc.com/item/20250814/meb41yoi_x77y.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaWb-a5eY-xvLn8WZdXnbsA",
+          "name": "广州槿禾服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147259451916156675",
+  "language": "en"
+}

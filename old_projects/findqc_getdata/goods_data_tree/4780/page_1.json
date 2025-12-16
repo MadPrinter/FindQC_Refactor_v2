@@ -1,0 +1,491 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3152252",
+        "mallType": "TB",
+        "itemId": "854564657656",
+        "title": "2024 New Spider Golf Putter Grip Super stroke Limited Edition PISTOR GT1.0\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/4229106738/O1CN01NyRosK1ze3haN8LT5_!!4229106738.jpg",
+        "price": "¥28.85",
+        "toPrice": "$4.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "477612260",
+          "name": "BUFF高尔夫用品店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3048377",
+        "mallType": "T1688",
+        "itemId": "669644306089",
+        "title": "主圣达 小丑女X特遣队哈利 棒球棍 奎茵 防身棍子74CM  84CM现货",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BQirYL1gsH1r0aHtK_!!1011574197-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1011574197",
+          "name": "义乌市创吉假发有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "968481",
+        "mallType": "WD",
+        "itemId": "7293387046",
+        "title": "R73240-H22",
+        "picUrl": "https://cdn.findqc.com/item/20251018/mgwe9nj8_n7rn.jpg",
+        "price": "¥558.00",
+        "toPrice": "$87.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1741177537",
+          "name": "ROCKET2",
+          "logo": "https://si.geilicdn.com/weidian1765159361-324c000001921cb86db50a23047e_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2140846",
+        "mallType": "T1688",
+        "itemId": "525596142584",
+        "title": "Thickened alloy steel baseball bat car fitness baseball bat multi-color optional family baseball bat can be printed LOGO",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Qj4BXb2CP1N7nNnLl_!!969148465-0-cib.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "969148465",
+          "name": "定州市博汇商贸中心",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2597233",
+        "mallType": "WD",
+        "itemId": "7326510016",
+        "title": "R75382-H51",
+        "picUrl": "https://cdn.findqc.com/item/20251004/mgc6k21i_hm1s.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1829168265",
+          "name": "ROCKET4",
+          "logo": "https://si.geilicdn.com/weidian1811741420-7c1b000001913c5d2fa10a20e273_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1364489",
+        "mallType": "WD",
+        "itemId": "7449123816",
+        "title": "Baseball bat in red and black",
+        "picUrl": "https://cdn.findqc.com/item/20250907/mf9iqz2m_ukee.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1847561709",
+          "name": "Highstreet CND ISLAND",
+          "logo": "https://si.geilicdn.com/wdseller1575136538-7c5400000195f1126c630a23057e_1242_1245.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "227158",
+        "mallType": "TB",
+        "itemId": "593254965349",
+        "title": "Trendy Baseball Bat Stylish Customized thickened Hardened Alloy Steel Car-Mounted Men Women's Self-Defense Weapon Baseball Bat",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rgqvbd_9k4c.jpg",
+        "price": "¥14.90",
+        "toPrice": "$2.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "149313076",
+          "name": "ONEPIECE体育用品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2018236",
+        "mallType": "TB",
+        "itemId": "686033862810",
+        "title": "Dark luxury heavy industry cross carved all solid wood beech wood men's and women's practical decoration self-defense baseball bat",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me12p7rk_qrxk.jpg",
+        "price": "¥336.00",
+        "toPrice": "$52.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106400327",
+          "name": "老罗仓库",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1554445",
+        "mallType": "WD",
+        "itemId": "7442924378",
+        "title": "R92280-H62",
+        "picUrl": "https://cdn.findqc.com/item/20250628/mcg15k5d_p7po.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1829168265",
+          "name": "ROCKET4",
+          "logo": "https://si.geilicdn.com/weidian1811741420-7c1b000001913c5d2fa10a20e273_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1467333",
+        "mallType": "WD",
+        "itemId": "7325454385",
+        "title": "R75369-H51",
+        "picUrl": "https://cdn.findqc.com/item/20250606/mbk5fbay_ogdz.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1829168265",
+          "name": "ROCKET4",
+          "logo": "https://si.geilicdn.com/weidian1811741420-7c1b000001913c5d2fa10a20e273_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1451342",
+        "mallType": "WD",
+        "itemId": "7311834849",
+        "title": "R56993-H45",
+        "picUrl": "https://cdn.findqc.com/item/20250604/mbhuxv9i_7f46.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1829168265",
+          "name": "ROCKET4",
+          "logo": "https://si.geilicdn.com/weidian1811741420-7c1b000001913c5d2fa10a20e273_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "338385",
+        "mallType": "WD",
+        "itemId": "7308009852",
+        "title": "R75009-H26",
+        "picUrl": "https://cdn.findqc.com/item/20241215/m4oxy2jn_ia47.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1741177537",
+          "name": "ROCKET2",
+          "logo": "https://si.geilicdn.com/weidian1765159361-324c000001921cb86db50a23047e_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147190562553906897",
+  "language": "en"
+}

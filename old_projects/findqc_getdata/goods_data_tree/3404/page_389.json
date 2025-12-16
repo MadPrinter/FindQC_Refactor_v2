@@ -1,0 +1,364 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1290",
+        "mallType": "T1688",
+        "itemId": "647871425127",
+        "title": "Amazon Hot Summer New Men's Fashion Top Shirt Men's Long Sleeve Sweater Jacket Men's Polo Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3n00jkl_xsg0.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBy6eclFakEnKGJbTmBZpf1Q",
+          "name": "广州子鑫供应链有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 129,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2534760",
+        "mallType": "WD",
+        "itemId": "7525555000",
+        "title": "Stu22y Hoodie 281",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgfx4gz5_gyhu.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616049789",
+          "name": "ZS factory2",
+          "logo": "https://si.geilicdn.com/wdseller1965552696-487e00000197e0b8acdf0a210139_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1776197",
+        "mallType": "WD",
+        "itemId": "7469230622",
+        "title": "【 DX14 】 Three dimensional silicone letter men's and women's American high street plush hoodie sweatshirt jacket hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgfx4gvw_cfh7.jpg",
+        "price": "¥102.00",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1623676253",
+          "name": "巴黎变色龙",
+          "logo": "https://si.geilicdn.com/wdseller901955443756-682500000196d040f88a0a811411_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2619465",
+        "mallType": "WD",
+        "itemId": "7345536144",
+        "title": "10435 Pugongying Pony Embroidery Zipper Coat",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgfvy314_2rkg.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2619416",
+        "mallType": "WD",
+        "itemId": "7545665275",
+        "title": "090928 miusi round neck hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgfujw0e_8f5r.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1835475968",
+          "name": "海绵宝宝 Spongebob",
+          "logo": "https://si.geilicdn.com/shopedit1977362831-198b00000198b0a35df90a23037f-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2619318",
+        "mallType": "TB",
+        "itemId": "859169842242",
+        "title": "E582 Half Zipper Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgfrrp9s_h9zj.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "226610",
+        "mallType": "WD",
+        "itemId": "7275670766",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rgnpt9_wkzd.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675444645",
+          "name": "WG",
+          "logo": "https://si.geilicdn.com/shopedit1884592270-4ba500000195d22b306e0a2315ef-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "350198",
+        "mallType": "T1688",
+        "itemId": "848482756179",
+        "title": "Amazon Aliexpress Cross-Border American Fashion Brand Casual Street Color Matching Splicing Letter Foam Printed Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241221/m4ybqlsa_8dts.jpg",
+        "price": "¥42.99",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5l6L52P52-GBrwLDClFCWA",
+          "name": "中山莱妙利电子商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2365260",
+        "mallType": "WD",
+        "itemId": "7448980657",
+        "title": "L801",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgff88mw_92g4.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1831075997",
+          "name": "黑马王子",
+          "logo": "https://si.geilicdn.com/wdseller1948753468-6ad7000001964744abe90a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2616390",
+        "mallType": "T1688",
+        "itemId": "676847834266",
+        "title": "FOG double thread ESSENTIALS Season 8 1977 hooded sweater men's fashion brand lazy style raglan sleeve hoodie women",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgfczksy_19kn.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHwFvDDnC8qa3O80qhnR47g",
+          "name": "上饶世纪特服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 95,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2019638",
+        "mallType": "WD",
+        "itemId": "7327651826",
+        "title": "B @ @ PE Coat Special Offer",
+        "picUrl": "https://si.geilicdn.com/pcitem1841091927-1db400000194fdd885d00a210139_1260_1260.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614741273",
+          "name": "SH—Clothes",
+          "logo": "https://si.geilicdn.com/wdseller1841091927-46b100000190b54906100a210349_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1271",
+        "mallType": "T1688",
+        "itemId": "680341630958",
+        "title": "Fog Trendy Brand AM Sweater Crack Letter logo Splash Ink Flow Paint Graffiti Embroidered Hoodie Couple Jacket IR1",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3n01r3h_vspe.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkZQhHOnAqRbgkwSQM3RUng",
+          "name": "广州奕辰国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 390,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2489095",
+        "mallType": "WD",
+        "itemId": "7557975162",
+        "title": "Co branded hooded sweatshirt set with reflective strip sportswear",
+        "picUrl": "https://cdn.findqc.com/item/20251005/mgdgbf7v_mrpv.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1754336925",
+          "name": "Thre3 shop",
+          "logo": "https://si.geilicdn.com/shopedit1949930306-3bae00000199f15aea7f0a23047e-unadjust_544_544.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1431331",
+        "mallType": "T1688",
+        "itemId": "817637762007",
+        "title": "Cross-border FactorY Direct New Y2K Zipper Hoodie vicinity Retro StYle Hip-hop Cardigan Hooded Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Pa45DX1YxIg2cKNt4_!!2217007463125-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpx0TT6vqajWaNU2ombvl6A",
+          "name": "汕头市潮阳区爱悦汇服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1430397",
+        "mallType": "T1688",
+        "itemId": "846466680571",
+        "title": "F1 Embroidered Racing Suit Cross-Border Retro European and American Cool Style Car Cycling Jacket Casual Long-Sleeved Cotton Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01iyVGXL1zgo8bLQbJC_!!2211404136744-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgP-pQYFDwOsdPQgOgt7RpQ",
+          "name": "五华县桥江汽车配件贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1427310",
+        "mallType": "WD",
+        "itemId": "7347891540",
+        "title": "Fenghuo 10708 hooded 3202",
+        "picUrl": "https://cdn.findqc.com/item/20250529/mb8mzcsk_ikri.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1432259",
+        "mallType": "T1688",
+        "itemId": "911627848481",
+        "title": "25 Spring Plug Wood Steel Printed terry Hooded Sweater for Men and Women American Loose Hoodie terry Cotton Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01s9qHdZ1DZO8xCZaUN_!!2215771590230-0-cib.jpg",
+        "price": "¥99.90",
+        "toPrice": "$15.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTcCoRs2X0suCsPvZDtJ2bw",
+          "name": "即墨区优贝美服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1428334",
+        "mallType": "WD",
+        "itemId": "5932721250",
+        "title": "The North Face TNF Korean 1966 Large Neck Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/wdseller1580016155-601d00000184d8a5bc430a20e2c5_1440_1920.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1835085632",
+          "name": "大咖 （正常发货）",
+          "logo": "https://si.geilicdn.com/wdseller1417227840-0ac00000017742b98b7c0a21348d_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2304010",
+        "mallType": "T1688",
+        "itemId": "862912240978",
+        "title": "New FOG ESSENTIALS American High Street Fashion Men's and Women's Loose Autumn/Winter Plush Hoodie Set",
+        "picUrl": "https://cdn.findqc.com/item/20251006/mgevdno9_m4j2.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnDcscHc9CmUmQoCebjm3Mw",
+          "name": "镇平县田岸珠宝商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146418011917132246",
+  "language": "en"
+}

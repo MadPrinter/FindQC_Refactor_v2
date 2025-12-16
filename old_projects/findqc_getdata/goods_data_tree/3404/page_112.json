@@ -1,0 +1,385 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2259993",
+        "mallType": "WD",
+        "itemId": "7463091342",
+        "title": "Hooded Sweatshirt R",
+        "picUrl": "https://si.geilicdn.com/open1850807833-1234478995-148f00000196abad06c80a231226_1920_1920.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850807833",
+          "name": "Dupe&amp;Brand",
+          "logo": "https://si.geilicdn.com/shopedit1839305834-5e5100000196d4c108590a811411-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1821450",
+        "mallType": "WD",
+        "itemId": "7499116230",
+        "title": "Coat#",
+        "picUrl": "https://si.geilicdn.com/open1735853037-1234478995-423c00000197a85c6d600aa0c791_1067_1067.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3034712",
+        "mallType": "T1688",
+        "itemId": "927998259531",
+        "title": "2025 New Fashion Round Neck Sweat CNTZ Pattern Series Printed Loose Pullover Sweat Pants Hot Sale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ohZbca1ipeIua92dN_!!2218834474462-0-cib.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfzOs3OLwwsQ_qSEwm5FZng",
+          "name": "普宁市流沙潮依衫服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2605010",
+        "mallType": "T1688",
+        "itemId": "862552880504",
+        "title": "European and American fashion brand new Trapstar sweater suit three color optional embroidery drawstring hooded coat sports suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hIBApy1Qo7rcu5HgU_!!2219033402022-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBeA5rQmM4TBbw3xPPR_ImxQ",
+          "name": "广州惠铭贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2115117",
+        "mallType": "WD",
+        "itemId": "7523024000",
+        "title": "Horseshoe Hooded Sweatshirt-MLMLSPHO0202",
+        "picUrl": "https://si.geilicdn.com/open1326912390-1234478995-55a00000019883a95f150a8115c2_1200_1200.jpg",
+        "price": "¥367.00",
+        "toPrice": "$57.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1326912390",
+          "name": "Kung-Fu",
+          "logo": "https://si.geilicdn.com/shopedit1326912390-465c000001922657a18d0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1157009",
+        "mallType": "WD",
+        "itemId": "7431251102",
+        "title": "DX37] American Loose Sweatshirt Hoodie Sweatpants Men's and Women's Hip Hop Street Couple Casual Suit-CY",
+        "picUrl": "https://si.geilicdn.com/open1652813497-252808396-12bd00000192b24d39160a210298_800_800.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668172557",
+          "name": "TOPSUMMER",
+          "logo": "https://si.geilicdn.com/pcdecorate901935370638-6dde000001956ab6cb320a231316-unadjust_350_350.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603432",
+        "mallType": "TB",
+        "itemId": "979337288041",
+        "title": "HBA style deconstruction of double-sided hoodie, overweight Kanye wearing the same series, Vibe hip-hop trend",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/82460901/O1CN013qLDUd1IWhwldlx5e_!!82460901.jpg",
+        "price": "¥293.74",
+        "toPrice": "$46.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108867522",
+          "name": "G D订制",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2412144",
+        "mallType": "WD",
+        "itemId": "7524988893",
+        "title": "Fashionable Fall and Winter Hooded Jacket",
+        "picUrl": "https://si.geilicdn.com/open1779371725-1234478995-1eeb00000194ead283d30a8115b5_1200_1200.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1624546877",
+          "name": "China Factory Store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2335466",
+        "mallType": "T1688",
+        "itemId": "921760967023",
+        "title": "2025 Spring and Autumn new unisex sweater jacquard embroidery round neck loose casual pullover knitted sweater wholesale\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01c7p0tb1d8zK8hDgJh_!!2218518283692-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_nVwfdBL2a1IkKL2ylljjA",
+          "name": "佛山市南海区槿音服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 497,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "391396",
+        "mallType": "T1688",
+        "itemId": "856680295721",
+        "title": "24 Spring and Autumn New Zipper Shirt Outdoor Sports Leisure Hooded Jacket Air Layer Cotton Reflective Rubber Jacket for Men",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm78l4_gvyw.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9Cxbj_y1A7uGxVPX4opN8g",
+          "name": "莆田市秀屿区魔术师服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 131,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1293541",
+        "mallType": "T1688",
+        "itemId": "897848239024",
+        "title": "Spring and Autumn Thin Pony Hooded RL Cardigan Solid Color Sweater Embroidered Loose plus size Paul Men's Polo Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250718/md8lva41_0yav.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRaVfvb7qKTeTLD03Ef8j7A",
+          "name": "广州西潮服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 604,
+        "qcVideoCnt": 25
+      },
+      {
+        "id": "2410466",
+        "mallType": "WD",
+        "itemId": "7547149176",
+        "title": "DJXPCS New Fashionable Hundred Sweatshirt-01",
+        "picUrl": "https://si.geilicdn.com/open1737227933-1234478995-0e1d000001985a4fbde20a23b4de_1200_1200.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1660742301",
+          "name": "Supercats",
+          "logo": "https://si.geilicdn.com/shopedit1949380991-5cab000001992d737e5d0a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2915189",
+        "mallType": "WD",
+        "itemId": "7585059119",
+        "title": "Sentry Set-Enter store, more 500+ items",
+        "picUrl": "https://si.geilicdn.com/pcitem1935497113-131100000199f7b9127d0a21146b_2000_2000.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1686104627",
+          "name": "Winter Buy",
+          "logo": "https://si.geilicdn.com/shopedit2003288466-552b0000019a29d84b940a20e273-unadjust_650_650.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2995265",
+        "mallType": "WD",
+        "itemId": "7599667485",
+        "title": "AW09-毛衣（高品质）+86 18965976222",
+        "picUrl": "https://si.geilicdn.com/pcitem901938109088-437c00000195b39fc7300a23047e_1000_1000.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1763685667",
+          "name": "Aura Collective",
+          "logo": "https://si.geilicdn.com/weidian1984118026-79f600000198d5affa3f0a23041a_1096_1096.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3026516",
+        "mallType": "WD",
+        "itemId": "7591951523",
+        "title": "hoodie",
+        "picUrl": "https://si.geilicdn.com/open1652860877-1234478995-4e2100000194fe7dac970a239383_800_800.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661356476",
+          "name": "guohai",
+          "logo": "https://si.geilicdn.com/shopedit1556429031-71ff00000199912873ac0a20e7c7-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2453309",
+        "mallType": "T1688",
+        "itemId": "888752319256",
+        "title": "Cross-border foreign trade towel embroidered love hooded sweatshirt loose versatile casual couples wear men and women long-sleeved tide card",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yVOfMg1pCRglQPILY_!!2219135685324-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219135685324",
+          "name": "清河县温时服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2454826",
+        "mallType": "WD",
+        "itemId": "7525635136",
+        "title": "Fashion Trend Hoodie Sweatshirt Set YHH05",
+        "picUrl": "https://si.geilicdn.com/open1710358237-1234478995-0c61000001989c3bfb890a22d249-unadjust_1200_1200.png",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710358237",
+          "name": "snowball shop",
+          "logo": "https://si.geilicdn.com/shopedit1956517804-5783000001974e8a56410a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2450805",
+        "mallType": "WD",
+        "itemId": "7517823875",
+        "title": "High quality fashionable versatile sweater-pan",
+        "picUrl": "https://si.geilicdn.com/open1835655597-1234478995-3bd3000001985b540e7a0a22d249_800_800.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1835655597",
+          "name": "Nn shop-P2",
+          "logo": "https://si.geilicdn.com/shopedit1937145488-4ea90000019a1a93f2680a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2471609",
+        "mallType": "WD",
+        "itemId": "7520035467",
+        "title": "320",
+        "picUrl": "https://si.geilicdn.com/open1860184189-1234478995-04e300000198793004710a8133b0_1170_1170.jpg",
+        "price": "¥102.70",
+        "toPrice": "$16.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1860184189",
+          "name": "Bapewarrior",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451357",
+        "mallType": "WD",
+        "itemId": "7531443224",
+        "title": "KK02-EECS-S Stone Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1834072259-1234478995-275700000198c165f72f0a8133b0-unadjust_1200_1228.png",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834072259",
+          "name": "KK TOP",
+          "logo": "https://si.geilicdn.com/shopedit1979664068-15860000019a4f5898ba0a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114254241249879795",
+  "language": "en"
+}

@@ -1,0 +1,30 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "7714",
+        "mallType": "T1688",
+        "itemId": "758786932225",
+        "title": "Goose Label Patch Embroider Cloth Patch Badge Armband Patch Hole Sewing Versatile DIY Non-Adhesive Hand-Sewn Ready-Made Trendy Style",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9uzoc_5vsn.jpg",
+        "price": "¥0.80",
+        "toPrice": "$0.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB2D-HEL_415yEEhHzQiIZfg",
+          "name": "佛山市南海区皓形电脑绣花厂",
+          "type": "T1688"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 102,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140561411924852973",
+  "language": "en"
+}

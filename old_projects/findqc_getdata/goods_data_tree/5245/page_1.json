@@ -1,0 +1,508 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3189562",
+        "mallType": "T1688",
+        "itemId": "962574083087",
+        "title": "新款欧美跨境户外运动骑行偏光太阳镜男女潮复古旅游驾驶墨镜8001",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nlUQSc1Z1QLsO6NVx_!!2220436433134-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB2ysPMlrmnBoqKQt5jb2bIg",
+          "name": "临海市选几洋贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1573892",
+        "mallType": "T1688",
+        "itemId": "739013476809",
+        "title": "New European and American Cross-border Outdoor Sports Cycling Polarized Sunglasses for Men and Women Trendy Retro Driving Driving Sunglasses",
+        "picUrl": "https://cdn.findqc.com/item/20250815/meczdeqk_yseb.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBclSIx0fKrrm4S0lYvCrwvQ",
+          "name": "广州市锦狮户外用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3200203",
+        "mallType": "TB",
+        "itemId": "853522771111",
+        "title": "Arena High-Definition Swimming Goggles Large Frame Anti-Fog Electroplated Waterproof Racing Unisex Brand Training Adult",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2218951921412/O1CN0130OrtD1MIkFsIPwLn_!!2218951921412.png",
+        "price": "¥56.03",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258942465",
+          "name": "泳动者运动",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "839332",
+        "mallType": "T1688",
+        "itemId": "634165536856",
+        "title": "Europe and the United States personality gap broken sunglasses 2021 new hip-hop sunglasses mint green sunglasses trend catwalk",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01od0anN1GyyzS4SVVA_!!2340660692-0-cib.jpg",
+        "price": "¥8.50",
+        "toPrice": "$1.34",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1909329",
+        "mallType": "TB",
+        "itemId": "926672791417",
+        "title": "101's store retro street cool Y2K sunglasses concave styling ins netroots same punk polarized sunglasses",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2427589483/O1CN01RxNhQX2JvGwx846HK_!!2427589483.png",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "530703704",
+          "name": "101的店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1792501",
+        "mallType": "WD",
+        "itemId": "5068437279",
+        "title": "(In stock) Self owned sunglasses BAL22 limited edition new Paris sunglasses fluorescent color changing sunglasses non LED luminous closed eye operation for a long time in stock remark color",
+        "picUrl": "https://cdn.findqc.com/item/20250722/mddys96v_za1x.jpg",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1350023534",
+          "name": "需要钱不是朋友club",
+          "logo": "https://si.geilicdn.com/wdseller1350023534-5e2b00000174c4b0d04c0a217216_959_959.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "970297",
+        "mallType": "TB",
+        "itemId": "745535178290",
+        "title": "[In Stock] Pi0neeR Avant-Garde Pioneer Sunglasses Dark American Mutant Handmade Drip Sunglasses [Venom]",
+        "picUrl": "https://cdn.findqc.com/item/20250309/m80nf1kz_nsng.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "294723873",
+          "name": "Pi0neeR",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "914287",
+        "mallType": "WD",
+        "itemId": "7377721607",
+        "title": "107L-30672",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5n1s4u_wfr0.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1852329689",
+          "name": "Lemon2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "885276",
+        "mallType": "TB",
+        "itemId": "831229405084",
+        "title": "satisfy joint 2.0 sunglasses outdoor sports cycling UV protection sunglasses personalized fashion sunglasses",
+        "picUrl": "https://cdn.findqc.com/item/20250225/m7k56ro2_ffqv.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258806859",
+          "name": "RADRACE",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "64154",
+        "mallType": "WD",
+        "itemId": "6469936739",
+        "title": "Dazzling cool cat sunglasses Europe and the United States wind future technology sense Y2K heterosexual concave modeling men and women street shooting UV protection",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjnxxt_eh77.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637610630",
+          "name": "灏雨眼镜",
+          "logo": "https://si.geilicdn.com/weidian1659426221-3c070000018c4eba11cd0a22d3fa_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "60118",
+        "mallType": "TB",
+        "itemId": "694326894542",
+        "title": "2024 new bread foam sunglasses female net red ins tide people hot push inflatable square colored sunglasses",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mi7u0z_ilvd.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36172",
+        "mallType": "TB",
+        "itemId": "681043398213",
+        "title": "2025 New Black Sunglasses for Outdoor Sports, Sun Protection, Trendy European and American Style, Men's Cycling Windproof",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nktqxx_qt04.jpg",
+        "price": "¥29.93",
+        "toPrice": "$4.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "119019173",
+          "name": "BLACK STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26744",
+        "mallType": "TB",
+        "itemId": "3092626021",
+        "title": "Battery car electric car motorcycle men and women outdoor sports goggles cycling anti wind sand glasses small wind glasses",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nihoo1_uf95.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "17113",
+        "mallType": "T1688",
+        "itemId": "780250301849",
+        "title": "LOELW4009 TOPquality Fashion Cat Eye Party Personalized Small Face Vacation Spicy Girl Sunglasses Anti UV",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3neq1va_6mec.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqcsOCcrokLDqNp6Gka2g7g",
+          "name": "深圳市龙岗区月月潮舍贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021148369711914133685",
+  "language": "en"
+}

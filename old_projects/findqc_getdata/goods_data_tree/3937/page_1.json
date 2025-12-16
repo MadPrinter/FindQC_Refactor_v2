@@ -1,0 +1,493 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2610526",
+        "mallType": "T1688",
+        "itemId": "775586123669",
+        "title": "Woobles cross-border new products hand-woven pendant purple flower hanging basket wool production DIY material bag",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IddYAg1SBlp2lbjT5_!!2215856862209-0-cib.jpg",
+        "price": "¥19.15",
+        "toPrice": "$3.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHmJu9VQqGv5HqU3y1b2Xsg",
+          "name": "安庆迪艾哇工艺品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1293716",
+        "mallType": "T1688",
+        "itemId": "892237428863",
+        "title": "American Street Style T-Shirt, Pure Cotton 270g, Trendy Brand, English Short-Sleeve, Casual, Versatile, Loose Fit, New Style 25Ss Tee",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PNpj2C22ta2DFe505_!!2218882757178-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpbgdBJxkJc2hEzJdiD4KFQ",
+          "name": "陆丰市东海润逸电子商务工作室",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2907228",
+        "mallType": "TB",
+        "itemId": "725195279264",
+        "title": "Hahaha pendant with sound plush toy figurine, Zelda koala, surrounding kingdom, tears, Kroger",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkihxsb_ml9p.jpg",
+        "price": "¥20.61",
+        "toPrice": "$3.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102842100",
+          "name": "亲儿美旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896368",
+        "mallType": "TB",
+        "itemId": "896551111583",
+        "title": "New Chinese style hand towel with high aesthetic value, kitchen and bathroom hanging small towel, super absorbent, thick and cute handkerchief",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjw139a_kuo8.jpg",
+        "price": "¥14.20",
+        "toPrice": "$2.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "586734726",
+          "name": "遇见美好杂货铺子",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2590698",
+        "mallType": "T1688",
+        "itemId": "747177414212",
+        "title": "Christmas Cartoon Doll Bouquet Finished Product Hand-Held Flower Gift for Friends and Girlfriends Birthday Gift Souvenir",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgg74lx9_bwym.jpg",
+        "price": "¥14.90",
+        "toPrice": "$2.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-vQIWwbcTVnhlVT7S1Wf7g",
+          "name": "义乌市野沙仿真花有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2081338",
+        "mallType": "TB",
+        "itemId": "900205492454",
+        "title": "Goblin Baby Crying Voice Pendant, Royal War-Themed Peripheral Sound-Making Doll Keychain, Anime Plush Toy",
+        "picUrl": "https://cdn.findqc.com/item/20250912/mfglzlxm_kf1z.jpg",
+        "price": "¥5.73",
+        "toPrice": "$0.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "541007976",
+          "name": "玖洲潮玩店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2226418",
+        "mallType": "WD",
+        "itemId": "7505570290",
+        "title": "The new product CR704 Quilting Tabby in February features a chain tabby with stitching technology. The cool dark buckle is understated yet high-end, while the silver buckle is retro gold. Choose a size and color you like, size 26/15.",
+        "picUrl": "https://cdn.findqc.com/item/20250830/mexusp78_0y7r.jpg",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700047448",
+          "name": "Ik外贸",
+          "logo": "https://si.geilicdn.com/wdseller1474984764-205700000170e4615da30a21c2a7_1006_1081.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "945599",
+        "mallType": "TB",
+        "itemId": "741146611166",
+        "title": "SKINWEAR SPIDER BEANIE SPIDER cold hat",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0y1sbn_g2zq.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "545473275",
+          "name": "highstreet socks",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "179710",
+        "mallType": "TB",
+        "itemId": "826023365679",
+        "title": "Girls colorful hairball hair rope super cute rubber band new kindergarten girls cute hair circle high elastic headdress elasticity",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqcic9_k9bi.jpg",
+        "price": "¥2.90",
+        "toPrice": "$0.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "223105282",
+          "name": "女神范小饰界",
+          "type": "TB"
+        },
+        "categoryId": 38,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "175322",
+        "mallType": "T1688",
+        "itemId": "826447246997",
+        "title": "New handheld wool rose bouquet knitted roses holiday bouquet birthday gift for girlfriends mom teacher",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq2mym_apn6.jpg",
+        "price": "¥8.90",
+        "toPrice": "$1.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215533756980",
+          "name": "义乌市芄柠文化创意有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "173325",
+        "mallType": "TB",
+        "itemId": "728926884222",
+        "title": "Chinese Building Block Succulent Plants Are Suitable for Lazy People to Grow, Adult Version Assembly Ornaments, Girls' Toys, Gifts for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpz91s_5g4t.jpg",
+        "price": "¥6.04",
+        "toPrice": "$0.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "549017440",
+          "name": "nice玩具店",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 70,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "60975",
+        "mallType": "TB",
+        "itemId": "735590787444",
+        "title": "Setsi knitted cap cartoon weird flower cap Europe and the United States popular cap hip-hop hat cartoon pirate men and women Shrek",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mijfzc_fy7n.jpg",
+        "price": "¥13.00",
+        "toPrice": "$2.04",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26056",
+        "mallType": "TB",
+        "itemId": "755818027492",
+        "title": "Popcorn Sandwich Oatmeal Bowl Burger Baguette Pizza Cocktail Plush Doll Gift",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nidorg_j901.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "categoryId": 25,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114422429249873757",
+  "language": "en"
+}

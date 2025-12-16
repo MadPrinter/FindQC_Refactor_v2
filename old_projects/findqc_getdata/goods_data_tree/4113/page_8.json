@@ -1,0 +1,50 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "68708",
+        "mallType": "WD",
+        "itemId": "7192538948",
+        "title": "X] @D Samba collection annual king of shoes factory micro-profit price reduction to rush volume",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmduwc_e96e.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1812255049",
+          "name": "888VIP-SNKRS",
+          "logo": "https://si.geilicdn.com/pcdecorate1816621089-76180000018cef01570f0a239737-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "66209",
+        "mallType": "WD",
+        "itemId": "6020497189",
+        "title": "H34CN N1ke Air Force 1 Low '-CV1724-111",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlk2df_u8el.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1753723858",
+          "name": "CNFactory2",
+          "logo": "https://si.geilicdn.com/shopedit1598594944-142f0000018617b347180a2313a2-unadjust_123_123.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145086661911215440",
+  "language": "en"
+}

@@ -1,0 +1,619 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2029317",
+        "mallType": "T1688",
+        "itemId": "892525821032",
+        "title": "Children's jackets spring new boys and girls casual zipper cardigan warm top baby Korean hooded jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RrcMyT2LRA7Ypcu3Y_!!2214426249688-0-cib.jpg",
+        "price": "¥14.30",
+        "toPrice": "$2.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214426249688",
+          "name": "商丘市睢阳区贝卡奥利服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2105157",
+        "mallType": "WD",
+        "itemId": "7510413395",
+        "title": "1+071801 Zipper Knit Sweater Jacket Unisex",
+        "picUrl": "https://si.geilicdn.com/pcitem901943413513-0bf3000001981da3caeb0a811411_1536_2048.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3093858",
+        "mallType": "WD",
+        "itemId": "7569745252",
+        "title": "(130-170) New children's fleece jacket for autumn and winter 2025, suitable for both boys and girls, casual sports stand up collar jacket",
+        "picUrl": "https://si.geilicdn.com/open1864128688-1234478995-0d0e00000199c9e960250a231226_1702_1702.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864128688",
+          "name": "夏夏童品（童鞋童装）",
+          "logo": "https://si.geilicdn.com/wdseller1444539219-1bf200000179006d0b570a217216_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 38,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2227285",
+        "mallType": "WD",
+        "itemId": "7515444260",
+        "title": "Embroidered lamb's wool hooded zipper men's and women's style cotton jacket jacket loose warm-MLMLSPTS0404",
+        "picUrl": "https://si.geilicdn.com/open1326912390-1234478995-55b300000198414e19ba0a23b4de_1024_1024.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1326912390",
+          "name": "Kung-Fu",
+          "logo": "https://si.geilicdn.com/shopedit1326912390-465c000001922657a18d0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2189537",
+        "mallType": "T1688",
+        "itemId": "870209917078",
+        "title": "Children's sweater 2025 squinting eyes fall new boys and girls hooded jacquard cardigan baby zipper wool coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Nl5eVH1XhtnJyMOtL_!!3207252956-0-cib.jpg",
+        "price": "¥49.90",
+        "toPrice": "$7.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3207252956",
+          "name": "湖州眯眯眼服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2910366",
+        "mallType": "T1688",
+        "itemId": "836396019572",
+        "title": "2025 Kidsren's Outwears for Boys and Girls Double-Sided Plush Sweaters Baby Japanese Style Fashion Brand Thickeneded Composite One-Piece Velvet Tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xbfW3w2AJPbSJJDSz_!!2217937418182-0-cib.jpg",
+        "price": "¥19.80",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxZXXDNC04N43lzIFiWglqQ",
+          "name": "佛山市禅城区小布熊高端服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 38,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2247330",
+        "mallType": "WD",
+        "itemId": "7483443218",
+        "title": "Outerwear Baseball Embroidery",
+        "picUrl": "https://si.geilicdn.com/pcitem1869079105-157e0000019275b8ebc40a230115_750_750.jpg",
+        "price": "¥226.00",
+        "toPrice": "$35.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1547286",
+        "mallType": "WD",
+        "itemId": "7447435587",
+        "title": "🌏 White pony coat",
+        "picUrl": "https://si.geilicdn.com/pcitem1939076261-2b6d000001963f42943f0a81347d_1536_1920.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1810134125",
+          "name": "XO",
+          "logo": "https://si.geilicdn.com/wdseller1939076261-123600000197553d61900a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2910361",
+        "mallType": "T1688",
+        "itemId": "841414555779",
+        "title": "Bear children's clothing in stock autumn and winter clothing boys and girls three-color polar fleece coat support a generation of hair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NtYiUL2D0aAgbjwyi_!!2216624928547-0-cib.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBE35CDJA6xy7lGKIJ9ptBKQ",
+          "name": "姚桂花",
+          "type": "T1688"
+        },
+        "categoryId": 38,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2060184",
+        "mallType": "T1688",
+        "itemId": "852697361385",
+        "title": "Children's velvet jacket with thick casual zipper cardigan for boys and girls, warm top, velvet shirt, baby hooded jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01loFJGg1t9vxHA6PcE_!!2218919205860-0-cib.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFdEZnkRZSdaW5m4cUUXUlw",
+          "name": "佛山市金天尚服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2206347",
+        "mallType": "T1688",
+        "itemId": "905157390187",
+        "title": "New explosion of handsome men's tide trend jacket hooded niche hundred Jacket American casual spring and fall plaid",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ND8h4S1sZIJ1Sv9vz_!!2219557845780-0-cib.jpg",
+        "price": "¥142.00",
+        "toPrice": "$22.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219557845780",
+          "name": "宁海用艾贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2606527",
+        "mallType": "WD",
+        "itemId": "7543323077",
+        "title": "High quality denim jacket outerwear -001-CN",
+        "picUrl": "https://si.geilicdn.com/pcitem1850836603-7cca000001915c16089f0a2315ef_1276_1702.jpg",
+        "price": "¥294.00",
+        "toPrice": "$46.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784277725",
+          "name": "4号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1655002",
+        "mallType": "WD",
+        "itemId": "7504567778",
+        "title": "Vintage washed hooded jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1968450496-3a6e00000197dbbf321d0a2304aa_1544_1921.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1808953469",
+          "name": "TangReps",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "539373",
+        "mallType": "T1688",
+        "itemId": "694161566473",
+        "title": "American Heavyweight J140 Special Classic American Hooded Work Jacket Warm Windproof Cotton Heavyweight Jacket Trendy Hart",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01adOP0F1dP1EVlYYDQ_!!2214252353727-0-cib.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDSByteUxFLX-xicXExPygQ",
+          "name": "常熟市尚湖镇好书人服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2259377",
+        "mallType": "WD",
+        "itemId": "7286252708",
+        "title": "jieyu-101106 , J130 Medium Vintage Washed Denim Cotton Hooded Jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem949985859-2c62000001927aa41e590a210256_1544_1921.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1876723",
+        "mallType": "T1688",
+        "itemId": "905173574548",
+        "title": "New explosion of handsome men's tide trend jacket hooded niche hundred Jacket American casual spring and fall plaid",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zTUmX91rxHQpKSaN9_!!2219492625697-0-cib.jpg",
+        "price": "¥133.00",
+        "toPrice": "$20.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219492625697",
+          "name": "义乌市双转电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 304,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "996433",
+        "mallType": "T1688",
+        "itemId": "838988146351",
+        "title": "European and American foreign trade black fur collar hooded sweatshirt men's winter new style zipper high street loose warm suit two-piece set\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0163HJjV1eZNi5Cetlv_!!2200719523885-0-cib.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1AqBYretz9Fa1sesnc8j3A",
+          "name": "广州市丽佳时尚服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2373268",
+        "mallType": "WD",
+        "itemId": "7546270159",
+        "title": "Wash and make old black embroidered jacket with zipper and cotton jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250917/mfo13a9t_4v92.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672878880",
+          "name": "AKRep Studio",
+          "logo": "https://si.geilicdn.com/shopedit1422394722-45d300000196e31ec2d60a21146b-unadjust_736_736.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2581289",
+        "mallType": "WD",
+        "itemId": "7413749038",
+        "title": "Big logo pellet fleece jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1231267992-387700000195778258480a811411_1080_1080.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1231267992",
+          "name": "ASEN",
+          "logo": "https://si.geilicdn.com/wdseller1231267992-76a000000191a894efbe0a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140565451914133220",
+  "language": "en"
+}

@@ -1,0 +1,371 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2902662",
+        "mallType": "TB",
+        "itemId": "547435788327",
+        "title": "Junshi Extremely Fine Hook Pen GM01 GM02GM03 Oil Mark Pen Gundam Model Hook Line Penetrating Mark Pen",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk6coxl_m07d.jpg",
+        "price": "¥13.25",
+        "toPrice": "$2.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125592308",
+          "name": "名创模型",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899707",
+        "mallType": "TB",
+        "itemId": "864616593044",
+        "title": "Suitable for Stanley insulated cup accessories, colored five pointed star straw cap, heat-resistant silicone Stanley straw stopper",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk0pior_lca2.jpg",
+        "price": "¥8.04",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "416525709",
+          "name": "丸子小姐姐商店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2637360",
+        "mallType": "TB",
+        "itemId": "836891085927",
+        "title": "10mm straw cap suitable for Stanley insulated cup accessories, straw dust plug, internet famous straw cover",
+        "picUrl": "https://cdn.findqc.com/item/20251011/mgl2dzjv_13aj.jpg",
+        "price": "¥3.90",
+        "toPrice": "$0.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116154562",
+          "name": "杯与远方",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36743",
+        "mallType": "TB",
+        "itemId": "618878329672",
+        "title": "Desktop Cable Organizer, Mobile Phone Charging Cable and Data Cable Organizer, Network Cable Routing Fixer, Storage Clip Buckle",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nl01pn_r4ay.jpg",
+        "price": "¥7.01",
+        "toPrice": "$1.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65795185",
+          "name": "万家福家居日用生活馆",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16731",
+        "mallType": "T1688",
+        "itemId": "774314978102",
+        "title": "Luggage hanging buckle suitcase buckle trolley case external hook travel business trip backpack luggage portable straps",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nekley_7nvd.jpg",
+        "price": "¥0.48",
+        "toPrice": "$0.08",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6924",
+        "mallType": "TB",
+        "itemId": "633161834025",
+        "title": "Straight Slide Keycaps, Mixer Fader Caps, Two-Color Push Keycaps, Dj Controller Knobs, Inner Hole 4mm, Narrow Mouth",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9leah_0ehp.jpg",
+        "price": "¥0.31",
+        "toPrice": "$0.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "231075599",
+          "name": "宇佳电子",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140311581913203174",
+  "language": "en"
+}

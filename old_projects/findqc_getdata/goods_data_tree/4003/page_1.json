@@ -1,0 +1,610 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2681273",
+        "mallType": "T1688",
+        "itemId": "916704782761",
+        "title": "Morocco, Tunisia, Japan, United States, Nigeria, Albania, home and away jerseys, football jerseys, fan version",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01g4XVlq1yaZ6bpqiJs_!!2217980566595-0-cib.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_wfRyAEz1lCn8qNR7yDDig",
+          "name": "桂平市木乐镇准帝体育服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1693872",
+        "mallType": "WD",
+        "itemId": "7423303613",
+        "title": "REP High Quality 4-TS-001",
+        "picUrl": "https://si.geilicdn.com/pcitem1850836603-31be000001911320c5f50a8133cc_1200_1200.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1731275749",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 76,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3145281",
+        "mallType": "T1688",
+        "itemId": "808114088843",
+        "title": "2024 Cross-border Amazon Independent Station Summer Venum Fighting Training Fighting Men's Casual Short-sleeved suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GFmgFA1QbIimzd00Y_!!2214821871994-0-cib.jpg",
+        "price": "¥34.00",
+        "toPrice": "$5.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqWWC-NFmTtchGxDmOTLTog",
+          "name": "上饶市伍毛电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1911548",
+        "mallType": "T1688",
+        "itemId": "784722397772",
+        "title": "High version of the fit washed denim AMIRI summer short-sleeved letters fluid print round neck men's short-sleeved t-shirt cross-border",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014t0UR01jMciAS8zSP_!!2215408074534-0-cib.jpg",
+        "price": "¥63.00",
+        "toPrice": "$9.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215408074534",
+          "name": "佛山市禅城区惠佳蕾服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1742326",
+        "mallType": "T1688",
+        "itemId": "920165812709",
+        "title": "2025 Hot 90Minutes series 3D printing men's sports mesh breathable loose short-sleeved T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01m0Ryrt1WZMpo9OC3h_!!2219490972802-0-cib.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219490972802",
+          "name": "上饶蓝聪电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2147658",
+        "mallType": "T1688",
+        "itemId": "782459521993",
+        "title": "Cross-border European and American tide brand REPRESENT micro-label letters casual short-sleeved shirt shorts men and women sports suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ykWXSt1MAV10hxJMe_!!2210803131394-0-cib.jpg",
+        "price": "¥57.00",
+        "toPrice": "$8.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216891680514",
+          "name": "一鹿（广州）服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1101733",
+        "mallType": "T1688",
+        "itemId": "856326180156",
+        "title": "2024 European and American Cross border Foreign Trade 3D Simple Sports Style Printed Series Three Leisure T-shirts",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011CKLCp1tAqkZjYT1Z_!!2218802895862-0-cib.jpg",
+        "price": "¥17.45",
+        "toPrice": "$2.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB57m-sb8iA1Kr0yc5tVdKiw",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2103756",
+        "mallType": "WD",
+        "itemId": "7512531619",
+        "title": "direct sales, you can see thousands of products in my store-MLMLSPTS0303",
+        "picUrl": "https://si.geilicdn.com/open1861579093-1234478995-581000000198364a9a150aa043f9_1200_1200.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1861579093",
+          "name": "Fashion Godfather",
+          "logo": "https://si.geilicdn.com/shopedit1900470184-220b00000192f695ae1f0a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1419518",
+        "mallType": "WD",
+        "itemId": "7459763717",
+        "title": "*****",
+        "picUrl": "https://si.geilicdn.com/open1659999653-252808396-749a00000196a1b68e140aa08290_800_800.jpg",
+        "price": "¥84.00",
+        "toPrice": "$13.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659999653",
+          "name": "我的店铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-641800000193b565e3020a23038e-unadjust_288_288.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1198338",
+        "mallType": "T1688",
+        "itemId": "769493794582",
+        "title": "Cross-border Corteiz Devil Island 3M reflective splicing machine wind soft shell hooded jacket men's and women's jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011Y9uDo27PsJ1m8L65_!!2215544457790-0-cib.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnxGJPsV1VyVufRv_dFairQ",
+          "name": "镇平县启利贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553276",
+        "mallType": "T1688",
+        "itemId": "856602948914",
+        "title": "soccer jerseys Thai version jersey Venice Romanda Gama Barcelona Ivory Coast fan version",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000001727/O1CN012gI6GT1Od0y1aUcQL_!!6000000001727-0-tbvideo.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2574426",
+        "mallType": "TB",
+        "itemId": "894556491719",
+        "title": "Andema Men's Short sleeved T-shirt Spring/Summer New Outdoor Breathable Sports Training Fitness Round Neck Loose Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251001/mg81wec4_gnlv.jpg",
+        "price": "¥98.75",
+        "toPrice": "$15.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57300812",
+          "name": "羽翔运动旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1567130",
+        "mallType": "TB",
+        "itemId": "918294699852",
+        "title": "MCC Lemons Housewife Same Style Jersey Ball Jacket Long Sleeve Top for Women",
+        "picUrl": "https://cdn.findqc.com/item/20250928/mg2opn0j_q7g0.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "305436588",
+          "name": "mcc lemons",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2306042",
+        "mallType": "WD",
+        "itemId": "7500183682",
+        "title": "Letter casual short sleeved shirt shorts men's and women's sports suit",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf43qhyo_22nj.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672426709",
+          "name": "你看看这！",
+          "logo": "https://si.geilicdn.com/shopedit1902426083-19b10000019971e5dc9a0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2048045",
+        "mallType": "T1688",
+        "itemId": "847488785633",
+        "title": "2024 football jacket, coat, windbreaker set, autumn and winter long sleeved training clothes, sportswear, long pull jersey, casual appearance",
+        "picUrl": "https://cdn.findqc.com/item/20250810/me4m4i1o_sq5t.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210928689036",
+          "name": "桂平市唐姿贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 57,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1841447",
+        "mallType": "T1688",
+        "itemId": "950589229918",
+        "title": "Sports Student Sports Suit Quick-Drying Breathable Short-Sleeved Elastic Physical Examination Physical Examination Track and Field Training Running Competition Top Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250806/mdz23u08_cqxu.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBE1jsYQ7hjzxlxrpulsOrHA",
+          "name": "栖霞区诺柒服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 90,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1566844",
+        "mallType": "T1688",
+        "itemId": "933474237518",
+        "title": "Sports student sports suit quick drying breathable short sleeved elastic body test track and field training running competition top shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250715/md3llqyy_7drz.jpg",
+        "price": "¥58.90",
+        "toPrice": "$9.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219909951464",
+          "name": "永康市黄柿服装商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508826",
+        "mallType": "WD",
+        "itemId": "7469515747",
+        "title": "A*D Classic Letter Embroidered Logo Beach Mesh Shorts Quick Dry Straight Pants",
+        "picUrl": "https://cdn.findqc.com/item/20250622/mc6lr6us_lgne.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1792297005",
+          "name": "Horizon Lux",
+          "logo": "https://si.geilicdn.com/pcdecorate1932139461-33160000019847221af80a81347d-unadjust_611_611.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1477891",
+        "mallType": "WD",
+        "itemId": "7488669371",
+        "title": "Letter casual short sleeved shirt shorts men's and women's sports suit",
+        "picUrl": "https://cdn.findqc.com/item/20250627/mcdytfbc_q5wr.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864913249",
+          "name": "JTC Jack&#39;s treasure chest",
+          "logo": "https://si.geilicdn.com/pcdecorate1775697816-2d580000019002b5b42f0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 2
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114441877249877399",
+  "language": "en"
+}

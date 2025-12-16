@@ -1,0 +1,425 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1528862",
+        "mallType": "T1688",
+        "itemId": "673437267010",
+        "title": "Cross-border wholesale temu polyester D word hand rope hand woven foreign trade jewelry women's national style woven bracelet tassel",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01407ZKd1PxS31PLP2p_!!2213102941907-0-cib.jpg",
+        "price": "¥13.80",
+        "toPrice": "$2.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBw5Fl2v61SWAsO2drZZ7Xuw",
+          "name": "东莞市鸿顺纺织科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 102,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905278",
+        "mallType": "TB",
+        "itemId": "796170365050",
+        "title": "Dog traction rope, dog chest strap, adjustable large, medium and small dog rope, corgi special saddle dog chain",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk8plif_poes.jpg",
+        "price": "¥20.15",
+        "toPrice": "$3.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "251788172",
+          "name": "泰小迪旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902430",
+        "mallType": "TB",
+        "itemId": "738874131989",
+        "title": "MININUPTSE down jacket keychain backpack keychain storage creative pendant keychain keybag decoration",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk5kfxp_jy28.jpg",
+        "price": "¥121.60",
+        "toPrice": "$19.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "216755476",
+          "name": "壹号位",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2645371",
+        "mallType": "T1688",
+        "itemId": "948574258475",
+        "title": "A Japanese style trendy topologie star style outdoor mobile phone hanging rope, shoulder strap rope, DIY rope for dropshipping",
+        "picUrl": "https://cdn.findqc.com/item/20251010/mgjsyjdd_49kr.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBssG1-gYoxOn1BU-llfr_vA",
+          "name": "义乌市沙可服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2300316",
+        "mallType": "TB",
+        "itemId": "717474712826",
+        "title": "Bomei corgi Designer Dog Cat Fadou Traction Rope Tide Brand Chest Back Set Tide Brand Inverted Triangle Chest Back",
+        "picUrl": "https://cdn.findqc.com/item/20250903/mf432677_tmql.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "67126318",
+          "name": "朵拉宠物用品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1792636",
+        "mallType": "TB",
+        "itemId": "918578221202",
+        "title": "New Trendy Bag Key Lanyard",
+        "picUrl": "https://cdn.findqc.com/item/20250725/mdiiki3p_i48x.jpg",
+        "price": "¥10.37",
+        "toPrice": "$1.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101667511",
+          "name": "粉色柠檬饰品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 86,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "36554",
+        "mallType": "TB",
+        "itemId": "758179389858",
+        "title": "Suitable for Loewe Puzzle Mini Geometric Bag Adjustable Diagonal Replacement Genuine Leather Spaghetti Strap Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkxe9x_0l5l.jpg",
+        "price": "¥140.01",
+        "toPrice": "$22.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106867745",
+          "name": "吉吉手工皮具",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "23443",
+        "mallType": "T1688",
+        "itemId": "743552201105",
+        "title": "Outdoor Bata American Checkered Fly Fishing Chest Bag New Street Trend Small Bag Waterproof Functional Bag",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nhym1c_qxtj.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "categoryId": 17,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15225",
+        "mallType": "TB",
+        "itemId": "549497106130",
+        "title": "Trendy Dog Harness Corgi French Bulldog Vest-Style Dog Leash Small and Medium-Sized Dog Leash Pet Supplies Dog Chain",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3md5x2q_i2e9.jpg",
+        "price": "¥18.49",
+        "toPrice": "$2.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "64235645",
+          "name": "家有一只大老虎",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021149420972553874034",
+  "language": "en"
+}

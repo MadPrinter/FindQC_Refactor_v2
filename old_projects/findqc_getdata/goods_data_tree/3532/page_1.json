@@ -1,0 +1,627 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2718576",
+        "mallType": "T1688",
+        "itemId": "592382157229",
+        "title": "European and American Cross-Border E-Commerce New Stainless Steel Zircon Cartoon Rabbit Belly Button Ring Body Piercing Navel Nail Wholesale Light Luxury",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1p10xc_779t.jpg",
+        "price": "¥2.20",
+        "toPrice": "$0.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBtU2M-HxdIOwXrMkELYXU1Q",
+          "name": "义乌市泽森饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "3162778",
+        "mallType": "T1688",
+        "itemId": "624623520825",
+        "title": "Peripheral Ring Akatsuki Huochiha Itachi Alloy Ring Shadow Ring Set Ring Wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jERBcv29k8qUzsDr1_!!2201227428105-0-cib.jpg",
+        "price": "¥0.70",
+        "toPrice": "$0.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnJVnQCyhLgJrUW2I0bGyxA",
+          "name": "义乌市汐彩贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3137272",
+        "mallType": "T1688",
+        "itemId": "902229410360",
+        "title": "European and American Cross-Border Hot Selling Peach Heart Dot Diamond Baseball Professional League Team Colorful Ball Pearl Necklace Sports Style",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01e0W7c61QEOznVVYzL_!!2211938561944-0-cib.jpg",
+        "price": "¥15.80",
+        "toPrice": "$2.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbwOZbIk2b6cdpkwjFFqp9Q",
+          "name": "义乌市宣池贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2538379",
+        "mallType": "TB",
+        "itemId": "964931673962",
+        "title": "Fancy Silver Earth Planet Hairpin Women's Side Clip Hairpin Headwear Bangs Clip Broken Hair Duckbill Clip",
+        "picUrl": "https://cdn.findqc.com/item/20251009/mgj7wmlr_46h7.jpg",
+        "price": "¥26.90",
+        "toPrice": "$4.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "553686205",
+          "name": "绯闻女友饰品店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2656306",
+        "mallType": "T1688",
+        "itemId": "710424953000",
+        "title": "Hole Repair Subsidy Accessories Glue Printed Cloth Label Self-Adhesive Leather Clothing down Jacket Patch Patch English Letter Cloth Patch",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01azy5Wu1OZo3n2Kv4o_!!2107181720-0-cib.jpg",
+        "price": "¥0.35",
+        "toPrice": "$0.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb2gegZkexB3YboZ-fFe0Bw",
+          "name": "义乌市朵酷服装辅料有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3060509",
+        "mallType": "TB",
+        "itemId": "993374545320",
+        "title": "Christmas Gift Star Hairpin High-End Accessory Bag Five-Star Hair Accessory DIY Crystal Hairpin Side Clip Bangs Korean Style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3823815291/O1CN01vQTo881oxKggFIxLT_!!3823815291.jpg",
+        "price": "¥38.84",
+        "toPrice": "$6.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "413110462",
+          "name": "外贸尾货批发部",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2594558",
+        "mallType": "T1688",
+        "itemId": "802497543392",
+        "title": "Sterling Silver Crocodile Jupiter retro opening Iris ring cross Europe and the United States domineering punk niche men's finger ring",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012ti5cw1ngYQIZnpxI_!!2217922015119-0-cib.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217922015119",
+          "name": "海丰县梅陇镇新亿安首饰厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2396406",
+        "mallType": "T1688",
+        "itemId": "744056522604",
+        "title": "Retro net red Crocodile Cross DIY alloy metal headdress hairpin earrings shoes and hats jewelry accessories wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GqBOXV1m3KopPZuiB_!!2215454234898-0-cib.jpg",
+        "price": "¥0.25",
+        "toPrice": "$0.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215454234898",
+          "name": "义乌市莎梓电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2189784",
+        "mallType": "T1688",
+        "itemId": "670731100913",
+        "title": "Cross flower brooch decorative brooch retro metal clothing shoe cap decorative brooch accessories alloy inlaid diamond batch",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01V0gppv1keltO8VzL5_!!3380834709-0-cib.jpg",
+        "price": "¥1.00",
+        "toPrice": "$0.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB75u4vxPqMs4hn_Y7VgSbUw",
+          "name": "重庆市裕嘉汇商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "378304",
+        "mallType": "TB",
+        "itemId": "827046063715",
+        "title": "Mr.Blingggggg Europe and the United States hip-hop jewelry Ken Carson the same full of diamonds small TeenX pendants",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2488987402/O1CN010JQtkh24YAf8WN08Y_!!2488987402.jpg",
+        "price": "¥298.00",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "217334292",
+          "name": "MrBlingggggg Jewelry",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2074062",
+        "mallType": "WD",
+        "itemId": "7258318245",
+        "title": "Blue S Keychain SY-20",
+        "picUrl": "https://si.geilicdn.com/wdseller1274221412-5cc50000019136299a9a0a2301af_1284_1284.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274221412",
+          "name": "Elephant",
+          "logo": "https://si.geilicdn.com/wdseller1274221412-77390000018f660dd8030a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "335149",
+        "mallType": "WD",
+        "itemId": "7240115869",
+        "title": "M81098 23*13*6cm Detachable Chain Leather Shoulder Strap Pea Underarm Bag Tote Bag Shoulder White Bag Crossbody",
+        "picUrl": "https://cdn.findqc.com/item/20241214/m4n3epe8_ikmx.jpg",
+        "price": "¥760.00",
+        "toPrice": "$119.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864219513",
+          "name": "WANNA BUY",
+          "logo": "https://si.geilicdn.com/wdseller1862632608-263f0000018f95a730160a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283978",
+        "mallType": "TB",
+        "itemId": "614286625394",
+        "title": "ins Gold Silver Black Gold Shiny Sunflower Pillow Cushion Floor Mat Backrest Pillow Plush Toy Home Decoration",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m474gv0q_73uf.jpg",
+        "price": "¥70.97",
+        "toPrice": "$11.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110426542",
+          "name": "Tobey Toy",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1483189",
+        "mallType": "T1688",
+        "itemId": "658754784119",
+        "title": "Rick and Morty cartoon cute hole shoes flower decorative buckle PVC soft rubber funny anime garden shoes buckle",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ItUD1v1nzKPtr0Ceg_!!2212502195160-0-cib.jpg",
+        "price": "¥0.26",
+        "toPrice": "$0.04",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 116,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1810453",
+        "mallType": "WD",
+        "itemId": "7502876187",
+        "title": "Fashion Four-Corner Ball Pendant Necklace Personality Hip Ho",
+        "picUrl": "https://cdn.findqc.com/item/20250919/mfqvgpot_7ekk.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801320989",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2906633",
+        "mallType": "TB",
+        "itemId": "778059663826",
+        "title": "Trendy Stussy Wallet Gift Metal Accessories Personalized Cool Silver Nigo Edition Bent Crown Money",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkeqyk0_y6x6.jpg",
+        "price": "¥38.12",
+        "toPrice": "$5.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "267789377",
+          "name": "万能潮流商店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905835",
+        "mallType": "WD",
+        "itemId": "6177453023",
+        "title": "Advanced letter new brooch temperament brooch suit rhinestone fashion chest flower versatile accessories fragrant pearl high-end",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkasbs9_90id.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1365434411",
+          "name": "小霸宠的美妆杂货铺",
+          "logo": "https://si.geilicdn.com/wdseller1365434411-198c000001819e1582660a2313e0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905768",
+        "mallType": "TB",
+        "itemId": "832969230901",
+        "title": "Juicy Animal White Elephant Easter Egg Hanger JC Personalized Single Female Pendant Keychain Bag Pendant Trendy Ring Butterfly Necklace",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkai03q_chz3.jpg",
+        "price": "¥20.86",
+        "toPrice": "$3.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "223175092",
+          "name": "外贸饰品集中营",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902327",
+        "mallType": "TB",
+        "itemId": "783877236892",
+        "title": "Xiaoxiangfeng letter brooch women's high-end exquisite fashion anti light artifact chest pin men's clothing accessories",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk56bqs_rrtm.jpg",
+        "price": "¥47.73",
+        "toPrice": "$7.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "61934514",
+          "name": "chunqi春琪美饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2538415",
+        "mallType": "TB",
+        "itemId": "752260819886",
+        "title": "2023 New arrival Letter Arc de Triomphe Hairpin Large Grab Clip Back Head Fancy Classy Alloy Hair Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg55mhox_f17s.jpg",
+        "price": "¥19.58",
+        "toPrice": "$3.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111384375",
+          "name": "梁COCO发饰",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021142186781930821837",
+  "language": "en"
+}

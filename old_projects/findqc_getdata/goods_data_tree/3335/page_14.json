@@ -1,0 +1,342 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1697898",
+        "mallType": "WD",
+        "itemId": "7428565785",
+        "title": "CHCrwHearCollection",
+        "picUrl": "https://si.geilicdn.com/open1787182201-252808396-57750000018f8bd10d0c0aa0233d_1000_1000.jpg",
+        "price": "¥54.00",
+        "toPrice": "$8.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1880259",
+        "mallType": "WD",
+        "itemId": "7323274076",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-0c5800000190f72f50170a8115b5_800_800.jpg",
+        "price": "¥112.00",
+        "toPrice": "$17.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "991536",
+        "mallType": "WD",
+        "itemId": "4458504687",
+        "title": "Gift Essentials 925 Silver Sparkling Star Arched Blue Moon Heart Necklace Woman",
+        "picUrl": "https://si.geilicdn.com/wdseller1423580647-72b20000017e0f1089240a2104c1_1080_1080.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794856096",
+          "name": "俱乐部",
+          "logo": "https://si.geilicdn.com/wdseller1423580647-68b4000001721bad51be0a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "991534",
+        "mallType": "WD",
+        "itemId": "7271517944",
+        "title": "【Top version】（lead free） Swarovski Necklace",
+        "picUrl": "https://si.geilicdn.com/pcitem1878379724-0d7d00000191ea7889620a2303ee_757_757.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646363077",
+          "name": "Top Atlantis",
+          "logo": "https://si.geilicdn.com/wdseller1878379724-35f800000197119efd730a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1357813",
+        "mallType": "T1688",
+        "itemId": "852605836306",
+        "title": "New Shi Jia packaging box necklace bracelet bracelet earrings box complete set of Shi Jia ring jewelry packaging wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VJOPko1Uum5winf4c_!!2218605892578-0-cib.jpg",
+        "price": "¥5.50",
+        "toPrice": "$0.86",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "378306",
+        "mallType": "TB",
+        "itemId": "716585805029",
+        "title": "Mr.Blingggggg European and American Hip-Hop Jewelry Drake Style Full Diamond Cluster Super Shiny Homer Necklace",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2488987402/O1CN01s6WdiV24YAVvqxtej_!!2488987402.jpg",
+        "price": "¥1,301.42",
+        "toPrice": "$204.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "217334292",
+          "name": "MrBlingggggg Jewelry",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283941",
+        "mallType": "TB",
+        "itemId": "636903730571",
+        "title": "European and American Fashion Silver Pink Diamond Saturn Necklace",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m474gqvu_rkk5.jpg",
+        "price": "¥27.83",
+        "toPrice": "$4.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103980134",
+          "name": "优雅蝴蝶",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1571332",
+        "mallType": "WD",
+        "itemId": "6980933901",
+        "title": "Christmas Gift 925 Silver Blue Snowflake Necklace for Women",
+        "picUrl": "https://si.geilicdn.com/wdseller1423580647-3f8f0000018c63d9fbfc0a20e284_1080_1080.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794856096",
+          "name": "俱乐部",
+          "logo": "https://si.geilicdn.com/wdseller1423580647-68b4000001721bad51be0a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1528980",
+        "mallType": "T1688",
+        "itemId": "902215430771",
+        "title": "High version Queen Dowager 925 sterling silver classic Saturn pin pearl necklace women's water droplet pendant collarbone chain opposite version",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HM158Q1rXdFU5SFBN_!!2217900035641-0-cib.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB2RGbSrSg11qIfqhROCrQVQ",
+          "name": "海丰县梅陇镇古驰项链首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1156848",
+        "mallType": "T1688",
+        "itemId": "717779167990",
+        "title": "Europe and the United States cross-border hip-hop full diamond rhombus Cuban chain personalized zirconia necklaces men's versatile senior sense of trend jewelry",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hRDG781nkfrOBdcvV_!!3475785128-0-cib.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3475785128",
+          "name": "东莞市琦酷饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1328341",
+        "mallType": "T1688",
+        "itemId": "668870954211",
+        "title": "Croxin home anchor pendant necklace Thai silver vintage cross S925 sterling silver sweater chain personalized men and women with the same paragraph",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01t6vIxB1Bs2jyRt5yU_!!0-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2781263",
+        "mallType": "T1688",
+        "itemId": "850952363643",
+        "title": "[Pair version] West Dowager high version of the medium size orb Saturn full series necklace female 10MM beads collarbone chain tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ymal7t1tohHuQ5TSF_!!2218361335949-0-cib.jpg",
+        "price": "¥26.80",
+        "toPrice": "$4.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218361335949",
+          "name": "海丰县一选好饰首饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "227205",
+        "mallType": "T1688",
+        "itemId": "728340239742",
+        "title": "Cross-border new alloy cross sword pendant full diamond Cuban chain hip-hop niche legendary big sword jewelry",
+        "picUrl": "https://cdn.findqc.com/item/20241122/m3rk7i0u_fuv0.jpg",
+        "price": "¥9.80",
+        "toPrice": "$1.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "940405552",
+          "name": "义乌市赛派饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "773319",
+        "mallType": "WD",
+        "itemId": "7298366524",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1769151449-252808396-464300000192eba09af90a210559_1599_1599.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769151449",
+          "name": "顺泽鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1496348",
+        "mallType": "T1688",
+        "itemId": "922631130247",
+        "title": "Crowe*same black cross necklace around the circle stacking long Spice Girls accessories colorful cross necklaces",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000007429/O1CN012dxEg024kXHKSRxIl_!!6000000007429-0-tbvideo.jpg",
+        "price": "¥4.60",
+        "toPrice": "$0.72",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225603",
+        "mallType": "WD",
+        "itemId": "7251606110",
+        "title": "****",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg0jqg_ukbx.jpg",
+        "price": "¥58.99",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225596",
+        "mallType": "WD",
+        "itemId": "7250619973",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rgnitw_bfoa.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735791321",
+          "name": "新丝路鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "402048",
+        "mallType": "TB",
+        "itemId": "705069314312",
+        "title": "MST BLING High quality Double row Diamond European and American Street Style Super Flash Full Diamond Color Double layer Fried Dough Twists Bracelet",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2215171238873/O1CN01SnqL8O2FPtL3hjNkG_!!2215171238873.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "599941539",
+          "name": "MST BlingBling",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1486628",
+        "mallType": "T1688",
+        "itemId": "857023126616",
+        "title": "Europe and the United States cross-border Cuban necklace men's fashion full diamond Cuban chain hip-hop rhombus bracelet women's collarbone chain jewelry",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000002636/O1CN01yiJhoZ1VLL2i6lprf_!!6000000002636-0-tbvideo.jpg",
+        "price": "¥3.60",
+        "toPrice": "$0.57",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141143762553885225",
+  "language": "en"
+}

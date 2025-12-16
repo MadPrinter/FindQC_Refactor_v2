@@ -1,0 +1,374 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2601304",
+        "mallType": "T1688",
+        "itemId": "920748054919",
+        "title": "Boxing Clothing Muay Thai Tight Long Sleeve Fitness Training Fight Running Fighting T-Shirt Martial Arts Sweatshirt Venom Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01r75j3O2J7oAdf0z2N_!!2219685079375-0-cib.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219685079375",
+          "name": "广州市瑞林服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1693343",
+        "mallType": "TB",
+        "itemId": "704303975098",
+        "title": "Schumacher Formula 1 racing elements heavy full embroidery collar zipper sports jacket jacket T8 包邮",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/678996091/O1CN013eJNVv1urjFd3y7zl_!!678996091.jpg",
+        "price": "¥59.90",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108848603",
+          "name": "四哥男装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "971769",
+        "mallType": "WD",
+        "itemId": "7383643875",
+        "title": "Jacket Cotton Jacket Casual Coat Full Embroidery",
+        "picUrl": "https://si.geilicdn.com/open1762039621-252808396-6d8a0000019498c149f10aa08290_1001_1001.jpg",
+        "price": "¥241.00",
+        "toPrice": "$37.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1762039621",
+          "name": "CSX",
+          "logo": "https://si.geilicdn.com/shopedit1809160355-1812000001947cbc74210a2395a3-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2347283",
+        "mallType": "TB",
+        "itemId": "858835663603",
+        "title": "Travis Scott football football jersey Brazil concert Umbro Flamenco V-neck short sleeved T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2026248624/O1CN01kZP6cA2DZqgee8DOk_!!2026248624.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109505073",
+          "name": "HACULLA",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "923215",
+        "mallType": "WD",
+        "itemId": "7283881760",
+        "title": "Highway vehicles in spring and summer, long sleeves, speed control, breathable and subdued",
+        "picUrl": "https://si.geilicdn.com/pcitem1849184796-53d600000192674d79ef0a2304aa_800_800.jpg",
+        "price": "¥97.00",
+        "toPrice": "$15.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1750913753",
+          "name": "核桃",
+          "logo": "https://si.geilicdn.com/weidian1991015231-145000000199972d3f7a0a20e672_996_996.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2658699",
+        "mallType": "T1688",
+        "itemId": "982869268181",
+        "title": "F1 racing suit, digital printed racing suit, Red Bull retro motorcycle riding suit, flannel hoodie, cross-border factory wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20251106/mhneleil_puez.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220735995664",
+          "name": "福鼎市噗噗谷社动漫工作室(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2906662",
+        "mallType": "TB",
+        "itemId": "763216847660",
+        "title": "Dennis Motorcycle Titanium Alloy All-Season Autumn and Winter Racing Motorcycle Clothing for Men, Warm and Anti-Fall for Riders",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkew39m_18e0.jpg",
+        "price": "¥320.30",
+        "toPrice": "$50.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "575413021",
+          "name": "斗神赛车装备",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2903146",
+        "mallType": "TB",
+        "itemId": "845276555982",
+        "title": "F1 Red Bull Racing Team Jacket Racing Suit Customizable Coat Modified Car Autumn and Winter Outdoor Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk87lia_pdrd.jpg",
+        "price": "¥110.15",
+        "toPrice": "$17.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "288694779",
+          "name": "XTPZ旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899534",
+        "mallType": "TB",
+        "itemId": "624945069300",
+        "title": "F1 Racing Suit, Personalized Retro European and American Street Style Small Cotton Jacket, Street Hip-Hop Jacket, Embroidered Coat, Casual Cycling Cotton Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk0bizn_eqem.jpg",
+        "price": "¥129.35",
+        "toPrice": "$20.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102666570",
+          "name": "沐忘初心赛车服",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 37,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1578678",
+        "mallType": "T1688",
+        "itemId": "908551946153",
+        "title": "010PUA902 Motorcycle Racing Motorcycle Riding Suit Bag OEM Customization",
+        "picUrl": "https://cdn.findqc.com/item/20251101/mhg183fq_adkr.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBu18FefaHgb8OcayXDKgzQQ",
+          "name": "广州市白云区松洲高尔大达机动车配件商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1853811",
+        "mallType": "T1688",
+        "itemId": "822159967125",
+        "title": "F1 racing suit embroidered racing suit cycling suit motorcycle suit embroidered casual long sleeved Red Bull racing suit",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhdlx0co_vdb0.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbGq8yQ1VMNJ5zw_UjeagaQ",
+          "name": "泉州等风来进出口贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2074090",
+        "mallType": "TB",
+        "itemId": "931228480329",
+        "title": "DETW 25ss*Original niche dark vanguard short sun shirt collision color stitching cut Slim skin jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3791109895/O1CN01P9GZIX2Mxy89GB6uE_!!3791109895.png",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "207944051",
+          "name": "DETW OnLine",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2023551",
+        "mallType": "T1688",
+        "itemId": "922601125443",
+        "title": "Motorcycle biker racing foreign trade new 3D car logo series hoodie casual couple hooded sweater s",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bjbL5J1lBIFWO6UAz_!!2215577474780-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215577474780",
+          "name": "宁波奉化毅歆服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2366059",
+        "mallType": "T1688",
+        "itemId": "949971901806",
+        "title": "F1 Embroidered Racing Suit New Men's and Women's Pink Cross-Border Clothing Amazon Ebay Aliexpress European and American Export Long-Sleeved Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1pvyjy_gapt.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBi8MDrs8anKZWcyIuOXsmkQ",
+          "name": "广州市邦兴国际贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "866482",
+        "mallType": "T1688",
+        "itemId": "708248002325",
+        "title": "F1 Embroidered Racing Suit Motorcycle Riding Jacket Fully Embroidered Racing Suit Embroidered Winter Cotton Jacket Custom-Made",
+        "picUrl": "https://cdn.findqc.com/item/20250222/m7fwqci6_cpq1.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBi8MDrs8anKZWcyIuOXsmkQ",
+          "name": "广州市邦兴国际贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 124,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1482954",
+        "mallType": "T1688",
+        "itemId": "834263932256",
+        "title": "Manufacturer supplies new fleece speed control warm and cold resistant road bike riding clothes for men wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20251023/mh2lgvji_ftiu.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNY0Lugr4DE6Kn9AyEHuWVg",
+          "name": "东莞市茶山邦酷体育用品厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1871980",
+        "mallType": "TB",
+        "itemId": "669648446950",
+        "title": "2024 new fashion biker clothing racing suit motorcycle anti-wrestling riding clothes motorcycle pants rider clothing PU waterproof",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1602119422/O1CN01bBTEFy2JTKY9Jb4M0_!!1602119422.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "123224019",
+          "name": "晨兴户外装备店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1765577",
+        "mallType": "TB",
+        "itemId": "911849745823",
+        "title": "Racing suit F1 retro cotton jacket biker suit motorcycle riding suit warm baseball suit American jacket men and women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1905921291/O1CN01dOxz5L1LPKMy6sFYs_!!1905921291.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "384768706",
+          "name": "PET国际",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1765539",
+        "mallType": "TB",
+        "itemId": "834245642679",
+        "title": "Special Hot 180 Motorcycle Off-Road Suit Riding Suit 360 Field Forest Road Mountain Speedway Breathable Quick Dry Suit",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2218495143426/O1CN01IYpxqp1bB9yaZABzz_!!2218495143426.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "243357592",
+          "name": "越野摩托车骑行服批发",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1168233",
+        "mallType": "TB",
+        "itemId": "580630711796",
+        "title": "Motorcycle Seasonal Racing Jersey Outdoor Motorcycle Touring Fall Protection Clothing Riding Suit With Removable Inner Lining Riding Suit",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/604996008/O1CN01aq5Zks1uFiFIz9axE_!!604996008.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63431165",
+          "name": "批发骑士用品店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145370711911157775",
+  "language": "en"
+}

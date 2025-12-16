@@ -1,0 +1,594 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3107838",
+        "mallType": "TB",
+        "itemId": "681338455955",
+        "title": "US imported moissanite S925 pure silver earrings for both men and women, super cool and hypoallergenic four cornered earrings",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2209815473712/O1CN01i64o7d1dI9Boof5M0_!!2209815473712.jpg",
+        "price": "¥21.76",
+        "toPrice": "$3.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "574536965",
+          "name": "爱无畏银饰",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2424115",
+        "mallType": "TB",
+        "itemId": "970006784459",
+        "title": "Authentic D-Color Moissanite Earrings, Square Stud Earrings, Sterling Silver Diamond Bull Head Ear Bone Studs, Women's Earrings, Super Shiny Gift",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3045323096/O1CN01sOHN851Yk1IxbTl9Z~crop,100,0,600,800~_!!3045323096.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "561814427",
+          "name": "ASNI 原创设计品牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761333",
+        "mallType": "TB",
+        "itemId": "589664650366",
+        "title": "S925 silver full diamond earrings, high-end super sparkling micro inlaid 5A zircon, men's and women's high-end feeling, American popular versatile earrings\n",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md6krsqi_kpse.jpg",
+        "price": "¥21.37",
+        "toPrice": "$3.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "122826190",
+          "name": "Mr L原创潮牌饰品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508421",
+        "mallType": "TB",
+        "itemId": "741039241058",
+        "title": "Mr. Blingggggg European and American Hip Hop Jewelry S925 Silver Rapper Four Claw Four Carat Claw Ultra Flash Diamond Earrings",
+        "picUrl": "https://cdn.findqc.com/item/20250616/mbyujpp9_rzg1.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "217334292",
+          "name": "MrBlingggggg Jewelry",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "855297",
+        "mallType": "TB",
+        "itemId": "549136210864",
+        "title": "Versatile Mini Silver Bead Round Ball Hypoallergenic Titanium Steel European and American Simple Unisex Earrings Invisible Ear Jewelry Ear Bone Studs",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrq65w_8woz.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72972200",
+          "name": "铂樽饰品",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225273",
+        "mallType": "WD",
+        "itemId": "5871873259",
+        "title": "SURVIALSOURCE S925 Silver Gold Plated SQUAR EARRING/6MM Fat Square Earnail Hip Hop Earnail",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rfvefq_xglc.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791243642",
+          "name": "Survivalsource-Jewelry",
+          "logo": "https://si.geilicdn.com/wdseller1651449188-33470000018079c32e8a0a22b3e4_828_829.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225274",
+        "mallType": "WD",
+        "itemId": "5872801512",
+        "title": "SURVIALSOURCE S925 Silver Gold Plated Diamond Earring/6MM White Diamond Color Diamond Round Diamond Earnail",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rfvozv_e2wa.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791243642",
+          "name": "Survivalsource-Jewelry",
+          "logo": "https://si.geilicdn.com/wdseller1651449188-33470000018079c32e8a0a22b3e4_828_829.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "199628",
+        "mallType": "TB",
+        "itemId": "655256220049",
+        "title": "Premium sense of hundred with geometric square diamond-shaped earrings color zirconia classic pop simple boys and girls hipster earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nyb45c_p8qr.jpg",
+        "price": "¥19.85",
+        "toPrice": "$3.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "165827057",
+          "name": "花样年华  轻奢范",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "180430",
+        "mallType": "TB",
+        "itemId": "729278369035",
+        "title": "925 Sterling Silver Plated with 14K Gold Earrings, Four Diamond Rhombus-Shaped Earrings, Japanese Retro Palace-Style Earrings for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mqiflc_rjrl.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60642913",
+          "name": "微时代轻珠宝首饰配件",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "53142",
+        "mallType": "WD",
+        "itemId": "5872888894",
+        "title": "SURVIALSOURCE S925 silver gold-plated EARRING/13MM smooth earrings with detachable cross",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3no3ghu_zbe9.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791243642",
+          "name": "Survivalsource-Jewelry",
+          "logo": "https://si.geilicdn.com/wdseller1651449188-33470000018079c32e8a0a22b3e4_828_829.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "52751",
+        "mallType": "TB",
+        "itemId": "761898233988",
+        "title": "Niche Retro Velvet Fabric Vintage Water Drop Mirror Metal Exaggerated Non-Pierced European and American Socialite Style Earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nny8ji_46el.jpg",
+        "price": "¥142.00",
+        "toPrice": "$22.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "287699984",
+          "name": "Tyne river",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "49424",
+        "mallType": "TB",
+        "itemId": "668029648509",
+        "title": "Light luxury jewelry new classic cushion-shaped 6 * 6mm high carbon diamond 925 sterling silver earrings trinkets girls set of earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mglw5w_hi37.jpg",
+        "price": "¥153.40",
+        "toPrice": "$24.12",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "41108",
+        "mallType": "WD",
+        "itemId": "5871971297",
+        "title": "SURVIVALSOURCE S925 silver and gold plated CROSS EARRING / Polished Cross Earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmudf3_0572.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791243642",
+          "name": "Survivalsource-Jewelry",
+          "logo": "https://si.geilicdn.com/wdseller1651449188-33470000018079c32e8a0a22b3e4_828_829.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "38436",
+        "mallType": "TB",
+        "itemId": "818554418404",
+        "title": "2024 new gold wide surface weaving earrings female light luxury niche design senior sense of retro temperament earrings earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nm1dcl_rcxq.jpg",
+        "price": "¥79.90",
+        "toPrice": "$12.56",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26893",
+        "mallType": "T1688",
+        "itemId": "663692219632",
+        "title": "Europe and the United States personalized a two wear earrings copper gold-plated long paragraph inlaid zirconia earrings buckle fashion new trend models earrings 246",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nij7uo_xx11.jpg",
+        "price": "¥28.90",
+        "toPrice": "$4.54",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26819",
+        "mallType": "TB",
+        "itemId": "639109040807",
+        "title": "PT950 platinum moissanite earrings diamond earrings men and women 2021 new tide 18k white gold high support four claws earrings",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nihudp_7bch.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "419754657",
+          "name": "静怡国际珠宝",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "24826",
+        "mallType": "TB",
+        "itemId": "587735978430",
+        "title": "New Cartier Glasses Nose Pad Lock Screw Glasses Accessories Myopia Glasses Sol Sunglasses Sunglasses Nose Pad",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ni63o4_su92.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "215164054",
+          "name": "深圳眼镜配件",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "22916",
+        "mallType": "T1688",
+        "itemId": "675753680830",
+        "title": "Amazon 2024 new men's and women's VVS shaped pagoda cut 925 sterling silver earrings with moissan hip hop studs",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nhv4ww_tfkb.jpg",
+        "price": "¥102.00",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "19271",
+        "mallType": "TB",
+        "itemId": "721611800706",
+        "title": "outlets Discount Store Withdraws Big Sale to Found 18K Gold Four-leaf Clover outlets Female Ole Metal Structure",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfb173_l8zr.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "468956176",
+          "name": "奥莱精选饰品专柜",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021144279001917919094",
+  "language": "en"
+}

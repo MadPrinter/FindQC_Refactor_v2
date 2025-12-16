@@ -1,0 +1,629 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3165099",
+        "mallType": "T1688",
+        "itemId": "964999875888",
+        "title": "加绒加厚风衣外套女款2025秋冬季时尚过膝西装保暖中长款收腰外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013wIFzM1YmlgBZ0NT3_!!2220061063102-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQcTtaVrvL2NzbdAQkOKC9A",
+          "name": "广州时雨服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2406518",
+        "mallType": "WD",
+        "itemId": "7532256763",
+        "title": "cf n punch jacket windproof waterproof hooded jacket",
+        "picUrl": "https://si.geilicdn.com/open1342417679-1234478995-149f0000019404e9610a0a210559_1080_1080.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "450311621",
+          "name": "TlNA",
+          "logo": "https://si.geilicdn.com/weidian450311621-4c5600000195b3cc44460a2315ef_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895070",
+        "mallType": "T1688",
+        "itemId": "931041026323",
+        "title": "Stone Island Stone Island Hard Shell 3L-Tc Material Waterproof Outdoor Hooded Jacket Jacket Trendy",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wl7Qxt1NaRDhSENvE_!!2219854451586-0-cib.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBuTuPqlkwEteXrCfBOhR5Lg",
+          "name": "广州欧朗服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 164,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1136395",
+        "mallType": "T1688",
+        "itemId": "900597334781",
+        "title": "Pace Breaker Men's Summer Skin Clothes Lulu Men's Lightweight Jacket Outdoor Sunscreen Hooded Windbreaker",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WlHxGt2HE6N0u7jpu_!!2217841049118-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZHLTWlAe4Pts-vYyxlRF5g",
+          "name": "新会区仓古百货经营部",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3096645",
+        "mallType": "WD",
+        "itemId": "7604348200",
+        "title": "AB06-跑步夹克防晒皮肤衣夏季新款梭织连帽外套（1-5天内发货）WhatsApp：+86 185 5978 7227",
+        "picUrl": "https://si.geilicdn.com/pcitem1963014259-1b38000001983c2ee5790a239846_489_485.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704891043",
+          "name": "MoMo kick",
+          "logo": "https://si.geilicdn.com/shopedit1985905816-6e2e0000019957dbca670a23057e-unadjust_250_250.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2188217",
+        "mallType": "T1688",
+        "itemId": "896373724162",
+        "title": "Cross border Ralph RL Chen Dazhu British style medium long windbreaker with a vintage feel and a long coat full of money, one piece hair replacement",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FhPV5N2EcQYUMytbx_!!2219114538765-0-cib.jpg",
+        "price": "¥249.00",
+        "toPrice": "$39.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB28mKL0G5H6MwKWI-WU_akA",
+          "name": "佛山市禅城区小灰灰服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049928",
+        "mallType": "T1688",
+        "itemId": "915758187183",
+        "title": "Spring and Summer New High Version Beijia Cool Mountaineering Jacket for Men and Women, Lightweight Sun Protection Uv Hoodie, Breathable Outdoor",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rx9DNr1smZnUEQNWj_!!2219497665809-0-cib.jpg",
+        "price": "¥259.76",
+        "toPrice": "$40.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgKfh1xYEZjSjmJWyfcQ3iA",
+          "name": "宁海煜印电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049347",
+        "mallType": "WD",
+        "itemId": "7593849166",
+        "title": "【DX4】青春版活动卫衣",
+        "picUrl": "https://si.geilicdn.com/pcitem1873385315-3bd900000191aca42fa70a8133cc_1276_1702.jpg",
+        "price": "¥448.00",
+        "toPrice": "$70.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1799248707",
+          "name": "dadarep",
+          "logo": "https://si.geilicdn.com/weidian1978915425-4f3400000198711a45760a2396f4_2312_1736.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2054255",
+        "mallType": "T1688",
+        "itemId": "700824921147",
+        "title": "2023 spring and fall models of the new men's jacket street style hooded two open loose fashion niche tide fashion jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012UagM91Iku0w0bfpd_!!2212314030932-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212314030932",
+          "name": "石狮市垲烨铭祥服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35577",
+        "mallType": "TB",
+        "itemId": "832267249423",
+        "title": "American Retro Street Fashion Y2K Jacket Men's Loose Niche Zipper Hoodie Outerwear Cool Top",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nklf4x_d700.jpg",
+        "price": "¥60.24",
+        "toPrice": "$9.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "150351758",
+          "name": "跨境Trade Go shopping",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 54,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2915609",
+        "mallType": "WD",
+        "itemId": "7487873627",
+        "title": "Self-employed 20250324findsspreadsheet.com",
+        "picUrl": "https://si.geilicdn.com/open1648936853-1234478995-5a50000001974adf5a950a23b491_800_800.jpg",
+        "price": "¥312.00",
+        "toPrice": "$49.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648936853",
+          "name": "StyleTransit",
+          "logo": "https://si.geilicdn.com/shopedit1898318301-4f3900000198d55a5daa0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2914436",
+        "mallType": "TB",
+        "itemId": "967898735831",
+        "title": "7408【British Style】Niche Foreign Trade Brand Women's Solid Color Lapel Double-Breasted Long-Sleeve Trench Coat Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2206943338549/O1CN01Urnu112D1V3H0agAy_!!2206943338549.jpg",
+        "price": "¥103.20",
+        "toPrice": "$16.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "426608437",
+          "name": "飞裳完美欧美轻奢高端女装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3174046",
+        "mallType": "TB",
+        "itemId": "644985163246",
+        "title": "High end Spring and Autumn S Korean version men's casual cardigan zipper hoodie jacket youth student trendy men's clothing\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3807441358/O1CN01WX7C5f1Lu0trx48qU_!!3807441358.png",
+        "price": "¥241.46",
+        "toPrice": "$37.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "237955241",
+          "name": "外贸休闲精品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2242592",
+        "mallType": "WD",
+        "itemId": "7522701031",
+        "title": "Comfortable windproof and warm jacket 04-1",
+        "picUrl": "https://si.geilicdn.com/open1792093805-1234478995-44030000019896d422670a23b4de_1200_1200.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1792093805",
+          "name": "Spider-Shop",
+          "logo": "https://si.geilicdn.com/shopedit1940212137-586600000195c63a8abe0a239646-unadjust_626_626.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2784954",
+        "mallType": "T1688",
+        "itemId": "953042363036",
+        "title": "Stone Island Ghost Compass Badge Work Jacket Men's and Women's Couple Loose Casual Shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01W9yS5y1XIFe72SNjx_!!2219347882900-0-cib.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEEKkivT6or6CI3GMpMc0sg",
+          "name": "广州胜锜服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3416",
+        "mallType": "T1688",
+        "itemId": "725408231456",
+        "title": "Artie Men's Clothing丨2025 Autumn and Winter New Plus Velvet 350g Double-Ended Zipper Cardigan Loose Trendy Brand Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3dk8u_yabt.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 261,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "1240389",
+        "mallType": "T1688",
+        "itemId": "898852970801",
+        "title": "Sunscreen clothing male ultra-thin breathable summer jacket trend students loose handsome couple jacket casual air conditioning clothing",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000003165/O1CN01WAl8ka1ZFcYrvoEe4_!!6000000003165-0-tbvideo.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 128,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2921290",
+        "mallType": "WD",
+        "itemId": "7563524877",
+        "title": "쥬디 ｜ JUDX  （ship：12h）\n",
+        "picUrl": "https://si.geilicdn.com/wdseller1967891636-08f20000019955efe0970a81347d_1180_1572.jpg",
+        "price": "¥368.00",
+        "toPrice": "$57.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1325765949",
+          "name": "SuperBuyer",
+          "logo": "https://si.geilicdn.com/pcdecorate1325765949-2130000001981bb37a570a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1582710",
+        "mallType": "T1688",
+        "itemId": "738681617757",
+        "title": "Counter Boutique Spring 2025 New Windbreaker for Women, Medium to Long, Full Wisdom, Same Style British Style Khaki Coat\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bs4ldx28KfLHZup1g_!!1009217914-0-cib.jpg",
+        "price": "¥278.00",
+        "toPrice": "$43.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBn9TESfWOpYzY7q5elr6T0w",
+          "name": "桐乡市崇福永旺裘皮服饰制品厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2829524",
+        "mallType": "T1688",
+        "itemId": "733838407449",
+        "title": "Trench coat for women Spring and Autumn Mid-length 2023 Korean style new small British retro overcoat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jWnhFP1ZEhci0Fh64_!!2251773163-0-cib.jpg",
+        "price": "¥93.00",
+        "toPrice": "$14.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqlcSNF7ECl6XrmR0boI4rw",
+          "name": "深圳市宝安区沙井红依都制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141207451913298216",
+  "language": "en"
+}

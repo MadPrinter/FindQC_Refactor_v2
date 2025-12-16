@@ -1,0 +1,370 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "867668",
+        "mallType": "WD",
+        "itemId": "7309118856",
+        "title": "100% cotton T-shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem901879226946-3edf00000193520c94120a2395d6_3024_3024.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1817296969",
+          "name": "潮酷男装",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "867530",
+        "mallType": "T1688",
+        "itemId": "844065689702",
+        "title": "American retro wash printing new cross-border direct 2024 summer jeans men's casual loose straight pants",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01g6vHry1YxIhm1REvr_!!2217007463125-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217007463125",
+          "name": "汕头市潮阳区爱悦汇服装商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "867552",
+        "mallType": "WD",
+        "itemId": "4804281401",
+        "title": "Puda Prαdα summer runway models new metal logo short sleeves for men and women with low-profile luxury!\nSelection of imported high-quality double-branched 260g Xinjiang cotton soft, delicate and silky, giving the upper body experience. Minimalist atmosphere! Low-profile reveals a sense of luxury! High quality, texture and unique innovative combination",
+        "picUrl": "https://si.geilicdn.com/weidian1423745562-7c1a000001809a9948b30a2301a5_1080_1080.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1689883296",
+          "name": "Lily Show Brands衣柜",
+          "logo": "https://si.geilicdn.com/weidian1423745562-0b1600000178fac2176a0a217205_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 41,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "867405",
+        "mallType": "T1688",
+        "itemId": "778159348779",
+        "title": "2024 new corteiz short sleeve Alcatraz T-shirt letter Logo print round neck American casual loose half sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01L2PAiX1zbJEXlqYZS_!!2215823446732-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "715386",
+        "mallType": "T1688",
+        "itemId": "850358737572",
+        "title": "The original label through the inspection] cross-border autumn and winter new simple solid color compass label trend pullover round neck couple long-sleeved",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eebgt627PPxiRR246_!!2218262457789-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "715336",
+        "mallType": "T1688",
+        "itemId": "778676911035",
+        "title": "25-26 Japan home jersey Kashima Antlers Gamba Osaka seven colorful clouds Kyoto City Nezha soccer jersey",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000005553/O1CN01ofyQpt1qtKKvtnUv9_!!6000000005553-0-tbvideo.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211991257177",
+          "name": "广州格雷米奥贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451551",
+        "mallType": "TB",
+        "itemId": "972256809172",
+        "title": "Use Your Hands to Touch Your Heart, Passion Creates, Cool Street Style, Retro Short Sleeves, T-Shirt Casual Preppy style Daily Creativity, Easiest for match",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2218252751209/O1CN01pUozlF1KnlvlSaJrY_!!2218252751209.jpg",
+        "price": "¥59.80",
+        "toPrice": "$9.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263616202",
+          "name": "Artistic Resear",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2451341",
+        "mallType": "T1688",
+        "itemId": "943961677344",
+        "title": "Wholesale 2526 La Liga Club Real Madrid Jersey Barcelona Atletico Madrid Soccer Jerseys Fan Edition Mbappe Yamal",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01b0FRLz2FcG3J51fdL_!!2219608388900-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219608388900",
+          "name": "广州市星远运动服饰厂(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2439866",
+        "mallType": "T1688",
+        "itemId": "943492404355",
+        "title": "25-26 Season St. Pauli Home and Away Fan Version Jersey Short-Sleeved Fan Version Football Uniform",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qZzYTn1ZGXPI1Zlsb_!!2209365263167-0-cib.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8BfHrxL32JDr0rjZdEGvBA",
+          "name": "深圳市宝安区喜势贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2439454",
+        "mallType": "TB",
+        "itemId": "973831164447",
+        "title": "320Gsm Union Kingdom Washed Vintage Tee, Independent Pure Cotton Washed and Distressed Short-Sleeve",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/808386976/O1CN01PlUVDB21P42h6deFJ_!!808386976.jpg",
+        "price": "¥107.97",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113111492",
+          "name": "UnionKingdom",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2438248",
+        "mallType": "WD",
+        "itemId": "7406123354",
+        "title": "39A7-4c",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-36570000019546d305260a23047e_1086_1004.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2437190",
+        "mallType": "WD",
+        "itemId": "7493534190",
+        "title": "Autumn New Hundred Round Neck Sweatshirt 036",
+        "picUrl": "https://si.geilicdn.com/open1672216213-1234478995-7be0000001931e223e700aa08290_1200_1200.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1632381885",
+          "name": "DripCore",
+          "logo": "https://si.geilicdn.com/pcdecorate1902144425-4f8600000197683de6cf0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2435049",
+        "mallType": "WD",
+        "itemId": "7549744358",
+        "title": "DX29】LongSleeveT-Shirt214-156240",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-4b110000018f43a7c5210a232357_800_800.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1794541533",
+          "name": "1:1A&amp;V",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2434514",
+        "mallType": "WD",
+        "itemId": "7281673159",
+        "title": "CS-1 Casual BP T-shirt 'LX Batch'",
+        "picUrl": "https://si.geilicdn.com/pcitem1890373301-3b2b0000019243a330360a8133cc_800_800.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1764738789",
+          "name": "新店1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2434512",
+        "mallType": "TB",
+        "itemId": "837738185908",
+        "title": "Trapstar Summer Breathable Mesh Patchwork Contrast Color Jersey Trendy Loose Casual Unisex Crew Neck Short Sleeve T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1602154797/O1CN01KaPE5X1lJ4vBcNf5l_!!1602154797.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102659967",
+          "name": "小众街头潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2434382",
+        "mallType": "WD",
+        "itemId": "7411508695",
+        "title": "Factory own high quality fashion round neck short sleeve",
+        "picUrl": "https://si.geilicdn.com/pcitem901938109088-034600000195ae5a64370a20e284_1000_1000.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665795629",
+          "name": "Factory Store",
+          "logo": "https://si.geilicdn.com/shopedit1932780778-2345000001959049cb0a0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2432462",
+        "mallType": "T1688",
+        "itemId": "876867155177",
+        "title": "Retro pure cotton short sleeved T-shirt for men 25 summer style American letter printed half sleeved trendy brand loose couple T-shirt q",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XvADIk1bZtKzmIePx_!!3162543480-0-cib.jpg",
+        "price": "¥24.90",
+        "toPrice": "$3.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJHN6abHDsPwJOt3GwnYqSA",
+          "name": "温州市水川服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2432077",
+        "mallType": "WD",
+        "itemId": "7265177873",
+        "title": "[HOT SALE] Limited edition jersey Brazil, burn your passion! (Non-quality problems do not support no reason to return or exchange)",
+        "picUrl": "https://si.geilicdn.com/open1788491365-1234478995-0a0f000001919e5917c60a22d234_940_962.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1788491365",
+          "name": "Younger Store",
+          "logo": "https://si.geilicdn.com/wdseller1887350940-0af500000191acfa9dbf0a2304aa_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "332307",
+        "mallType": "TB",
+        "itemId": "851769215360",
+        "title": "2025 New American High Street Crtz European and American Celebrity Style Ukdripdrill Hip-Hop Street Summer Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4kj1inv_p4ba.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125397995",
+          "name": "NT 嘻哈街头潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "329303",
+        "mallType": "T1688",
+        "itemId": "826385581672",
+        "title": "GALLERY DEPT FOG washed do old retro short sleeve t-shirt rainbow graffiti loose couple half sleeve men vtg",
+        "picUrl": "https://cdn.findqc.com/item/20241211/m4jj5c6b_exlt.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214170225335",
+          "name": "铅山县世辉家贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143490521916156595",
+  "language": "en"
+}

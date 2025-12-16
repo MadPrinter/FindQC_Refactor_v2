@@ -1,0 +1,381 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2259283",
+        "mallType": "WD",
+        "itemId": "7536404314",
+        "title": "ZM Top E drawstring casual sweatshirt and pants",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgxa0wiq_u4bl.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "333321600",
+          "name": "Alpha  Luckin",
+          "logo": "https://si.geilicdn.com/wdseller333321600-608500000199331fab3b0a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 113,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2057555",
+        "mallType": "T1688",
+        "itemId": "944080471994",
+        "title": "Cross-Border New Spring & Fall Hooded Suits for Men and Women Nk Sports Casual Suits Sports Fashion Jackets and Pants Trendy Brand Wear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jTPaKU1VhmVEhqAFG_!!2218057382685-0-cib.jpg",
+        "price": "¥80.99",
+        "toPrice": "$12.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5wxwniZjKBq2bKCVwHJx4Q",
+          "name": "上饶市弘义服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 179,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2503635",
+        "mallType": "WD",
+        "itemId": "7559338920",
+        "title": "JL27 high-quality American graffiti loose long sleeved shirt",
+        "picUrl": "https://si.geilicdn.com/open1669672189-1234478995-220700000198bc4417f30a22d249_1200_1200.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780153301",
+          "name": "Shoes and Clothing Stores",
+          "logo": "https://si.geilicdn.com/shopedit1904725819-728900000194e9e158610a2395d6-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2783558",
+        "mallType": "T1688",
+        "itemId": "896958100114",
+        "title": "Foreign Trade Wholesale Terry Sweatshirt for Men and Women in Autumn and Winter Long-Sleeved Ape Letter Print Loose Round Neck Pullover Casual Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kB9j5S1oGjl3YnNJj_!!2218365345198-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOaWnYH9ZXH598zvwbtzipw",
+          "name": "佛山市南海区韩潮社服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3089639",
+        "mallType": "T1688",
+        "itemId": "747787175765",
+        "title": "Spring and Autum Couple Terry Trendy Young Men's Cardigan Sweatshirt Assassin Letter Hooded Wizard Cloak Long Sleeves",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011dnUha2Ae1KWD7MSs_!!2211933918227-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVLUwpo20FwKVRfhyXPuGXg",
+          "name": "义乌市奇门服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2856499",
+        "mallType": "T1688",
+        "itemId": "987137271554",
+        "title": "24FW Arc Crewneck Hooded Sweatshirt美式街头潮牌字母印花卫衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dZ59Fk2A6acBikLr7_!!2220318358154-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvZGKE-06chqKR9wD_rUWuw",
+          "name": "铅山县佑康电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2628342",
+        "mallType": "TB",
+        "itemId": "982500086414",
+        "title": "U x Slam Jam Masked Hoodie Opium Style Face Mask Hoodie Embroidered Loose Hoodie Hoodie",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2200699446600/O1CN01YWbU2z1ycr82tcI1M_!!2200699446600.png",
+        "price": "¥237.10",
+        "toPrice": "$37.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "465665442",
+          "name": "DTQL",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2253758",
+        "mallType": "WD",
+        "itemId": "7533226920",
+        "title": "Hoodie, loose casual sports, men's and women's couple jacket, hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251105/mhljuphk_74g2.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1697509485",
+          "name": "HOTREPS",
+          "logo": "https://si.geilicdn.com/shopedit1938853185-7042000001979d0fa3990a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2076492",
+        "mallType": "T1688",
+        "itemId": "942010284614",
+        "title": "Fog Multi-Line Essentials Season 8 Multi-Line High Street Fashion Brand Sweatshirt Back Printed Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250905/mf5msc40_myhk.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhPP6O-zntDkmBGLCGTic9Q",
+          "name": "宁波够特服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 462,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2584050",
+        "mallType": "WD",
+        "itemId": "7552089563",
+        "title": "Fashion hoodie (W2C-153)",
+        "picUrl": "https://si.geilicdn.com/pcitem901903636310-5b7300000195078ada8c0a23111a_876_876.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858423235",
+          "name": "CN Featured",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2581738",
+        "mallType": "TB",
+        "itemId": "981634110932",
+        "title": "In Stock Vtm 18 Bro Logo Sweatpants Paris Style Baggy Embroidered Sweatpants",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3822597683/O1CN01hGMZo826cs4ExFCUU_!!3822597683.jpg",
+        "price": "¥300.57",
+        "toPrice": "$47.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "308309575",
+          "name": "K嘉made",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1013337",
+        "mallType": "T1688",
+        "itemId": "576221198784",
+        "title": "Heiplay Japanese Fashion Brand 18 Red Heart Jacket Blue Zipper Back Big Black Heart Vertical Collar Sweater for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250831/meyzy0h5_80gb.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzjKZsdB7lDRdJfUf-_KEbA",
+          "name": "深圳市宝安区新桥街道川久保玲制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 263,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "3086403",
+        "mallType": "TB",
+        "itemId": "858985183187",
+        "title": "Kanye double-layer wide shoulder YZY Kanye heavyweight high street trendy American style seasonal hoodie sweatshirt for men and women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1872706051/O1CN01usm1mk1uZPbu6g6S3_!!1872706051.jpg",
+        "price": "¥153.11",
+        "toPrice": "$24.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117674187",
+          "name": "But 不潮你就输了",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3085869",
+        "mallType": "WD",
+        "itemId": "7454373943",
+        "title": "YY1021",
+        "picUrl": "https://si.geilicdn.com/pcitem1901986286-72810000019672c332fa0a23041a_1000_1000.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1803208917",
+          "name": "Wannabuy",
+          "logo": "https://si.geilicdn.com/wdseller1901986286-290300000192f283a1fe0a207569_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3085639",
+        "mallType": "TB",
+        "itemId": "993818464132",
+        "title": "Opium Yvl Style Playboicarti Merchandise Iam Music Slim Fit Double Zipper Hoodie Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2210299185015/O1CN01p1ZMRC1muvNBAWm8w_!!2210299185015.jpg",
+        "price": "¥236.03",
+        "toPrice": "$37.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263269114",
+          "name": "VOGUE ITEMS",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2920509",
+        "mallType": "WD",
+        "itemId": "7590450161",
+        "title": "Trendy SY round neck pure cotton long sleeved shirt",
+        "picUrl": "https://si.geilicdn.com/weidian901956804108-048f0000019a43b3d8110a20e2c5_800_800.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "507105153",
+          "name": "Dragon",
+          "logo": "https://si.geilicdn.com/wdseller507105153-19c1000001951ceded450a2395d6_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2215977",
+        "mallType": "WD",
+        "itemId": "7521581257",
+        "title": "Autumn and winter sports plus velvet embroidery small logo classic versatile hoodie pullover 6609",
+        "picUrl": "https://si.geilicdn.com/open1801180035-1234478995-5a85000001988859f9ee0a23b491_640_640.jpg",
+        "price": "¥89.90",
+        "toPrice": "$14.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2606322",
+        "mallType": "WD",
+        "itemId": "7518920121",
+        "title": "时尚百搭圆领卫衣合集 YHH26--C60N",
+        "picUrl": "https://si.geilicdn.com/open1813519773-1234478995-50400000019869797b650a22d249_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1813519773",
+          "name": "Flying Pig Fashion",
+          "logo": "https://si.geilicdn.com/pccreshp1951011963-5609000001966c5d6efb0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2603938",
+        "mallType": "T1688",
+        "itemId": "819396595561",
+        "title": "Men's spring and fall new fashion trend zipper collar men's pullover top casual versatile long-sleeved",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KM4kOs1SIBQqqsKtv_!!2206624362223-0-cib.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206624362223",
+          "name": "温州市瓯海郭溪新大阳鞋厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2604187",
+        "mallType": "WD",
+        "itemId": "7454991986",
+        "title": "RC098",
+        "picUrl": "https://si.geilicdn.com/open1819210141-1234478995-28f900000196680730cc0aa08290_1284_1284.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819210141",
+          "name": "180°",
+          "logo": "https://si.geilicdn.com/shopedit1950241282-111e00000197d49955500a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142384792553906695",
+  "language": "en"
+}

@@ -1,0 +1,300 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "39779",
+        "mallType": "TB",
+        "itemId": "693055771614",
+        "title": "Hipster co-branded high-quality hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmt1x0_l42a.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39744",
+        "mallType": "TB",
+        "itemId": "756225967685",
+        "title": "20231211 Hoodie 2 A 601",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmjfn3_68fh.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39716",
+        "mallType": "WD",
+        "itemId": "7236463355",
+        "title": "Hooded sweater men's casual sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmj33y_c4oq.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1757863670",
+          "name": "GGG天空小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39687",
+        "mallType": "T1688",
+        "itemId": "817918444806",
+        "title": "Trendy Brand High Street Ins Niche Vintage Antique Printed Letter Loose Men's and Women's Hooded Sweatshirt Autumn and Winter",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmk1j2_8zbp.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGU_8EM53xVGZZsm3uz3wUQ",
+          "name": "揭阳市揭东区新亨镇纤沫服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39600",
+        "mallType": "WD",
+        "itemId": "7232325401",
+        "title": "S FOG High Neck Hooded Sweatshirt in Fluorescent Color",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmizkv_apyj.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616523704",
+          "name": "Survival_cloth",
+          "logo": "https://si.geilicdn.com/wdseller1481079960-0ff900000182272db67e0a2102d0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39572",
+        "mallType": "TB",
+        "itemId": "670972275476",
+        "title": "NIC Original Half Zip Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmihmi_3tkz.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39538",
+        "mallType": "T1688",
+        "itemId": "730151398158",
+        "title": "Autumn and Winter High Street Trendy Brand OFF Hoodie OW Arrow Graffiti Fireworks 99 Glue Strip Series Printed Men's and Women's Hoodies",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmjjta_p250.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212490836575",
+          "name": "广州琅富贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39532",
+        "mallType": "T1688",
+        "itemId": "649595723703",
+        "title": "Cross-border wholesale bape classic model shark camouflage hooded cardigan zipper terry men's and women's tide sweater jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmixcx_3bso.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 47,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39500",
+        "mallType": "WD",
+        "itemId": "6637454273",
+        "title": "R Foam Printed Hoodie Black",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmia9v_9ljx.jpg",
+        "price": "¥369.00",
+        "toPrice": "$58.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718181862",
+          "name": "1to1",
+          "logo": "https://si.geilicdn.com/pcdecorate1678115151-76fa00000186f0f8f2e20a230368-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39487",
+        "mallType": "TB",
+        "itemId": "815560453777",
+        "title": "Mainline Raff Horse Pure Cotton Slim-Fit Suit Single Piece Central European and American Celebrity Style Street Drill Style",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmi8ih_w8fr.jpg",
+        "price": "¥163.30",
+        "toPrice": "$25.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "581019830",
+          "name": "AimToKill",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39405",
+        "mallType": "T1688",
+        "itemId": "727206304988",
+        "title": "ESSENTIALS children's autumn and winter velvet casual children's clothing, new hoodies for boys and girls, small and medium-sized children's pullovers",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmh6rf_2pm5.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210916220144",
+          "name": "上饶市潮工坊服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 38,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39347",
+        "mallType": "TB",
+        "itemId": "761884781712",
+        "title": "Corteiz high quality American tide Alcatraz hooded padded sweater shorts spring and summer loose suit men and women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmgogm_16xt.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "categoryId": 11,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39283",
+        "mallType": "TB",
+        "itemId": "682791663288",
+        "title": "European goods hot drilling fall and winter padded and thickened round neck pullover tide heavy large size with diamond sweater men and women cotton tops",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmfgbb_tr5g.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39292",
+        "mallType": "T1688",
+        "itemId": "820350932075",
+        "title": "Hellstar American tide printing casual street retro tide loose hooded sweater men and women couples with the same suit",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmfzts_upt4.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216567592984",
+          "name": "佛山市禅城区嘉清嘉服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39275",
+        "mallType": "T1688",
+        "itemId": "784346678760",
+        "title": "AliExpress Foreign Trade American Simple Loose Fashion Trendy Brand High Street Zipper Hoodie Letter Adhesive Cloth Cardigan Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmfcm5_b95g.jpg",
+        "price": "¥40.99",
+        "toPrice": "$6.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOxYAl_esjRBZBBJXNC9ovg",
+          "name": "深圳市易斯菲尔电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 61,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39230",
+        "mallType": "WD",
+        "itemId": "6733004129",
+        "title": "AI Sweatshirt Hoodie Front Basic AI Letter Pocket 9752",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmfb13_9mtz.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39228",
+        "mallType": "T1688",
+        "itemId": "783449440612",
+        "title": "Sup 20FW Box Hooded co-branded men's and women's hooded sweatshirts with hoods thick section hoodies fall and winter foreign trade models",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmf65f_8qtw.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39225",
+        "mallType": "TB",
+        "itemId": "690125851274",
+        "title": "WIROTE/WIROTE fall retro white washed and worn red casual pullover hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmf0z2_kgy2.jpg",
+        "price": "¥329.00",
+        "toPrice": "$51.73",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149259372553886626",
+  "language": "en"
+}

@@ -1,0 +1,444 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2135483",
+        "mallType": "WD",
+        "itemId": "7259105289",
+        "title": "P Phone Case",
+        "picUrl": "https://si.geilicdn.com/pcitem1850390036-0c230000019083b2c85c0a2315ef_893_891.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834294769",
+          "name": "LABRADOR",
+          "logo": "https://si.geilicdn.com/wdseller1806818931-6bea0000019156c41b700a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1926336",
+        "mallType": "TB",
+        "itemId": "633773467777",
+        "title": "New AER Hip Belt Travel Pack Backpack Travel pack Small Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdwk70ds_wi0e.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "520645490",
+          "name": "彩虹外贸批发",
+          "type": "TB"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1741289",
+        "mallType": "T1688",
+        "itemId": "716739168917",
+        "title": "First person perspective immersive device chest phone fixed bracket chest band wearing Tiktok riding shooting",
+        "picUrl": "https://cdn.findqc.com/item/20250714/md2emke0_jnkc.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215703278782",
+          "name": "深圳哈可罗数码科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1690317",
+        "mallType": "TB",
+        "itemId": "908588881510",
+        "title": "Suitable for car key hanging accessories, simple to carry, convenient to carry keys, customizable keychain, innovative keychain",
+        "picUrl": "https://cdn.findqc.com/item/20250710/mcwyzd54_9xev.jpg",
+        "price": "¥23.80",
+        "toPrice": "$3.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "245768684",
+          "name": "精致饰品大牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56540",
+        "mallType": "T1688",
+        "itemId": "657299618310",
+        "title": "First-person view shooting accessories sports camera chest shooting strap live outdoor cycling cell phone holder",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nps8tb_4ir7.jpg",
+        "price": "¥2.00",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206685040815",
+          "name": "深圳市科普罗科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "51692",
+        "mallType": "TB",
+        "itemId": "661171559607",
+        "title": "New Off Keychain White European and American Trendy Brand Embroidered Canvas Logo Pendant Luggage Camera with Denim Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mhlhnh_oqca.jpg",
+        "price": "¥18.06",
+        "toPrice": "$2.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "509295906",
+          "name": "Fashion原宿",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "43843",
+        "mallType": "TB",
+        "itemId": "739677877059",
+        "title": "[in Stock] Camera Strap Universal Quick-Release Buckle Braided Rope Style Retro for Fujifilm Sony Gr3 Canon Neck Strap",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3me1u6p_ngey.jpg",
+        "price": "¥69.64",
+        "toPrice": "$10.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "235564850",
+          "name": "King Camera Designs",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "23442",
+        "mallType": "TB",
+        "itemId": "730181327612",
+        "title": "Sports Cross-Country Running Tactical Backpack Men's Backpack Marathon Outdoor Night Running Professional Cycling Fitness Mobile Phone Bag",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nhyaho_nvxx.jpg",
+        "price": "¥70.16",
+        "toPrice": "$11.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34993838",
+          "name": "核心肌地健身专门店",
+          "type": "TB"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "10583",
+        "mallType": "TB",
+        "itemId": "709702234397",
+        "title": "Applicable Loewe Loewe puzzle geometric bag wide shoulder strap accessories Fukubukuro single shoulder diagonal cross replacement straps sub",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mba34q_a8li.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5417",
+        "mallType": "T1688",
+        "itemId": "635168360335",
+        "title": "New Off Keychain White European and American Trendy Brand Embroidered Canvas Logo Pendant Luggage Camera with Cowboy Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m90xcs_noqn.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBS2BaerTwBR7Qzlri-U_WAA",
+          "name": "揭阳市揭东区古希亭电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 148,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021142296442553913687",
+  "language": "en"
+}

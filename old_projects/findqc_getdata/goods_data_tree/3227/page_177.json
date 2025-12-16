@@ -1,0 +1,382 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1121424",
+        "mallType": "WD",
+        "itemId": "4523237742",
+        "title": "Men's Solid Color Pony Embroidered Short Sleeve T-Shirt $89",
+        "picUrl": "https://si.geilicdn.com/pcitem1450586499-73a40000017f6eb9bd910a21146b_1200_1200.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1798584048",
+          "name": ".",
+          "logo": "https://si.geilicdn.com/weidian1450586499-51540000019a2041c0890a23111a_1118_1118.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "143338",
+        "mallType": "T1688",
+        "itemId": "838969463145",
+        "title": "Long-Term and Goods Cross-Border European and American Trendy Brand Long Sleeve Long-Sleeved T-Shirt Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpm4oh_epx9.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6btN04GWFH8cZZqwk8fX-Q",
+          "name": "长汀县京溢服装店",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2893431",
+        "mallType": "WD",
+        "itemId": "7432096820",
+        "title": "DX23] Classic letter print summer men and women couple loose casual short-sleeved T-shirt-SR",
+        "picUrl": "https://si.geilicdn.com/open1668172557-252808396-7029000001954f6d5abc0aa0834c_1200_1200.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668172557",
+          "name": "TOPSUMMER",
+          "logo": "https://si.geilicdn.com/pcdecorate901935370638-6dde000001956ab6cb320a231316-unadjust_350_350.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2891911",
+        "mallType": "WD",
+        "itemId": "7492920106",
+        "title": "Homemade Special-Interest Design Creative Minimalist Print Short Half Sleeve Oldschool Idle Style Loose T-shirt Men and Women Coupl...",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-12f7000001976da8e2a90aa0c79f_800_800.jpg",
+        "price": "¥59.76",
+        "toPrice": "$9.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854689181",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2890456",
+        "mallType": "T1688",
+        "itemId": "940545417938",
+        "title": "2526 Bayern away jersey number 25 Muller farewell football jersey adult player version fan version single top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AYRE4D1FHe30T6lyw_!!2218685420462-0-cib.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB6k4w3wZXOXZM0FzRvyku0g",
+          "name": "广州鑫荣供应链科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2698219",
+        "mallType": "T1688",
+        "itemId": "945165728758",
+        "title": "Foreign Trade Cross-Border Trendy Brand Ly Wei Embroidered Pure Cotton Round Neck T-Shirt for Men and Women, Casual and Versatile Couple Wear 2025 New",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SsQV5r263bXi7aWfC_!!2219132547606-0-cib.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvmr53n05kE-wxA1EQNC24Q",
+          "name": "广州依棠服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2696217",
+        "mallType": "T1688",
+        "itemId": "848111134037",
+        "title": "2024 fall and winter new CH Crowe graffiti little monster waffle flame long-sleeved T-shirt men and women with a piece of hair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jxqyGH1JA5vAnPs9J_!!2218758660987-0-cib.jpg",
+        "price": "¥77.00",
+        "toPrice": "$12.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218758660987",
+          "name": "广州市潮瘾贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2696031",
+        "mallType": "WD",
+        "itemId": "7568700894",
+        "title": "Printed fall and winter bottoming shirt long sleeve T-shirt kyEC",
+        "picUrl": "https://si.geilicdn.com/pcitem901908345148-51b5000001998bab31f90a210256_1440_1440.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1741168821",
+          "name": "做个老实人",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2694244",
+        "mallType": "T1688",
+        "itemId": "803172318023",
+        "title": "2024 summer new over-the-test version G short sleeve correct version T-shirt G short sleeve over-the-test couples correct version short sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gDmaHN1C6FE2S3gKT_!!2217176720031-0-cib.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaXT_snrIgAIengWjNXqRsA",
+          "name": "佛山市禅城区名流高端服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2693570",
+        "mallType": "T1688",
+        "itemId": "942191101133",
+        "title": "stussy Stussy men and women short-sleeved T-shirt summer men's loose cotton heavyweight high-quality T-shirt three standard Qi",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016U8rd31nFzYTBRDXB_!!2219678665061-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219678665061",
+          "name": "广州鑫蕴阁服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2583518",
+        "mallType": "WD",
+        "itemId": "7538731046",
+        "title": "GS.73018687",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-59fc0000019826be6d9f0a23b491_1000_1000.jpg",
+        "price": "¥103.37",
+        "toPrice": "$16.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1865721389",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2509949",
+        "mallType": "WD",
+        "itemId": "7460430948",
+        "title": "Correct and high quality Mar* Magilla short sleeves (38 models)",
+        "picUrl": "https://si.geilicdn.com/wdseller1869801865-4d7300000198d08ecca90a230115_1024_1024.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3051105",
+          "name": "潮牌Ostar  Shop",
+          "logo": "https://si.geilicdn.com/wdseller1869801865-61cb0000019619b560480a20e2c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2507708",
+        "mallType": "WD",
+        "itemId": "7497368970",
+        "title": "Round neck sweatshirt street hip hop skateboarding sports casual long sleeve sweatshirt collection-CY",
+        "picUrl": "https://si.geilicdn.com/pcitem901898590714-6b6a00000193ba5001200a23047e_1200_1200.jpg",
+        "price": "¥151.00",
+        "toPrice": "$23.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1750796349",
+          "name": "Atlanta shop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2506134",
+        "mallType": "WD",
+        "itemId": "7499697474",
+        "title": "[DX46] G0AT",
+        "picUrl": "https://si.geilicdn.com/open1700008665-252808396-7bbb00000191baa3e6340a232357_900_900.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1645496285",
+          "name": "Best Goat 🐐",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2506018",
+        "mallType": "TB",
+        "itemId": "768370910563",
+        "title": "Original Children's kids classic Big horse standard Knitting POLO short sleeve T-shirt 37224 golf POLO shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/762864297/O1CN01clXFrz1hc4ouJnt9K_!!762864297.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "69089331",
+          "name": "石头家的衣橱ZJP石头宝宝",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2400626",
+        "mallType": "WD",
+        "itemId": "7528065875",
+        "title": "72A7-1c-P",
+        "picUrl": "https://si.geilicdn.com/open1775823299-1234478995-247e00000198bd6426f10a22d249_1066_1066.jpg",
+        "price": "¥91.50",
+        "toPrice": "$14.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1775823299",
+          "name": "Trendy Hub 2",
+          "logo": "https://si.geilicdn.com/shopedit1981004707-79ee00000198a7c8225d0a210256-unadjust_749_749.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2347386",
+        "mallType": "T1688",
+        "itemId": "796383942492",
+        "title": "American fashion brand amiri Short-sleeved T-shirt short sleeve T-shirt men's and women's loose letter printed summer",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01uTdOio1msdFM6Xmg0_!!2217678875010-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHZ-8k9xeFDmQ319E4nhklQ",
+          "name": "陆丰市碣石冷狗撞服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2343347",
+        "mallType": "TB",
+        "itemId": "902978199965",
+        "title": "Detw 25Ss*《20Era》Original Dark Slogan Patchwork Pu Leather Polo Shirt with Regular Shoulders, Slim Fit, Short Sleeve Tee",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3791109895/O1CN01pl1B3R2Mxy7CzOcKj_!!3791109895.jpg",
+        "price": "¥184.92",
+        "toPrice": "$29.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "207944051",
+          "name": "DETW OnLine",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2342785",
+        "mallType": "WD",
+        "itemId": "7503832782",
+        "title": "New Fashion Hundred Short Sleeve-060",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-367d00000197d51ee40e0aa0c791_2400_2400.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2341341",
+        "mallType": "TB",
+        "itemId": "809732329390",
+        "title": "KK PLAYBOY CARTI WLE SICKSID RED slogan limited long sleeved hoodie T-shirt for men and women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2212643669335/O1CN01DnAwNT2IpUF1DGi8o_!!2212643669335.jpg",
+        "price": "¥79.99",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142553991917135296",
+  "language": "en"
+}

@@ -1,0 +1,380 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2233014",
+        "mallType": "T1688",
+        "itemId": "969377993805",
+        "title": "Moose小剪刀男士羽绒服狐狸毛02款情侣款加拿大同款防寒保暖外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yo5FE31UIlGmzW98U_!!2220530422495-0-cib.jpg",
+        "price": "¥520.00",
+        "toPrice": "$81.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBntflccPVzdyvgpKl94QufQ",
+          "name": "莆田市城厢区羽柔贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2285617",
+        "mallType": "WD",
+        "itemId": "7536270560",
+        "title": "High quality down jackets premium version RL small horse standard cotton jacket thickened warm jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem1960431235-3a910000019912b115020a207569-unadjust_1440_1440.png",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710611773",
+          "name": "2025GOBUY",
+          "logo": "https://si.geilicdn.com/wdseller1960431235-5e0c000001988ff44d550a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 97,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1744068",
+        "mallType": "WD",
+        "itemId": "7292497682",
+        "title": "Fashionable and versatile down jacket (P-0008)",
+        "picUrl": "https://si.geilicdn.com/pcitem901901383085-26c700000192ba2a21660a210139_1200_1200.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1641796437",
+          "name": "UMI BUY",
+          "logo": "https://si.geilicdn.com/shopedit1901381675-3bd900000192bcbc93a40a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "969019",
+        "mallType": "T1688",
+        "itemId": "858582848538",
+        "title": "Winter New Detachable Fur Collar down Jacket Waist Slimming Look 90 White Duck down Jacket for Women Black",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016LtenB1ZVC6R1RlrT_!!2214229953199-0-cib.jpg",
+        "price": "¥389.00",
+        "toPrice": "$61.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBl2P-wipXmH239PdcYtjR0g",
+          "name": "广州市荔湾区中南街红七服装店",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3167432",
+        "mallType": "T1688",
+        "itemId": "985143537401",
+        "title": "蒙家可拆卸羽绒服外套连帽背心马甲男女两穿加厚秋冬鹅绒M家夹克",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01c9kP7g1d6Ezk9hUAg_!!2220570333686-0-cib.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdTIiY5SooRgI-YlBFSDS2g",
+          "name": "义乌市顾煦贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "341530",
+        "mallType": "T1688",
+        "itemId": "672956561297",
+        "title": "Palm Moose # 02g Men Fox Fur Gold Badge Bomber down Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241216/m4pz9xun_907o.jpg",
+        "price": "¥549.00",
+        "toPrice": "$86.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmHge03Akzs4TMHQLnVwWHA",
+          "name": "泉州市宝丝林服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1807976",
+        "mallType": "WD",
+        "itemId": "7494714446",
+        "title": "P695 S*V 3in1",
+        "picUrl": "https://si.geilicdn.com/pcitem1848726258-2e6500000197822d87bc0a23037f-unadjust_158_157.png",
+        "price": "¥695.00",
+        "toPrice": "$109.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1612190937",
+          "name": "Bevs",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2600231",
+        "mallType": "T1688",
+        "itemId": "833918019281",
+        "title": "23Ss New Autumn and Winter Stand Collar Bread Outwear down Cotton Outwear",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01THoz3x2EGttLNsQP4_!!2217089178718-0-cib.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoj81xblhV54gGWpMeODdaw",
+          "name": "佛山市禅城区格蕾芙服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2710619",
+        "mallType": "T1688",
+        "itemId": "901579027213",
+        "title": "Palm Moose #03 Women Fox Fur Hooded Bomber Down Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UV00re1pKglQ5fwZ2_!!2214813275342-0-cib.jpg",
+        "price": "¥430.00",
+        "toPrice": "$67.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxXxdWvgzMHmkMm1is0zftw",
+          "name": "莆田市秀屿区埭头林志钦食杂店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "231324",
+        "mallType": "T1688",
+        "itemId": "807140044882",
+        "title": "Cross border Putian High version Goose 02 Scissors Down Jacket Canadian Men and Women Short Coat Silver Fox Jacket\n",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p7snd_hamt.jpg",
+        "price": "¥450.00",
+        "toPrice": "$70.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNh1LkLUHGP3ASvoNYGCQzg",
+          "name": "莆田市城厢区艺玖大鹅服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3111280",
+        "mallType": "T1688",
+        "itemId": "994290677288",
+        "title": "/单锋驼潮牌美式Trapstar夹克羽绒棉服情侣款冬季保暖外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AL6ek3245mE9TAsaq_!!2220756737340-0-cib.jpg",
+        "price": "¥231.62",
+        "toPrice": "$36.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBF4eJte9_fwNyHJmywJI2OQ",
+          "name": "龙港市芭蒙电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2611394",
+        "mallType": "WD",
+        "itemId": "7565858979",
+        "title": "KK10-PH-G-downjaket crh39WhatsApp:+86 173 0597 0797",
+        "picUrl": "https://si.geilicdn.com/open1634098741-1234478995-29d6000001982baa2ce00aa0c791_800_800.jpg",
+        "price": "¥339.00",
+        "toPrice": "$53.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834072259",
+          "name": "KK TOP",
+          "logo": "https://si.geilicdn.com/shopedit1979664068-15860000019a4f5898ba0a230115-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3166787",
+        "mallType": "T1688",
+        "itemId": "683935962078",
+        "title": "2022冬季男士冬季服男女同款情侣工装风加厚保暖青年休闲国潮外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fcFK6o1hG5f4ZfMqf_!!2208565174249-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208565174249",
+          "name": "保定雅凡服装制造有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2430317",
+        "mallType": "WD",
+        "itemId": "7543027759",
+        "title": "FFB Fashion Down Jacket Vest",
+        "picUrl": "https://si.geilicdn.com/pcitem1982612603-0b2400000199206a020d0a2396f4-unadjust_640_640.png",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1716496419",
+          "name": "Aether Apparel",
+          "logo": "https://si.geilicdn.com/shopedit1982612603-0f0b00000199241a2a180a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2306074",
+        "mallType": "T1688",
+        "itemId": "840512324336",
+        "title": "Cross-border Goose Down Coat Canada with Chelsea Whitehouse Parka 04 Coat 3804L",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lLyQ8M1pKglYpMYui_!!2214813275342-0-cib.jpg",
+        "price": "¥450.00",
+        "toPrice": "$70.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214813275342",
+          "name": "莆田市秀屿区顺隆服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2283116",
+        "mallType": "WD",
+        "itemId": "7521877354",
+        "title": "FFB trendy and fashionable down jacket vest",
+        "picUrl": "https://si.geilicdn.com/open1621880285-1234478995-30e10000019878629b160a22d249_1200_1200.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621880285",
+          "name": "FunkyFitsBuy",
+          "logo": "https://si.geilicdn.com/wdseller1957175964-564000000196e87b77650a207569_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3166576",
+        "mallType": "WD",
+        "itemId": "7571315520",
+        "title": "factory high quality cotton clothes super low price-catta",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-7bda00000198d598b6960a8133b0_1200_1200.jpg",
+        "price": "¥154.80",
+        "toPrice": "$24.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780011453",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2824525",
+        "mallType": "WD",
+        "itemId": "7581400053",
+        "title": "High quality cotton clothing from the factory at a super low price\n",
+        "picUrl": "https://si.geilicdn.com/open1848188377-1848188377-5f5e000001934acbae590a232357_1200_1200.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1656095251",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2736918",
+        "mallType": "T1688",
+        "itemId": "892193768556",
+        "title": "Expedition 08 Goose Down Jacket Jacket Men's Mountaineering Outdoor Jacket Men's Charge Clothes Northeast Thickened Workwear Pike Clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010o8acK2HSl2NaigC1_!!2214652119150-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgkPpXcCBNz35o6qU2Adk8Q",
+          "name": "保定宸冉服装制造有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "554319",
+        "mallType": "T1688",
+        "itemId": "693941970165",
+        "title": "SUBHUMAN Men's Style | Dark Style Shark Head Mask Zipper Warm Regular Down Jacket Coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01MT1Rs41roZrxFhD8Z_!!3361665678-0-cib.jpg",
+        "price": "¥680.00",
+        "toPrice": "$106.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdYna1WZ5cQfMXFU8SoeZ3w",
+          "name": "广州焯耀服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142553811917915132",
+  "language": "en"
+}

@@ -1,0 +1,640 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3206838",
+        "mallType": "WD",
+        "itemId": "7562066135",
+        "title": "太阳镜男女",
+        "picUrl": "https://si.geilicdn.com/open1840466345-252808396-2fd7000001958bab98b70a23b4de_1920_1920.jpg",
+        "price": "¥36.80",
+        "toPrice": "$5.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1838856349",
+          "name": "CN TOP",
+          "logo": "https://si.geilicdn.com/wdseller1949221656-1cb3000001989a34001e0a231177_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "303307",
+        "mallType": "T1688",
+        "itemId": "846381536956",
+        "title": "Europe and the United States outside the new sunglasses men and women box grams flat mirror classic travel fashion optical glasses 2273",
+        "picUrl": "https://cdn.findqc.com/item/20241203/m48df76h_ssbz.jpg",
+        "price": "¥13.00",
+        "toPrice": "$2.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBU5M6pA9Qd0Ffh22qZ9NuLQ",
+          "name": "台州岩科贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 599,
+        "qcVideoCnt": 31,
+        "picWidth": "1920",
+        "picHeight": "1920"
+      },
+      {
+        "id": "1652",
+        "mallType": "T1688",
+        "itemId": "745886147107",
+        "title": "European and American overseas new sunglasses men's and women's square box Kejia plain glasses Classic Travel Fashion Optical glasses 2271",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3n1wob0_ovwk.jpg",
+        "price": "¥13.00",
+        "toPrice": "$2.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBU5M6pA9Qd0Ffh22qZ9NuLQ",
+          "name": "台州岩科贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 596,
+        "qcVideoCnt": 106
+      },
+      {
+        "id": "3102986",
+        "mallType": "TB",
+        "itemId": "994827300146",
+        "title": "Wang Anyu's same sunglasses blue GM men's trendy 2025 new high-end UV resistant street photography sunglasses",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/123873339/O1CN01IrhjRb1aXJZGt7mbH_!!123873339.jpg",
+        "price": "¥30.08",
+        "toPrice": "$4.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "59029511",
+          "name": "MIRROR HOME  眼镜",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3098432",
+        "mallType": "WD",
+        "itemId": "7516344510",
+        "title": "Fashion pure titanium frame glasses men's and women's glasses optical glasses Japanese and Korean trend fashion half frame glasses 20-XW-1",
+        "picUrl": "https://si.geilicdn.com/open1751930489-252808396-038a00000191920d56010aa0233d_1080_788.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1643420205",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2616642",
+        "mallType": "T1688",
+        "itemId": "761216139498",
+        "title": "72339新款大框个性近视眼镜框潮男女网红复古文艺平光镜架显脸小",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kdHahj1ukrPV9REWQ_!!1016086076-0-cib.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1016086076",
+          "name": "台州市维壹眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2620118",
+        "mallType": "T1688",
+        "itemId": "936967974798",
+        "title": "CT0695跨境时尚金属风无框方形碎花变色镜片轻奢卡家太阳镜潮墨镜",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TbWhMn2JKdGl21DaU_!!2217654569403-0-cib.jpg",
+        "price": "¥210.00",
+        "toPrice": "$33.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217654569403",
+          "name": "深圳市龙岗区嘉丽宝饰品商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2620111",
+        "mallType": "T1688",
+        "itemId": "949931751689",
+        "title": "Cross-border Car square rimless cut edge color-changing sunglasses men in Europe and the United States fashion trend with glasses female CT08262",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01hhED2H1Qcg12FqFtE_!!2219148721997-0-cib.jpg",
+        "price": "¥210.00",
+        "toPrice": "$33.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219148721997",
+          "name": "广州市曼邦贸易商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2658948",
+        "mallType": "WD",
+        "itemId": "7415677819",
+        "title": "chat fashion versatile uv protection sunglasses",
+        "picUrl": "https://si.geilicdn.com/open1764117581-1234478995-6ed7000001957fdcc9200aa08290_800_800.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1764117581",
+          "name": "Cnbuy",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3202249",
+        "mallType": "WD",
+        "itemId": "7504833684",
+        "title": "克罗Chrome Hearts十字架黑框防蓝光眼镜",
+        "picUrl": "https://si.geilicdn.com/wdseller1846399476-36cf00000197df3baa0d0a239646_1170_1170.jpg",
+        "price": "¥49.99",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779708249",
+          "name": "射手不射手",
+          "logo": "https://si.geilicdn.com/wdseller1846399476-2c6c0000018fe95afc430a20e35c_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2717717",
+        "mallType": "WD",
+        "itemId": "7503945080",
+        "title": "Sara 1500 Men's and Women's Square Flat Mirror Classic - CY\n",
+        "picUrl": "https://si.geilicdn.com/open1708631741-1234478995-38cc00000197d547a0ce0a231226_800_800.jpg",
+        "price": "¥79.60",
+        "toPrice": "$12.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708631741",
+          "name": "Cnfans Luxury Shop",
+          "logo": "https://si.geilicdn.com/shopedit1962395944-51a700000197cf5ca0b30a2395e5-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "3050999",
+        "mallType": "T1688",
+        "itemId": "962756113786",
+        "title": "G Home New Fashionable Personalized Glasses Frame European and American Ins Style Retro Trend Internet Celebrity Same Style Glasses Frame GG1874S",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZpV7p11x05yqSZKi5_!!2220045286380-0-cib.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSs4gfP8h5c2LxvkA5VVg7g",
+          "name": "广州匠奢眼镜商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3162591",
+        "mallType": "WD",
+        "itemId": "7603933568",
+        "title": "男女方框平光镜经典-CY",
+        "picUrl": "https://si.geilicdn.com/open1821611651-1234478995-22650000019878e6053e0a8115c2_800_800.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1647422547",
+          "name": "SnapBuy",
+          "logo": "https://si.geilicdn.com/shopedit1999990425-7f880000019a2adb2cac0a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2923983",
+        "mallType": "WD",
+        "itemId": "7589050230",
+        "title": "Male and Female Square Flat Mirror Classic - CY",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-594c00000195b24521c70a23b491_800_800.jpg",
+        "price": "¥50.15",
+        "toPrice": "$7.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1693155437",
+          "name": "Trendy shop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3191681",
+        "mallType": "T1688",
+        "itemId": "931703327517",
+        "title": "新款太阳镜男女方框克家平光镜经典旅游时尚光学眼镜眼镜欧美",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0141pPl61hQd3NBlwi3_!!2219686304272-0-cib.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219686304272",
+          "name": "临海市弧朦眼镜商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3104497",
+        "mallType": "T1688",
+        "itemId": "943450183442",
+        "title": "小香家CH3392素颜黑框女平光眼镜架板材近视眼镜可配度数素颜可配",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ePT6eq23m5BW9M4iQ_!!2219510487297-0-cib.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219510487297",
+          "name": "义乌市星野日用百货商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2774329",
+        "mallType": "WD",
+        "itemId": "7577094767",
+        "title": "Z New Fashion Clothing-010",
+        "picUrl": "https://si.geilicdn.com/pcitem1534758718-69b900000192f0f53e480a23041a-unadjust_1527_691.png",
+        "price": "¥215.00",
+        "toPrice": "$33.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830889667",
+          "name": "ZAREL",
+          "logo": "https://si.geilicdn.com/pcdecorate1967543857-635700000199939bccf00a2102c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2301719",
+        "mallType": "T1688",
+        "itemId": "928604566247",
+        "title": "The New European and American Cross-Border Popular Croton High-End Flat Mirrors, Anti-Blue Light Glasses, Unisex Driving Street Photography",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QdhANi262gk6hEO8e_!!2219766277604-0-cib.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBCePdVi2f5XK91AZFFxxiDQ",
+          "name": "台州黄岩帅筠贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1269109",
+        "mallType": "T1688",
+        "itemId": "877442250176",
+        "title": "New fashion rimless glasses men and women business myopia frame ovaryeasy cruciferous casual optical glasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fsDQrT2CPw8pJL13F_!!3161918467-0-cib.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhKpctnHw1MYzz0AGOHLctw",
+          "name": "台州市椒江卡迪眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3063100",
+        "mallType": "T1688",
+        "itemId": "985296625133",
+        "title": "爆款克嫁跨境欧美高级感平光镜防蓝光眼镜男女驾驶素颜街拍显瘦",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01O5Y0ty1pZnwvioYts_!!6000000005375-0-cib.jpg",
+        "price": "¥10.20",
+        "toPrice": "$1.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLh3bPo-yFS0cUxrtObULPQ",
+          "name": "台州市椒江晓丹电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145010861914132509",
+  "language": "en"
+}

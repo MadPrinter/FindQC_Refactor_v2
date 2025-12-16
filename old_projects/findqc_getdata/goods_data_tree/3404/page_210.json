@@ -1,0 +1,380 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2135351",
+        "mallType": "WD",
+        "itemId": "7511921150",
+        "title": "****** Products",
+        "picUrl": "https://si.geilicdn.com/pcitem1798464021-5ab6000001907cbfaac30a239846_800_779.jpg",
+        "price": "¥285.00",
+        "toPrice": "$44.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699631517",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2135337",
+        "mallType": "T1688",
+        "itemId": "893826459012",
+        "title": "AMI&EANM zipper hooded cardigan sweatshirt men's tide cardboard love embroidery fashion sports sweater jacket couple clothes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yGw9GK1lvYEbrLzGg_!!2219346614881-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219346614881",
+          "name": "上饶市舒意服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2135333",
+        "mallType": "T1688",
+        "itemId": "810084900446",
+        "title": "American hipster printed sweatpants European and American street tide brand loose sports casual pants gray spring and autumn leggings",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gVJqy01IKnWdvRQps_!!2217829370875-0-cib.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217829370875",
+          "name": "揭阳市揭东区新亨镇钊盈服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2135317",
+        "mallType": "WD",
+        "itemId": "7278096568",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/wdseller1224398227-37220000018df31c957a0a23132e_546_545.jpg",
+        "price": "¥386.00",
+        "toPrice": "$60.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1778752965",
+          "name": "青云",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2134273",
+        "mallType": "T1688",
+        "itemId": "900441931989",
+        "title": "Japanese tide ape head men's teenage camouflage padded sweater autumn and winter new big yards students pullover shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UWTulM1b4I1QciIFr_!!2218665563411-0-cib.jpg",
+        "price": "¥59.80",
+        "toPrice": "$9.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218665563411",
+          "name": "金华市金东区怡馨怡依电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2134181",
+        "mallType": "T1688",
+        "itemId": "680614949081",
+        "title": "DS451 fall and winter casual sweater men's pullover top bottom shirt inkjet letters long-sleeved sweater cross-border new",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01VkFL3i2AglaCsQxIv_!!2213303508233-0-cib.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213303508233",
+          "name": "何峰",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2134119",
+        "mallType": "T1688",
+        "itemId": "863668919824",
+        "title": "Cross border foreign trade men's autumn and winter pullover Polo sweatshirt, casual sports jacket, embroidered with horse logo and flannel hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jGnH061y6nKXehXuS_!!2212968596530-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfx6A_mRUOar7-ENAYO5TcA",
+          "name": "广州金都服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2133906",
+        "mallType": "T1688",
+        "itemId": "891090014851",
+        "title": "Correct Top Version 1.1 Autumn/Winter Pra G Home Classic Letter Ribbon Hoodie Hoodie Hoodie Hoodie Sweatshirt for Men and Women\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ICY9wb1aVTsKKL7US_!!2218655623335-0-cib.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBg1xpK2orG7CjepYDm2u6Xw",
+          "name": "广州市柏锐服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2133801",
+        "mallType": "WD",
+        "itemId": "7503667953",
+        "title": "Autumn and Winter Casual Fashion Hooded Sweatshirt Sweatpants Down Jacket 022-FashionReps",
+        "picUrl": "https://si.geilicdn.com/open908363001-1234478995-7c1c00000197e41274870a22d249_1200_1200.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "908363001",
+          "name": "TOPBUY1",
+          "logo": "https://si.geilicdn.com/weidian908363001-5be1000001988a100cc10a2315ef_1156_1156.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2132290",
+        "mallType": "WD",
+        "itemId": "7283127148",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1688018469-252808396-6ed3000001925ac693530a22d234_800_800.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1688018469",
+          "name": "胡奥",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2132254",
+        "mallType": "WD",
+        "itemId": "7387451520",
+        "title": "32A2-21c",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-226800000194d1a43f800a230115_800_800.jpg",
+        "price": "¥146.00",
+        "toPrice": "$22.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2132069",
+        "mallType": "T1688",
+        "itemId": "862093088914",
+        "title": "Meng family tide round neck loose sweater fall and winter new classic printing embroidery leisure heavy cotton men and women with models",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZbOYXj1LoyWEyn391_!!2218958801347-0-cib.jpg",
+        "price": "¥103.00",
+        "toPrice": "$16.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218958801347",
+          "name": "广州拾三服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2131779",
+        "mallType": "T1688",
+        "itemId": "930408726872",
+        "title": "Europe and the United States cross-border fall and winter padded double cap unique hummer design windproof hooded sweater men and women with the same paragraph loose Y2K",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jmlXnM1frX5TMtsgE_!!2219808754060-0-cib.jpg",
+        "price": "¥37.99",
+        "toPrice": "$5.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219808754060",
+          "name": "上饶市启创服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2131758",
+        "mallType": "WD",
+        "itemId": "7385451177",
+        "title": "30A2-2c",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-3f6000000194cd03cc3f0a230115_804_668.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2032335",
+        "mallType": "WD",
+        "itemId": "7468772039",
+        "title": "bbl sweatshirt big!",
+        "picUrl": "https://si.geilicdn.com/pcitem901954779155-5f2400000196deaf04d90a8133cc_1170_1531.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704030045",
+          "name": "SwiftBuy",
+          "logo": "https://si.geilicdn.com/wdseller1954741714-6c910000019a09df5e390a81347d_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2031117",
+        "mallType": "T1688",
+        "itemId": "922760516078",
+        "title": "2024 new American tide STU towel embroidery embroidered hoodie loose padded thickened sweater hooded jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xYL4yT2Btslh5kM4Y_!!2218763088397-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219727533350",
+          "name": "广州希蓬服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1982711",
+        "mallType": "T1688",
+        "itemId": "842178877691",
+        "title": "AM1R1 ICON niche fashion brand peace dove letter print embroidery hooded washable loose hoodie for couples",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ULwjWE1WYuQBPUJE0_!!2218631672801-0-cib.jpg",
+        "price": "¥96.00",
+        "toPrice": "$15.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4CCBvwf9OMV_6WDfvQ7dLg",
+          "name": "广州耀颖国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1982727",
+        "mallType": "WD",
+        "itemId": "7500376200",
+        "title": "PO hoodie set",
+        "picUrl": "https://si.geilicdn.com/open494393283-1234478995-5ec500000197bcc706b60a8133b0_1149_1215.jpg",
+        "price": "¥138.00",
+        "toPrice": "$21.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "494393283",
+          "name": "潮",
+          "logo": "https://si.geilicdn.com/wdseller494393283-76d400000197beea759d0a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1982528",
+        "mallType": "T1688",
+        "itemId": "943766058936",
+        "title": "Europe and the United States hooded sweater suit fashion casual pants printed hip-hop rock men and women men with the same paragraph sweater jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sH0Gyj1Exx1FmAkg7_!!2217493240419-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217493240419",
+          "name": "深圳市万保恒电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1982411",
+        "mallType": "T1688",
+        "itemId": "857208632269",
+        "title": "Correct Version Paris Trendy Brand B Family Cola Embroidered Flame Letters Logo Destroyed Print Hooded Long-Sleeved Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QzQ19A1CdDo9ZdaLt_!!2217674910103-0-cib.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFeP3zzxmhk7u8dwSr6QHFg",
+          "name": "广州鹤茹服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144146661916155633",
+  "language": "en"
+}

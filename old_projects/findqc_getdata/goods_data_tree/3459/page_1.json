@@ -1,0 +1,624 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1314484",
+        "mallType": "T1688",
+        "itemId": "904318055389",
+        "title": "Aijia bracelet stainless steel letter H Black Warrior frosted enamel couple bracelet does not lose color does not fall off the piece of stock batch",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YVGCdZ2DEK6WtExIg_!!2219554648577-0-cib.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "922507",
+        "mallType": "WD",
+        "itemId": "6177932348",
+        "title": "Hermes Classic Black Warrior Couple's Bracelet Frosted",
+        "picUrl": "https://si.geilicdn.com/weidian166282890-059e0000018e22a7aafd0a239737_1080_1440.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "166282890",
+          "name": "苗苗优品小店",
+          "logo": "https://si.geilicdn.com/bj-vshop-166282890-1537670747759-1290451269_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2597054",
+        "mallType": "WD",
+        "itemId": "2826270951",
+        "title": "Hermes enameled ceramic H bracelet with rose gold trim",
+        "picUrl": "https://si.geilicdn.com/weidian166282890-7df500000182866e46c90a23132e_1076_908.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "166282890",
+          "name": "苗苗优品小店",
+          "logo": "https://si.geilicdn.com/bj-vshop-166282890-1537670747759-1290451269_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3190890",
+        "mallType": "WD",
+        "itemId": "4275495323",
+        "title": "DW时尚情侣开口经典太钢窄版手镯",
+        "picUrl": "https://si.geilicdn.com/weidian166282890-26260000019aa008c24b0a23047e_1500_2000.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "166282890",
+          "name": "苗苗优品小店",
+          "logo": "https://si.geilicdn.com/bj-vshop-166282890-1537670747759-1290451269_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1693441",
+        "mallType": "TB",
+        "itemId": "795583720838",
+        "title": "Heavy handmade European court style 925 silver hollow cross carved metal signature pen ballpoint pen gift\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1793192090/O1CN01j0Pqc31RJGjWtLggO_!!1793192090.jpg",
+        "price": "¥143.31",
+        "toPrice": "$22.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106400327",
+          "name": "老罗仓库",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1891686",
+        "mallType": "T1688",
+        "itemId": "757997827020",
+        "title": "h bracelet gold plated mickey gold enamel color letter H bracelet female rose gold snap Europe and the United States h bracelet stainless steel",
+        "picUrl": "https://cbu01.alicdn.com/imgextra/i2/6000000007227/O1CN01MR7DlK23G1RKDQhbA_!!6000000007227-0-m_tb_svideo_preimg.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214964505125",
+          "name": "海丰县梅陇镇华蒂奇首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2915883",
+        "mallType": "WD",
+        "itemId": "7499654364",
+        "title": "Fashion simple letters small fragrant wind bracelet foreign flavor engraved high value",
+        "picUrl": "https://si.geilicdn.com/open1858585309-1234478995-340000000197af9ae1f90aa0c791-unadjust_977_977.png",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858585309",
+          "name": "repfashion",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2859278",
+        "mallType": "WD",
+        "itemId": "7566487204",
+        "title": "Fashion Clothing-260",
+        "picUrl": "https://si.geilicdn.com/open1678116131-1234478995-201500000199a4d5a9960a231226_800_800.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1678116131",
+          "name": "Super-Factory",
+          "logo": "https://si.geilicdn.com/pcdecorate1984009210-4ae2000001999af7cae40a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2812585",
+        "mallType": "T1688",
+        "itemId": "770301627753",
+        "title": "Ka Jia bracelet thick 18K gold plated wide narrow version full diamond six diamond four diamond glossy starry classic bracelet for men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pscT6I1T3oZZDRVzk_!!2216440232327-0-cib.jpg",
+        "price": "¥51.00",
+        "toPrice": "$8.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8SK_D5WELurCX7bvHjY0cg",
+          "name": "海丰县梅陇镇新志东首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "820796",
+        "mallType": "T1688",
+        "itemId": "816623541363",
+        "title": "Cross-border Adjustable Titanium Steel Men's Curved Brand Bracelet Engravable Stainless Steel 18K Gold Strap Bracelet Women's Bracelet Batch",
+        "picUrl": "https://cdn.findqc.com/item/20250406/m95cph32_bzx6.jpg",
+        "price": "¥7.50",
+        "toPrice": "$1.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBY7KingmBg26s0y1YVOdqsA",
+          "name": "东莞市琪酷饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 269,
+        "qcVideoCnt": 11
+      },
+      {
+        "id": "3178139",
+        "mallType": "TB",
+        "itemId": "671010535082",
+        "title": "Couple Leather Rope Bracelet, Versatile and Trendy, Magnetic Clasp for Men, Classic Bracelet for Women, Personalized White Bracelet",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/83178770/O1CN01kuHBGd2EeiF4JLzbM_!!83178770.jpg",
+        "price": "¥47.39",
+        "toPrice": "$7.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63498943",
+          "name": "FAS潮品饰界",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1732301",
+        "mallType": "T1688",
+        "itemId": "801478814938",
+        "title": "Cross border Love Home H Letter Buckle Bracelet High Version Black Warrior Bracelet Milk Tea Color Handmade Wide Version Couple Jewelry Female",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YcNEM41T3obdeKhVh_!!2216440232327-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8SK_D5WELurCX7bvHjY0cg",
+          "name": "海丰县梅陇镇新志东首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3176202",
+        "mallType": "WD",
+        "itemId": "7517748301",
+        "title": "Code Gila style letter logo open titanium steel relief bracelet MMM letter couple ins bracelet-HasaGie",
+        "picUrl": "https://si.geilicdn.com/pcitem901965113164-69f900000197a06117740a231316_800_800.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1720195805",
+          "name": "5号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3172647",
+        "mallType": "T1688",
+        "itemId": "954892090293",
+        "title": "爱马款仕H字母手镯珐琅玫瑰金宽版轻奢男女情侣通用经典款H型手环",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011p8qCQ2GOLeJAn0Un_!!2220288649005-0-cib.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220288649005",
+          "name": "海丰县梅陇镇盛奕首饰厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2844600",
+        "mallType": "TB",
+        "itemId": "859180043316",
+        "title": "High quality Gula Silk Bamboo Festival Bracelet 925 sterling silver K gold high carbon diamond high-end feeling, personalized fashion, light luxury for women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/64685834/O1CN01zLenB21sy1fDl3aDE_!!64685834.jpg",
+        "price": "¥484.79",
+        "toPrice": "$76.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "35388110",
+          "name": "XIUSHU培育彩宝工厂",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2125573",
+        "mallType": "T1688",
+        "itemId": "850890928069",
+        "title": "Factory direct card plus five generation titanium steel screwdriver bracelet does not fade 18K lovers fashion stainless steel bracelet for women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vqPpuF1wOzpBD4tqs_!!2218649286299-0-cib.jpg",
+        "price": "¥11.00",
+        "toPrice": "$1.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9h4hxg3Mn76CXYqoxztoyA",
+          "name": "海丰县梅陇镇美希琳首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 41,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3026887",
+        "mallType": "TB",
+        "itemId": "747355142970",
+        "title": "Original Annihilation Series Y2K Sterling Silver Bracelet for Men and Women, Niche Design, High-End Bracelet, Adjustable Bracelet",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2206723823585/O1CN01keqwFG1cLyn7f0oNP_!!2206723823585.jpg",
+        "price": "¥72.21",
+        "toPrice": "$11.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263453650",
+          "name": "HEIMA studio饰品",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3166348",
+        "mallType": "T1688",
+        "itemId": "865792412671",
+        "title": "12mm full diamond diamond Cuban chain cross-border Amazon men's rap box buckle hip-hop necklace jewelry wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01y1Alhz1EIjKKhk9TZ_!!1721660329-0-cib.jpg",
+        "price": "¥10.60",
+        "toPrice": "$1.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDU5B4BP0TRmFesR6htFmGw",
+          "name": "义乌市张立国嘻哈饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "788271",
+        "mallType": "T1688",
+        "itemId": "712350659241",
+        "title": "Cross-border hot Panjadora S925 silver starry fairy tale star-picking journey bracelet set fashion temperament bracelet female",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01p8Slpy1rXd2HuTGVU_!!2215610285641-0-cib.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "725412",
+        "mallType": "T1688",
+        "itemId": "869262267186",
+        "title": "New Fashion Men's Genuine Leather Business Casual All-match Letter Graffiti Smooth Buckle Belt Jeans Trendy Internet Celebrated",
+        "picUrl": "https://cdn.findqc.com/item/20250417/m9kiz3cu_cd0k.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9Arqnt1JcR9zDlWqLZPmnQ",
+          "name": "平阳虹旺皮具商行",
+          "type": "T1688"
+        },
+        "categoryId": 43,
+        "qcPicCnt": 199,
+        "qcVideoCnt": 2
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141480571914134126",
+  "language": "en"
+}

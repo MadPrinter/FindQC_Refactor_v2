@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1435755",
+        "mallType": "T1688",
+        "itemId": "753414924206",
+        "title": "Electric car cell phone holder motorcycle navigation takeaway rider car battery car bicycle fixed cell phone holder",
+        "picUrl": "https://cdn.findqc.com/item/20250603/mbg3jaaq_ma5b.jpg",
+        "price": "¥5.70",
+        "toPrice": "$0.90",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "49373",
+        "mallType": "T1688",
+        "itemId": "667923988336",
+        "title": "Vent snap on mobile phone holder navigation is secure and does not fall off. Air outlet car magnetic suction 360 degree rotating bracket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mglikq_bvqd.jpg",
+        "price": "¥4.00",
+        "toPrice": "$0.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3953236721",
+          "name": "深圳市赢达利贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "47608",
+        "mallType": "T1688",
+        "itemId": "661824938499",
+        "title": "Car mobile phone bracket C4 instrument panel One-key lock foreign trade automatic clamping rotatable 360 with suction cup base",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mg15bc_wmih.jpg",
+        "price": "¥9.50",
+        "toPrice": "$1.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBL8r44TcHWyNaFRXCK9fGVQ",
+          "name": "深圳市仨与猫科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "43652",
+        "mallType": "T1688",
+        "itemId": "710341971933",
+        "title": "Baby stroller dinner plate walker car dinner plate armrests bearing tray dinner tray stroller umbrella stroller stroller accessories",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdzwxh_6dk5.jpg",
+        "price": "¥17.50",
+        "toPrice": "$2.75",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36782",
+        "mallType": "T1688",
+        "itemId": "657014731987",
+        "title": "Applicable Apple headphone protective case carbon fiber pattern snap-on Airpods pro2 protective case for 1st/2nd generation headphone case",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nlem2e_hsye.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "categoryId": 17,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "33627",
+        "mallType": "TB",
+        "itemId": "713532572115",
+        "title": "Volkswagen 2023 Models Sagitar, Lavida, Bora, Touron, Tanyue, Tiguan, Weiran, and Touron Special Car Navigation Phone Holder",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk3bia_k9cx.jpg",
+        "price": "¥25.36",
+        "toPrice": "$3.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "452509838",
+          "name": "喜车友旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "24163",
+        "mallType": "TB",
+        "itemId": "680542331727",
+        "title": "Special Car Phone Holder for Skoda Octavia/Pro, Rapid, Superb, Kodiaq, Superb Estate, Karoq, Kamiq",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ni2ge6_hlll.jpg",
+        "price": "¥40.91",
+        "toPrice": "$6.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "452509838",
+          "name": "喜车友旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147356761911157375",
+  "language": "en"
+}

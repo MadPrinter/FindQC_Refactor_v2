@@ -1,0 +1,623 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3213114",
+        "mallType": "TB",
+        "itemId": "976764269476",
+        "title": "Japanese Version of Pokémon M2 Mega Charizard X New Release, Guaranteed Price and Quantity, First Batch in Stock in China",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1127344151/O1CN01x59SvG1gXD9wjsRaH~crop,164,0,851,851~_!!1127344151.jpg",
+        "price": "¥206.48",
+        "toPrice": "$32.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112836139",
+          "name": "PTCG可达鸭卡牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2987774",
+        "mallType": "TB",
+        "itemId": "944735928929",
+        "title": "Pokemon Card Pokemon Card Game Pokemon Ptcg Card Pokemon Card Vmax Pikachu Card Vst",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2214073319076/O1CN014LTZMm2Gurn2LNfxX_!!2214073319076.jpg",
+        "price": "¥27.88",
+        "toPrice": "$4.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "323592537",
+          "name": "摩眠个人护理旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2003673",
+        "mallType": "TB",
+        "itemId": "874043317150",
+        "title": "Pokémon Cards 324 pokemon Pokemon Pokémon Deck English Refill Packs",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/O1CN01gLuTZr1UtrIBITZ3o_!!4611686018427382672-0-item_pic.jpg",
+        "price": "¥35.80",
+        "toPrice": "$5.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "380286782",
+          "name": "爱贝吉诺旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3190348",
+        "mallType": "T1688",
+        "itemId": "847944996439",
+        "title": "Cross-border Pokemon Card Pokemon Card Pokemon Card VMAX Card Pikachu Fire-breathing Dragon",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01o4YG3w2AzY3HC2xp4_!!2217088218274-0-cib.jpg",
+        "price": "¥24.79",
+        "toPrice": "$3.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFXF5UN3wTZ5NkH6Nm6KnqQ",
+          "name": "新吴区叱咤贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1578285",
+        "mallType": "TB",
+        "itemId": "610366774815",
+        "title": "Pokémon Card PTCG English 151 Special Edition Pokémon Booster Blind Box Traditional Chinese Supplemental Card Packs",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1046663560/O1CN01SN8cPj1cAX41f7Xo6_!!1046663560.jpg",
+        "price": "¥31.49",
+        "toPrice": "$4.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "130708408",
+          "name": "桌游卡牌屋",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2789286",
+        "mallType": "T1688",
+        "itemId": "941601696714",
+        "title": "Pokémon Card English Version Pokémon Card Booster Box Blind Box Pokémon Card Pack",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ItkHFt1esA1GnSmIE_!!2220001013926-0-cib.jpg",
+        "price": "¥23.24",
+        "toPrice": "$3.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220001013926",
+          "name": "福安市米力溢百货商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "986397",
+        "mallType": "TB",
+        "itemId": "860395350980",
+        "title": "Pokémon Japanese Version Sv8A Gohan Card Collection Scarlet & Violet Tcg Ex Ptcg Pokémon Cards",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2214494123606/O1CN01PaRJKS1cVbELF1QTK_!!2214494123606.jpg",
+        "price": "¥22.67",
+        "toPrice": "$3.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "230312129",
+          "name": "咔部拉卡牌",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2581378",
+        "mallType": "T1688",
+        "itemId": "847948860303",
+        "title": "神奇宝贝初代卡片Evolutions宝可梦补充包盲盒抽卡包EX",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fMYY0x2AzY3HYlmny_!!2217088218274-0-cib.jpg",
+        "price": "¥53.48",
+        "toPrice": "$8.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217088218274",
+          "name": "新吴区叱咤贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2505741",
+        "mallType": "TB",
+        "itemId": "748795368590",
+        "title": "Pokémon Card Vmax Pokémon Card Mega Super Evolution Charizard Ex English Flash Card Gx First Generation",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2210567722538/O1CN01N5jykO1UcS71g5UAj_!!2210567722538.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "562463152",
+          "name": "星星动漫社",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3239",
+        "mallType": "TB",
+        "itemId": "676349102181",
+        "title": "Pokémon Card Vmax Pikachu Card Vstar Pokémon Pet Flash Card Ptcg English",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3a3ci_i36u.jpg",
+        "price": "¥20.21",
+        "toPrice": "$3.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "59120960",
+          "name": "儿童动漫卡牌商城",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 150,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1091536",
+        "mallType": "TB",
+        "itemId": "821769946885",
+        "title": "Pokémon Ptcg Card Mewtwo Psyduck Charizard Fantasy Trading Card Japanese Version Rating Card",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/182910776/O1CN014LNEgb1HbSKCHhf0n_!!182910776.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "37113340",
+          "name": "RPA唯卡评级",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2044649",
+        "mallType": "T1688",
+        "itemId": "868566873390",
+        "title": "Pokémon Cards VMAX Pikachu Cards VSTAR Pokémon Pet Little Flash Cards PTCG English",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01y3m3bj2Ha5MX7nwea_!!2218895269166-0-cib.jpg",
+        "price": "¥23.50",
+        "toPrice": "$3.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218895269166",
+          "name": "宁海中玛贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1482897",
+        "mallType": "T1688",
+        "itemId": "924326990199",
+        "title": "360 Pok é mon Cards, Pok é mon Booster Card Pack, Sword and Shield Series, Blind Box, Pet Elf Flash Card",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZlBD9d1u0bY7nBKvG_!!2219536135975-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHQqnJhuaDZN3MjQ8IqgU8Q",
+          "name": "义乌市穆只寸电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1482901",
+        "mallType": "T1688",
+        "itemId": "868845836512",
+        "title": "Pokémon Cards Sword & Shield Evolutions First Generation Draw Pack Blind Box Enhanced Pokémon PTCG Flash Cards",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000001381/O1CN010ZEhLJ1M4XxJZgaBO_!!6000000001381-0-tbvideo.jpg",
+        "price": "¥23.88",
+        "toPrice": "$3.76",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1364313",
+        "mallType": "TB",
+        "itemId": "676349178046",
+        "title": "Vmax Pok é mon Card Super Evolution Pok é mon Fire Dragon Vstar Crack Seat English Flash Card with Card Book",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/213461210/O1CN019LrRLC1KoDzx7al8O_!!213461210.jpg",
+        "price": "¥24.06",
+        "toPrice": "$3.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "59120960",
+          "name": "儿童动漫卡牌商城",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1622570",
+        "mallType": "T1688",
+        "itemId": "833526219857",
+        "title": "Cross-border custom animation card book gold stainless steel UV color printing table game children's toy card collection gold foil card",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xtcmYe1Os8481pA7D_!!2211643231760-0-cib.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBntJn__Jgck2y3t0YNxVfvQ",
+          "name": "东莞市忆光电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2860081",
+        "mallType": "TB",
+        "itemId": "732350125332",
+        "title": "Pokémon Gx Ex Vstar Cards English Cards Vmax Pokémon Tagteam Flash Cards 900",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/213461210/O1CN01nD7rRD1KoE6YBk7tx_!!213461210.jpg",
+        "price": "¥5.14",
+        "toPrice": "$0.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "59120960",
+          "name": "儿童动漫卡牌商城",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2800230",
+        "mallType": "TB",
+        "itemId": "979074100101",
+        "title": "Go  Yourself You Always Wanted Adult Fishing Game Funny Card Game",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhhgmkmj_7y07.jpg",
+        "price": "¥16.39",
+        "toPrice": "$2.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "73091030",
+          "name": "JUMPIN EARS",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "805684",
+        "mallType": "T1688",
+        "itemId": "853314347085",
+        "title": "Cross-Border Pokémon Card English Version Pokemon Pokemon Card Enhancement Box Blind Box Pokemon",
+        "picUrl": "https://cdn.findqc.com/item/20250604/mbh0qbmc_hegf.jpg",
+        "price": "¥23.76",
+        "toPrice": "$3.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiPBZkqwgDHQ7O7jbnnbAWw",
+          "name": "宁海中玛贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1184309",
+        "mallType": "TB",
+        "itemId": "909909261693",
+        "title": "Pok é mon Gem Pack Two Bullets, Three Bullets, Nine Colors, Heartwarming Genggui Gift Box, Simplified Chinese, Zhu Zi Supplementary Pack, Original Box",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm7b84_tudd.jpg",
+        "price": "¥72.02",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155373891",
+          "name": "游戏王宝可梦卡牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146065221911215399",
+  "language": "en"
+}

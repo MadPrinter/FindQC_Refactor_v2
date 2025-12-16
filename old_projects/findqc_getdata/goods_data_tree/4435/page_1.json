@@ -1,0 +1,404 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2726112",
+        "mallType": "WD",
+        "itemId": "7494701292",
+        "title": "P220 K * ra Blur T-shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1848726258-513400000197829110600a20e672-unadjust_205_240.png",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1612190937",
+          "name": "Bevs",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "70504",
+        "mallType": "T1688",
+        "itemId": "45725727090",
+        "title": "[9 Steel Bones] European and American Latex Latex Corset Waist Belt Shaping Tight Sports Waist Cincher Abdominal Slimming Shapewear Belt for Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmzklq_yyy7.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBX2pqqj7C7INlxRTd76WrsA",
+          "name": "佛山市咔斯琪服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "62592",
+        "mallType": "TB",
+        "itemId": "618821356999",
+        "title": "Double girdle strengthening belt girdle postpartum strong",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mj5ajn_ebap.jpg",
+        "price": "¥19.76",
+        "toPrice": "$3.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "568145716",
+          "name": "Drunken Flowers",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "60662",
+        "mallType": "TB",
+        "itemId": "765869477345",
+        "title": "Rebitch New Oxygen Injection Pro Carbon Crystal Gray Ax7 Series Ultra-Thin Breathable Invisible Rib Waist Trainer Fitness Extended Version",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mifoh1_phni.jpg",
+        "price": "¥626.86",
+        "toPrice": "$98.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "328136967",
+          "name": "REBITCH塑型正品店",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "51314",
+        "mallType": "WD",
+        "itemId": "7243162695",
+        "title": "AI Shorts Double Angel Coconut Beach C455",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mh6hke_5kab.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "31442",
+        "mallType": "T1688",
+        "itemId": "553710553460",
+        "title": "Waist Trainer shapewear with waistband and abdominal cinching strap, Latex sweatband, 25 steel frame rubber corset",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njic9y_bg7f.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1938652707",
+          "name": "佛山市咔斯琪服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "23424",
+        "mallType": "T1688",
+        "itemId": "549592592156",
+        "title": "Daili Xiang postpartum abdominal belt set mother and baby maternal girdle cesarean section universal sub-size",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nhykrb_rzbf.jpg",
+        "price": "¥26.50",
+        "toPrice": "$4.17",
+        "status": "normal",
+        "categoryId": 35,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6658",
+        "mallType": "T1688",
+        "itemId": "735693736026",
+        "title": "High-waisted not rolled edge abdominal pants shaping panties female girdle abdominal pants postpartum abdominal shaping pants XS-2XL",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9ise3_8gfr.jpg",
+        "price": "¥3.70",
+        "toPrice": "$0.58",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146127201911215876",
+  "language": "en"
+}

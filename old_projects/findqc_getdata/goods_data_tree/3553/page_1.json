@@ -1,0 +1,630 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3151276",
+        "mallType": "T1688",
+        "itemId": "858746246686",
+        "title": "Seamless Puyuan 100 Woolen Sweater Winter New Product Flower Yarn Round Neck Knitted Sweater Women's cardigan Button Coat 12 Needles 260g\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KjSnF91DfLLXzPY9Q_!!2218666660243-0-cib.jpg",
+        "price": "¥104.00",
+        "toPrice": "$16.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUGQhzoN4a0a7FkG85lYB2Q",
+          "name": "桐乡市朵兰春时装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3102507",
+        "mallType": "T1688",
+        "itemId": "968093991323",
+        "title": "韩国东大门宽松慵懒风套头绒衫女秋冬季新款纯色圆领毛茸茸针织衫",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vih0db20h618uAqqp_!!2220531496880-0-cib.jpg",
+        "price": "¥59.44",
+        "toPrice": "$9.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB3w6_pgXDLWiI_b4FcPdz1Q",
+          "name": "广州湍泰服装店",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "746349",
+        "mallType": "T1688",
+        "itemId": "702636201518",
+        "title": "Ready Stock, Cross-Border Hot Item, Long-Term Availability, Branded Cartoon Bear Autumn and Winter Thin Sweater for Women, Factory Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250912/mfgizw62_x5ue.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1YAmqrY35gslwSFMp-G0LQ",
+          "name": "东莞市大朗爱玲服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 379,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "140292",
+        "mallType": "T1688",
+        "itemId": "835081321541",
+        "title": "Sweep Size RL Ruff Pony Embroidered Knitwear Men's Autumn and Winter Vertical Collar Twist Half-Zip Sweater Women's Warm",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpi1xz_9o9i.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB0b2RCDekW1-lm6sHS1wWsw",
+          "name": "普宁市梅塘宜佳服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 537,
+        "qcVideoCnt": 14
+      },
+      {
+        "id": "526",
+        "mallType": "T1688",
+        "itemId": "695238507342",
+        "title": "2024 Winter New Signature Letter Loose Soft Waxy Mahair Black Knitted Shirt Lazy Style Sweater Top for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2dqb7_pdu9.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDqE8ZokKgjeNIK8t7ptlCw",
+          "name": "广州米兮儿服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 587,
+        "qcVideoCnt": 10
+      },
+      {
+        "id": "1554331",
+        "mallType": "TB",
+        "itemId": "925250198276",
+        "title": "Sweater with Round Neck, Star and Flag Design, Unisex, Loose Fit, Classic Style, Old Money Style, Pullover, Pure Cotton Knit Top",
+        "picUrl": "https://cdn.findqc.com/item/20250627/mcdlk9pl_k7ey.jpg",
+        "price": "¥83.19",
+        "toPrice": "$13.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "536960718",
+          "name": "童欣艺",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 417,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3203091",
+        "mallType": "WD",
+        "itemId": "7602297494",
+        "title": "2025年秋冬新款 重工羊毛羊绒卡通小熊圆领学院减龄毛衣女款",
+        "picUrl": "https://si.geilicdn.com/open1622517075-1622517075-781a0000019a6ec0745e0a8133b0_1066_1066.jpg",
+        "price": "¥213.00",
+        "toPrice": "$33.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622517075",
+          "name": "Janekrep",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-6d8b00000199f23ea2530a20e7c7-unadjust_1024_1024.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 47,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3102523",
+        "mallType": "T1688",
+        "itemId": "774460346722",
+        "title": "Mid-Collar Bottoming Knitwear for Women Autumn and Winter New Half Turtleneck Knitwear for Women 2025 Style Long-Sleeved Slim Autumn and Winter Women's Clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lKdh0n1iQSOY5HnVv_!!2207593524407-0-cib.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnRNePBu4XsQDo5CLTRMaVw",
+          "name": "东莞市纯蚂蚁服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2378",
+        "mallType": "T1688",
+        "itemId": "708132901272",
+        "title": "2025 Spring New Heavy Industry Cartoon Bear Crewneck College Age-reducing Joker Wool Sweater for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2vokl_ibip.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpCHXhZxRZ-pZq01ojJzoYg",
+          "name": "东莞市大朗小林源头服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 381,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "3201813",
+        "mallType": "WD",
+        "itemId": "7613743735",
+        "title": "RL拉夫劳伦战马小马刺绣麻花毛衣圆领套头针织衫休闲百搭老钱风女",
+        "picUrl": "https://si.geilicdn.com/open1633070643-1633070643-28300000019aac4e17930a231226_1080_1080.jpg",
+        "price": "¥103.00",
+        "toPrice": "$16.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1633070643",
+          "name": "ALLbuy",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-51de0000019a153b16fb0a81347d-unadjust_655_658.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "668304",
+        "mallType": "T1688",
+        "itemId": "873461822407",
+        "title": "Cross-border AM Sweater Classic Round Neck Big Love Jacquard Turtleneck Sweater Loose Lazy Casual Couple Fashion",
+        "picUrl": "https://cdn.findqc.com/item/20250808/me20u04y_puxx.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNFTWMKsFdaUZKo65Tn7eTA",
+          "name": "佛山市南海区卡曼尼诗服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 339,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "3050769",
+        "mallType": "T1688",
+        "itemId": "986931193285",
+        "title": "秋冬潮牌字母提花满身logo圆领针织羊毛毛衣男女款宽松休闲上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xkHPKq1TEoFRDJdpm_!!2220483872351-0-cib.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4LZewbE2CakRqmJgRgY9pg",
+          "name": "睢宁骐坤申服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2342981",
+        "mallType": "T1688",
+        "itemId": "668252476809",
+        "title": "2020 new Wu Xuan Yi with large V letters letters embroidered sweater round neck long-sleeved loose knit sweater sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01EOAHEO1Oc5sbAuX83_!!2210999451725-0-cib.jpg",
+        "price": "¥86.00",
+        "toPrice": "$13.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3177941522",
+          "name": "东莞市大朗锐滨针织厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2843569",
+        "mallType": "TB",
+        "itemId": "967673867115",
+        "title": "2025 Autumn/Winter New Style Chanel-Inspired High-End Color-Block Round Neck Knit Sweater for Women, Slim-Fit Base Shirt Top for Women",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2217524237579/O1CN01OQdotJ25rErq4ArAV~crop,135,0,810,1080~_!!2217524237579.jpg",
+        "price": "¥163.21",
+        "toPrice": "$25.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "396608635",
+          "name": "陈平安高端定制女装",
+          "type": "TB"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3102519",
+        "mallType": "T1688",
+        "itemId": "774439560083",
+        "title": "Soft and Cozy Turtleneck Knit Base Shirt for Women, Autumn and Winter 2025 New Style, Layered Sweater, Slim-Fit and Slimming Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mUel3v1iQSOYwYsbb_!!2207593524407-0-cib.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnRNePBu4XsQDo5CLTRMaVw",
+          "name": "东莞市纯蚂蚁服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "3013193",
+        "mallType": "T1688",
+        "itemId": "897292699710",
+        "title": "Nanyou Cotton Knitted Top Women's Autumn and Winter New Crewneck Pullover Bear Cartoon Casual Loose Sweater All-match",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qNPgKl1Xm1NIN17ck_!!2219371322965-0-cib.jpg",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBs3Nv9EwOzUaMsK9FYt7ldw",
+          "name": "汕头市澄海区森知淼服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3039673",
+        "mallType": "T1688",
+        "itemId": "761838613628",
+        "title": "小马~秋冬新款美拉德限量二哈老钱分刺绣挂毛美式百搭减龄针织衫",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SeEOkV1mDPYmNoW5o_!!2212111684920-0-cib.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212111684920",
+          "name": "东莞市大朗舜城纺织厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2098314",
+        "mallType": "TB",
+        "itemId": "846722200691",
+        "title": "Trial room Japanese fall and winter new men's and women's Shuffle round neck knit sweater pullover sweater sweater Y471229",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1081167376/O1CN01A2RGsb24MGNqFPPH7_!!1081167376.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "129077677",
+          "name": "优优女装 折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1430405",
+        "mallType": "T1688",
+        "itemId": "845685062704",
+        "title": "Cross border Ins American Love Jacquard Knitted Long Sleeve AMI CLAMS Sweater Men's and Women's Autumn/Winter Couple's Top\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010Yoo661Xl6XqyUhGa_!!2218721492963-0-cib.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB35feziEtQ3BZmyRk_rGBCw",
+          "name": "广州市蛤古王服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 107,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2136254",
+        "mallType": "T1688",
+        "itemId": "960342519262",
+        "title": "RL Ruff embroidered pony label knitted half-zipper half turtleneck twist twisted temperament lazy wool sweater women sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TRJ2Dm1Dy7Yw3Wcon_!!2219704440284-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219704440284",
+          "name": "温州市馨绣服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021142252391917138565",
+  "language": "en"
+}

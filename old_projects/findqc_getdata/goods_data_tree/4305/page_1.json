@@ -1,0 +1,440 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3021869",
+        "mallType": "WD",
+        "itemId": "7399516353",
+        "title": "高品质卫衣",
+        "picUrl": "https://si.geilicdn.com/pcitem968554960-17990000019531913eac0a20e672-unadjust_800_800.gif",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "968554960",
+          "name": "YT-Clothes",
+          "logo": "https://si.geilicdn.com/weidian968554960-493a00000193488ac3770a20e672_1112_1112.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1580900",
+        "mallType": "WD",
+        "itemId": "7399573647",
+        "title": " High quality sneakers\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901911183741-277d0000019531d13cf80a23057e-unadjust_800_800.gif",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1757099336",
+          "name": "CDY",
+          "logo": "https://si.geilicdn.com/wdseller1457694944-316800000190cf617a560a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902460",
+        "mallType": "TB",
+        "itemId": "732465067041",
+        "title": "Universal adjustable watch strip remover for cutting and disassembling steel belt, installation and repair tool, universal metal exchange watch chain",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk5n0am_9bfp.jpg",
+        "price": "¥5.16",
+        "toPrice": "$0.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "559354210",
+          "name": "乐达五金",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1664925",
+        "mallType": "T1688",
+        "itemId": "710187922647",
+        "title": "miu miumu letter stud earrings macaron drop oil enamel earrings light luxury style female Chanel style ins earrings batch",
+        "picUrl": "https://cdn.findqc.com/item/20250721/mdcswbw3_3fpb.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBlZJQpv8ne1lFQNHzhyUpMQ",
+          "name": "东莞市厚街香可依饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "59180",
+        "mallType": "T1688",
+        "itemId": "521227092647",
+        "title": "Movement Handlebar 5pc NH35 NH36 NH38 /39 Handlebar Set 5pcs NH35/36 Handlebar Core Handlebars",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqt5n5_oplz.jpg",
+        "price": "¥7.50",
+        "toPrice": "$1.18",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "57818",
+        "mallType": "TB",
+        "itemId": "696522986728",
+        "title": "Watch Repair Tools Rolex Tudor Watch Screwdriver T-Shaped Non-Slip Waterproof Diver's Watch Strap Opener Seamaster Flat-Head Screwdriver",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqb65j_23ii.jpg",
+        "price": "¥13.01",
+        "toPrice": "$2.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62941420",
+          "name": "老妖修表工具",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "57420",
+        "mallType": "TB",
+        "itemId": "562332344536",
+        "title": "Brand New Original R-78E5.0-0.5 Direct-Plug Sip-3 Dc-Dc Isolated Power Module, Imported and Available for Direct Purchase",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nq6imm_4bx1.jpg",
+        "price": "¥7.74",
+        "toPrice": "$1.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71775889",
+          "name": "深圳市美盛隆电子 电子元器件配单优信电子锋洲永恒电子元件",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39732",
+        "mallType": "TB",
+        "itemId": "694063675548",
+        "title": "Original Genuine TC358870XBG BGA 4K HD Display TOSHIBA Toshiba Bridge Chip",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/3217512894/O1CN01vTGoM81XFV0jTM2h5_!!3217512894.png",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36341",
+        "mallType": "TB",
+        "itemId": "577389294262",
+        "title": "Bb2R4-30Kbj03 0.4mm Pitch 30Pin Female Connector Brand New Original Board-To-Board Connector",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkw5yk_ku2i.jpg",
+        "price": "¥1.52",
+        "toPrice": "$0.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101428221",
+          "name": "德翎源电子商行",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "6759",
+        "mallType": "TB",
+        "itemId": "752599933374",
+        "title": "SST39SF010A-70-4C-NHE 020 SST29EE010 040 28SF040 27SF PLCC32",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9jnof_qnh2.jpg",
+        "price": "¥2.43",
+        "toPrice": "$0.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107994720",
+          "name": "宏讯丰电子",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145459261930821185",
+  "language": "en"
+}

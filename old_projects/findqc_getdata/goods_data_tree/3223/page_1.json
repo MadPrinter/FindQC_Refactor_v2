@@ -1,0 +1,384 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1975639",
+        "mallType": "TB",
+        "itemId": "627436943873",
+        "title": "Mcnair Mother Wheel Control Board Smart Car Controller STM32 Motor Servo Controller Omni Wheel Control",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1982991206/O1CN01xYEGqv1KmOXcTFXf2_!!1982991206.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108645528",
+          "name": "VANBOT教育机器人店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1031305",
+        "mallType": "TB",
+        "itemId": "531755241333",
+        "title": "ESP8266 Serial wifi module NodeMCU Lua V3 IoT development board CH340",
+        "picUrl": "https://cdn.findqc.com/item/20250324/m8myakvx_fj1e.jpg",
+        "price": "¥11.40",
+        "toPrice": "$1.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60299985",
+          "name": "信泰微电子 电子元器件 电子模块",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "251468",
+        "mallType": "TB",
+        "itemId": "558228648682",
+        "title": "Gy-Bme/Bmp280 3.3V-5V Temperature, Humidity, and Atmospheric Pressure Sensor Module",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42padnz_2ipm.jpg",
+        "price": "¥1.35",
+        "toPrice": "$0.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36550235",
+          "name": "信德电子 各种电子元件 单片机 学习板 模块 电子 五金工具",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55470",
+        "mallType": "TB",
+        "itemId": "682117315866",
+        "title": "Chinmu Electronics Artix7 Artix-7 A7 Development Board XC7A200T Xilinx FPGA Core Boards",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np9toe_5lnu.jpg",
+        "price": "¥799.00",
+        "toPrice": "$125.64",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "48215",
+        "mallType": "TB",
+        "itemId": "660318370507",
+        "title": "Juwai Dl24 Adjustable Constant Current Discharge Load Battery Capacity Tester Battery High-Power Aging Resistor",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mg7vrk_9npk.jpg",
+        "price": "¥191.58",
+        "toPrice": "$30.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "440230951",
+          "name": "炬为电器",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34274",
+        "mallType": "TB",
+        "itemId": "651776653338",
+        "title": "Suitable for Tongli elevator door machine board km51222157G01km51222157G01-km51222160G03",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk9zv5_3xm7.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "categoryId": 19,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "27418",
+        "mallType": "TB",
+        "itemId": "20642087083",
+        "title": "Tp4056 1A Lithium Battery Special Charging Board Charging Module Charger Micro Interface Microphone USB",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nilifg_ym4o.jpg",
+        "price": "¥0.59",
+        "toPrice": "$0.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60299985",
+          "name": "信泰微电子 电子元器件 电子模块",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021140366101913292947",
+  "language": "en"
+}

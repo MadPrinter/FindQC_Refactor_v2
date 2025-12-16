@@ -1,0 +1,368 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1424852",
+        "mallType": "WD",
+        "itemId": "7436506617",
+        "title": "seven billion four hundred and thirty-six million five hundred and six thousand six hundred and seventeen",
+        "picUrl": "https://cdn.findqc.com/item/20250607/mblsxs4k_knqb.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1424626",
+        "mallType": "TB",
+        "itemId": "705422793973",
+        "title": "Retro, simple, versatile, vintage Roman numeral ring, female Korean version, student hip-hop, Instagram trend, open index finger ring",
+        "picUrl": "https://cdn.findqc.com/item/20250603/mbfvzx64_rq9h.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "410281781",
+          "name": "集梦饰品店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1409410",
+        "mallType": "T1688",
+        "itemId": "660510793764",
+        "title": "European and American Ins Internet Celebrity Hot Selling Yellow and Green Flame Ring Opening Adjustable Ring Trendy All-match Hand Jewelry",
+        "picUrl": "https://cdn.findqc.com/item/20250527/mb6n4u6m_d00e.jpg",
+        "price": "¥2.80",
+        "toPrice": "$0.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByVYaFQZz6sqKEnUk5oPmxg",
+          "name": "义乌韩茜饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1391297",
+        "mallType": "WD",
+        "itemId": "7466446349",
+        "title": "ring",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mch3szp6_cbf8.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1659999653",
+          "name": "我的店铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-641800000193b565e3020a23038e-unadjust_288_288.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1389346",
+        "mallType": "WD",
+        "itemId": "7222919630",
+        "title": "Bird Ring Thick Ins Style Couple Pair Ring 925s Pure Silver Ring",
+        "picUrl": "https://cdn.findqc.com/item/20250524/mb1quidp_5f55.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1650744058",
+          "name": "Survival_CH",
+          "logo": "https://si.geilicdn.com/wdseller1654241954-5f7c0000018e43da72c60a22d4f5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1378539",
+        "mallType": "T1688",
+        "itemId": "634869054168",
+        "title": "Jinbi Fupan Jiadora 925 Silver Rose Peach Blossom Secret Set with Beaded Opening Style Versatile Couple Pair Ring Matching",
+        "picUrl": "https://cdn.findqc.com/item/20250530/mba7s36p_5xvs.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1316288",
+        "mallType": "TB",
+        "itemId": "876809606381",
+        "title": "Retro vintage cross ring for men, trendy and personalized hip-hop style ring, niche design sense, index finger ring, women's new style",
+        "picUrl": "https://cdn.findqc.com/item/20250508/maev3a84_sf0w.jpg",
+        "price": "¥14.90",
+        "toPrice": "$2.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155349944",
+          "name": "H1007 Store",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1304494",
+        "mallType": "T1688",
+        "itemId": "832394208751",
+        "title": "AMBUSH Seal Ring Classic Badge High Retro Niche Ring Men and Women's Personality Simple LOGO Closed Ring",
+        "picUrl": "https://cdn.findqc.com/item/20250506/mabh4qfr_iyae.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBSeVv9OSX4JEDqcs-5SnH3w",
+          "name": "海丰县可塘镇洪颖首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1299283",
+        "mallType": "TB",
+        "itemId": "696269158912",
+        "title": "Off White multi arrow shaped ring, light luxury, niche design, personalized temperament, high-end feeling",
+        "picUrl": "https://cdn.findqc.com/item/20250505/ma9ui2xp_n38n.jpg",
+        "price": "¥19.99",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "457848595",
+          "name": "甄芸阁",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1290416",
+        "mallType": "WD",
+        "itemId": "4372583512",
+        "title": "Exclusive for high-end men! 21ss Italian limited edition Monogram beveled edge ring! Elegant luxury, a symbol of strength! Titanium alloy material, genuine gold electroplating!",
+        "picUrl": "https://cdn.findqc.com/item/20250515/maoq8e0b_32e5.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1358604434",
+          "name": "新一休精品严选 诚招代里",
+          "logo": "https://si.geilicdn.com/bj-vshop-1358604434-1535457496928-1887987616_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1271351",
+        "mallType": "WD",
+        "itemId": "6526034726",
+        "title": "2393 Pandora Sun Moon Shining Ring",
+        "picUrl": "https://cdn.findqc.com/item/20250429/ma22zsz0_z1tb.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648679456",
+          "name": "萌萌出品（全店包邮 一件代发）",
+          "logo": "https://si.geilicdn.com/wdseller1420898802-23160000017a7cd73d650a217205_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1229275",
+        "mallType": "T1688",
+        "itemId": "879369039876",
+        "title": "Pan Family Ring Plated with s925 Silver Love Thread, Sky Set with Diamond, Ginkgo Tree, Rose Ring, Sun Moon Ring, Female",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9qxjc2c_nfdk.jpg",
+        "price": "¥6.50",
+        "toPrice": "$1.02",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1205289",
+        "mallType": "TB",
+        "itemId": "735683328274",
+        "title": "Pan Family's New Super Sparkling Zircon Ring for Women's Fashion Commuting, with a Unique Design S925 Silver Couple Ring",
+        "picUrl": "https://cdn.findqc.com/item/20250424/m9uy0plw_0dpo.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107244883",
+          "name": "潘克原创银饰",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1205290",
+        "mallType": "TB",
+        "itemId": "854111091440",
+        "title": "Pan family with the same sparkling bow double ring fashion commuter niche plain ring open finger ring zirconia delicate",
+        "picUrl": "https://cdn.findqc.com/item/20250424/m9uy0pcd_plhl.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107244883",
+          "name": "潘克原创银饰",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1205288",
+        "mallType": "TB",
+        "itemId": "739498302143",
+        "title": "Pan family with the same ring fashion commuter couple light luxury niche high-level shining plain circle open finger ring zirconia exquisite",
+        "picUrl": "https://cdn.findqc.com/item/20250424/m9uyf6v2_v9gq.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107244883",
+          "name": "潘克原创银饰",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1156307",
+        "mallType": "TB",
+        "itemId": "680243996341",
+        "title": "Cross Ring Men's Trendy ins hip hop Titanium Steel Color-free High Street Punk Style Retro Women's Cool Finger Ring",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mcgi38j2_dhpl.jpg",
+        "price": "¥25.71",
+        "toPrice": "$4.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "165728057",
+          "name": "高街潮流城",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 41,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1122278",
+        "mallType": "TB",
+        "itemId": "820733492509",
+        "title": "blond carti ring hip hop American rap opium wind hiphop accessories jewelry",
+        "picUrl": "https://cdn.findqc.com/item/20250406/m94wl5ar_maa5.jpg",
+        "price": "¥51.57",
+        "toPrice": "$8.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "475945148",
+          "name": "YOUNG UTOPIA",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1099300",
+        "mallType": "T1688",
+        "itemId": "655393120577",
+        "title": "Yun Chao Xuan S925 Sterling Silver Retro Woven Square Letter Romantic Paris English Personality Creative Open Ring",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrwg7e_ma8p.jpg",
+        "price": "¥54.50",
+        "toPrice": "$8.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaGOcU9G6wDxq-2vWPiAs8A",
+          "name": "海丰县梅陇云潮轩首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1081290",
+        "mallType": "WD",
+        "itemId": "7339748821",
+        "title": "****** products",
+        "picUrl": "https://cdn.findqc.com/item/20250331/m8w1nmge_1ibk.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828016549",
+          "name": "我的小铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-249600000193b88380020a231316-unadjust_234_234.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1061541",
+        "mallType": "T1688",
+        "itemId": "848382891962",
+        "title": "T home classic fashion enamel love bracelet female TO buckle heart-shaped pendant plate personalized net red light luxury factory direct sale",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9oqfpgc_6fac.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218711169582",
+          "name": "海丰县梅陇镇瑾梵首饰厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141454152553896543",
+  "language": "en"
+}

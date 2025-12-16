@@ -1,0 +1,337 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1789380",
+        "mallType": "TB",
+        "itemId": "949038337000",
+        "title": "Alice Hollywood Black and White Cross Logo Cold-Proof Beanie Knit Hat Opium Style Playboi",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2207094619103/O1CN01BbMtca2H7ESQIVQ0K_!!2207094619103.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "473208874",
+          "name": "7Revie",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1790094",
+        "mallType": "WD",
+        "itemId": "7489459334",
+        "title": "**************",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-4b8d0000018f43a7e52a0a232357_1080_1080.jpg",
+        "price": "¥67.20",
+        "toPrice": "$10.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801320989",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1789741",
+        "mallType": "TB",
+        "itemId": "678131398680",
+        "title": "Korean version of the embroidered letters baseball cap men and women youth couple students hard top duck tongue cap Japanese retro sun hat",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/867832552/O1CN01e2XljH1UirWgEHQrG_!!867832552.jpg",
+        "price": "¥21.80",
+        "toPrice": "$3.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107894753",
+          "name": "马尔星球帽子",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1818212",
+        "mallType": "TB",
+        "itemId": "944466124370",
+        "title": "H031 baseball cap",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgxs2c9m_q7e3.jpg",
+        "price": "¥120.63",
+        "toPrice": "$18.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1997522",
+        "mallType": "T1688",
+        "itemId": "902072942750",
+        "title": "Oren Hat Men's Sports Hat Women's Autumn and Winter Outdoor Leisure Running Speed Dry Breathable Warm Knitted Hat Rui Ji",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgxrmxk9_0bkg.jpg",
+        "price": "¥24.47",
+        "toPrice": "$3.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBTLCJXd4WLLnBsi_tBN7SA",
+          "name": "姚安县贞梧百货商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "190415",
+        "mallType": "T1688",
+        "itemId": "828328088042",
+        "title": "Show face small ins black hat men and women autumn and winter all-match knitted pile cap ACG wool cap baotou Sb cold cap",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42oq61a_m2b2.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoqODjq9opCxsaD2XmgyvqA",
+          "name": "义乌市顺蓓贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386510",
+        "mallType": "T1688",
+        "itemId": "797108069144",
+        "title": "Europe and the United States cross-border HOT autumn and winter-knitted hat fashion simple wool hat cold hat outdoor warm knitted hat",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgqc3zxn_3bn4.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUwESaZSGei7SNvsnUd9kRw",
+          "name": "仙游县郊尾镇帽之恋帽子店",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2232462",
+        "mallType": "T1688",
+        "itemId": "841329427106",
+        "title": "Autumn and Winter New Wool Hat Men's and Women's Knitted Hat Embroidered Hat Fashion Cold Hat Pullover Cap",
+        "picUrl": "https://cdn.findqc.com/item/20250930/mg5vzowq_2m90.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBY6qm8rRW5faSRbjBWI29lA",
+          "name": "东莞市虎门萌嘉服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 59,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2578544",
+        "mallType": "T1688",
+        "itemId": "974089150151",
+        "title": "23年新款 迷彩经典刺绣加绒帽衫宽松男女连帽卫衣潮牌",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgq9zc91_je2j.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgo8Z3vG0IPuG3lK2j8vaeQ",
+          "name": "广州畏莱服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2698022",
+        "mallType": "T1688",
+        "itemId": "962822863910",
+        "title": "WASC美式复古街头潮牌棒球帽撞色火焰拼接水洗刺绣嘻哈遮阳鸭舌帽",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgxagq56_y2n6.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJDo7Ayju963NgE9pHaVypg",
+          "name": "广州梓俞服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2103347",
+        "mallType": "WD",
+        "itemId": "7497356610",
+        "title": "Al0 hat (Check the Yupoo album below for detailed pictures of the shoes.)",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgpxn35s_lx7p.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "883388733",
+          "name": "kksix",
+          "logo": "https://si.geilicdn.com/wdseller883388733-06a1000001976edb43e70a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1,
+        "picWidth": "1440",
+        "picHeight": "1440"
+      },
+      {
+        "id": "2634165",
+        "mallType": "WD",
+        "itemId": "7522892737",
+        "title": "CAP624 Cap",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgpxn45l_6kr4.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1170567099",
+          "name": "HypeStore",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1769479",
+        "mallType": "WD",
+        "itemId": "7327832063",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20250725/mdiiklww_wk0x.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1780564",
+        "mallType": "T1688",
+        "itemId": "934152690322",
+        "title": "P's autumn and winter hot item, inverted triangle logo knitted cold hat, versatile black and white color matching, warm and fashionable for both men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nDj3yE27IY4ivFeFD_!!2216228517774-0-cib.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1765339",
+        "mallType": "TB",
+        "itemId": "567282744839",
+        "title": "Decathlon duck tongue baseball cap breathable men and women thin spring and summer quick-drying outdoor fitness wear sunscreen sun hat ODG",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/94422320/O1CN01rUT4L81T0buWLHdy4_!!94422320.jpg",
+        "price": "¥28.90",
+        "toPrice": "$4.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "64762621",
+          "name": "迪侬运动用品",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2727625",
+        "mallType": "T1688",
+        "itemId": "832605758160",
+        "title": "Cross-Border Spot Woolen Hat Knitted Hat for Men and Women in Autumn and Winter Thickened Cold-Proof Warm Hat European and American Outdoor Trendy Cold Hat",
+        "picUrl": "https://cdn.findqc.com/item/20251018/mgwduemy_l0g7.jpg",
+        "price": "¥14.70",
+        "toPrice": "$2.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217018585733",
+          "name": "义乌市义翎电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2725495",
+        "mallType": "T1688",
+        "itemId": "847427065694",
+        "title": "2023 Winter Hat Warmth Cold Hat Trend Korean Edition Fashion Flip up Knitted Hat Men's Casual Versatile Thick Knitted Hat",
+        "picUrl": "https://cdn.findqc.com/item/20251018/mgwavcg3_4o48.jpg",
+        "price": "¥11.00",
+        "toPrice": "$1.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhgaJncqBh3VlG-viG0mTKQ",
+          "name": "义乌市町馨电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 49,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "820798",
+        "mallType": "TB",
+        "itemId": "857508444280",
+        "title": "201 # Big Brand Hats for Export, Unisex Winter Versatile Knit Hats, Black Knitted Hats, Outdoor Warm Head-Covering Cold Hats",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgov28wi_v1tl.jpg",
+        "price": "¥30.34",
+        "toPrice": "$4.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "459215774",
+          "name": "遥巧商贸城",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 153,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148548251913292769",
+  "language": "en"
+}

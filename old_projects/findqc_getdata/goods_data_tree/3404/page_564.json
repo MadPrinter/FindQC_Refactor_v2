@@ -1,0 +1,260 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "55383",
+        "mallType": "TB",
+        "itemId": "660148048732",
+        "title": "Base Layer T-Shirt White Unisex Letter Basketball Oreo Print Short Sleeve 2021 Summer New Original",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np8fiq_l9w9.jpg",
+        "price": "¥29.80",
+        "toPrice": "$4.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "190576232",
+          "name": "Call me宝藏店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55371",
+        "mallType": "T1688",
+        "itemId": "756645952743",
+        "title": "The correct version of the classic Parisian fashion brand Cola embroidered unisex round neck long sleeved pullover hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np9jcc_dfhu.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217072520859",
+          "name": "广州青澜服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55360",
+        "mallType": "TB",
+        "itemId": "689102427727",
+        "title": "Trapstar European and American street fashion brand towel embroidered with letters INS men's and women's loose sports and leisure set with plush design",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np8fpe_ntuh.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155644787",
+          "name": "诚信人爱潮牌",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 104,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55306",
+        "mallType": "T1688",
+        "itemId": "657550321728",
+        "title": "2021 fall and winter new OFF handshake arrow pattern padded hooded sweatshirt men and women with the same paragraph a batch on behalf of hair",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np487i_o12m.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55245",
+        "mallType": "TB",
+        "itemId": "681781986772",
+        "title": "Fear of God Multi-Line Fog Season Eight Essentials Flocking Print Hoodie Loose Fit Couple Wear",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np411w_qh3m.jpg",
+        "price": "¥132.79",
+        "toPrice": "$20.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "196536692",
+          "name": "PP打怪兽",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55231",
+        "mallType": "WD",
+        "itemId": "7162492571",
+        "title": "fed* Pokémon Co-branded Hooded Loose Casual Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np3a4r_3gh7.jpg",
+        "price": "¥389.00",
+        "toPrice": "$61.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661102153",
+          "name": "Luxury Fashion",
+          "logo": "https://si.geilicdn.com/wdseller1814780747-4e6b00000191b1e936eb0a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55227",
+        "mallType": "TB",
+        "itemId": "739616008928",
+        "title": "TM Basic White Red Bar Small Label Half Zip Black Sweatshirt Outer",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3np3gmf_o47o.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55067",
+        "mallType": "TB",
+        "itemId": "782934576558",
+        "title": "Saint Michael Arch Saint Hoodie New Curved Logo Retro Loose Hoodie Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3noy1w8_b2ag.jpg",
+        "price": "¥309.45",
+        "toPrice": "$48.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "545525073",
+          "name": "GNVK线上商店",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55063",
+        "mallType": "TB",
+        "itemId": "818556427621",
+        "title": "Kk11Unwanted Strawberry Mansion Virgil Same Style Hoodie Loose Sweatshirt Pullover",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3noxptx_mqhf.jpg",
+        "price": "¥182.09",
+        "toPrice": "$28.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55041",
+        "mallType": "T1688",
+        "itemId": "735823422605",
+        "title": "Cross-border 2023 spot cross-border e-commerce in Europe and the United States chest small letter printing padded hooded men and women with the same paragraph sweater batch",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3noxrgc_lq7d.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "55002",
+        "mallType": "T1688",
+        "itemId": "656650953885",
+        "title": "Spring and Autumn Men's Sweatshirt American Youth Heavyweight Hooded Zipper Jacket Men's Tide Large Size Inserted Shoulder Sports Tops",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nowb19_tp1r.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "54971",
+        "mallType": "WD",
+        "itemId": "6459824397",
+        "title": "BM853 OFFXX oil painting brush graffiti hooded sweatshirt made of pure cotton 320G looped fabric or plush digital printing breathable hoodie, trendy men's and women's clothing black and white M-XXL",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nosaa3_dpqb.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "166177892",
+          "name": "偌潮馆",
+          "logo": "https://si.geilicdn.com/bj-vshop-166177892-1532168690767-521606379_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "54728",
+        "mallType": "TB",
+        "itemId": "589387773305",
+        "title": "Unionkingdom Blank Hoodie Pure Color Washed Classic Vertical Feel Loose Fleece Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nomvbk_6pwi.jpg",
+        "price": "¥50.09",
+        "toPrice": "$7.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113111492",
+          "name": "UnionKingdom",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "54664",
+        "mallType": "WD",
+        "itemId": "7261724957",
+        "title": "N5003 jiguang",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nomjwj_6bmv.jpg",
+        "price": "¥215.00",
+        "toPrice": "$33.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "54412",
+        "mallType": "TB",
+        "itemId": "744993006664",
+        "title": "Meijia Big Buddha Men's and Women's Jacket Padded Warm Sweatshirt Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3noklw5_tulw.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149088222553922945",
+  "language": "en"
+}

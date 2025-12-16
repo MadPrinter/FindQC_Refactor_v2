@@ -1,0 +1,377 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1802339",
+        "mallType": "WD",
+        "itemId": "7497224361",
+        "title": "Jacket#",
+        "picUrl": "https://si.geilicdn.com/open1735853037-1234478995-7f2800000197a86a94210a23b491_800_800.jpg",
+        "price": "¥225.00",
+        "toPrice": "$35.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735853037",
+          "name": "木木三",
+          "logo": "https://si.geilicdn.com/wdseller1944767919-54c300000198d2a6c0200a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2292176",
+        "mallType": "WD",
+        "itemId": "7535027171",
+        "title": "GS.81299340",
+        "picUrl": "https://si.geilicdn.com/pcitem1798464021-305f00000192c1658b8b0a8133cc_1080_1080.jpg",
+        "price": "¥236.00",
+        "toPrice": "$37.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1625782829",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2894034",
+        "mallType": "TB",
+        "itemId": "972757169857",
+        "title": "Light Gray Suit",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2212758940215/O1CN01UnM1371DSWF4YxjQm_!!2212758940215.jpg",
+        "price": "¥248.19",
+        "toPrice": "$39.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "183667809",
+          "name": "Evaclothing",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2475000",
+        "mallType": "WD",
+        "itemId": "5362156748",
+        "title": "🉐 Jacket jacket 013",
+        "picUrl": "https://cdn.findqc.com/item/20250922/mfuc4qgx_nnp1.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1866344120",
+          "name": "杂货铺",
+          "logo": "https://si.geilicdn.com/wdseller1518819354-2f3a0000019a5e5a2ca80a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "941451",
+        "mallType": "T1688",
+        "itemId": "787135263860",
+        "title": "European and American High Street Tide Alcatraz PU Leather Quilted Cotton-padded Coat corteiz Unisex Casual Zipper Jacket Coat",
+        "picUrl": "https://cdn.findqc.com/item/20250704/mcnrsn84_fnil.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcIj7gnL5VjEKTzEgl7W6NQ",
+          "name": "广州狼潮服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3026874",
+        "mallType": "TB",
+        "itemId": "989130046232",
+        "title": "Fanvanka Winter Trendy Brand Design Textured Solid Color Short Wide Cotton Coat Unisex Cleanfit Thickened Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/826839906/O1CN01Idu7Hi2N30WmYvKNR_!!826839906.jpg",
+        "price": "¥342.39",
+        "toPrice": "$53.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72785384",
+          "name": "FAN VANKA中国",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2920673",
+        "mallType": "WD",
+        "itemId": "6183621019",
+        "title": "【 Hot selling recommendation 】 Original quality C @ rhartt Kahat vintage J97 washed jacket jacket, unisex short version",
+        "picUrl": "https://si.geilicdn.com/open1370237163-1234478995-599300000187370162cd0a2008af_1284_1284.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1370237163",
+          "name": "王麻子666",
+          "logo": "https://si.geilicdn.com/bj-wd-1370237163-1532683066728-889635542_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3181824",
+        "mallType": "WD",
+        "itemId": "7583489006",
+        "title": "跨境st石头袖标徽章连帽夹克外套男女同款欧美潮流外贸",
+        "picUrl": "https://si.geilicdn.com/open1789896019-1789896019-542f0000019a1311626d0a22d249_1920_1920.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789896019",
+          "name": "Kopiax",
+          "logo": "https://si.geilicdn.com/pccreshp1999873750-4e3500000199f1873e460a8133cc_1080_1440.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 136,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2482639",
+        "mallType": "WD",
+        "itemId": "7543101800",
+        "title": "Thick vintage jacket, classic canvas washed hooded workwear with cotton jacket",
+        "picUrl": "https://si.geilicdn.com/open1652366165-1234478995-282b000001991679878b0a8133b0_1066_1066.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1652366165",
+          "name": "WTWT What to wear tomorrow",
+          "logo": "https://si.geilicdn.com/shopedit1901491844-69a900000193494ed06f0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3026115",
+        "mallType": "T1688",
+        "itemId": "989008487266",
+        "title": "欧美潮牌跨境Mertra Waterproof Jacket黑色水溶拉链外套夹克风衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KyM1jb1Zx8H7Z1VRv_!!2219569733260-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBA9RBsnODl20tXOD-2wi8RQ",
+          "name": "广州市黄埔区星可泽服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2988146",
+        "mallType": "T1688",
+        "itemId": "844575503542",
+        "title": "欧洲站潮牌连帽夹克男士春秋季新款时尚休闲高档外套痞帅压花上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rl5HDP1JTKXX8zJ6i_!!2206726811029-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2200711380493",
+          "name": "常熟市服装城牌面服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5000",
+        "mallType": "T1688",
+        "itemId": "743062544600",
+        "title": "in stock Heavy Retro J130 American Style Hooded Middle Washed Old Canvas Cotton Jacket Coat Unisex",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m46ccc_vga1.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDSByteUxFLX-xicXExPygQ",
+          "name": "常熟市尚湖镇好书人服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 528,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2874867",
+        "mallType": "TB",
+        "itemId": "892885726721",
+        "title": "〔 Plus No Logo 〕 Chenille Shadow Stripe Old Money Jacket Velvet Double Zipper High Collar Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2207875171087/O1CN01Iva1Dd1JttYvS6beR_!!2207875171087.jpg",
+        "price": "¥103.95",
+        "toPrice": "$16.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "391838098",
+          "name": "NO LOGO PLUS",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3175668",
+        "mallType": "T1688",
+        "itemId": "872863941093",
+        "title": "高端夹克外套定制印logo棒球服男女定做刺绣字企业员工风衣工作服",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fPzYCa1wkWSZKf9C7_!!2211403566346-0-cib.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211403566346",
+          "name": "广州文茂服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2645551",
+        "mallType": "WD",
+        "itemId": "7550752706",
+        "title": "Lemaire single breasted black denim jacket LM10905",
+        "picUrl": "https://cdn.findqc.com/item/20251026/mh6slw4f_egll.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830297161",
+          "name": "珍绮made",
+          "logo": "https://si.geilicdn.com/wdseller1816236668-25940000018cea5d9ac60a20e7c7_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "11655",
+        "mallType": "T1688",
+        "itemId": "679257031030",
+        "title": "Spring and Autumn Trendy Brand Broken Bear Loose Cotton Green Embroidered Letters Couple Baseball Uniform Jacket Jacket Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbqi61_isd9.jpg",
+        "price": "¥113.00",
+        "toPrice": "$17.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBjQ_VO5TvsP9gRGwkgHa53g",
+          "name": "广州鸿允商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2683364",
+        "mallType": "WD",
+        "itemId": "7570266295",
+        "title": "Stone Trendy Brand American-Style Armband Zipper Retro Windproof Unisex Jacket Coat",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-31da00000199d8ee17430a8133b0_800_800.jpg",
+        "price": "¥404.80",
+        "toPrice": "$63.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785790109",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3103087",
+        "mallType": "TB",
+        "itemId": "983792121912",
+        "title": "Uide Trendy Brand Wtapsxsmock Nyco Weather Loose Casual Nylon Pullover Jacket 25Ss",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2248718726/O1CN01e4YnKS2EKZAJVvx3n_!!2248718726.jpg",
+        "price": "¥181.48",
+        "toPrice": "$28.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "347770321",
+          "name": "西山彻的小鲸鱼",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3121",
+        "mallType": "T1688",
+        "itemId": "743545285773",
+        "title": "High quality mid-ancient j130 card @ hacarha washed distressed hooded zipper coat loose cotton-padded coat cotton-padded coat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m37yhd_bv90.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByDs7DQH1i5Y0E3zdMfwVSg",
+          "name": "上海幕漾服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 332,
+        "qcVideoCnt": 4,
+        "picWidth": "1179",
+        "picHeight": "1540"
+      },
+      {
+        "id": "978815",
+        "mallType": "T1688",
+        "itemId": "837777240583",
+        "title": "Amazon New Fall Long Sleeve Zipper Men's Casual Top Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01JBczoe2KK0Guc4DGm_!!2214467139537-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146338011924859253",
+  "language": "en"
+}

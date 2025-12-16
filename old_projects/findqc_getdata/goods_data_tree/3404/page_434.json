@@ -1,0 +1,323 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1848512",
+        "mallType": "WD",
+        "itemId": "7285047229",
+        "title": "b#pe crew-neck hoodie  487#",
+        "picUrl": "https://cdn.findqc.com/item/20250823/menp55bh_b739.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1643890569",
+          "name": "Linda.Sue",
+          "logo": "https://si.geilicdn.com/wdseller1379728669-66a10000018bf52fad750a22d4f5_132_132.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2190213",
+        "mallType": "T1688",
+        "itemId": "821763052355",
+        "title": "Nanyou Correct Version D Family Autum New Letter Concave and Convex High-Density Embroider Hooded Sweatshirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250823/menb275o_4vkv.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhvsQOWn3xqjjYocQMJJIow",
+          "name": "广州俊兴服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1479066",
+        "mallType": "WD",
+        "itemId": "7452536154",
+        "title": "P * y Love Coat",
+        "picUrl": "https://cdn.findqc.com/item/20250823/menbpbi6_6vnx.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2064273",
+          "name": "LaLa buy",
+          "logo": "https://si.geilicdn.com/pcdecorate901944571744-59000000019696c25a830a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2190063",
+        "mallType": "WD",
+        "itemId": "7390638852",
+        "title": "021305 AMG hooded jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250823/mena0x3g_6zhq.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2189926",
+        "mallType": "T1688",
+        "itemId": "838410161367",
+        "title": "Sp5der Spider European and American Trendy Brand Couple's Heavy Weight Plush Hoodie Loose Thickened Plush in Stock Straight Hair",
+        "picUrl": "https://cdn.findqc.com/item/20250823/men969my_rt6m.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218640687240",
+          "name": "广州田多多商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1981461",
+        "mallType": "T1688",
+        "itemId": "950641820460",
+        "title": "Summer American Style Washed Pattern Embroidered Long-Sleeved Hooded Sweatshirt Japanese Style Trendyy High-End Loose Casual Jacket for Men",
+        "picUrl": "https://cdn.findqc.com/item/20250823/men95z6k_zvmd.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBh8ZgmRPKr8I6T-cLjS0UaA",
+          "name": "广州旺升服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1557225",
+        "mallType": "T1688",
+        "itemId": "912333227840",
+        "title": "HEYPLAY Japanese Trendy Brand 18 Red Coat Blue Zipper Back Big Black Heart Stand up Collar Hoodie Men's and Women's Wear",
+        "picUrl": "https://cdn.findqc.com/item/20250823/men95y0h_klph.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219516228748",
+          "name": "杭州一路发发跨境电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1567395",
+        "mallType": "TB",
+        "itemId": "876280595148",
+        "title": "American High Street Corteiz Classic Alcatraz Print Hooded Zip-Up Sweatshirt and Sweatpants Casual Couple Set Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250823/men6rsj4_4som.jpg",
+        "price": "¥130.13",
+        "toPrice": "$20.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "520847650",
+          "name": "超特价经营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2188116",
+        "mallType": "T1688",
+        "itemId": "910291156596",
+        "title": "2025 Cardigan Explosion Sweater Men's Women's Spring and Autumn suit Hooded Jacket Pants suit Casual Trend",
+        "picUrl": "https://cdn.findqc.com/item/20250823/men3s05j_5e2x.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbmJ2QjqSViHostSJ4Cxqgg",
+          "name": "上饶市泽丰服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2188096",
+        "mallType": "T1688",
+        "itemId": "770173765839",
+        "title": "European and American men's American fashion brand Huang Zitao with magic array printed fleece-lined hoodie hoodie hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250823/men3k5lf_tile.jpg",
+        "price": "¥71.00",
+        "toPrice": "$11.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBjzaeo1HDnmtceGaFrFRHPA",
+          "name": "广州潮宇服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2187561",
+        "mallType": "WD",
+        "itemId": "7270094725",
+        "title": "091231  fenghuo",
+        "picUrl": "https://cdn.findqc.com/item/20250822/men0gbpe_8qst.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1935768",
+        "mallType": "WD",
+        "itemId": "7446675937",
+        "title": "DS Ghost Face Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memtxbmq_p57o.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1739784557",
+          "name": "pengreps",
+          "logo": "https://si.geilicdn.com/wdseller1940384309-57d700000195ec36cfa00a8133cc_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2183761",
+        "mallType": "T1688",
+        "itemId": "784383619422",
+        "title": "NKXStty Retro Collaboration Solid Color Embroidered Logo with Velvet Warm Round Neck Hoodie Gray with Velvet Thickened",
+        "picUrl": "https://cdn.findqc.com/item/20250822/memn5x3l_xdc2.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217753779034",
+          "name": "武汉市东西湖区尚美服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "135306",
+        "mallType": "TB",
+        "itemId": "849477135275",
+        "title": "Now. 24Ss Show Style 3B Sports White Manchester United Football Hooded Printed Embroidered Loose Jacket Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mom5hn_eatw.jpg",
+        "price": "¥286.47",
+        "toPrice": "$45.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "304929077",
+          "name": "Apex Made",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 212,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1735696",
+        "mallType": "T1688",
+        "itemId": "948992055505",
+        "title": "25as Alwayson Zipper Sweatshirt Printed Essentials Trendy Brand Zipper Shirt Ziphoodie Cross-Border",
+        "picUrl": "https://cdn.findqc.com/item/20250730/mdplij8u_mvf4.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWJpAX1Ml7oscoB2p4HVoAg",
+          "name": "宁波市鄞州钟公庙宜山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 155,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2182870",
+        "mallType": "TB",
+        "itemId": "875717879470",
+        "title": "Casablanca Heavy 380g Non Velvet Hoodie Men's American Printed Loose, Small Cap Round Neck Top Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250822/mem14fqc_gcuc.jpg",
+        "price": "¥69.90",
+        "toPrice": "$10.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "403515759",
+          "name": "潮牌工厂批发",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2182779",
+        "mallType": "TB",
+        "itemId": "903417225051",
+        "title": "Sand Innocence DENIM Cotton Foam Printed Hoodie TEARS American Street Loose Men's Hoodie Set",
+        "picUrl": "https://cdn.findqc.com/item/20250822/melzxxki_j50z.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "344251317",
+          "name": "深圳南山线上工厂",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114718726194363443",
+  "language": "en"
+}

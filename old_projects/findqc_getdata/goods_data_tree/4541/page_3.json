@@ -1,0 +1,31 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "12634",
+        "mallType": "WD",
+        "itemId": "7262075866",
+        "title": "【 Exclusive for export 】 In stock joint three bar oil wax leather contrasting splicing backpack with sheepskin zipper casual backpack student back",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ndt5ic_5vtf.jpg",
+        "price": "¥899.00",
+        "toPrice": "$141.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718365378",
+          "name": "157Club",
+          "logo": "https://si.geilicdn.com/wdseller1573091308-562c000001910f5641070a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146309222553898499",
+  "language": "en"
+}

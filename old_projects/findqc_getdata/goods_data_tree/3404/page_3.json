@@ -1,0 +1,386 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3212487",
+        "mallType": "WD",
+        "itemId": "3235100997",
+        "title": "乔4篮球鞋涂鸦奥利奥白水泥灰绿李维斯aj4大理石粉男女高帮运动鞋潮流时尚百搭",
+        "picUrl": "https://si.geilicdn.com/weidian1343281867-54be0000017099b2a25c0a21348d_800_800.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1343281867",
+          "name": "一个fashion鞋柜",
+          "logo": "https://si.geilicdn.com/bj-vshop-1343281867-1526394422134-1165812281_656_656.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3188179",
+        "mallType": "T1688",
+        "itemId": "948681356997",
+        "title": "跨境正确版CP COMPANY纯色经典基础款美式侧边镜片套头圆领卫衣男",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Id6oq92AhggzKY3Us_!!2220141578235-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220141578235",
+          "name": "广州达唯服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2659367",
+        "mallType": "WD",
+        "itemId": "7566760409",
+        "title": "Trendy casual suit 08",
+        "picUrl": "https://si.geilicdn.com/open1863333901-1234478995-26b600000198748c62a60a231226_1200_1200.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1843490997",
+          "name": "Super-Factory",
+          "logo": "https://si.geilicdn.com/shopedit1908332656-11ff00000196a9c437ef0a20e273-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2713340",
+        "mallType": "T1688",
+        "itemId": "632514868997",
+        "title": "Big V Trendy Brand Reflective Smoke Angel FRIENDS Print Men's and Women's Trendy High Street FOG Hoodie Sweater ZGPB",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pinWfX1gdcYex8nFT_!!2209812824165-0-cib.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmeVFHfCA1XRtUzJhdFA3TQ",
+          "name": "杭州橙心橙意贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2262917",
+        "mallType": "WD",
+        "itemId": "7489925248",
+        "title": "FEA ② - Double Line High Quality Material Hoodie Set - TOP-A-12\n",
+        "picUrl": "https://si.geilicdn.com/pcitem1959157136-553c000001975001369d0a20e7c7_1280_1280.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1861091901",
+          "name": "TOP Marka-Original",
+          "logo": "https://si.geilicdn.com/weidian1959157136-0aad0000019746ab01c50a21146b_990_990.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1787296",
+        "mallType": "WD",
+        "itemId": "7248347756",
+        "title": ">>ALI A GRADE<<Chrome*Hearts  Sweater",
+        "picUrl": "https://si.geilicdn.com/pcitem1205735575-5dfd0000019087d0bf850a2301b4_800_800.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1205735575",
+          "name": "ALi Clothing",
+          "logo": "https://si.geilicdn.com/shopedit1205735575-2a240000018f6260bcb30a23041a-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1664559",
+        "mallType": "T1688",
+        "itemId": "819449006645",
+        "title": "Y2K American printed hoodie for couples, casual loose fit hoodie, retro street style, hip-hop, European and American cross-border new style\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YyqT2k1uxgYqEK7bV_!!2215786716104-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFQ-zdfy2PLvUAHnDA4YlGQ",
+          "name": "义乌市程恬网络科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3207266",
+        "mallType": "T1688",
+        "itemId": "885284681738",
+        "title": "开衫美式辣妹嘻哈街头修身短款连帽衫卫衣INS宽松长裤套装y2k时尚",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01F8j40E29rvsVOc01M_!!2218659978122-0-cib.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218659978122",
+          "name": "深圳凡影电子商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3207132",
+        "mallType": "WD",
+        "itemId": "7469230307",
+        "title": "【DX34】纯棉毛圈套头宽松圆领卫衣",
+        "picUrl": "https://si.geilicdn.com/open1652813497-252808396-47b700000192a382800e0a210298_1200_1200.jpg",
+        "price": "¥176.00",
+        "toPrice": "$27.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2624412",
+        "mallType": "WD",
+        "itemId": "7550227482",
+        "title": "High-quality sets",
+        "picUrl": "https://si.geilicdn.com/pcitem1580621215-65a7000001921db3b1a20a23038e_900_900.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1687427619",
+          "name": "Luminary Emporium",
+          "logo": "https://si.geilicdn.com/pcdecorate1983552747-2f5f00000198fa5a2b7f0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2574935",
+        "mallType": "WD",
+        "itemId": "7438007983",
+        "title": "时尚版休闲连帽卫衣",
+        "picUrl": "https://si.geilicdn.com/open1860739466-1234478995-68350000019491e2874d0a8115b5_800_800.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1860739466",
+          "name": "New Goat",
+          "logo": "https://si.geilicdn.com/shopedit1932874979-713d000001981eb095d40a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2309190",
+        "mallType": "T1688",
+        "itemId": "904947418938",
+        "title": "Cross-border foreign trade STONE stone compass emblem basic section pullover functional leisure men and women round neck sweater island",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01p7tAx21PJbswUBqrS_!!2219542581820-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219542581820",
+          "name": "广州佐凯服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 79,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2401427",
+        "mallType": "WD",
+        "itemId": "7471045488",
+        "title": "DX21] Autumn and winter new men and women couples models glasses round lens models zipper hooded sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1652813497-252808396-12ef00000191efae77380a239383_800_800.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3207106",
+        "mallType": "WD",
+        "itemId": "7471069084",
+        "title": "【DX21】2024秋冬新款眼镜纯色卫衣男女同款宽松长袖",
+        "picUrl": "https://si.geilicdn.com/open1652813497-252808396-61aa00000191eff77b720aa0233d_1920_1920.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1232870",
+        "mallType": "T1688",
+        "itemId": "911044301195",
+        "title": "Cross border autumn cardigan hooded sweatshirt made of Chinese cotton, suitable for sports and leisure couples, gray and black in stock",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016mgGA82LS4vR5ZyZZ_!!2211799029690-0-cib.jpg",
+        "price": "¥74.00",
+        "toPrice": "$11.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBA_Y1v1TdVT35C2kRJ0jU3g",
+          "name": "泉州傲影服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2128240",
+        "mallType": "WD",
+        "itemId": "7524671227",
+        "title": "Autumn and Winter Casual Fashion Round Neck Hoodie 023",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-708800000197d57e1ef50a8133b0_1200_1200.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1722000323",
+          "name": "Best Pick",
+          "logo": "https://si.geilicdn.com/pcdecorate1981547250-08be00000198a211a7fa0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3206750",
+        "mallType": "WD",
+        "itemId": "7596064295",
+        "title": "EXX卫衣-Enter store, more 500+ items RAR",
+        "picUrl": "https://si.geilicdn.com/pcitem1907870689-27780000019386d09c090a23037f_800_800.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1660608483",
+          "name": "ONE PIECE",
+          "logo": "https://si.geilicdn.com/shopedit1993455510-0b8f0000019977db99ad0a20e672-unadjust_700_700.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2673080",
+        "mallType": "WD",
+        "itemId": "7285567638",
+        "title": "New loose fit sweatshirt L-001",
+        "picUrl": "https://si.geilicdn.com/pcitem901897921344-4b5900000192c18e64dd0a23038e_1200_1200.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1697135169",
+          "name": "Welfare Shop",
+          "logo": "https://si.geilicdn.com/wdseller901897616982-0c1f00000192708836bb0a23111a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1018809",
+        "mallType": "T1688",
+        "itemId": "856117952030",
+        "title": "European and American DRILL Functional Windbreaker Track Jacket Hooded Jacket Drawstring Sports Jacket Football Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250323/m8ljembh_8lr9.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnFESL5Hkrx_07-RP9acuAA",
+          "name": "广州季丰服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 476,
+        "qcVideoCnt": 14,
+        "picWidth": "799",
+        "picHeight": "1066"
+      },
+      {
+        "id": "646151",
+        "mallType": "T1688",
+        "itemId": "854201405140",
+        "title": "Foreign Trade Men's CP Glasses Pure Cotton Embroidery Casual Round Neck Handsome Simple Casual Outdoor Sports Hooded Sweat",
+        "picUrl": "https://cdn.findqc.com/item/20250430/ma37tqmg_a6gr.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdTuNZII7YoB8BCLhyODk1g",
+          "name": "广州星盛品牌管理有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 572,
+        "qcVideoCnt": 8
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141255901913209998",
+  "language": "en"
+}

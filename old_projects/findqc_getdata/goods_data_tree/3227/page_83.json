@@ -1,0 +1,385 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2478212",
+        "mallType": "WD",
+        "itemId": "7522659044",
+        "title": "zz03-High quality T-shirt / (1:1 original quality)",
+        "picUrl": "https://si.geilicdn.com/open1799248707-1234478995-65f7000001987f8ff2550a23b4de_1200_1200.jpg",
+        "price": "¥133.00",
+        "toPrice": "$20.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1799248707",
+          "name": "dadarep",
+          "logo": "https://si.geilicdn.com/weidian1978915425-4f3400000198711a45760a2396f4_2312_1736.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2478634",
+        "mallType": "WD",
+        "itemId": "7517862125",
+        "title": "YT06-2025 New Hundred Long Sleeve +86 13656920862",
+        "picUrl": "https://si.geilicdn.com/pcitem1968021067-425f00000198b6d93c380a20e284_1200_1200.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1815583997",
+          "name": "Top Fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate1968021067-04de000001990059fc3e0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2493396",
+        "mallType": "TB",
+        "itemId": "758067992163",
+        "title": "Uniqlo women's round neck short T-shirt/short sleeved spicy girl T high waist slim fit base 465760",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/196993935/O1CN012QQh0s1ewHbEWICaT_!!4611686018427380623-0-item_pic.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57303596",
+          "name": "优衣库官方旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2478655",
+        "mallType": "WD",
+        "itemId": "7546170146",
+        "title": "ZXFZSYDT - High Cost Effective Fashion New Set -23-DS",
+        "picUrl": "https://si.geilicdn.com/open1631019331-1234478995-40e000000198836e2e500a23b4de-unadjust_1200_1200.png",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1727550549",
+          "name": "WuKongFANS（8000+item）",
+          "logo": "https://si.geilicdn.com/shopedit1978030695-2dd8000001991951b2af0a231177-unadjust_729_729.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2478428",
+        "mallType": "WD",
+        "itemId": "7469279760",
+        "title": "Outer Short Sleeve YDL-Enter store, more 500+ items",
+        "picUrl": "https://si.geilicdn.com/pcitem1890373301-407e00000192439ab9cf0a8134f0_800_800.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646714349",
+          "name": "Yino Buy",
+          "logo": "https://si.geilicdn.com/shopedit1944758216-432700000199299bbec40a23047e-unadjust_356_356.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2477894",
+        "mallType": "WD",
+        "itemId": "7428296269",
+        "title": "Foreign trade new printed personalized round neck short-sleeved T-shirt",
+        "picUrl": "https://si.geilicdn.com/open1780372164-1234478995-277b00000195aeb746430a23b4de_1920_1920.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780372164",
+          "name": "linlin--L2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2478388",
+        "mallType": "WD",
+        "itemId": "7500980576",
+        "title": "Explosive trend men's T-shirt-dq",
+        "picUrl": "https://si.geilicdn.com/open1668140461-1234478995-30fa00000195e6170d5f0a23b491_856_856.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668140461",
+          "name": "LW   Shop-RY1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2488561",
+        "mallType": "TB",
+        "itemId": "977330829547",
+        "title": "Corteiz Alcatraz Tight-Fit Letter Print Long sleeves T-Shirt Men's silm Breathable Plaid Crewneck Sweatshirts Tops",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3236049158/O1CN016zlvsD2HWQGDbVDGV_!!3236049158.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "545481583",
+          "name": "MMRR潮牌小店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2478128",
+        "mallType": "WD",
+        "itemId": "7553776926",
+        "title": "Y2K Express Amazon tops men and women summer short-sleeved printed cross-border tide loose lazy wind t-shirt",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-3fc0000001994840c6e60aa043f9_1440_1440.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1755807005",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2112112",
+        "mallType": "WD",
+        "itemId": "7525087617",
+        "title": "2025 Spanish street print men's and women's surf vacation casual t-shirt fashion brand Scuffers",
+        "picUrl": "https://si.geilicdn.com/open1710883753-1234478995-34cf00000198a8e27e390aa043f9_939_939.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710883753",
+          "name": "Good times",
+          "logo": "https://si.geilicdn.com/wdseller1829169095-009400000194488b8c430a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3041465",
+        "mallType": "TB",
+        "itemId": "947447039074",
+        "title": "Xanvas slogan \"Everything's gone\" Time flies hourglass print Sorona long sleeved t-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2206448755695/O1CN019DKiVy1rwMfIJ2aIF_!!2206448755695.jpg",
+        "price": "¥123.46",
+        "toPrice": "$19.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "326411583",
+          "name": "Xanvas",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3041307",
+        "mallType": "TB",
+        "itemId": "856552958665",
+        "title": "European and American High Street Heavy Metal Rock Band Printed T-shirt Justin Bieber Same Style Men's and Women's Loose Vintage Short Sleeves",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2247438892/O1CN01nMEwih2FYapWDXbpd_!!2247438892.jpg",
+        "price": "¥91.59",
+        "toPrice": "$14.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "254401958",
+          "name": "33 TRENTE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3040848",
+        "mallType": "WD",
+        "itemId": "7253094448",
+        "title": "R17026-H71",
+        "picUrl": "https://si.geilicdn.com/pcitem901882847512-5df50000019205266f6d0a22d172_1024_682.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2818922",
+        "mallType": "WD",
+        "itemId": "6028149711",
+        "title": "(100-160) BEI&BAPE trendy children's clothing t-shirt with banana embroidery polo shirt short sleeved monkey bead top loose fit",
+        "picUrl": "https://si.geilicdn.com/open1864128688-1234478995-53e2000001855eb392870a22d58f_1000_1000.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864128688",
+          "name": "夏夏童品（童鞋童装）",
+          "logo": "https://si.geilicdn.com/wdseller1444539219-1bf200000179006d0b570a217216_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 38,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "56544",
+        "mallType": "WD",
+        "itemId": "6988788403",
+        "title": "(100-150) BEI&BAPE collaboration Miami International MIAMI trendy children's clothing camouflage men's and women's short sleeved sports T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nprpu0_njap.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864128688",
+          "name": "夏夏童品（童鞋童装）",
+          "logo": "https://si.geilicdn.com/wdseller1444539219-1bf200000179006d0b570a217216_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 38,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1136957",
+        "mallType": "TB",
+        "itemId": "776337289135",
+        "title": "American-Style Ali Pacquiao Tyson Davis T-Shirt Retro Vintage Boxing Fighting Men's Loose Short-Sleeved Top",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2625971601/O1CN01hW8fPq1NhJ2ca8qnS_!!2625971601.jpg",
+        "price": "¥82.60",
+        "toPrice": "$12.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "301080801",
+          "name": "KAKO线上商城",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2875170",
+        "mallType": "WD",
+        "itemId": "6366845797",
+        "title": "Special Offer! Original order and final goods! Men's hooded short sleeved T-shirt made of pure cotton, combed cotton, simple, business commuting, classic, casual, sports, half sleeved round neck top, pullover, base shirt, trendy, light luxury, British style",
+        "picUrl": "https://si.geilicdn.com/weidian917935543-4b60000001971e54831b0a23111a_750_828.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "917935543",
+          "name": "三石商贸 大牌集中营",
+          "logo": "https://si.geilicdn.com/weidian917935543-095d0000017838db376c0a217216_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2327689",
+        "mallType": "TB",
+        "itemId": "921680499673",
+        "title": "Olight Special Offer/ 90% off Special Zone/ Summer Sports Short Sleeve T-Shirt for Men, Ice Silk Quick-Dry, Plus Size Stretch Fitness T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2807647162/O1CN01BwH0F722mFfNyKsU9_!!2807647162.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "148486013",
+          "name": "吖丫丫服饰折扣店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1507289",
+        "mallType": "TB",
+        "itemId": "876619690792",
+        "title": "Hooded Sweatshirt with Diamond Cross Pattern and Unique Eye Design, Popular among Fashionistas",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md70iv2y_aa5x.jpg",
+        "price": "¥100.98",
+        "toPrice": "$15.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "263616202",
+          "name": "Artistic Resear",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 138,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1796759",
+        "mallType": "WD",
+        "itemId": "7506105064",
+        "title": "B short sleeved high version",
+        "picUrl": "https://si.geilicdn.com/open1853208008-1234478995-3c0900000197eb4c19640a23b491_1080_1080.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1853208008",
+          "name": "Bab luxury",
+          "logo": "https://si.geilicdn.com/wdseller1459840158-2be800000195ede28fa00a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141410182553913722",
+  "language": "en"
+}

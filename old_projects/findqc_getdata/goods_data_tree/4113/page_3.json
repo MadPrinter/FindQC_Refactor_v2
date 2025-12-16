@@ -1,0 +1,392 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "895076",
+        "mallType": "WD",
+        "itemId": "7258619389",
+        "title": "Top 4 Fashion basketball shoes",
+        "picUrl": "https://si.geilicdn.com/pcitem1857988414-21cf000001913f6439bc0a2102c5_1200_1200.jpg",
+        "price": "¥460.00",
+        "toPrice": "$72.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832710585",
+          "name": "Milan Shoes &amp; Clothing",
+          "logo": "https://si.geilicdn.com/shopedit1857988414-4cf60000019a307f5d090a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2458656",
+        "mallType": "WD",
+        "itemId": "7504869151",
+        "title": "New fashionable fashionable shoes-012-Top quality",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-037500000197ef0d62ab0a23b491_1200_1200.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1916665",
+        "mallType": "WD",
+        "itemId": "7501975557",
+        "title": "New Fashion Versatile Trendy Shoes -012-old\n",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-4b2700000197d52cc00e0aa043f9_1200_1200.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "506346",
+        "mallType": "WD",
+        "itemId": "7269997033",
+        "title": "B*22 Fashion shoes",
+        "picUrl": "https://si.geilicdn.com/pcitem1857988414-06a700000191e56838130a22d172_1200_1200.jpg",
+        "price": "¥430.00",
+        "toPrice": "$67.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832710585",
+          "name": "Milan Shoes &amp; Clothing",
+          "logo": "https://si.geilicdn.com/shopedit1857988414-4cf60000019a307f5d090a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2411357",
+        "mallType": "WD",
+        "itemId": "7539331437",
+        "title": "High quality shoes 4",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-1c9900000197d53314670a231226-unadjust_637_800.gif",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1693963683",
+          "name": "Trend Factory",
+          "logo": "https://si.geilicdn.com/pcdecorate1987113204-5aa5000001990412c9d80a207569-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1208350",
+        "mallType": "WD",
+        "itemId": "7328058314",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/pcitem1849262351-385b00000193df47c6700a2102c5_1284_769.jpg",
+        "price": "¥420.00",
+        "toPrice": "$66.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735791321",
+          "name": "新丝路鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897283",
+        "mallType": "WD",
+        "itemId": "7511975052",
+        "title": "New Fashion Versatile Trendy Shoes -008",
+        "picUrl": "https://si.geilicdn.com/open1762781955-1234478995-6629000001981cc14ee20a23b4de_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1762781955",
+          "name": "PERFECT",
+          "logo": "https://si.geilicdn.com/pcdecorate1972881312-5a8c0000019817868cbe0a20e284-unadjust_512_512.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "978482",
+        "mallType": "WD",
+        "itemId": "7326521895",
+        "title": "rep sneaker collection (tiny dirt is normal) YHH06",
+        "picUrl": "https://si.geilicdn.com/open1624510805-1234478995-1b9c00000193d9ec195b0a232357_800_800.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1624510805",
+          "name": "Hip-Hop Panda",
+          "logo": "https://si.geilicdn.com/shopedit1900473224-100f00000193d971aef80a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "795292",
+        "mallType": "WD",
+        "itemId": "7279414922",
+        "title": "Hot S*tep chunky running shoes shoes",
+        "picUrl": "https://si.geilicdn.com/pcitem1857988414-6878000001922c54ce1b0a23041a_2000_2000.jpg",
+        "price": "¥460.00",
+        "toPrice": "$72.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832710585",
+          "name": "Milan Shoes &amp; Clothing",
+          "logo": "https://si.geilicdn.com/shopedit1857988414-4cf60000019a307f5d090a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "253292",
+        "mallType": "WD",
+        "itemId": "7238102994",
+        "title": "High shoes fashion basketball sneakers",
+        "picUrl": "https://cdn.findqc.com/item/20241127/m3ytebo9_9mcl.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832710585",
+          "name": "Milan Shoes &amp; Clothing",
+          "logo": "https://si.geilicdn.com/shopedit1857988414-4cf60000019a307f5d090a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1782801",
+        "mallType": "WD",
+        "itemId": "7503853572",
+        "title": "New Fashion Versatile Trendy Shoes -008",
+        "picUrl": "https://cdn.findqc.com/item/20250926/mg0tww28_662y.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 76,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1527090",
+        "mallType": "WD",
+        "itemId": "7475236434",
+        "title": "New Fashion Versatile Trendy Shoes -008-CN",
+        "picUrl": "https://si.geilicdn.com/open1672216213-1234478995-42450000019335699a310a22d234_800_800.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785130653",
+          "name": "SOFUN-FASHION",
+          "logo": "https://si.geilicdn.com/shopedit1950350917-59f2000001966ba9360e0a2102c5-unadjust_741_741.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1701253",
+        "mallType": "WD",
+        "itemId": "7458098838",
+        "title": "High quality shoes 4",
+        "picUrl": "https://si.geilicdn.com/pcitem901893105266-1646000001923773f8aa0a239846-unadjust_637_800.gif",
+        "price": "¥209.00",
+        "toPrice": "$32.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848876445",
+          "name": "TrendyU",
+          "logo": "https://si.geilicdn.com/wdseller1951015104-648400000196729261ae0a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1861332",
+        "mallType": "WD",
+        "itemId": "7268736587",
+        "title": "1 Top quality Fashion shoes",
+        "picUrl": "https://si.geilicdn.com/pcitem1857988414-336a00000191d9ab02720a230115_2000_2000.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1832710585",
+          "name": "Milan Shoes &amp; Clothing",
+          "logo": "https://si.geilicdn.com/shopedit1857988414-4cf60000019a307f5d090a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2345274",
+        "mallType": "WD",
+        "itemId": "7505504502",
+        "title": "【HY】A9*R F0RCE 1'07",
+        "picUrl": "https://cdn.findqc.com/item/20250907/mf8w4ow0_v91a.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614216041",
+          "name": "Cool Kicks",
+          "logo": "https://si.geilicdn.com/wdseller1833424671-32e40000018d69a4252f0a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2033316",
+        "mallType": "WD",
+        "itemId": "7503930408",
+        "title": "New fashion hundred tide shoes-014",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-50d300000197d53062c60aa0c791_1200_1200.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "378343",
+        "mallType": "WD",
+        "itemId": "7252690552",
+        "title": "3 Fashion basketball shoes sneakers",
+        "picUrl": "https://si.geilicdn.com/pcitem1839310519-58d200000190b0f47e8f0a811411-unadjust_1200_1200.png",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1655154201",
+          "name": "CNTOP",
+          "logo": "https://si.geilicdn.com/wdseller1839310519-043200000190f88352a40a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2874985",
+        "mallType": "WD",
+        "itemId": "7561741679",
+        "title": "W Be Right Back [40 Styles]",
+        "picUrl": "https://si.geilicdn.com/open1868516061-1234478995-58b800000196d939f1ca0a23b491_1200_1200.jpg",
+        "price": "¥278.00",
+        "toPrice": "$43.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "423107735",
+          "name": "七年的店铺1:1顶级",
+          "logo": "https://si.geilicdn.com/wdseller423107735-0286000001998f28e0d40a23047e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2318082",
+        "mallType": "WD",
+        "itemId": "7526563156",
+        "title": "New Fashion Hundred Hipster Shoes-041",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-634d00000197d53a17190aa0c791_800_600.jpg",
+        "price": "¥249.00",
+        "toPrice": "$39.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1722000323",
+          "name": "Best Pick",
+          "logo": "https://si.geilicdn.com/pcdecorate1981547250-08be00000198a211a7fa0a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2907272",
+        "mallType": "WD",
+        "itemId": "7431309989",
+        "title": "7 323 406",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkiw24v_nxbv.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "160885222",
+          "name": "Budgetshoes",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145044221911154485",
+  "language": "en"
+}

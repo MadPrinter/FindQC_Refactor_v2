@@ -1,0 +1,305 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "43023",
+        "mallType": "TB",
+        "itemId": "745402641096",
+        "title": "Women T-Shirt Cartoon Witch Magic Kawaii Tshirt Halloween Pr",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdtacl_evli.jpg",
+        "price": "¥24.14",
+        "toPrice": "$3.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "466392730",
+          "name": "张程优选贸易小店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "43016",
+        "mallType": "TB",
+        "itemId": "821693265276",
+        "title": "LP Italy loro*piana NuoYouFanYa old money wind fall and winter long-sleeved lapel wool sweater men's polo shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdt8av_c5l5.jpg",
+        "price": "¥290.00",
+        "toPrice": "$45.60",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "43017",
+        "mallType": "T1688",
+        "itemId": "767915531105",
+        "title": "CHA home fashion brand new Xiangjia new joint-name printed round neck short sleeve T-shirt pure cotton trendy men and women same style couple style",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdt7mt_n0f8.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1kERWJHB84GP17ecYTjnXQ",
+          "name": "深圳市福田区宝友贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42996",
+        "mallType": "T1688",
+        "itemId": "639219249922",
+        "title": "OFF OW WHITE yellow tape arrow cordon short-sleeved T-shirt Europe and the United States tide brand men and women couple bottoming shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdszzk_ibpr.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42982",
+        "mallType": "T1688",
+        "itemId": "674101888886",
+        "title": "Correct palm palm angel severed bear print high street round neck T-shirt loose cross-border foreign trade spot U.S. tide",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdszkd_7jnf.jpg",
+        "price": "¥44.00",
+        "toPrice": "$6.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213632049344",
+          "name": "上饶市致悦服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42981",
+        "mallType": "WD",
+        "itemId": "7232552023",
+        "title": "Cro Matty boy graffiti blue short sleeve t-shirt long sleeve men and women babyblue Wu Xuan Yi",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdsx3t_iuhy.jpg",
+        "price": "¥193.00",
+        "toPrice": "$30.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858885532",
+          "name": "2December的小屋",
+          "logo": "https://si.geilicdn.com/wdseller1543338394-5bb800000185725383710a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42975",
+        "mallType": "TB",
+        "itemId": "713485869685",
+        "title": "CP Short Sleeve Yellow Red Cherry Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdsvhp_qxfa.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42973",
+        "mallType": "T1688",
+        "itemId": "677166599233",
+        "title": "Tide REPRESENT Shark Print Destruction Short Sleeve T-Shirt Cotton Men's Heavy Washed Old American High Street Loose",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdsstr_91mm.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42959",
+        "mallType": "WD",
+        "itemId": "7000640491",
+        "title": "L logo short sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdsmft_f1aa.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "167171804",
+          "name": "666factory",
+          "logo": "https://si.geilicdn.com/forward167171804-0221000001675af23cd10a02853e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42922",
+        "mallType": "TB",
+        "itemId": "781233709302",
+        "title": "European station embroidery striped lapel men's knitted polo shirt fashion tide popular short-sleeved casual versatile tops",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdsd5h_zawh.jpg",
+        "price": "¥195.00",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42960",
+        "mallType": "TB",
+        "itemId": "811984283203",
+        "title": "【 Bound2 】 YEEZY SEASON Eagle Calabasas Printed T-shirt\n",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdsnda_rft1.jpg",
+        "price": "¥152.49",
+        "toPrice": "$23.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "196316658",
+          "name": "Bound2",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42963",
+        "mallType": "WD",
+        "itemId": "7241509678",
+        "title": "𝙉𝙚𝙬♈️ Casablanca 🏖 Casablanca 24 Years New Colorful Arches Letters Logo Printed in 230 grams of double stranded, 32 count, compact double yarn cotton fabric, the fabric is soft.",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdsmyr_sdcr.jpg",
+        "price": "¥141.67",
+        "toPrice": "$22.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42951",
+        "mallType": "T1688",
+        "itemId": "743097502044",
+        "title": "Dongguan brand factory direct tb long-sleeved tops autumn new puppy hot drill solid color casual polo shirt tide",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdsk3o_2cy3.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42932",
+        "mallType": "TB",
+        "itemId": "755939085439",
+        "title": "23-24 ba sa joint models players edition jersey Barcelona soccer jersey",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdsbmv_5jn5.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42919",
+        "mallType": "T1688",
+        "itemId": "792350663439",
+        "title": "New melancholic rich second-generation vintage graffiti portrait print loose casual short sleeved T-shirt trendy brand for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mds5wg_qe17.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFLXTLarEO99ayt8NsXNGBQ",
+          "name": "镇平县婷水润玉商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42917",
+        "mallType": "TB",
+        "itemId": "734640581452",
+        "title": "【SALE】Aime Leon Dore Summer T-shirts Collection 10+Options",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mds5zw_j67y.jpg",
+        "price": "¥151.70",
+        "toPrice": "$23.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "495019373",
+          "name": "TS 蟑螂侠",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42924",
+        "mallType": "WD",
+        "itemId": "6378425355",
+        "title": "New T-Shirt Toxic Mushroom T-shirt First shipment Full embroidery Full of high quality Embroidery T-shirt short sleeve ZP hand feel Embroidery clear full fine\nColor Black White\nSize S M L",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mds76k_7uja.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1714467102",
+          "name": "小六外贸",
+          "logo": "https://si.geilicdn.com/wdseller1730445636-4f830000019a1e9e9dcb0a231177_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42866",
+        "mallType": "TB",
+        "itemId": "782101146585",
+        "title": "Opfor 24Ss O'Dell Cotton Short Wide Versatile Vintage Band Band Tee Portrait Graphic Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdruq5_38y3.jpg",
+        "price": "¥142.02",
+        "toPrice": "$22.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "534029214",
+          "name": "opfor假想敌",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021152450272553901613",
+  "language": "en"
+}

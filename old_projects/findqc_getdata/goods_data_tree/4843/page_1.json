@@ -1,0 +1,631 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3128101",
+        "mallType": "WD",
+        "itemId": "7444206910",
+        "title": "T-OP Batch / L-a-n-v-i-n面包鞋（2）",
+        "picUrl": "https://si.geilicdn.com/pcitem1861372279-34bc00000195c1230dd50a23057e-unadjust_1200_1200.png",
+        "price": "¥490.00",
+        "toPrice": "$77.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 22,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2556595",
+        "mallType": "WD",
+        "itemId": "7466978831",
+        "title": "X batch J-3",
+        "picUrl": "https://si.geilicdn.com/pcitem1861372279-205700000196ca6e773f0a239846-unadjust_1200_1200.png",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2372749",
+        "mallType": "WD",
+        "itemId": "7524124044",
+        "title": "TN Sneakers",
+        "picUrl": "https://si.geilicdn.com/pcitem1956906894-675c000001988e2cd6500a23047e-unadjust_500_500.gif",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629193693",
+          "name": "Only 1",
+          "logo": "https://si.geilicdn.com/shopedit1956906894-4ea80000019897bc1deb0a23111a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2152741",
+        "mallType": "WD",
+        "itemId": "7400973684",
+        "title": "G-X- 2.0 Batch J-4s Series",
+        "picUrl": "https://si.geilicdn.com/wdseller1861372279-7ce0000001952eae37090a2301af_1290_1290.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 108,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1619340",
+        "mallType": "WD",
+        "itemId": "7482707424",
+        "title": "Sup*23FW NYC Printed T-shirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1956906894-6337000001971b33778e0a23047e-unadjust_500_500.gif",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629193693",
+          "name": "Only 1",
+          "logo": "https://si.geilicdn.com/shopedit1956906894-4ea80000019897bc1deb0a23111a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1805394",
+        "mallType": "WD",
+        "itemId": "7483888772",
+        "title": "Hole Slippers A+",
+        "picUrl": "https://si.geilicdn.com/pcitem1956906894-2d0d0000019720f8fdd00a239646-unadjust_500_500.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629193693",
+          "name": "Only 1",
+          "logo": "https://si.geilicdn.com/shopedit1956906894-4ea80000019897bc1deb0a23111a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2137284",
+        "mallType": "WD",
+        "itemId": "7432705634",
+        "title": "T-OP Batch Bread Shoes 1:1",
+        "picUrl": "https://si.geilicdn.com/pcitem1861372279-34bc00000195c1230dd50a23057e-unadjust_1200_1200.png",
+        "price": "¥490.00",
+        "toPrice": "$77.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1432131",
+        "mallType": "WD",
+        "itemId": "7447771094",
+        "title": "S Batch / Hook",
+        "picUrl": "https://si.geilicdn.com/pcitem1861372279-27fc000001962e2834430a20e2c5-unadjust_1200_1200.png",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1571445",
+        "mallType": "WD",
+        "itemId": "7434193717",
+        "title": "GD Batch (2)",
+        "picUrl": "https://si.geilicdn.com/wdseller1861372279-441a00000195876759550a8133cc_1074_1074.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 138,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1569960",
+        "mallType": "WD",
+        "itemId": "7487189155",
+        "title": "B30 A+ sneakers",
+        "picUrl": "https://si.geilicdn.com/pcitem1956906894-5f630000019744d796200a23038e-unadjust_500_500.gif",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629193693",
+          "name": "Only 1",
+          "logo": "https://si.geilicdn.com/shopedit1956906894-4ea80000019897bc1deb0a23111a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1013362",
+        "mallType": "WD",
+        "itemId": "7388600956",
+        "title": "CS Batch /P-6000",
+        "picUrl": "https://si.geilicdn.com/wdseller1861372279-4f66000001959ae334dd0a23047e_1290_1290.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 102,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "974349",
+        "mallType": "WD",
+        "itemId": "7397160680",
+        "title": "9060 Millennium Little Elephant Hoof Men's and Women's Thick Bottomed Height Increasing Pops Shoes Running Shoes cf13",
+        "picUrl": "https://si.geilicdn.com/open1406680872-1234478995-32bb000001951eebd1730a23b4de_800_800.jpg",
+        "price": "¥270.60",
+        "toPrice": "$42.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1406680872",
+          "name": "Crazyshop 3店",
+          "logo": "https://si.geilicdn.com/wdseller1406680872-786600000196a71fa8ee0a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1126159",
+        "mallType": "WD",
+        "itemId": "7405622435",
+        "title": "GD Batch",
+        "picUrl": "https://si.geilicdn.com/pcitem1861372279-71db00000195756c374a0a2303ee-unadjust_1200_1200.png",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 120,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1765394",
+        "mallType": "WD",
+        "itemId": "7504800454",
+        "title": "GD Batch F",
+        "picUrl": "https://si.geilicdn.com/pcitem1861372279-71db00000195756c374a0a2303ee-unadjust_1200_1200.png",
+        "price": "¥370.00",
+        "toPrice": "$58.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1765640",
+        "mallType": "WD",
+        "itemId": "7502847011",
+        "title": "M-M-Y B-l-a-k-e-y F",
+        "picUrl": "https://si.geilicdn.com/pcitem1861372279-2f4c000001954c5d6f740a210139-unadjust_1200_1200.png",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1137205",
+        "mallType": "WD",
+        "itemId": "7405638817",
+        "title": "GD Batch ",
+        "picUrl": "https://cdn.findqc.com/item/20250718/md8sm0zh_ne8v.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 143,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1239792",
+        "mallType": "WD",
+        "itemId": "7446319465",
+        "title": "Youth sports shoes (size 1)",
+        "picUrl": "https://cdn.findqc.com/item/20250919/mfqu6isx_41m5.jpg",
+        "price": "¥270.60",
+        "toPrice": "$42.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1753935705",
+          "name": "LC",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1911719",
+        "mallType": "WD",
+        "itemId": "7502930595",
+        "title": "GD Batch F",
+        "picUrl": "https://cdn.findqc.com/item/20250911/mff5ra7k_lsae.jpg",
+        "price": "¥370.00",
+        "toPrice": "$58.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 1,
+        "picWidth": "1074",
+        "picHeight": "1074"
+      },
+      {
+        "id": "1018443",
+        "mallType": "WD",
+        "itemId": "7428565352",
+        "title": "GD Batch B30（2）",
+        "picUrl": "https://cdn.findqc.com/item/20250726/mdj4gv2t_o6em.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746436473",
+          "name": "GotaShop",
+          "logo": "https://si.geilicdn.com/wdseller1861372279-3dbb00000199f361e0e90a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 229,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147289961917116132",
+  "language": "en"
+}

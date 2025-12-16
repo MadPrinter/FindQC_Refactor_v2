@@ -1,0 +1,557 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3202900",
+        "mallType": "T1688",
+        "itemId": "940018599159",
+        "title": "2025 Autumn and Winter Cross-Border Amazon Foreign Trade Vest Stand Collar Team 3D Printed Casual Fashion Easiest for Match Vest",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xVIt8F2MCKwfNKPpP_!!2218418299791-0-cib.jpg",
+        "price": "¥54.90",
+        "toPrice": "$8.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqYGxgZFs0y547bKj0WZ8bQ",
+          "name": "上饶市山凯服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3181299",
+        "mallType": "T1688",
+        "itemId": "836777207398",
+        "title": "2024秋冬纯色马甲棉服男女同款马甲背心外套加厚坎肩跨境外贸批发",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0134RMUa1uSXegh02iA_!!3413096036-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3413096036",
+          "name": "深圳市龙岗区韩尚衣馆服装批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2650364",
+        "mallType": "T1688",
+        "itemId": "887626937415",
+        "title": "A generation of hair brand down vest men's 2024 autumn and winter lovers thick warm vest men's vest",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dxWNhg1DCUKDn6LpR_!!2219329710180-0-cib.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBeF5Ri99poF56gRqqH810oA",
+          "name": "石狮市潘林沁旭网络百货店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2760288",
+        "mallType": "T1688",
+        "itemId": "830858789167",
+        "title": "stand collar couple vest short 2024 new autumn and winter warm padded cotton-padded jacket men's and women's cotton-padded jacket vest coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vYQ5vF1pQBWVSJfQL_!!2218483215354-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBx1W0331D7mkbrIJZckFPyg",
+          "name": "石狮市逸舟服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2607119",
+        "mallType": "T1688",
+        "itemId": "848922465938",
+        "title": "外贸潮牌字母印花马甲男式立领背心秋冬外套跨境欧码棉服无袖马甲",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QXIvad1d328AgfpmZ_!!2218796903679-0-cib.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218796903679",
+          "name": "上饶富运电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2372710",
+        "mallType": "TB",
+        "itemId": "961493171606",
+        "title": "25 Spring and Autumn New Trapstar Vest Embroidered Jacket Cotton Jacket European and American Niche Trendy Brand Zipper Stand up Collar Jacket for Men",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2329873831/O1CN01Gdyg9q1eAePOfeKh0_!!2329873831.jpg",
+        "price": "¥151.77",
+        "toPrice": "$23.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "453968425",
+          "name": "我要开911targa",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2397129",
+        "mallType": "T1688",
+        "itemId": "828969869965",
+        "title": "Down undershirt men's light undershirt warm stand-up collar versatile fall and winter new models do not run down shoulders leisure cross-border God models",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dD2K5l2DEK2fQb9PK_!!2209701778577-0-cib.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209701778577",
+          "name": "泉州易仕顿服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1477668",
+        "mallType": "T1688",
+        "itemId": "811587129226",
+        "title": "2024 Winter Putian Couple Vest Down Jacket Duck Down Warm Student Vest Independent Brand",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eCU5iG2KSFNQxIjYS_!!2214480219555-0-cib.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBxb7uDfwoaMH2IMYCXUzvGA",
+          "name": "荔城区黄石林俊福服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2142999",
+        "mallType": "T1688",
+        "itemId": "683302489732",
+        "title": "Cross-border men's fall and winter casual versatile cotton vest cross-border big yards standing collar sleeveless cotton clothing shoulders in Europe and the United States men's clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mnIJvV1kgbR7ygvlN_!!3235424713-0-cib.jpg",
+        "price": "¥64.00",
+        "toPrice": "$10.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3235424713",
+          "name": "石狮市豪腾服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "393303",
+        "mallType": "WD",
+        "itemId": "6769734859",
+        "title": "XC Batch N*F Vest w2crep.com",
+        "picUrl": "https://si.geilicdn.com/pcitem1805719512-4db80000018b7063fceb0a2301a5_1200_1200.jpg",
+        "price": "¥310.00",
+        "toPrice": "$48.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1725200113",
+          "name": "CN Fashion",
+          "logo": "https://si.geilicdn.com/pcdecorate901899444631-680100000192b902f9940a23041a-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2664012",
+        "mallType": "T1688",
+        "itemId": "839299755540",
+        "title": "Cross-border stand-up collar versatile casual warm down vest can be two open live pop models trend loose down jacket Can",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016WLjWY2AUP6vt56tU_!!2200723718206-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2200723718206",
+          "name": "石狮市喜漾服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2191131",
+        "mallType": "T1688",
+        "itemId": "666862606573",
+        "title": "Heating vest V-neck intelligent USB electric heating clothes warm electric heating undershirt middle-aged and elderly men and women with the same heating clothes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01qYVveN2HDBEkIsaSi_!!2212120719116-0-cib.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213015058945",
+          "name": "石狮市温空哲梧服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1958242",
+        "mallType": "TB",
+        "itemId": "663750556315",
+        "title": "NIKE Nike THERMA-FIT Men's Running Lightweight Reflective Stand Neck Warm Down Vest DD5696-010",
+        "picUrl": "https://cdn.findqc.com/item/20250804/mdvwbphj_a6m7.jpg",
+        "price": "¥549.00",
+        "toPrice": "$86.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117826084",
+          "name": "Youth Sports",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "178437",
+        "mallType": "TB",
+        "itemId": "658189731704",
+        "title": "2022 vest men's winter vest sleeveless camisole trendy down cotton warm stand up collar trendy autumn and winter vest jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42oos9d_aw4e.jpg",
+        "price": "¥298.00",
+        "toPrice": "$46.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "123300023",
+          "name": "奥莱服装联名店",
+          "type": "TB"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "56303",
+        "mallType": "TB",
+        "itemId": "691467701441",
+        "title": "Pink Elephant Dark RO Style New Long Zipper Hooded Down Jacket Vest Regular Wide Thick Coat",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3npipht_4u50.jpg",
+        "price": "¥930.00",
+        "toPrice": "$146.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "61168169",
+          "name": "粉红大象",
+          "type": "TB"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "23622",
+        "mallType": "T1688",
+        "itemId": "729445249921",
+        "title": "Vest Men's Autumn and Winter New Style Yu Rong Cotton Vest Men's Casual Sports Vest Thickeneded Warm Jacket Cross-Border Men's Clothing",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nhzs8d_f0z6.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBa7CT7GUukwyIBDb2gKlUbg",
+          "name": "石狮市潮派郎服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021146598982553929816",
+  "language": "en"
+}

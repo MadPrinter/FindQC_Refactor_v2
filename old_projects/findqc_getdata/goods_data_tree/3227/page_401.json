@@ -1,0 +1,362 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "977541",
+        "mallType": "TB",
+        "itemId": "875922545678",
+        "title": "Prism Niche Letter Design Street Fashion Brand Gender-Neutral Oversized Short-Sleeve T-Shirt Trend",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgow4r6j_zsl1.jpg",
+        "price": "¥112.89",
+        "toPrice": "$17.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "509005392",
+          "name": "棱镜",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2511455",
+        "mallType": "T1688",
+        "itemId": "919317139041",
+        "title": "Zarz Homemade European and American Style New Women's Clothing Classic Versatile Foreign Style Short-Sleeved Jacket 2142014",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghq190n_b737.jpg",
+        "price": "¥46.00",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqdiaL2UPYlYaoCiFxavdaQ",
+          "name": "昆山市帝铺纺织品商行",
+          "type": "T1688"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1353357",
+        "mallType": "WD",
+        "itemId": "7424607194",
+        "title": "[New Plan] Ro slim fit T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250527/mb5z5v1u_oetv.jpg",
+        "price": "¥116.00",
+        "toPrice": "$18.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1260160183",
+          "name": "铁臂阿童木",
+          "logo": "https://si.geilicdn.com/shopedit1260160183-519e0000018fd541e1af0a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 264,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "1256344",
+        "mallType": "WD",
+        "itemId": "7407870424",
+        "title": "(In stock) Ture independent/white small label short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250810/me4yibil_2k8y.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718752418",
+          "name": "Ture",
+          "logo": "https://si.geilicdn.com/wdseller1578892453-2c2d00000190172353e00a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2685860",
+        "mallType": "T1688",
+        "itemId": "898090954296",
+        "title": "Cross border dropshipping AMI CLAMS new striped short sleeved t-shirt with heart embroidery, versatile men's and women's half sleeved top",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgoumqps_pb81.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB3J6IQUY_QP8TDP4pbrE7Xw",
+          "name": "广州挚铂潮品服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2138322",
+        "mallType": "T1688",
+        "itemId": "889173023956",
+        "title": "European and American Trendy Brand Palace Triangle Print Men's and Women's Casual Pure Cotton Short-Sleeved T-Shirt Cross-Border 25 New t Loose",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgov2970_lms2.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDwbQPXm46TzsZxJf_yKOIg",
+          "name": "广州弘捷服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2645768",
+        "mallType": "T1688",
+        "itemId": "974829723063",
+        "title": "2025 Cross border Europe and America New Rainbow Full body Printed Hawaiian Beach Flower Shirt Retro Short sleeved Shorts Set",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgov29l0_bapu.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUzIB2WRgIzL44PXOCvtnNg",
+          "name": "佛山市禅城区左一诚服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2332538",
+        "mallType": "T1688",
+        "itemId": "817841793544",
+        "title": "REPRESENT ICON High Street Color Letter Slogan Trendy Brand American Couple Summer Loose Short-sleeved T-shirt for Men",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghmhckw_m2ht.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb8FkoU0hPgp7_jekWrAdjA",
+          "name": "深圳市奕程贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2590318",
+        "mallType": "T1688",
+        "itemId": "703902446129",
+        "title": "Foreign Trade Outdoor Peak Series Men's and Women's Popular Autumn Long-Sleeved T-Shirt Base",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghjpjgj_a4nl.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBv5CsqVOEK_a6szdGxy_VAw",
+          "name": "广州晶鑫供应链管理有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2578276",
+        "mallType": "TB",
+        "itemId": "983051024242",
+        "title": "Paradise Export Cartoon Casual Easiest for match Fashion Minimalist Bright Color Round Neck Fleece-lined Sweatshirt 80% Cotton Loose Fashion",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghixic5_fhjw.jpg",
+        "price": "¥26.09",
+        "toPrice": "$4.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "346665265",
+          "name": "小黄豆外贸女装批发",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2560524",
+        "mallType": "T1688",
+        "itemId": "942556998363",
+        "title": "High Version Rl Raff Classic Embroidered Round Neck Sweatshirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgg88gqj_mcxr.jpg",
+        "price": "¥98.80",
+        "toPrice": "$15.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmJHeSvzw5-EwvaoIPS4X9Q",
+          "name": "东莞市长安五悦服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2301633",
+        "mallType": "WD",
+        "itemId": "7230822556",
+        "title": "Poison packaging original tag, Burberry star style green logo short sleeved T-shirt for both men and women, a luxury brand in Burberry style, and also the most representative of British temperament. It was founded by Thomas Burberry in London, England in 1856 Burberry's products involve men",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgokt8hi_92zo.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769590748",
+          "name": "A8-潮牌爆款",
+          "logo": "https://si.geilicdn.com/weidian1552529679-31c600000178bb9664120a217205_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "62597",
+        "mallType": "T1688",
+        "itemId": "743425398436",
+        "title": "Versatile New short Boxy Fit style cotton T-shirt American fashion brand heavy drop-shoulder sleeve men's T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mj5cii_rq3d.jpg",
+        "price": "¥34.00",
+        "toPrice": "$5.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDPi5UT-rJqpJRldKSO7J6Q",
+          "name": "广州亿泰服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 133,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "246313",
+        "mallType": "WD",
+        "itemId": "7305831050",
+        "title": "【 STUS/Stu * * 】 99% of Link9 T short sleeved shirts on the market come with an airplane box and a high weight of 260 or more in ZP format",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p7wu3_7j7n.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850717273",
+          "name": "YOLO",
+          "logo": "https://si.geilicdn.com/wdseller1845163825-643f0000018e441273ff0a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 154,
+        "qcVideoCnt": 8,
+        "picWidth": "1180",
+        "picHeight": "1572"
+      },
+      {
+        "id": "1521324",
+        "mallType": "WD",
+        "itemId": "7492354917",
+        "title": "Autumn and Summer Collection M-XXXL",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghcpjkg_k25h.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802316382",
+          "name": "electronic product",
+          "logo": "https://si.geilicdn.com/wdseller1737612256-5d9b0000018e560a97340a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1615650",
+        "mallType": "T1688",
+        "itemId": "921915790552",
+        "title": "Wholesale Real Madrid Barcelona Paris Liverpool Arsenal Chelsea Portugal Short-Sleeved Football Training Suit",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghcpows_4ebt.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBtTyNU12jfmNYDndYuIBx8g",
+          "name": "广州市潮弘毅运动服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 386,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2578279",
+        "mallType": "TB",
+        "itemId": "981489908437",
+        "title": "Paradise style ~ textured gray cartoon letter Embroider Sweatshirt ladies round neck velvet Loose Plus size Tops",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mghcpm4x_jlms.jpg",
+        "price": "¥21.99",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70386588",
+          "name": "小美家外贸女装批发 原Anny",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1742273",
+        "mallType": "T1688",
+        "itemId": "787330980853",
+        "title": "Tommy short sleeved polo shirt men's solid color lapel T-shirt half sleeve pearl cotton genuine",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgoght1i_xh98.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB006MA8IYuTHs9E1gDlOZ4g",
+          "name": "广州刀锋服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2685397",
+        "mallType": "WD",
+        "itemId": "7563689536",
+        "title": "God Luxury Trend GODFAMILY | LP navy blue back classic logo embroidered short sleeved T-shirt (in stock for about a week) Quantity not many",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgofp3r1_dmzn.jpg",
+        "price": "¥278.00",
+        "toPrice": "$43.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146010152553891117",
+  "language": "en"
+}

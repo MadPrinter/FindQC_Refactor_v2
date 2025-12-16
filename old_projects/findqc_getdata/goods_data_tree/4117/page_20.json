@@ -1,0 +1,130 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "21664",
+        "mallType": "T1688",
+        "itemId": "818671724657",
+        "title": "Softshell Elitework Waterproof Windbreaker Reflective Jacket Hooded Jacket Men",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ng0uku_uv7q.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWDSvpdaGz0q0pcFuqfhUdg",
+          "name": "火焰(广州)服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 104,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "20527",
+        "mallType": "TB",
+        "itemId": "754339574093",
+        "title": "2023120822#Fish",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfqaey_geyd.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16443",
+        "mallType": "T1688",
+        "itemId": "724942355397",
+        "title": "New Bird Home unisex, LT outdoor sports waterproof and windproof three-layer laminated rubber ski jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nefwgq_ndri.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBj1sGr-ZhR3gu4x9snNVrtg",
+          "name": "三门傲游户外用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "12866",
+        "mallType": "WD",
+        "itemId": "7258789599",
+        "title": "Hard shell assault suit with adhesive function, windproof and waterproof, couple hooded mountaineering suit for men",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mccn81_2vev.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1642952505",
+          "name": "Fashion brand",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 174,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "12618",
+        "mallType": "TB",
+        "itemId": "670037884429",
+        "title": "New fall and winter men's padded cardigan zipper hooded Rally fleece jacket outdoor sports rushing jacket soft shell men's clothing",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mc7tqz_04uo.jpg",
+        "price": "¥280.00",
+        "toPrice": "$44.03",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "9101",
+        "mallType": "TB",
+        "itemId": "737052442423",
+        "title": "18fw red and white color combination jacket, trendy brand jacket, outdoor windproof and waterproof jacket, same as Sun Li's jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3maiwi9_sqs7.jpg",
+        "price": "¥309.00",
+        "toPrice": "$48.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "125399301",
+          "name": "和彦祖一样酷",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5756",
+        "mallType": "WD",
+        "itemId": "7259777620",
+        "title": "ARC outdoor hard shell assault suit TERYX",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m973fp_87zq.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1773830057",
+          "name": "Brand factory",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 412,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114520233249896761",
+  "language": "en"
+}

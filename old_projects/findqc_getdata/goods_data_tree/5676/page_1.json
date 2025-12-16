@@ -1,0 +1,390 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2910584",
+        "mallType": "TB",
+        "itemId": "991318344429",
+        "title": "Ideas Series Polaroid Camera Boys and Girls Building Block Toys New Product Display Model Children's Gift",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2275740526/O1CN01PMUieS1FkxQnhGSAJ_!!2275740526.jpg",
+        "price": "¥69.85",
+        "toPrice": "$10.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "587356920",
+          "name": "潮优积木品质店",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1125522",
+        "mallType": "TB",
+        "itemId": "869940859528",
+        "title": "L J R 1s low",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/725973449/O1CN015jF2No1bLh3V2fwzZ_!!725973449.jpg",
+        "price": "¥500.00",
+        "toPrice": "$78.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "67621250",
+          "name": "168shops",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1204141",
+        "mallType": "T1688",
+        "itemId": "844358884854",
+        "title": "HD Dual Camera Cute Digital Camera Polaroid Campus Students Can Take Pictures and Upload Mobile Camera",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000006687/O1CN01TT5DRZ1zGhUEKjhdf_!!6000000006687-0-tbvideo.jpg",
+        "price": "¥61.30",
+        "toPrice": "$9.64",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1559518",
+        "mallType": "T1688",
+        "itemId": "924615189798",
+        "title": "Dongguan Pure Raw Aluminum Magnesium Alloy Personal Series Crossbody Clutch Italian Calf Belt Men's and Women's Style",
+        "picUrl": "https://cdn.findqc.com/item/20250925/mfyv2lhr_99yy.jpg",
+        "price": "¥450.00",
+        "toPrice": "$70.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_2SndLG-nHygKdFES1xlRw",
+          "name": "东莞市长安金佰亦商贸商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1878343",
+        "mallType": "WD",
+        "itemId": "7511478183",
+        "title": "Self made CH horseshoe 3-color underwear, single independent packaging box, national standard A-level testing report, non refundable and non returnable close fitting items, no restocking after the last batch is sold out",
+        "picUrl": "https://cdn.findqc.com/item/20250822/mem2q5je_u4zo.jpg",
+        "price": "¥46.00",
+        "toPrice": "$7.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1767174920",
+          "name": "18制造",
+          "logo": "https://si.geilicdn.com/wdseller1453481397-2e1f00000195b35810310a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1018988",
+        "mallType": "TB",
+        "itemId": "885511515816",
+        "title": "Chinese Building Blocks 21345 Polaroid Sx-70 Retro Camera Instant Camera Assembly Toy Birthday Gift",
+        "picUrl": "https://cdn.findqc.com/item/20250521/may4lib2_l9nf.jpg",
+        "price": "¥81.45",
+        "toPrice": "$12.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "155240895",
+          "name": "晴文动漫玩具商贸",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32390",
+        "mallType": "TB",
+        "itemId": "731052315700",
+        "title": "[October Update] Tiancheng Yicai Polaroid Instagram Special Flash Card Recruitment Limited Edition Idol Dream Festival",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njtp10_d0br.jpg",
+        "price": "¥4.16",
+        "toPrice": "$0.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "218180307",
+          "name": "社恐恰谷人的回血铺",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021149448431911156586",
+  "language": "en"
+}

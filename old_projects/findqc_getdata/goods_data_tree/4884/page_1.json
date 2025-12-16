@@ -1,0 +1,371 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2905530",
+        "mallType": "TB",
+        "itemId": "787611856340",
+        "title": "Elevator accessories 3300/3600 motherboard 591812 591863 591864 594129 594153 in stock",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9i2hu_mg7u.jpg",
+        "price": "¥2,538.81",
+        "toPrice": "$399.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "290158555",
+          "name": "首创电梯配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900830",
+        "mallType": "TB",
+        "itemId": "731455081963",
+        "title": "Xunda Elevator Accessories 3300 3600 Motherboard ID.NR.594304 594175 594303 Real Stock",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk3qxtp_mpxb.jpg",
+        "price": "¥405.02",
+        "toPrice": "$63.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "379678202",
+          "name": "北上广梯配",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900178",
+        "mallType": "TB",
+        "itemId": "631248909934",
+        "title": "KM50025437H06 Tongli Elevator Car Top Plate LCECCBE KM50025436G31/G32/G01/G11",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk1unuj_g0or.jpg",
+        "price": "¥407.43",
+        "toPrice": "$64.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "223545187",
+          "name": "乐鸿电梯配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899825",
+        "mallType": "TB",
+        "itemId": "646463074178",
+        "title": "Otis elevator brake power board SPBC-II release gate GCA/GAA26800NB1/KB1/KX1 brand new",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk1131n_5u58.jpg",
+        "price": "¥394.05",
+        "toPrice": "$61.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "223545187",
+          "name": "乐鸿电梯配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899719",
+        "mallType": "TB",
+        "itemId": "679134082807",
+        "title": "Tongli Elevator Car Top Plate KM722080G11 Giant Communication Board LCECCBS Original 722083H03B Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk0s3gr_ycy8.jpg",
+        "price": "¥400.78",
+        "toPrice": "$63.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "322672335",
+          "name": "诚信电梯配件商贸",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "26646",
+        "mallType": "T1688",
+        "itemId": "657922662523",
+        "title": "MB-102 Breadboard with red and blue lines 830 holes Breadboard Lab Connection Board 165×55×10mm",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nihg6o_5e7c.jpg",
+        "price": "¥2.06",
+        "toPrice": "$0.32",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147358921916153846",
+  "language": "en"
+}

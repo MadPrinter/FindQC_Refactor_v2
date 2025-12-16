@@ -1,0 +1,360 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2017647",
+        "mallType": "WD",
+        "itemId": "7269570638",
+        "title": "******",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0vg3u2_isz9.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1889417",
+        "mallType": "T1688",
+        "itemId": "940968294133",
+        "title": "Factory direct FOG double line ESSENTIALS eight season 22 summer styles American high street trendy brand short sleeved shirts",
+        "picUrl": "https://cdn.findqc.com/item/20250802/mdtoc2hj_ozhh.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219915259585",
+          "name": "宁波源数商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2017329",
+        "mallType": "WD",
+        "itemId": "7513570772",
+        "title": "Luojia Embroidered Logo Classic Loose Cotton T-shirt Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0sc7ld_cicn.jpg",
+        "price": "¥175.00",
+        "toPrice": "$27.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864913249",
+          "name": "JTC Jack&#39;s treasure chest",
+          "logo": "https://si.geilicdn.com/pcdecorate1775697816-2d580000019002b5b42f0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1889725",
+        "mallType": "WD",
+        "itemId": "7467122703",
+        "title": "Loose cotton short sleeved men's and women's casual fashion versatile T-shirt - JS",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0rbzy7_nffb.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1673345293",
+          "name": "TOTO",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2016161",
+        "mallType": "T1688",
+        "itemId": "908078854321",
+        "title": "Correct version of donkey family letter jacquard knitted jacquard pure cotton round neck short sleeved unisex trendy brand L home high version T",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0qxunr_9eba.jpg",
+        "price": "¥95.80",
+        "toPrice": "$15.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219626373391",
+          "name": "广州嘉特林服饰商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2015885",
+        "mallType": "T1688",
+        "itemId": "826383133743",
+        "title": "Meichao Gallery Depot's new letter printed casual hip-hop high-quality men's and women's short sleeved T-shirt for summer",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0ok5jy_waaa.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214170225335",
+          "name": "铅山县世辉家贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1424356",
+        "mallType": "TB",
+        "itemId": "764807577736",
+        "title": "Small logo short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0mg1hz_vib2.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113677911",
+          "name": "Singor1",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1516770",
+        "mallType": "TB",
+        "itemId": "769994639588",
+        "title": "T-Shirts Men's and Women's Letter Printed Shirts Saint T-Shirts",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2208421809799/O1CN01ARcLBp2MFzzIs7UHe_!!2208421809799.jpg",
+        "price": "¥114.24",
+        "toPrice": "$17.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "581878486",
+          "name": "ChongChong Commerce",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1496791",
+        "mallType": "T1688",
+        "itemId": "808923170245",
+        "title": "Heavy cross-border European size pure cotton casual Harajuku HUGO printed logo, men's fitness round neck short sleeved TSHIRT",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0hfrnv_zjnp.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217680007727",
+          "name": "广州南衿服饰厂（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 124,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2014304",
+        "mallType": "T1688",
+        "itemId": "903380003707",
+        "title": "Cross border high-quality RL Ralph Pony embroidered basic round neck T-shirt for men and women, base cover, half sleeve tee",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0g8tma_bsh6.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217659207370",
+          "name": "上海璇灵服装厂(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1101382",
+        "mallType": "T1688",
+        "itemId": "871094213380",
+        "title": "Correct version 2024 new ACXD letter long sleeved T-shirt 1996 digital printed pure cotton long sleeved loose T-shirt for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250806/me04bqgg_gpzi.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219154251832",
+          "name": "义乌市红晰电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2010664",
+        "mallType": "T1688",
+        "itemId": "939836285362",
+        "title": "Paris High Version 2025 New B Home Lamborghini Mud Ball Uniform Front and Rear Printed Embroidered Multiple Splicing Short Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250806/me010hzr_pjqx.jpg",
+        "price": "¥102.00",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217119123919",
+          "name": "广州庆泽服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1268860",
+        "mallType": "T1688",
+        "itemId": "816275117555",
+        "title": "High quality American street hip-hop printed short sleeved T-shirt, men's trendy football jersey, American club jersey, polo shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250806/mdzzdf65_nx7g.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217847465664",
+          "name": "广州市集潮社服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2010356",
+        "mallType": "T1688",
+        "itemId": "806360115240",
+        "title": "Balmain Classic T-shirt High quality 220g thick sulfur cotton Balmain pure cotton printed short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250806/mdzyqdrs_kbdb.jpg",
+        "price": "¥32.00",
+        "toPrice": "$5.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217744517128",
+          "name": "铅山县虞华贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1872630",
+        "mallType": "WD",
+        "itemId": "6173694841",
+        "title": "G Home 2023 Spring/Summer New Short sleeved T-shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250801/mdstbyq6_l8l1.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1689883296",
+          "name": "Lily Show Brands衣柜",
+          "logo": "https://si.geilicdn.com/weidian1423745562-0b1600000178fac2176a0a217205_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3741",
+        "mallType": "WD",
+        "itemId": "7237056731",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3j3ex_m3ug.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 53,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1889296",
+        "mallType": "T1688",
+        "itemId": "815764428188",
+        "title": "High Version Chh Hearts Horseshoe Print Color Block Raglan Letter Print Long-Sleeved T-Shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250801/mdstiwn5_zwwi.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBO1gn0mnPUZiDs10QSIoPRQ",
+          "name": "广州奇发发服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2009925",
+        "mallType": "TB",
+        "itemId": "863446831262",
+        "title": "Nofaith High-Elastic Tencel Blend Fake Two-Piece Henry Collar Top Base Layer Basic Long-Sleeve T-Shirt Cleanfit",
+        "picUrl": "https://cdn.findqc.com/item/20250806/mdzwal9u_k97i.jpg",
+        "price": "¥153.74",
+        "toPrice": "$24.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "187956969",
+          "name": "NO PHONE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "611292",
+        "mallType": "WD",
+        "itemId": "7287777284",
+        "title": "Hot sale limited edition Brazilian jersey j",
+        "picUrl": "https://cdn.findqc.com/item/20250801/mdsrbvyt_7uco.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "312768324",
+          "name": "花椒C姐🍀",
+          "logo": "https://si.geilicdn.com/wdseller312768324-41fa0000018a0f12b4740a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 21,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147389212553872088",
+  "language": "en"
+}

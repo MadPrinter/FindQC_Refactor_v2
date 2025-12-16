@@ -1,0 +1,382 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2136123",
+        "mallType": "T1688",
+        "itemId": "922408893504",
+        "title": "European goods 2024 new hooded down jacket men's winter fashion splicing knitted sleeve cardigan outer Mongolia home short tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YTaG741bzzvQFdzU9_!!2218272363537-0-cib.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218571727642",
+          "name": "莆田市秀屿区泰利服装店(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2255029",
+        "mallType": "WD",
+        "itemId": "7435230166",
+        "title": "bmUF-1 2024 winter classic beauty warm cotton jacket men's and women's models couple (TOP quality)",
+        "picUrl": "https://si.geilicdn.com/open265180747-1234478995-651600000195d17312750a8133b0_1200_1200.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "265180747",
+          "name": "A SC（All Category）TOP",
+          "logo": "https://si.geilicdn.com/pcdecorate265180747-33440000019989337d520a207569-unadjust_416_416.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2455470",
+        "mallType": "WD",
+        "itemId": "7547397973",
+        "title": "LX06 High Quality Down Jacket Vest-M",
+        "picUrl": "https://si.geilicdn.com/open1772981891-1234478995-0f1d00000198c6fe9b550a23b491_1280_1280.jpg",
+        "price": "¥328.00",
+        "toPrice": "$51.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1782248565",
+          "name": "The best store",
+          "logo": "https://si.geilicdn.com/wdseller1911933909-7a8300000196f1aed3ec0a23038e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2236690",
+        "mallType": "WD",
+        "itemId": "7532031085",
+        "title": "G-downjaket cf39-2",
+        "picUrl": "https://si.geilicdn.com/pcitem1653375545-12ca00000191dbc7d9d00a20e2c5_800_800.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1844900820",
+          "name": "China Supplier",
+          "logo": "https://si.geilicdn.com/weidian1513127982-005000000191e5788ab50a8133cc_1156_1156.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2410348",
+        "mallType": "WD",
+        "itemId": "7540340233",
+        "title": "TC19-TOP quality down jacket NFC scans downjackets+86 185 6795 5052",
+        "picUrl": "https://si.geilicdn.com/open1752855133-1234478995-1edf000001987e3860cc0a23b4de_675_675.jpg",
+        "price": "¥318.00",
+        "toPrice": "$50.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1752855133",
+          "name": "SCP",
+          "logo": "https://si.geilicdn.com/shopedit1952693057-6d4c0000019803fd20f90a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2298021",
+        "mallType": "T1688",
+        "itemId": "858533209938",
+        "title": "Winter cross-border Mongolian letter embroidery thick hooded cotton clothing fashionable men's and women's couple's same style outerwear trendy brand long sleeves\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RVuCub1M5Sm3UCSlX_!!2217585661383-0-cib.jpg",
+        "price": "¥325.00",
+        "toPrice": "$51.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBHzzDveHkbJhdpfSyOERPxg",
+          "name": "佛山市南海区北嘉联名仓贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3186525",
+        "mallType": "TB",
+        "itemId": "845867575873",
+        "title": "Seamless down Jacket Men's Hooded Jacket 2025 Winter New Warm Casual Jacket Windproof and Waterproof 470077",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/4250332982/O1CN01XcSgAG1Xto4iEa9nj_!!4250332982.jpg",
+        "price": "¥370.72",
+        "toPrice": "$58.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "443244454",
+          "name": "莫尔法",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2064648",
+        "mallType": "WD",
+        "itemId": "7350295025",
+        "title": "29 high-end Canaan * Goo ^ down jackets with 90% white goose down",
+        "picUrl": "https://si.geilicdn.com/open1798450445-1234478995-77df0000019441a780cb0a232357_1080_1440.jpg",
+        "price": "¥668.00",
+        "toPrice": "$105.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1798450445",
+          "name": "Vivian",
+          "logo": "https://si.geilicdn.com/shopedit1920815372-0e1400000198e85781e00a230115-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2415240",
+        "mallType": "TB",
+        "itemId": "907044879635",
+        "title": "Super Goose 【7999M】 HE01",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2207957513378/O1CN01B4QPHu1apAxppOKWT_!!2207957513378.png",
+        "price": "¥1,000.00",
+        "toPrice": "$157.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "426400773",
+          "name": "SUPER GOOSE",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2116727",
+        "mallType": "T1688",
+        "itemId": "922774630178",
+        "title": "American street autumn and winter outdoor loose and warm solid color men's and women's down bread jacket couple jacket\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013ACsP21ZAaFNd6T39_!!2219473453154-0-cib.jpg",
+        "price": "¥362.00",
+        "toPrice": "$56.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOYXOPAL-mpkeI_FAZl8YlA",
+          "name": "义乌市入重电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3072701",
+        "mallType": "WD",
+        "itemId": "7606332764",
+        "title": "G2C.P冬季时尚棉服",
+        "picUrl": "https://si.geilicdn.com/pcitem1962858406-395100000199df306fe00a23037f_1320_1760.jpg",
+        "price": "¥300.00",
+        "toPrice": "$47.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1795932611",
+          "name": "The only choice",
+          "logo": "https://si.geilicdn.com/shopedit1980727595-3ad7000001991f5012b10a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3006326",
+        "mallType": "WD",
+        "itemId": "7596655433",
+        "title": "最新款M Maya羽绒服 1:1 Use 95% White Duck Down",
+        "picUrl": "https://si.geilicdn.com/wdseller901881569860-07fe0000019a5e0439cd0a2396f4_1080_1440.jpg",
+        "price": "¥680.00",
+        "toPrice": "$106.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1851935678",
+          "name": "Original-RY Store",
+          "logo": "https://si.geilicdn.com/wdseller901881569860-099b000001921eaa0a4d0a23037f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2925768",
+        "mallType": "T1688",
+        "itemId": "855178658598",
+        "title": "Ami Ami Prai White Duck Down Hooded Puff Down Jacket Men's and Women's Winter Loose Warm High Neck Love Coat\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011jJ5U61kNpQFm84FE_!!2218600254672-0-cib.jpg",
+        "price": "¥248.00",
+        "toPrice": "$39.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKRf8bvdwjOxBmLnEv0H6tQ",
+          "name": "海丰县城东镇森迪汇服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1979181",
+        "mallType": "T1688",
+        "itemId": "951138634273",
+        "title": "New Large Goose down Jacket Puff Jacket for Men and Women, Same Style for Couples, Parka Jacket 2252Mb",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jZbFGx2BkiuqyXPbZ_!!2220248118377-0-cib.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwFV7pNQbopfDqsai-UAbtQ",
+          "name": "项城市茶檬商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2237405",
+        "mallType": "T1688",
+        "itemId": "602529823414",
+        "title": "Canada winter new cotton jacket wholesale thickened fat plus size loose thick section warm trend hooded cotton",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/11968477542_40708497.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1838587727",
+          "name": "石狮市驴妈妈服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1676388",
+        "mallType": "T1688",
+        "itemId": "883336635383",
+        "title": "Cross-Border 3Q Fox Fur down Jacket 03 Model for Women, 02 Model for Men, Couple Style Coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016DVqWD1pZLUOMlUk7_!!2218859165374-0-cib.jpg",
+        "price": "¥525.00",
+        "toPrice": "$82.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9yYk4UFYEqgGArpv-uStbg",
+          "name": "广州潮轩旺服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3133285",
+        "mallType": "T1688",
+        "itemId": "979796763197",
+        "title": "跨境 RL拉夫男女情侣同款小马刺绣可拆卸连帽羽绒服拉链外套夹克",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kfFisO1Ms0pqGB7XL_!!2219668751489-0-cib.jpg",
+        "price": "¥355.00",
+        "toPrice": "$55.82",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBA2bGnmHAhs-D-3WG9rkLnA",
+          "name": "义乌市荀蕴电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "303494",
+        "mallType": "WD",
+        "itemId": "7276951062",
+        "title": "Cross border foreign trade STU hooded cotton jacket embroidered warm for men and women, thick casual versatile bread jacket (non quality issues, no reason for return)",
+        "picUrl": "https://cdn.findqc.com/item/20241205/m4a7pvvt_qubx.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684891361",
+          "name": "ThebigY store",
+          "logo": "https://si.geilicdn.com/wdseller1778358520-557d00000196f8821c200a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 229,
+        "qcVideoCnt": 7,
+        "picWidth": "1280",
+        "picHeight": "1280"
+      },
+      {
+        "id": "580272",
+        "mallType": "T1688",
+        "itemId": "831660797954",
+        "title": "1996 Basic Women's Cold-proof Warm Jacket 2024 Winter New Thickened Cotton-padded Coat Couple Embroidered Cotton-padded Clothes",
+        "picUrl": "https://cdn.findqc.com/item/20250810/me4kddcb_qory.jpg",
+        "price": "¥86.00",
+        "toPrice": "$13.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBn8LmhS6DdBHcu2Ba_UZGhQ",
+          "name": "佛山市南海区占有量服饰贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 141,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2745743",
+        "mallType": "T1688",
+        "itemId": "986337718485",
+        "title": "迪家正确版满印暗花羽绒棉服男女款立领潮牌加厚冬款防风保暖外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GB2BFH1IIy4T2PWI4_!!2220904750871-0-cib.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5Gqe0B5wIpydbsiBOiQtYA",
+          "name": "佛山市禅城区博雅跨境贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142494211914135945",
+  "language": "en"
+}

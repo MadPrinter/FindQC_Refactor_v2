@@ -1,0 +1,381 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1136995",
+        "mallType": "WD",
+        "itemId": "7443770484",
+        "title": "DX36] Couple's suit classic love cotton loose round neck shoulder hooded sweater casual drawstring pants",
+        "picUrl": "https://si.geilicdn.com/open1652813497-252808396-010f00000191f4f665e10a8115b5_800_800.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615844877",
+          "name": "MlodyGee",
+          "logo": "https://si.geilicdn.com/shopedit1919750623-2b520000019604df61e40a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1137222",
+        "mallType": "WD",
+        "itemId": "7322737843",
+        "title": "Classic Eight Colors] Original RL Basic Embroidered Logo Hooded Thin Fleece Sweatshirt for Men and Women",
+        "picUrl": "https://si.geilicdn.com/weidian1796390085-26ae00000193c6d805ec0a239646_1200_1200.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834631345",
+          "name": "潮时代",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1136478",
+        "mallType": "WD",
+        "itemId": "7328425086",
+        "title": "Fashion All-fit hoodie 122015-008 (XP2)",
+        "picUrl": "https://si.geilicdn.com/pcitem901897834057-1c6100000193e36b0c0a0a2396f4_1200_1200.jpg",
+        "price": "¥113.00",
+        "toPrice": "$17.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672750613",
+          "name": "WOWGOODBUY",
+          "logo": "https://si.geilicdn.com/pcdecorate1893313002-499d0000019275416ae70a231316-unadjust_550_550.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2261383",
+        "mallType": "WD",
+        "itemId": "7530701188",
+        "title": "Clothes-040",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxwlls2_nnpn.jpg",
+        "price": "¥236.50",
+        "toPrice": "$37.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1636413955",
+          "name": "Galactic Goods",
+          "logo": "https://si.geilicdn.com/pcdecorate1971314282-046700000198cbcd5cab0a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2493395",
+        "mallType": "WD",
+        "itemId": "7506743289",
+        "title": "Zuo Ai Luo Five Color Half Zipper Collar Long Sleeve Shorts Set 571235131",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxpx3vn_i97v.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1719523293",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2105296",
+        "mallType": "WD",
+        "itemId": "7488025701",
+        "title": "ESS -1977 Sport Package",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxphpn5_gnnz.jpg",
+        "price": "¥210.00",
+        "toPrice": "$33.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819330013",
+          "name": "New Ground",
+          "logo": "https://si.geilicdn.com/wdseller1956899833-699f00000199991082130a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "359800",
+        "mallType": "WD",
+        "itemId": "7285266869",
+        "title": "Little Blackheart Embroidered Autumn/Winter Long Sleeve Velvet Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241222/m4ywfnp0_8tze.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834819569",
+          "name": "Digital store",
+          "logo": "https://si.geilicdn.com/pcdecorate1807659364-17c200000190168472c60a23038e-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1062100",
+        "mallType": "TB",
+        "itemId": "878069591263",
+        "title": "Sup Fw24 Division Hooded Sweatshirt Pullover Sweatshirt Color Block Embroidered Hoodie Pants",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxluk5z_30ej.jpg",
+        "price": "¥236.50",
+        "toPrice": "$37.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "418058004",
+          "name": "Top One01",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2494276",
+        "mallType": "WD",
+        "itemId": "7269773255",
+        "title": "R11066-H72",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxfh5e6_2el2.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789189961",
+          "name": "ROCKET5",
+          "logo": "https://si.geilicdn.com/weidian1818349809-718e000001913c4299af0a20e2c5_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1596624",
+        "mallType": "T1688",
+        "itemId": "935576069058",
+        "title": "Spring and Autumn Long-Sleeved Sweatshirt, Long-Sleeved Men's Casual Solid Color Embroidered Pony Logo Zipper Cardigan Workwear",
+        "picUrl": "https://cdn.findqc.com/item/20250814/meatqpd4_dln2.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnw_TWLvh-e6O6M1tzFpAvw",
+          "name": "上饶市豪亿电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 412,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1239334",
+        "mallType": "TB",
+        "itemId": "891028174520",
+        "title": "Nike/Nike Official Authentic TCH FLC Men's Knitted Round Neck Sports and Leisure Sweatshirt FB7917-010",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfwxuca1_tkwr.jpg",
+        "price": "¥279.00",
+        "toPrice": "$43.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68097684",
+          "name": "麦巨鞋类专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2392294",
+        "mallType": "TB",
+        "itemId": "975516309970",
+        "title": "Hoodless Sweatshirt with Large Black Heart Print on the Back",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfwu4kex_75ne.jpg",
+        "price": "¥254.95",
+        "toPrice": "$40.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "432227518",
+          "name": "tb505083319的小店6",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 49,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2332536",
+        "mallType": "T1688",
+        "itemId": "965380238352",
+        "title": "正确版忧郁的富二代人像标语破洞拉链连帽卫衣高街潮牌宽松男帽衫",
+        "picUrl": "https://cdn.findqc.com/item/20250916/mfmbaar6_mcr6.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFLXTLarEO99ayt8NsXNGBQ",
+          "name": "镇平县婷水润玉商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1304911",
+        "mallType": "T1688",
+        "itemId": "899036013380",
+        "title": "CE FW25 new color print letter unisex texture hooded sweatshirt long sleeved versatile loose fit",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfwqwtci_ev25.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBg1Z9VwgW-J_gsEhGFx1mqg",
+          "name": "广州方知大难同知服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2215253",
+        "mallType": "TB",
+        "itemId": "969456469083",
+        "title": "25FW  Sweatshirt 5351",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfwqhdjw_el5m.jpg",
+        "price": "¥234.69",
+        "toPrice": "$36.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "257507014",
+          "name": "潮牌一号1968",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2396620",
+        "mallType": "T1688",
+        "itemId": "942414934117",
+        "title": "2023Ss Black Core Hooded Sweatshirt Silicone Printed Essentials Trendy Brand with Flap Pocket Pants Velvet",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfwawpw9_9n9g.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBatEQJwp6jf5C7YwLaMEYcA",
+          "name": "宁波市鄞州中河艺山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "39048",
+        "mallType": "WD",
+        "itemId": "7262129583",
+        "title": "Double line ES plush hooded sweatshirt, high street loose casual American couple pullover, men and women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmd4qj_7kki.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1741992953",
+          "name": "Fashion Buy",
+          "logo": "https://si.geilicdn.com/shopedit1866172847-7545000001917a8cec800a23041a-unadjust_380_380.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 86,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1033491",
+        "mallType": "TB",
+        "itemId": "900434795081",
+        "title": "Lmyer Number Nine 03Ss Shield Basic Casual Loose Sweatshirt Long Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250606/mbjnznnn_6ikg.jpg",
+        "price": "¥244.41",
+        "toPrice": "$38.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "355030600",
+          "name": "LMYER",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 70,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1547",
+        "mallType": "T1688",
+        "itemId": "574828764072",
+        "title": "Subhuman Men's | Autumn and Winter New Style Wizard Hat Men's and Women's Couple's Fleece Sweatshirt Jacket Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3n1tjw4_5vlz.jpg",
+        "price": "¥208.00",
+        "toPrice": "$32.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBdYna1WZ5cQfMXFU8SoeZ3w",
+          "name": "广州焯耀服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 148,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1167338",
+        "mallType": "T1688",
+        "itemId": "854587203694",
+        "title": "Pe Trendy Brand Single-Sided Printed Hooded Sweatshirt, New Autumn and Winter Hip-Hop Style, Unisex",
+        "picUrl": "https://cdn.findqc.com/item/20250907/mf8oz3m4_lfd7.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5b49pyQkyfirkx8TrYuzag",
+          "name": "铅山县非浅电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146513791930820323",
+  "language": "en"
+}

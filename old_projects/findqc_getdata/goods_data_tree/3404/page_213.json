@@ -1,0 +1,372 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2224913",
+        "mallType": "WD",
+        "itemId": "7340504927",
+        "title": "****** products",
+        "picUrl": "https://si.geilicdn.com/open1828016549-252808396-16f3000001941c3f7cf90aa08290_800_800.jpg",
+        "price": "¥143.00",
+        "toPrice": "$22.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828016549",
+          "name": "我的小铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-249600000193b88380020a231316-unadjust_234_234.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2223913",
+        "mallType": "T1688",
+        "itemId": "963977286585",
+        "title": "Street heavyweight hooded cardigan men and women loose peplum sweater fall jacket cross-border foreign trade American retro personality",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mr2cpY1b67eBU3phH_!!2219009873415-0-cib.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219009873415",
+          "name": "日照市东港区沧筱贸易商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2223907",
+        "mallType": "WD",
+        "itemId": "7528518395",
+        "title": "High Quality Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1976096830-45e100000198c25db85b0a23041a_1920_1920.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1819427907",
+          "name": "有个店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1125542",
+        "mallType": "T1688",
+        "itemId": "820935040045",
+        "title": "Unisex hooded red love hoodie jacket hooded cross-border TikTok exclusive Japanese trendy brand top",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000007491/O1CN01WGSKUf25CvwSOfRXT_!!6000000007491-0-tbvideo.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 164,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "941852",
+        "mallType": "T1688",
+        "itemId": "851671335943",
+        "title": "OFF Cotton Terry 400g Heavyweight Angel Caravaggio Slash Stripe Arrow Print Hooded OW Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015IRoVy27OV9j9wQgI_!!2218103397787-0-cib.jpg",
+        "price": "¥97.90",
+        "toPrice": "$15.39",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "941496",
+        "mallType": "T1688",
+        "itemId": "859457670662",
+        "title": "2025 Men's Autumn and Winter Hook Sports Training Casual New N Hooded K Zipper Loose Jacket Coat HV0950",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01z7EomE1vfecdxRrPt_!!2218981116200-0-cib.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBleMqVB_2bHxBA-RAV6NuHg",
+          "name": "义乌市清唷服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 57,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "941377",
+        "mallType": "WD",
+        "itemId": "7368418429",
+        "title": "Horseshoe Cardigan Zipper Hoodie - Correct Version",
+        "picUrl": "https://si.geilicdn.com/pcitem1921983365-622b000001946af8b2d10a20e7c7_800_800.jpg",
+        "price": "¥229.00",
+        "toPrice": "$36.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1678194829",
+          "name": "ALIENS",
+          "logo": "https://si.geilicdn.com/shopedit1921983365-5499000001946055ff850a239646-unadjust_318_318.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "941286",
+        "mallType": "T1688",
+        "itemId": "874591149402",
+        "title": "FU ST Hooded Sweatshirt 2 FIONA",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01g7qAaj1k5VbUJX9Ef_!!2218987364632-0-cib.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBimfGDu1Tl9QS_kTSVUFqyQ",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "756267",
+        "mallType": "WD",
+        "itemId": "7239155184",
+        "title": "kro round neck long sleeve ensemble",
+        "picUrl": "https://si.geilicdn.com/pcitem1852028364-44e400000191f24b4c920a230115-unadjust_800_800.png",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858297913",
+          "name": "CZH顶级潮品",
+          "logo": "https://si.geilicdn.com/shopedit1852028364-378e0000018ee78d60630a2396f4-unadjust_600_597.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "392392",
+        "mallType": "TB",
+        "itemId": "845707018109",
+        "title": "Model 2024 Alcatraz Corteiz Basic Print Standing Collar Athletic Casual Zipper Jacket Sweatshirt Long Pants Tide",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3451721578/O1CN01Eztvpf1NWlzfu9Drf_!!3451721578.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "520847650",
+          "name": "超特价经营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "392336",
+        "mallType": "WD",
+        "itemId": "7267167138",
+        "title": "Youth version of the activity sweater (non-quality issues do not support the return of goods)",
+        "picUrl": "https://si.geilicdn.com/pcitem1873385315-432000000191ac9ce6260a23057e_1280_1920.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1729503109",
+          "name": "Top Barry",
+          "logo": "https://si.geilicdn.com/shopedit1873385315-2d19000001929ac0b45c0a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "392335",
+        "mallType": "WD",
+        "itemId": "7269204722",
+        "title": "Youth version of the activities of long-sleeved (non-quality issues do not support the return of goods) 2",
+        "picUrl": "https://si.geilicdn.com/pcitem1873385315-036700000191bbc5a1810a21146b_1280_1280.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1729503109",
+          "name": "Top Barry",
+          "logo": "https://si.geilicdn.com/shopedit1873385315-2d19000001929ac0b45c0a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 75,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "391398",
+        "mallType": "WD",
+        "itemId": "5362949739",
+        "title": "(In Stock) Autonomous BAL21fw Dark Green Wormhole Hoodie Explosive Destruction Letter Hoodie Sweatshirt Sweatshirt Big Explosive In Stock Seconds Do It Yourself",
+        "picUrl": "https://si.geilicdn.com/wdseller1350023534-5b0b00000182b200e1f60a2313a2_828_828.jpg",
+        "price": "¥392.00",
+        "toPrice": "$61.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1350023534",
+          "name": "需要钱不是朋友club",
+          "logo": "https://si.geilicdn.com/wdseller1350023534-5e2b00000174c4b0d04c0a217216_959_959.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "119274",
+        "mallType": "WD",
+        "itemId": "7259670807",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mo91ri_nmen.jpg",
+        "price": "¥213.00",
+        "toPrice": "$33.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "391376",
+        "mallType": "WD",
+        "itemId": "6543327527",
+        "title": "AI hoodie with white stitching and external cursive 9048",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-65ac00000189eb87cda50a23034c_502_502.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "391326",
+        "mallType": "T1688",
+        "itemId": "738674041476",
+        "title": "Corteiz Trendy Street Loose Hoodie Set for Men, American Trendy Brand Hip Hop Skateboarding, Casual Couple Set, Autumn",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GJgjS21gxJWNIr72X_!!2214182664208-0-cib.jpg",
+        "price": "¥24.00",
+        "toPrice": "$3.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBh8ZgmRPKr8I6T-cLjS0UaA",
+          "name": "广州旺升服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "391301",
+        "mallType": "WD",
+        "itemId": "7239887030",
+        "title": "**********************",
+        "picUrl": "https://si.geilicdn.com/open1787182201-252808396-57a90000018f859f6f620a210298_800_800.jpg",
+        "price": "¥114.60",
+        "toPrice": "$18.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787182201",
+          "name": "至独嘉",
+          "logo": "https://si.geilicdn.com/shopedit1794237888-43e6000001963942522a0a210256-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "391279",
+        "mallType": "T1688",
+        "itemId": "840233157053",
+        "title": "Guangzhou wholesale Trapstar gradient letter camouflage towel embroidery fleece-lined hooded sweater pants casual suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DXyd3R1y3aXHGchfy_!!4058886523-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZufugKlWaWG1emrGLnq5EA",
+          "name": "深圳市龙华区原创十三行潮牌服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 162,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "820356",
+        "mallType": "TB",
+        "itemId": "886757131504",
+        "title": "Men's Autumn and Winter Classic Hooded Pullover Long-Sleeved Knitted Fleece Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250228/m7njr0ih_q2z2.jpg",
+        "price": "¥132.31",
+        "toPrice": "$20.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "115207252",
+          "name": "云端shop",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 128,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "253632",
+        "mallType": "WD",
+        "itemId": "7310168400",
+        "title": "Double sided fabric zipper hooded top",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42pcvs8_nmqp.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1831762514",
+          "name": "NEWDP",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 521,
+        "qcVideoCnt": 7
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144172912553883210",
+  "language": "en"
+}

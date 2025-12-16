@@ -1,0 +1,343 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2725606",
+        "mallType": "WD",
+        "itemId": "7445557994",
+        "title": "BU1027 Reversable Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh5wx6us_gl19.jpg",
+        "price": "¥498.00",
+        "toPrice": "$78.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1170567099",
+          "name": "HypeStore",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2837470",
+        "mallType": "TB",
+        "itemId": "577216449862",
+        "title": "Men's autumn and winter jacket with thick velvet and warm oversized cotton coat, loose and casual Paul jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhcsheqc_45x3.jpg",
+        "price": "¥181.95",
+        "toPrice": "$28.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "140496947",
+          "name": "精品男服装店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2503818",
+        "mallType": "TB",
+        "itemId": "964565981014",
+        "title": "Mowalola My City 25ss hand-painted graffiti hooded jacket Bomber American street jacket cotton jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhcmrjby_nd0a.jpg",
+        "price": "¥677.29",
+        "toPrice": "$106.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103815475",
+          "name": "DD来都来了",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "853795",
+        "mallType": "T1688",
+        "itemId": "725165802656",
+        "title": "European and American high street ins same fashion men's and women's coat deerskin velvet thickened zipper large pocket jacket jacket jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhcdq4vr_zvlz.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_uHVrL3F0z3VWWkqf8LIbA",
+          "name": "广州嫣烨超贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 204,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2831511",
+        "mallType": "TB",
+        "itemId": "852750131046",
+        "title": "Evil Gazer Destroys Dirtyfit Akira Retro Workwear Jacket Cotton Coat",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhccvaeh_snab.jpg",
+        "price": "¥601.31",
+        "toPrice": "$94.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70654628",
+          "name": "EVIL GAZER",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2794773",
+        "mallType": "WD",
+        "itemId": "7583247244",
+        "title": "【 Four Happiness Comes with a Piece 】 Independent P Style Independent Black Corduroy Shirt Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251030/mhc9kxfn_hksj.jpg",
+        "price": "¥438.00",
+        "toPrice": "$68.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1822186869",
+          "name": "四喜来一件",
+          "logo": "https://si.geilicdn.com/wdseller1970724894-4be000000197f55146a80a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2096106",
+        "mallType": "T1688",
+        "itemId": "680191332719",
+        "title": "2022 cross-border jacket tide MA1 aviator jacket men's air force baseball uniform tide brand large size workwear jacket man",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015qhw5q2JTKVG7eucW_!!2209990799422-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209990799422",
+          "name": "石狮市达姿服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2096048",
+        "mallType": "TB",
+        "itemId": "734362424326",
+        "title": "High Street vibe American design sense of holes custom biker denim jacket armor men and women couple models trend jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3897365811/O1CN01IugrLR1snUPFY0Anj_!!3897365811.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "198554528",
+          "name": "Fashion日系原创工作室",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2097622",
+        "mallType": "T1688",
+        "itemId": "576494256526",
+        "title": "Factory supply spot 600g fleece zipper cardigan high grade 8995 sweater baseball jersey DIY custom logo",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/2018/838/009/9315900838_943889361.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "990103193",
+          "name": "深圳市鸿运梦恬制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2109253",
+        "mallType": "WD",
+        "itemId": "7323017775",
+        "title": "Double sided checkered jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250927/mg2fyqor_l76i.jpg",
+        "price": "¥295.00",
+        "toPrice": "$46.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848972357",
+          "name": "Adam",
+          "logo": "https://si.geilicdn.com/shopedit1874119249-0bc5000001909e05d0d80a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2098393",
+        "mallType": "T1688",
+        "itemId": "654264555712",
+        "title": "Autumn men's and women's color blocking collar zipper cardigan students three bar sports jacket casual running can be printed LOGO",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QkXx2o2DHWsO7UKvw_!!2211910438584-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211910438584",
+          "name": "泉州市广依殿服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2707953",
+        "mallType": "WD",
+        "itemId": "7547451605",
+        "title": "High quality C.P. Company DuPont cotton warm and moisturizing function outdoor sports jacket jacket jacket top",
+        "picUrl": "https://cdn.findqc.com/item/20251029/mhc51o3h_vmfq.jpg",
+        "price": "¥488.00",
+        "toPrice": "$76.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "334912006",
+          "name": "虎头K",
+          "logo": "https://si.geilicdn.com/weidian334912006-1c2300000199464561290a231177_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2543399",
+        "mallType": "WD",
+        "itemId": "7561853041",
+        "title": "nine thousand nine hundred and twenty-six",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh479ki1_yz3o.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2826687",
+        "mallType": "TB",
+        "itemId": "981288777426",
+        "title": "【 In stock 】 Big Bear Vujade011 washed black hooded zipper sweatshirt jacket 500g thick cotton",
+        "picUrl": "https://cdn.findqc.com/item/20251029/mhb10ztp_ttis.jpg",
+        "price": "¥283.26",
+        "toPrice": "$44.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "191137643",
+          "name": "比格小熊",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2071285",
+        "mallType": "T1688",
+        "itemId": "897087896665",
+        "title": "Correct version of the spot P home 24 summer and fall new casual versatile light mature badge even men and women with the same jacket jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IIUmFT22ncqnaMBux_!!2219499687165-0-cib.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219499687165",
+          "name": "广州静幽篁贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2081983",
+        "mallType": "T1688",
+        "itemId": "641602845754",
+        "title": "新款防晒服男夏季薄款外套钓鱼皮肤风衣男士透气防晒衣男夹克风衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN016sDfNd2CBHsV709Z2_!!947278435-0-cib.jpg",
+        "price": "¥13.89",
+        "toPrice": "$2.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "947278435",
+          "name": "义乌市瑞雅服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2590810",
+        "mallType": "WD",
+        "itemId": "7520560981",
+        "title": "High quality set -004",
+        "picUrl": "https://cdn.findqc.com/item/20251023/mh2ugtll_l31j.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791174851",
+          "name": "Epoch",
+          "logo": "https://si.geilicdn.com/pcdecorate1979484613-2e6f000001987d3e5c410a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2703813",
+        "mallType": "WD",
+        "itemId": "7409320348",
+        "title": "seven thousand seven hundred and seventy-five",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1rnw8f_s1sx.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147081501913206133",
+  "language": "en"
+}

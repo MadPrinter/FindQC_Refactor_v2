@@ -1,0 +1,367 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2081190",
+        "mallType": "WD",
+        "itemId": "7523004320",
+        "title": "Fashion trend versatile hoodie 003-MLMLSPHO0202",
+        "picUrl": "https://si.geilicdn.com/open1326912390-1234478995-24420000019883a884c10aa043f9_1512_2016.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1326912390",
+          "name": "Kung-Fu",
+          "logo": "https://si.geilicdn.com/shopedit1326912390-465c000001922657a18d0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1863146",
+        "mallType": "T1688",
+        "itemId": "901863772975",
+        "title": "Autumn and Winter fleece-lined Paul Pony Embroidered Solid Color Sweater Men's Casual Pure Cotton Hooded Zipper Cardigan Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011owPzl1hs6ndFYU2C_!!2218998234332-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBz8_4oyiPHxI8AJc0EiFoNA",
+          "name": "广州谊安服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 500,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1516486",
+        "mallType": "T1688",
+        "itemId": "927981894718",
+        "title": "25FW European and American High Street 555555 Retro Camouflage Foam Letter Hooded Sweatshirt Men's and Women's Casual Pants Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ShB1tt1UCLhwVwVXM_!!2920992481-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2920992481",
+          "name": "深圳市鑫泰都国际贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2967748",
+        "mallType": "T1688",
+        "itemId": "879636522947",
+        "title": "Cross-border High Edition Cake Velvet Thickened Sp5der 55555 Foam Printed Sweater Young Thug Hoodie suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SgK16w1IKnaVfr0UE_!!2217829370875-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvcbk-xWdGnQ8lzWz1D84kg",
+          "name": "揭阳市揭东区新亨镇钊盈服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2957871",
+        "mallType": "WD",
+        "itemId": "7556676250",
+        "title": "CN-D迪卫衣",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-66da00000192ff5e05a20a23111a_1200_1200.jpg",
+        "price": "¥118.80",
+        "toPrice": "$18.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758483941",
+          "name": "China Factory",
+          "logo": "https://si.geilicdn.com/shopedit1891270431-443400000191ee0d878e0a8133cc-unadjust_521_521.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2229026",
+        "mallType": "TB",
+        "itemId": "682546609145",
+        "title": "High-End Essentials Letter Print Hoodie for Men, High Street Double-Line Crewneck Pullover Sweatshirt for Women, Loose Fit",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2209302536124/O1CN01PXSd6M1v6qHif5Rrc_!!2209302536124.jpg",
+        "price": "¥101.52",
+        "toPrice": "$15.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "250769085",
+          "name": "我需要十个亿01的小店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2057766",
+        "mallType": "T1688",
+        "itemId": "962633124371",
+        "title": "Spot 2025AJ sweater hooded padded jacket solid color men and women autumn and winter island tide terry loose casual",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PCxmCm1TM8ZFF9H06_!!2219485482367-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219485482367",
+          "name": "广州蛇起服装商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2041172",
+        "mallType": "T1688",
+        "itemId": "946650849449",
+        "title": "Thin Long-Sleeve Sweatshirt with Pony Logo, Pure Cotton, Round Neck, Ol Style, American Casual Solid Color Sweatshirt, Unisex, Autumn P",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01EDs7nI1EdnbzDbFgz_!!2219897480375-0-cib.jpg",
+        "price": "¥39.80",
+        "toPrice": "$6.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGiXrm7B5TmGXBJxk6OnU4g",
+          "name": "铅山县曼莎电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 172,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2027395",
+        "mallType": "WD",
+        "itemId": "7493529411",
+        "title": "fess Sweatshirt Men's and Women's Couple Letter Hooded Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1860981885-1234478995-0e4500000197877920d70aa0c79f_800_800.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1860981885",
+          "name": "KEEP SMIL",
+          "logo": "https://si.geilicdn.com/shopedit1964837230-01ac000001979175859d0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1879921",
+        "mallType": "TB",
+        "itemId": "925715336459",
+        "title": "Mowalola My City Zipper Jacket MA-1 Bomber YVL Playboicarti Sweet Tea Same",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/909482473/O1CN01Z2GhHJ1U8gWjoe2YE_!!909482473.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113353484",
+          "name": "YVL",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1872268",
+        "mallType": "T1688",
+        "itemId": "835361893482",
+        "title": "Factory stock foreign trade original 450G pastry fleece thickened heavyweight Spider hoodie trend sweater hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LpB7sg28xb7X9EdeI_!!2218616507999-0-cib.jpg",
+        "price": "¥116.90",
+        "toPrice": "$18.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218616507999",
+          "name": "广州腾球信息科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1876713",
+        "mallType": "T1688",
+        "itemId": "887256924636",
+        "title": "Factory double line Esse wholesale new chest LOGO hooded sweater FOGntials",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ESfUq11r8tqsv6EzD_!!2216588385587-0-cib.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGU_8EM53xVGZZsm3uz3wUQ",
+          "name": "揭阳市揭东区新亨镇纤沫服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 332,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1679684",
+        "mallType": "T1688",
+        "itemId": "857791501917",
+        "title": "Cross border FOG ESSENTIALS three-dimensional silicone letter flocking printed American hoodie and pants casual suit for men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SupKbO1ui76nM5Axx_!!2212370596070-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4Dj4ziZTh03Ks2eoHFRgpQ",
+          "name": "跨境一路发发工厂店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 440,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1665179",
+        "mallType": "WD",
+        "itemId": "7489437574",
+        "title": "Embroidered suit Hooded Sweatshirt Foot-up Sports Casual Long Guard Pant",
+        "picUrl": "https://si.geilicdn.com/wdseller312768324-5d0800000190b603c4790a23959c_800_800.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801320989",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1522942",
+        "mallType": "T1688",
+        "itemId": "862116246620",
+        "title": "Cross-border men's CP solid color cardigan jacket hooded Korean version of the casual youth thickened casual sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01EPwBKo1yeEFfzHsmm_!!2219022156603-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "253696",
+        "mallType": "TB",
+        "itemId": "632257002994",
+        "title": "Hologram 3m Reflective Black Hoodie Reflective Drapey Black Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42pcx1c_nzjx.jpg",
+        "price": "¥49.55",
+        "toPrice": "$7.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113111492",
+          "name": "UnionKingdom",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1499325",
+        "mallType": "T1688",
+        "itemId": "802361325686",
+        "title": "Europe and the United States station high-quality British style hooded men's sweater B spring and fall men's jackets cardigan zipper L spot can be customized LOGO",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pW1rWh1j0di7NSexP_!!2211914024486-0-cib.jpg",
+        "price": "¥290.00",
+        "toPrice": "$45.60",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 120,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1320409",
+        "mallType": "T1688",
+        "itemId": "912437303820",
+        "title": "STD Stone Autumn and Winter Half Zipper Functional Classic High Street Style Fashion Simple All-match Pullover Casual Sweatshirt Couple",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01g9DvAm2JWzwwHNYTX_!!2219421459430-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBc5uN9xVssAb7iCq28dwCRg",
+          "name": "广州清楠服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "978700",
+        "mallType": "WD",
+        "itemId": "7257845336",
+        "title": "Hipster jacket",
+        "picUrl": "https://si.geilicdn.com/pcitem901881361442-01c80000019597b43f730a2303ee-unadjust_1200_1200.png",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1761500601",
+          "name": "sam shopping",
+          "logo": "https://si.geilicdn.com/pcdecorate901881361375-4cd8000001914b4304730a210256-unadjust_590_590.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 58,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1204212",
+        "mallType": "T1688",
+        "itemId": "890070057812",
+        "title": "Autumn and Winter Long Hoodie Sweatshirt Club Training Wear Five Major Leagues Boca Jacket Football Uniform Casual Suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01e7rpq61SdFlPytQfK_!!2217708822269-0-cib.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5V2FislgW-8pqen7NJPwpg",
+          "name": "广州伊顺凡体育服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 106,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143468022553887119",
+  "language": "en"
+}

@@ -1,0 +1,432 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "997042",
+        "mallType": "T1688",
+        "itemId": "747029921440",
+        "title": "European and American New One-piece Sunglasses Men's High-end Sense 2024 Internet Celebrant Outdoor Riding UV-resistant Sunglasses Women",
+        "picUrl": "https://cdn.findqc.com/item/20250705/mcq0tdve_tylk.jpg",
+        "price": "¥7.50",
+        "toPrice": "$1.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBj7WMkcX09sgKON-zDVFJsg",
+          "name": "临海市盈领眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 87,
+        "qcVideoCnt": 9,
+        "picWidth": "1920",
+        "picHeight": "1920"
+      },
+      {
+        "id": "42626",
+        "mallType": "T1688",
+        "itemId": "594153947125",
+        "title": "New Personalized Head Sunglasses 4361 European and American Asymmetrical Small Frame Sunglasses Cross-Border Fashionable Men's and Women's Sun Visors",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdp41r_8w5r.jpg",
+        "price": "¥11.00",
+        "toPrice": "$1.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWnh5Wb6_ZyDRnQioFeqzBQ",
+          "name": "临海市奥维斯眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 234,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "2687856",
+        "mallType": "T1688",
+        "itemId": "832625841676",
+        "title": "Square shaped new UV resistant sunglasses for men with a high-end feel for driving, cross-border European and American personalized style universal sunglasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01u1j31W2BzNVOqqVGP_!!2214107118409-0-cib.jpg",
+        "price": "¥13.50",
+        "toPrice": "$2.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBj7WMkcX09sgKON-zDVFJsg",
+          "name": "临海市盈领眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1653250",
+        "mallType": "T1688",
+        "itemId": "938044224848",
+        "title": "2025 new sunscreen nylon polarized sunglasses retro outdoor fashion trend cycling sports glasses 9431",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FJPTiC29w3TRQ4uC2_!!2201250628131-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2201250628131",
+          "name": "台州市椒江明辉眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2645652",
+        "mallType": "T1688",
+        "itemId": "851405708369",
+        "title": "New Fashion Cycling Sunglasses, Men's Outdoor Sports Polarized Glasses, Windproof Sunglasses",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgnkvelf_1ip8.jpg",
+        "price": "¥11.00",
+        "toPrice": "$1.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBYAIwuuT-FgDEPHJFsB-icg",
+          "name": "台州市雷蛇眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2121290",
+        "mallType": "T1688",
+        "itemId": "829453048828",
+        "title": "New European and American oval frame fashionable sports sunglasses for women with a high-end feel for travel, sun protection, light luxury, personalized sunglasses wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250817/mef0a4rt_tp9e.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217478465650",
+          "name": "临海市圣辰眼镜厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "62402",
+        "mallType": "TB",
+        "itemId": "786869206001",
+        "title": "404's Shop Special-Shaped Large Frame Technology Sense Fashionable Concave Shape ins Same Style Sunglasses Anti-Uv Sunglasses Cool",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mj1iyl_x7wh.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107912127",
+          "name": "404的店",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15690",
+        "mallType": "T1688",
+        "itemId": "836618006893",
+        "title": "New European and American oval frame fashionable sports sunglasses for women with a high-end feel for travel, sun protection, light luxury, personalized sunglasses batch",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ndznl0_7lbz.jpg",
+        "price": "¥14.00",
+        "toPrice": "$2.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217787560673",
+          "name": "台州市迷视眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3160",
+        "mallType": "TB",
+        "itemId": "632862619279",
+        "title": "Shang Meng Squirtle Corps Sunglasses Funny Cosplay Glasses Tengen Uzui Cosplay Prank Toy Anime Two-Dimensional",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m38iso_9vjn.jpg",
+        "price": "¥25.70",
+        "toPrice": "$4.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107954616",
+          "name": "shamoe尚萌旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114450942194345440",
+  "language": "en"
+}

@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2698221",
+        "mallType": "WD",
+        "itemId": "7573286656",
+        "title": "Nano BB hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251028/mha7takd_v52d.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1258568610",
+          "name": "Satan Made",
+          "logo": "https://si.geilicdn.com/wdseller1258568610-48150000018e4727cc280a8133ca_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2703367",
+        "mallType": "TB",
+        "itemId": "739760720141",
+        "title": "European and American Trendy Brand Rottweiler Dog Head Deer Shark Direct Print Unisex Sweatshirt Couple Outfit Plus Size Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh8vsmij_dt8e.jpg",
+        "price": "¥162.46",
+        "toPrice": "$25.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "100488945",
+          "name": "左岸潮牌基地",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2868400",
+        "mallType": "T1688",
+        "itemId": "949014606880",
+        "title": "24FW Jordan collaboration Jordan Hoodie embroidered Flyman letters with fleece hoodie set",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhh7rbtu_8l1e.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIkxX_NT6HnxQ1mfUGgFfeQ",
+          "name": "义乌市植音电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2718297",
+        "mallType": "WD",
+        "itemId": "7575073461",
+        "title": "Embroidered sweatshirt SB33",
+        "picUrl": "https://cdn.findqc.com/item/20251023/mh30oix9_7udz.jpg",
+        "price": "¥378.00",
+        "toPrice": "$59.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1765554595",
+          "name": "Singor2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "319486",
+        "mallType": "TB",
+        "itemId": "823340492940",
+        "title": "Four-Color European and American Fashion Slim-Fit Sweatshirt and Sweatpants Set",
+        "picUrl": "https://cdn.findqc.com/item/20241210/m4hd275c_ener.jpg",
+        "price": "¥196.74",
+        "toPrice": "$30.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "516106390",
+          "name": "Pika Bro",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 121,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1845",
+        "mallType": "T1688",
+        "itemId": "791618110815",
+        "title": "Spring and Autumn 24 New Leisure Sports Air Layer Hooded Jacket Coat and Sweatpants suit 454 and 461",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2lnp7_5sgc.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhEowgm-hBx2dd2zzbjUR1Q",
+          "name": "莆田市秀屿区衣团和气服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 455,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2828396",
+        "mallType": "T1688",
+        "itemId": "942214122974",
+        "title": "European and American fashion brand hoodie, unisex, versatile, classic spider web print, casual and loose spring and autumn hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhh3nrpu_m6bu.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBARKWrgm_pG7beBtwajqj6g",
+          "name": "广州市白云区三元里街小沐服饰店",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "378379",
+        "mallType": "TB",
+        "itemId": "817196891659",
+        "title": "Undercover Takahashi Shield 05SS'But Beautiful 'Vampire Girl Splicing Hoodie Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhh1mh3x_954o.jpg",
+        "price": "¥295.89",
+        "toPrice": "$46.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "450728876",
+          "name": "Roniny",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1317298",
+        "mallType": "T1688",
+        "itemId": "821847722064",
+        "title": "Foreign Trade GALLERY DEPD Classic Letter Splash Ink Graffiti Print Loose Couple Hooded Sweatshirt Hoodie Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhh170dq_z4sq.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8V0ooCjmzuo2zdxuLalu2g",
+          "name": "海丰县城东潮参服装店",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2729522",
+        "mallType": "TB",
+        "itemId": "983187795086",
+        "title": "Bi0069 Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhgzheu5_b08g.jpg",
+        "price": "¥305.03",
+        "toPrice": "$47.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "305541146",
+          "name": "Top",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2254648",
+        "mallType": "TB",
+        "itemId": "964649549451",
+        "title": "S Logo Tracksuit Set",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhgzhg6s_ucit.jpg",
+        "price": "¥145.83",
+        "toPrice": "$22.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "447969573",
+          "name": "Rep reps",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1769701",
+        "mallType": "TB",
+        "itemId": "949918622667",
+        "title": "Grailz Project Gr Heavy Embroidered Badge Hooded Cardigan Sweatshirt Casual Jacket, Same Style as Xu Minghao",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhgvqb14_i33e.jpg",
+        "price": "¥182.56",
+        "toPrice": "$28.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "241108161",
+          "name": "拿钱买快乐",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2188291",
+        "mallType": "T1688",
+        "itemId": "876064287612",
+        "title": "Carsicko Love Sports Set with Velvet Fabric Hoodie and Sports Pants Winter European and American Hip Hop Fashion",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhgl4fu7_7dsu.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpKWIbXxcaAGsF24icAvm1A",
+          "name": "广州韩涵涵国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2135919",
+        "mallType": "WD",
+        "itemId": "7298715065",
+        "title": "Hoodies for couples, thin fleece 11",
+        "picUrl": "https://si.geilicdn.com/open1778595797-1234478995-3eea00000193020f3dfe0a210298_800_800.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1778595797",
+          "name": "Trendy brand store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 131,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2535556",
+        "mallType": "WD",
+        "itemId": "7491953279",
+        "title": "★ Fashionable casual versatile hoodie",
+        "picUrl": "https://si.geilicdn.com/open1870726453-1234478995-1bdb0000019761a55c270a23b491-unadjust_1200_1200.png",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1870726453",
+          "name": "highest quality",
+          "logo": "https://si.geilicdn.com/weidian1907091748-1527000001970f3735e50a2102c5_1116_1116.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "436749",
+        "mallType": "WD",
+        "itemId": "7282006337",
+        "title": "Versatile Simple Loose Top L-001",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhgias67_rux4.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1845205061",
+          "name": "Best shop",
+          "logo": "https://si.geilicdn.com/wdseller901895171168-3f720000019243c405d30a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 95,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2168701",
+        "mallType": "TB",
+        "itemId": "947428857750",
+        "title": "Explosive foreign trade light board DIY fall ins hooded zipper sweater jacket double hat men and women spring, fall and winter couple tops",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2041018932/O1CN01AtADrC2FqujFCpnJh_!!2041018932.jpg",
+        "price": "¥68.31",
+        "toPrice": "$10.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109855950",
+          "name": "柠檬绿茶城市店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2176211",
+        "mallType": "WD",
+        "itemId": "7497692641",
+        "title": "Sweatshirt Zipper Shark",
+        "picUrl": "https://si.geilicdn.com/open1845934269-1234478995-128800000197ae1feeb40a23b4de_800_800.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1845934269",
+          "name": "GETIFIT",
+          "logo": "https://si.geilicdn.com/shopedit1961075932-6ff0000001978de3296a0a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2174141",
+        "mallType": "WD",
+        "itemId": "7426389607",
+        "title": "Fashion Demon Sweatshirt/Pants",
+        "picUrl": "https://si.geilicdn.com/pcitem1670221353-116e00000195184db35f0a230115_600_600.jpg",
+        "price": "¥174.90",
+        "toPrice": "$27.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620704877",
+          "name": "御景半岛",
+          "logo": "https://si.geilicdn.com/shopedit1940349066-19eb0000019647bf2ac50a210139-unadjust_624_624.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2168331",
+        "mallType": "TB",
+        "itemId": "885861719551",
+        "title": "Nike Nike Men's Tech Fleece Training Long Sleeve Crew Neck Casual Athletic Pullover Sweatshirt FB7917",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1621646409/O1CN015B2q5m1xDNQ0JvqpU_!!1621646409.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111074511",
+          "name": "没关系体育原HAAH",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146013051917133413",
+  "language": "en"
+}

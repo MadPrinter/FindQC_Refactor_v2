@@ -1,0 +1,625 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3097325",
+        "mallType": "TB",
+        "itemId": "848779659592",
+        "title": "Three-Proof No-Wash Parka down Jacket for Women, Short Style, 2024 Winter New Model, Super Stylish, High-End Puffer Jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/210751643/O1CN01s5OBwD1O0XkNVxYBE_!!210751643.jpg",
+        "price": "¥422.85",
+        "toPrice": "$66.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70200720",
+          "name": "剪辑",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3099706",
+        "mallType": "T1688",
+        "itemId": "835574326591",
+        "title": "Pinghu down Jacket Women's Korean Style Winter Women's Short High-Quality Duck down Jacket Wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01g35cm02FPtNtwFOmJ_!!2212586038873-0-cib.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvQpjAyCRC6bJ9Rb0baQRKw",
+          "name": "桐乡市洲泉灵动伙伴服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1622355",
+        "mallType": "T1688",
+        "itemId": "827566735123",
+        "title": "Autumn and winter new men and women with the same letters old flower down jacket with cap fashion retro in the long section stand-up collar down jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01khBSLC1EA1lQ8Vbx7_!!2218403760310-0-cib.jpg",
+        "price": "¥225.00",
+        "toPrice": "$35.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218403760310",
+          "name": "哈尔滨市南岗区雕刻时光潮牌男装店(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3187879",
+        "mallType": "T1688",
+        "itemId": "853343211022",
+        "title": "跨境棉服外套2024秋冬季欧美新款棉袄女宽松棉服夹克宽松外套上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eNQLbT1o9ropqgW42_!!4273705183-0-cib.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "4273705183",
+          "name": "广州欧妮卡服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1236466",
+        "mallType": "TB",
+        "itemId": "851558042208",
+        "title": "Feel lonely winter mountain carving American cotton coat jacket with cotton canvas clip, washed men's and women's thick fur collar cotton coat",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2211845816448/O1CN01xReE8Z1xVEq8wMgns_!!2211845816448.jpg",
+        "price": "¥262.82",
+        "toPrice": "$41.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "533856726",
+          "name": "Feel lonely",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2317625",
+        "mallType": "T1688",
+        "itemId": "850776156909",
+        "title": "Kylie same ~ KHY removable hooded zipper silhouette cotton jacket DROP002 thickened warm bread clothing",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014MCM1w1NhlVHF1eKJ_!!2212618301602-0-cib.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212618301602",
+          "name": "义乌市丰列电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2624356",
+        "mallType": "TB",
+        "itemId": "659092527470",
+        "title": "Lightweight Cotton Jacket, Unisex Style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/322524793/O1CN01G9VckA1lHFLxtl4Ig_!!322524793.jpg",
+        "price": "¥120.27",
+        "toPrice": "$18.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60023852",
+          "name": "富贵潮哥哥",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2704709",
+        "mallType": "T1688",
+        "itemId": "952629820688",
+        "title": "South District Fiona Navy Blue Detachable Hood Fur Collar Cotton Jacket Women's Winter New Short down Cotton Jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN014Tmhsk21MJeSM3zrM_!!3930506970-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBsyefzuHkEQt-43BiznxnwA",
+          "name": "深圳市宝安区彤希服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386664",
+        "mallType": "T1688",
+        "itemId": "891697267706",
+        "title": "American pure original retro high street embroidered letter pilot jacket loose baseball jacket trendy brand men's and women's versatile jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01eDyuYo1JPfQ1baMwd_!!2215496971021-0-cib.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwHMRBytcB0HCNtb7cFI_ZQ",
+          "name": "石狮市汉格迩服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3112674",
+        "mallType": "T1688",
+        "itemId": "590586806686",
+        "title": "棉衣女2024冬季新款韩版时尚中长款棉服女大码修身连帽外套女棉袄",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AmO0b42CHEniIBj1m_!!3334808448-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3334808448",
+          "name": "北京怡佳尚品服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2297560",
+        "mallType": "WD",
+        "itemId": "7540467320",
+        "title": "GS.73904990",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-0d60000001989ddcb2cb0a23b4de_3589_4786.jpg",
+        "price": "¥829.40",
+        "toPrice": "$130.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "982822976",
+          "name": "CRAGON",
+          "logo": "https://si.geilicdn.com/shopedit982822976-1fda00000196bf7a94a80a210139-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2576627",
+        "mallType": "T1688",
+        "itemId": "858873179002",
+        "title": "2024 Autumn and Winter Spice Girls Fashion Faux Fox Fur Large Hair Collar Padded Hooded Sweatshirt Women Thickened Warm Hooded Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YXzVnx25YuxL7bA1M_!!3841367539-0-cib.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3841367539",
+          "name": "苏州靓妞坊服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2456031",
+        "mallType": "T1688",
+        "itemId": "977396362367",
+        "title": "High-quality color collision splicing thickened bread down jacket new winter white goose down letters hooded warm jacket women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01phBae22DVGnjEDzLS_!!2216050398614-0-cib.jpg",
+        "price": "¥390.00",
+        "toPrice": "$61.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220783947037",
+          "name": "广州捷宏服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2890344",
+        "mallType": "T1688",
+        "itemId": "982566418399",
+        "title": "跨境外贸polo小红马刺绣经典休闲女士时尚高腰短款棉服潮流外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01pZpH8U28565kpHzhe_!!2218687517880-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEgJKLCxcIqE4BWNUbINq0Q",
+          "name": "广州世誉箱包商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3014268",
+        "mallType": "T1688",
+        "itemId": "820773263605",
+        "title": "2025年新款棉服女冬短款加厚时尚棉衣韩版宽松设计感棉袄休闲外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YwxjM31s2m7KKJbBZ_!!2204187025709-0-cib.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2204187025709",
+          "name": "沧州艾梵茜商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2027320",
+        "mallType": "TB",
+        "itemId": "851095436654",
+        "title": "[Double 11 new] B the same paragraph fluffy sense of 90 white duck down wool down jacket loose big dozen down jacket female winter",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3841605967/O1CN016DL47E1twwOCl9JRg_!!4611686018427380047-0-item_pic.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "576108303",
+          "name": "外卖到了 TAKE OUT",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2874466",
+        "mallType": "TB",
+        "itemId": "990500878013",
+        "title": "I795 Our Same Style 24Fw Two-Way Zipper Stand Collar Solid Color Simple Loose down Jacket, Same Style as Wang Anyu",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/668274047/O1CN01FTQBN41flZynyO68d_!!668274047.jpg",
+        "price": "¥642.36",
+        "toPrice": "$101.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "456857300",
+          "name": "i795 produce",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1482714",
+        "mallType": "T1688",
+        "itemId": "837025266895",
+        "title": "Cao Yuyin knitted cardigan splicing jacket jacket 90 down down jacket women's models 2024 new fall and winter thin jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01JDGCSY1kIn3RNsBg1_!!2211782534661-0-cib.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1483159",
+        "mallType": "T1688",
+        "itemId": "873975137674",
+        "title": "Correct version M family new white matte pink matte matte men and women with the same hooded down jacket white and black matte maya",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010UyoFz2F7ZTZWe33I_!!2217714078833-0-cib.jpg",
+        "price": "¥425.00",
+        "toPrice": "$66.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217714078833",
+          "name": "即墨区夏禾雅服装厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1818093",
+        "mallType": "WD",
+        "itemId": "7511875715",
+        "title": "Black of Exit American Retro Fur Collar Fleece-Lined Zipper Hooded Sweatshirt for Men and Women Couple Mountain Sculpture Hoodie",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-23f300000198268c35670aa0c791_900_1200.jpg",
+        "price": "¥283.40",
+        "toPrice": "$44.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743677485",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1931680837-3bfe00000196b9a749100a231316-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021142083471924851914",
+  "language": "en"
+}

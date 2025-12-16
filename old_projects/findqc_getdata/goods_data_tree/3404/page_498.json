@@ -1,0 +1,347 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "393329",
+        "mallType": "WD",
+        "itemId": "7258548875",
+        "title": "Men in shorts",
+        "picUrl": "https://cdn.findqc.com/item/20250601/mbdq0g9e_s79l.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665647577",
+          "name": "Tune",
+          "logo": "https://si.geilicdn.com/shopedit1851173126-227c0000018e9d1f801a0a23132e-unadjust_466_466.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "393324",
+        "mallType": "TB",
+        "itemId": "860848798416",
+        "title": "Nc Tech Set",
+        "picUrl": "https://cdn.findqc.com/item/20250220/m7cmdkco_ytt5.jpg",
+        "price": "¥226.54",
+        "toPrice": "$35.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "559769678",
+          "name": "Apes store",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 556,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "393279",
+        "mallType": "TB",
+        "itemId": "820016954608",
+        "title": "King Vamp Homicide Slogan Sweatshirt Pullover Hoodie Playboi Carti Same Style Venue Exclusive",
+        "picUrl": "https://cdn.findqc.com/item/20250526/mb422r35_kv7q.jpg",
+        "price": "¥153.89",
+        "toPrice": "$24.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "392420",
+        "mallType": "TB",
+        "itemId": "754818417404",
+        "title": "Winter Simple Solid Color Medium Long Hooded Down Jacket Customized",
+        "picUrl": "https://cdn.findqc.com/item/20250729/mdoov5dw_53fk.jpg",
+        "price": "¥1,400.00",
+        "toPrice": "$220.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "479095370",
+          "name": "TA's shop",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "392285",
+        "mallType": "T1688",
+        "itemId": "737744067396",
+        "title": "Cross-border fashion brand high quality men's and women's terry hoodie sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md5qhiyi_jlic.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBMk26WFsX-Bfv5JVyauOE5g",
+          "name": "深圳市宝安区猿倍普服饰批发商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 75,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "391384",
+        "mallType": "WD",
+        "itemId": "7272629451",
+        "title": "Ai Love 2023 Classic Jacquard Big Love Round Neck Sweater 15colors",
+        "picUrl": "https://cdn.findqc.com/item/20250405/m940ejlo_0eqw.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1754184741",
+          "name": "Dear",
+          "logo": "https://si.geilicdn.com/weidian1880593428-7486000001941119911a0a2395a3_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 228,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "391361",
+        "mallType": "WD",
+        "itemId": "7268086859",
+        "title": "LL11042-N78",
+        "picUrl": "https://cdn.findqc.com/item/20250416/m9iwrvxb_o2tp.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1634106721",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/wdseller1776267082-72a8000001913c532e330a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390410",
+        "mallType": "TB",
+        "itemId": "822233898508",
+        "title": "ERD melancholic rich second-generation American washed vintage hoodie sweatshirt, retro trendy loose jacket for men",
+        "picUrl": "https://cdn.findqc.com/item/20241227/m55rz35j_edbh.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "576936539",
+          "name": "C JEVON",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390416",
+        "mallType": "T1688",
+        "itemId": "829959305957",
+        "title": "Cross-border stone compass autumn and winter pullover solid color round neck badge long-sleeved loose island men and women with the same couple sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241227/m55ux4tf_amgj.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390405",
+        "mallType": "T1688",
+        "itemId": "764453591364",
+        "title": "2022 autumn and winter cross-border fashion urban loose long-sleeved youth commuter men's and women's casual fashion sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241227/m55q38vy_0ug0.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBamQoyLBhkzwY2L-1q6ZXzQ",
+          "name": "中山市米浪电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390392",
+        "mallType": "WD",
+        "itemId": "7267346621",
+        "title": "BACK Original Gray French Zipper Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241227/m55jon9v_y3cm.jpg",
+        "price": "¥319.00",
+        "toPrice": "$50.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1713420088",
+          "name": "BACK STUDIO",
+          "logo": "https://si.geilicdn.com/wdseller1479876283-3caa00000191d9b493c70a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390387",
+        "mallType": "WD",
+        "itemId": "7287375148",
+        "title": "Grey fabric pink printed knitted set SY-36",
+        "picUrl": "https://cdn.findqc.com/item/20241226/m55i44og_5u4q.jpg",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274221412",
+          "name": "Elephant",
+          "logo": "https://si.geilicdn.com/wdseller1274221412-77390000018f660dd8030a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 103,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390382",
+        "mallType": "WD",
+        "itemId": "7276317074",
+        "title": "2024 Spring and Autumn New Men's and Women's Half Zipper Pullover High Collar Long Sleeve Knitted Hoodie Couple",
+        "picUrl": "https://cdn.findqc.com/item/20241226/m55deeih_xq1v.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614766613",
+          "name": "LL shop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390373",
+        "mallType": "T1688",
+        "itemId": "777181688979",
+        "title": "2022 SS Zipper Sweater ESSENTIALS Sweater Street Trendy Brand Hat Cross border Hot Sale",
+        "picUrl": "https://cdn.findqc.com/item/20250627/mcdoukuf_3u8c.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWJpAX1Ml7oscoB2p4HVoAg",
+          "name": "宁波市鄞州钟公庙宜山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390344",
+        "mallType": "T1688",
+        "itemId": "734053507120",
+        "title": "Cross-border exclusive high-quality graffiti print men's and women's unisex hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241225/m53ygq1m_56t1.jpg",
+        "price": "¥123.00",
+        "toPrice": "$19.34",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390333",
+        "mallType": "T1688",
+        "itemId": "810045197716",
+        "title": "American retro Alcatraz print collar padded zipper jacket high street men's and women's casual pants set",
+        "picUrl": "https://cdn.findqc.com/item/20241225/m53qgil8_oz35.jpg",
+        "price": "¥61.75",
+        "toPrice": "$9.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216891680514",
+          "name": "一鹿（广州）服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 311,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390315",
+        "mallType": "T1688",
+        "itemId": "844677834187",
+        "title": "Autumn and winter foreign trade men's Paul POLO sweater embroidered pony label padded cardigan zipper hooded jacket tops male",
+        "picUrl": "https://cdn.findqc.com/item/20241225/m536bcy3_4grr.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "390292",
+        "mallType": "WD",
+        "itemId": "6834082905",
+        "title": "GA Sweatshirt Hoodie Navy Arc Faded One Cross pro83B",
+        "picUrl": "https://cdn.findqc.com/item/20241225/m52uwvx4_ka9r.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "388329",
+        "mallType": "WD",
+        "itemId": "7253795678",
+        "title": "2472461  jihe",
+        "picUrl": "https://cdn.findqc.com/item/20241224/m52akwmp_k221.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148125111917130835",
+  "language": "en"
+}

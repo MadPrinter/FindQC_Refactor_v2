@@ -1,0 +1,377 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2321326",
+        "mallType": "WD",
+        "itemId": "7351236108",
+        "title": "hoodie",
+        "picUrl": "https://si.geilicdn.com/open1862961673-1838589072-449900000194411eb7620a8133b5_800_800.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1862961673",
+          "name": "FashionBuy",
+          "logo": "https://si.geilicdn.com/pcdecorate1808469583-122800000191451fcfe80a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2281569",
+        "mallType": "WD",
+        "itemId": "7537596769",
+        "title": "PO High Quality 1:1 (If you need more styles, please contact me (WhatsApp:+86 13798875951)",
+        "picUrl": "https://si.geilicdn.com/pcitem1974497267-532c00000198fc92fa400a23047e_800_800.jpg",
+        "price": "¥265.00",
+        "toPrice": "$41.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1640467075",
+          "name": "TheBestCollection",
+          "logo": "https://si.geilicdn.com/pcdecorate1974497267-6a61000001982acaa2280a20e2c5-unadjust_360_360.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2123408",
+        "mallType": "WD",
+        "itemId": "7519801951",
+        "title": "Correct version of the spot wholesale 24ss foreign trade tide brand CH Crow Jupiter cotton terry men and women zipper hooded sweatshirt",
+        "picUrl": "https://si.geilicdn.com/open1684698973-1234478995-464500000198744777170a23b491_800_800.jpg",
+        "price": "¥186.00",
+        "toPrice": "$29.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684698973",
+          "name": "shine",
+          "logo": "https://si.geilicdn.com/pcdecorate901965066778-052300000197c03278c00a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2122866",
+        "mallType": "WD",
+        "itemId": "7274173973",
+        "title": "卫衣男限定联名大v外套女情侣连帽藤11",
+        "picUrl": "https://si.geilicdn.com/open1622703461-1234478995-32e5000001920f4b2f9b0aa0233d_800_800.jpg",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622703461",
+          "name": "Trendybrandsmallshop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2087284",
+        "mallType": "T1688",
+        "itemId": "844542680863",
+        "title": "Spring and Autumn Paul Long Sleeve Sweater Men's Casual Pure Cotton Solid Color Embroidered Pony Mark Zipper Hooded Cardigan Sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010LwexO24Rl8MeDGnp_!!2218730267388-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByKpefTdQ5M-gbY_dpVBmGg",
+          "name": "中山市弹力球电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 75,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2084690",
+        "mallType": "WD",
+        "itemId": "7521822223",
+        "title": "Zipper hooded hood-MLMLSPHO0202",
+        "picUrl": "https://si.geilicdn.com/open1861579093-1234478995-358700000198896efbb80aa0c791_800_800.jpg",
+        "price": "¥87.00",
+        "toPrice": "$13.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1861579093",
+          "name": "Fashion Godfather",
+          "logo": "https://si.geilicdn.com/shopedit1900470184-220b00000192f695ae1f0a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1967052",
+        "mallType": "T1688",
+        "itemId": "907499862286",
+        "title": "Spring new Jordan AJ overseas burst men's sweater flyer embroidery small label casual couple sports long-sleeved",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01t894VE1gu6v21UJxB_!!2218546754201-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218546754201",
+          "name": "台州市黄岩碧欣电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1810306",
+        "mallType": "WD",
+        "itemId": "7387582625",
+        "title": "Sweatshirt and pants",
+        "picUrl": "https://si.geilicdn.com/pcitem1886572652-58b300000194f4619b640a23111a_800_800.jpg",
+        "price": "¥179.00",
+        "toPrice": "$28.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1737717861",
+          "name": "GoodPants",
+          "logo": "https://si.geilicdn.com/wdseller1886572652-2da700000191924b24510a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1808189",
+        "mallType": "WD",
+        "itemId": "7504087992",
+        "title": "Fall and winter casual fashion round neck sweater 023",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-708800000197d57e1ef50a8133b0_1200_1200.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1808104",
+        "mallType": "TB",
+        "itemId": "755486238135",
+        "title": "Sports Suit European and American Style Loose Fit Oversized Trendy Spray-Dyed Washed Vintage 360g Fleece-Lined Double-Ended Zipper Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1891698707/O1CN0143WX4I2EBrS7XkPlQ_!!1891698707.jpg",
+        "price": "¥139.95",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107678790",
+          "name": "19COOL黑与白",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1807638",
+        "mallType": "TB",
+        "itemId": "899188748804",
+        "title": "pubg clothes shark 2024 spring and fall new Japanese shark camouflage thin jacket students loose printed cardigan la",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2206368560465/O1CN01GPc8Fw1FJ1E6RYdOl_!!2206368560465.png",
+        "price": "¥67.50",
+        "toPrice": "$10.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "280517107",
+          "name": "回忆童年乐玩",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1615875",
+        "mallType": "WD",
+        "itemId": "7317712031",
+        "title": "hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1022751414-505a00000193a0afae130a2396f4_1080_1080.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1022751414",
+          "name": "Poshrep",
+          "logo": "https://si.geilicdn.com/shopedit1022751414-23d90000019936e00a2b0a2304aa-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1381426",
+        "mallType": "T1688",
+        "itemId": "916760455505",
+        "title": "2025 new Europe and the United States Y2K Harajuku street dark retro winter animation print pattern hooded sweatshirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000002611/O1CN01tCOkuC1V9tBAtPohZ_!!6000000002611-0-tbvideo.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "228352",
+        "mallType": "T1688",
+        "itemId": "747360510557",
+        "title": "Cross-Border Men's Clothing 2025 Winter Double-Sided Lamb Wool Cotton Jacket Men's Trendy Brand Warm Couple Cotton Coat Women's Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p70my_wmki.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBS-H7tXkn-sQOo-2DG8CxjQ",
+          "name": "石狮市奥斯卡丹服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "224182",
+        "mallType": "WD",
+        "itemId": "7100748270",
+        "title": "ST 20SS Compass Badge Basic Functional Men's and Women's Sweatshirts",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p5anp_pe85.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1648195145",
+          "name": "BRAND COLLECT",
+          "logo": "https://si.geilicdn.com/shopedit1816205840-18940000018c297bd1820a23132e-unadjust_596_596.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2868660",
+        "mallType": "T1688",
+        "itemId": "702524654843",
+        "title": "Europe and the United States singer letters Sp5der spider web hot drill sweater men and women couples spring and fall hoodie men's jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011Rxyce1QSb2cWbeHn_!!2205876231975-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2205876231975",
+          "name": "义乌市我潮电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2677520",
+        "mallType": "WD",
+        "itemId": "7481652276",
+        "title": "Badge Zipper Jacket with Removable Lapel Korean Cotton-XW-1",
+        "picUrl": "https://si.geilicdn.com/open1841026309-252808396-18ea000001926596a2610a8133b5_1080_1080.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793028253",
+          "name": "Archive專案",
+          "logo": "https://si.geilicdn.com/wdseller901960962938-4108000001979ccc50730a239646_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2675203",
+        "mallType": "T1688",
+        "itemId": "933940258147",
+        "title": "Cross-Border Factory Direct Sales Paris Home Correct Classic Letter Print Pattern Men's and Women's Loose Round Neck New Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cCaOy81nDhZO7aaYR_!!2219486425056-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPrlK1kX8pC2b1nytQEkOGA",
+          "name": "义乌市星杉服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2317554",
+        "mallType": "T1688",
+        "itemId": "823513432349",
+        "title": "Europe and the United States cross-border spring, fall and winter new sweater suit fashion sports LOGO long-sleeved pullover hooded sweater two-piece set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HFfqJV2FvwzgCnS1k_!!2215890058943-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215890058943",
+          "name": "广州绮瑞服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2223030",
+        "mallType": "T1688",
+        "itemId": "830440801453",
+        "title": "Denim Tears Kanye's Same Style Foam Kapok High Street Loose Hooded Sweatshirt Casual Sweatpants Suit Trendy",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rX3DMH1G1tyJCCS5T_!!2215478450563-0-cib.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBF3U3INApa8Nv5VoyN-fKmQ",
+          "name": "佛山市禅城区兔冲冲服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143060291911157576",
+  "language": "en"
+}

@@ -1,0 +1,79 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "27077",
+        "mallType": "TB",
+        "itemId": "642465169183",
+        "title": "Summer Sun Protection Hood Men's Ice Silk Cycling Mask Outdoor Face Protection Gini Fishing Motorcycle Motorcycle Windproof Hood",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nijzra_9ztf.jpg",
+        "price": "¥7.80",
+        "toPrice": "$1.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "69922542",
+          "name": "军酷旅户外",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "23858",
+        "mallType": "TB",
+        "itemId": "741336220597",
+        "title": "Vintage outdoor skiing riding windproof tactical fire retardant fabric magic hood mask couple models",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ni0woj_plez.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "8061",
+        "mallType": "TB",
+        "itemId": "674022248570",
+        "title": "Summer Sun Protection Ice Silk Hood Welding Protective Cover Anti-Face Burning Welder's Neck Cover Dustproof Mask Full Face Neck Scarf",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9yo0r_zwq0.jpg",
+        "price": "¥12.64",
+        "toPrice": "$1.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "348354318",
+          "name": "黛诗晖旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4490",
+        "mallType": "TB",
+        "itemId": "695265486357",
+        "title": "New dark personality knitted hollow out chicken eyes Godzilla parody masked superhero men and women decoration cold hat trend",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3vnux_ahsa.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108867522",
+          "name": "G D订制",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143357591930827093",
+  "language": "en"
+}

@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1984232",
+        "mallType": "TB",
+        "itemId": "724023093420",
+        "title": "Pick up and wear big clearance discount ~ 250G heavyweight cotton short-sleeved t-shirt summer solid color Chinese show clothes",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2453158453/O1CN01bM9KXD2CJWnjuCfx2_!!2453158453.jpg",
+        "price": "¥19.90",
+        "toPrice": "$3.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117028531",
+          "name": "一介元素 studio",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1984028",
+        "mallType": "TB",
+        "itemId": "941034231829",
+        "title": "Small niche Y2K quirky trend GALLERY DEPT tie dye wash high-quality printed short sleeved high street graffiti T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2312282025/O1CN01RNWVYi1QpV6BlrX8R_!!2312282025.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "130443225",
+          "name": "欧美服饰印花店Shopping apparel T Shirt sweater",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1984012",
+        "mallType": "T1688",
+        "itemId": "913297747243",
+        "title": "Stone Home Island Tactical Outdoor Quick Dry Medallion Short Sleeve",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cFUOF527roYwMiei9_!!2219453647851-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219453647851",
+          "name": "常熟市莫城街道贝因舒服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1983987",
+        "mallType": "T1688",
+        "itemId": "891597406122",
+        "title": "Vintage 12-13 Brazil Santos Jersey Home and Away Second Guest No. 11 Neymar Memorial Jersey",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01k1UFOS1Q69o6NUALV_!!2215705901926-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217965604041",
+          "name": "杭州一路发发跨境电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1983217",
+        "mallType": "TB",
+        "itemId": "723806794351",
+        "title": "Cross-border summer T-shirt shorts set TRAPSTAR letter print cotton short sleeve 2-piece casual men's set",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1980997619/O1CN0177EfVP269YTNqxUcW_!!1980997619.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "567509826",
+          "name": "跨境专供厂",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1983196",
+        "mallType": "T1688",
+        "itemId": "868922146435",
+        "title": "Cristiano Ronaldo Football Superstar Super Fashion Printed S",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AfnRPK2AVJvpoX9h3_!!2218892168208-0-cib.jpg",
+        "price": "¥20.90",
+        "toPrice": "$3.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218892168208",
+          "name": "东莞市沙田金倍服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1982838",
+        "mallType": "TB",
+        "itemId": "922696892568",
+        "title": "25AW new tide high street American retro street style CentralCee printed cotton short-sleeved men and women with the same paragraph",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2206684312101/O1CN01cEQw3F1ROJBlkO5xP_!!2206684312101.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "342087258",
+          "name": "潮WOOO专属",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1982810",
+        "mallType": "WD",
+        "itemId": "7401103376",
+        "title": "St ussy short sleeve t-shirt heavyweight high version dice black eight base parade american couples clothing [Global Shop] After entering the store, you can browse more products!",
+        "picUrl": "https://si.geilicdn.com/open1792049929-1234478995-57f00000019530c9efd80a23b4de_1080_1080.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1792049929",
+          "name": "Global Shop",
+          "logo": "https://si.geilicdn.com/wdseller1810256186-25d10000019932a35c9b0a2396f4_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1849557",
+        "mallType": "T1688",
+        "itemId": "898050934666",
+        "title": "Ralph Lauren Classic Pony Embroidered Round Neck Basic Short Sleeve Summer Loose T-shirt for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fJ88Y31pOoOFdMoSt_!!2219099645351-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB2AF9miz7V88ESIo74GvlgA",
+          "name": "广州墨梦服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 280,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1849556",
+        "mallType": "T1688",
+        "itemId": "922143651610",
+        "title": "Ralph Lauren Ralph Lauren summer new solid color pony embroidery men and women with the same round neck short sleeve T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01anrzMv1hkK4vUU3Of_!!2219460884315-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219017216330",
+          "name": "上饶市立创服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 96,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1849559",
+        "mallType": "T1688",
+        "itemId": "888592852981",
+        "title": "Cotton comfortable breathable loose men's round neck pony summer T-shirt Paul short-sleeved solid color tops polo",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TvqNmX1N8V27ktt2C_!!2219365121525-0-cib.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219365121525",
+          "name": "宁海润佩服装商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1849544",
+        "mallType": "T1688",
+        "itemId": "899549611753",
+        "title": "Cross-border New Correct Chrome Hearts Chrome Hearts T-shirt Sanskrit Round Neck T Flower Arm Hockey Jersey Suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011CPTLg2MrYZG49nRV_!!2219336399881-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219336399881",
+          "name": "广州鑫宏服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1837324",
+        "mallType": "WD",
+        "itemId": "7505412422",
+        "title": "Washed vintage loose fitting short sleeved T-shirt",
+        "picUrl": "https://si.geilicdn.com/open1734611453-1234478995-423100000197e3c40d800aa0c791_800_800.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1734611453",
+          "name": "Fresh Findz",
+          "logo": "https://si.geilicdn.com/shopedit1968748602-326b000001986f0569be0a23111a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1666339",
+        "mallType": "WD",
+        "itemId": "7471114290",
+        "title": "[DX110] Masked Mask Loose Short Sleeve T-Shirt for Men",
+        "picUrl": "https://si.geilicdn.com/open1839861941-252808396-3e2400000195023342b90aa0834c_1200_1200.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1665159",
+        "mallType": "TB",
+        "itemId": "903898746573",
+        "title": "The correct version of Godspeed American retro printing foreign trade high street do old loose short-sleeved T-shirt men and women tide",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1758116570/O1CN01EDr7e51yP7CHyaIBL_!!1758116570.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105529592",
+          "name": "阿三阿四",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1665321",
+        "mallType": "T1688",
+        "itemId": "800156112035",
+        "title": "The correct version of TRAVIS SCOTT joint PS5 round neck short-sleeved T-shirt Europe and the United States trend loose lightning dark department",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CiPLvZ1Bs2xYmPRxW_!!0-0-cib.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215632767390",
+          "name": "广州市馨雅贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1665188",
+        "mallType": "WD",
+        "itemId": "7430161750",
+        "title": "B @ P3 X CHR0ME Hearts tee Land",
+        "picUrl": "https://si.geilicdn.com/pcitem1274399453-31ba00000195ad4d65840a8133cc_800_800.jpg",
+        "price": "¥96.00",
+        "toPrice": "$15.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274399453",
+          "name": "CNMADE",
+          "logo": "https://si.geilicdn.com/pcdecorate1274399453-60fc00000193491051590a23037f-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 49,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2503773",
+        "mallType": "WD",
+        "itemId": "7429616496",
+        "title": "Fashion Short Sleeve-DS",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-7a9400000195a8a835930aa0834c_800_800.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1633593645",
+          "name": "Factory Wholesale",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2503006",
+        "mallType": "T1688",
+        "itemId": "924263292273",
+        "title": "Dreamland T-shirt printed with personalized short sleeves, short sleeves, letters, round neck, new product Casablanca logo, foreign trade",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01MCvW9D1LUp86R0wCE_!!2218933121303-0-cib.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPh2kr4XwNuj0h8E1Tzholw",
+          "name": "中山市乐潇服饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2406530",
+        "mallType": "WD",
+        "itemId": "7503704640",
+        "title": "New Fashion Hundreds of Raglan Shirt-002",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-5e8800000197d50c979e0a8133b0_1024_1024.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142585681913205507",
+  "language": "en"
+}

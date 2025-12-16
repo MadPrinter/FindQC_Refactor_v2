@@ -1,0 +1,613 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2822338",
+        "mallType": "WD",
+        "itemId": "7486591849",
+        "title": "E-1 No matter the occasion, denim slacks create the perfect casual style for you.",
+        "picUrl": "https://si.geilicdn.com/pcitem1956422147-4848000001973e41f8160a239846-unadjust_750_750.gif",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1663566301",
+          "name": "Sourire Français",
+          "logo": "https://si.geilicdn.com/shopedit1956422147-6f0c00000196e6c0eda90a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2819270",
+        "mallType": "WD",
+        "itemId": "7487851564",
+        "title": "E-1 fashionable and trendy, denim casual shorts light up your outfit.",
+        "picUrl": "https://si.geilicdn.com/pcitem1956422147-1637000001973a105f7f0a210256-unadjust_900_900.gif",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1663566301",
+          "name": "Sourire Français",
+          "logo": "https://si.geilicdn.com/shopedit1956422147-6f0c00000196e6c0eda90a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2357050",
+        "mallType": "TB",
+        "itemId": "955061749314",
+        "title": "Chelsea - New Summer Woven Croissant Bag with Knot, Small and Lightweight, Elegant and Versatile, Available in Various Sizes",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3339091020/O1CN01rd8cpJ1JPD3y1Kbl9~crop,100,0,600,800~_!!3339091020.jpg",
+        "price": "¥360.00",
+        "toPrice": "$56.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "564831088",
+          "name": "CHELSEA切尔西",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1846594",
+        "mallType": "T1688",
+        "itemId": "950700550758",
+        "title": "The new section flip models multi-hole bit card bag card holder European and American style high-grade tide models leather insert card card bag men and women models",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QrfFSr2JQaQZeqEHf_!!2216785309416-0-cib.jpg",
+        "price": "¥19.00",
+        "toPrice": "$2.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216785309416",
+          "name": "佛山市豪富静贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1790220",
+        "mallType": "WD",
+        "itemId": "7492733551",
+        "title": "D*ior b22 (complete with original box and accessories)",
+        "picUrl": "https://si.geilicdn.com/pcitem1956422147-1d84000001978210aba30a2395a3_1200_1200.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1663566301",
+          "name": "Sourire Français",
+          "logo": "https://si.geilicdn.com/shopedit1956422147-6f0c00000196e6c0eda90a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2616041",
+        "mallType": "WD",
+        "itemId": "7478502824",
+        "title": "D-1 High-quality fashion simple and versatile sweater",
+        "picUrl": "https://si.geilicdn.com/pcitem1956422147-4c990000019710cb44b60a2396f4-unadjust_750_759.gif",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1663566301",
+          "name": "Sourire Français",
+          "logo": "https://si.geilicdn.com/shopedit1956422147-6f0c00000196e6c0eda90a210349-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1504047",
+        "mallType": "WD",
+        "itemId": "7462737893",
+        "title": "Asi GEL-NYC",
+        "picUrl": "https://si.geilicdn.com/pcitem1944050038-39b8000001977d66e0ac0a23047e_1200_1200.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1717982701",
+          "name": "BestValue Buy",
+          "logo": "https://si.geilicdn.com/weidian1944050038-6f2900000198e2ae7ef60a23038e_1128_1128.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905571",
+        "mallType": "TB",
+        "itemId": "923868984510",
+        "title": "Tomato, Raspberry, Lavender, Tulip, Chestnut, Acorn Pendant Keychain Suitable for Loewe Bag Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9n3n4_2iyr.jpg",
+        "price": "¥181.66",
+        "toPrice": "$28.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "152726130",
+          "name": "Fairy毛毡手作社",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902653",
+        "mallType": "TB",
+        "itemId": "796399748882",
+        "title": "PCI-E4.0 graphics card extension cable PCIe3.0 adapter cable 90 degree angle 4090 graphics card vertical bracket connection cable",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk6beap_8i57.jpg",
+        "price": "¥71.52",
+        "toPrice": "$11.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "332967045",
+          "name": "零度世家数码旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2901218",
+        "mallType": "WD",
+        "itemId": "7226232551",
+        "title": "Freight/postage dedicated link. Universal link. Take a picture to cover the price difference. Everything you want+aminyyo",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk4unfr_k7uy.jpg",
+        "price": "¥1.00",
+        "toPrice": "$0.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1395522236",
+          "name": "ABOUT LIWAI 9年老店",
+          "logo": "https://si.geilicdn.com/forward1395522236-5d6b00000166e6a887a50a02853e_1239_1152.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2822377",
+        "mallType": "T1688",
+        "itemId": "830185478831",
+        "title": "【 Wholesale dropshipping 】 Potted flower vases, butterfly orchids, simulated flowers, assembled building blocks, compatible with Lego ornaments, toys, gifts",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhh3nrn1_xm6v.jpg",
+        "price": "¥23.00",
+        "toPrice": "$3.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8k8Cnc9P75vAmi80-OIA1w",
+          "name": "汕头市澄海区森高玩具商行",
+          "type": "T1688"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2687569",
+        "mallType": "TB",
+        "itemId": "823163453246",
+        "title": "10 price width 3cm pink Gingham Bows accessories handmade diy decoration material Hit Style clothing accessories",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgxeqqbp_1esz.jpg",
+        "price": "¥5.16",
+        "toPrice": "$0.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "179337712",
+          "name": "可爱多辅料",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1476318",
+        "mallType": "WD",
+        "itemId": "7230036637",
+        "title": "S double line ESS blanket",
+        "picUrl": "https://cdn.findqc.com/item/20250608/mbn53cgz_uxdc.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1616523704",
+          "name": "Survival_cloth",
+          "logo": "https://si.geilicdn.com/wdseller1481079960-0ff900000182272db67e0a2102d0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1437372",
+        "mallType": "WD",
+        "itemId": "7405998452",
+        "title": "be007996 &26",
+        "picUrl": "https://cdn.findqc.com/item/20250602/mbdy9id9_csqa.jpg",
+        "price": "¥243.00",
+        "toPrice": "$38.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1756602125",
+          "name": "Colareps-2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1346468",
+        "mallType": "T1688",
+        "itemId": "794248020271",
+        "title": "RL Lafu's Pony Mark Men's Business Casual Twist Sweater Crewneck Long Sleeve Twisted Sweater Sweater Sweater Sweater Sweater",
+        "picUrl": "https://cdn.findqc.com/item/20250514/mamuarog_toio.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-XxrNjoFz_hJPr3y-j0QmQ",
+          "name": "常熟市琴川街道潮之品服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 224,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "248538",
+        "mallType": "TB",
+        "itemId": "644736000972",
+        "title": "Senbao Building Blocks Children's Puzzle Small Particle Assembly Toy Bouquet Flower Model Rose Blossoms Chinese Building Blocks",
+        "picUrl": "https://cdn.findqc.com/item/20241125/m3woliy9_w0tn.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111307345",
+          "name": "童趣欢乐王国",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "197355",
+        "mallType": "TB",
+        "itemId": "578998722653",
+        "title": "La Liga Armband 06-2020 Season La Liga Player Version Large Armband Championship/Arm Badge Flocking Gold Badge Heat Transfer Armband",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nnrspk_8yah.jpg",
+        "price": "¥5.09",
+        "toPrice": "$0.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "135381228",
+          "name": "fansonline烫画章订制",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "45903",
+        "mallType": "TB",
+        "itemId": "546886959368",
+        "title": "Handmade DIY Colorful Feather Goose Feathers Soft Large Flutter Dream Catcher Early Education Feather Materials Earrings Corsage Accessories",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3meuu8h_hfz7.jpg",
+        "price": "¥10.04",
+        "toPrice": "$1.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "194409563",
+          "name": "秋盛羽毛",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "32138",
+        "mallType": "T1688",
+        "itemId": "809744638288",
+        "title": "New L family sunglasses ins small red book fashion sunscreen street shooting star net red the same round frame sunglasses z1020",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njrbo3_n3d7.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145529961924851792",
+  "language": "en"
+}

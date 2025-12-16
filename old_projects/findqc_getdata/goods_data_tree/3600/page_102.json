@@ -1,0 +1,386 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "405347",
+        "mallType": "WD",
+        "itemId": "7297218081",
+        "title": "Winter fashion loose fit down jacket 003",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-3a52000001939ae6383d0a81347d_2000_2000.jpg",
+        "price": "¥260.00",
+        "toPrice": "$40.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1672216213",
+          "name": "Crazy Koala",
+          "logo": "https://si.geilicdn.com/shopedit1897196691-072e000001928fa9890e0a239646-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 59,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "405337",
+        "mallType": "WD",
+        "itemId": "7288211048",
+        "title": "The same men's and women's models jacket couple models winter thickened down jacket CF66-1",
+        "picUrl": "https://si.geilicdn.com/pcitem1513127982-23f400000192b74b3f610a2396f4_1076_1076.jpg",
+        "price": "¥388.00",
+        "toPrice": "$61.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1844900820",
+          "name": "China Supplier",
+          "logo": "https://si.geilicdn.com/weidian1513127982-005000000191e5788ab50a8133cc_1156_1156.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2123481",
+        "mallType": "WD",
+        "itemId": "6814229052",
+        "title": "Canad@ Goose Macmillan 羽绒服 黑色黑标",
+        "picUrl": "https://si.geilicdn.com/wdseller1660858386-009f0000018ba4b81a740a22d30f_1242_1656.jpg",
+        "price": "¥699.00",
+        "toPrice": "$109.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1644055430",
+          "name": "Luxury Fashion ①",
+          "logo": "https://si.geilicdn.com/wdseller1660858386-42f50000018124ff83000a23056b_458_458.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2068767",
+        "mallType": "WD",
+        "itemId": "7509228802",
+        "title": "po feathered hooded jacket",
+        "picUrl": "https://si.geilicdn.com/open1683044125-1234478995-3b180000019805003ee90aa0c791_1066_1066.jpg",
+        "price": "¥585.00",
+        "toPrice": "$91.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683044125",
+          "name": "O.T.M",
+          "logo": "https://si.geilicdn.com/shopedit1948676837-53770000019981c2aabc0a239646-unadjust_320_320.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "224141",
+        "mallType": "WD",
+        "itemId": "7262980524",
+        "title": "Autumn and winter printed casual men's plus size cotton jacket hooded middle-aged and young decoration body thick cotton jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p58eg_hh1s.jpg",
+        "price": "¥96.00",
+        "toPrice": "$15.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873187321",
+          "name": "Artist潮流精品",
+          "logo": "https://si.geilicdn.com/shopedit1865109611-06860000018fcd8facad0a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "224116",
+        "mallType": "WD",
+        "itemId": "7289323019",
+        "title": "Men's color striped webbing down jacket removable hood thickened warm white duck down jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p58j9_5kz6.jpg",
+        "price": "¥288.00",
+        "toPrice": "$45.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873187321",
+          "name": "Artist潮流精品",
+          "logo": "https://si.geilicdn.com/shopedit1865109611-06860000018fcd8facad0a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "224133",
+        "mallType": "WD",
+        "itemId": "7262075733",
+        "title": "Men's and women's cotton clothes cotton clothing fall and winter new couples jacket casual collar jacket cotton clothes",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p5de4_boh2.jpg",
+        "price": "¥218.80",
+        "toPrice": "$34.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873187321",
+          "name": "Artist潮流精品",
+          "logo": "https://si.geilicdn.com/shopedit1865109611-06860000018fcd8facad0a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "103276",
+        "mallType": "WD",
+        "itemId": "7291235299",
+        "title": "R47188-H20",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnqoa6_szen.jpg",
+        "price": "¥578.00",
+        "toPrice": "$90.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1758289665",
+          "name": "ROCKET1",
+          "logo": "https://si.geilicdn.com/weidian901842075230-78c1000001913c5a71590a20e7c7_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1968443",
+        "mallType": "WD",
+        "itemId": "7368187582",
+        "title": "REP High Quality",
+        "picUrl": "https://si.geilicdn.com/open1673345293-1234478995-40370000019464fda67d0a22d234_1000_1000.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1673345293",
+          "name": "TOTO",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1812597",
+        "mallType": "TB",
+        "itemId": "848815311988",
+        "title": "24FW Jacket 5008",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2218575759731/O1CN01bMLpPO2Lkr9jU0uv1_!!2218575759731.jpg",
+        "price": "¥430.00",
+        "toPrice": "$67.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "257507014",
+          "name": "潮牌一号1968",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1812413",
+        "mallType": "WD",
+        "itemId": "7294300333",
+        "title": "FR-1 Winter Punch Down Jacket Down Jacket Sweatshirt (TOP QUALITY)",
+        "picUrl": "https://si.geilicdn.com/pcitem1886196013-0df300000193127ffd2c0a8133cc_1200_1200.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863516261",
+          "name": "Trendy Buy",
+          "logo": "https://si.geilicdn.com/shopedit1886196013-3dad00000193e98aafee0a20e284-unadjust_743_743.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1540344",
+        "mallType": "T1688",
+        "itemId": "848644285987",
+        "title": "Same as LU! Lightweight and warm three-dimensional cut slim and slimming 90 white duck down splicing stand up collar down jacket for women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lktbuo1Eb39WYoCnZ_!!2213277640369-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPsaKH3z1i5aEfE0Qv8iAHw",
+          "name": "常熟市莫城街道奕风服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2672515",
+        "mallType": "WD",
+        "itemId": "7554328687",
+        "title": "R.B Removable Down Jacket + C Goose",
+        "picUrl": "https://si.geilicdn.com/pcitem1907900548-113800000194f57df2e80a20e7c7-unadjust_798_797.png",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1690862179",
+          "name": "Fashionable boy",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2490923",
+        "mallType": "WD",
+        "itemId": "7529593427",
+        "title": "Classic Down Vest",
+        "picUrl": "https://si.geilicdn.com/open1806629741-1234478995-4840000001987a7dbd080aa0c791_1200_1200.jpg",
+        "price": "¥193.00",
+        "toPrice": "$30.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710358237",
+          "name": "snowball shop",
+          "logo": "https://si.geilicdn.com/shopedit1956517804-5783000001974e8a56410a20e2c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2490766",
+        "mallType": "WD",
+        "itemId": "7543311375",
+        "title": "High quality down jackets from the factory (visit our WeChat store to view more products)",
+        "picUrl": "https://si.geilicdn.com/pcitem1897196691-3a52000001939ae6383d0a81347d_2000_2000.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1784277725",
+          "name": "4号小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2490474",
+        "mallType": "WD",
+        "itemId": "7545197909",
+        "title": "European station high-quality winter hooded down jacket removable new men and women couples tide windproof warm jacket",
+        "picUrl": "https://si.geilicdn.com/open1629391697-1234478995-3209000001992d4405130aa0229a_1920_1920.jpg",
+        "price": "¥502.50",
+        "toPrice": "$79.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1629391697",
+          "name": "RepTigerSupply",
+          "logo": "https://si.geilicdn.com/weidian1788880988-2ebf000001937ca639f50a23038e_992_992.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2488749",
+        "mallType": "TB",
+        "itemId": "977997269979",
+        "title": "Italy CP Same Duck Down Down jacket Men New arrival Winter Short thickened Heattech Hooded Bread Suit Outwear",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/1983917501/O1CN01GYJkU625HVypPyZbh_!!1983917501.jpg",
+        "price": "¥468.00",
+        "toPrice": "$73.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108905832",
+          "name": "麦尚风",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2437434",
+        "mallType": "T1688",
+        "itemId": "861084278984",
+        "title": "Crofton 2227 Men's and Women's Same Light and Thin.",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lzy0Le26K5kk73U46_!!2218571727642-0-cib.jpg",
+        "price": "¥480.00",
+        "toPrice": "$75.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218571727642",
+          "name": "莆田市秀屿区泰利服装店(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2436687",
+        "mallType": "T1688",
+        "itemId": "846966655318",
+        "title": "Cross-border foreign trade Trapstar letters embroidery gradient blue and white thickened cotton jacket hooded loose jacket couple jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LRUIXs1aNEp9PqG86_!!2214795683317-0-cib.jpg",
+        "price": "¥245.00",
+        "toPrice": "$38.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214795683317",
+          "name": "海丰县亿鸿服装店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2313891",
+        "mallType": "T1688",
+        "itemId": "753384877565",
+        "title": "Trapstar Shooters PUFFER Men's Removable Jacket Quality Shiny Original Drill",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tCBXCi1mriP1viguf_!!2217003845008-0-cib.jpg",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217003845008",
+          "name": "厦门市星火木禾电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114358623194362905",
+  "language": "en"
+}

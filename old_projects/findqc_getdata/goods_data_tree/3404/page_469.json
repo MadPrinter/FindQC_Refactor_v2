@@ -1,0 +1,379 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1248360",
+        "mallType": "TB",
+        "itemId": "916081973030",
+        "title": "Men's Classic Zip-Up Long-Sleeved Cardigan Hooded Breathable Casual Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250529/mb86lyal_0e7k.jpg",
+        "price": "¥152.82",
+        "toPrice": "$24.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "115207252",
+          "name": "云端shop",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 67,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1245271",
+        "mallType": "WD",
+        "itemId": "7387914162",
+        "title": "N88-14646",
+        "picUrl": "https://cdn.findqc.com/item/20250424/m9v6iti2_6omr.jpg",
+        "price": "¥269.00",
+        "toPrice": "$42.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1802523454",
+          "name": "Martin5",
+          "logo": "https://si.geilicdn.com/wdseller1744744269-0d05000001867319bf120a231179_88_88.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1243464",
+        "mallType": "WD",
+        "itemId": "7262602094",
+        "title": "Flyerbuy long sleeved T-shirt round neck pure cotton versatile for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250424/m9viixqb_vbeu.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615108798",
+          "name": "Flyerbuy",
+          "logo": "https://si.geilicdn.com/pcdecorate1746385363-70460000018fea834db30a20e7c7-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 70,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1241316",
+        "mallType": "WD",
+        "itemId": "7244485471",
+        "title": "Blue and white towel embroidered with velvet sweatshirt and pants",
+        "picUrl": "https://cdn.findqc.com/item/20250424/m9uzzga0_2371.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1240131",
+        "mallType": "TB",
+        "itemId": "905213736911",
+        "title": "American Style Sp5Der 555555 Full Diamond Hoodie for Men and Women Couples Ins High Street Trendy Brand Hooded Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250707/mcsq5n48_9vaw.jpg",
+        "price": "¥193.03",
+        "toPrice": "$30.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106638064",
+          "name": "大V先生",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1236438",
+        "mallType": "WD",
+        "itemId": "7408104940",
+        "title": "YY054",
+        "picUrl": "https://cdn.findqc.com/item/20250617/mbzf209b_zah3.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1803208917",
+          "name": "Wannabuy",
+          "logo": "https://si.geilicdn.com/wdseller1901986286-290300000192f283a1fe0a207569_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1234309",
+        "mallType": "TB",
+        "itemId": "681278462109",
+        "title": "Andema hooded sweatshirt men's 2022 autumn looped sportswear pullover training and fitness clothes 1373844",
+        "picUrl": "https://cdn.findqc.com/item/20250422/m9smn4mc_u7uv.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "59506705",
+          "name": "ouuo1030 运动正品",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 83,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1227293",
+        "mallType": "TB",
+        "itemId": "844113019978",
+        "title": "KITH autumn trend embroidered pure cotton polo shirt American street solid color pullover zipper lapel long sleeved sweatshirt men",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9qhpmqs_l8p6.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "197760662",
+          "name": "Defans Noah Kith",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1222478",
+        "mallType": "T1688",
+        "itemId": "834731336469",
+        "title": "Cross-border FOG ESSENTIALS Stereo Silicone Letter Flocking Printed American Sweat Pants Casual suit Men",
+        "picUrl": "https://cdn.findqc.com/item/20250428/m9zwo5u0_b52l.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB49bOXsEZ7TpoLAdl5Aubcw",
+          "name": "佛山市南海区撇子服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 372,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1222182",
+        "mallType": "TB",
+        "itemId": "861352557842",
+        "title": "Sweatshirt Hoodie SU02",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9r7g9ed_fql7.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107748732",
+          "name": "Singor2",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221484",
+        "mallType": "T1688",
+        "itemId": "855955857088",
+        "title": "Autumn and Winter New American Style Retro Personalized Simple Trendy Solid Color Hoodie Men's and Women's Loose All-match Sweater Top",
+        "picUrl": "https://cdn.findqc.com/item/20250619/mc2gekcs_ve67.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBN1sbXC-jrATygCDMK31u0g",
+          "name": "汕头市潮阳区沐昌源服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1208330",
+        "mallType": "TB",
+        "itemId": "829373938533",
+        "title": "Nike Official Authentic Trail Dri-Fit Men's Loose Knitted Hooded Sweatshirt Hf0339-010",
+        "picUrl": "https://cdn.findqc.com/item/20250723/mdesjp9p_5zcd.jpg",
+        "price": "¥335.97",
+        "toPrice": "$52.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68097684",
+          "name": "麦巨鞋类专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1209296",
+        "mallType": "T1688",
+        "itemId": "810262445741",
+        "title": "High Street Trendy Brand REPRESENT ICON Sunset Crocodile Letter logo Printed Men's and Women's Casual Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250626/mcc6iwm7_n0a3.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBp6MSAcC19fNoNQ63aGA0HQ",
+          "name": "佛山市雅婷服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1207296",
+        "mallType": "WD",
+        "itemId": "7334839978",
+        "title": "37 AD Kith Treat cereal hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9ox1iwj_tvhy.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1253755126",
+          "name": "37°C TIDE SHOP",
+          "logo": "https://si.geilicdn.com/wdseller1253755126-135e00000184e699e1860a23132e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1206284",
+        "mallType": "WD",
+        "itemId": "7400668361",
+        "title": "Crocodile Zipper Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250419/m9ncesvr_1wg8.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1611844261",
+          "name": "00",
+          "logo": "https://si.geilicdn.com/shopedit1883892555-554b00000196b76d4cd80a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1203951",
+        "mallType": "TB",
+        "itemId": "774162683513",
+        "title": "Authentic Nike Men's Reflective Quick-Drying Breathable Half-Zip Sports Training Lightweight Pullover Long-Sleeve Fb7536",
+        "picUrl": "https://cdn.findqc.com/item/20250420/m9ohlz4o_q190.jpg",
+        "price": "¥168.02",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "593134696",
+          "name": "老井运动 专注正品",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1203606",
+        "mallType": "T1688",
+        "itemId": "859928075910",
+        "title": "Foreign Trade Independent Station Men's Leisure Sports Set Embroidery Personalized Hoodie Head Daily Style Fashion Customization",
+        "picUrl": "https://cdn.findqc.com/item/20250419/m9nxgmkn_5r3n.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-Y-doEdcSO89BxuvN0mYxg",
+          "name": "普宁市池尾重磅服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 62,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1199351",
+        "mallType": "TB",
+        "itemId": "864482432480",
+        "title": "E576 Patchwork Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250418/m9ll11b8_fehp.jpg",
+        "price": "¥354.22",
+        "toPrice": "$55.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "65986364",
+          "name": "地铁小流氓",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1198644",
+        "mallType": "T1688",
+        "itemId": "893892077297",
+        "title": "【 Full Series 】 25s Foreign Trade Wholesale Wooden Cotton Flower Hoodie Foam Printed Short Sleeve T-shirt Hooded Short Pants Set",
+        "picUrl": "https://cdn.findqc.com/item/20250418/m9ls0zfz_052k.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215662735241",
+          "name": "东莞市虎门奕辰服装贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 509,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1196364",
+        "mallType": "WD",
+        "itemId": "7311796110",
+        "title": "L13088-N28",
+        "picUrl": "https://cdn.findqc.com/item/20250422/m9rw3o5k_wt6c.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1831703161",
+          "name": "L2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147476911913206561",
+  "language": "en"
+}

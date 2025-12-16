@@ -1,0 +1,275 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "39592",
+        "mallType": "TB",
+        "itemId": "811708806335",
+        "title": "[ Discount ] ClassicPolo",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmixqc_17xs.jpg",
+        "price": "¥96.00",
+        "toPrice": "$15.10",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "39459",
+        "mallType": "TB",
+        "itemId": "707830113804",
+        "title": "Summer Brown Henley collar Short sleeved T-shirt Men's Loose American Mature Male Korean Version Dongdaemun Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmi5ik_2lr2.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "276391176",
+          "name": "摇橹人旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "37793",
+        "mallType": "WD",
+        "itemId": "7251766696",
+        "title": "[1O/1O] (REGULAR FIT) French 25 summer new business casual Slim solid color men's men's polo PH5522",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nlp8kp_vjrw.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646496609",
+          "name": "Fr fish①",
+          "logo": "https://si.geilicdn.com/weidian1487868650-5664000001921049e8990a21146b_756_756.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 107,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "37303",
+        "mallType": "TB",
+        "itemId": "721348518571",
+        "title": "New summer men's resident cotton thin Slim half-sleeved lapel short-sleeved polo shirt youth tide men's clothing",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nl7tia_l5vz.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "445134073",
+          "name": "Lens Crew",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36413",
+        "mallType": "WD",
+        "itemId": "7239260093",
+        "title": "uncharted",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkwtfg_qn8m.jpg",
+        "price": "¥146.00",
+        "toPrice": "$22.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840466345",
+          "name": "莫非潮服商行",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 38,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36307",
+        "mallType": "WD",
+        "itemId": "4288542228",
+        "title": "Gucci/Gucci Fashion Interlocking G Stripe Stretch Beaded Cotton Short Sleeve Polo Shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkw31x_yz35.jpg",
+        "price": "¥158.34",
+        "toPrice": "$24.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1384956774",
+          "name": "NIROU霓柔",
+          "logo": "https://si.geilicdn.com/bj-wd-1384956774-1537373532806-901351089_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "36284",
+        "mallType": "TB",
+        "itemId": "738897720761",
+        "title": "Men's Spring and Autumn Embroidered Long Sleeve T-Shirt with Cross Collar Top, Business and Casual Polo Shirt, Men's 2025 New Style",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkvuhs_yfp5.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "293787846",
+          "name": "海外奢品男装",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35835",
+        "mallType": "TB",
+        "itemId": "679642932840",
+        "title": "E21HJ207-760 Polo shirt Love heart short sleeve polo",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkr7sk_6n4x.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35502",
+        "mallType": "TB",
+        "itemId": "679912443202",
+        "title": "High elastic quick-drying golf clothing men's short-sleeved T-shirt golf ball clothes summer ultra-thin half-sleeved lapel POLO shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkleqb_a9hj.jpg",
+        "price": "¥118.40",
+        "toPrice": "$18.62",
+        "status": "normal",
+        "categoryId": 21,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "35170",
+        "mallType": "WD",
+        "itemId": "7239267175",
+        "title": "**********************",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkixe2_k0re.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1787182201",
+          "name": "至独嘉",
+          "logo": "https://si.geilicdn.com/shopedit1794237888-43e6000001963942522a0a210256-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34761",
+        "mallType": "TB",
+        "itemId": "643496868123",
+        "title": "Pre men's lapel short-sleeved polo shirt high-end classic models 4 days to send under the auction",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkgt0a_5n5w.jpg",
+        "price": "¥299.00",
+        "toPrice": "$47.02",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34322",
+        "mallType": "TB",
+        "itemId": "795565109385",
+        "title": "Summer polo shirt short-sleeved men loose embroidered pony label men's cotton breathable lapel business casual t-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nka0hx_pqmh.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34315",
+        "mallType": "TB",
+        "itemId": "778897970367",
+        "title": "Red lapel polo shirt men's short-sleeved embroidery size logo casual tops summer cotton business T-shirt men",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk9wux_iiuh.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34126",
+        "mallType": "TB",
+        "itemId": "640933536445",
+        "title": "2025 summer popular FP wheat ears Perry hot trend men's youth Slim lapel cotton short-sleeved polo shirt t-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk8jad_vbv4.jpg",
+        "price": "¥138.80",
+        "toPrice": "$21.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "150095498",
+          "name": "麦穗派瑞",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 160,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "33864",
+        "mallType": "WD",
+        "itemId": "7247773723",
+        "title": "20240086",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk7i41_8lfo.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "33338",
+        "mallType": "TB",
+        "itemId": "704139837956",
+        "title": "Oxfreak “Four-Point Embroider” Heavy-Duty Stiff Gray Polo Shirt Men's Loose Short-Sleeved High-End Lapel T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njzgjq_hq4x.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "507782867",
+          "name": "OXFREAK旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142243942553922245",
+  "language": "en"
+}

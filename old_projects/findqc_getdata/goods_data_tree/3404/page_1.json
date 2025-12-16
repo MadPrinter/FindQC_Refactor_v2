@@ -1,0 +1,645 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2677911",
+        "mallType": "WD",
+        "itemId": "7567257731",
+        "title": "ES Sweatshirt/Sweatpants",
+        "picUrl": "https://si.geilicdn.com/open1622159709-252808396-02ed00000198d7168fe80a23b4de_1920_1920.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1686250643",
+          "name": "Warm store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2444320",
+        "mallType": "WD",
+        "itemId": "7553404063",
+        "title": "Classic round neck hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250927/mg242c3l_px3i.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1329468934",
+          "name": "DreamRemake2",
+          "logo": "https://si.geilicdn.com/shopedit1329468934-062100000197bafb32870a20e7c7-unadjust_89_89.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 175,
+        "qcVideoCnt": 7
+      },
+      {
+        "id": "3102788",
+        "mallType": "T1688",
+        "itemId": "984491785246",
+        "title": "Niaojia limited edition co branded PA assault suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01GbsG5d1QfsoOVaYXi_!!2219661832004-0-cib.jpg",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNT5UJn-A8rpcO3SXYMf2oA",
+          "name": "义乌市汛赟电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "177479",
+        "mallType": "T1688",
+        "itemId": "827720497236",
+        "title": "Spring and Autumn Light Luxury Thin Rl Hooded Cardigan Solid Color Sweater Embroidered Loose Large Size Cross-Border Men's Polo Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mq72gb_bcer.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmzT_i2FBtUMaFMry8w-1-A",
+          "name": "铅山县思蜜电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 526,
+        "qcVideoCnt": 23,
+        "picWidth": "1066",
+        "picHeight": "1066"
+      },
+      {
+        "id": "436464",
+        "mallType": "T1688",
+        "itemId": "819883599849",
+        "title": "Fall/Winter 2025 American Trendy Brand Hoodie Solid Color Plus Velvet Thick Teen Men's Set Loose Casual\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01lzv2JG2M45j8Eq9DY_!!2212940549773-0-cib.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEpeHOUETe1IxbASLPvgvEA",
+          "name": "杭州锦镕科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2167404",
+        "mallType": "WD",
+        "itemId": "7528745412",
+        "title": "New Upgrade High Quality-Embroidered Pullover Long Sleeve Sweatshirt-HD",
+        "picUrl": "https://cdn.findqc.com/item/20250825/meqkmflm_j5hu.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "968554960",
+          "name": "YT-Clothes",
+          "logo": "https://si.geilicdn.com/weidian968554960-493a00000193488ac3770a20e672_1112_1112.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 560,
+        "qcVideoCnt": 51,
+        "picWidth": "800",
+        "picHeight": "824"
+      },
+      {
+        "id": "179",
+        "mallType": "WD",
+        "itemId": "2609265873",
+        "title": "450g pure cotton fleece hooded sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m26sf6_0f6r.jpg",
+        "price": "¥38.80",
+        "toPrice": "$6.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1363222789",
+          "name": "壹号铺",
+          "logo": "https://si.geilicdn.com/bj-wd-1363222789-1530564052950-173495693_1122_1005.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 522,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3092992",
+        "mallType": "WD",
+        "itemId": "7572523913",
+        "title": "Factory High Quality Sweat Set-XW\n",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-0334000001989361946c0aa0c791-unadjust_1440_1079.png",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1780011453",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1616318",
+        "mallType": "T1688",
+        "itemId": "931344771025",
+        "title": "25 Spring and Autumn Casual Sports Laminated Tech Fieece Technology Zipper Suit Jacket and Sweatpants 950+496",
+        "picUrl": "https://cdn.findqc.com/item/20251004/mgblwsoq_vres.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb1OTjrq1CJetvArFC7WiHQ",
+          "name": "平阳县楠易服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 525,
+        "qcVideoCnt": 13
+      },
+      {
+        "id": "2082504",
+        "mallType": "T1688",
+        "itemId": "940013334134",
+        "title": "Cross-Border Hot-Selling Rl Trendy Brand Polo Accessible Luxury Men's Casual Zipper Pure Color Pony Logo Embroidered Cardigan Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20251001/mg6tndey_4b6v.jpg",
+        "price": "¥31.90",
+        "toPrice": "$5.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBsnxwYYGcczFFp6HHPXx_eA",
+          "name": "铅山县资漫电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 554,
+        "qcVideoCnt": 10
+      },
+      {
+        "id": "350016",
+        "mallType": "WD",
+        "itemId": "7299657339",
+        "title": "2022 SS Men's and Women's Hooded Hooded Hoodie Black Letter Plush Double Thread ESSENTIALS Trendy Brand Cross border Hot Sale 1977 Sports and Leisure Pants\n",
+        "picUrl": "https://cdn.findqc.com/item/20241220/m4wcooc1_ehnk.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "206227178",
+          "name": "小酷酷潮牌服饰",
+          "logo": "https://si.geilicdn.com/wdseller206227178-3fe70000016a59e696450a217252_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1091829",
+        "mallType": "T1688",
+        "itemId": "854990248735",
+        "title": "Chrome Heart Hoodie Crucifix Hoodie Cross-border Loose Men's and Women's Zipper Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfvyoc9w_66hm.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfHWMV7fxMWfc8_6_UV24wg",
+          "name": "佛山市南海区元名莱服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 168,
+        "qcVideoCnt": 22,
+        "picWidth": "800",
+        "picHeight": "800"
+      },
+      {
+        "id": "286308",
+        "mallType": "T1688",
+        "itemId": "734027491649",
+        "title": "Cross-border high quality British style hooded men's and women's sweater foreign trade women's jacket full cardigan zipper can be ordered embroidered logo",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m45sysm5_8xbp.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBjd0OQaJhd7otQFdG0EA-_A",
+          "name": "北京北极伊人服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 559,
+        "qcVideoCnt": 25,
+        "picWidth": "1200",
+        "picHeight": "1200"
+      },
+      {
+        "id": "3164970",
+        "mallType": "T1688",
+        "itemId": "915517585841",
+        "title": "North Face Home Trendy Brand Hooded Cotton Hoodie Autumn/Winter New Style for Men and Women Couple Same Style Classic High Version Loose Hoodie\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Zs62WP1pLbcsGLb88_!!2219608485344-0-cib.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbmJ2QjqSViHostSJ4Cxqgg",
+          "name": "上饶市泽丰服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2505547",
+        "mallType": "WD",
+        "itemId": "7557587535",
+        "title": "Independent Number(N)ine style 06ssfxxk letter full print hole zipper hooded Sweatshirt sports Outwear",
+        "picUrl": "https://cdn.findqc.com/item/20251029/mhbdqll1_xj54.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "982822976",
+          "name": "CRAGON",
+          "logo": "https://si.geilicdn.com/shopedit982822976-1fda00000196bf7a94a80a210139-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1013",
+        "mallType": "T1688",
+        "itemId": "739087691883",
+        "title": "Cross-border foreign trade wholesale 2023 INS loose stitching washed zipper coat sweater men and women couple hoodie fashion",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mzo2gd_k1lf.jpg",
+        "price": "¥225.00",
+        "toPrice": "$35.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFLXTLarEO99ayt8NsXNGBQ",
+          "name": "镇平县婷水润玉商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 259,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1248499",
+        "mallType": "T1688",
+        "itemId": "898891424296",
+        "title": "Spring and Autumn 25 New Sports Air Layer Hooded Jacket Jacket Sweatpants 454 and 461",
+        "picUrl": "https://cdn.findqc.com/item/20250617/mc05s0s4_yqss.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb1OTjrq1CJetvArFC7WiHQ",
+          "name": "平阳县楠易服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 529,
+        "qcVideoCnt": 17
+      },
+      {
+        "id": "338371",
+        "mallType": "TB",
+        "itemId": "823014494335",
+        "title": "Mint Green Star Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241215/m4oode5b_nueq.jpg",
+        "price": "¥50.89",
+        "toPrice": "$8.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "516106390",
+          "name": "Pika Bro",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 157,
+        "qcVideoCnt": 6
+      },
+      {
+        "id": "3164512",
+        "mallType": "WD",
+        "itemId": "7617714276",
+        "title": "Trendy Essentialszone hoodie fog unisex 1977 autumn/winter hooded loose fit\n",
+        "picUrl": "https://si.geilicdn.com/wdseller1891092917-49f80000019ab4aae7a40a2103bd_1920_1920.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1814535653",
+          "name": "Super cat",
+          "logo": "https://si.geilicdn.com/wdseller1891092917-7dc900000197f37058120a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "805432",
+        "mallType": "WD",
+        "itemId": "7341299504",
+        "title": "Sy21",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcnhm4yq_dndd.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1353408211",
+          "name": "changhong",
+          "logo": "https://si.geilicdn.com/wdseller1947146724-3f410000019aa23616c00a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114123856194365317",
+  "language": "en"
+}

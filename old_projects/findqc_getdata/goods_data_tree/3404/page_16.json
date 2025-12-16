@@ -1,0 +1,348 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3048614",
+        "mallType": "WD",
+        "itemId": "7581336835",
+        "title": "Spd  Hoodie",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-51420000019583d801000a23047e_800_800.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1833307187",
+          "name": "TH3",
+          "logo": "https://si.geilicdn.com/shopedit2003470895-1e340000019a062389ec0a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048536",
+        "mallType": "WD",
+        "itemId": "7586581870",
+        "title": "RE-39-秋冬新款爱心毛衣+Whatsapp 852 9563 6035",
+        "picUrl": "https://si.geilicdn.com/open1861809981-1234478995-7683000001975fda43ea0aa043be_1280_1280.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1856192611",
+          "name": "HB classic",
+          "logo": "https://si.geilicdn.com/weidian1987826327-305400000199293773860a23038e_990_990.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3050136",
+        "mallType": "TB",
+        "itemId": "982368810857",
+        "title": "Cleanfit White Floral Gray Short Hooded Sweatshirt for Men, Autumn American Style Heavyweight Stiff Pullover Jacket, Inner Layer Top",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3559469549/O1CN01KwBmFW2KPV7vqZGlt_!!4611686018427384301-0-item_pic.jpg",
+        "price": "¥49.69",
+        "toPrice": "$7.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "412070929",
+          "name": "柳步旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3050762",
+        "mallType": "WD",
+        "itemId": "7492928098",
+        "title": "Lili - Present Sun God Icarus Printed American High Street Heavy duty Cotton Men's and Women's Loose Hooded Hoodie",
+        "picUrl": "https://si.geilicdn.com/open949985859-1838589072-5b69000001976da62d260a8115c2_800_800.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3053383",
+        "mallType": "WD",
+        "itemId": "7518150285",
+        "title": "秋季新款百搭连帽卫衣 088",
+        "picUrl": "https://si.geilicdn.com/open1834518869-1234478995-51570000019318ec793f0a8115b5_1200_1200.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1708079812",
+          "name": "CNBUY",
+          "logo": "https://si.geilicdn.com/shopedit1493538831-17a200000199429033100a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049822",
+        "mallType": "WD",
+        "itemId": "7315078345",
+        "title": "字母印花纯棉卫衣-EN",
+        "picUrl": "https://si.geilicdn.com/pcitem901878418355-701000000193192474130a231316_2160_2160.jpg",
+        "price": "¥210.00",
+        "toPrice": "$33.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1803259221",
+          "name": "ZT&amp;EN",
+          "logo": "https://si.geilicdn.com/pcdecorate901911512620-16aa00000193a4698f390a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3051599",
+        "mallType": "T1688",
+        "itemId": "979507952512",
+        "title": "高街连帽卫衣男女宽松情侣外套刺绣潮流基础大众嘻哈做旧外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01u0ekUD1PJbvnTaZ5d_!!2219542581820-0-cib.jpg",
+        "price": "¥117.00",
+        "toPrice": "$18.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBZuD9YiM-k4XTKAbHcZHnVw",
+          "name": "广州佐凯服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049547",
+        "mallType": "T1688",
+        "itemId": "829435746098",
+        "title": "The Same Style! Traceless Laminated Zipper! New Space Cotton Breathable Sports Casual Hooded Cardigan Sweatshirt Jacket for Men",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01msqB2F1wlRDCvAo5w_!!2216786566348-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBQSc75qDfbibIgxQEfYIJgQ",
+          "name": "常熟市莫城街道衣如歌服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3051762",
+        "mallType": "WD",
+        "itemId": "7412942558",
+        "title": "特价处理 stu骰子印花连帽卫衣三色",
+        "picUrl": "https://si.geilicdn.com/pcitem1230640363-3051000001956bddc16e0a81347d_4284_4284.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1230640363",
+          "name": "3pink999",
+          "logo": "https://si.geilicdn.com/wdseller1230640363-55d7000001799f39e48f0a217216_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048791",
+        "mallType": "WD",
+        "itemId": "7586351999",
+        "title": "【DX4】L时尚圆领卫衣",
+        "picUrl": "https://si.geilicdn.com/open1812523301-1234478995-5ac100000191f3c9eff90a210559_1200_1200.jpg",
+        "price": "¥300.00",
+        "toPrice": "$47.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1647799859",
+          "name": "NIFTY",
+          "logo": "https://si.geilicdn.com/pcdecorate2004224253-2b9b0000019a16842a8a0a23038e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049496",
+        "mallType": "T1688",
+        "itemId": "985214768834",
+        "title": "美式春秋男士纯棉翻领小马拉链卫衣外贸保罗休闲运动男女同款外套",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01tTdQ3v1Rh5T8A9TiJ_!!2220868832142-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcgLG9K4I7PXdh9LfSFLAFw",
+          "name": "佛山市禅城区七月缘子服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049989",
+        "mallType": "WD",
+        "itemId": "7590987056",
+        "title": "秋季新款百搭连帽卫衣 020-xyz",
+        "picUrl": "https://si.geilicdn.com/open1830128381-1234478995-036c00000197f4548ace0a22d249_1200_1200.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830128381",
+          "name": "SourceDock",
+          "logo": "https://si.geilicdn.com/pcdecorate1968389199-126a00000197eeb5cd720a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048533",
+        "mallType": "WD",
+        "itemId": "7598607932",
+        "title": "AW04-秋冬新款爱心毛衣+86 18965976222",
+        "picUrl": "https://si.geilicdn.com/open1657040365-1234478995-294d000001965297a7060a8115c2_1280_1280.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1763685667",
+          "name": "Aura Collective",
+          "logo": "https://si.geilicdn.com/weidian1984118026-79f600000198d5affa3f0a23041a_1096_1096.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049631",
+        "mallType": "T1688",
+        "itemId": "981833425336",
+        "title": "NOFS字母刺绣时尚潮牌宽松卫衣Y2K嘻哈街头装男女套头衫休闲上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YkN76D1pVgNnN8l7t_!!2220880865366-0-cib.jpg",
+        "price": "¥35.80",
+        "toPrice": "$5.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBD9qp3G3i1B4RI9M1wu9nSg",
+          "name": "上饶市晖达服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3048406",
+        "mallType": "WD",
+        "itemId": "7348818917",
+        "title": "Sweaters GS31（off 15%）",
+        "picUrl": "https://si.geilicdn.com/open1777771765-1234478995-066b000001943f2173fd0a8115b5_1200_1200.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1777771765",
+          "name": "Global Shop",
+          "logo": "https://si.geilicdn.com/pcdecorate901921912080-6cdf00000195e1958fa50a210139-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3050077",
+        "mallType": "WD",
+        "itemId": "7529756597",
+        "title": "经典时尚潮流百搭卫衣L-001",
+        "picUrl": "https://si.geilicdn.com/open1830593309-1234478995-321100000197aae500920a23b491_1200_1200.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1778098211",
+          "name": "BuyPandachina",
+          "logo": "https://si.geilicdn.com/wdseller1982374977-3dce000001994d826a600a8133cc_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049643",
+        "mallType": "T1688",
+        "itemId": "927928064328",
+        "title": "Cross-Border American High Street Fashion Brand Letter Printed Sweatshirt Suit for Men and Women Hip-Hop Street Loose Hooded Sweatshirt Ready for Sale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PfWvkq1ZAaFWnerJX_!!2219473453154-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOYXOPAL-mpkeI_FAZl8YlA",
+          "name": "义乌市入重电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049343",
+        "mallType": "WD",
+        "itemId": "7593661205",
+        "title": "688卫衣(重量600g)3D",
+        "picUrl": "https://si.geilicdn.com/pcitem1891615333-0ebb0000019a540b5fb30a23111a_1000_1000.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1859392485",
+          "name": "Good value for money",
+          "logo": "https://si.geilicdn.com/wdseller1891615333-6f700000019200228e240a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114136464194344666",
+  "language": "en"
+}

@@ -1,0 +1,68 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "16264",
+        "mallType": "TB",
+        "itemId": "728512186325",
+        "title": "Suitable for original apple iwatch9 apple s9 watch strap s8/7/6/5/SE/Ultra elastic silicone single ring strap sports breathable waterproof male and female universal official models wristbands",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ne98i6_xh2x.jpg",
+        "price": "¥25.90",
+        "toPrice": "$4.07",
+        "status": "normal",
+        "shopInfo": {
+          "id": "389578147",
+          "name": "飞觉旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "11837",
+        "mallType": "WD",
+        "itemId": "7225562450",
+        "title": " ultra2 2023 (49mm) good\n",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mbswsw_azok.jpg",
+        "price": "¥300.00",
+        "toPrice": "$47.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1773830057",
+          "name": "Brand factory",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "4804",
+        "mallType": "WD",
+        "itemId": "7251943366",
+        "title": "S-G-classic 6",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m41xqa_pis4.jpg",
+        "price": "¥210.00",
+        "toPrice": "$33.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1804138897",
+          "name": "Maketheone-Tech",
+          "logo": "https://si.geilicdn.com/wdseller1785215318-19580000018e41300db90a210244_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021142203811911212976",
+  "language": "en"
+}

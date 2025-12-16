@@ -1,0 +1,373 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "346655",
+        "mallType": "WD",
+        "itemId": "7269578454",
+        "title": "******",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saxa0q_8783.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 89,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346684",
+        "mallType": "WD",
+        "itemId": "7304786009",
+        "title": "******",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saylf8_9rlr.jpg",
+        "price": "¥72.00",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346643",
+        "mallType": "WD",
+        "itemId": "7258857897",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saw0wt_ckmg.jpg",
+        "price": "¥117.00",
+        "toPrice": "$18.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346636",
+        "mallType": "WD",
+        "itemId": "7252128264",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saw18w_0oim.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 42,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346635",
+        "mallType": "WD",
+        "itemId": "7252033380",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4savzpz_0eor.jpg",
+        "price": "¥92.00",
+        "toPrice": "$14.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 65,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346624",
+        "mallType": "WD",
+        "itemId": "7304756639",
+        "title": "****",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saw0ev_mtsn.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346542",
+        "mallType": "WD",
+        "itemId": "7238237440",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sar5wh_d13k.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346604",
+        "mallType": "WD",
+        "itemId": "7251367996",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sauuys_b6yk.jpg",
+        "price": "¥106.59",
+        "toPrice": "$16.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "346587",
+        "mallType": "WD",
+        "itemId": "7249590185",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4satnmv_u6lu.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346586",
+        "mallType": "WD",
+        "itemId": "7249601989",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4satmot_fimh.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 59,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346577",
+        "mallType": "WD",
+        "itemId": "7247373145",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4satgm8_cccg.jpg",
+        "price": "¥174.00",
+        "toPrice": "$27.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346540",
+        "mallType": "WD",
+        "itemId": "7237353697",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saqyv2_tiit.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346535",
+        "mallType": "WD",
+        "itemId": "7238072514",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saqxgv_uwkm.jpg",
+        "price": "¥142.00",
+        "toPrice": "$22.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346534",
+        "mallType": "WD",
+        "itemId": "7238052648",
+        "title": "***************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sar5ql_dxwg.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346525",
+        "mallType": "WD",
+        "itemId": "7299958755",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4saq082_kosb.jpg",
+        "price": "¥216.62",
+        "toPrice": "$34.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675444645",
+          "name": "WG",
+          "logo": "https://si.geilicdn.com/shopedit1884592270-4ba500000195d22b306e0a2315ef-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346470",
+        "mallType": "WD",
+        "itemId": "7268099754",
+        "title": "******",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4san05g_6vo7.jpg",
+        "price": "¥283.24",
+        "toPrice": "$44.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346375",
+        "mallType": "WD",
+        "itemId": "7251112547",
+        "title": "************",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4sahvbq_q1e4.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854268377",
+          "name": "花生苏格",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 100,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "346023",
+        "mallType": "WD",
+        "itemId": "6956075865",
+        "title": "D#or 2024 new cotton fabric men's and women's short-sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4s9yomj_x3ks.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1643890569",
+          "name": "Linda.Sue",
+          "logo": "https://si.geilicdn.com/wdseller1379728669-66a10000018bf52fad750a22d4f5_132_132.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "345989",
+        "mallType": "WD",
+        "itemId": "7225785419",
+        "title": "Moncl#r      T-shirt  ",
+        "picUrl": "https://cdn.findqc.com/item/20241217/m4s9xbbh_kwsn.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1643890569",
+          "name": "Linda.Sue",
+          "logo": "https://si.geilicdn.com/wdseller1379728669-66a10000018bf52fad750a22d4f5_132_132.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021150036931917134027",
+  "language": "en"
+}

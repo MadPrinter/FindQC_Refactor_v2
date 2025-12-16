@@ -1,0 +1,467 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3098515",
+        "mallType": "WD",
+        "itemId": "7464860236",
+        "title": "最新款B22系列网面休闲运动鞋男跑步鞋徒步鞋NH",
+        "picUrl": "https://si.geilicdn.com/open325967134-1234478995-1fc400000195fce8e35e0a23b491_1200_1200.jpg",
+        "price": "¥328.00",
+        "toPrice": "$51.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "325967134",
+          "name": "CCCL",
+          "logo": "https://si.geilicdn.com/wdseller325967134-79840000019608ef712b0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2660073",
+        "mallType": "WD",
+        "itemId": "7537913101",
+        "title": "Stone Sweatshirt-Solid Color-Hot Collection-AAA02",
+        "picUrl": "https://si.geilicdn.com/pcitem1934717690-57a600000198e730fe850a230115_1200_1200.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1872868125",
+          "name": "Source Factory",
+          "logo": "https://si.geilicdn.com/shopedit1948161211-32a7000001963d81ced60a23057e-unadjust_200_200.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2583634",
+        "mallType": "T1688",
+        "itemId": "868958391584",
+        "title": "MagSafe Magnetic Card Case Leather Apple 16 Cell Phone Back Sticker Card Case iPhone 15 Insert Card Card Clip 12/14",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ydXx422N2Y3VyZZ69_!!2218939059905-0-cib.jpg",
+        "price": "¥5.90",
+        "toPrice": "$0.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218939059905",
+          "name": "深圳市依妍电子有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1531316",
+        "mallType": "WD",
+        "itemId": "7430253366",
+        "title": "Factory Owned High Quality Summer Sports Short Sleeve Suit",
+        "picUrl": "https://si.geilicdn.com/pcitem901925468797-6517000001954560fef50a239646_7680_7680.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1816806469",
+          "name": "SSR-2",
+          "logo": "https://si.geilicdn.com/shopedit1873973088-788c000001944c7ed7d40a20e7c7-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "426392",
+        "mallType": "WD",
+        "itemId": "7259074202",
+        "title": "Fashion hoodie set -0071\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901873116176-554b0000019130a64fb40a210256-unadjust_1200_1200.png",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1639122105",
+          "name": "Good Buy",
+          "logo": "https://si.geilicdn.com/pcdecorate901866624056-5c5c000001907ce66b130a23047e-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2423686",
+        "mallType": "WD",
+        "itemId": "7551916358",
+        "title": "ZW-1BEV shoe PH (with original box OG quality DT)",
+        "picUrl": "https://cdn.findqc.com/item/20251018/mgvtme9v_wkkp.jpg",
+        "price": "¥265.00",
+        "toPrice": "$41.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718946179",
+          "name": "Overseas purchasing agent",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "40037",
+        "mallType": "TB",
+        "itemId": "663374180041",
+        "title": "New Magsafe Card Holder for Apple, Magnetic, Compatible with iPhone 13 Pro, Leather, Same Style as 13, Genuine Leather Card Case for iPhone 12, Leather Card Holder for iPhone 13 Pro Max, Leather Accessories for iPhone 12 Pro Max, Mini Access Card",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nmncg3_piid.jpg",
+        "price": "¥12.15",
+        "toPrice": "$1.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108598863",
+          "name": "时创数码专营店",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 56,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1693413",
+        "mallType": "WD",
+        "itemId": "7439842167",
+        "title": "Trendy Casual Sneakers",
+        "picUrl": "https://si.geilicdn.com/open325967134-1234478995-101100000195fcd682f80a8133b0_1200_1200.jpg",
+        "price": "¥250.00",
+        "toPrice": "$39.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "325967134",
+          "name": "CCCL",
+          "logo": "https://si.geilicdn.com/wdseller325967134-79840000019608ef712b0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2430639",
+        "mallType": "T1688",
+        "itemId": "934081842650",
+        "title": "Suitable for Apple 16Magsafe Magnetic Leather Card Holder Mobile Phone Case Back Sticker Card Holder Bus Access Card Protective Cover",
+        "picUrl": "https://cdn.findqc.com/item/20250928/mg3dcyqa_xeil.jpg",
+        "price": "¥5.50",
+        "toPrice": "$0.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkkloYXexSERLO3WL8IZzvg",
+          "name": "深圳市百雅轩科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "847371",
+        "mallType": "T1688",
+        "itemId": "780529357361",
+        "title": "For Apple 14 iPhone15 MagSafe Wallet Magnetic Card Bag Leather PU Strong Magnetic Card Cover Card",
+        "picUrl": "https://cdn.findqc.com/item/20250221/m7ektqlz_imex.jpg",
+        "price": "¥5.50",
+        "toPrice": "$0.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBayyQ9PC7LiTUHGJWIiqJOA",
+          "name": "深圳市传禾科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 91,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "50303",
+        "mallType": "TB",
+        "itemId": "626666190391",
+        "title": "ape ape camouflage tray key tray jewelry box car storage trendy decoration entrance key tray",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgvjz1_29mq.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021141327391911107423",
+  "language": "en"
+}

@@ -1,0 +1,312 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "251400",
+        "mallType": "WD",
+        "itemId": "7267705743",
+        "title": "Celadon Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p999b_frf4.jpg",
+        "price": "¥488.00",
+        "toPrice": "$76.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1367236596",
+          "name": "Thunder02",
+          "logo": "https://si.geilicdn.com/shopedit1367236596-53c20000018dbcbe65270a22d246-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "231334",
+        "mallType": "WD",
+        "itemId": "7265576800",
+        "title": "Men's summer thin jacket woven quick drying running training sports and leisure hooded jacket DD4747",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p7usm_287r.jpg",
+        "price": "¥239.00",
+        "toPrice": "$37.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1638272729",
+          "name": "HaloPanda",
+          "logo": "https://si.geilicdn.com/pcdecorate1849784164-6b4700000191a344080d0a8133cc-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 169,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "229475",
+        "mallType": "TB",
+        "itemId": "844719828296",
+        "title": "Nk Tech Fleece Hoodie Drip Drill Sports Suit Hoodie Pants",
+        "picUrl": "https://cdn.findqc.com/item/20241122/m3sbrvsf_eses.jpg",
+        "price": "¥130.58",
+        "toPrice": "$20.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "414863767",
+          "name": "Lufilo Studio",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "226705",
+        "mallType": "WD",
+        "itemId": "7275684574",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rgj4un_oyfy.jpg",
+        "price": "¥595.00",
+        "toPrice": "$93.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675444645",
+          "name": "WG",
+          "logo": "https://si.geilicdn.com/shopedit1884592270-4ba500000195d22b306e0a2315ef-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204551",
+        "mallType": "TB",
+        "itemId": "794670466344",
+        "title": "GJLWP #PRO029 SMKR Jacket Samaka Sun Protection Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42osafd_nv4y.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "201305",
+        "mallType": "T1688",
+        "itemId": "741717057081",
+        "title": "Autonomous BV style flat replacement niche tweed lapel short zipper cardigan jacket jacket men tide Cleanfit",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3oli0nm_jufw.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200593",
+        "mallType": "TB",
+        "itemId": "659982097025",
+        "title": "Japanese Bikozi because Petal Umbrella Long Handle Sun and Rain Umbrella Uv Protection Solid Color Sweet and Fresh",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ofvvlq_xxqh.jpg",
+        "price": "¥161.21",
+        "toPrice": "$25.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "457121742",
+          "name": "碧蔻资旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200525",
+        "mallType": "TB",
+        "itemId": "738272127926",
+        "title": "New Authentic Nike/NikeLab Men's High-end Hooded Outdoor Camouflage Windproof Waterproof Clip",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ofghge_ylzg.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200287",
+        "mallType": "TB",
+        "itemId": "752335159773",
+        "title": "Greg 23ss heavyweight multi-pocket hipster straight sports pants loose men and women couples with the same workwear sweatpants",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3obx5n0_odqo.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "categoryId": 11,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200158",
+        "mallType": "TB",
+        "itemId": "831108293412",
+        "title": "Literary padded floral cotton jacket fall and winter thickened hooded linen cotton clothing loose long windbreaker cotton jacket sub",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3o9gpoa_5zwb.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "categoryId": 36,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200134",
+        "mallType": "TB",
+        "itemId": "788908629578",
+        "title": "Middle East Arab robe fashion embroidered quilted poncho cardigan Dubai travel dress Summer robe",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3o84vdl_p6uj.jpg",
+        "price": "¥112.00",
+        "toPrice": "$17.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "121620453",
+          "name": "Summer外贸优选",
+          "type": "TB"
+        },
+        "categoryId": 37,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200102",
+        "mallType": "TB",
+        "itemId": "818189059296",
+        "title": "GJLWP #PRO050 ETIA Rain Jacket ETIA Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3o70uqp_y78j.jpg",
+        "price": "¥285.00",
+        "toPrice": "$44.81",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "200033",
+        "mallType": "TB",
+        "itemId": "765062283020",
+        "title": "National tide brand retro outdoor functional splicing rushing jacket fall and winter jacket men and women high street couples handsome versatile jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3o5rwf6_ge4e.jpg",
+        "price": "¥79.90",
+        "toPrice": "$12.56",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "199812",
+        "mallType": "TB",
+        "itemId": "732616405733",
+        "title": "Nike Nike High-end windproof and waterproof hooded windbreaker brand new, micro flaws scratches on the back, front",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3o02dgz_8sl3.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "199563",
+        "mallType": "TB",
+        "itemId": "821912490663",
+        "title": "Antioff Water-Repellent Four-Way Stretch Slightly Wrinkled Texture Diagonal Placket High Collar Split Hooded Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nxj3o8_khw8.jpg",
+        "price": "¥549.00",
+        "toPrice": "$86.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "128485777",
+          "name": "ANTIOFF",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "199569",
+        "mallType": "TB",
+        "itemId": "828830792567",
+        "title": "Lin Shiqi NICKIDAILY [Ruff Girls! Encore Red Korean Simple Contour Zipper Jacket Coat",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nxmrq1_2rg0.jpg",
+        "price": "¥389.00",
+        "toPrice": "$61.17",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "199399",
+        "mallType": "TB",
+        "itemId": "655988504141",
+        "title": "I'm not hip FOG FEAR OF GOD Season 7 Mainline FG7C Flocked Printed Belted Military Cloth Coat Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nuzips_wca3.jpg",
+        "price": "¥349.00",
+        "toPrice": "$54.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36550550",
+          "name": "我不潮我很干燥",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "199319",
+        "mallType": "TB",
+        "itemId": "696765375809",
+        "title": "Windbreaker Outwear for Women Spring & Fall 2025 New Popular Mid-Length Small British Style High-End Elegant Outwear",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nu3g63_yqf2.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104753540",
+          "name": "AM Six 原创女装",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1841626",
+        "mallType": "T1688",
+        "itemId": "772207212729",
+        "title": "European and American fashion brand spring and autumn nylon jacquard cardigan hooded jacket men's knitted inner embroidered double-sided zipper jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250729/mdoa0bk3_dxtz.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB9qtbYrkEKJhG1ql2BYI_sw",
+          "name": "中山市梵希服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141333202553919529",
+  "language": "en"
+}

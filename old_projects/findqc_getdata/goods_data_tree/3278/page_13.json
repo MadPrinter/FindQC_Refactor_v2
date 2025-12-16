@@ -1,0 +1,360 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1406949",
+        "mallType": "T1688",
+        "itemId": "770223510985",
+        "title": "Cross-border foreign trade spring new men's G fashion casual sports suit zipper jacket and men's pants suit",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000008030/O1CN01vp5SeF29BnB6yYDX1_!!6000000008030-0-tbvideo.jpg",
+        "price": "¥86.00",
+        "toPrice": "$13.52",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2274060",
+        "mallType": "WD",
+        "itemId": "7524313009",
+        "title": "10228 IT F423/rockers",
+        "picUrl": "https://si.geilicdn.com/open1801180035-1234478995-075100000198a18674810a23b4de_800_800.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2274058",
+        "mallType": "T1688",
+        "itemId": "938222917060",
+        "title": "25 NOCTA men's and women's spring hooded zipper cardigan loose shuttle casual sports jacket + pants can be sold separately",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dPr9Yc264WKdcgWT3_!!2218676967608-0-cib.jpg",
+        "price": "¥230.00",
+        "toPrice": "$36.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218676967608",
+          "name": "义乌市何购电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1761002",
+        "mallType": "WD",
+        "itemId": "7269246104",
+        "title": "Zipper Sweatshirt Set",
+        "picUrl": "https://si.geilicdn.com/pcitem1799783535-1dcd0000018f7608b7d30a2304aa_1024_1024.jpg",
+        "price": "¥356.00",
+        "toPrice": "$55.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1875660057",
+          "name": "得利优品",
+          "logo": "https://si.geilicdn.com/wdseller1840251789-680e0000018ec95cdfec0a22d4f5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1568584",
+        "mallType": "T1688",
+        "itemId": "864437254968",
+        "title": "2024 men's sportswear spring and fall new sweatshirt + sweatpants two-piece outdoor leisure sports suit",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000001361/O1CN016vNV0k1LvO5CmjIwa_!!6000000001361-0-tbvideo.jpg",
+        "price": "¥108.89",
+        "toPrice": "$17.12",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1568360",
+        "mallType": "T1688",
+        "itemId": "911832871388",
+        "title": "Men's Cross-border Hook Knitted Casual Windproof Running Sports Training suit Coat Trousers FB7922FB8002",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xWiPMY1vfeenGQdb6_!!2218981116200-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBleMqVB_2bHxBA-RAV6NuHg",
+          "name": "义乌市清唷服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 510,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221877",
+        "mallType": "T1688",
+        "itemId": "879219898506",
+        "title": "Autumn new light luxury hooded leisure suit men's fashion zipper pocket trend versatile sweater sweatpants two-piece set",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000001243/O1CN01J5Ubo51L3LKkZcBjc_!!6000000001243-0-tbvideo.jpg",
+        "price": "¥97.40",
+        "toPrice": "$15.32",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221667",
+        "mallType": "T1688",
+        "itemId": "903340392172",
+        "title": "2526 Vintage Edition Winter Jacket Windbreaker Pre-game Sports Appearance Jacket Zipper Model",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000001316/O1CN01fiXYCH1LamGbCJTej_!!6000000001316-0-tbvideo.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "499355",
+        "mallType": "T1688",
+        "itemId": "859897728399",
+        "title": "Small hook spring and fall new women's hooded loose zipper small LOGO embossed rubber long-sleeved sweater sports coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01D9cuAW1z4KoV2R5CH_!!2218663276660-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218663276660",
+          "name": "义乌市颐逗电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2446293",
+        "mallType": "WD",
+        "itemId": "7546730361",
+        "title": "High quality set 13",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-52d100000197d4fbd8b10a8133b0_800_800.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1920286",
+        "mallType": "T1688",
+        "itemId": "940350217979",
+        "title": "Spring and Autumn Outdoor Sports Set Men's Casual Clothing Zipper Hooded Cardigan Long Sleeve Leg Tight Pants Loose Running Two Piece Set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XRO4Yz1Sdi8KxQ28g_!!2217899822270-0-cib.jpg",
+        "price": "¥105.00",
+        "toPrice": "$16.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFK_CPjdM9ikEap7FZdD5Ww",
+          "name": "广州安耐运动服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1033265",
+        "mallType": "WD",
+        "itemId": "7326119592",
+        "title": "AMG 121708",
+        "picUrl": "https://si.geilicdn.com/pcitem949985859-798c00000193d45182760a210349_1706_1921.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2259286",
+        "mallType": "TB",
+        "itemId": "931671490283",
+        "title": "06 French Italian Retro Football Windbreaker Training Suit Football Windbreaker",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/387299363/O1CN01uKYnXK2J2JQMIF3gN_!!387299363.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "499316374",
+          "name": "追梦体育队服",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1563009",
+        "mallType": "WD",
+        "itemId": "7385522805",
+        "title": "2A4-1c-2",
+        "picUrl": "https://si.geilicdn.com/pcitem1920852425-2e2200000194cc3a7b7d0a23057e_592_592.jpg",
+        "price": "¥160.00",
+        "toPrice": "$25.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828414221",
+          "name": "Trendy Hub",
+          "logo": "https://si.geilicdn.com/shopedit1920852425-07b8000001945870dc520a239846-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 229,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1394236",
+        "mallType": "T1688",
+        "itemId": "893487597186",
+        "title": "High-Quality Gujia Suit, Classic Hooded Suit, Letter-Printed Suit, Cotton Hooded Suit for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jLnrPk1MhThp4J9mQ_!!2219422371466-0-cib.jpg",
+        "price": "¥235.00",
+        "toPrice": "$36.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4lxxUu8teuEbEwbmiiWQFA",
+          "name": "广州服道服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 138,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1032681",
+        "mallType": "WD",
+        "itemId": "7411637992",
+        "title": "5211",
+        "picUrl": "https://si.geilicdn.com/wdseller1891614120-7874000001956558a4d70a21146b_1288_1288.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1793621477",
+          "name": "长红贸易",
+          "logo": "https://si.geilicdn.com/wdseller901983107037-1b290000019aa233e2ab0a2103bd_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1032535",
+        "mallType": "WD",
+        "itemId": "7427840237",
+        "title": "BZ13- Outdoor travel jacket with multiple styles+86 152 0601 6592",
+        "picUrl": "https://si.geilicdn.com/pcitem1909812839-0c0e0000019624b48a470a20e672_800_800.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1783746229",
+          "name": "3SS Store （1:1 Quality）",
+          "logo": "https://si.geilicdn.com/shopedit1909812839-188600000195d186c0e60a2315ef-unadjust_362_362.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2066875",
+        "mallType": "WD",
+        "itemId": "7503900139",
+        "title": "**",
+        "picUrl": "https://si.geilicdn.com/open1700008665-1700008665-4f1300000197e0740fde0a8115c2_1440_1440.jpg",
+        "price": "¥142.00",
+        "toPrice": "$22.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1700008665",
+          "name": "一佳一",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2064383",
+        "mallType": "T1688",
+        "itemId": "822122920780",
+        "title": "American tide CORTEIZ embroidery Alcatraz windbreaker jacket men couple ins high street windproof jacket women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01McQBrE1FfSX7FZO1C_!!2216891680514-0-cib.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218351735133",
+          "name": "广州市番禺区一生潮牌服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1903821",
+        "mallType": "T1688",
+        "itemId": "893861532264",
+        "title": "High quality 25 year autumn and winter trendy brand casual full body plush printed sports suit for both men and women, couple set",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN017KpM2H1MhThmLsI9r_!!2219422371466-0-cib.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4lxxUu8teuEbEwbmiiWQFA",
+          "name": "广州服道服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021140564241911104381",
+  "language": "en"
+}

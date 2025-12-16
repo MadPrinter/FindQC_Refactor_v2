@@ -1,0 +1,626 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3102343",
+        "mallType": "T1688",
+        "itemId": "848437602294",
+        "title": "Heavy Industry Pink and White Love Wings Earbone Nails Baroque Design Exquisite, Small and Sweet Cool",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WLHDzs2CSgs2ZxTpa_!!2215585988473-0-cib.jpg",
+        "price": "¥2.68",
+        "toPrice": "$0.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWJojjJiPQ3alU7OVCTrF7Q",
+          "name": "义乌市凌设电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3165060",
+        "mallType": "T1688",
+        "itemId": "788131646161",
+        "title": "S925 Silver Pearl Earrings for Women, Light Luxury, High-End Feel, Niche Internet Celebrity Versatile Earrings, Autumn and Winter 2025 Earrings Wholesale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mek3T81DGbo6LHrR6_!!2216555930189-0-cib.jpg",
+        "price": "¥1.28",
+        "toPrice": "$0.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKgEIqr9IAHQIl6zDE5SFWQ",
+          "name": "义乌雅泱饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 11
+      },
+      {
+        "id": "3163112",
+        "mallType": "T1688",
+        "itemId": "581534296600",
+        "title": "S925 Sterling Silver Authentic Earrings Female Temperament Korean Micro-inlaid Square Diamond Earrings Electroplated Platinum Fashion Super Flash Earrings",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/2018/229/166/9608661922_1855493802.jpg",
+        "price": "¥5.60",
+        "toPrice": "$0.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBX4t5A_2R3HClIP5BVqdfKg",
+          "name": "海丰县梅陇康银之城首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3048606",
+        "mallType": "T1688",
+        "itemId": "933102045944",
+        "title": "Cross-Border Popular Lucky 13mm Four-Leaf Clover Earrings Titanium Steel Non-Fading Gold Single-Sided Mother-Of-Pearl Earrings Factory Direct Sale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ena4zt1GMyGoyiHUG_!!2218840870609-0-cib.jpg",
+        "price": "¥2.90",
+        "toPrice": "$0.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUaJlaxjaRf0Rq8EZavPi5w",
+          "name": "东莞市长安欧晨饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1572092",
+        "mallType": "WD",
+        "itemId": "6464077960",
+        "title": "L Clover Lozenge Mother-of-pearl Earrings",
+        "picUrl": "https://si.geilicdn.com/weidian166282890-14c8000001893a3cfb7a0a20e284_1500_2000.jpg",
+        "price": "¥4.90",
+        "toPrice": "$0.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "166282890",
+          "name": "苗苗优品小店",
+          "logo": "https://si.geilicdn.com/bj-vshop-166282890-1537670747759-1290451269_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3180235",
+        "mallType": "TB",
+        "itemId": "43439102048",
+        "title": "Silver Colored Diamond Short Drop Pearl Earrings-A8038",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1602284621/O1CN01FUKigh1k0SiPLaLeq_!!1602284621.jpg",
+        "price": "¥31.30",
+        "toPrice": "$4.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103980134",
+          "name": "优雅蝴蝶",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3093645",
+        "mallType": "TB",
+        "itemId": "924756601991",
+        "title": "Orange Sea Sweet Cool Style Girl Love Ear Bone Cochlear Nail Titanium Steel Unique Cross Zircon Ear Nail Earrings",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2214044366111/O1CN01hhZ01Z1v0tPi2vVc3_!!2214044366111.jpg",
+        "price": "¥3.03",
+        "toPrice": "$0.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "525940765",
+          "name": "韩菲饰品ACC",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3173248",
+        "mallType": "TB",
+        "itemId": "620604853729",
+        "title": "Panjia S925 Sterling Silver Ocean Series New Shell Products Turtle Dolphin Starfish Bracelet DIY Accessories",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/3911796797/O1CN01ogyJQv20551LeiI06_!!0-item_pic.jpg",
+        "price": "¥29.72",
+        "toPrice": "$4.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "564198691",
+          "name": "潘奇尔(PANQER)纯银工厂店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3172581",
+        "mallType": "T1688",
+        "itemId": "935785854317",
+        "title": "Authentic Real-Shot Chanel-Style Double C Mini Small Earrings for Women, Grandma Full Diamond Earrings Wholesale Dropshipping",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ADy07L1GbcwOCOo6F_!!2219901950641-0-cib.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBnqsfInPTrw2zN5rbt40csw",
+          "name": "海丰县梅陇镇尼藤首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3093435",
+        "mallType": "TB",
+        "itemId": "574134501125",
+        "title": "3 ~ 8mm diamond earrings for men and women, 2 pieces",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/3424308848/TB2vrL_XjfguuRjSspkXXXchpXa_!!3424308848.jpg",
+        "price": "¥10.43",
+        "toPrice": "$1.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "354667112",
+          "name": "鱼小余批发商行",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3164517",
+        "mallType": "TB",
+        "itemId": "745189480156",
+        "title": "Shinma Original Vampire Fangs Non-Piercing Lip Clip Devil Teeth Titanium Steel No-Piercing Lip Ring Halloween",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2257935607/O1CN01vvgibW1rI3dYggSg3_!!2257935607.jpg",
+        "price": "¥21.30",
+        "toPrice": "$3.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "583295487",
+          "name": "shinma饰你吗",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1019032",
+        "mallType": "T1688",
+        "itemId": "671136330238",
+        "title": "Jitterbug fast hand live simulation moissanite earrings eight hearts and eight arrows zircon six claws earrings moissanite earrings wholesale",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000004217/O1CN01UMN8AB1h1R3MN6a1W_!!6000000004217-0-tbvideo.jpg",
+        "price": "¥2.00",
+        "toPrice": "$0.31",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3159650",
+        "mallType": "T1688",
+        "itemId": "928061107661",
+        "title": "High-End Chanel-Inspired Double-C Pearl Earrings with a Sophisticated Feel, Featuring a Niche Style and 925 Silver Needle Studs Made of Brass",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01PdASU91qZdNgCxrOj_!!2219812785510-0-cib.jpg",
+        "price": "¥10.00",
+        "toPrice": "$1.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzqbrGOd1-749mfTr5dJqFQ",
+          "name": "海丰县梅陇镇奢饰界首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3159630",
+        "mallType": "T1688",
+        "itemId": "874626443884",
+        "title": "小香风耳骨钉螺丝拧扣镀银镀金 韩国精致小巧养耳洞螺纹耳钉女",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Z73Vq52B6Q13gM7sI_!!2215668728289-0-cib.jpg",
+        "price": "¥4.80",
+        "toPrice": "$0.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215668728289",
+          "name": "海丰县梅陇镇长湖首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2573114",
+        "mallType": "T1688",
+        "itemId": "937063577792",
+        "title": "High version of the standard incense home double C mini trumpet full diamond earrings female sweet little fragrant wind earrings female wholesale generation of hair",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TKUApK2NPRtiBsle4_!!2219894149955-0-cib.jpg",
+        "price": "¥14.00",
+        "toPrice": "$2.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219894149955",
+          "name": "广州乔蓝饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 57,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2822733",
+        "mallType": "WD",
+        "itemId": "7461828028",
+        "title": "H-1 One act, one promise, one vow for a lifetime. (Jewelry) (V * an C * leef&A * rpels) (with gift box packaging)",
+        "picUrl": "https://si.geilicdn.com/pcitem1863084767-468100000196a41a932d0a20e672_1200_1200.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1792588181",
+          "name": "watch（+852 5366 9653）",
+          "logo": "https://si.geilicdn.com/shopedit1863084767-60ec00000195febb7fb80a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3111859",
+        "mallType": "WD",
+        "itemId": "7286432759",
+        "title": "【 Counter Quality 】 Small Fragrance Full Diamond Double C Earrings/Available in Two Colors/Classic Essential Basic Style\n",
+        "picUrl": "https://si.geilicdn.com/wdseller1498581469-286a000001928628063b0a23138d_1080_1080.jpg",
+        "price": "¥400.00",
+        "toPrice": "$62.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621016484",
+          "name": "Bicky 饰品",
+          "logo": "https://si.geilicdn.com/wdseller1498581469-13fa00000189d9a485420a2313e0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3158358",
+        "mallType": "T1688",
+        "itemId": "798610967694",
+        "title": "Earrings for men, popular in 2025, factory direct sales, earrings for women, simple and versatile, high-end accessories, pendant accessories, wholesale\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YxnRQB2DGc0FeuFa1_!!2206719808582-0-cib.jpg",
+        "price": "¥0.19",
+        "toPrice": "$0.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwfc7oMz-m6hnYRWg6Os6IQ",
+          "name": "义乌市潮邦饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3112500",
+        "mallType": "T1688",
+        "itemId": "866519071064",
+        "title": "潘家白铜电镀银锁骨链爱心系列红宝石套装DIY配件跨境耳钉戒指",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01D2nXjz1Zi17ttQphx_!!2216030593227-0-cib.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216030593227",
+          "name": "海丰县梅陇镇潘多唯美首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3147700",
+        "mallType": "TB",
+        "itemId": "583417335630",
+        "title": "David Studio925 Sterling Silver Gothic English Letter Necklace Pendant for Men and Women Trendy Couple Internet Celebrity",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/109808005/O1CN01GoG35Q290KzKzYXE9_!!109808005.jpg",
+        "price": "¥330.02",
+        "toPrice": "$51.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36089321",
+          "name": "David925",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021144254961917915393",
+  "language": "en"
+}

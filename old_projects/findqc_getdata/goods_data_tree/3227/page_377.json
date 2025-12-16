@@ -1,0 +1,375 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2603378",
+        "mallType": "TB",
+        "itemId": "980241112709",
+        "title": "[Same as Loren Hamilton] ERD OG Punk Portrait Printed Comic Short Sleeve Tee",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1pgl36_9xve.jpg",
+        "price": "¥131.33",
+        "toPrice": "$20.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "591773781",
+          "name": "冷静的K8",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2623287",
+        "mallType": "TB",
+        "itemId": "871980569770",
+        "title": "FW24 Red Eyes Tee chest figure Print pattern round neck short sleeve T-shirt men's and women's base shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mgujgtxl_u884.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "464464911",
+          "name": "大S潮牌社",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2725569",
+        "mallType": "WD",
+        "itemId": "7510984303",
+        "title": "Wholesale Collection VTM European and American Trendy Brand Retro Washed Letter Embroidery OS Male and Female Couple Loose Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1olm8q_kmpv.jpg",
+        "price": "¥163.00",
+        "toPrice": "$25.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1646627709",
+          "name": "精选外贸",
+          "logo": "https://si.geilicdn.com/shopedit1966731999-109f0000019a86c0577f0a2396f4-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1862582",
+        "mallType": "T1688",
+        "itemId": "943454838256",
+        "title": "2025 Autumn and Winter New Trendy Brand Letter All-Over Logo Round Neck Knitted Sweater for Men and Women, Loose Casual Top",
+        "picUrl": "https://cdn.findqc.com/item/20250825/meqfhqh0_qfxa.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqzc__v2gJc6O5H_JwobRLw",
+          "name": "广州市白云区黄石街兔飞猛进服装店",
+          "type": "T1688"
+        },
+        "categoryId": 24,
+        "qcPicCnt": 348,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2687807",
+        "mallType": "T1688",
+        "itemId": "854991330244",
+        "title": "Cross-border foreign trade new single Carhart hooded washed leisure sports pullover sweater hoodie long sleeve coat tide",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mguhwle8_ojsc.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBzoDiayITDsWNczBOz_3lzA",
+          "name": "广州翎燕服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1281108",
+        "mallType": "T1688",
+        "itemId": "907024118857",
+        "title": "Cross-Border Export Supply Ruff Rl Pony Logo Round Neck Short-Sleeved Men's Summer Paul Polo Casual Cotton T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250807/me0gq4vq_58is.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-5p3ZTb_x-tWnfwZxAw6Zw",
+          "name": "上海一贰衣文化传播有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 387,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2653365",
+        "mallType": "T1688",
+        "itemId": "903691632564",
+        "title": "Spring and Summer New Mask Classic All-match Single-ogo Embroidered Badge Short-sleeved T-shirt Unisex Casual Loose Ins for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mguhgy7u_5a7m.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB_pZp804al8ujrgFs0mTDUQ",
+          "name": "佛山市禅城区沨耘服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2755518",
+        "mallType": "T1688",
+        "itemId": "980692632029",
+        "title": "Gymshark Threaded Elastic Long Sleeve Tight for Body Enhancement, Sports Training Base for Men",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1lcasl_10f1.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216802394228",
+          "name": "铅山县德昌贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2503358",
+        "mallType": "WD",
+        "itemId": "7552039439",
+        "title": "Character printed short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mgua57lf_ctv4.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1862121501",
+          "name": "Calorie bomb",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2321685",
+        "mallType": "TB",
+        "itemId": "899450971023",
+        "title": "Ss25 Aphex Twin Ambient Works Tee Co-Branded Music Work Pure Cotton Short-Sleeved Base Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mguacpje_j36j.jpg",
+        "price": "¥90.21",
+        "toPrice": "$14.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "464464911",
+          "name": "大S潮牌社",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "816489",
+        "mallType": "T1688",
+        "itemId": "877453161950",
+        "title": "Summer Foreign Trade RLpolo Shirt Men's Short-sleeved T-shirt Lap Pony Embroidery Casual Simple Casual",
+        "picUrl": "https://cdn.findqc.com/item/20250330/m8v5jqlf_w1fo.jpg",
+        "price": "¥29.95",
+        "toPrice": "$4.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBOjHxv4qCKsp9k2oV8muZVQ",
+          "name": "铅山县鹏非电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 557,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2615922",
+        "mallType": "WD",
+        "itemId": "7436962589",
+        "title": "(In stock) Acn */SS25 heavyweight silk mesh eyeball ground/3D relief embroidery/washed haze gray long sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1fpgdb_zs01.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1746841069",
+          "name": "DB MADE",
+          "logo": "https://si.geilicdn.com/wdseller1944535810-745400000195f589000e0a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2724559",
+        "mallType": "T1688",
+        "itemId": "863643933369",
+        "title": "DSQ LIAN D2 AliExpress Amazon cross-border foreign trade network for men's clothing DSQUARED2",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh1e8mo1_h8fb.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhvfgbHoccYf_jeZzJyg-Nw",
+          "name": "广州誉民服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1553993",
+        "mallType": "TB",
+        "itemId": "871616414168",
+        "title": "24Fw Hysteric Glamour Pin up Tee Hysterical Short-Sleeved T-Shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mgu6ptcc_lctk.jpg",
+        "price": "¥90.71",
+        "toPrice": "$14.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "464464911",
+          "name": "大S潮牌社",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "45601",
+        "mallType": "TB",
+        "itemId": "706891741052",
+        "title": "Japanese Style 260g Heavyweight T-Shirt for Men, Short-Sleeved, Vintage Amekaji, Pure Cotton, Solid Color, White Base Shirt, Half-Sleeve, Summer",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mepasx_5xxd.jpg",
+        "price": "¥23.56",
+        "toPrice": "$3.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "115197724",
+          "name": "daftpunk疯庞克旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2556574",
+        "mallType": "T1688",
+        "itemId": "928496132639",
+        "title": "Summer Long-Sleeved Spot Men's Moisture-Wicking Spring Sweatshirt Cycling Suit Downhill Suit Fox Hpit Fox",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mgufrbyo_kptp.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbDT9EjpsYMb5kucP8dCV-Q",
+          "name": "厦门市湖里区华悦时代服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2754299",
+        "mallType": "TB",
+        "itemId": "797599192449",
+        "title": "Kith Aurora Jaws Tee Ai Aurora Phantom Shark T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh16rncn_lvhr.jpg",
+        "price": "¥109.61",
+        "toPrice": "$17.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "393210361",
+          "name": "最高荣誉",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2120494",
+        "mallType": "TB",
+        "itemId": "932079712276",
+        "title": "Kith K&K 25 Series Collection of Various Pure Cotton T-Shirts",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh17gmly_c7ew.jpg",
+        "price": "¥110.13",
+        "toPrice": "$17.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "393210361",
+          "name": "最高荣誉",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2754305",
+        "mallType": "TB",
+        "itemId": "933052411409",
+        "title": "Kith Supper Collection of Various Pure Cotton T-shirts from the Super Ren Series",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh170m7e_1y33.jpg",
+        "price": "¥109.99",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "393210361",
+          "name": "最高荣誉",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2754306",
+        "mallType": "TB",
+        "itemId": "720326361227",
+        "title": "Kith Tokyo Lanterns/Boro Logo Tee Tokyo Lantern/Boro Logo T-shirt made of pure cotton",
+        "picUrl": "https://cdn.findqc.com/item/20251022/mh170mko_fi5g.jpg",
+        "price": "¥110.46",
+        "toPrice": "$17.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "393210361",
+          "name": "最高荣誉",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145411342553904301",
+  "language": "en"
+}

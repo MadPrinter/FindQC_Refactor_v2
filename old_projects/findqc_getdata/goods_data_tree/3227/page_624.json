@@ -1,0 +1,332 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1289416",
+        "mallType": "WD",
+        "itemId": "7426382137",
+        "title": "Black Sheep T-shirt Sham Shui Po District",
+        "picUrl": "https://cdn.findqc.com/item/20250611/mbqr4dbb_dtfx.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1378088195",
+          "name": "CND CLOTH",
+          "logo": "https://si.geilicdn.com/wdseller1378088195-5f6f000001739627e4360a20b7b9_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1288408",
+        "mallType": "TB",
+        "itemId": "832728196826",
+        "title": "Shipu Shipu Broken Retro Vintage Disgusting Earthly Style Personalized Top Light Punk Dirty Long Sleeve T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250502/ma6720au_hy0h.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "410847916",
+          "name": "十卟SHIBU",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1289288",
+        "mallType": "TB",
+        "itemId": "784003633351",
+        "title": "American style trendy niche high street couple's solid color cotton printed casual round neck short sleeved retro loose T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250512/mak7vfku_ao6h.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1693586",
+        "mallType": "WD",
+        "itemId": "7434724540",
+        "title": "T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250802/mdtv600f_83al.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1759481460",
+          "name": "Spring",
+          "logo": "https://si.geilicdn.com/shopedit1518472927-543100000195b3e2ed280a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1289281",
+        "mallType": "WD",
+        "itemId": "7392923765",
+        "title": "R90990-H29",
+        "picUrl": "https://cdn.findqc.com/item/20250502/ma5szbpu_97sr.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1696259265",
+          "name": "ROCKET3",
+          "logo": "https://si.geilicdn.com/wdseller901765162150-069a000001948c2b506b0a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1287401",
+        "mallType": "WD",
+        "itemId": "7441841482",
+        "title": "030484 pugongying casual short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250708/mctroa8s_er5w.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2181",
+        "mallType": "TB",
+        "itemId": "756289633735",
+        "title": "VTM side pocket design with three detachable camouflage loose cargo pants Travis Scott",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2t0t1_h304.jpg",
+        "price": "¥599.00",
+        "toPrice": "$94.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "137886910",
+          "name": "Jenniem",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 105,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1287303",
+        "mallType": "WD",
+        "itemId": "7343941812",
+        "title": "Kobe Bryant The Unseen Tee",
+        "picUrl": "https://cdn.findqc.com/item/20250510/mahkunrr_xsx1.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1622852062",
+          "name": "Eric篮球鞋",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1285420",
+        "mallType": "T1688",
+        "itemId": "841966001734",
+        "title": "American high street 3D digital letter angel print retro couple round neck loose short sleeved t-shirt trend",
+        "picUrl": "https://cdn.findqc.com/item/20250504/ma97gx9n_syh0.jpg",
+        "price": "¥14.99",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1285412",
+        "mallType": "WD",
+        "itemId": "7447575568",
+        "title": "Independent~Foreign Trade Order Ami 25ss Children's Fun Love Short sleeved T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250504/ma8tqyn9_qjtf.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1189587528",
+          "name": "麦昆潮奢",
+          "logo": "https://si.geilicdn.com/weidian1189587528-237b0000018aa8669a120a21146b_820_820.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1285401",
+        "mallType": "T1688",
+        "itemId": "895011510120",
+        "title": "Hot selling pony summer pure cotton round neck slim fit short sleeved men's versatile solid color embroidered T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250504/ma8ka6lt_3hhq.jpg",
+        "price": "¥33.99",
+        "toPrice": "$5.34",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1285386",
+        "mallType": "WD",
+        "itemId": "7435494014",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20250503/ma814nh3_nhbu.jpg",
+        "price": "¥103.00",
+        "toPrice": "$16.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615509721",
+          "name": "WWW——34-1",
+          "logo": "https://si.geilicdn.com/shopedit1848591094-437a000001963933a6090a23111a-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1285383",
+        "mallType": "WD",
+        "itemId": "7421982886",
+        "title": "R91718-H76",
+        "picUrl": "https://cdn.findqc.com/item/20250503/ma7zy92r_m55l.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1696259265",
+          "name": "ROCKET3",
+          "logo": "https://si.geilicdn.com/wdseller901765162150-069a000001948c2b506b0a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1285374",
+        "mallType": "WD",
+        "itemId": "7240344043",
+        "title": "CT short sleeved cake print with hands on the back C251",
+        "picUrl": "https://cdn.findqc.com/item/20250503/ma7ll7xr_m86n.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1285363",
+        "mallType": "TB",
+        "itemId": "801958017883",
+        "title": "European trendy brand popular polo shirt short sleeved men's versatile summer new casual lapel business jacquard solid color T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250503/ma79rvcl_vh2i.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110734743",
+          "name": "小西达人潮店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1285362",
+        "mallType": "WD",
+        "itemId": "2043866257146024906750",
+        "title": "The shipper clears the warehouse for AC round neck printed short clearance, and does not return or exchange items unless there are quality issues",
+        "picUrl": "https://cdn.findqc.com/item/20250503/ma79rn6m_gjr7.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858885532",
+          "name": "2December的小屋",
+          "logo": "https://si.geilicdn.com/wdseller1543338394-5bb800000185725383710a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 50,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1285355",
+        "mallType": "TB",
+        "itemId": "805836838145",
+        "title": "Opening limited edition leopard print short sleeved T-shirt B360",
+        "picUrl": "https://cdn.findqc.com/item/20250503/ma76fyii_7caw.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107748732",
+          "name": "Singor2",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1285352",
+        "mallType": "WD",
+        "itemId": "7424577346",
+        "title": "Lili-2025031485 trendy short sleeved NOEASY GALLERY DEPT car mobilization vintage car printed high weight high street T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250503/ma72wq2n_fo71.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149039611924857446",
+  "language": "en"
+}

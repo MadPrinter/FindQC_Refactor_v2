@@ -1,0 +1,102 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "16931",
+        "mallType": "TB",
+        "itemId": "613123408114",
+        "title": "Bauskydd B232 Spring and Autumn Jacket Black and Gray Splicing Workwear Reflective Outdoor Auto Repair Electrician Work Clothes",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nemt3z_phh0.jpg",
+        "price": "¥189.00",
+        "toPrice": "$29.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "336688405",
+          "name": "bauskydd旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16048",
+        "mallType": "TB",
+        "itemId": "605319334846",
+        "title": "Clearance New Model 180 360 Motorcycle Off-Road Suit Riding Clothing for Track, Trail, Mountain Downhill, Breathable and Quick-Drying",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ne8k0h_9l1d.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "328661987",
+          "name": "MOTO越野",
+          "type": "TB"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "13492",
+        "mallType": "TB",
+        "itemId": "814667316712",
+        "title": "Manga Sky Inter Deadpool 3 Wolverine Marvel Movie and TV cosplay the same character performance C clothes cos clothes 5467",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcjdar_pnzy.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "131220567",
+          "name": "漫天际Manles",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "8254",
+        "mallType": "TB",
+        "itemId": "624956508474",
+        "title": "F1 racing suit Europe and the United States Fan College wind casual small cotton jacket retro personality fall and winter jacket classic paragraph full embroidery",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3ma1lr3_myzx.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "101172319",
+          "name": "赛车服直销",
+          "type": "TB"
+        },
+        "categoryId": 32,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2937",
+        "mallType": "TB",
+        "itemId": "731338242076",
+        "title": "F1 Subaru Racing Suit Motorcycle Warm Riding Jacket Windproof Cotton Coat American Style Tough Jacket Embroidered for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m34ef9_art5.jpg",
+        "price": "¥101.59",
+        "toPrice": "$15.97",
+        "status": "normal",
+        "shopInfo": {
+          "id": "533427395",
+          "name": "KUNOVERDOSE",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145394201924858163",
+  "language": "en"
+}

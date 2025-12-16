@@ -1,0 +1,632 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3213185",
+        "mallType": "T1688",
+        "itemId": "837811974457",
+        "title": "正确版本《现货》P家2024立领羽绒马甲外套百搭男女同款冬季款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01adt7dM2IMAv33rfyx_!!2218089819271-0-cib.jpg",
+        "price": "¥460.00",
+        "toPrice": "$72.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218089819271",
+          "name": "广州文文好物鞋服商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2759751",
+        "mallType": "TB",
+        "itemId": "987032265963",
+        "title": "Fall and winter Sports Students Running vest Winter Training Sports Down Cotton Lightweight vest Windproof Heattech Sports vest",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2216957254417/O1CN01A8IEnz1iV2M5UsTyi_!!2216957254417.jpg",
+        "price": "¥139.51",
+        "toPrice": "$21.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "241956859",
+          "name": "枯木逢春服饰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1059279",
+        "mallType": "T1688",
+        "itemId": "890274798776",
+        "title": "Cross-border big goose vest winter new in stock style cotton-padded jacket foreign trade quality cotton and thickening warm coat on behalf of hair",
+        "picUrl": "https://cdn.findqc.com/item/20250328/m8ryy0z0_d7g6.jpg",
+        "price": "¥83.90",
+        "toPrice": "$13.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiIbQr-Ds9iPOQwTgfmO14g",
+          "name": "广州婉勤贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 505,
+        "qcVideoCnt": 12,
+        "picWidth": "799",
+        "picHeight": "1066"
+      },
+      {
+        "id": "3106639",
+        "mallType": "WD",
+        "itemId": "7602698726",
+        "title": "热卖款加棉加厚保暖立领马甲",
+        "picUrl": "https://si.geilicdn.com/wdseller1906425372-68120000019a7180fdb90a20e672_800_800.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1870435893",
+          "name": "Hope",
+          "logo": "https://si.geilicdn.com/wdseller1906425372-3b4a0000019334bf89760a207569_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3096641",
+        "mallType": "WD",
+        "itemId": "7593915066",
+        "title": "【DX19-29】男女款美式秋冬立领保暖棉衣马甲坎-SRCN",
+        "picUrl": "https://si.geilicdn.com/pcitem901940024420-2d1c00000199eab0f2110a81347d_4284_4284.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1668172557",
+          "name": "TOPSUMMER",
+          "logo": "https://si.geilicdn.com/pcdecorate901935370638-6dde000001956ab6cb320a231316-unadjust_350_350.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3203255",
+        "mallType": "WD",
+        "itemId": "7583926835",
+        "title": "【DX19-29】男女款美式秋冬立领保暖棉衣马甲坎",
+        "picUrl": "https://si.geilicdn.com/pcitem901940024420-2d1c00000199eab0f2110a81347d_4284_4284.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3165075",
+        "mallType": "TB",
+        "itemId": "987297417536",
+        "title": "Fair Isle Shetland Floral Pattern V-Neck Vest American Retro Thick Multi-Color Jacquard Knitted Vest",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/141574610/O1CN01NwN5Ms1jvQxcVG6ng_!!141574610.jpg",
+        "price": "¥159.35",
+        "toPrice": "$25.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "272875484",
+          "name": "修斯的美式复古",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1511432",
+        "mallType": "T1688",
+        "itemId": "825631291854",
+        "title": "Southeast Asia 2024 fall and winter new cotton vest trend of sleeveless warm undershirt outside the hooded shoulders couple horse jacket",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000000358/O1CN01FnK0MC1EW0jUTpIez_!!6000000000358-0-tbvideo.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3133897",
+        "mallType": "WD",
+        "itemId": "7617272382",
+        "title": "(Exclusive Welfare) Clothing length: 78, shoulder width: 60 with slight flaws, code: b111. I agree to place an order without returning or exchanging!\n",
+        "picUrl": "https://si.geilicdn.com/wdseller901921896855-5f970000019ab17df3dd0a2395e9_1179_1179.jpg",
+        "price": "¥30.00",
+        "toPrice": "$4.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1850717273",
+          "name": "YOLO",
+          "logo": "https://si.geilicdn.com/wdseller1845163825-643f0000018e441273ff0a21146b_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3038286",
+        "mallType": "WD",
+        "itemId": "7594767268",
+        "title": "宽松无袖连帽保暖棉服外套马甲坎肩-Ri5",
+        "picUrl": "https://si.geilicdn.com/open1878930789-1234478995-18360000019a3adb83a80a231226_1919_1919.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1878930789",
+          "name": "Black X",
+          "logo": "https://si.geilicdn.com/wdseller1888214674-613b00000191c16772b10a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3108187",
+        "mallType": "T1688",
+        "itemId": "983302193602",
+        "title": "秋冬暗纹老花立领拉链白鸭绒填充新款男士羽绒背心men vest coat",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Ew5Xwu28565qs1xqN_!!2218687517880-0-cib.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEgJKLCxcIqE4BWNUbINq0Q",
+          "name": "广州世誉箱包商行",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1877144",
+        "mallType": "T1688",
+        "itemId": "944969519580",
+        "title": "Putian factory wholesales goose down jackets, vests, classic autumn and winter men's and women's couple short vests, camisoles, jackets\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011ADZME1tUXpxkSJtz_!!2219901255905-0-cib.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmkqsJC7baV6JUWp71YLRjA",
+          "name": "莆田市秀屿区千丝万缕鞋业店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1261730",
+        "mallType": "TB",
+        "itemId": "870909299427",
+        "title": "Corteiz Alcatraz American-Style Simple Waffle Knit Embroidered Tank Top for Summer, Unisex",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2075710764/O1CN01eYYpEI1HVxcT7IrHY_!!2075710764.jpg",
+        "price": "¥47.02",
+        "toPrice": "$7.39",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3173069",
+        "mallType": "WD",
+        "itemId": "7563116708",
+        "title": "CT背心凹凸浮雕N943",
+        "picUrl": "https://si.geilicdn.com/pcitem1375395368-1554000001998cfd98b00a230115_706_706.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1375395368",
+          "name": "cchaoss",
+          "logo": "https://si.geilicdn.com/shopedit1375395368-715300000191369642bb0a207569-unadjust_120_120.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1018608",
+        "mallType": "T1688",
+        "itemId": "854668000304",
+        "title": "High version RL Ralph American casual down vest windproof warm duck down sleeveless undershirt embroidery thick jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vdvS0D1I68tT0Fjvm_!!2218173800843-0-cib.jpg",
+        "price": "¥270.00",
+        "toPrice": "$42.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218173800843",
+          "name": "义乌市菱塍服饰商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 52,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2332501",
+        "mallType": "TB",
+        "itemId": "909507923504",
+        "title": "Idlt Paper Yarn Loose Vest 220g Loose Basic Version Moisture-Wicking Breathable Sports Versatile Outdoor Functional Japanese Style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1566784/O1CN01mVZCLm1zz7xRrVZPK_!!1566784.jpg",
+        "price": "¥93.03",
+        "toPrice": "$14.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33259211",
+          "name": "LXYZ 理想衣栈",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1458443",
+        "mallType": "T1688",
+        "itemId": "914479407265",
+        "title": "Summer Running Sports Vest Men's Lightweight Punch Marathon Racing Vest Sleeveless Quick-drying Fitness Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DCinwV1Sdi7U7dgkE_!!2217899822270-0-cib.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFK_CPjdM9ikEap7FZdD5Ww",
+          "name": "广州安耐运动服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 43,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2662654",
+        "mallType": "T1688",
+        "itemId": "974190058949",
+        "title": "Outdoor goose down jacket vest Canada with the same paragraph loose warm thickened undershirt men and women couple models shoulders",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Zi6lYW210n3J5tgIQ_!!2220723766923-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220723766923",
+          "name": "石狮市如价沙仕网络服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3162654",
+        "mallType": "T1688",
+        "itemId": "977961582809",
+        "title": "跨境货源 拉夫小马刺绣男士秋冬立领轻薄棉衣马甲男女外套背心",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yJAdRe1KOa9RvFk5A_!!2220737381154-0-cib.jpg",
+        "price": "¥95.90",
+        "toPrice": "$15.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220737381154",
+          "name": "广州豪东服饰商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2828557",
+        "mallType": "WD",
+        "itemId": "7282373241",
+        "title": "High version 2024 autumn/winter vest cotton jacket for both men and women",
+        "picUrl": "https://si.geilicdn.com/open1804138897-1234478995-625f000001926265c90d0a210559_860_860.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1804138897",
+          "name": "Maketheone-Tech",
+          "logo": "https://si.geilicdn.com/wdseller1785215318-19580000018e41300db90a210244_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114544599194344393",
+  "language": "en"
+}

@@ -1,0 +1,647 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1017363",
+        "mallType": "WD",
+        "itemId": "7233907273",
+        "title": "ESS Collection FOG (Hooded Collection)",
+        "picUrl": "https://cdn.findqc.com/item/20250911/mfegps85_b1tf.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858297913",
+          "name": "CZH顶级潮品",
+          "logo": "https://si.geilicdn.com/shopedit1852028364-378e0000018ee78d60630a2396f4-unadjust_600_597.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 194,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "3057065",
+        "mallType": "WD",
+        "itemId": "7462846463",
+        "title": "XC B@tch J0R1\n",
+        "picUrl": "https://si.geilicdn.com/open1723443309-1234478995-362800000196b497c9270a8115c2-unadjust_800_800.png",
+        "price": "¥380.00",
+        "toPrice": "$59.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1723443309",
+          "name": "sports",
+          "logo": "https://si.geilicdn.com/shopedit1939010431-1e1500000196bad4d9bd0a210256-unadjust_736_736.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2298198",
+        "mallType": "WD",
+        "itemId": "7539054099",
+        "title": "P470 L*T",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfvc44h0_i34k.jpg",
+        "price": "¥470.00",
+        "toPrice": "$73.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1676556451",
+          "name": "Bev",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1378337",
+        "mallType": "WD",
+        "itemId": "7403577225",
+        "title": "High quality set -6101 (pls contact WhatsApp:+1 (346) 256-7125, if size recommendation is needed)",
+        "picUrl": "https://si.geilicdn.com/open1610848089-1848188377-3abe000001942535315e0a232357-unadjust_800_800.gif",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1640191541",
+          "name": "MangoBuy-1",
+          "logo": "https://si.geilicdn.com/shopedit1906472072-1caa000001932a2c2dfc0a207569-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3040570",
+        "mallType": "WD",
+        "itemId": "7311620838",
+        "title": "高品质休闲裤-8001（pls contact WhatsApp：+1（346）256-7125，if u need size recommendation）",
+        "picUrl": "https://si.geilicdn.com/pcitem1847703580-10080000019299d68f9f0a23111a-unadjust_800_800.gif",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1754045653",
+          "name": "Chinese Factory",
+          "logo": "https://si.geilicdn.com/shopedit1902740711-0e000000019367eb1e490a8134f0-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2181291",
+        "mallType": "WD",
+        "itemId": "7509417663",
+        "title": "Work pants for couples, retro multi pocket casual, loose fitting, men's and women's leg tied straight leg pants, fashionable and casual",
+        "picUrl": "https://si.geilicdn.com/open1854564045-1234478995-1af9000001981468f73a0a8133b0_800_800.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854564045",
+          "name": "Trendy Shop",
+          "logo": "https://si.geilicdn.com/pcdecorate1929805743-72300000019864e151d60a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "401691",
+        "mallType": "WD",
+        "itemId": "7309213769",
+        "title": "Factory high quality cotton clothes super low price 1:1",
+        "picUrl": "https://si.geilicdn.com/pcitem901894143575-315b000001938bfdbed50a20e7c7-unadjust_800_800.gif",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848188377",
+          "name": "Reps_Clothes",
+          "logo": "https://si.geilicdn.com/shopedit1850836603-653d00000190880fe7200a2301b4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2915593",
+        "mallType": "WD",
+        "itemId": "7559507080",
+        "title": "OWN High Quality 1-ST-001",
+        "picUrl": "https://si.geilicdn.com/open1754245677-1234478995-377e000001965ce457370a8133b0-unadjust_799_800.gif",
+        "price": "¥200.00",
+        "toPrice": "$31.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1367350623",
+          "name": "FashionReps",
+          "logo": "https://si.geilicdn.com/pcdecorate1367350623-29020000019518b938cb0a2315ef-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "164305",
+        "mallType": "TB",
+        "itemId": "765229145745",
+        "title": "Export Single-Team Embroidered Baseball Cap White Sox Red Sox Dodgers Rays Athletics Cubs Casual Sun Hat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mpu878_2rk6.jpg",
+        "price": "¥20.43",
+        "toPrice": "$3.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "293529718",
+          "name": "外贸出口帽子批发Hat factor",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3180212",
+        "mallType": "WD",
+        "itemId": "7459749098",
+        "title": "CO-2D*ior b25/b30（带原盒配件齐全）",
+        "picUrl": "https://si.geilicdn.com/pcitem1942758976-0b9f00000196849b65d10a23047e_1200_1200.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1788179693",
+          "name": "Noir Cube",
+          "logo": "https://si.geilicdn.com/shopedit1942758976-2f5900000195d04308af0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 66,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1800581",
+        "mallType": "WD",
+        "itemId": "7458248620",
+        "title": "High quality outerwear 30",
+        "picUrl": "https://si.geilicdn.com/open1610848089-1610848089-06d500000192062c5b390aa0233d-unadjust_799_800.gif",
+        "price": "¥169.00",
+        "toPrice": "$26.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1848876445",
+          "name": "TrendyU",
+          "logo": "https://si.geilicdn.com/wdseller1951015104-648400000196729261ae0a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1,
+        "picWidth": "799",
+        "picHeight": "800"
+      },
+      {
+        "id": "2057492",
+        "mallType": "WD",
+        "itemId": "7518099007",
+        "title": "High Quality Set-001",
+        "picUrl": "https://si.geilicdn.com/open1755195901-1234478995-152700000198636d65d70aa0c791_800_800.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1755195901",
+          "name": "Grade A",
+          "logo": "https://si.geilicdn.com/pcdecorate1969177391-288800000197cfc398d40a2315ef-unadjust_655_655.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1676318",
+        "mallType": "T1688",
+        "itemId": "810976388192",
+        "title": "Huaqiangbei Head mounted Air Yuehu Zhongke Pods Suitable for Apple Max Wireless Noise Reduction Transparent Bluetooth Big Earphones",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01083wBg1RW5psczmAI_!!2213249702118-0-cib.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpoIw04-rTm1FQebqWwJ8oQ",
+          "name": "深圳市鼎盛天逸实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2143238",
+        "mallType": "WD",
+        "itemId": "7403584951",
+        "title": "High quality set (pls contact WhatsApp:+1 (346) 256-7125, if size recommendation is needed)",
+        "picUrl": "https://si.geilicdn.com/pcitem1847703580-093500000192527eb7dc0a231316-unadjust_800_800.gif",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1640191541",
+          "name": "MangoBuy-1",
+          "logo": "https://si.geilicdn.com/shopedit1906472072-1caa000001932a2c2dfc0a207569-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 74,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2849837",
+        "mallType": "WD",
+        "itemId": "7460858648",
+        "title": "REP High Quality 2-HD-001 ¥99 Scannable Code",
+        "picUrl": "https://si.geilicdn.com/pcitem901885500614-308d00000191c55f689c0a8133cc-unadjust_800_800.gif",
+        "price": "¥118.80",
+        "toPrice": "$18.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1854689181",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1896194",
+        "mallType": "WD",
+        "itemId": "7501988617",
+        "title": "High quality fall and winter casual versatile round neck sweater",
+        "picUrl": "https://si.geilicdn.com/open1704625661-1234478995-7e4600000197d58721a40a231226-unadjust_800_800.gif",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1704625661",
+          "name": "Closet Core",
+          "logo": "https://si.geilicdn.com/pcdecorate1969345745-29c400000197cfdabf7c0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2074146",
+        "mallType": "WD",
+        "itemId": "7518339916",
+        "title": "Fashion Sportswear",
+        "picUrl": "https://si.geilicdn.com/open1812523301-1234478995-00f100000191407f283c0a22d234_828_826.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1777327485",
+          "name": "BTC 001",
+          "logo": "https://si.geilicdn.com/shopedit1966423484-06c900000197a521e8e90a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2636298",
+        "mallType": "WD",
+        "itemId": "7388191770",
+        "title": "REP High Quality 1-CL-001",
+        "picUrl": "https://si.geilicdn.com/pcitem901883166076-21f5000001915efbdc650a230115-unadjust_900_900.png",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1731615349",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/shopedit1912557549-57ec00000196b9cbdadb0a2315ef-unadjust_110_110.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 82,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2659019",
+        "mallType": "WD",
+        "itemId": "7528720010",
+        "title": "REP High Quality 3-SW-001",
+        "picUrl": "https://si.geilicdn.com/open1617149909-1234478995-776e00000198b165bf340a8133b0-unadjust_800_800.gif",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1617149909",
+          "name": "Tomibuy",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 100,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3152086",
+        "mallType": "TB",
+        "itemId": "983337800622",
+        "title": "U-Bailin vest\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1854157063/O1CN01QrL9sY222uVUC4uuJ_!!1854157063.jpg",
+        "price": "¥111.06",
+        "toPrice": "$17.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "186831244",
+          "name": "pengreps",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021148027321930822196",
+  "language": "en"
+}

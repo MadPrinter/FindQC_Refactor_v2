@@ -1,0 +1,43 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3364",
+        "mallType": "TB",
+        "itemId": "680652850452",
+        "title": "Original luxury tide vintage CDG style metal claw teeth pearl patchwork necklace sweet cool spicy female high sense of accessory",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3cwgy_im76.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "categoryId": 15,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3322",
+        "mallType": "TB",
+        "itemId": "754072922905",
+        "title": "Mr.Blingggggg European and American Hip-Hop Jewelry Ken Carson Same Style Full Diamond Large Rage Pendant",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3c3us_5zz5.jpg",
+        "price": "¥820.64",
+        "toPrice": "$129.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "217334292",
+          "name": "MrBlingggggg Jewelry",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021141554471911158994",
+  "language": "en"
+}

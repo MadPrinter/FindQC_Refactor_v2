@@ -1,0 +1,383 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "379059",
+        "mallType": "WD",
+        "itemId": "7326850716",
+        "title": "****** products",
+        "picUrl": "https://si.geilicdn.com/open1828016549-252808396-3abd00000193d8c04a910a8115b5_900_900.jpg",
+        "price": "¥154.00",
+        "toPrice": "$24.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1828016549",
+          "name": "我的小铺",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-249600000193b88380020a231316-unadjust_234_234.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 54,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "379045",
+        "mallType": "WD",
+        "itemId": "7336536826",
+        "title": "Men's and Women's 555555 Spider Web Foam Printed Hip Hop Loose Terry Hooded Sweatshirt Set",
+        "picUrl": "https://si.geilicdn.com/open1826523129-252808396-00670000019403e6d6e80a8115b5_750_750.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1826523129",
+          "name": "酷驰衣库",
+          "logo": "https://si.geilicdn.com/shopedit1866261491-4dfb00000192237c48c40a21146b-unadjust_475_475.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843930",
+        "mallType": "T1688",
+        "itemId": "941526092970",
+        "title": "AJ2025 jacket men's spring and fall sports and leisure knitted hooded windproof loose jacket top HV0950",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bSXu1H1gxm6bQzdPV_!!2219862674209-0-cib.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219862674209",
+          "name": "义乌市叶麦服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 108,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "378910",
+        "mallType": "T1688",
+        "itemId": "833080063921",
+        "title": "Foreign trade 2025 fall and winter men and women with the same hooded sweatshirt zipper graffiti ID card printing long-sleeved hoodie jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gX5yQk1Cv5EMKgTcE_!!2214282480142-0-cib.jpg",
+        "price": "¥36.00",
+        "toPrice": "$5.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214282480142",
+          "name": "深圳市宝安区英伦酷童针织制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "378740",
+        "mallType": "WD",
+        "itemId": "7309324483",
+        "title": "Long Sleeve Sweatshirt Men's Embroidered Zipper Cardigan Jacket 1",
+        "picUrl": "https://si.geilicdn.com/open1664735176-252808396-5fbe000001935dc3088f0a232357_1066_1066.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1664735176",
+          "name": "KeyLStore",
+          "logo": "https://si.geilicdn.com/wdseller1460570988-3ac00000019523642c4c0a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 99,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843913",
+        "mallType": "T1688",
+        "itemId": "941174661177",
+        "title": "Foreign trade fall and winter padded pony hooded sweater RL cardigan zipper embroidery loose large size Paul POLO jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZxykDQ29azFPOwbXy_!!2219796768085-0-cib.jpg",
+        "price": "¥34.80",
+        "toPrice": "$5.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219400372636",
+          "name": "上饶市禾帝服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2210730",
+        "mallType": "WD",
+        "itemId": "7232848501",
+        "title": "Stu Hoodie 1",
+        "picUrl": "https://si.geilicdn.com/pcitem1852028364-1a790000018ebace86a40a813470_800_800.jpg",
+        "price": "¥185.00",
+        "toPrice": "$29.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858297913",
+          "name": "CZH顶级潮品",
+          "logo": "https://si.geilicdn.com/shopedit1852028364-378e0000018ee78d60630a2396f4-unadjust_600_597.gif?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843897",
+        "mallType": "T1688",
+        "itemId": "931500170754",
+        "title": "Sweatshirt 2025 new spring round neck fashionable classic pullover sports casual long sleeved top genuine BV2667",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Sha44N1gxm6LDU2Li_!!2219862674209-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFTabYapVmXhTG0ROSjvToQ",
+          "name": "义乌市叶麦服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843904",
+        "mallType": "WD",
+        "itemId": "7426501507",
+        "title": "FOG Repeat Line Hooded Sweatshirt 1977 Flocking Printed High Street Tide Padded Couple Men and Women",
+        "picUrl": "https://si.geilicdn.com/open1875660057-252808396-3c6e00000195a3ab792d0a22d249_800_800.jpg",
+        "price": "¥156.00",
+        "toPrice": "$24.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1875660057",
+          "name": "得利优品",
+          "logo": "https://si.geilicdn.com/wdseller1840251789-680e0000018ec95cdfec0a22d4f5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1843836",
+        "mallType": "T1688",
+        "itemId": "755049364739",
+        "title": "Amazon Cross Border Spring and Fall Padded Men's Street Hip Hop White Open Water Mineral Men's Hooded Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01yODnBB1n5SP9ITp42_!!2216864435038-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216864435038",
+          "name": "上饶市瑞枫服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1293708",
+        "mallType": "T1688",
+        "itemId": "865636425136",
+        "title": "2022 SS Hooded Hoodie Black Letter Plush FOG Double Line ESSENTIALS Trendy Brand Cross border Hot Sale 1977",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ShKWht1MsT17phcTl_!!3540451490-0-cib.jpg",
+        "price": "¥21.99",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRaFgZqziybrp7vI7pi_XkQ",
+          "name": "义乌市优捷服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 511,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "378717",
+        "mallType": "WD",
+        "itemId": "7260516084",
+        "title": "Sweatshirt men's and women's hooded sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1807788260-41840000018f6db587300a23041a_800_800.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1750913753",
+          "name": "核桃",
+          "logo": "https://si.geilicdn.com/weidian1991015231-145000000199972d3f7a0a20e672_996_996.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "378670",
+        "mallType": "WD",
+        "itemId": "7316864604",
+        "title": "St*ne lsl*nd** customized cufflinks buttons three standard accessories complete factory OEM original hardware accessories, high quality workmanship details",
+        "picUrl": "https://si.geilicdn.com/pcitem1876729931-66400000019280e7e4960a20e273-unadjust_1200_1200.png",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1692721349",
+          "name": "预算好物",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 96,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "378662",
+        "mallType": "T1688",
+        "itemId": "796087020553",
+        "title": "Cross-border trend street loose sweater suit Cortez white men's and women's sportswear hip-hop skateboarding casual suit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN010AwkzZ1mZOgAMTehM_!!2215128434968-0-cib.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215128434968",
+          "name": "上饶市凯俊服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 45,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "378651",
+        "mallType": "WD",
+        "itemId": "7267664289",
+        "title": "Classic S * TONE Stone Head Solid Color Round Neck Badge Long Sleeve Hoodie unisex Island Couple Correct Edition",
+        "picUrl": "https://si.geilicdn.com/open1710883753-1234478995-439200000191c368a1ca0a239383_800_800.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1710883753",
+          "name": "Good times",
+          "logo": "https://si.geilicdn.com/wdseller1829169095-009400000194488b8c430a20e273_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 394,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1844190",
+        "mallType": "T1688",
+        "itemId": "849947135444",
+        "title": "AMIRI Wei Yi Collection Cross-border Beauty Tide Letter Printing 360g terry men's Loose Casual Hooded Wei Yi",
+        "picUrl": "https://cdn.findqc.com/item/20250919/mfqdzwyp_gk0f.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBL81wpaFiF6Fs5kQhkhno_w",
+          "name": "广州潮疯街国际贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1478314",
+        "mallType": "WD",
+        "itemId": "7469230349",
+        "title": "DX30] Solid Color Round Neck Badge Long Sleeve Sweatshirt Pullover Sweatshirt Men's and Women's Collection",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-08eb00000193cd7c45030a8115b5_1200_1200.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 268,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1478286",
+        "mallType": "T1688",
+        "itemId": "904228997225",
+        "title": "syna trucker hat baseball cap flat-brimmed duck tongue cap UKDRIPDRILL European and American hip-hop street",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01rQLzyN1fg5Ab6fvZk_!!2211898564035-0-cib.jpg",
+        "price": "¥95.00",
+        "toPrice": "$14.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211898564035",
+          "name": "仙居县晨一工艺品厂(普通合伙)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "378340",
+        "mallType": "WD",
+        "itemId": "7303477034",
+        "title": "R Horse Sweatshirt Collection",
+        "picUrl": "https://si.geilicdn.com/pcitem227764523-4ccc000001922a6203b20a20e672_3000_3000.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1679418085",
+          "name": "Northsong",
+          "logo": "https://si.geilicdn.com/shopedit1889981767-6cbf0000019246d0b1210a22d172-unadjust_195_195.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "274277",
+        "mallType": "WD",
+        "itemId": "7300143337",
+        "title": "Spring and Autumn new technology leisure sports hooded jacket, casual pants jacket set",
+        "picUrl": "https://cdn.findqc.com/item/20241130/m43u5i1c_ur31.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873187321",
+          "name": "Artist潮流精品",
+          "logo": "https://si.geilicdn.com/shopedit1865109611-06860000018fcd8facad0a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145467722553909025",
+  "language": "en"
+}

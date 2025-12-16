@@ -1,0 +1,339 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1693987",
+        "mallType": "WD",
+        "itemId": "7364087046",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1791080881-252808396-00cd0000019020158da00a239383_1200_1200.jpg",
+        "price": "¥96.00",
+        "toPrice": "$15.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615509721",
+          "name": "WWW——34-1",
+          "logo": "https://si.geilicdn.com/shopedit1848591094-437a000001963933a6090a23111a-unadjust_158_158.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1693415",
+        "mallType": "WD",
+        "itemId": "7351688723",
+        "title": "shirts",
+        "picUrl": "https://si.geilicdn.com/open1764057365-1838589072-4f2400000194457ab5f40a232357_800_800.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1764057365",
+          "name": "haobuy",
+          "logo": "https://si.geilicdn.com/shopedit1893397454-093a000001930aca39e80a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1689613",
+        "mallType": "TB",
+        "itemId": "856982262574",
+        "title": "KK11 I LAY DOWN MY LIFE FOR YOU Art Tee Jpegmafia Album Short Sleeve T-Shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2212643669335/O1CN01zSFYfT2IpUHuq4dAm_!!2212643669335.jpg",
+        "price": "¥69.99",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1689611",
+        "mallType": "TB",
+        "itemId": "944505138154",
+        "title": "Ken Carson 2Hollis a Great Chaos Tour Merch Collaboration Limited Edition Short Sleeve",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2212643669335/O1CN01eD4cCH2IpULGwYRr8_!!2212643669335.jpg",
+        "price": "¥69.99",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "434467843",
+          "name": "KK11 FLANEUR",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1555340",
+        "mallType": "T1688",
+        "itemId": "931602978538",
+        "title": "2025 summer tide new cotton round neck short-sleeved T-shirt cartoon letters printed casual loose versatile tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01d8mfNb1vRSOFNCFB9_!!2219382576169-0-cib.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1554199",
+        "mallType": "WD",
+        "itemId": "7455207884",
+        "title": "Cotton loose men's and women's round neck T-shirt for couples with short sleeves",
+        "picUrl": "https://si.geilicdn.com/pcitem1851176087-5c0a0000018f480087300a21146b_1000_1000.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1798140141",
+          "name": "SURU",
+          "logo": "https://si.geilicdn.com/shopedit1942469142-54a10000019610b2c5d10a230115-unadjust_250_250.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1554203",
+        "mallType": "T1688",
+        "itemId": "891244899136",
+        "title": "Vlone short-sleeved big V Fujiwara Hiroshi Wang Yibo same loose couple men and women reflective T-shirt summer generation of hair",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000007605/O1CN01076Vb926397DsAqcX_!!6000000007605-0-tbvideo.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553797",
+        "mallType": "WD",
+        "itemId": "7496183489",
+        "title": "q1 T-shirt",
+        "picUrl": "https://si.geilicdn.com/open1837302784-1234478995-0350000001970d675f600a231226_800_800.jpg",
+        "price": "¥51.00",
+        "toPrice": "$8.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1837302784",
+          "name": "Lightningbuy",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553583",
+        "mallType": "T1688",
+        "itemId": "805254823634",
+        "title": "ERD melancholy rich second generation American trend mud dye printing heavy cotton loose couple short sleeve T-shirt men and women summer",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000003912/O1CN01Y3WK5u1elkBCOjkM8_!!6000000003912-0-tbvideo.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553538",
+        "mallType": "T1688",
+        "itemId": "753675846241",
+        "title": "280g heavy duty washed jacquard fabric men's tops lapel polo shirt men polo",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZlE5Ps2Jrbd3fW9vW_!!2216967049475-0-cib.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553347",
+        "mallType": "T1688",
+        "itemId": "893015994431",
+        "title": "2526 new soccer jerseys Brazil home away old Brazil training uniforms short-sleeved cross-border on behalf of the purchase of soccer uniforms",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cTcbzs1Bs32NajpWH_!!0-0-cib.jpg",
+        "price": "¥36.88",
+        "toPrice": "$5.80",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553533",
+        "mallType": "T1688",
+        "itemId": "893317528628",
+        "title": "(High quality) G family 25 spring new letters jacquard classic GG version of the same men and women polo shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Mi0ZjL1xtyFw2WScR_!!2219117586502-0-cib.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553481",
+        "mallType": "T1688",
+        "itemId": "837606782799",
+        "title": "25 New Cross border Trendy Brand Long sleeved T-shirt with Round Neck, Pure Cotton Versatile, in Stock Batch\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN0112a8CG1cUgU4CFkbA_!!2218130543604-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBDA1jHH-ltxvRYFe19XFahg",
+          "name": "广州鑫睿潮品服装服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 224,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553349",
+        "mallType": "WD",
+        "itemId": "7373862029",
+        "title": "G 0 A T",
+        "picUrl": "https://si.geilicdn.com/open1854268377-252808396-3f5e0000019112947d200a210559_1920_1440.jpg",
+        "price": "¥86.00",
+        "toPrice": "$13.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769151449",
+          "name": "顺泽鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553296",
+        "mallType": "WD",
+        "itemId": "7412970206",
+        "title": "Cross-border send SynaWord high street hip-hop foam printed short sleeve shorts casual suit men's American hip-hop t",
+        "picUrl": "https://si.geilicdn.com/open1684891361-1234478995-45b6000001956b8567350a8133b0_800_800.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1684891361",
+          "name": "ThebigY store",
+          "logo": "https://si.geilicdn.com/wdseller1778358520-557d00000196f8821c200a2303ee_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 41,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1553275",
+        "mallType": "T1688",
+        "itemId": "815232196489",
+        "title": "Foreign Trade Wholesale Project Capri American Retro Men's and Women's Pure Cotton Short sleeved T-shirt Collection",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nUAdrb2Bsy3eapfya_!!2217591168395-0-cib.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBmaXrgP_q9wTcslAkWs3O9A",
+          "name": "珠海楚鹏服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1549493",
+        "mallType": "T1688",
+        "itemId": "893282308449",
+        "title": "Muscle Shark Fitness American Trendy Brand New Hot Selling Heavy Men's T-shirt Cotton Loose Fashion New Large T",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ouJW9j21tkXemDyoj_!!2217276507043-0-cib.jpg",
+        "price": "¥69.99",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1552379",
+        "mallType": "WD",
+        "itemId": "7386229571",
+        "title": "R Horse T-shirt - Solid Color",
+        "picUrl": "https://si.geilicdn.com/pcitem1450586499-38bb0000018751a56c080a813470_800_800.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1713147597",
+          "name": "Easy buy",
+          "logo": "https://si.geilicdn.com/shopedit1930131677-5bde0000019863776bd50a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 80,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1552345",
+        "mallType": "TB",
+        "itemId": "781694333648",
+        "title": "U.S. tide hell star ins the same retro printing summer high street men and women loose casual cotton short-sleeved T-shirt tide",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/409187313/O1CN013vXkon23tPNLyHDcf_!!409187313.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "156422319",
+          "name": "潮牌批发 一件代发",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1550362",
+        "mallType": "T1688",
+        "itemId": "894439357595",
+        "title": "Trapstar Slant Print Style Wear Men Europe and America Hip Hop Short Sleeve T-Shirt",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000000116/O1CN011kHzSN1CjAyt50GMK_!!6000000000116-0-tbvideo.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144039402553894583",
+  "language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "31577",
+        "mallType": "WD",
+        "itemId": "5330960833",
+        "title": "H15 AD Yeezy Slide-FX0495",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njkq0d_rfe8.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1753723858",
+          "name": "CNFactory2",
+          "logo": "https://si.geilicdn.com/shopedit1598594944-142f0000018617b347180a2313a2-unadjust_123_123.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29441",
+        "mallType": "WD",
+        "itemId": "7238920016",
+        "title": "DD1503-108",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj5fz8_v722.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "160885222",
+          "name": "Budgetshoes",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 13,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114512229194346394",
+  "language": "en"
+}

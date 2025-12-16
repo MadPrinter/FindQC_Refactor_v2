@@ -1,0 +1,107 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "183867",
+        "mallType": "WD",
+        "itemId": "7034965594",
+        "title": "G&H&D V gold",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mrkquj_0j4x.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "227764523",
+          "name": "electronic store",
+          "logo": "https://si.geilicdn.com/shopedit227764523-0122000001921dc7c7410a239646-unadjust_640_640.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "68658",
+        "mallType": "TB",
+        "itemId": "689405228012",
+        "title": "Japanese Akira Automatic Curling Iron for Large Curls, Non-Damaging Hair Curler, Long-Lasting Styling Electric Curling Iron 32mm Perm Clip",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmd229_0sz5.jpg",
+        "price": "¥236.46",
+        "toPrice": "$37.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33976362",
+          "name": "AkiraCosme",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "53187",
+        "mallType": "T1688",
+        "itemId": "746372483962",
+        "title": "New anion hair straightening comb wireless rechargeable portable hair straightener does not hurt the hair curly straight dual-use hair straightener",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3no4rs9_xr3w.jpg",
+        "price": "¥46.80",
+        "toPrice": "$7.36",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "37031",
+        "mallType": "T1688",
+        "itemId": "724356176940",
+        "title": "Amazon Cross Border Hot Air Comb Straight Hair Multifunctional Men Women Styling Comb Curl Straight Dual Purpose Short Hair Beard Curling Comb",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nl627q_6q6r.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34950",
+        "mallType": "WD",
+        "itemId": "6782917579",
+        "title": " hs05",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nkhfx9_01xj.jpg",
+        "price": "¥1,200.00",
+        "toPrice": "$188.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834819569",
+          "name": "Digital store",
+          "logo": "https://si.geilicdn.com/pcdecorate1807659364-17c200000190168472c60a23038e-unadjust_500_500.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "31935",
+        "mallType": "T1688",
+        "itemId": "743612318039",
+        "title": "Amazon Cross Border 7-in-1 Hot Air Comb Multi-function Negative Ion Blow Dryer Comb Automatic Curling Hair Straightening Comb Blow Dryer",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3njqt7e_5wsf.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114307190249898116",
+  "language": "en"
+}

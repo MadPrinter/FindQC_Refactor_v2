@@ -1,0 +1,448 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "414322",
+        "mallType": "TB",
+        "itemId": "712428080668",
+        "title": "Tide brooch BAPE HEAD PINS EVISU creative badge Fukujin male ape head pin metal accessories",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/1870444582/O1CN018uWmpL1jibifFvotv_!!1870444582.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "107367805",
+          "name": "ZMANNKO",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3096834",
+        "mallType": "T1688",
+        "itemId": "642376369113",
+        "title": "德国法国西班牙意大利荷兰英格兰世界杯球迷纪念品礼品徽章纪念章",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01YyYXGe27FL105exOu_!!2539207767-0-cib.jpg",
+        "price": "¥2.40",
+        "toPrice": "$0.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2539207767",
+          "name": "深圳市龙华区合盛体育用品商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896265",
+        "mallType": "TB",
+        "itemId": "718824701910",
+        "title": "Mysterious Egyptian tourist refrigerator decorated with pyramid, pharaoh, queen, lion, human face, three-dimensional magnetic refrigerator",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkmee2h_dulj.jpg",
+        "price": "¥9.05",
+        "toPrice": "$1.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "167881223",
+          "name": "梵乐森旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899177",
+        "mallType": "TB",
+        "itemId": "677236524750",
+        "title": "MLB Surrounding Major League Baseball Team Badge Badge Badge NY Yankees Dodgers Team Pin",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjzj72z_9wyv.jpg",
+        "price": "¥4.10",
+        "toPrice": "$0.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105524047",
+          "name": "黄铭球迷店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2327801",
+        "mallType": "TB",
+        "itemId": "834723543001",
+        "title": "NH35 dial 31.8mm literal precision modified farmhouse oak dial silver stripe nail green night light watch accessories",
+        "picUrl": "https://cdn.findqc.com/item/20250905/mf6s1mr6_9c3c.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "243639636",
+          "name": "NH35机改装配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1780456",
+        "mallType": "T1688",
+        "itemId": "824805598474",
+        "title": "Miaojia Round Enamel Letter Earrings Miumiu Gold Earrings Tassel Normcore Design Girl Fashion Versatile",
+        "picUrl": "https://cdn.findqc.com/item/20250721/mdcot4lh_ebsf.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBVEomisFDh39nqI_2GtZakQ",
+          "name": "海丰县梅陇镇香高品首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "200128",
+        "mallType": "TB",
+        "itemId": "758247698957",
+        "title": "2023 Uefa Champions League Badge (Fine Textile)",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3o7zn35_foaf.jpg",
+        "price": "¥2.04",
+        "toPrice": "$0.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "267266542",
+          "name": "福运号码馆",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "38630",
+        "mallType": "TB",
+        "itemId": "674246214531",
+        "title": "European Cup Armband 96-20 Season European Cup Heat Transfer Flocking Embroidery Armband",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nm57m1_ov06.jpg",
+        "price": "¥1.53",
+        "toPrice": "$0.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "267266542",
+          "name": "福运号码馆",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "30020",
+        "mallType": "TB",
+        "itemId": "774356589377",
+        "title": "New Crocs Accessories Crocs Shoes Flower Crocs Decorations Zhibixing Accessories DIY Texture Metal Cupid",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj8onv_0jty.jpg",
+        "price": "¥11.12",
+        "toPrice": "$1.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "70823738",
+          "name": "洞洞鞋新玩家",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "22311",
+        "mallType": "TB",
+        "itemId": "640507413566",
+        "title": "cross shoes flower accessories shoes decoration hole shoes flower shoes buckle shoes decoration Zhibixing soccer car logo soccer team logo",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ngmq4t_c2q8.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113239535",
+          "name": "baby购儿童生活坊",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143445941911217561",
+  "language": "en"
+}

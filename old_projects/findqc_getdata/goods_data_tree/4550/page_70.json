@@ -1,0 +1,357 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1576312",
+        "mallType": "TB",
+        "itemId": "893321429734",
+        "title": "Spring New Style Senior Cadre Jacket, Executive Lapel Jacket, Unisex, Versatile, Embroidered, Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250630/mciii2mk_140g.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "129134392",
+          "name": "LE高街潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1569376",
+        "mallType": "T1688",
+        "itemId": "897573583749",
+        "title": "225 Summer New Couple Sunscreen Clothes Outdoor Leisure Sports Sunscreen Clothes Men's and Women's Hooded Jackets North Home Delivery",
+        "picUrl": "https://cdn.findqc.com/item/20250628/mcgbvodm_wfhp.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218412101359",
+          "name": "石狮市产禾服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1565091",
+        "mallType": "TB",
+        "itemId": "824935041431",
+        "title": "Martine Rose 24Ss Spring and Summer Stitching Contrasting Embroidery Retro School Uniform Jacket Pants Suit",
+        "picUrl": "https://cdn.findqc.com/item/20250716/md56otb6_33iv.jpg",
+        "price": "¥219.00",
+        "toPrice": "$34.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "211433482",
+          "name": "PV的店",
+          "type": "TB"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1562574",
+        "mallType": "WD",
+        "itemId": "7490973229",
+        "title": "New leather jacket with embroidered thick leather PU leather jacket for men and women, baseball jacket for couples, motorcycle flight racing suit",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcmda9cp_eyde.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1789062813",
+          "name": "泰坦studios",
+          "logo": "https://si.geilicdn.com/shopedit1950171421-397e0000019933f38db00a2315ef-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1554377",
+        "mallType": "WD",
+        "itemId": "6115292219",
+        "title": "[Flagship Store in Stock] 24FW Autumn/Winter New V Pharrell Show Passepoilees Full Print Collar Pocket Triangle Logo Jacket Jacket for Men and Women Zipper Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250627/mcegn7dm_sk6d.jpg",
+        "price": "¥621.33",
+        "toPrice": "$97.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "335669248",
+          "name": "CLC-STUDIO",
+          "logo": "https://si.geilicdn.com/wdseller335669248-28cc00000197cd20ab000a230115_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1548455",
+        "mallType": "WD",
+        "itemId": "7497410642",
+        "title": "B1T",
+        "picUrl": "https://cdn.findqc.com/item/20250729/mdnky8yz_braf.jpg",
+        "price": "¥400.00",
+        "toPrice": "$62.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1653727541",
+          "name": "DreamRemake1",
+          "logo": "https://si.geilicdn.com/shopedit1906842454-6ac900000194e99e5ddb0a20e273-unadjust_300_300.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1542997",
+        "mallType": "WD",
+        "itemId": "7306859495",
+        "title": "HFsMade SS24 Bal color blocked silhouette jacket made of memory cotton material/high color fastness",
+        "picUrl": "https://cdn.findqc.com/item/20250626/mcdacnho_a0xm.jpg",
+        "price": "¥388.00",
+        "toPrice": "$61.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791683814",
+          "name": "HFsMade",
+          "logo": "https://si.geilicdn.com/weidian1675979477-2704000001824fb73c180a22d30f_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1542935",
+        "mallType": "WD",
+        "itemId": "7492877547",
+        "title": "JUDX P 25 Spring/Summer Ultra-thin Recycled Nylon Polyamide Jacket Genuine TAT Zipper Original HH Triangle",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mchbwzcx_qdme.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615201389",
+          "name": "羊村小卖部",
+          "logo": "https://si.geilicdn.com/wdseller1939166533-2b29000001959364f4f70a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1538628",
+        "mallType": "WD",
+        "itemId": "6503698226",
+        "title": "Monogram Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250623/mc8q3hl4_50r4.jpg",
+        "price": "¥550.00",
+        "toPrice": "$86.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1703401406",
+          "name": "ZZZTOPXX",
+          "logo": "https://si.geilicdn.com/wdseller1747999085-3b6a000001925e7c25350a239846_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1528296",
+        "mallType": "T1688",
+        "itemId": "899224721590",
+        "title": "Cross border high version new camouflage classic embroidery plus velvet hoodie loose men's and women's hooded sweatshirt trendy brand single cotton",
+        "picUrl": "https://cdn.findqc.com/item/20250619/mc2sjswi_iuml.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219421716953",
+          "name": "上海家信沐贸易商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1526307",
+        "mallType": "WD",
+        "itemId": "7446041081",
+        "title": "Embroidered letters, logo washed in blue, distressed denim jacket, high street jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250714/md2hziqr_6m3o.jpg",
+        "price": "¥289.00",
+        "toPrice": "$45.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1703938957",
+          "name": "一步飞天",
+          "logo": "https://si.geilicdn.com/wdseller1924498143-2fa4000001997222dee60a2315ef_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1522761",
+        "mallType": "T1688",
+        "itemId": "827830322125",
+        "title": "high quality medieval J97 garment wash water vintage distressed vintage canvas jacket lovers' lapel zipper jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250618/mc1k2nny_o5pw.jpg",
+        "price": "¥250.00",
+        "toPrice": "$39.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBByDs7DQH1i5Y0E3zdMfwVSg",
+          "name": "上海幕漾服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1519592",
+        "mallType": "T1688",
+        "itemId": "893009120324",
+        "title": "NASA Brand plus size Hooded Casual Men's Jacket Loose All-match Spring and Autumn New American Fashionable Work Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250622/mc7h5mq9_rdcf.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBNM9Ja1GUPkECJ10-10WR8A",
+          "name": "石狮市喆方品牌管理有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1519566",
+        "mallType": "T1688",
+        "itemId": "934563002810",
+        "title": "UPF50+hooded sun protection jacket for men's summer ice silk breathable thin UV resistant skin clothing jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250622/mc79a2cn_vx54.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 23,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1519569",
+        "mallType": "T1688",
+        "itemId": "893582006801",
+        "title": "Outdoor assault suit men's and women's outerwear 2025 spring and autumn casual windproof hooded hiking suit couple jacket wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20250622/mc7bmewk_cl9j.jpg",
+        "price": "¥47.92",
+        "toPrice": "$7.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219120187449",
+          "name": "广州竹夕贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1517009",
+        "mallType": "T1688",
+        "itemId": "927898082446",
+        "title": "Foreign trade ins trendy top splicing simple and versatile windproof street jacket loose couple jacket batch",
+        "picUrl": "https://cdn.findqc.com/item/20250629/mch2hqj7_ekgy.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217804805114",
+          "name": "佛山江思电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 11,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1508792",
+        "mallType": "TB",
+        "itemId": "918473692821",
+        "title": "Fun CDG vintage splicing print basic logo pure cotton round neck long sleeved trendy retro T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250621/mc5fummw_r1un.jpg",
+        "price": "¥194.98",
+        "toPrice": "$30.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "186570022",
+          "name": "Hap af",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508722",
+        "mallType": "T1688",
+        "itemId": "901896977524",
+        "title": "HELLY HANSEN H2 EXPLORER series casual hooded jacket waterproof, windproof, breathable and handsome",
+        "picUrl": "https://cdn.findqc.com/item/20250620/mc49t0p6_x8cg.jpg",
+        "price": "¥268.00",
+        "toPrice": "$42.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211455198869",
+          "name": "石狮市春夏丰和纺织品经营部",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1504242",
+        "mallType": "WD",
+        "itemId": "7404854748",
+        "title": "022488 xinpusen clip casual assault suit",
+        "picUrl": "https://cdn.findqc.com/item/20250615/mbwfqsyx_k527.jpg",
+        "price": "¥350.00",
+        "toPrice": "$55.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114726124137315102",
+  "language": "en"
+}

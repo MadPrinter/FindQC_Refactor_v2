@@ -1,0 +1,350 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "227135",
+        "mallType": "TB",
+        "itemId": "677707828142",
+        "title": "Nirvana, an American vintage fashion brand, hip-hop, high street, oversized, loose fitting hoodie, men's plus size",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rgmf1l_f68j.jpg",
+        "price": "¥59.90",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "105423417",
+          "name": "Mist Clad 雾衣",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "226253",
+        "mallType": "WD",
+        "itemId": "7257535794",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg8hok_om3f.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735791321",
+          "name": "新丝路鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "226217",
+        "mallType": "WD",
+        "itemId": "7260601252",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg8eat_kvci.jpg",
+        "price": "¥283.00",
+        "toPrice": "$44.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "226208",
+        "mallType": "WD",
+        "itemId": "7258871059",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg8acv_5ci4.jpg",
+        "price": "¥167.00",
+        "toPrice": "$26.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751930489",
+          "name": "www.GoWeiBuy.com",
+          "logo": "https://si.geilicdn.com/shopedit1860967997-34810000019135017c050a207569-unadjust_670_670.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "226072",
+        "mallType": "WD",
+        "itemId": "7257541722",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rg5xxl_kcy6.jpg",
+        "price": "¥162.00",
+        "toPrice": "$25.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735791321",
+          "name": "新丝路鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "224135",
+        "mallType": "WD",
+        "itemId": "7242315052",
+        "title": "New cotton padded pullover guard fashion simple behind the printed sweater",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p557k_udzv.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1636739441",
+          "name": "L xr 服饰",
+          "logo": "https://si.geilicdn.com/shopedit1802690076-02ba0000018fcd829fb50a22d172-unadjust_219_219.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "223993",
+        "mallType": "WD",
+        "itemId": "7260068849",
+        "title": "Autumn and Winter G Simple Style Versatile Fashion Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p4joo_f38f.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1636739441",
+          "name": "L xr 服饰",
+          "logo": "https://si.geilicdn.com/shopedit1802690076-02ba0000018fcd829fb50a22d172-unadjust_219_219.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "223370",
+        "mallType": "WD",
+        "itemId": "7286490163",
+        "title": "Autumn and Winter Set, Round Neck, Hoodie, Cotton Jacket Collection",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p1e1l_d9l6.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1671759537",
+          "name": "🔥Kevin store🎧",
+          "logo": "https://si.geilicdn.com/wdseller1797702549-53e000000194323b2dbc0a2102c5_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "221331",
+        "mallType": "WD",
+        "itemId": "7297712796",
+        "title": "Autumn and Winter Casual Fashion Round Neck Hoodie BG02",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3qjv94v_fhs4.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1637372245",
+          "name": "Crazy Koala6",
+          "logo": "https://si.geilicdn.com/shopedit1900477981-61c100000192e1c1bbdb0a2102c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 72,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "206294",
+        "mallType": "WD",
+        "itemId": "7262990312",
+        "title": "Autumn and Winter Padded Sweatshirt Casual Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241120/m3owcnjk_qcan.jpg",
+        "price": "¥144.00",
+        "toPrice": "$22.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1873187321",
+          "name": "Artist潮流精品",
+          "logo": "https://si.geilicdn.com/shopedit1865109611-06860000018fcd8facad0a20e284-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205398",
+        "mallType": "WD",
+        "itemId": "7299988959",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42oy1d3_6wca.jpg",
+        "price": "¥285.00",
+        "toPrice": "$44.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1675444645",
+          "name": "WG",
+          "logo": "https://si.geilicdn.com/shopedit1884592270-4ba500000195d22b306e0a2315ef-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205303",
+        "mallType": "WD",
+        "itemId": "7239345357",
+        "title": "Summer Fashion 1 Stream Sweatshirt-002",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ovenz_0vbc.jpg",
+        "price": "¥118.00",
+        "toPrice": "$18.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1664375585",
+          "name": "59buy",
+          "logo": "https://si.geilicdn.com/pcdecorate901857861682-4f0000000190bad994990a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205282",
+        "mallType": "T1688",
+        "itemId": "832170971820",
+        "title": "Gymshark crest slim fit crew neck thin velvet sweater men's sports fitness training spring autumn winter",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ov1dx_rnv2.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216802394228",
+          "name": "铅山县德昌贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "205061",
+        "mallType": "T1688",
+        "itemId": "846731737631",
+        "title": "Cross border fashion BROKEN PLANET autumn and winter letter new set with fleece hooded sweatshirt and sweatpants jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ov04o_6r0m.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218504567705",
+          "name": "镇平县茂先商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 18,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205049",
+        "mallType": "WD",
+        "itemId": "7297065990",
+        "title": "F*OG E*ssentials Hoodie (4 colors)",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ov1bt_v7b2.jpg",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1348100184",
+          "name": "Z&amp;Y Studio",
+          "logo": "https://si.geilicdn.com/pcdecorate1348100184-56e80000019a342b85f90a81347d-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205043",
+        "mallType": "TB",
+        "itemId": "829279187160",
+        "title": "Monogrammed University Hooded Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ouvlb_lf6c.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36564296",
+          "name": "Singor4",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "205026",
+        "mallType": "WD",
+        "itemId": "7303251413",
+        "title": "Carved hoodie [one hoodie weighs 4 pounds]",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42outlp_xc57.jpg",
+        "price": "¥336.00",
+        "toPrice": "$52.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1623196236",
+          "name": "Earlytom 2店",
+          "logo": "https://si.geilicdn.com/weidian1527186771-35590000019289bbea360a210349_1080_1080.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204984",
+        "mallType": "WD",
+        "itemId": "7251621955",
+        "title": "Badge Basic Men's and Women's Hooded Jacket Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42ouuun_6yfi.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1840425673",
+          "name": "YVNGD",
+          "logo": "https://si.geilicdn.com/weidian1819582157-2ef40000018ed0a1bb460a8133ca_1094_1094.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021148255171930825209",
+  "language": "en"
+}

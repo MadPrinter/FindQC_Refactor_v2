@@ -1,0 +1,336 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "225690",
+        "mallType": "WD",
+        "itemId": "7252017182",
+        "title": "****",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rgd6i0_q88a.jpg",
+        "price": "¥135.00",
+        "toPrice": "$21.23",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225694",
+        "mallType": "WD",
+        "itemId": "7250639787",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rgdyv9_18qf.jpg",
+        "price": "¥225.00",
+        "toPrice": "$35.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1735791321",
+          "name": "新丝路鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "225702",
+        "mallType": "WD",
+        "itemId": "7251088041",
+        "title": "****",
+        "picUrl": "https://cdn.findqc.com/item/20241121/m3rgd5na_60w9.jpg",
+        "price": "¥146.62",
+        "toPrice": "$23.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779836585",
+          "name": "古德电子商务",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2075266",
+        "mallType": "T1688",
+        "itemId": "800386148540",
+        "title": "European and American spring and summer duckbill caps, baseball caps, DSQ2 hats, men's and women's sun hats, men's outdoor leisure couple hats, cross-border",
+        "picUrl": "https://cdn.findqc.com/item/20250812/me8ltvc8_jffc.jpg",
+        "price": "¥32.50",
+        "toPrice": "$5.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217738260513",
+          "name": "福州市晋安区振狮服装经营部",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1889295",
+        "mallType": "T1688",
+        "itemId": "905561424259",
+        "title": "high quality Inverted Triangle Baseball Cap Fashionable All-match Sunshade Unisex Baseball Cap British Style Cap",
+        "picUrl": "https://cdn.findqc.com/item/20250729/mdnkgf59_3lin.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBLx0n91EtP14jsaouVa9XsQ",
+          "name": "广州呗乐服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2072089",
+        "mallType": "T1688",
+        "itemId": "852188459720",
+        "title": "New Pilot Autumn/Winter Knitted Hat for Men and Women Warm Korean Version Couple Knitted Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250812/me7ti9ue_ytz4.jpg",
+        "price": "¥22.00",
+        "toPrice": "$3.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218706925873",
+          "name": "义乌市林扰电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 55,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1386592",
+        "mallType": "T1688",
+        "itemId": "917597043492",
+        "title": "Autumn and Winter Light Plate Knitted Hat Outdoor Leisure Warm Hoodie Elastic Knitted Hat Men's and Women's Blank Cold Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250812/me7sihy2_f6xi.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217644754521",
+          "name": "莆田市城厢区夏果帽子商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 101,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1230429",
+        "mallType": "WD",
+        "itemId": "7435247850",
+        "title": "Contact customer service for clearance of final goods",
+        "picUrl": "https://cdn.findqc.com/item/20250812/me7ndzy9_11l7.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1615217637",
+          "name": "O",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1658838",
+        "mallType": "T1688",
+        "itemId": "945246989392",
+        "title": "High end version classic old flower mesh cap baseball cap men's and women's high-end mesh cap big hat circumference sunshade and sun protection duckbill cap",
+        "picUrl": "https://cdn.findqc.com/item/20250812/me7js808_xs5q.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219353116860",
+          "name": "义乌市图悦制帽厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1868414",
+        "mallType": "T1688",
+        "itemId": "923923768056",
+        "title": "Foreign Trade New Size Cap MLB Closed Cap Men's and Women's Hip-hop Embroidered Baseball Cap Outdoor Sunscreen Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250812/me7cpa4c_psqn.jpg",
+        "price": "¥16.40",
+        "toPrice": "$2.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4frx7dnoBS-s_kjL-NRAiA",
+          "name": "上海麒霖阁商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "204614",
+        "mallType": "T1688",
+        "itemId": "682163660202",
+        "title": "AMIRI High Street Style Unisex Baseball Hat Sunscreen Trend Fashion Summer Embroidered Baseball Hat",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42oswu7_q88o.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 14,
+        "qcPicCnt": 93,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2064581",
+        "mallType": "TB",
+        "itemId": "777964012591",
+        "title": "Corteiz American truck cap, summer casual printed sun shading baseball cap, street trendy and fashionable duckbill cap for women",
+        "picUrl": "https://cdn.findqc.com/item/20250811/me6z8xmk_n668.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "311589425",
+          "name": "SPACE TRASH",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1736073",
+        "mallType": "WD",
+        "itemId": "7499838481",
+        "title": "Rose gold thread embroidered hat SY-124",
+        "picUrl": "https://cdn.findqc.com/item/20250811/me6drue0_azlz.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1274221412",
+          "name": "Elephant",
+          "logo": "https://si.geilicdn.com/wdseller1274221412-77390000018f660dd8030a20e284_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2054065",
+        "mallType": "T1688",
+        "itemId": "762949899247",
+        "title": "New fully printed letter F baseball cap, European and American cross-border versatile fashion duckbill cap, embroidered spring and summer sun protection and sunshade hat",
+        "picUrl": "https://cdn.findqc.com/item/20250810/me5krui6_pi8r.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215770400388",
+          "name": "义乌市跨跨电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2268",
+        "mallType": "TB",
+        "itemId": "685924278449",
+        "title": "Aime Leon Dore Unisphere Hat American retro baseball cap with adjustable wide brim for couples",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m2u20j_coz0.jpg",
+        "price": "¥55.00",
+        "toPrice": "$8.65",
+        "status": "normal",
+        "shopInfo": {
+          "id": "495019373",
+          "name": "TS 蟑螂侠",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 150,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1971618",
+        "mallType": "TB",
+        "itemId": "611736890669",
+        "title": "Banana Tree Double sided Fisherman's Hat Cotton Printed Banana Tree Basin Hat Foldable Cotton Sunshade Hat Bucket Hat",
+        "picUrl": "https://cdn.findqc.com/item/20250810/me5fij1p_whzc.jpg",
+        "price": "¥16.90",
+        "toPrice": "$2.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71245068",
+          "name": "伟晴萧尔",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "111410",
+        "mallType": "TB",
+        "itemId": "734707557127",
+        "title": "Kapital Vintage Hirata Kazuhiro Japanese Anti War Knitted Jacquard Hat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mnuvie_rwqo.jpg",
+        "price": "¥149.00",
+        "toPrice": "$23.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "244878063",
+          "name": "Damin Studio",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "4339",
+        "mallType": "T1688",
+        "itemId": "655180560593",
+        "title": "European and American Popular Autumn and Winter New Plaid Woolen Hat Women's Casual Versatile Foreign Style Cold Hat Warm Knitted Hat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m3sctk_qc1l.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrH64eX5pqtJjwhUdoBvD4w",
+          "name": "义乌市佳谱电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 397,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021149195411917131282",
+  "language": "en"
+}

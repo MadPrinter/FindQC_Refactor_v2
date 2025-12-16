@@ -1,0 +1,626 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1868831",
+        "mallType": "T1688",
+        "itemId": "920912310597",
+        "title": "圣西曼源头厂家X10直发器干湿两用直发夹板家用电吹风机网红同款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ONS8Q41nSodH3L0cf_!!2208820205089-0-cib.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2208820205089",
+          "name": "深圳市晶菲特科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2844901",
+        "mallType": "T1688",
+        "itemId": "798031046037",
+        "title": "Dyson HT01 Airflow Hair Straightener, Hair Dryer, Straight Plate Clip, Straightening Comb, Wet and Dry Dual Use",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01plEkN92H93w2geho4_!!2215663859107-0-cib.jpg",
+        "price": "¥329.00",
+        "toPrice": "$51.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBq_OfLn8Of9WZAGufr4tFvA",
+          "name": "义乌市社实电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2844897",
+        "mallType": "T1688",
+        "itemId": "904111948336",
+        "title": "Same HT01 straightener clamp manufacturer direct sales",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fv2RLy1tVv0Fvez8l_!!2219494495908-0-cib.jpg",
+        "price": "¥498.00",
+        "toPrice": "$78.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBEOcgW4ISEPOBpj9HyDDiMQ",
+          "name": "深圳市逸晟凯科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2710828",
+        "mallType": "T1688",
+        "itemId": "940690938147",
+        "title": "Huaqiang North top X9 six-in-one multi-function hair beauty curling iron negative ion intelligent temperature control fast styling",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01JsyYTl1x10ktWkCxM_!!2219841946382-0-cib.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219841946382",
+          "name": "揭西县东园弘远电子厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2635368",
+        "mallType": "T1688",
+        "itemId": "874895775815",
+        "title": "跨境HS05同款多功能七合一美发卷发棒不伤发吹风机美发造型卷发器",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01whTXxq2NigWMbVNZk_!!2219184109997-0-cib.jpg",
+        "price": "¥430.00",
+        "toPrice": "$67.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219184109997",
+          "name": "平阳县数森玫电子商务商行(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2757629",
+        "mallType": "T1688",
+        "itemId": "944749197373",
+        "title": "Cross-border days with the same multifunction seven-in-one beauty hair curling iron does not hurt hair hair dryer curling iron styling curls",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01J3mn1H1OOMHmEijIA_!!2217843661695-0-cib.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217843661695",
+          "name": "鑫皇甄选(深圳)贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2027426",
+        "mallType": "T1688",
+        "itemId": "941198265797",
+        "title": "Dai master high-speed leafless HT01 model manufacturers wind comb hair straightener home electric hair dryer Huaqiang North electric hair dryer",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01TxV2By1eqKR28YvJn_!!2216033773922-0-cib.jpg",
+        "price": "¥167.00",
+        "toPrice": "$26.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216033773922",
+          "name": "深圳市莱凡特科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1841773",
+        "mallType": "WD",
+        "itemId": "7226008273",
+        "title": "v platinum+ straightener",
+        "picUrl": "https://si.geilicdn.com/wdseller1785215318-4bc40000018e098f6ec80a20e284_800_800.jpg",
+        "price": "¥370.00",
+        "toPrice": "$58.18",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1804138897",
+          "name": "Maketheone-Tech",
+          "logo": "https://si.geilicdn.com/wdseller1785215318-19580000018e41300db90a210244_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2259814",
+        "mallType": "WD",
+        "itemId": "6935235467",
+        "title": "G&H&D V gold",
+        "picUrl": "https://si.geilicdn.com/wdseller238424219-42010000018c2f15a94c0a2313a0_2560_3413.jpg",
+        "price": "¥220.00",
+        "toPrice": "$34.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "238424219",
+          "name": "SUDU-gadgets",
+          "logo": "https://si.geilicdn.com/wdseller238424219-53dd0000018cdad711910a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2098849",
+        "mallType": "T1688",
+        "itemId": "860599217386",
+        "title": "Cross-border new multifunctional blow dryer hair straightener hot and cold wind anion constant temperature hair care hair dryer clipboard 2 in 1",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01OhtUZ61sYNUBJYdRe_!!2217889315778-0-cib.jpg",
+        "price": "¥245.00",
+        "toPrice": "$38.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217889315778",
+          "name": "温州雄鹿电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2815473",
+        "mallType": "T1688",
+        "itemId": "943375797465",
+        "title": "Blow dry hair straightener home multifunctional straightening hair blow dry styling negative ion salon splint wet and dry dual-use",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018iwJWJ2HQT5XIphLp_!!2219992069145-0-cib.jpg",
+        "price": "¥237.62",
+        "toPrice": "$37.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219992069145",
+          "name": "天宁区兰陵洪之惠百货经营部（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2374033",
+        "mallType": "T1688",
+        "itemId": "914995893207",
+        "title": "Cross border HS08 multifunctional seven in one hair styling curling iron without damaging hair, hair dryer, hair styling curling iron",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01v6wAAE1cL49aWsOpK_!!2218994293583-0-cib.jpg",
+        "price": "¥560.00",
+        "toPrice": "$88.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBb1r3ObLutvjzg0sHhm2qPg",
+          "name": "海口龙华区豪哲寰网络科技工作室",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2075179",
+        "mallType": "T1688",
+        "itemId": "861584722771",
+        "title": "Cross-border curling straight dual-use salon electric splint ceramic coating anion hair straightener hair beauty safety perm hair straightener",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01c12h1E1MLx2HHEx8Q_!!2218804791419-0-cib.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218804791419",
+          "name": "温州合赢工艺品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1792599",
+        "mallType": "TB",
+        "itemId": "891913623011",
+        "title": "Fully Automatic Curling Iron, Lazy Curling Tool, Electric Large Waves, No Damage to Hair, Long-Lasting Styling, Large Curls 32mm",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg4qsuci_yydi.jpg",
+        "price": "¥3.87",
+        "toPrice": "$0.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33034088",
+          "name": "小麦色工厂直销",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1792588",
+        "mallType": "TB",
+        "itemId": "874831559030",
+        "title": "Egg Roll Hair Curling Iron 32mm Large Curl Cake Wool Flat Iron for Short Hair, Water Wave, Long-Lasting Styling, No Damage",
+        "picUrl": "https://cdn.findqc.com/item/20250928/mg3acxac_ducl.jpg",
+        "price": "¥17.28",
+        "toPrice": "$2.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "530818374",
+          "name": "Hesasa",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2493327",
+        "mallType": "T1688",
+        "itemId": "935026288131",
+        "title": "2025 New Digital Display Small Handheld Electric Grinder Electric Grinding Polishing Drilling Cutting Engraving Mini Electric Grinder",
+        "picUrl": "https://cdn.findqc.com/item/20250927/mg1yhv1f_140s.jpg",
+        "price": "¥57.00",
+        "toPrice": "$8.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1FiNrkzIdbGnp-RiWCPOYg",
+          "name": "深圳市富思达科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1002697",
+        "mallType": "T1688",
+        "itemId": "724402191007",
+        "title": "Cross border popular platinum+plus straightener ceramic clip that does not damage hair and can be used for both straight and curly 3D platinum+",
+        "picUrl": "https://cdn.findqc.com/item/20250817/mefu8ulm_n4n0.jpg",
+        "price": "¥208.00",
+        "toPrice": "$32.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3302540015",
+          "name": "深圳市亿康美电子有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1185302",
+        "mallType": "T1688",
+        "itemId": "832285920855",
+        "title": "Source factory wear HS05 Qimen with a large wave hot air comb automatic curling rod curling straight hair styling dual-purpose",
+        "picUrl": "https://cdn.findqc.com/item/20250416/m9jifchr_o9sz.jpg",
+        "price": "¥650.00",
+        "toPrice": "$102.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBbGEChPxrWmsjBvvXv1YbCQ",
+          "name": "哈托教育科技(深圳)有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "484287",
+        "mallType": "WD",
+        "itemId": "6550634463",
+        "title": "H.S 01 airwrap",
+        "picUrl": "https://cdn.findqc.com/item/20250112/m5thhbeb_95zo.jpg",
+        "price": "¥895.00",
+        "toPrice": "$140.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1228802465",
+          "name": "Elf Tech Factory",
+          "logo": "https://si.geilicdn.com/wdseller1228802465-62d30000018a8d7a49230a22d246_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 25,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "284166",
+        "mallType": "T1688",
+        "itemId": "801863289112",
+        "title": "Dai HS05 Mori curling iron HS01 curling iron automatic lazy negative ion perm large curls big wave multifunction",
+        "picUrl": "https://cdn.findqc.com/item/20241203/m47ep3z4_l73s.jpg",
+        "price": "¥349.00",
+        "toPrice": "$54.88",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021143063631914131934",
+  "language": "en"
+}

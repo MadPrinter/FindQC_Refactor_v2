@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2400292",
+        "mallType": "TB",
+        "itemId": "975522325315",
+        "title": "Solid Color Zip-Up Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mgh6lrk3_8rig.jpg",
+        "price": "¥255.64",
+        "toPrice": "$40.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "432227518",
+          "name": "tb505083319的小店6",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2629428",
+        "mallType": "T1688",
+        "itemId": "976536122478",
+        "title": "高版本supreme25SS 潮牌HOODED SWEATSHIRT 大LOGO加绒帽衫卫衣",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mgh2vvwg_bt39.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgo8Z3vG0IPuG3lK2j8vaeQ",
+          "name": "广州畏莱服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2620300",
+        "mallType": "T1688",
+        "itemId": "832766287986",
+        "title": "Essentials American Trendy Brand Long-Sleeved T-Shirt for Men with Double-Row Letter Print Pure Cotton Base Shirt Couple Long-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mggxul0r_5ns8.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBG6fPXqG8SUOsl2hQdByJEA",
+          "name": "即墨区麦欧欧服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2628758",
+        "mallType": "T1688",
+        "itemId": "752004260387",
+        "title": "380 heavy cotton round neck sweater autumn and winter American long sleeve T-shirt men's and women's loose pullover bottoming shirt top",
+        "picUrl": "https://cdn.findqc.com/item/20251008/mggxglgl_ys99.jpg",
+        "price": "¥53.00",
+        "toPrice": "$8.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBr4b92uGSeyJUcgMLVA72fg",
+          "name": "郑州泉木森服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2439702",
+        "mallType": "T1688",
+        "itemId": "881401072438",
+        "title": "2025 New Cross-border HELLSTAR Front and Back Printed National Tide Hoodie Sweater Joker Casual Hot Selling",
+        "picUrl": "https://cdn.findqc.com/item/20250924/mfxo7f5u_5v8j.jpg",
+        "price": "¥26.00",
+        "toPrice": "$4.09",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkTGoyLtU-1ddTNDHhd4pGA",
+          "name": "深圳市宝安区英伦酷童针织制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 32,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1192330",
+        "mallType": "TB",
+        "itemId": "823014286808",
+        "title": "Big Star Black Foam Print Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250417/m9ke4272_ifqj.jpg",
+        "price": "¥51.38",
+        "toPrice": "$8.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "516106390",
+          "name": "Pika Bro",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 85,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "2139047",
+        "mallType": "T1688",
+        "itemId": "948529482486",
+        "title": "European and American Amazon Foreign Trade New Printed Hooded Pattern Long-Sleeved Sweatshirt Jacket Cross-Border Men's and Women's Same Style Pants",
+        "picUrl": "https://cdn.findqc.com/item/20250929/mg4w4i3m_8ab6.jpg",
+        "price": "¥35.89",
+        "toPrice": "$5.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcFOi7_G1odzy6ahoiFqlfA",
+          "name": "上饶市金戈服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "359747",
+        "mallType": "T1688",
+        "itemId": "809955799039",
+        "title": "2024 New Tricolor Casual Sports Loose Breathable Men's Round Neck Sweater 458",
+        "picUrl": "https://cdn.findqc.com/item/20241222/m4ywfffy_uhzs.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhEowgm-hBx2dd2zzbjUR1Q",
+          "name": "莆田市秀屿区衣团和气服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 84,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2356981",
+        "mallType": "WD",
+        "itemId": "7534067034",
+        "title": "Autumn and Winter Casual Fashion Hoodie 032-cnf",
+        "picUrl": "https://cdn.findqc.com/item/20251006/mgeubu7u_yq4w.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1830128381",
+          "name": "SourceDock",
+          "logo": "https://si.geilicdn.com/pcdecorate1968389199-126a00000197eeb5cd720a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1843980",
+        "mallType": "TB",
+        "itemId": "841330133267",
+        "title": "European and American High Street Retro ins Super Popular Hell Star Basic Sports Hoodie Sweatshirt Unisex",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2705739092/O1CN01dFBhtW2H2C1bWcsTj_!!2705739092.jpg",
+        "price": "¥73.00",
+        "toPrice": "$11.48",
+        "status": "normal",
+        "shopInfo": {
+          "id": "359357069",
+          "name": "名汇美潮",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1469457",
+        "mallType": "WD",
+        "itemId": "7469257999",
+        "title": "DX14] Three-dimensional silicone letters men and women American high street flocked hoodie sweatshirt jacket hoodie",
+        "picUrl": "https://si.geilicdn.com/open1685879877-252808396-1fb400000192b20312930a239383_800_800.jpg",
+        "price": "¥102.00",
+        "toPrice": "$16.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 435,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1457742",
+        "mallType": "WD",
+        "itemId": "7425732289",
+        "title": "B War Horse T-Shirt Sweatshirt Collection whatsapp: +852 93428969 whatsapp: +852 93428969",
+        "picUrl": "https://si.geilicdn.com/open1693155437-1234478995-611b00000195a2bb3f4a0a23b4de_1278_1278.jpg",
+        "price": "¥165.00",
+        "toPrice": "$25.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1693155437",
+          "name": "Trendy shop",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1460335",
+        "mallType": "WD",
+        "itemId": "6584429106",
+        "title": "23SS fall and winter new Travis Scott TS McDonald's co-branded Cactus Jack printed hooded sweatshirt\n",
+        "picUrl": "https://si.geilicdn.com/wdseller1749488593-7b590000018a4e59a45a0a231273_1080_1080.jpg",
+        "price": "¥110.00",
+        "toPrice": "$17.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "343709482",
+          "name": "潮室66",
+          "logo": "https://si.geilicdn.com/wdseller343709482-01bd0000017b958723570a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1459145",
+        "mallType": "T1688",
+        "itemId": "889859624209",
+        "title": "Stockx Green X Original Essentials Trendy Brand Replica Fog Season Eight Ss22 Hoodie Pullover Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mggozmfp_s9v4.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBTyaiwNITrsvrpnkB4eZEiA",
+          "name": "义乌市桐特贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2620294",
+        "mallType": "WD",
+        "itemId": "7522867339",
+        "title": "Heima - Style number 307",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mggprw57_3xji.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "949985859",
+          "name": "VIP2018",
+          "logo": "https://si.geilicdn.com/wdseller949985859-5cd700000194970aa38c0a23057e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2623286",
+        "mallType": "T1688",
+        "itemId": "860742677677",
+        "title": "Original Factory Direct Supply Export Clothing Pol Fisherman Hat with Pockets Bear Round Neck Sweatshirt for Men and Women Same Style Couple Pure Cotton",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgglhin1_zfg0.jpg",
+        "price": "¥74.00",
+        "toPrice": "$11.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBsCRQ0JHcuFi4kl-DBSBU8A",
+          "name": "烟台斑斓空间国际贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3106",
+        "mallType": "T1688",
+        "itemId": "813072785787",
+        "title": "Artie Men's Clothing | 2025 New Product 430g Terry Crew Neck Men's Sweatshirt Street Fashion Brand Autumn Unisex Crew Neck Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m37u4u_qpzl.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkIfxULgQghXuViK0C8sTlg",
+          "name": "中山市琦玉服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1983219",
+        "mallType": "WD",
+        "itemId": "7507201862",
+        "title": "Cashew Flower Hoodie with Velvet Full Series Hoodie",
+        "picUrl": "https://cdn.findqc.com/item/20250923/mfw6hbv4_hv3j.jpg",
+        "price": "¥235.00",
+        "toPrice": "$36.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1652366165",
+          "name": "WTWT What to wear tomorrow",
+          "logo": "https://si.geilicdn.com/shopedit1901491844-69a900000193494ed06f0a23047e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 34,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2502907",
+        "mallType": "T1688",
+        "itemId": "781072703658",
+        "title": "StreetcarHoodiePrintsMen car print",
+        "picUrl": "https://cdn.findqc.com/item/20251002/mg8tnmpp_8llf.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBkTGoyLtU-1ddTNDHhd4pGA",
+          "name": "深圳市宝安区英伦酷童针织制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1136476",
+        "mallType": "T1688",
+        "itemId": "773358227036",
+        "title": "Casablanca CASABLANCA Printed Embroidery Casual Hoodie Sweatshirt Independent Station Cross border E-commerce Foreign Trade",
+        "picUrl": "https://cdn.findqc.com/item/20251007/mgfyb0n5_6tai.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217586256286",
+          "name": "广州市卡萨布蓝卡服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146407242553901289",
+  "language": "en"
+}

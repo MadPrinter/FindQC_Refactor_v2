@@ -1,0 +1,412 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2860231",
+        "mallType": "T1688",
+        "itemId": "763338529571",
+        "title": "Attack Shark X3PRO Mouse Lightweight PAW3395 Gaming Triple Mode 8K Wireless Mouse 8K Computer Mouse",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01uP0C5p1FbL2NGFSdg_!!2037890505-0-cib.jpg",
+        "price": "¥228.00",
+        "toPrice": "$35.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2037890505",
+          "name": "深圳市骏星诚电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3012490",
+        "mallType": "TB",
+        "itemId": "960071162405",
+        "title": "Logitech g G304 Wireless Mouse Gaming Esports Peripheral Office Desktop Laptop Official Flagship Store",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2220410538320/O1CN01KWP6c72BKcMSa78Ei_!!4611686018427382096-2-item_pic.png",
+        "price": "¥306.86",
+        "toPrice": "$48.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "543385426",
+          "name": "罗技游戏外设旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2707910",
+        "mallType": "T1688",
+        "itemId": "678844278288",
+        "title": "Amazon Logitech Gpw Second Generation Wireless Mouse g Pro X Superlight Genuine Dog Fart King Second Generation",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nXsr411RJiwQz4hDo_!!3320922091-0-cib.jpg",
+        "price": "¥589.00",
+        "toPrice": "$92.62",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBfZZsbsmtgOOj2XNyfLmolQ",
+          "name": "郑州大木林电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1174936",
+        "mallType": "TB",
+        "itemId": "637995169089",
+        "title": "Logitech GPW GPRO Internet Cafe Cooperation 1 Generation 2 Generation Shit King 4 Generation Wireless Game Mouse Macro Electric Competition Vermilion Bird",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/1083801491/O1CN01ZLw3uI1MsvIZMpyba_!!1083801491.jpg",
+        "price": "¥241.01",
+        "toPrice": "$37.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "357260506",
+          "name": "益丰电脑",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1792316",
+        "mallType": "TB",
+        "itemId": "868262948265",
+        "title": "【 Top selling 】 Lenovo Ecological Ability Wireless Bluetooth Mouse Light Sound Office Mouse Dual Mode Computer Mouse New",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/126446588/O1CN014lAi911yXMLxBaI00_!!4611686018427382780-0-item_pic.jpg",
+        "price": "¥67.00",
+        "toPrice": "$10.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "57301063",
+          "name": "联想官方旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "303337",
+        "mallType": "TB",
+        "itemId": "826192842707",
+        "title": "【 Jade Air 】 X-Raypad brand new shock-absorbing high rebound polyurethane foot patch, wear-resistant and noise reducing, super long service life",
+        "picUrl": "https://cdn.findqc.com/item/20241204/m48o0x55_ltj7.jpg",
+        "price": "¥39.90",
+        "toPrice": "$6.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62870244",
+          "name": "XrayPad广东店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182604",
+        "mallType": "TB",
+        "itemId": "755745603706",
+        "title": "Tbtl Dragonfly Vxe R1 Mouse Anti-Slip Sticker Promax Universal Sweat-Absorbing Sticker (Mouse Not Included)",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr5725_jbcx.jpg",
+        "price": "¥28.98",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71424340",
+          "name": "TBTL外设一原BTL纯手工外设定制一",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "182568",
+        "mallType": "TB",
+        "itemId": "732928129883",
+        "title": "Edifier G3M Pro Wireless Mouse Bluetooth Silent Three-Mode Gaming E-Sports Office Desktop Computer Rgb Mechanical",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mr4swc_nzfo.jpg",
+        "price": "¥309.71",
+        "toPrice": "$48.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "128678673",
+          "name": "漫步者静听专卖店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114601070137311933",
+  "language": "en"
+}

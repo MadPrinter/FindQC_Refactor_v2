@@ -1,0 +1,333 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1554359",
+        "mallType": "WD",
+        "itemId": "7398475857",
+        "title": "P120(W-46)",
+        "picUrl": "https://cdn.findqc.com/item/20250627/mce01a3i_ccd8.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1872310541",
+          "name": "The album has a new link",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508385",
+        "mallType": "T1688",
+        "itemId": "708426775502",
+        "title": "New hollow geometric square mooncake earrings, celebrity style abstract mooncake earrings, niche, high-end, light luxury",
+        "picUrl": "https://cdn.findqc.com/item/20250616/mby87zh4_baus.jpg",
+        "price": "¥12.80",
+        "toPrice": "$2.01",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1508316",
+        "mallType": "T1688",
+        "itemId": "899193018502",
+        "title": "V Gold Plated Mic Gold Snake shaped Earrings Full Diamond Fine Snake Ear Beats Advanced Precision Edition Fashion Internet Celebrity Explosive Factory Direct Sales",
+        "picUrl": "https://cdn.findqc.com/item/20250615/mbx3tl9f_nygh.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1498336",
+        "mallType": "TB",
+        "itemId": "615392341131",
+        "title": "Special Offer Boshuolin Juice Fashion Colorful Love Bow Zircon Letter Logo Earnail Female Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20250612/mbsehr2s_672d.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "72048152",
+          "name": "橘滋批发店",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1494286",
+        "mallType": "WD",
+        "itemId": "7489053029",
+        "title": "449 # Special price clear, no return no exchange",
+        "picUrl": "https://cdn.findqc.com/item/20250623/mc8i9t3h_twhs.jpg",
+        "price": "¥29.00",
+        "toPrice": "$4.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1872310541",
+          "name": "The album has a new link",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1463301",
+        "mallType": "WD",
+        "itemId": "7243143935",
+        "title": "SD12 (Non refundable and non exchangeable upon placing an order)",
+        "picUrl": "https://cdn.findqc.com/item/20250605/mbirrq90_j1np.jpg",
+        "price": "¥650.00",
+        "toPrice": "$102.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1300906268",
+          "name": "Scarlettluxury（accessories）",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1458471",
+        "mallType": "T1688",
+        "itemId": "848322084761",
+        "title": "F Home Glasses Box Sunglasses Box Set Sunglasses Box Fashion Brand Glasses Box Kaipeng Packaging Europe and America Cross border",
+        "picUrl": "https://cdn.findqc.com/item/20250604/mbhvq5g8_skgh.jpg",
+        "price": "¥7.80",
+        "toPrice": "$1.23",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1412277",
+        "mallType": "T1688",
+        "itemId": "633910292337",
+        "title": "European and American popular hip-hop full zircon micro inlaid earrings for men's trendsetters, gold-plated hip-hop earrings, cross-border new accessories",
+        "picUrl": "https://cdn.findqc.com/item/20250602/mbefvoxl_k2yl.jpg",
+        "price": "¥7.20",
+        "toPrice": "$1.13",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1409317",
+        "mallType": "T1688",
+        "itemId": "775397066818",
+        "title": "High quality men's cufflinks star shaped plum blossom crown lucky clover shaped cufflinks French shirt button gifts",
+        "picUrl": "https://cdn.findqc.com/item/20250527/mb5i0uib_5l4b.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3071727270",
+          "name": "义乌市泽宇电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1318306",
+        "mallType": "TB",
+        "itemId": "658483253312",
+        "title": "Modified 41mm Shell + with + Inner Shadow Sapphire Glass Suitable for Nh35 Movement, Suitable for 28.5mm Dial",
+        "picUrl": "https://cdn.findqc.com/item/20250509/mafsnor5_etae.jpg",
+        "price": "¥170.00",
+        "toPrice": "$26.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113880341",
+          "name": "外贸加工厂",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1275271",
+        "mallType": "T1688",
+        "itemId": "676478189128",
+        "title": "Croop earrings, small and exquisite cross S925 pure silver needle earrings, versatile and cool style ear accessories for female couples",
+        "picUrl": "https://cdn.findqc.com/item/20250429/ma2im4r3_ucqn.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2213253032955",
+          "name": "海丰县恋爱季节首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1205286",
+        "mallType": "WD",
+        "itemId": "7323230820",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9qqwy3y_xqyi.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1160313",
+        "mallType": "TB",
+        "itemId": "754079709316",
+        "title": "Yijian 925 Sterling Silver Earrings Men's Earrings High-End Design Textured Earrings Women's Simple Asymmetrical",
+        "picUrl": "https://cdn.findqc.com/item/20250411/m9cj2uf3_vwzx.jpg",
+        "price": "¥33.00",
+        "toPrice": "$5.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106114684",
+          "name": "YiJian Studio",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1075284",
+        "mallType": "TB",
+        "itemId": "840863984963",
+        "title": "David studio925 sterling silver cross flower square earrings earrings pendant men and women with the same paragraph trend biker style",
+        "picUrl": "https://cdn.findqc.com/item/20250330/m8v7wb8u_qz3g.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "33521165",
+          "name": "david studio",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "942107",
+        "mallType": "T1688",
+        "itemId": "822240664984",
+        "title": "European and American Fashion Accessible Luxury Jewelry V Family Letter Diamond Earrings Retro Elegant High-End Earrings Sense Earrings for Women",
+        "picUrl": "https://cdn.findqc.com/item/20250307/m7yi0fhx_pqe5.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBrzkP_KSzM_4TqPBYJVviiA",
+          "name": "海丰县梅陇镇熙熙家首饰行",
+          "type": "T1688"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "919276",
+        "mallType": "TB",
+        "itemId": "538428454708",
+        "title": "Hip-hop micro-set jewelry Europe and the United States earrings Zircon micro-set round earrings Amazon EBay source fashion atmosphere",
+        "picUrl": "https://cdn.findqc.com/item/20250301/m7q7v8ie_ku77.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63904988",
+          "name": "AK嘻哈饰品",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "873322",
+        "mallType": "TB",
+        "itemId": "822803821397",
+        "title": "Butterfly Wild Small Fragrant Wind Ear Bone Screw Titanium Steel Screw Tightening Exquisite Premium Feeling Small Threaded Ear Screw Female",
+        "picUrl": "https://cdn.findqc.com/item/20250224/m7id9mim_ka9x.jpg",
+        "price": "¥14.80",
+        "toPrice": "$2.33",
+        "status": "normal",
+        "shopInfo": {
+          "id": "288221613",
+          "name": "如蝶在野",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "815284",
+        "mallType": "T1688",
+        "itemId": "821959648556",
+        "title": "Xiangjia / X family classic models double C letters love earrings earrings female brass material French small incense style models factory batch",
+        "picUrl": "https://cdn.findqc.com/item/20250216/m77eja2s_iesq.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "803289",
+        "mallType": "TB",
+        "itemId": "773610396328",
+        "title": "S925 Sterling Silver Ear Plugs, Anti-Falling Support Aid, Ear Stud Back Plugs, Large Earrings, Anti-Sagging Eversion Fixed Ear Caps",
+        "picUrl": "https://cdn.findqc.com/item/20250215/m750au7x_rolh.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111938002",
+          "name": "Ag纯银饰品DIY工坊",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144308461917139220",
+  "language": "en"
+}

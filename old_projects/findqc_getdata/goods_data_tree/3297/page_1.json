@@ -1,0 +1,559 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2332325",
+        "mallType": "T1688",
+        "itemId": "758195802345",
+        "title": "Usb3.0 to tpyec mobile phone data cable 3A60W 10Gbps car hard disk A- C fast charging cable type-c",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UydYPK1SWq2SBmc3f_!!2409792255-0-cib.jpg",
+        "price": "¥3.10",
+        "toPrice": "$0.49",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcV-HMS7N9F5PfWxUNQMnew",
+          "name": "东莞市石排能捷电子电线厂",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2478130",
+        "mallType": "TB",
+        "itemId": "676803989027",
+        "title": "Suitable for Apple Thunderbolt 5 Thunderbolt 5 Pro Display Connection Cable Thunderbolt 4 Data Cable 3Pro Original iPhone 17Pro Max 17Pro 16Pro Max 15Pro",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/204510228/O1CN01z6quKj1DYTNoxTH6r_!!204510228.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63087504",
+          "name": "老P数码商城",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905904",
+        "mallType": "TB",
+        "itemId": "962963664366",
+        "title": "Suitable for 2023 Nissan Sylphy car charging cable, Teana phone dual head tpyec data cable, Qijun Type-C converter, Tule rear USB adapter, tapyc projection navigation cable",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkb50kj_hfcm.jpg",
+        "price": "¥9.33",
+        "toPrice": "$1.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "233759321",
+          "name": "kdmy旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2097396",
+        "mallType": "T1688",
+        "itemId": "832903966185",
+        "title": "Pure copper TYPE-C charging cable toys small appliances headset with machine cable USB two core data cable over 2A factory cable",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01v3D6S125Gb6SobkfF_!!2218302127499-0-cib.jpg",
+        "price": "¥0.30",
+        "toPrice": "$0.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218302127499",
+          "name": "赣州阁线电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2590635",
+        "mallType": "T1688",
+        "itemId": "953665392954",
+        "title": "Usb4 Data Cable Double-Ended Type-C Full-Function Charging Cable 240Wpd Fast Charging Mobile Phone Typec Data Cable",
+        "picUrl": "https://cdn.findqc.com/item/20251012/mgnkveu9_n70l.jpg",
+        "price": "¥11.90",
+        "toPrice": "$1.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcV-HMS7N9F5PfWxUNQMnew",
+          "name": "东莞市石排能捷电子电线厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2376472",
+        "mallType": "T1688",
+        "itemId": "683706323497",
+        "title": "ToockiPD100W digital data cable suitable for Huawei Apple 15 mobile phone tablet charging cable digital charging cable",
+        "picUrl": "https://cdn.findqc.com/item/20250915/mfkwqkcl_7pxa.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFpvcaeu6xbwg9GhcrWHzdg",
+          "name": "东莞市鼎予丰电子科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2367328",
+        "mallType": "TB",
+        "itemId": "733922324443",
+        "title": "Double-Ended Typec Data Cable Mobile Phone Computer Car Universal Male-To-Male Ctoc Flash Charging Cable 2m Extended Fast Charging",
+        "picUrl": "https://cdn.findqc.com/item/20250914/mfip99bi_7zoe.jpg",
+        "price": "¥1.62",
+        "toPrice": "$0.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "574140347",
+          "name": "极有质数码配件",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1792671",
+        "mallType": "T1688",
+        "itemId": "636139361992",
+        "title": "otg adapter Android micro mobile phone U disk converter usb2.0 female to v8 card reader external conversion head",
+        "picUrl": "https://cdn.findqc.com/item/20250723/mdflu0ou_0h0p.jpg",
+        "price": "¥0.09",
+        "toPrice": "$0.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2138416143",
+          "name": "富易创",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1690358",
+        "mallType": "TB",
+        "itemId": "718511630570",
+        "title": "USB 3.2 to Type-C data cable 10G high-speed cable GEN2 hard disk data cable PD mobile phone fast charging short cable",
+        "picUrl": "https://cdn.findqc.com/item/20250711/mcxwheal_irtj.jpg",
+        "price": "¥5.90",
+        "toPrice": "$0.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60208483",
+          "name": "广州佰特科技",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1609195",
+        "mallType": "TB",
+        "itemId": "537175984539",
+        "title": "Green Union USB to Type-C interface OTG adapter, suitable for iPhone 16, iPhone 15, charging adapter, card reader, computer, tablet, car USB data cable C to USB",
+        "picUrl": "https://cdn.findqc.com/item/20250703/mcnbh4k2_m73f.jpg",
+        "price": "¥17.90",
+        "toPrice": "$2.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "67095450",
+          "name": "绿联数码旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "289283",
+        "mallType": "TB",
+        "itemId": "622873941773",
+        "title": "Elbow fast charging cable game for iPhone13 apple data cable boutique quality universal cell phone charger ipadse tablet 6S apple 11pro12p multifunctional braided soft cable pull-resistant",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m45xqv99_opyc.jpg",
+        "price": "¥13.90",
+        "toPrice": "$2.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "431322187",
+          "name": "三辉电子数码汇",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "45717",
+        "mallType": "T1688",
+        "itemId": "666930783404",
+        "title": "RGB data cable light-emitting breathing lights gradient streaming light for Apple Type-C one tow three charging cable PD fast charging",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3merksb_m1ly.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "categoryId": 19,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "45617",
+        "mallType": "T1688",
+        "itemId": "718990686418",
+        "title": "type c adapter usb 3.1 to connector thunderbolt connector magnetic plug male to female extension elbow",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mepp94_qw15.jpg",
+        "price": "¥2.50",
+        "toPrice": "$0.39",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "43366",
+        "mallType": "TB",
+        "itemId": "750593898900",
+        "title": "Android micro usb data cable extra long 10m Type-c charging cable for Xiaomi camera tpc car recorder extension cable 3m 5m usb extension cable 6m 8m cell phone 2913",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdx556_5k8w.jpg",
+        "price": "¥3.90",
+        "toPrice": "$0.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "128573071",
+          "name": "苏宁易购官方旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "16015",
+        "mallType": "TB",
+        "itemId": "647571522356",
+        "title": "New Niaojia Outdoor Quick-Drying Nylon Belt, Lightweight Aluminum Alloy Buckle, Universal Belt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ne7mxd_d5hz.jpg",
+        "price": "¥91.02",
+        "toPrice": "$14.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "520639576",
+          "name": "皓程小店",
+          "type": "TB"
+        },
+        "categoryId": 15,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "9060",
+        "mallType": "T1688",
+        "itemId": "644357962956",
+        "title": "3.1 Full-featured new gen2 cable in stock with EMARKER chip Dual-head type-cgen2 complete specification",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3maibo5_m7oq.jpg",
+        "price": "¥14.50",
+        "toPrice": "$2.28",
+        "status": "normal",
+        "categoryId": 19,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "7751",
+        "mallType": "TB",
+        "itemId": "542244627059",
+        "title": "Sony XZP XZ1C XZ2 XZ3 original data cable UCB20 30 QC3.0 fast charging cable USB3.1 computer high-speed transmission TYPE C port cell phone camera system brush upgrade",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/41587672/O1CN01qE5UOX26XpZNdBpx3_!!41587672.jpg",
+        "price": "¥24.90",
+        "toPrice": "$3.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "34232198",
+          "name": "爱心记忆空间",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114053206194365323",
+  "language": "en"
+}

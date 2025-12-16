@@ -1,0 +1,333 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2804752",
+        "mallType": "T1688",
+        "itemId": "901336751398",
+        "title": "25 year old popular new product holding cake Bonnie Rabbit fun food series new product pancake high calorie soft toy",
+        "picUrl": "https://cdn.findqc.com/item/20251027/mh88wat7_6fmt.jpg",
+        "price": "¥30.99",
+        "toPrice": "$4.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217753735552",
+          "name": "温州顺事贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1927697",
+        "mallType": "WD",
+        "itemId": "7469569533",
+        "title": "*",
+        "picUrl": "https://si.geilicdn.com/open1614498093-252808396-7a0800000196e607a5930a8133b0_1160_1153.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1614498093",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/pcdecorate1860422006-0be40000019522797ea80a21146b-unadjust_225_225.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1903919",
+        "mallType": "T1688",
+        "itemId": "953953858107",
+        "title": "Hundreds of tide play BB vinyl trend ornaments hot selling explosive models of toys hand office boy clearance sample 400",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LcA00I28m96g1eCuL_!!2214563377974-0-cib.jpg",
+        "price": "¥39.99",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214563377974",
+          "name": "信宜市镇隆镇泰丰玩具店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895970",
+        "mallType": "T1688",
+        "itemId": "949645729763",
+        "title": "Explosion labubu generation two generation three generation blind box cute enamel doll plush trend toy doll pendant",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fEfm0l2BDI0A4Up5e_!!2219837738304-0-cib.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219837738304",
+          "name": "广州霸辅商贸部（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2633716",
+        "mallType": "T1688",
+        "itemId": "902406794843",
+        "title": "Barcelona Bear Love Bear Stuffed Toy Cute Animal Shape Stuffed Doll Gift for Mother and Baby",
+        "picUrl": "https://cdn.findqc.com/item/20251009/mgibwcsp_gk7x.jpg",
+        "price": "¥34.00",
+        "toPrice": "$5.35",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBi8zIYqr1nfb4BZfSBwgKDw",
+          "name": "温州顺事贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1872344",
+        "mallType": "T1688",
+        "itemId": "949242141398",
+        "title": "High-quality labubu cloth labubu dazzle color plush pendant bubble Matt blind box burst models doll tide play",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fPR2wt2I2wMUDUru4_!!2217618789229-0-cib.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217618789229",
+          "name": "佛山市禅城区潮流集合文化创意用品店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1872195",
+        "mallType": "T1688",
+        "itemId": "951388437344",
+        "title": "Motherland Edition POPMART Labubu Generation Labubu Sit Sit Party Macaron Plush Doll Vinyl Blind Boxes",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01C6oghU1k5y2qgC7iA_!!2220233774633-0-cib.jpg",
+        "price": "¥13.50",
+        "toPrice": "$2.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2220233774633",
+          "name": "义乌市狄屹电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1848285",
+        "mallType": "T1688",
+        "itemId": "944048335405",
+        "title": "Netflix plush doll Rabb generation enamel face toy surprise blind box bag hanging boutique ornament cross-border",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01weYmow2K90qDFqRve_!!2218521239513-0-cib.jpg",
+        "price": "¥19.00",
+        "toPrice": "$2.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218521239513",
+          "name": "义乌市方旬工艺品厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817762",
+        "mallType": "TB",
+        "itemId": "935961227365",
+        "title": "TOPTOY Naruto Blaster Moe Beast Party Blind Box Plush Dolls Gift Dolls",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2219006508585/O1CN01Qpa5VE2DHzHtbrcGv_!!2219006508585.jpg",
+        "price": "¥76.00",
+        "toPrice": "$11.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "289637888",
+          "name": "LIKING潮玩中心",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1818108",
+        "mallType": "TB",
+        "itemId": "931020322923",
+        "title": "labubu sit sit party 17cm waifu one, two, three generation with blind box waifu labubu clothes plush enamel face",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2212556803823/O1CN01lZBAZu1e6zDdjzACb_!!2212556803823.png",
+        "price": "¥13.90",
+        "toPrice": "$2.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "521806530",
+          "name": "娃衣企业店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1817759",
+        "mallType": "TB",
+        "itemId": "909360714232",
+        "title": "The first batch of EAKI Naruto Blasters Moe Beast Party Series blind box plush hand puppet ornaments tide play gift",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2224965492/O1CN01UTHNWA1qROFhmvJ7V_!!2224965492.jpg",
+        "price": "¥92.94",
+        "toPrice": "$14.61",
+        "status": "normal",
+        "shopInfo": {
+          "id": "492349429",
+          "name": "潮玩集合社",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1578500",
+        "mallType": "WD",
+        "itemId": "7492030781",
+        "title": "3.0 Series Trendy Cute Doll Toy Pendant",
+        "picUrl": "https://cdn.findqc.com/item/20251017/mgu16f3g_8w9r.jpg",
+        "price": "¥50.00",
+        "toPrice": "$7.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1665003965",
+          "name": "Rickyreps",
+          "logo": "https://si.geilicdn.com/pcdecorate1963031416-400000000197d500314b0a23038e-unadjust_406_406.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2590713",
+        "mallType": "TB",
+        "itemId": "938122922051",
+        "title": "Newtoys Official Collaboration Pink Pig Taiyaki Kt Hello Kitty Plush Bag Charm",
+        "picUrl": "https://cdn.findqc.com/item/20251009/mgj9xv8e_59dg.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "293961110",
+          "name": "NEW TOYS",
+          "type": "TB"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2684940",
+        "mallType": "T1688",
+        "itemId": "779603993254",
+        "title": "Joint Bear Lena Bear 30cm Doll Clothes Replacement Plush Toy Doll 30cm Clothes Girl Gift",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgo8wtmh_dx20.jpg",
+        "price": "¥4.50",
+        "toPrice": "$0.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB5oTRyL-G9ojOlfEgcGlqCw",
+          "name": "白沟新城畅启毛绒玩具商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1573898",
+        "mallType": "T1688",
+        "itemId": "922363162344",
+        "title": "Stitch series blind box enamel plush play even sleepy have a bite of sweet series cute enamel plush dolls",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000003612/O1CN018kAtv41cYLe3kehua_!!6000000003612-0-tbvideo.jpg",
+        "price": "¥19.88",
+        "toPrice": "$3.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217040748879",
+          "name": "义乌市筱明玩具有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533368",
+        "mallType": "T1688",
+        "itemId": "898884285420",
+        "title": "Replica version of the baby three years old big head baby series doll plush blind box tide play ornaments pendant cute creative dolls",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011MiGDt1Bs32aiOaq7_!!0-0-cib.jpg",
+        "price": "¥8.33",
+        "toPrice": "$1.31",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2637344",
+        "mallType": "TB",
+        "itemId": "962289001684",
+        "title": "Customized Face Doll: Plush Doll Keychain Creative Customization Doll with Face Changing DIY Production",
+        "picUrl": "https://cdn.findqc.com/item/20251010/mgkn61h2_mznx.jpg",
+        "price": "¥59.90",
+        "toPrice": "$9.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "326575567",
+          "name": "薄情小羊",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2381297",
+        "mallType": "T1688",
+        "itemId": "924169140931",
+        "title": "----- Jc Collection Stuffed Toys Cute Animal Shape Stuffed Dolls Gifts for Mothers and Infants",
+        "picUrl": "https://cdn.findqc.com/item/20250926/mg08dc1c_yvgr.jpg",
+        "price": "¥18.00",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBaNxA2_XM7IGgCubYRtVsUQ",
+          "name": "深圳市亚蒂诗顿贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 25,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 6
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145282021913293579",
+  "language": "en"
+}

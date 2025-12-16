@@ -1,0 +1,373 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2025456",
+        "mallType": "T1688",
+        "itemId": "929970398151",
+        "title": "Cross-Border 2025 Spring and Summer New Men's Trendy Versatile Half-Sleeve Printed Quality Round Neck T-Shirt Short-Sleeve Fashion Oversized",
+        "picUrl": "https://cdn.findqc.com/item/20250816/mee074g4_jh3m.jpg",
+        "price": "¥90.00",
+        "toPrice": "$14.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7Mx_KEzE81zM_3boaQ6L-A",
+          "name": "松阳县帅克服装批发部",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "1319403",
+        "mallType": "TB",
+        "itemId": "870156042931",
+        "title": "From the Street Comes from the Streets, Featuring a Round Neck, Short, Wide, Boxy Style, Sorona Material, and a Funny Summer Short-Sleeve Design",
+        "picUrl": "https://cdn.findqc.com/item/20250813/me90ovln_xzyx.jpg",
+        "price": "¥81.29",
+        "toPrice": "$12.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "71788017",
+          "name": "FROM THE STREET 来自街头",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1796756",
+        "mallType": "TB",
+        "itemId": "911128874412",
+        "title": "Fashionable Brand Arte Flowers Back T-Shirt, Same Style for Men and Women, Flower Print, Pure Cotton, Loose Short-Sleeved T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250822/mem71wa1_qon5.jpg",
+        "price": "¥59.67",
+        "toPrice": "$9.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "262905172",
+          "name": "农村人卖潮牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1842341",
+        "mallType": "T1688",
+        "itemId": "950255120495",
+        "title": "2024Fw Short-Sleeved T-Shirt Summer Pull-Printed Essentialst Shirt Sshirt",
+        "picUrl": "https://cdn.findqc.com/item/20250726/mdjbq42g_8vko.jpg",
+        "price": "¥87.00",
+        "toPrice": "$13.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWJpAX1Ml7oscoB2p4HVoAg",
+          "name": "宁波市鄞州钟公庙宜山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 109,
+        "qcVideoCnt": 4
+      },
+      {
+        "id": "1485316",
+        "mallType": "WD",
+        "itemId": "7474037007",
+        "title": "No.10 football short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250822/mem0xu4q_gxu6.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1751596493",
+          "name": "Thunder03",
+          "logo": "https://si.geilicdn.com/pccreshp1367236596-5fa200000194f09138140a23038e_1079_1079.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 59,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2182592",
+        "mallType": "WD",
+        "itemId": "7488281415",
+        "title": "Round neck T-shirt hip-hop pure cotton short sleeved summer",
+        "picUrl": "https://cdn.findqc.com/item/20250822/mely0hw3_8408.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1693116061",
+          "name": "Sunhouse",
+          "logo": "https://si.geilicdn.com/shopedit1950202051-2ce50000019864cadecc0a21146b-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 17,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1236372",
+        "mallType": "TB",
+        "itemId": "840230226982",
+        "title": "Ceiling Haikou Vulture s2 Audition Kanye YEEZY Gosha Merch Double Headed Eagle Short Sleeve",
+        "picUrl": "https://cdn.findqc.com/item/20250822/meltoua7_bpaq.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "102388853",
+          "name": "Dondatimes",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2176117",
+        "mallType": "TB",
+        "itemId": "965009077733",
+        "title": "C*S Men's Slim Fit Crew Neck Ribbed Short Sleeve T-Shirt Light Gray 2025 Spring New Arrival 1229297003",
+        "picUrl": "https://cdn.findqc.com/item/20250822/meltoub9_7lmp.jpg",
+        "price": "¥100.68",
+        "toPrice": "$15.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "460845536",
+          "name": "C家男装工厂原单",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2179307",
+        "mallType": "T1688",
+        "itemId": "865446903522",
+        "title": "2019 SS short sleeved T-shirt 3M reflective FOG double line ESSENTIALS trendy brand Los Angeles SShire cross-border",
+        "picUrl": "https://cdn.findqc.com/item/20250822/melpq52w_70ar.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBWJpAX1Ml7oscoB2p4HVoAg",
+          "name": "宁波市鄞州钟公庙宜山服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2175687",
+        "mallType": "T1688",
+        "itemId": "904609814446",
+        "title": "Jimo Grailz summer new collaboration skull letter print round neck short sleeved washed black loose T-shirt for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20250822/melph51n_i3uj.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215853495145",
+          "name": "即墨区不是自由服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "423366",
+        "mallType": "T1688",
+        "itemId": "812360811767",
+        "title": "Cross-border manufacturers direct foreign trade explosion Alcatraz series pattern T-shirt short-sleeved letters printed round neck short-sleeved T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01syWnFq1RpKTJi4unq_!!2217003702160-0-cib.jpg",
+        "price": "¥14.00",
+        "toPrice": "$2.20",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "433423",
+        "mallType": "WD",
+        "itemId": "7258101132",
+        "title": "R16081-H63",
+        "picUrl": "https://cdn.findqc.com/item/20250215/m75cvu15_xtr8.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1829168265",
+          "name": "ROCKET4",
+          "logo": "https://si.geilicdn.com/weidian1811741420-7c1b000001913c5d2fa10a20e273_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "423421",
+        "mallType": "T1688",
+        "itemId": "829198439193",
+        "title": "SS22Tee Stretch Limo off shoulder T-shirt round neck short sleeved shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250822/melmefy4_5o8y.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218389734745",
+          "name": "合肥市高新区凌展服装工作室（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1139346",
+        "mallType": "T1688",
+        "itemId": "862352912700",
+        "title": "Brand in stock Ice Silk Quick-drying Breathable Elastic Short-sleeved T-shirt Men's Summer Loose Fitness Basketball Casual Top",
+        "picUrl": "https://cdn.findqc.com/item/20250821/melieh33_fxv0.jpg",
+        "price": "¥28.00",
+        "toPrice": "$4.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4Dj4ziZTh03Ks2eoHFRgpQ",
+          "name": "跨境一路发发工厂店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "887590",
+        "mallType": "TB",
+        "itemId": "875397663108",
+        "title": "Prism Dark Style West Coast Damaged Rock High Street Vintage Heavyweight Unisex Short-Sleeve T-Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20250717/md6jhf08_jqqc.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "509005392",
+          "name": "棱镜",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2174034",
+        "mallType": "WD",
+        "itemId": "7268249915",
+        "title": "Rare_chrome hearts pair long sleeve shirt Croheart Paris pair arms vine long sleeves tee",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mel8v4uq_ly59.jpg",
+        "price": "¥328.00",
+        "toPrice": "$51.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1686806696",
+          "name": "rare_mart奇珍异宝",
+          "logo": "https://si.geilicdn.com/wdseller1463115881-601b00000192944d06370a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "224317",
+        "mallType": "WD",
+        "itemId": "6688507596",
+        "title": "Rei Kawakubo PLAY Japanese CDG Classic Embroidered Love T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42p5ljy_qxgj.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1777600337",
+          "name": "Only u",
+          "logo": "https://si.geilicdn.com/wdseller1789097277-43750000018b0d52c61f0a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 69,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2035061",
+        "mallType": "T1688",
+        "itemId": "885691278396",
+        "title": "GLFS American Style Dressed World Cup Flag Printing All-Match Short-Sleeved Couples Men's Street Fashion Half-Sleeved Summer T",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mel27z9j_q7bw.jpg",
+        "price": "¥44.00",
+        "toPrice": "$6.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB8OCDY6GYUqaKpPApv4LWGg",
+          "name": "广州易乐服饰商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1237327",
+        "mallType": "WD",
+        "itemId": "7445985329",
+        "title": "Summer Short sleeved T-shirt Collection for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mel0wbbt_vejl.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1800311577",
+          "name": "digital product",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2113741",
+        "mallType": "T1688",
+        "itemId": "876723707571",
+        "title": "Bandai Anime JoJos T Shirt Vintage Washed JOJO Steel Ball Ru",
+        "picUrl": "https://cdn.findqc.com/item/20250821/mel0whlm_8c4i.jpg",
+        "price": "¥25.50",
+        "toPrice": "$4.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBI_-EUOMERt76sFixnc1kug",
+          "name": "广州齐盛服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147173201911156880",
+  "language": "en"
+}

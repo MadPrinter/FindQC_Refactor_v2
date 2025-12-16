@@ -1,0 +1,372 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "3135272",
+        "mallType": "WD",
+        "itemId": "7520549338",
+        "title": "圣 SL  过y  货号：M140/F 墨镜 朴彩英同款 男女同款 #C50 ",
+        "picUrl": "https://si.geilicdn.com/wdseller901977184502-2833000001994dc8f76a0a20e2c5_1168_1557.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1805462496",
+          "name": "乔治眼镜",
+          "logo": "https://si.geilicdn.com/wdseller1430397593-6c3200000198561634260a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3071310",
+        "mallType": "WD",
+        "itemId": "7549390756",
+        "title": "New Fashion Versatile Sunglasses -003",
+        "picUrl": "https://si.geilicdn.com/pcitem1950340596-662e00000196a02373820a239646-unadjust_1200_1200.png",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1863334243",
+          "name": "U Mode",
+          "logo": "https://si.geilicdn.com/pcdecorate1988993828-136b0000019956eee2da0a210139-unadjust_722_722.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 31,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3117282",
+        "mallType": "T1688",
+        "itemId": "868650916398",
+        "title": "新款时尚双梁方框字母T墨镜文艺复古男太阳镜ins潮流网红太阳眼镜",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01NhhXDN1QjXuLCp5g1_!!2217545042012-0-cib.jpg",
+        "price": "¥5.50",
+        "toPrice": "$0.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217545042012",
+          "name": "台州市雷伽眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3113012",
+        "mallType": "T1688",
+        "itemId": "900725083488",
+        "title": "Zhang Yuanying Curved Rimless Sunglasses Women's New High-end Sense Trendy UV-proof Women's Sunglasses Sun Protection",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01719ttX28c4YWE1hwn_!!2203307952-0-cib.jpg",
+        "price": "¥8.50",
+        "toPrice": "$1.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBhbawgHFjWn6NfCuWr4gxaA",
+          "name": "临海市丽莎眼镜厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2217088",
+        "mallType": "T1688",
+        "itemId": "816408054126",
+        "title": "Europe and the United States pilot retro double beam sunglasses 2024 new high-level sense of sunglasses anti-ultraviolet sunglasses tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZCtTNS1Gyz36gb79g_!!2340660692-0-cib.jpg",
+        "price": "¥6.50",
+        "toPrice": "$1.02",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2340660692",
+          "name": "临海市新柯顿眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2674562",
+        "mallType": "WD",
+        "itemId": "7563664030",
+        "title": "Fashionable Classic Peplum Eyewear",
+        "picUrl": "https://si.geilicdn.com/pcitem1956331466-176e000001998f490ad70a23111a_800_800.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1699116765",
+          "name": "Aurora",
+          "logo": "https://si.geilicdn.com/weidian1956331466-32c4000001989b50140c0a81347d_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3131424",
+        "mallType": "T1688",
+        "itemId": "856084983996",
+        "title": "Sum11W Miaojia Cat-Eye Sunglasses, Acetate Sunglasses, Uv Protection, Same Style as Zhang Yuanying, with Prescription Lens Options",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UMKod21hVCxwAF5Bd_!!2218803324282-0-cib.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBudvgu0oVSjAVRNGvduf8bg",
+          "name": "深圳焱狐科技有限责任公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3130984",
+        "mallType": "T1688",
+        "itemId": "802787109541",
+        "title": "新款GM墨镜盒高品质凯旋门眼镜盒缪缪包装盒杨树林fake小香风CD",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cHjbfV1XjjOWwLWMU_!!2217997722960-0-cib.jpg",
+        "price": "¥22.50",
+        "toPrice": "$3.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217997722960",
+          "name": "东莞市长安元点眼镜厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 15,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2290390",
+        "mallType": "T1688",
+        "itemId": "857363568915",
+        "title": "New fashion double beam square frame retro men's and women's sunglasses personalized trend netroots hundred with sunglasses 3885",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01E7UEoJ1tlUR7Q39lc_!!2912525942-0-cib.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2912525942",
+          "name": "临海市卡米勒眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2214360",
+        "mallType": "T1688",
+        "itemId": "929585409490",
+        "title": "Temfort series T sunglasses fashion wear personality street men and women universal sunglasses sunshade UV protection",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01a7Ezi31c2kJtJyZg8_!!2219356383543-0-cib.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219356383543",
+          "name": "台州市骏亮眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2068593",
+        "mallType": "WD",
+        "itemId": "7515613988",
+        "title": "Sunglasses Cat Eye Small Frame Retro Premium - MLMLSPTS0707",
+        "picUrl": "https://si.geilicdn.com/open1326912390-1234478995-663b0000019840f357560a8133b0_800_800.jpg",
+        "price": "¥49.00",
+        "toPrice": "$7.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1326912390",
+          "name": "Kung-Fu",
+          "logo": "https://si.geilicdn.com/shopedit1326912390-465c000001922657a18d0a23057e-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1459185",
+        "mallType": "T1688",
+        "itemId": "893678787668",
+        "title": "2024 men and women million square sunglasses luxury brand cross-border hot sale wholesale 1486 sunglasses UV protection",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01jZ6lqL21hqEOTQl6d_!!2219393387017-0-cib.jpg",
+        "price": "¥16.00",
+        "toPrice": "$2.52",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3127987",
+        "mallType": "T1688",
+        "itemId": "913308522113",
+        "title": "Oval Sunglasses for Men and Women, Suitable for Outdoor Activities, Driving, Sun Protection, Street Photography, Trendy Casual Sunglasses, Uv Protection and Shading",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ICrByE1j16CGL0hE6_!!2219038564487-0-cib.jpg",
+        "price": "¥17.00",
+        "toPrice": "$2.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB3V3_yh3GaqrjoCIHsm9lVQ",
+          "name": "义乌市清渺贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2148172",
+        "mallType": "WD",
+        "itemId": "7461552344",
+        "title": "XJXPCS New Fashionable Hundred Eyewear-03",
+        "picUrl": "https://si.geilicdn.com/pcitem1950340596-662e00000196a02373820a239646-unadjust_1200_1200.png",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1737227933",
+          "name": "NEW Crazy Koala",
+          "logo": "https://si.geilicdn.com/shopedit1950340596-3ecc000001965d8a40c20a20e672-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2734529",
+        "mallType": "TB",
+        "itemId": "841903852550",
+        "title": "Top dark, bottom light black gray gradient sunglasses MOSCOT LEMTOSH full circle frame plate sunglasses",
+        "picUrl": "https://cdn.findqc.com/item/20251019/mgxs2czd_q3x4.jpg",
+        "price": "¥104.27",
+        "toPrice": "$16.40",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68640677",
+          "name": "百镜汇",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1268479",
+        "mallType": "T1688",
+        "itemId": "846633249295",
+        "title": "Versatile Hong Kong style square new outdoor women's sunglasses, street trendy sunglasses, men's photography fashion",
+        "picUrl": "https://img.alicdn.com/imgextra/i1/6000000000592/O1CN01jg8iQP1GFBTYlzzBb_!!6000000000592-0-tbvideo.jpg",
+        "price": "¥32.90",
+        "toPrice": "$5.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217551689326",
+          "name": "新北区龙虎塘健之章五金店(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 111,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2697884",
+        "mallType": "T1688",
+        "itemId": "908199931825",
+        "title": "25 Maybach Glasses Cross-border New Men's Sunglasses Fashion European and American Frameless Sunglasses Women's Anti-ultraviolet Glasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vfyp4C1vHq3m9aoBd_!!2218760966148-0-cib.jpg",
+        "price": "¥12.00",
+        "toPrice": "$1.89",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB7OrvmMOUapXR9WZ0uV8__g",
+          "name": "上饶市广信区弘视电子商务行",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 2
+      },
+      {
+        "id": "2708184",
+        "mallType": "T1688",
+        "itemId": "945398122339",
+        "title": "Temford Summer New Sunglasses European and American Fashion Double Beam Cutting Edge Metal Glasses Men's and Women's INS Sunglasses",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01W8tn821SiI6Ax6LxF_!!1985932280-0-cib.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB-58AdbCMQHdjlrghw96AOA",
+          "name": "深圳市龙岗区华城视光眼镜商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2707933",
+        "mallType": "TB",
+        "itemId": "740272541230",
+        "title": "XMetal XX Metal Juliet 2.0 Juliet Outdoor Sports Cycling Glasses Polarized Sunglasses Concave Design",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2208450069498/O1CN014Yaa8F2K28kp3WO63_!!2208450069498.jpg",
+        "price": "¥134.52",
+        "toPrice": "$21.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "237356125",
+          "name": "斯塔克工业制造",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3103218",
+        "mallType": "T1688",
+        "itemId": "944785909532",
+        "title": "New sunglasses for men's and women's driving, driver specific glasses, UV strong light, new polarized sunglasses for driving, 3675",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01O4pPZu1tlUUTd0m2C_!!2912525942-0-cib.jpg",
+        "price": "¥20.00",
+        "toPrice": "$3.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIMdRwZhoV56rGrlgCHKYpg",
+          "name": "临海市卡米勒眼镜有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021146071251917135496",
+  "language": "en"
+}

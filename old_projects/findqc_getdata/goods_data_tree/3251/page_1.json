@@ -1,0 +1,561 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "341827",
+        "mallType": "TB",
+        "itemId": "575336883655",
+        "title": "Lay's Potato Chips 75g*10 Bags Fried Chicken Octopus Crispy Meat Puffed Snacks Casual Small Snack Foods Potato",
+        "picUrl": "https://cdn.findqc.com/item/20241216/m4qwo3fq_32ad.jpg",
+        "price": "¥9.90",
+        "toPrice": "$1.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "534422518",
+          "name": "九皋食品专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1243433",
+        "mallType": "TB",
+        "itemId": "823466179458",
+        "title": "【 In stock 】 24ss potato chip bag, hand-held bag, storage bag, fashion show, cowhide parody, red and yellow ambu, independent",
+        "picUrl": "https://cdn.findqc.com/item/20250805/mdxz2de5_7m0e.jpg",
+        "price": "¥249.00",
+        "toPrice": "$39.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "227511191",
+          "name": "黑马马Made",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1505311",
+        "mallType": "TB",
+        "itemId": "754132795253",
+        "title": "LeShi potato chips 70g big bag full box foodie food office casual snacks satisfy hunger snacks gift package",
+        "picUrl": "https://cdn.findqc.com/item/20250614/mbv2fy4j_1xtt.jpg",
+        "price": "¥66.44",
+        "toPrice": "$10.45",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110870221",
+          "name": "三颗糖食品专营店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "968792",
+        "mallType": "TB",
+        "itemId": "620012698598",
+        "title": "4 packs of spot Japan local Nescafe Nestle KITKAT Chocolate Matcha Flavor Wafer Cookies",
+        "picUrl": "https://cdn.findqc.com/item/20250321/m8hsqjmc_jqa8.jpg",
+        "price": "¥18.80",
+        "toPrice": "$2.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "345816100",
+          "name": "豆豆喝多了",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "67801",
+        "mallType": "TB",
+        "itemId": "644669177952",
+        "title": "Le Shi Potato Chips, Bananas, Ham, Black Truffles, Avocado Flavor, 90g/104g * 6 cans, Office Casual Snacks, Puffed",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mm28yj_8o8c.jpg",
+        "price": "¥23.90",
+        "toPrice": "$3.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "534422518",
+          "name": "九皋食品专营店",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "65487",
+        "mallType": "TB",
+        "itemId": "587495834303",
+        "title": "Ritz potato chips original potato chips office chasing drama snacks snacks leisure food whole box wholesale gift packs",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mk636m_rnrk.jpg",
+        "price": "¥4.50",
+        "toPrice": "$0.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "111196272",
+          "name": "比比赞旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "63300",
+        "mallType": "TB",
+        "itemId": "692812968240",
+        "title": "Pringles Pringles Potato Chips Puffed Snacks Original Spicy Strips Onion Yogurt BBQ Canister Bucket Movie 110g",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjefi6_eqzs.jpg",
+        "price": "¥17.50",
+        "toPrice": "$2.75",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "44506",
+        "mallType": "TB",
+        "itemId": "639556557745",
+        "title": "Stones Throw MF DOOM All Caps Short sleeved HipHop Rap Cotton Shop",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mea7ik_hz3j.jpg",
+        "price": "¥86.00",
+        "toPrice": "$13.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "118269680",
+          "name": "挺哏儿商店",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "43052",
+        "mallType": "TB",
+        "itemId": "648601860734",
+        "title": "Leshan Quito Cheers Crisp 25g * 12 Pack Corn Sticks Shrimp Sticks American Turkey Flavor French Fries Potato Chips Casual Snacks",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdtrt0_zh8u.jpg",
+        "price": "¥18.80",
+        "toPrice": "$2.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "224914978",
+          "name": "糖小贱食品专营店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "42465",
+        "mallType": "TB",
+        "itemId": "649985674436",
+        "title": "Package Imported Cheetos Hot Cheese Chili Corn Strips Corn Crisp Fries Lotto's CheetosChips",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mdng86_16l2.jpg",
+        "price": "¥14.50",
+        "toPrice": "$2.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104326210",
+          "name": "城市超市CITYSHOP",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "38691",
+        "mallType": "WD",
+        "itemId": "7262133312",
+        "title": "Spot blcg 24ss Paris potato chip bag show the same yellow calf leather handbag",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nm63z5_nluc.jpg",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858885532",
+          "name": "2December的小屋",
+          "logo": "https://si.geilicdn.com/wdseller1543338394-5bb800000185725383710a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34075",
+        "mallType": "TB",
+        "itemId": "678065394009",
+        "title": "Ritz Cheetos Wonderful Crackers small packs of sharp corner crispy office gluttony children's leisure net red puffed snacks",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk8ixz_gsis.jpg",
+        "price": "¥15.80",
+        "toPrice": "$2.48",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34064",
+        "mallType": "TB",
+        "itemId": "622997547196",
+        "title": "American imported snacks Cheetos corn on the cob cheese flavor / spicy corn on the cob CHEETOS PUFFS CRUNCHY",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk8kh2_u6uh.jpg",
+        "price": "¥19.90",
+        "toPrice": "$3.13",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "29792",
+        "mallType": "TB",
+        "itemId": "644970500421",
+        "title": "Lay's New Flavor Potato Chips 70g, Various Flavors Including Grilled Lamb Skewers, Salted Egg Yolk, Garlic Flavor, Large Pack of Puffed Snacks",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj7ap4_j4kr.jpg",
+        "price": "¥16.29",
+        "toPrice": "$2.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "73330779",
+          "name": "鑫旺零食店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "20390",
+        "mallType": "WD",
+        "itemId": "7240047223",
+        "title": "[In stock] blcg 24ss Paris potato chip bag show same yellow leather handbag",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfqg64_ykcy.jpg",
+        "price": "¥249.00",
+        "toPrice": "$39.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1785725882",
+          "name": "GR10K",
+          "logo": "https://si.geilicdn.com/wdseller1648192646-60ea0000018e7ec4bce50a8134f0_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 17,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "12773",
+        "mallType": "TB",
+        "itemId": "683413969908",
+        "title": "Leshi Taro Chips Sea Salt Lime Flavor Original Cut Taro Potato Chips Casual Snacks Gift Pack Snacks kids Wholesale",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcbh54_hcmt.jpg",
+        "price": "¥17.99",
+        "toPrice": "$2.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "224914978",
+          "name": "糖小贱食品专营店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "9788",
+        "mallType": "TB",
+        "itemId": "627336936017",
+        "title": "Korean Import snacks Lotte cheetos sweet and spicy corn crisp strips puffed Casual snacks 82g bag",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mat7is_8n0q.jpg",
+        "price": "¥10.79",
+        "toPrice": "$1.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "193474643",
+          "name": "馨依: 韩国进口超市",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114042463194344259",
+  "language": "en"
+}

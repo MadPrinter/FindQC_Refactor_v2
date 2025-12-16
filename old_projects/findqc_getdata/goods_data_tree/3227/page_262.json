@@ -1,0 +1,352 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1534296",
+        "mallType": "WD",
+        "itemId": "7455352574",
+        "title": "BP Short Sleeve",
+        "picUrl": "https://si.geilicdn.com/pcitem1839310519-4a2a000001966c46fd050a231316_1200_1100.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1655154201",
+          "name": "CNTOP",
+          "logo": "https://si.geilicdn.com/wdseller1839310519-043200000190f88352a40a231316_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1534295",
+        "mallType": "WD",
+        "itemId": "7265006900",
+        "title": "Wooden Summer Short Sleeve Shorts",
+        "picUrl": "https://si.geilicdn.com/pcitem1880066743-0e2300000195cb65149d0a23111a_800_800.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1666314277",
+          "name": "CNTOP(clothes)",
+          "logo": "https://si.geilicdn.com/pcdecorate1880066743-67b3000001915167aebc0a23038e-unadjust_400_400.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1534150",
+        "mallType": "T1688",
+        "itemId": "924151685426",
+        "title": "Cross border 2025 Spring/Summer New Fashionable Printed 3D Concave convex Craft Fashionable Versatile Short Casual Round Neck Short Sleeve T",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01OnQAVA1bp0R1VJOGP_!!2219733823513-0-cib.jpg",
+        "price": "¥78.00",
+        "toPrice": "$12.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219733823513",
+          "name": "永康市藤袁电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533910",
+        "mallType": "T1688",
+        "itemId": "917578144152",
+        "title": "Sports tights long-sleeved men's quick-dry running track and field sports students training clothes blue ball fitness high elastic T-shirt wholesale",
+        "picUrl": "https://img.alicdn.com/imgextra/i2/6000000001536/O1CN01v412HL1NDXPNlZRrJ_!!6000000001536-0-tbvideo.jpg",
+        "price": "¥32.49",
+        "toPrice": "$5.11",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533837",
+        "mallType": "T1688",
+        "itemId": "843249050464",
+        "title": "24S Magira Hoodie MM6 Inverted Letter Hoodie Round Neck Unisex Loose Zipper Hoodie",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HAHOm21ZkJ5FgAlJg_!!2218124863232-0-cib.jpg",
+        "price": "¥74.00",
+        "toPrice": "$11.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBov1x70RpDzuEI4dYMppmBA",
+          "name": "中山市润鑫正电子商务商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533786",
+        "mallType": "T1688",
+        "itemId": "897735284924",
+        "title": "Cross-border round neck quick-drying ice silk short-sleeved T-shirt men's Europe and the United States summer sports running fitness high elastic breathable training clothes",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000001351/O1CN010ap1K41Lqo7atAwWs_!!6000000001351-0-tbvideo.jpg",
+        "price": "¥76.90",
+        "toPrice": "$12.09",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 116,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533782",
+        "mallType": "T1688",
+        "itemId": "898504731344",
+        "title": "Summer Europe and the United States sports ice silk quick dry short-sleeved t-shirt men and women loose fitness elastic round neck big yards leisure tops",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01CbeqwA2J3ECH3ZO5q_!!2217040889365-0-cib.jpg",
+        "price": "¥56.00",
+        "toPrice": "$8.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217040889365",
+          "name": "广州尼桃服装商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 177,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533495",
+        "mallType": "T1688",
+        "itemId": "936839763584",
+        "title": "足球服24-25巴黎球衣皇马多特马竞国米阿贾克斯热刺勒沃库高版本",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000007510/O1CN013bjnud25LdW92rS7M_!!6000000007510-0-tbvideo.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1516708",
+        "mallType": "T1688",
+        "itemId": "898569826559",
+        "title": "2025 Summer Men's Big Horse Label Round Neck T-Shirt Short Sleeve Slim Cotton Printed RL Tops Casual Versatile Cotton",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000005263/O1CN01ZUtXDY1okVWAgvd7d_!!6000000005263-0-tbvideo.jpg",
+        "price": "¥38.00",
+        "toPrice": "$5.98",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1516560",
+        "mallType": "T1688",
+        "itemId": "858015563187",
+        "title": "P's Popular European and American Cross-Border 2025 Summer Korean Version Loose Large Size Trendy Brand Street Versatile Short-Sleeved T-Shirt for Men and Women Couples",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01cORGaA1GiUpmCQ7n4_!!2218755330656-0-cib.jpg",
+        "price": "¥69.00",
+        "toPrice": "$10.85",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4zrk1dQTh4nr7qwgm8SWpw",
+          "name": "广州诺叶服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1515319",
+        "mallType": "WD",
+        "itemId": "7489510302",
+        "title": "New low price factory self high quality short sleeve 3",
+        "picUrl": "https://si.geilicdn.com/pcitem901938109088-7e9a00000195b760f78b0a2315ef_1000_1000.jpg",
+        "price": "¥81.60",
+        "toPrice": "$12.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801320989",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1513341",
+        "mallType": "TB",
+        "itemId": "807537806113",
+        "title": "Ten porphyrin SHIBU chaotic illustration ins personality wear trend punk short-sleeved round neck 180g thin T-shirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2217023441945/O1CN01eHeZq61QErJwdrKyL_!!2217023441945.jpg",
+        "price": "¥68.90",
+        "toPrice": "$10.83",
+        "status": "normal",
+        "shopInfo": {
+          "id": "410847916",
+          "name": "十卟SHIBU",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1018327",
+        "mallType": "T1688",
+        "itemId": "833559794276",
+        "title": "Sportswear Real Madrid Lyon Marseille Paris Algeria half zip long training suit set for fans long sleeves",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ur9ssE1SGoG5C1bsi_!!2216822072220-0-cib.jpg",
+        "price": "¥83.00",
+        "toPrice": "$13.05",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvP0r6q73F8fAh5MnRBCyIA",
+          "name": "广州市琴健共鸣服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 188,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1017469",
+        "mallType": "WD",
+        "itemId": "7405489727",
+        "title": "European and American retro letter printed short sleeved top, hip-hop streetwear, men's and women's casual T-shirt",
+        "picUrl": "https://si.geilicdn.com/open1620722381-1234478995-1bf6000001954bab6bc60aa08290_800_800.jpg",
+        "price": "¥36.75",
+        "toPrice": "$5.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620722381",
+          "name": "MOMO SHOP",
+          "logo": "https://si.geilicdn.com/shopedit1929472003-20e300000194d64b67bf0a2102c5-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1013457",
+        "mallType": "TB",
+        "itemId": "652479524814",
+        "title": "Which layer are you on? 00S CH Extinction collaboration NECKLACE necklace, vintage printed short sleeved T-shirt, CDG",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/163972650/O1CN01TiOoDQ1VRkRQfGX2M_!!163972650.png",
+        "price": "¥188.00",
+        "toPrice": "$29.56",
+        "status": "normal",
+        "shopInfo": {
+          "id": "68237358",
+          "name": "你在第几层",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1014308",
+        "mallType": "T1688",
+        "itemId": "807480326915",
+        "title": "Cross-border 2024 spring and summer new Casablanca CasablancaLOGO printing men and women loose short-sleeved T-shirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01aLA9Mt2FdAjrPxzMP_!!2217674598902-0-cib.jpg",
+        "price": "¥52.00",
+        "toPrice": "$8.18",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 121,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "844329",
+        "mallType": "WD",
+        "itemId": "7274290849",
+        "title": "Towel Jacquard Short Sleeve\n",
+        "picUrl": "https://si.geilicdn.com/pcitem901674870357-289000000185b67023ad0a231273-unadjust_499_693.png",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "167171804",
+          "name": "666factory",
+          "logo": "https://si.geilicdn.com/forward167171804-0221000001675af23cd10a02853e_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "476301",
+        "mallType": "TB",
+        "itemId": "820103596417",
+        "title": "American Style Niche style Trendy Travis Collaboration Short-Sleeve Men's Scott Women's High Street T-Shirt Spring/Summer Vtg Half-Sleeve",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2215032114223/O1CN01SOruHh1h4BYjzJu05_!!2215032114223.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "330280718",
+          "name": "韩炫风潮牌店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "475274",
+        "mallType": "T1688",
+        "itemId": "834175214050",
+        "title": "Cross-border AliExpress American Y2k Street Fashion Camouflage Printing Stitching Shirt T-shirt Men's Long Sleeve Loose Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01fTqHgt1KRKQWJVqjy_!!2215002491160-0-cib.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB1XSC2TNnc-L-EB14SQDZ7A",
+          "name": "义乌市后周服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 21,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "305520",
+        "mallType": "TB",
+        "itemId": "713179921262",
+        "title": "Zhao Lu Si same short short-sleeved T-shirt top VINTAGE CROPPED RAGLAN",
+        "picUrl": "https://cdn.findqc.com/item/20241205/m4aztx7g_86u1.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108830810",
+          "name": "aritzia羽绒",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021144061062553901504",
+  "language": "en"
+}

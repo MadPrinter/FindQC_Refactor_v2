@@ -1,0 +1,568 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3152254",
+        "mallType": "TB",
+        "itemId": "699326439818",
+        "title": "Long sleeve high neck bodysuit European and American solid color long sleeved high neck close fitting base jumpsuit\n",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2215358847944/O1CN015URuzd28YPPWOpUu9_!!2215358847944.jpg",
+        "price": "¥40.74",
+        "toPrice": "$6.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "266981580",
+          "name": "GalarxyClothesStroe4",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3134982",
+        "mallType": "T1688",
+        "itemId": "855287451432",
+        "title": "European and American popular women's backless seamless camisole bottom tight fitting clothes, body hugging clothes, one-piece plus size T-shaped shapewear for women\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Q8mf8S1wNAFL7QvjF_!!2215950636295-0-cib.jpg",
+        "price": "¥10.80",
+        "toPrice": "$1.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBuroZNqSA4p3O-bNsz3B1ug",
+          "name": "东莞市智圆行方商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3099701",
+        "mallType": "T1688",
+        "itemId": "908470675464",
+        "title": "跨境欧美宫廷塑身蕾丝衣收腰美体聚拢托胸性感内衣复古塑身上衣",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sbbJ4h1M45cOZA2gp_!!2206621661380-0-cib.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2206621661380",
+          "name": "灌云新韵衣衣服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1503375",
+        "mallType": "TB",
+        "itemId": "842265003101",
+        "title": "Pok é mon Japanese Edition Supplement Package: Zhu Zi Series Zhu Zi/Qi Shu/151 First Generation/Bai Lu/Mask/Liuqiya",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2214494123606/O1CN018zbFai1cVbE22JmMI_!!2214494123606.png",
+        "price": "¥320.00",
+        "toPrice": "$50.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "230312129",
+          "name": "咔部拉卡牌",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2009341",
+        "mallType": "T1688",
+        "itemId": "701505169060",
+        "title": "Europe and the United States wind 2023 spring and summer new cross-border women's fashion one-line collar backless Slim package hip casual pants jumpsuit",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ObPsGF1OliLFE1DXy_!!3166701746-0-cib.jpg",
+        "price": "¥15.90",
+        "toPrice": "$2.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3166701746",
+          "name": "广州市依米尔服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2324340",
+        "mallType": "T1688",
+        "itemId": "667077806534",
+        "title": "New one-piece swimsuit printed square bikini sexy Europe and the United States foreign trade amazon girlfriends clothing 2025 women ins",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01WRKq241HHIej9OSTy_!!2212477890732-0-cib.jpg",
+        "price": "¥25.00",
+        "toPrice": "$3.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2212477890732",
+          "name": "兴城市琦骏制衣厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2902623",
+        "mallType": "TB",
+        "itemId": "858099838456",
+        "title": "Wild Hunter Bella's Frankies French Red Polka Lace Splicing Deep V-neck Hanging Neck Dress",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk686v3_y425.jpg",
+        "price": "¥80.96",
+        "toPrice": "$12.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "462563383",
+          "name": "衣见倾心欧美潮范",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2649880",
+        "mallType": "T1688",
+        "itemId": "856086418716",
+        "title": "HR24068 explosive extended spring new item, European and American sports casual sexy tight long sleeved shorts two-piece set",
+        "picUrl": "https://cdn.findqc.com/item/20251010/mgjx1xgv_zjiw.jpg",
+        "price": "¥62.00",
+        "toPrice": "$9.75",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBqcVci_KKRCt9Nv--ann-Qw",
+          "name": "泉州市晟恒辉服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 46,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2482818",
+        "mallType": "WD",
+        "itemId": "7437329616",
+        "title": "SwimsuitN 98 (non quality issues non refundable)",
+        "picUrl": "https://cdn.findqc.com/item/20250930/mg676bks_b5iz.jpg",
+        "price": "¥290.00",
+        "toPrice": "$45.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1300906268",
+          "name": "Scarlettluxury（accessories）",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2039283",
+        "mallType": "TB",
+        "itemId": "886120439385",
+        "title": "Stacked through artifact French sweet and spicy sexy bow tie lace neck hanging skirt for children's inner wear slim fit bottom shirt dress",
+        "picUrl": "https://cdn.findqc.com/item/20250811/me6s7dbs_a1k8.jpg",
+        "price": "¥15.90",
+        "toPrice": "$2.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "110377216",
+          "name": "伊然可可",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1429298",
+        "mallType": "T1688",
+        "itemId": "749667141472",
+        "title": "Trendy brand new export cross-border European and American style couple fragrance split swimsuit one-piece long sleeved swimsuit knitted suspender",
+        "picUrl": "https://cdn.findqc.com/item/20250529/mb9e8l81_x6q1.jpg",
+        "price": "¥58.00",
+        "toPrice": "$9.12",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1424895",
+        "mallType": "TB",
+        "itemId": "929016101552",
+        "title": "2025 European and American swimsuit new deep V floral beach vacation one-piece swimsuit soaking in hot springs Sanya tourism set for women",
+        "picUrl": "https://cdn.findqc.com/item/20250609/mbodtgnn_25nv.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "118615546",
+          "name": "Queen",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1381931",
+        "mallType": "T1688",
+        "itemId": "644141782016",
+        "title": "M's new solid color brand one-piece swimsuit Two Tiktok net red sexy letters ins quick sell cross-border swimsuit",
+        "picUrl": "https://cdn.findqc.com/item/20250708/mctedzae_zpz8.jpg",
+        "price": "¥48.00",
+        "toPrice": "$7.55",
+        "status": "normal",
+        "shopInfo": {
+          "id": "3480810715",
+          "name": "兴城市瑞美制衣有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1369292",
+        "mallType": "T1688",
+        "itemId": "749161123606",
+        "title": "European and American style autumn and winter new cross-border women's clothing sexy low cut fashion contrasting base knitted casual jumpsuit for women",
+        "picUrl": "https://cdn.findqc.com/item/20250519/mauj2y2t_wsvc.jpg",
+        "price": "¥27.90",
+        "toPrice": "$4.39",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "248430",
+        "mallType": "TB",
+        "itemId": "793668847215",
+        "title": "Tennis Series Sexy Sports Suspender Jumpsuit Vest Suspender Logo Printing",
+        "picUrl": "https://cdn.findqc.com/item/20241125/m3wnmmt8_fifc.jpg",
+        "price": "¥168.00",
+        "toPrice": "$26.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "108830810",
+          "name": "aritzia羽绒",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "69320",
+        "mallType": "TB",
+        "itemId": "813585234112",
+        "title": "Hollow out tight sexy casual jumpsuitHollow out tight sexy casual jumpsuit",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmlxsq_xbi5.jpg",
+        "price": "¥23.90",
+        "toPrice": "$3.76",
+        "status": "normal",
+        "categoryId": 20,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "68053",
+        "mallType": "TB",
+        "itemId": "761774983780",
+        "title": "Amazon wish cross-border 2023 summer new women's sexy wind print ladies halter wrap dress long dresses",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mm50qt_hwpt.jpg",
+        "price": "¥42.00",
+        "toPrice": "$6.60",
+        "status": "normal",
+        "categoryId": 37,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "64946",
+        "mallType": "TB",
+        "itemId": "662462485740",
+        "title": "Specials super sexy retro Y2K mesh long-sleeved neck neckline strapless cardigan backless Slim short fake two-piece T-shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mjxgdi_00c7.jpg",
+        "price": "¥86.00",
+        "toPrice": "$13.52",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145452101917917504",
+  "language": "en"
+}

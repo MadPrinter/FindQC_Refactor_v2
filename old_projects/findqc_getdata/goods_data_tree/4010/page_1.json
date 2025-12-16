@@ -1,0 +1,458 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2140760",
+        "mallType": "T1688",
+        "itemId": "930926600575",
+        "title": "Amazon with the same 304 stainless steel double-layer vacuum LULU with the same insulated cup large capacity outdoor yoga jugs",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01AKN1YC1X95jEAKzmn_!!2219856352880-0-cib.jpg",
+        "price": "¥40.00",
+        "toPrice": "$6.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219856352880",
+          "name": "晋州市乐菱纺织品店(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2645455",
+        "mallType": "TB",
+        "itemId": "648592248912",
+        "title": "French-Style High-Temperature Ceramic Gradient Color Kitchen Tool Bucket Storage Jar Spatula Holder Can Be Used as a Vase, Last Order",
+        "picUrl": "https://cdn.findqc.com/item/20251014/mgq9jc4w_jp95.jpg",
+        "price": "¥19.00",
+        "toPrice": "$2.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "109025461",
+          "name": "疯喵喵の手作",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 5
+      },
+      {
+        "id": "1394030",
+        "mallType": "T1688",
+        "itemId": "912337210711",
+        "title": "Amazon stanley Stanley 30oz portable car cup 304 stainless steel large capacity ice bully thermos cup",
+        "picUrl": "https://cdn.findqc.com/item/20250916/mflzj9h4_5lgk.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBUKDvIxTwoPvNytDiKx3JRQ",
+          "name": "永康市易致五金制品厂",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2150330",
+        "mallType": "T1688",
+        "itemId": "937369582977",
+        "title": "Cross border Ouwala fruit cup 304 stainless steel insulated cup, large capacity straw cup, portable car coffee",
+        "picUrl": "https://cdn.findqc.com/item/20250827/metnre6j_45mm.jpg",
+        "price": "¥17.90",
+        "toPrice": "$2.81",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPRsSTrmGw7OOcd3pV-NpQQ",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1224277",
+        "mallType": "TB",
+        "itemId": "674295416222",
+        "title": "Time scale anti drop plastic water cup for children, male students, Korean version, high beauty ins, simple tea cup, sports water bottle",
+        "picUrl": "https://cdn.findqc.com/item/20250421/m9pxtc9y_80ah.jpg",
+        "price": "¥6.90",
+        "toPrice": "$1.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "117055196",
+          "name": "雅兰格生活馆",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "53316",
+        "mallType": "T1688",
+        "itemId": "762296669291",
+        "title": "Crossing the border II 40oz handle cup double layer 304 stainless steel insulation keep cold car cup ice bar cup",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3no6xdz_ob2f.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "49618",
+        "mallType": "TB",
+        "itemId": "776554484569",
+        "title": "Arabica Coffee Cup, Stainless Steel, Insulated for Hot and Cold Drinks, Portable and Suitable for Car Use",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mgnk4r_8bl8.jpg",
+        "price": "¥39.08",
+        "toPrice": "$6.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "572000094",
+          "name": "MyQueens",
+          "type": "TB"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "47403",
+        "mallType": "T1688",
+        "itemId": "713311292699",
+        "title": "lulu back to life sport sports water bottle outdoor insulated yoga water bottle 11 colors for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mftp6v_vo30.jpg",
+        "price": "¥80.00",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "categoryId": 40,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "21407",
+        "mallType": "T1688",
+        "itemId": "679919860129",
+        "title": "Cross-border 304 stainless steel insulated cup portable car water cup 30OZ large-capacity ice bar straw double-drink coffee cups",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfypuo_jipq.jpg",
+        "price": "¥31.70",
+        "toPrice": "$4.98",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "19688",
+        "mallType": "TB",
+        "itemId": "671010449301",
+        "title": "Summer Water Cup with Cinnamoroll and Hello Kitty, High-Value Straw Plastic Cup, Portable, Cute, for Girls and Students, High-Temperature Resistant Cup",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nfeu4o_w2tm.jpg",
+        "price": "¥20.44",
+        "toPrice": "$3.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "130857422",
+          "name": "HALO可爱",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "15864",
+        "mallType": "T1688",
+        "itemId": "725892808830",
+        "title": "Hot cross-border space pot insulation cup II new spray plastic sports water bottle American large-capacity outdoor portable cups",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3ne7gvg_3bal.jpg",
+        "price": "¥28.50",
+        "toPrice": "$4.48",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 24,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "14017",
+        "mallType": "T1688",
+        "itemId": "772431856677",
+        "title": "Creative net red cold brew tea 500ml plastic bottle disposable sports tea water bottle go out portable filtered water cups",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mcrmqo_80l9.jpg",
+        "price": "¥0.94",
+        "toPrice": "$0.15",
+        "status": "normal",
+        "categoryId": 16,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021144439492553876447",
+  "language": "en"
+}

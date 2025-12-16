@@ -1,0 +1,362 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "338376",
+        "mallType": "TB",
+        "itemId": "790563774792",
+        "title": "ZA Spring Men's Commuter Loose Casual Bowling Shirt Collar Short Sleeve Linen Blend Shirt 3090200",
+        "picUrl": "https://cdn.findqc.com/item/20241215/m4oq72u0_0g89.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "60404122",
+          "name": "SHH STUDIO",
+          "type": "TB"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "338280",
+        "mallType": "TB",
+        "itemId": "801147690235",
+        "title": "(Special) Lem Style Short Sleeve Bright Line Shirt Lema* Wind 84% Cotton 16% Nylon Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241214/m4n62mfb_2aco.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "334507",
+        "mallType": "TB",
+        "itemId": "840237222283",
+        "title": "Madman S Style Line Design Jacket Personalized Customization",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4l3kuti_7p7v.jpg",
+        "price": "¥341.47",
+        "toPrice": "$53.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "258373061",
+          "name": "MadMan2024",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 30,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "333012",
+        "mallType": "T1688",
+        "itemId": "786552304217",
+        "title": "Heavy duty CAR x STU collaboration vintage J97 washed vintage jacket jacket, American mountain style Japanese trend",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4ky5feq_724z.jpg",
+        "price": "¥225.00",
+        "toPrice": "$35.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217605143350",
+          "name": "上海孙朋贸易商行（个人独资）",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 28,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "328479",
+        "mallType": "TB",
+        "itemId": "718980630041",
+        "title": "Japanese Mass-Produced Cute and Sweet Slimming Lace-Trimmed Off-Shoulder 03 Shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4kizhl2_s3ap.jpg",
+        "price": "¥197.17",
+        "toPrice": "$31.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "332709497",
+          "name": "外猫家日系女装店",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "328441",
+        "mallType": "TB",
+        "itemId": "814345271245",
+        "title": "Crtzstar tricolor zipper letter cardigan sweater",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/4084171057/O1CN01K9yRpV1Jg9c11wVHM_!!4084171057.jpg",
+        "price": "¥180.00",
+        "toPrice": "$28.30",
+        "status": "normal",
+        "categoryId": 24,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "327336",
+        "mallType": "WD",
+        "itemId": "7298689400",
+        "title": "Cola's independent P-style military green lapel zipper, metal nylon texture shirt, metal logo decoration",
+        "picUrl": "https://cdn.findqc.com/item/20241210/m4hysz4v_8ony.jpg",
+        "price": "¥358.00",
+        "toPrice": "$56.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858885532",
+          "name": "2December的小屋",
+          "logo": "https://si.geilicdn.com/wdseller1543338394-5bb800000185725383710a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "327320",
+        "mallType": "TB",
+        "itemId": "669590045393",
+        "title": "100% linen! Retro Chinese style! Summer men's cool and breathable solid color casual three quarter sleeved stand up collar shirt",
+        "picUrl": "https://cdn.findqc.com/item/20241210/m4hsj5x3_vg3f.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "368012648",
+          "name": "金衣客专注外贸",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "321292",
+        "mallType": "WD",
+        "itemId": "7293498127",
+        "title": "Co branded vintage J97 washed canvas jacket for men and women",
+        "picUrl": "https://cdn.findqc.com/item/20241209/m4gwh1k2_g1oh.jpg",
+        "price": "¥408.00",
+        "toPrice": "$64.16",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1864913249",
+          "name": "JTC Jack&#39;s treasure chest",
+          "logo": "https://si.geilicdn.com/pcdecorate1775697816-2d580000019002b5b42f0a2396f4-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 39,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "303434",
+        "mallType": "TB",
+        "itemId": "642326339805",
+        "title": "Life Wacko Maria Collaboration Trendy Graffiti Hawaiian Casual Short-Sleeve Floral Shirt Couple T-Shirt for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20241204/m49hahe7_0u2w.jpg",
+        "price": "¥111.56",
+        "toPrice": "$17.54",
+        "status": "normal",
+        "shopInfo": {
+          "id": "576936539",
+          "name": "C JEVON",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "303272",
+        "mallType": "TB",
+        "itemId": "712260716352",
+        "title": "Jiangxin 23Ss Tim Lehi Flame Tiger Full Printed Cuban Collar Rayon Hawaiian Short-Sleeved Shirt for Men",
+        "picUrl": "https://cdn.findqc.com/item/20241203/m47zv85n_eamx.jpg",
+        "price": "¥98.00",
+        "toPrice": "$15.41",
+        "status": "normal",
+        "shopInfo": {
+          "id": "232821022",
+          "name": "匠心style",
+          "type": "TB"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "302373",
+        "mallType": "WD",
+        "itemId": "7304817107",
+        "title": "No after-sales Majira shirt in pink and blue dual colors, fabric weaving and dyeing, all grid patterns are aligned, laser alignment requires special materials, all chest pockets are aligned, it is not a wrong version on the market, the pattern is too large, the cost of button opening and shell mouth is high, and the original polyester cotton tape cut from the main label is harder than the main label. It is a pure white label",
+        "picUrl": "https://cdn.findqc.com/item/20241204/m48z2b11_0ivh.jpg",
+        "price": "¥108.00",
+        "toPrice": "$16.98",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1858885532",
+          "name": "2December的小屋",
+          "logo": "https://si.geilicdn.com/wdseller1543338394-5bb800000185725383710a20e672_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "296290",
+        "mallType": "TB",
+        "itemId": "851890302180",
+        "title": "Independent Lem Style 21Ss Military Jacket Short Washed Vintage Jacket Clean Fit Style",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m46akf52_olgr.jpg",
+        "price": "¥316.50",
+        "toPrice": "$49.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "249852729",
+          "name": "Tsunam1",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 64,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "296300",
+        "mallType": "TB",
+        "itemId": "613013915279",
+        "title": "Home Wear Jc109 Pleated Casual Loose Versatile Thin Top Shirt Jacket for Men and Women Couples ins Trendy",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m46cs3kb_cygk.jpg",
+        "price": "¥206.80",
+        "toPrice": "$32.52",
+        "status": "normal",
+        "shopInfo": {
+          "id": "479333104",
+          "name": "有钱就快乐",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 47,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "296294",
+        "mallType": "TB",
+        "itemId": "828856296696",
+        "title": "MM6 Majella Europe and the United States niche light luxury trend men and women with the same paragraph four seasons of pure cotton non-iron casual long-sleeved shirt INS",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m46bdxn2_b4mh.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "categoryId": 42,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "286318",
+        "mallType": "TB",
+        "itemId": "841879460033",
+        "title": "Our Legacy Custom-Dyed Mohair Blend Brown Plaid Zip-Up Hoodie Casual Loose Knit Sweater Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m45ukl8t_cajg.jpg",
+        "price": "¥311.59",
+        "toPrice": "$49.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "237772950",
+          "name": "1AM  SHOP",
+          "type": "TB"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 40,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "283742",
+        "mallType": "TB",
+        "itemId": "671092317716",
+        "title": "ZA SHOP Spring Women's Casual Loose Top Satin Textured Lapel Long Sleeve Shirt 7969046",
+        "picUrl": "https://cdn.findqc.com/item/20241202/m4741pv6_of0z.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "62486425",
+          "name": "ZASHOP女装正品折扣店",
+          "type": "TB"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "256327",
+        "mallType": "WD",
+        "itemId": "7250429617",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241127/m402k0pe_51du.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1769151449",
+          "name": "顺泽鞋服",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "253306",
+        "mallType": "WD",
+        "itemId": "7251307544",
+        "title": "G 0 A T",
+        "picUrl": "https://cdn.findqc.com/item/20241127/m3yvbtfi_ocpn.jpg",
+        "price": "¥72.00",
+        "toPrice": "$11.32",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621283801",
+          "name": "有间小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 42,
+        "qcPicCnt": 33,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "251620",
+        "mallType": "TB",
+        "itemId": "821656705152",
+        "title": "Deep V-Back Strap Sleeveless Printed Top Deep V Backless Strap Sleeveless Top",
+        "picUrl": "https://cdn.findqc.com/item/20241129/m42pb9f4_d9wu.jpg",
+        "price": "¥25.12",
+        "toPrice": "$3.95",
+        "status": "normal",
+        "shopInfo": {
+          "id": "521010536",
+          "name": "YISHUISANHAI",
+          "type": "TB"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021143345391913295903",
+  "language": "en"
+}

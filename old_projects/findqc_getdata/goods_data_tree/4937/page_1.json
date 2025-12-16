@@ -1,0 +1,464 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2874802",
+        "mallType": "T1688",
+        "itemId": "991956840432",
+        "title": "AMD Ryzen CPU 6-core 12 thread desktop processor R5 5600X discrete chip CPU 6-core in stock",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01j1dlQb1nYloOjiW9c_!!2220494935102-0-cib.jpg",
+        "price": "¥218.04",
+        "toPrice": "$34.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBPaUzKFyRD7xWpjecsfVRgQ",
+          "name": "成都晟鹏莘商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2378661",
+        "mallType": "T1688",
+        "itemId": "680716186937",
+        "title": "Intel E5 2680V4 SR2N7 2.4ghz 120W LGA2011-3 14核28线程14纳米",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01r8kNO11GYsNearHZL_!!2214199750635-0-cib.jpg",
+        "price": "¥70.00",
+        "toPrice": "$11.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214199750635",
+          "name": "深圳市光翼熙和贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "545342",
+        "mallType": "WD",
+        "itemId": "7361454275",
+        "title": "L20058-N6",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkm7dlm_w5aw.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1718110841",
+          "name": "L1",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905380",
+        "mallType": "TB",
+        "itemId": "770748465091",
+        "title": "i3-12100 13100 14100 i5-12400F 12600KF 13400F 13600KF 14400F",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9013y_fldh.jpg",
+        "price": "¥576.61",
+        "toPrice": "$90.67",
+        "status": "normal",
+        "shopInfo": {
+          "id": "255497974",
+          "name": "恒宇万通",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2900709",
+        "mallType": "WD",
+        "itemId": "7311440925",
+        "title": "L12979-N27",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk3cm9g_lvh8.jpg",
+        "price": "¥199.00",
+        "toPrice": "$31.29",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1831703161",
+          "name": "L2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1533583",
+        "mallType": "T1688",
+        "itemId": "822859583942",
+        "title": "CPU Rui Long AMD R5 3600 6-core 12-thread Processor",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01LCHvL51Bs2yigmNM0_!!0-0-cib.jpg",
+        "price": "¥295.00",
+        "toPrice": "$46.39",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1914280",
+        "mallType": "TB",
+        "itemId": "853935838837",
+        "title": "Juventus jersey chest heat transfer printing sponsor advertisement Jeep customized team emblem logo hot stamping label",
+        "picUrl": "https://cdn.findqc.com/item/20250731/mdqjnf26_kxlt.jpg",
+        "price": "¥4.00",
+        "toPrice": "$0.63",
+        "status": "normal",
+        "shopInfo": {
+          "id": "100583375",
+          "name": "伊创烫画厂",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 1,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1405310",
+        "mallType": "WD",
+        "itemId": "7374741206",
+        "title": "L20528-N45",
+        "picUrl": "https://cdn.findqc.com/item/20250606/mbkgtjn9_m4jv.jpg",
+        "price": "¥119.00",
+        "toPrice": "$18.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1831703161",
+          "name": "L2",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 10,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1167699",
+        "mallType": "TB",
+        "itemId": "652170271786",
+        "title": "AMD r9 5900x r7 5800x  5950x r5 5600x cpu 5700x 5500 5800x3d",
+        "picUrl": "https://cdn.findqc.com/item/20250413/m9euiy1d_xggl.jpg",
+        "price": "¥399.00",
+        "toPrice": "$62.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "36788082",
+          "name": "诚信科技实体店",
+          "type": "TB"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 26,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "944273",
+        "mallType": "T1688",
+        "itemId": "711687606573",
+        "title": "E5-2620V4 2640V4 2650V4 2660V4 2680V4 2690V4 2683V4 XEON",
+        "picUrl": "https://cdn.findqc.com/item/20250305/m7uv1s3v_gxri.jpg",
+        "price": "¥14.00",
+        "toPrice": "$2.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2214199750635",
+          "name": "深圳市光翼熙和贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "61201",
+        "mallType": "TB",
+        "itemId": "675852888332",
+        "title": "Free Shipping Sup Handmade Natural Stone Coasters Square Durable Heat-Resistant Black Chinese-Style Rustic Stone Plate Mat",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3miobym_9sjp.jpg",
+        "price": "¥16.48",
+        "toPrice": "$2.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "357723070",
+          "name": "SuperRichCamping",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021147459701916159848",
+  "language": "en"
+}

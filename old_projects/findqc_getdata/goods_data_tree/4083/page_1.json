@@ -1,0 +1,420 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "1693670",
+        "mallType": "TB",
+        "itemId": "729754982184",
+        "title": "iamgia Europe and the United States spicy girl pure desire lace sexy V-neck long-sleeved blouse see-through design sense sweet spicy girl suit",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/4003588889/O1CN01jYn8fH2FXDcZvBrRo_!!4003588889.jpg",
+        "price": "¥129.00",
+        "toPrice": "$20.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "240366832",
+          "name": "I AM GIA",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2906926",
+        "mallType": "TB",
+        "itemId": "812329917084",
+        "title": "KHY Kylie's Drop006 series gray nylon single shoulder twisted short sleeved vest slim and sexy set",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkgbiab_cpuw.jpg",
+        "price": "¥102.50",
+        "toPrice": "$16.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "137058172",
+          "name": "K H Y",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2677533",
+        "mallType": "T1688",
+        "itemId": "937459844355",
+        "title": "European and American Hot-Selling Seamless Bodysuit Body-Shaping Cross-Border Tight-Fitting Yoga Women's Sling Tummy-Tightening Butt-Lifting Corset",
+        "picUrl": "https://cdn.findqc.com/item/20251016/mgszk8hf_nmup.jpg",
+        "price": "¥19.00",
+        "toPrice": "$2.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBuroZNqSA4p3O-bNsz3B1ug",
+          "name": "东莞市智圆行方商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1494281",
+        "mallType": "T1688",
+        "itemId": "802415240703",
+        "title": "New Modal Solid Color Long Scarf Wholesale High Quality Breathable and Soft Touch Silk Cotton Scarf Women's Shawl",
+        "picUrl": "https://cdn.findqc.com/item/20250613/mbu3zr4v_g6ck.jpg",
+        "price": "¥8.68",
+        "toPrice": "$1.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2209860663395",
+          "name": "义乌市骁邦进出口有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "68642",
+        "mallType": "TB",
+        "itemId": "748878874804",
+        "title": "skims jumpsuit one-piece halter thin slimming Slim inner bottoming sexy Kardashian same models",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mmcmpj_z1j0.jpg",
+        "price": "¥128.00",
+        "toPrice": "$20.13",
+        "status": "normal",
+        "categoryId": 36,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "38502",
+        "mallType": "TB",
+        "itemId": "706199358688",
+        "title": "T201 # Foreign Trade Scarf Hat Set Autumn/Winter New Knitted Two Piece Set Men's and Women's Versatile Warm Printed Scarf",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nm2mqk_z7pk.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "69742987",
+          "name": "pengfacap",
+          "type": "TB"
+        },
+        "categoryId": 14,
+        "qcPicCnt": 63,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "34091",
+        "mallType": "TB",
+        "itemId": "766442476639",
+        "title": "N1-03 Non-returnable foreign trade original single sleeveless sexy swing neck satin dress",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nk8gq7_vh9q.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "categoryId": 37,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "9065",
+        "mallType": "TB",
+        "itemId": "723534715390",
+        "title": "Dymentional Body Shaping Patchwork Corset-Style Top with Fishbone Garter Belt Camisole Two Colors",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3maif18_rs2x.jpg",
+        "price": "¥120.82",
+        "toPrice": "$19.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "482471863",
+          "name": "DIMENSIONAL",
+          "type": "TB"
+        },
+        "categoryId": 20,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5698",
+        "mallType": "TB",
+        "itemId": "805535763361",
+        "title": "Red wash water Sweatshirt",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3m9673n_yo5e.jpg",
+        "price": "¥325.88",
+        "toPrice": "$51.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "236939721",
+          "name": "PIKAPIKAGOOO",
+          "type": "TB"
+        },
+        "categoryId": 12,
+        "qcPicCnt": 29,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021144566421930824368",
+  "language": "en"
+}

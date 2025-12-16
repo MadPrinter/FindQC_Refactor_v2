@@ -1,0 +1,630 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3206683",
+        "mallType": "T1688",
+        "itemId": "940735305682",
+        "title": "新款西家太后包装盒葫芦项链首饰饰品盒土星珍珠饰品礼盒套装批发",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ZmzFxO2ETGexsxoQd_!!2219953298745-0-cib.jpg",
+        "price": "¥4.50",
+        "toPrice": "$0.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219953298745",
+          "name": "广州宝俪嘉饰品包装盒商行(个人独资)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1392295",
+        "mallType": "WD",
+        "itemId": "6191926298",
+        "title": "Dior rhinestone D-letter ring",
+        "picUrl": "https://cdn.findqc.com/item/20250527/mb5z5vbh_5xmk.jpg",
+        "price": "¥4.90",
+        "toPrice": "$0.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "166282890",
+          "name": "苗苗优品小店",
+          "logo": "https://si.geilicdn.com/bj-vshop-166282890-1537670747759-1290451269_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 168,
+        "qcVideoCnt": 11,
+        "picWidth": "1500",
+        "picHeight": "2000"
+      },
+      {
+        "id": "3104881",
+        "mallType": "WD",
+        "itemId": "7577386213",
+        "title": "【DX58】80015代LOVE系列情侣手镯！3色无钻版",
+        "picUrl": "https://si.geilicdn.com/pcitem1383476083-32ac000001822eb4cc920a22d246_2160_2160.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1834444125",
+          "name": "Greek shop",
+          "logo": "https://si.geilicdn.com/pcdecorate901953877560-06400000019a026783060a231316-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3096908",
+        "mallType": "T1688",
+        "itemId": "848048653045",
+        "title": "潘家时尚新款白铜镀银s925金色五芒星雪花日月吊坠diy饰品配件",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015YXfYU1Zi17LxwOLZ_!!2216030593227-0-cib.jpg",
+        "price": "¥6.00",
+        "toPrice": "$0.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216030593227",
+          "name": "海丰县梅陇镇潘多唯美首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2411718",
+        "mallType": "T1688",
+        "itemId": "936974065789",
+        "title": "Kroos Heart Ring Cross Edition Hip Hop Punk Couple Style Tomb Eternal Heart Factory Foreign Trade Direct Sales\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01p3OQar2CBHt22j1TA_!!2219627998435-0-cib.jpg",
+        "price": "¥7.00",
+        "toPrice": "$1.10",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBFo-nlWv25y8a2-GBMZaNJg",
+          "name": "海丰县梅陇镇潮尚兙萝蕊首饰厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 6,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3111618",
+        "mallType": "TB",
+        "itemId": "978289598321",
+        "title": "Vintage Layered Ornate Gold Ring with Rhinestones, Dazzling Old Money Style Index Finger Ring, High-End and Luxurious for Autumn",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2212482120348/O1CN01bRLSPq1ERQvFBfz6o_!!2212482120348.jpg",
+        "price": "¥30.39",
+        "toPrice": "$4.78",
+        "status": "normal",
+        "shopInfo": {
+          "id": "176099753",
+          "name": "特猫柔TOMR",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3202053",
+        "mallType": "T1688",
+        "itemId": "857408615095",
+        "title": "马吉拉戒指自主原创ins同款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Sfi6rC1q7hB27Omav_!!2218316825449-0-cib.jpg",
+        "price": "¥5.90",
+        "toPrice": "$0.93",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218316825449",
+          "name": "海丰县梅陇镇雄玮饰品厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3049140",
+        "mallType": "T1688",
+        "itemId": "706027143152",
+        "title": "生日礼物 韩国韩版S925纯银ins风羽毛复古做旧时尚情侣开口戒指女",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oPmtu61X6L6yTpzC7_!!2552952874-0-cib.jpg",
+        "price": "¥51.80",
+        "toPrice": "$8.15",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2552952874",
+          "name": "海丰县咔诗特珠宝有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3192028",
+        "mallType": "WD",
+        "itemId": "3269559593",
+        "title": "超闪莫桑石经典钻戒（不配盒，支持扫码）",
+        "picUrl": "https://si.geilicdn.com/weidian166282890-472b0000016f69d82c0a0a21c2a7_1080_1080.jpg",
+        "price": "¥4.90",
+        "toPrice": "$0.77",
+        "status": "normal",
+        "shopInfo": {
+          "id": "166282890",
+          "name": "苗苗优品小店",
+          "logo": "https://si.geilicdn.com/bj-vshop-166282890-1537670747759-1290451269_984_984.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1780350",
+        "mallType": "TB",
+        "itemId": "770252013032",
+        "title": "Mortal 925 Silver Round Tomb Ring",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3115753456/O1CN01Y1MtI01bOto4xDp3W_!!3115753456.jpg",
+        "price": "¥617.70",
+        "toPrice": "$97.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "598567695",
+          "name": "MortalS",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3133689",
+        "mallType": "WD",
+        "itemId": "6780709908",
+        "title": "Spirit Snake Ring V Gold Plated 18K Gold Full of Diamonds Handmade Micro Inlaid Retro Luxury Gift for Girls\n",
+        "picUrl": "https://si.geilicdn.com/pcitem1806621699-7cd20000018c6c23d87a0a2313c4_4000_4000.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1732660721",
+          "name": "幸运女神珠宝",
+          "logo": "https://si.geilicdn.com/wdseller1806621699-35d80000018b7034012c0a23136f_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2898437",
+        "mallType": "TB",
+        "itemId": "607000951709",
+        "title": "Crook Ring Korean Edition Trendy Girl Male Student Birthday Gift Jewelry Retro Ring",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjxzrd7_ncqm.jpg",
+        "price": "¥20.50",
+        "toPrice": "$3.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "114443352",
+          "name": "M   原创钢饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2897257",
+        "mallType": "TB",
+        "itemId": "717419351287",
+        "title": "Panjia Duola 925 White Copper Silver-Plated Bracelet Beads DIY Accessories New Rose Gold Gold Double Heart Ring",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/img/ibank/O1CN01m2KyQZ1JYMk6PQX1C_!!2212700051040-0-cib.jpg",
+        "price": "¥9.38",
+        "toPrice": "$1.47",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "3093687",
+        "mallType": "TB",
+        "itemId": "875872705049",
+        "title": "Punkboloo Self-Made Ring Armor Retro Joint Ring Armor Ring Antique Silver Niche Thug Club",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2200629551616/O1CN010iwKQJ1NoB4HtwJZn_!!2200629551616.jpg",
+        "price": "¥43.95",
+        "toPrice": "$6.91",
+        "status": "normal",
+        "shopInfo": {
+          "id": "323638757",
+          "name": "PUNKBOLOO",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3102447",
+        "mallType": "TB",
+        "itemId": "969595557674",
+        "title": "Vivienne Westqueen's exquisite armor, joint ring, Saturn index finger ring, punk style",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2220563757260/O1CN01oj2rb923V8WURhnb2_!!2220563757260.jpg",
+        "price": "¥195.78",
+        "toPrice": "$30.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "270988703",
+          "name": "VivienneWestqueen",
+          "type": "TB"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3177938",
+        "mallType": "T1688",
+        "itemId": "903315641135",
+        "title": "高版本古家戒指古奇白铜做旧男女对戒情侣款双G珐琅虎头雏菊批发",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01kBcN8g2F3Rvb3gatG_!!2219385978824-0-cib.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219385978824",
+          "name": "海丰县梅陇镇小晴天首饰厂（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2874314",
+        "mallType": "TB",
+        "itemId": "829072374079",
+        "title": "Zerooo Independent Ma+ Style Red String Stitched Cross Ring, Sterling Silver Handmade Avant-Garde Niche Design",
+        "picUrl": "https://cdn.findqc.com/item/20251102/mhhrftfs_tui1.jpg",
+        "price": "¥133.04",
+        "toPrice": "$20.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "421041163",
+          "name": "Zerooo",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2349744",
+        "mallType": "T1688",
+        "itemId": "958592274966",
+        "title": "克罗訫复古做旧戒指合集热门爆款男女同款情侣款潮流百搭朋克美式",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SSMjnS2J0wFmVEXm2_!!2219798219360-0-cib.jpg",
+        "price": "¥8.00",
+        "toPrice": "$1.26",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBD8VZoNQyqrOhIVySDzxVdg",
+          "name": "海丰县梅陇镇中古潮牌饰品厂",
+          "type": "T1688"
+        },
+        "categoryId": 39,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 14
+      },
+      {
+        "id": "3166792",
+        "mallType": "T1688",
+        "itemId": "939180040718",
+        "title": "新款圣家高级感18k金Y家杨树林手链镶钻轻奢风气质饰品送女友手链",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01vuCE8f1lqyKfBlGs5_!!4611686018427384583-0-cbu_common_content.jpg",
+        "price": "¥5.00",
+        "toPrice": "$0.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2210713389107",
+          "name": "东莞市月贝凡钛钢饰品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2502263",
+        "mallType": "WD",
+        "itemId": "7459768751",
+        "title": "Jewelry A06398 (no return or exchange)",
+        "picUrl": "https://si.geilicdn.com/pcitem901921898296-523d00000196a341c0ed0a23a2b8_800_800.jpg",
+        "price": "¥43.00",
+        "toPrice": "$6.76",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1791604493",
+          "name": "AKA FASHION",
+          "logo": "https://si.geilicdn.com/pcdecorate901921898296-69750000019467a43a760a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114134466194360012",
+  "language": "en"
+}

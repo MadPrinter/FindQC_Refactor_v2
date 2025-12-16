@@ -1,0 +1,624 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "3184381",
+        "mallType": "T1688",
+        "itemId": "768103191737",
+        "title": "Electroplating paint marker mirror metal chrome-plated pen waterproof paint repair coloring model hand-painted reflective pen",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DVTSYq29zG6qAHw8V_!!2212155468138-0-cib.jpg",
+        "price": "¥3.40",
+        "toPrice": "$0.53",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB4XSve_3YNjqZ230T7EuoOQ",
+          "name": "汕头市潮阳区和平庚希文具厂",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3183891",
+        "mallType": "TB",
+        "itemId": "855384669905",
+        "title": "Sangpo Winter Xyugg Ear Muffs Warm Ear Covers Australian Sheepskin Ear Covers for Cycling Warmth Ear Protection for Men and Women Korean Version Anti-Freeze",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/3893905704/O1CN01dKrsqa1s0UAg12Pmz_!!3893905704.jpg",
+        "price": "¥67.32",
+        "toPrice": "$10.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "279738628",
+          "name": "桑小杨鞋业羊皮毛一体店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2787814",
+        "mallType": "T1688",
+        "itemId": "986962698522",
+        "title": "外贸顶级版本 HS08某森同款多功能美发卷发棒蓝牙款",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01XFb7Yc1xovvoSXycS_!!2219760836491-0-cib.jpg",
+        "price": "¥580.00",
+        "toPrice": "$91.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219760836491",
+          "name": "东莞市虎门美尔森电子商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2932592",
+        "mallType": "T1688",
+        "itemId": "961872761597",
+        "title": "批发香水玻璃瓶配套白蜡木盖电镀盖球形树脂盖方形金银组合盖子",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01HnUAH01PYizRxDVGk_!!2220178061853-0-cib.jpg",
+        "price": "¥0.70",
+        "toPrice": "$0.11",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpfu7ZWVnv2CVxpqMi1mgIg",
+          "name": "徐州山止川行包装科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2856311",
+        "mallType": "T1688",
+        "itemId": "760318706431",
+        "title": "G Brand Heart-Shaped Small Mirror, Handheld Makeup Mirror, Portable Touch-Up Mirror, Heart-Shaped Single-Sided Mirror, Uv Glossy Metal Lens",
+        "picUrl": "https://cdn.findqc.com/item/20251105/mhlmfdm1_9g6t.jpg",
+        "price": "¥15.00",
+        "toPrice": "$2.36",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBCX0hoT7ZmkWJRx08f1i__Q",
+          "name": "深圳市瑾昌科技实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 40,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "2965777",
+        "mallType": "T1688",
+        "itemId": "874502142579",
+        "title": "Starter Down Jacket Accessories Removable and Changeable TPU Injection Molding Self-Buckle Pull Tabs",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01RlVOJn1NlQh1ye5Cg_!!2216788431610-0-cib.jpg",
+        "price": "¥1.20",
+        "toPrice": "$0.19",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBB831aRyw762QYlmpAZIGy_w",
+          "name": "义乌市鸿亚商贸有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "3072361",
+        "mallType": "T1688",
+        "itemId": "827688261475",
+        "title": "Di广角睫毛夹睫毛夹翘器神器便携睫毛夹化妆师自然新手定型持久",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01guuwYE26AvnTaxjRA_!!2218075417622-0-cib.jpg",
+        "price": "¥3.80",
+        "toPrice": "$0.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218075417622",
+          "name": "义乌市桃企电子商务商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2966031",
+        "mallType": "TB",
+        "itemId": "688867481262",
+        "title": "Maojiji Momo's Workshop MINI mini thumb flocking powder puff powder blusher concealer foundation make-up",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2214407623682/O1CN013HK28f1d4POPYlo0N_!!4611686018427384834-0-item_pic.jpg",
+        "price": "¥34.71",
+        "toPrice": "$5.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "484537965",
+          "name": "MomosWorkshop毛吉吉旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2146070",
+        "mallType": "T1688",
+        "itemId": "943725115920",
+        "title": "Huaqiangbei HS08 Bluetooth curling iron multifunctional hair styling device curling iron without logo",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oGv1m52IAj5kYykkv_!!2219939379246-0-cib.jpg",
+        "price": "¥420.00",
+        "toPrice": "$66.04",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBjFa9Evhjl7XQ1X-CQOFdbw",
+          "name": "广州芬仟科技商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2041384",
+        "mallType": "T1688",
+        "itemId": "600085610537",
+        "title": "Aluminum cup",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/11668915901_334855466.jpg",
+        "price": "¥2.40",
+        "toPrice": "$0.38",
+        "status": "normal",
+        "shopInfo": {
+          "id": "934704034",
+          "name": "义乌市正惠日用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 19,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2838128",
+        "mallType": "T1688",
+        "itemId": "733867241910",
+        "title": "Cross-Border Football Shin Guards Mini Minishinpads Football Training Extra Small Supplies Protective Gear Shin Guards and Foot Guards",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01xREQ3N233eXb28Dpo_!!2216115277200-0-cib.jpg",
+        "price": "¥3.00",
+        "toPrice": "$0.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBgy6fvd28BAUyJdbpFoaz8g",
+          "name": "深圳市三宝运动用品有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 27,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1563293",
+        "mallType": "WD",
+        "itemId": "7471118478",
+        "title": "[DX38-3] Socks cotton men's socks women's socks breathable wear running",
+        "picUrl": "https://si.geilicdn.com/pcitem901862111834-3a7c000001914ff6b53d0a23037f_1300_995.jpg",
+        "price": "¥60.00",
+        "toPrice": "$9.43",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1683125597",
+          "name": "大熊猫 🐼",
+          "logo": "https://si.geilicdn.com/pcdecorate901955851298-235300000196e20e6a0f0a21146b-unadjust_600_600.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 18,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1381885",
+        "mallType": "T1688",
+        "itemId": "716481028313",
+        "title": "Source factory sports physical therapy protective gear protective sports tape bandage white patch cloth teeth edge cotton white fine cloth tape",
+        "picUrl": "https://img.alicdn.com/imgextra/i4/6000000002783/O1CN01nBYaMf1WQfCe6tYK8_!!6000000002783-0-tbvideo.jpg",
+        "price": "¥1.92",
+        "toPrice": "$0.30",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 14,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2493743",
+        "mallType": "T1688",
+        "itemId": "667041893006",
+        "title": "Spot screw glass bottle mini perfume sample spray bottle 2/3/5/10ml glass perfume bottle",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN012IhSrf26cs1s8npwr_!!2211527677683-0-cib.jpg",
+        "price": "¥0.21",
+        "toPrice": "$0.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBtUPS3oU6l2WaoQq0Zq1r8w",
+          "name": "义乌市宝瓶贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2905631",
+        "mallType": "TB",
+        "itemId": "745555299968",
+        "title": "Perfume bottle dispensing high-end portable glass 10ml sample press nano spray bottle travel empty bottle dispenser",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk9xba5_hfgy.jpg",
+        "price": "¥7.14",
+        "toPrice": "$1.12",
+        "status": "normal",
+        "shopInfo": {
+          "id": "104910484",
+          "name": "小多家芳疗馆",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2899334",
+        "mallType": "TB",
+        "itemId": "824569083862",
+        "title": "5ml Mini  Perfume Atomizer Portable Alcohol Spray Refillable",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhk8001y_p9c2.jpg",
+        "price": "¥10.15",
+        "toPrice": "$1.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "63484565",
+          "name": "DailyaBox 全球日用精选",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2896809",
+        "mallType": "TB",
+        "itemId": "782168571729",
+        "title": "30-1200ml press type lotion bottle, hand sanitizer, shampoo, shower gel, empty aluminum bottle, sub container",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhjwtd4y_wwr1.jpg",
+        "price": "¥3.23",
+        "toPrice": "$0.51",
+        "status": "normal",
+        "shopInfo": {
+          "id": "112588590",
+          "name": "广州天宏包装",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 11,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2784469",
+        "mallType": "TB",
+        "itemId": "827743486284",
+        "title": "Japanese Counter Version Exclusive Makeup Artist Eyelash Curler Portable Universal Eyelash Curler Beauty Tool",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh5vwvyj_3fit.jpg",
+        "price": "¥9.36",
+        "toPrice": "$1.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "537276219",
+          "name": "沧州化妆刷宝藏店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 23,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1675778",
+        "mallType": "TB",
+        "itemId": "892096058626",
+        "title": "Coffee cups to go out and carry stainless steel water cups ice American style large capacity cups with lids latte carry-on cups straw cups",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2215055317785/O1CN01XmBpRO27NaPOfKxB1_!!4611686018427386649-0-item_pic.jpg",
+        "price": "¥16.80",
+        "toPrice": "$2.64",
+        "status": "normal",
+        "shopInfo": {
+          "id": "374711961",
+          "name": "mongdio蒙第诺专卖店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "66047",
+        "mallType": "TB",
+        "itemId": "574644592884",
+        "title": "5ml 8ml Portable Mini Refillable Perfume Bottle With Spray",
+        "picUrl": "https://cdn.findqc.com/item/20241118/m3mlf675_a4gp.jpg",
+        "price": "¥6.42",
+        "toPrice": "$1.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "119499028",
+          "name": "电极制造",
+          "type": "TB"
+        },
+        "categoryId": 41,
+        "qcPicCnt": 74,
+        "qcVideoCnt": 1
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "251202114846034249879612",
+  "language": "en"
+}

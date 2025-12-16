@@ -1,0 +1,357 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1221508",
+        "mallType": "TB",
+        "itemId": "863554417625",
+        "title": "Scuffers high sreet oversized sweatshirt grunge hoodies wome",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i2/2218860690462/O1CN01M3dIUb1FHe0DnxQqF_!!2218860690462.jpg",
+        "price": "¥190.50",
+        "toPrice": "$29.96",
+        "status": "normal",
+        "shopInfo": {
+          "id": "470658609",
+          "name": "向阳花外贸店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1221328",
+        "mallType": "T1688",
+        "itemId": "854847422818",
+        "title": "Hooded Sweatshirt Men's Sweatshirt Hoodie with Hooded American Fall Fashion Retro Street Tide Casual Sports Wind Warmth",
+        "picUrl": "https://img.alicdn.com/imgextra/i3/6000000003409/O1CN01NWEWyT1b3NBvC6DRc_!!6000000003409-0-tbvideo.jpg",
+        "price": "¥54.80",
+        "toPrice": "$8.62",
+        "status": "normal",
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1040488",
+        "mallType": "WD",
+        "itemId": "7349245635",
+        "title": "High quality 4-HD-001 (View more products on WeChat store)",
+        "picUrl": "https://si.geilicdn.com/open1848188377-1848188377-70060000019290db4e740a210559_1080_1080.jpg",
+        "price": "¥99.00",
+        "toPrice": "$15.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1816806469",
+          "name": "SSR-2",
+          "logo": "https://si.geilicdn.com/shopedit1873973088-788c000001944c7ed7d40a20e7c7-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 174,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1040334",
+        "mallType": "WD",
+        "itemId": "7405476959",
+        "title": "***************",
+        "picUrl": "https://si.geilicdn.com/open1620179513-252808396-1224000001954c33736b0a23b491_801_801.jpg",
+        "price": "¥77.62",
+        "toPrice": "$12.21",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1620179513",
+          "name": "圣潮品",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 49,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2450889",
+        "mallType": "T1688",
+        "itemId": "901024810008",
+        "title": "FOG ESSENTIALS Season 8 Double Line High Street Loose Hoodie Back Plush Printed Hoodie with Woolen Loop",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sH44u11aoGA0MUNf8_!!2219456023376-0-cib.jpg",
+        "price": "¥65.00",
+        "toPrice": "$10.22",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBJFPqHusuERmB3Nv-12U0Vg",
+          "name": "广州未止服装贸易商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2450469",
+        "mallType": "WD",
+        "itemId": "7553730554",
+        "title": "Fall & Winter Casual Fashion Hooded Sweatshirt 032",
+        "picUrl": "https://si.geilicdn.com/open1755195901-1234478995-2097000001986be933740a231226_800_800.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1755195901",
+          "name": "Grade A",
+          "logo": "https://si.geilicdn.com/pcdecorate1969177391-288800000197cfc398d40a2315ef-unadjust_655_655.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2440460",
+        "mallType": "WD",
+        "itemId": "7295056982",
+        "title": "Fashion Casual Hooded Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1873385315-5df900000192d17023a30a811411-unadjust_1200_1200.png",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1729503109",
+          "name": "Top Barry",
+          "logo": "https://si.geilicdn.com/shopedit1873385315-2d19000001929ac0b45c0a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "332406",
+        "mallType": "T1688",
+        "itemId": "742823532109",
+        "title": "American street hip-hop foam print hooded padded sweater men and women tide loose sports suit",
+        "picUrl": "https://cdn.findqc.com/item/20241212/m4kx5jeg_43tl.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2215432330648",
+          "name": "广州莹涵嫣贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1919617",
+        "mallType": "T1688",
+        "itemId": "828448468272",
+        "title": "currency buster cross-border wholesale generation of hair ape head crew neck couples pure cotton sweater casual loose men's and women's same",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zMTVgK1ZHS7JvXCdD_!!2217972983169-0-cib.jpg",
+        "price": "¥145.00",
+        "toPrice": "$22.80",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBIaI0BcHvaLEuHxZA3MWYMw",
+          "name": "南宁市良庆区杰毅鑫服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2419138",
+        "mallType": "WD",
+        "itemId": "7334457861",
+        "title": "Autumn and Winter Hundred and Versatile Round Neck Sweatshirt 003",
+        "picUrl": "https://si.geilicdn.com/open1743389976-1234478995-582700000194024624d30a239383_1200_1200.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1743389976",
+          "name": "koko Factory Store",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "866301",
+        "mallType": "TB",
+        "itemId": "813896606804",
+        "title": "S@W Suit original quality",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2216833321448/O1CN017zJk6b1MZETNOUzSb_!!2216833321448.jpg",
+        "price": "¥123.00",
+        "toPrice": "$19.34",
+        "status": "normal",
+        "shopInfo": {
+          "id": "545546815",
+          "name": "Keep Style 0",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 51,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2264715",
+        "mallType": "WD",
+        "itemId": "7327147093",
+        "title": "Autumn and Winter Casual Fashion Hoodie YHH32",
+        "picUrl": "https://si.geilicdn.com/open1874129237-1234478995-196c00000193e2c7d09f0aa08290_800_800.jpg",
+        "price": "¥89.00",
+        "toPrice": "$13.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1874129237",
+          "name": "Snap Wolf",
+          "logo": "https://si.geilicdn.com/shopedit1900462010-02a500000193ddde888a0a2303ee-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2264434",
+        "mallType": "WD",
+        "itemId": "7518143235",
+        "title": "D * * en * * im Te * * ars Hoodie Autumn/Winter Hoodie",
+        "picUrl": "https://si.geilicdn.com/open1660524099-1234478995-5dd100000198644eff720a231226_960_960.jpg",
+        "price": "¥68.00",
+        "toPrice": "$10.69",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1660524099",
+          "name": "Reps Fashion",
+          "logo": "https://si.geilicdn.com/pccreshp1827593024-3ea7000001985f5dc8890a23038e-unadjust_744_684.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2263139",
+        "mallType": "WD",
+        "itemId": "7536063107",
+        "title": "GS.17283014",
+        "picUrl": "https://si.geilicdn.com/open1624782517-1624782517-684100000198f504e8950aa0c791_800_800.jpg",
+        "price": "¥118.80",
+        "toPrice": "$18.68",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1625782829",
+          "name": "我的小店",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 13,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2261408",
+        "mallType": "T1688",
+        "itemId": "909275322498",
+        "title": "Tide new spring and autumn printing hooded sweater set American gray casual sportswear loose sweater pants cross-border",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Dya2m021lxo1sxIHn_!!2218949997026-0-cib.jpg",
+        "price": "¥45.00",
+        "toPrice": "$7.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218949997026",
+          "name": "上饶市森万服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 109,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2255063",
+        "mallType": "T1688",
+        "itemId": "914806951839",
+        "title": "Europe and the United States cross-border models sweater 2025 Y2K trend sweater suit character pattern casual sports men and women models tide",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mN57wZ1Ktj4QvjfO9_!!2218935751222-0-cib.jpg",
+        "price": "¥35.00",
+        "toPrice": "$5.50",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218935751222",
+          "name": "上饶市众丰服装有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 35,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2249347",
+        "mallType": "T1688",
+        "itemId": "862914344045",
+        "title": "Europe and the United States cross-border high street personality creative mouse instructions arrow puzzle 3D pattern fall men and women with the same paragraph printed sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01w2N5qU2MooAXEkO7t_!!2219036479875-0-cib.jpg",
+        "price": "¥42.80",
+        "toPrice": "$6.73",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219036479875",
+          "name": "深圳无印潮品电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2236566",
+        "mallType": "T1688",
+        "itemId": "890095256277",
+        "title": "NUDEP Men HOODIE Pure Cotton Hip-hop Retro Singer HOODIE Am",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01n3oWuD1KDaaaZnMe6_!!2218912431130-0-cib.jpg",
+        "price": "¥22.90",
+        "toPrice": "$3.60",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218912431130",
+          "name": "东莞市清溪晶纱服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "493295",
+        "mallType": "TB",
+        "itemId": "857080564028",
+        "title": "Monogrammed Hooded Sweatshirt",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/706735422/O1CN01MkLN3l1pvKTx5gRG7_!!706735422.jpg",
+        "price": "¥218.00",
+        "toPrice": "$34.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "113677911",
+          "name": "Singor1",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114210261194344855",
+  "language": "en"
+}

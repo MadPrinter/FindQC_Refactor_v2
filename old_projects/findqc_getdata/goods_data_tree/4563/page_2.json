@@ -1,0 +1,48 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "29670",
+        "mallType": "TB",
+        "itemId": "695105798355",
+        "title": "Hufu Esports Ice Ice Version Curved Foot Pads Replacement Foot Pads Suitable for Pulsar Xlite X2",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nj6djv_slpb.jpg",
+        "price": "¥29.90",
+        "toPrice": "$4.70",
+        "status": "normal",
+        "shopInfo": {
+          "id": "298771630",
+          "name": "虎符电竞旗舰店",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "5071",
+        "mallType": "TB",
+        "itemId": "712213453812",
+        "title": "Suitable for Jeep Red Grand Cherokee Fiat Dodge Challenger Hellcat SRT Remote Key Restoration",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3n8t2l9_yw1j.jpg",
+        "price": "¥36.29",
+        "toPrice": "$5.71",
+        "status": "normal",
+        "shopInfo": {
+          "id": "432853543",
+          "name": "创达汽车电子科技",
+          "type": "TB"
+        },
+        "categoryId": 16,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "251202114633996249878612",
+  "language": "en"
+}

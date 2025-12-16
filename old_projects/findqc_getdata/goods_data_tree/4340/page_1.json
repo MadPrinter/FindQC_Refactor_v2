@@ -1,0 +1,445 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "siteMeta": {
+      "title": "FindQC - QC Photos & Videos Finder for CNFans, Kakobuy, etc.",
+      "description": "FindQC: Free QC Finder & videos for CNFans, Kakobuy, Oopbuy, AllChinaBuy, Taobao, Weidian, 1688. Bot supports image recognition!"
+    },
+    "discordUrl": "https://discord.gg/HVu85Ry6aE",
+    "data": [
+      {
+        "id": "2762287",
+        "mallType": "T1688",
+        "itemId": "764590441459",
+        "title": "Suitable for macbook protective cover pro14/16 inch M4 apple air15 notebook 13.6 transparent m3 frosted shell",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01SUSU8e1ZSRZFtFAXM_!!2214097973193-0-cib.jpg",
+        "price": "¥21.00",
+        "toPrice": "$3.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBc_pd1zIFN9CKRWfrZ1tcYw",
+          "name": "深圳市涛欣科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2182431",
+        "mallType": "T1688",
+        "itemId": "894903475956",
+        "title": "Huaqiangbei S10 Ultra sport smart watch 1:1 Ultra smart multifunctional sport watch",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01Y1b2mH1f5RTK3DGjg_!!2723083955-0-cib.jpg",
+        "price": "¥100.00",
+        "toPrice": "$15.72",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219410328349",
+          "name": "深圳市九零黑科计科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 3,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "755700",
+        "mallType": "WD",
+        "itemId": "7338754774",
+        "title": "N62-13469",
+        "picUrl": "https://si.geilicdn.com/pcitem901764084733-7a2a000001940bef05f00a811411_800_800.jpg",
+        "price": "¥398.00",
+        "toPrice": "$62.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1661771070",
+          "name": "Martin6",
+          "logo": "https://si.geilicdn.com/shopedit901891875082-0457000001925295c38b0a2304aa-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1756335",
+        "mallType": "TB",
+        "itemId": "727890551312",
+        "title": "Rog Republic of Gamers Peripheral Rgb Luminous Mouse Pad, Extra Large and Thickened Gaming Pad, Rechargeable Colorful Ambient Light Desk Pad",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/3462592616/O1CN01pEB6t81VCAxoLW24x_!!0-item_pic.jpg",
+        "price": "¥26.70",
+        "toPrice": "$4.20",
+        "status": "normal",
+        "shopInfo": {
+          "id": "219676937",
+          "name": "凡羲数码专营店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "468379",
+        "mallType": "WD",
+        "itemId": "7297680113",
+        "title": "🍎 Watch u*tra2 best quality Stock Sale 🍎",
+        "picUrl": "https://si.geilicdn.com/pcitem1897673814-29a500000195832429d00a210256_820_615.jpg",
+        "price": "¥203.00",
+        "toPrice": "$31.92",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1825665941",
+          "name": "Electronic CN",
+          "logo": "https://si.geilicdn.com/vshop-shop-logo-default.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 7,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2905734",
+        "mallType": "TB",
+        "itemId": "820812494783",
+        "title": "Suitable for Golf 8th generation original Rline grille logo GTI grille sport logo R emblem Black Knight decoration",
+        "picUrl": "https://cdn.findqc.com/item/20251104/mhkae4gp_8o8l.jpg",
+        "price": "¥39.74",
+        "toPrice": "$6.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "402873487",
+          "name": "家扬汽车用品店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2015224",
+        "mallType": "T1688",
+        "itemId": "913000020232",
+        "title": "Suitable for 2025 new iPadPro wonderful control keyboard air6/7 protective case Pro11 magnetic separation bluetooth keyboard",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DWisZb2AydIzUdFOo_!!2218757588272-0-cib.jpg",
+        "price": "¥177.71",
+        "toPrice": "$27.94",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218757588272",
+          "name": "深圳市伟亿诚科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2682226",
+        "mallType": "T1688",
+        "itemId": "798282199613",
+        "title": "The 2025 iPad Magic Control Keyboard is compatible with iPad Air 6/7 Pro 11 inch tablets with floating magnetic suction and wireless Bluetooth",
+        "picUrl": "https://cdn.findqc.com/item/20251013/mgo4vmij_zame.jpg",
+        "price": "¥205.00",
+        "toPrice": "$32.24",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBcH2KWL68tq-MgFTJIkU_jQ",
+          "name": "深圳市永祥泰实业有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 2,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1963808",
+        "mallType": "T1688",
+        "itemId": "699545541990",
+        "title": "Wonderful control keyboard ipad for Apple Pro11 magnetic levitation keyboard Air45 magnetic touch control keyboard",
+        "picUrl": "https://cdn.findqc.com/item/20250815/mecggthi_ijnd.jpg",
+        "price": "¥198.00",
+        "toPrice": "$31.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBAm5IC66BBoaI2o2xgBo0HA",
+          "name": "深圳市祥丽德科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 19,
+        "qcPicCnt": 88,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "57898",
+        "mallType": "TB",
+        "itemId": "731316463346",
+        "title": "Ibos ipad wonderful control keyboard air5 protective case case for 2022 ipadpro11 inch 10 tablet 4 magnetic levitation 12.9 bluetooth keyboard second touch all-in-one 10.9",
+        "picUrl": "https://cdn.findqc.com/item/20241119/m3nqcfo9_fh2p.jpg",
+        "price": "¥469.00",
+        "toPrice": "$73.75",
+        "status": "normal",
+        "categoryId": 13,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true,
+    "categoryList": [
+      {
+        "id": 13,
+        "name": "shoes"
+      },
+      {
+        "id": 32,
+        "name": "clothes",
+        "children": [
+          {
+            "id": 10,
+            "name": "T-shirt"
+          },
+          {
+            "id": 12,
+            "name": "hoodie"
+          },
+          {
+            "id": 24,
+            "name": "(wool) sweater"
+          },
+          {
+            "id": 23,
+            "name": "jackets"
+          },
+          {
+            "id": 42,
+            "name": "shirt"
+          },
+          {
+            "id": 21,
+            "name": "jerseys"
+          },
+          {
+            "id": 33,
+            "name": "down jacket"
+          },
+          {
+            "id": 20,
+            "name": "underwear"
+          },
+          {
+            "id": 18,
+            "name": "set of coordinated items"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Clothing accessories",
+        "children": [
+          {
+            "id": 14,
+            "name": "hat"
+          },
+          {
+            "id": 34,
+            "name": "socks"
+          },
+          {
+            "id": 43,
+            "name": "leather belt"
+          },
+          {
+            "id": 39,
+            "name": "item of jewelry"
+          },
+          {
+            "id": 41,
+            "name": "(sth. or sb) else"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "pants"
+      },
+      {
+        "id": 16,
+        "name": "else",
+        "children": [
+          {
+            "id": 19,
+            "name": "3C"
+          },
+          {
+            "id": 40,
+            "name": "sundry"
+          },
+          {
+            "id": 26,
+            "name": "cologne"
+          },
+          {
+            "id": 25,
+            "name": "toys"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "children's clothing"
+      },
+      {
+        "id": 17,
+        "name": "bags"
+      },
+      {
+        "id": 35,
+        "name": "womenswear",
+        "children": [
+          {
+            "id": 37,
+            "name": "female clothing"
+          },
+          {
+            "id": 36,
+            "name": "blouse"
+          }
+        ]
+      }
+    ],
+    "currencyList": [
+      {
+        "key": "CNY",
+        "name": "CNY ¥",
+        "sign": "¥"
+      },
+      {
+        "key": "USD",
+        "name": "USD $",
+        "sign": "$"
+      },
+      {
+        "key": "EUR",
+        "name": "EUR €",
+        "sign": "€"
+      },
+      {
+        "key": "GBP",
+        "name": "GBP £",
+        "sign": "£"
+      },
+      {
+        "key": "AUD",
+        "name": "AUD A$",
+        "sign": "A$"
+      },
+      {
+        "key": "CAD",
+        "name": "CAD C$",
+        "sign": "C$"
+      },
+      {
+        "key": "JPY",
+        "name": "JPY J￥",
+        "sign": "J￥"
+      },
+      {
+        "key": "CHF",
+        "name": "CHF",
+        "sign": "CHF"
+      },
+      {
+        "key": "KRW",
+        "name": "KRW ₩",
+        "sign": "₩"
+      },
+      {
+        "key": "SGD",
+        "name": "SGD S$",
+        "sign": "S$"
+      },
+      {
+        "key": "INR",
+        "name": "INR ₹",
+        "sign": "₹"
+      },
+      {
+        "key": "BRL",
+        "name": "BRL R$",
+        "sign": "R$"
+      },
+      {
+        "key": "MXN",
+        "name": "MXN Mex.$",
+        "sign": "Mex.$"
+      },
+      {
+        "key": "ZAR",
+        "name": "ZAR R",
+        "sign": "R"
+      },
+      {
+        "key": "NZD",
+        "name": "NZD NZ$",
+        "sign": "NZ$"
+      },
+      {
+        "key": "SAR",
+        "name": "SAR ر.س.‏",
+        "sign": "ر.س.‏"
+      },
+      {
+        "key": "AED",
+        "name": "AED د.إ.‏",
+        "sign": "د.إ.‏"
+      }
+    ],
+    "langList": [
+      {
+        "key": "zh",
+        "name": "简体中文"
+      },
+      {
+        "key": "en",
+        "name": "English"
+      },
+      {
+        "key": "es",
+        "name": "español"
+      },
+      {
+        "key": "de",
+        "name": "Deutsch"
+      },
+      {
+        "key": "fr",
+        "name": "français"
+      },
+      {
+        "key": "it",
+        "name": "italiano"
+      },
+      {
+        "key": "br",
+        "name": "português(Brasil)"
+      },
+      {
+        "key": "ar",
+        "name": "العربية"
+      },
+      {
+        "key": "pl",
+        "name": "polski"
+      },
+      {
+        "key": "tr",
+        "name": "Türkçe"
+      }
+    ]
+  },
+  "traceId": "2512021145554211911104691",
+  "language": "en"
+}

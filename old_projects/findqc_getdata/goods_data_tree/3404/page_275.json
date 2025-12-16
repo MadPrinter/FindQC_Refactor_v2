@@ -1,0 +1,378 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "1902034",
+        "mallType": "WD",
+        "itemId": "7295409284",
+        "title": "Fashion Casual Sweatshirt",
+        "picUrl": "https://si.geilicdn.com/pcitem1901886315-126800000192d6bd38180a23047e_800_800.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1613938517",
+          "name": "Deep Side",
+          "logo": "https://si.geilicdn.com/shopedit1901886315-679600000192c28bf83e0a23041a-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 36,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901607",
+        "mallType": "TB",
+        "itemId": "753692642105",
+        "title": "American tide CORTEIZ HOODIE Alcatraz padded sweater men's fall and winter ins high street hoodie female",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1727457711/O1CN01dZLwix26pgy1vpVQs_!!1727457711.jpg",
+        "price": "¥158.00",
+        "toPrice": "$24.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "106638064",
+          "name": "大V先生",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 9,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901647",
+        "mallType": "T1688",
+        "itemId": "902407108617",
+        "title": "复线帽衫休闲WESSELS卫衣情侣外套宽松GFO高街潮流NT百搭24IA黑色",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN011lklYN1DB799xjtXT_!!2218938620177-0-cib.jpg",
+        "price": "¥109.00",
+        "toPrice": "$17.14",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218938620177",
+          "name": "石狮市克桑蒂娅服装厂(个体工商户)",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901525",
+        "mallType": "WD",
+        "itemId": "7453051469",
+        "title": "hoodie",
+        "picUrl": "https://si.geilicdn.com/open1841026309-252808396-67b3000001966847d2450a22d249_600_600.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901283",
+        "mallType": "TB",
+        "itemId": "862103051132",
+        "title": "Synaworld Drill风美式街头嘻哈连帽加绒卫衣男潮牌宽松运动套装",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/1034922469/O1CN01cD3KvK1U6quAUvjP9_!!1034922469.jpg",
+        "price": "¥79.99",
+        "toPrice": "$12.58",
+        "status": "normal",
+        "shopInfo": {
+          "id": "103318446",
+          "name": "FFCP Studios",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901472",
+        "mallType": "T1688",
+        "itemId": "857325389802",
+        "title": "Autumn and winter velvet Paul Pony embroidered solid color hoodie men's casual pure cotton hooded zipper cardigan jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01BsydtD21GMRVeKbyS_!!2218444206957-0-cib.jpg",
+        "price": "¥85.00",
+        "toPrice": "$13.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRaVfvb7qKTeTLD03Ef8j7A",
+          "name": "广州西潮服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 104,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901453",
+        "mallType": "T1688",
+        "itemId": "863408807251",
+        "title": "Nanyou Light Luxury Knitted Sweater White Cashmere Double sided Printed Hooded Zipper cardigan Simple Loose Versatile Coat\n",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01oms7df29K2YehiQC0_!!2213877068048-0-cib.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBoJv5cajhE4xjoFGG2G06pw",
+          "name": "东莞市大朗嘉祯针织厂",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901368",
+        "mallType": "WD",
+        "itemId": "7298637492",
+        "title": "[Original Selection] eSS Hoodie",
+        "picUrl": "https://si.geilicdn.com/open1701360889-252808396-19480000018f91b0d6ce0a210298_800_800.jpg",
+        "price": "¥150.00",
+        "toPrice": "$23.59",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1766578069",
+          "name": "hahaha",
+          "logo": "https://si.geilicdn.com/weidian901903490043-083b00000192fb3603bb0a2102c5_996_996.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1898289",
+        "mallType": "T1688",
+        "itemId": "936426112527",
+        "title": "Lt Beta Fully Overflow Rubber Jacket Outdoor Windproof and Waterproof Jacket Single Layer Hard Shell Sports Jacket for Men and Women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN015qUrLI2Kww0Tl7Wsn_!!2219944559622-0-cib.jpg",
+        "price": "¥258.00",
+        "toPrice": "$40.57",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBBOpHLSea9od4C9HsVlDejA",
+          "name": "杭州花田下农业科技有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 48,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1898058",
+        "mallType": "T1688",
+        "itemId": "929498239028",
+        "title": "2024 New Silicone Hooded Hoodie Black Letter Plush FOG Double Line ESSENTIALS Trendy Brand Cross border Hot Sale",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01ShKWht1MsT17phcTl_!!3540451490-0-cib.jpg",
+        "price": "¥39.00",
+        "toPrice": "$6.13",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKQRRE7GJ9mNLdFxQO8E6hg",
+          "name": "上饶市流云服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 68,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897649",
+        "mallType": "WD",
+        "itemId": "7347566911",
+        "title": "High quality set RL-C43",
+        "picUrl": "https://si.geilicdn.com/open1684891361-1234478995-5af400000190bad929d20a232357_1920_1920.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1779779637",
+          "name": "MangoBuy-A",
+          "logo": "https://si.geilicdn.com/shopedit1905370046-4fa1000001931f90c0a80a2395d6-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897683",
+        "mallType": "T1688",
+        "itemId": "928080993217",
+        "title": "Cross-border foreign trade explosions big goose half zipper solid color badge autumn and winter fleece-lined sweater pullover long sleeve men and women",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01b1dHRI1LfMF235E4j_!!2219228381326-0-cib.jpg",
+        "price": "¥59.00",
+        "toPrice": "$9.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBiIbQr-Ds9iPOQwTgfmO14g",
+          "name": "广州婉勤贸易有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 120,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897299",
+        "mallType": "WD",
+        "itemId": "7502621734",
+        "title": "E-S-S hooded sweatshirt+pants",
+        "picUrl": "https://si.geilicdn.com/open1877518781-1234478995-4cb300000197ccfe5fe40a23b4de_800_800.jpg",
+        "price": "¥148.00",
+        "toPrice": "$23.27",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1877518781",
+          "name": "Optimization Shop",
+          "logo": "https://si.geilicdn.com/weidian901968615181-4eeb0000019851577ae90a23038e_1128_1128.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 20,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1896330",
+        "mallType": "T1688",
+        "itemId": "831058538828",
+        "title": "Spring 24 Polo Bear Hooded Ralph Lauren Bear Pullover Hooded Fleece Sweatshirt Men's Autumn and Winter Top",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01E5NAu021GMPxhKUU6_!!2218444206957-0-cib.jpg",
+        "price": "¥115.00",
+        "toPrice": "$18.08",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRaVfvb7qKTeTLD03Ef8j7A",
+          "name": "广州西潮服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895878",
+        "mallType": "T1688",
+        "itemId": "944703742400",
+        "title": "Amazon's new autumn and winter men's running sports casual hooded sweatshirt with customizable logo for couples",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01QrN1yI1LptMQZEtMd_!!2214846971349-0-cib.jpg",
+        "price": "¥20.88",
+        "toPrice": "$3.28",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGIZTbkxfpy1wF-l-YZAY9g",
+          "name": "上饶市鸿耀服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895832",
+        "mallType": "T1688",
+        "itemId": "851989189245",
+        "title": "FOG compound line ESSENTIALS HHH tide American fall and winter padded leisure loose heavyweight men and women hooded sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01bCFsqV1fLTJGDWXnh_!!269163990.jpg",
+        "price": "¥125.00",
+        "toPrice": "$19.66",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2211142930542",
+          "name": "高安市壹朵电子商务有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895439",
+        "mallType": "WD",
+        "itemId": "7475211748",
+        "title": "FFB Fashion Trend Sweatshirt-01",
+        "picUrl": "https://si.geilicdn.com/open1621880285-1234478995-26b100000196ed1176880a231226_1200_1200.jpg",
+        "price": "¥88.00",
+        "toPrice": "$13.84",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1621880285",
+          "name": "FunkyFitsBuy",
+          "logo": "https://si.geilicdn.com/wdseller1957175964-564000000196e87b77650a207569_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 16,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895438",
+        "mallType": "T1688",
+        "itemId": "751768908205",
+        "title": "Broken Planet Beautiful Trendy Broken Planet Foaming Printing High Street Men's and Women's Loose Casual Hooded Sweatshirt",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01gZON3I1FfSTgWkw9K_!!2216891680514-0-cib.jpg",
+        "price": "¥92.00",
+        "toPrice": "$14.47",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBpFj8PLxgL0hsKlR9Yhsirw",
+          "name": "一鹿（广州）服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 60,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895161",
+        "mallType": "T1688",
+        "itemId": "895870810323",
+        "title": "Spring new small hook co-branded NOCT chest printing long-sleeved hooded casual loose 3M reflective stripes pullover sweater",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wrseKw1gp4ZaoQijq_!!2218822894190-0-cib.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2218822894190",
+          "name": "义乌市壁邑服饰商行（个体工商户）",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 8,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1894976",
+        "mallType": "T1688",
+        "itemId": "878735383462",
+        "title": "Cross-border new couple tide sweater zipper spring and fall outdoor thickened men and women casual red heart hooded jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IvM5n425bCwxDkCOF_!!2219061957544-0-cib.jpg",
+        "price": "¥27.00",
+        "toPrice": "$4.25",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2219061957544",
+          "name": "上饶市泽岩服饰有限公司",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021145091071924855096",
+  "language": "en"
+}

@@ -1,0 +1,381 @@
+{
+  "code": 20000,
+  "name": "success",
+  "message": "请求成功",
+  "data": {
+    "data": [
+      {
+        "id": "2333483",
+        "mallType": "TB",
+        "itemId": "780894867551",
+        "title": "23FW  Jacket  4034",
+        "picUrl": "https://cdn.findqc.com/item/20251025/mh622fa7_nvjw.jpg",
+        "price": "¥413.73",
+        "toPrice": "$65.06",
+        "status": "normal",
+        "shopInfo": {
+          "id": "149321719",
+          "name": "High end number 高端贰号",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 5,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2718813",
+        "mallType": "T1688",
+        "itemId": "968975502927",
+        "title": "Donkey Home High Version Correct Edition Tyler Co branded Color Printed Wool Collar Jacket for Men and Women",
+        "picUrl": "https://cdn.findqc.com/item/20251020/mgywksr3_5ff3.jpg",
+        "price": "¥340.00",
+        "toPrice": "$53.46",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBn3xubk8yGKekNXgyR-yHSA",
+          "name": "海丰县城东镇安九顶奢服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "2403347",
+        "mallType": "WD",
+        "itemId": "7548050398",
+        "title": "CaWIP J97 Detroit Heavy Industries Washed Jacket Jacket 9.10 YO",
+        "picUrl": "https://cdn.findqc.com/item/20250918/mfp6w9hm_0j4e.jpg",
+        "price": "¥240.00",
+        "toPrice": "$37.74",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1707804864",
+          "name": "不二家",
+          "logo": "https://si.geilicdn.com/weidian1417299265-7f700000018ece14a7660a23136f_980_980.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1277323",
+        "mallType": "T1688",
+        "itemId": "891453570240",
+        "title": "Cross-border Foreign Trade American-style Hart J130 Thickened Vintage Jacket Classic Canvas Washed Hooded Overlay Cotton Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20250705/mcq0tca7_9jrp.jpg",
+        "price": "¥130.00",
+        "toPrice": "$20.44",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwHMRBytcB0HCNtb7cFI_ZQ",
+          "name": "石狮市汉格迩服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 33,
+        "qcPicCnt": 76,
+        "qcVideoCnt": 7,
+        "picWidth": "1066",
+        "picHeight": "1066"
+      },
+      {
+        "id": "2768277",
+        "mallType": "WD",
+        "itemId": "7523534588",
+        "title": "Autumn and Winter Fashion Versatile Jacket 002",
+        "picUrl": "https://si.geilicdn.com/open1641560899-1234478995-6eb7000001988afe5efd0a8115c2_1200_1200.jpg",
+        "price": "¥139.00",
+        "toPrice": "$21.86",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1641560899",
+          "name": "woyoubuy",
+          "logo": "https://si.geilicdn.com/weidian1978539472-4bcb0000019871159a340a23047e_2312_1736.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 12,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1923443",
+        "mallType": "T1688",
+        "itemId": "843853276860",
+        "title": "Niche street tide car kaha vintage models vintage washed j97 jacket retro old canvas zipper jacket",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013HtQvT1vUCgnctBXO_!!2218411866175-0-cib.jpg",
+        "price": "¥250.00",
+        "toPrice": "$39.31",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2217320314045",
+          "name": "跨境一路发发工厂店",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "2640366",
+        "mallType": "T1688",
+        "itemId": "979331710964",
+        "title": "Men's and women's embroidered three bar Tang suit, Chinese style buckle suede spring stand up collar top, unisex loose jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh50y6hk_yxhe.jpg",
+        "price": "¥121.00",
+        "toPrice": "$19.03",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBRK5o9EhfF0_qkTP9fp6sWg",
+          "name": "义乌市云藕服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 49,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "305510",
+        "mallType": "T1688",
+        "itemId": "839863148242",
+        "title": "Kaha-style Canvas American-style Lel Crock Jacket Classic Detroit Coat Trendy Men's and Women's Hooded Top",
+        "picUrl": "https://cdn.findqc.com/item/20241205/m4awotxy_nodz.jpg",
+        "price": "¥140.00",
+        "toPrice": "$22.01",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBGEBgNZPSmugxuLqQ7A2R6w",
+          "name": "广州市番禺区一生潮牌服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 103,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1156992",
+        "mallType": "WD",
+        "itemId": "7421998049",
+        "title": "RL Vintage Corduroy Trainer Jacket Corduroy Coaching Jacket R48 H",
+        "picUrl": "https://cdn.findqc.com/item/20250607/mbltq3q5_f1o6.jpg",
+        "price": "¥238.00",
+        "toPrice": "$37.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1809443313",
+          "name": "repkingdom",
+          "logo": "https://si.geilicdn.com/wdseller1806271682-4dec0000018d54366e800a2313a2_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 44,
+        "qcVideoCnt": 3
+      },
+      {
+        "id": "1850079",
+        "mallType": "T1688",
+        "itemId": "940608013189",
+        "title": "Cross-Border Supply Alcatraz Corteiz Embroidered Ins Small Label Hip-Hop Jacket Letter Logo Jacket Outdoor Windbreaker",
+        "picUrl": "https://cdn.findqc.com/item/20251024/mh3xss2f_rjxg.jpg",
+        "price": "¥75.00",
+        "toPrice": "$11.79",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBvfgAAO1YAZb7_qOJBRJSVg",
+          "name": "广州奇诺服装商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 82,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1904264",
+        "mallType": "T1688",
+        "itemId": "876506292681",
+        "title": "European station spare big goods 2025 new hooded jacket men's large size qiantang 6016 sofa figure",
+        "picUrl": "https://cbu01.alicdn.com/img/ibank/O1CN013TBy5u1KJXjOSN2A5_!!2216554891143-0-cib.jpg",
+        "price": "¥155.00",
+        "toPrice": "$24.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "2216554891143",
+          "name": "南和县一萱服装门市",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895998",
+        "mallType": "TB",
+        "itemId": "636401200275",
+        "title": "Kapital Kazuhiro Hirata Bone Cowboy vintage do old stray fall winter heavyweight messenger crossbody tote bag",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i3/2208813130318/O1CN01Fe12011EDgm1yeOg9_!!2208813130318.jpg",
+        "price": "¥79.00",
+        "toPrice": "$12.42",
+        "status": "normal",
+        "shopInfo": {
+          "id": "494468098",
+          "name": "SILK WAY",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1901626",
+        "mallType": "TB",
+        "itemId": "910669402270",
+        "title": "TRAF TRAF ZA2025春季新品男装宽松舒适翻领长袖夹克外套2893360",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i4/2219582517415/O1CN015EJCI024e7sLCQd0U_!!2219582517415.jpg",
+        "price": "¥159.00",
+        "toPrice": "$25.00",
+        "status": "normal",
+        "shopInfo": {
+          "id": "342139942",
+          "name": "ZA1981商贸老店",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895684",
+        "mallType": "WD",
+        "itemId": "7515023879",
+        "title": "Carha**t Carha**t Heavyweight Tough Guy Washed and Aged Jacket vintage Retro Cotton Coat Jacket",
+        "picUrl": "https://si.geilicdn.com/open1801180035-1234478995-007300000198472ac6e90aa043f9_1067_1067.jpg",
+        "price": "¥300.00",
+        "toPrice": "$47.17",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897366",
+        "mallType": "WD",
+        "itemId": "7372716569",
+        "title": "High quality workwear jacket LZ",
+        "picUrl": "https://si.geilicdn.com/pcitem1892062507-6f6e000001966c644e960a23037f_1279_1706.jpg",
+        "price": "¥400.00",
+        "toPrice": "$62.90",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1736046565",
+          "name": "OOTB",
+          "logo": "https://si.geilicdn.com/wdseller1892062507-4dab000001925fea2c2e0a22d172_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1895907",
+        "mallType": "WD",
+        "itemId": "7516909866",
+        "title": "RL new Ralph pony embroidery retro couple models old money wind couples wear jacket jacket",
+        "picUrl": "https://si.geilicdn.com/open1801180035-1234478995-2d180000019847210f600a8115c2_1080_1080.jpg",
+        "price": "¥190.00",
+        "toPrice": "$29.88",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1801180035",
+          "name": "Luxereps",
+          "logo": "https://si.geilicdn.com/wdseller1975786370-27cb000001984138b9680a23041a_250_250.jpg?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1897417",
+        "mallType": "TB",
+        "itemId": "847787184475",
+        "title": "American retro racing suit, motorcycle cotton coat, autumn and winter motorcycle riding suit, embroidered pilot jacket, men's and women's jacket",
+        "picUrl": "https://img.alicdn.com/bao/uploaded/i1/2396811712/O1CN01akLGlw1OW961ReiSd_!!2396811712.jpg",
+        "price": "¥178.00",
+        "toPrice": "$27.99",
+        "status": "normal",
+        "shopInfo": {
+          "id": "116394416",
+          "name": "衣品佰衫原创潮牌服饰",
+          "type": "TB"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "730292",
+        "mallType": "T1688",
+        "itemId": "736001641222",
+        "title": "American trendy brand Sangyan assault jacket for men's spring and autumn loose outdoor mountaineering functional wind work jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251023/mh3krdyi_oyoi.jpg",
+        "price": "¥46.90",
+        "toPrice": "$7.37",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBKLOzgBschJhkoiUdDZIuLA",
+          "name": "随州市曾都区德斯凯服饰商行",
+          "type": "T1688"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 10,
+        "qcVideoCnt": 0
+      },
+      {
+        "id": "1231346",
+        "mallType": "T1688",
+        "itemId": "891914992294",
+        "title": "New Hart 701 Detroit American Retro Washed Vintage Canvas Workwear Turn-Down Collar Denim Jacket",
+        "picUrl": "https://cdn.findqc.com/item/20251018/mgvn0k2t_ib1u.jpg",
+        "price": "¥120.00",
+        "toPrice": "$18.87",
+        "status": "normal",
+        "shopInfo": {
+          "id": "BBBwHMRBytcB0HCNtb7cFI_ZQ",
+          "name": "石狮市汉格迩服装厂",
+          "type": "T1688"
+        },
+        "categoryId": 23,
+        "qcPicCnt": 4,
+        "qcVideoCnt": 1
+      },
+      {
+        "id": "1875751",
+        "mallType": "WD",
+        "itemId": "7431959113",
+        "title": "JACKET",
+        "picUrl": "https://si.geilicdn.com/open1840466345-252808396-6e12000001926f00bf370a8115b5_1368_1368.jpg",
+        "price": "¥517.00",
+        "toPrice": "$81.30",
+        "status": "normal",
+        "shopInfo": {
+          "id": "1841026309",
+          "name": "足购",
+          "logo": "https://si.geilicdn.com/shopedit1869079105-505800000190398db0810a210256-unadjust_750_750.png?w=250&amp;h=250&amp;cp=1",
+          "type": "WD"
+        },
+        "categoryId": 0,
+        "qcPicCnt": 0,
+        "qcVideoCnt": 0
+      }
+    ],
+    "hasMore": true
+  },
+  "traceId": "2512021147099762553900767",
+  "language": "en"
+}
