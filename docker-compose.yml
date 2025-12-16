@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: findqc_mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: findqc_root_password  # 修改为你的密码
+      MYSQL_DATABASE: findqc_db
+      MYSQL_USER: findqc_user
+      MYSQL_PASSWORD: findqc_password  # 修改为你的密码
+      TZ: Asia/Shanghai
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./scripts/init_mysql_db.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    command: 
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --default-authentication-plugin=mysql_native_password
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p$$MYSQL_ROOT_PASSWORD"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  mysql_data:
+    driver: local
+
