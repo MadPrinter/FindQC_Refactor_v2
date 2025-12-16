@@ -78,13 +78,30 @@ async def main():
         update_task_id = int(datetime.now().strftime("%Y%m%d%H"))
         logger.info(f"任务批次ID: {update_task_id}")
         
-        # 测试模式：只爬取前10个商品
+        # 获取 max_products 配置（控制全量/测试模式）
         max_products = settings.max_products
         if max_products is None:
-            # 如果配置中没有设置，尝试从环境变量读取（默认10个用于测试）
+            # 从环境变量读取
             import os
-            max_products = int(os.getenv("MAX_PRODUCTS", "10"))
-        logger.info(f"测试模式：最多爬取 {max_products} 个商品")
+            max_products_str = os.getenv("MAX_PRODUCTS", "0")  # 默认 0 表示不限制（全量模式）
+            
+            # 处理特殊值：0、none、null、空字符串都表示不限制
+            if max_products_str.lower() in ("none", "null", "", "0"):
+                max_products = None  # None 表示不限制（全量模式）
+            else:
+                try:
+                    max_products = int(max_products_str)
+                    # 如果设置为负数，也视为不限制
+                    if max_products <= 0:
+                        max_products = None
+                except (ValueError, TypeError):
+                    logger.warning(f"MAX_PRODUCTS 值无效: {max_products_str}，将使用全量模式")
+                    max_products = None  # 解析失败时默认为全量模式
+        
+        if max_products:
+            logger.info(f"测试模式：最多爬取 {max_products} 个商品")
+        else:
+            logger.info("全量模式：不限制爬取数量")
         
         # 运行爬虫主流程
         await spider_service.spider_main_process(

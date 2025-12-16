@@ -52,11 +52,17 @@ DB_NAME=findqc_db
 # 激活虚拟环境
 source venv/bin/activate
 
-# 运行爬虫服务（测试模式，只爬取 10 个商品）
+# 测试模式：只爬取 10 个商品
 MAX_PRODUCTS=10 python3 -m service_spider.main
 
-# 或者直接在 .env 文件中设置
-# MAX_PRODUCTS=10
+# 全量模式：不限制爬取数量
+MAX_PRODUCTS=0 python3 -m service_spider.main
+# 或者不设置 MAX_PRODUCTS（默认全量模式）
+python3 -m service_spider.main
+
+# 也可以通过 .env 文件设置
+# MAX_PRODUCTS=10  # 测试模式
+# MAX_PRODUCTS=0   # 全量模式（或不设置）
 python3 -m service_spider.main
 ```
 
@@ -155,8 +161,9 @@ MAX_PRODUCTS=10 python3 -m service_spider.main
 # DB_PASSWORD=your_password
 DB_NAME=findqc_db
 
-# 测试配置
-MAX_PRODUCTS=10  # 最大爬取商品数量（None 表示不限制）
+# 爬取模式配置
+MAX_PRODUCTS=10  # 测试模式：爬取指定数量（如 10）
+# MAX_PRODUCTS=0   # 全量模式：不限制爬取数量（或不设置此项）
 
 # 日志配置
 LOG_LEVEL=INFO
