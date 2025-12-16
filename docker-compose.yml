@@ -12,7 +12,7 @@ services:
     ports:
       - "3306:3306"
     volumes:
-      - mysql_data:/var/lib/mysql
+      - ./data/mysql:/var/lib/mysql  # 数据存储在项目目录的 data/mysql 文件夹（可见）
       - ./scripts/init_mysql_db.sql:/docker-entrypoint-initdb.d/init.sql:ro
     command: 
       - --character-set-server=utf8mb4
@@ -24,7 +24,8 @@ services:
       timeout: 5s
       retries: 5
 
-volumes:
-  mysql_data:
-    driver: local
+# 不再使用 named volume，改为 bind mount 到项目目录
+# volumes:
+#   mysql_data:
+#     driver: local
 
