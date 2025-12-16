@@ -46,20 +46,28 @@ class SpiderService:
         self.delay = delay_between_requests
         self.db_service = ProductDBService()
     
-    async def get_target_categories(self) -> List[Dict[str, Any]]:
+    async def get_target_categories(self, limit: Optional[int] = None) -> List[Dict[str, Any]]:
         """
         获取需要爬取的分类列表
         
         这里返回一个示例列表，实际应该从配置文件或数据库读取。
         
+        Args:
+            limit: 限制分类数量（用于测试）
+        
         Returns:
             List[Dict]: 分类列表，每个元素包含 id 和 name
         """
         # TODO: 从配置文件或数据库读取分类列表
-        return [
-            {"id": 101, "name": "户外服装"},
-            {"id": 102, "name": "露营装备"},
+        # 使用一个真实存在的分类ID进行测试（从旧项目看，分类ID范围是3000-10000）
+        categories = [
+            {"id": 4113, "name": "测试分类1"},  # 使用旧项目中存在的分类ID
         ]
+        
+        if limit:
+            categories = categories[:limit]
+        
+        return categories
     
     async def process_single_product(
         self,
@@ -163,7 +171,7 @@ class SpiderService:
                     mall_type=mall_type,
                 )
             except Exception as e:
-                logger.error(f"发送消息失败: findqc_id={findqc_id}, error={e}")
+                logger.warning(f"发送消息失败（不影响主流程）: findqc_id={findqc_id}, error={e}")
                 # 消息发送失败不影响主流程
             
             logger.info(f"商品处理完成: findqc_id={findqc_id}, item_id={item_id}")
@@ -177,6 +185,7 @@ class SpiderService:
         self,
         category: Dict[str, Any],
         update_task_id: int,
+        max_products: Optional[int] = None,
     ) -> None:
         """
         抓取单个分类的所有商品
@@ -188,10 +197,13 @@ class SpiderService:
         Args:
             category: 分类信息
             update_task_id: 任务批次ID
+            max_products: 最大爬取商品数量（None表示不限制，用于测试）
         """
         category_id = category.get("id")
         category_name = category.get("name", str(category_id))
         logger.info(f"开始爬取分类: {category_name} (ID: {category_id})")
+        if max_products:
+            logger.info(f"测试模式：最多爬取 {max_products} 个商品")
         
         current_page = 1
         total_products = 0
@@ -199,6 +211,10 @@ class SpiderService:
         db = get_database()
         
         while True:
+            # 检查是否达到最大数量限制
+            if max_products and total_products >= max_products:
+                logger.info(f"达到最大爬取数量限制 ({max_products})，停止爬取")
+                break
             try:
                 # 获取商品列表
                 response = await self.api_client.get_category_products(
@@ -222,6 +238,11 @@ class SpiderService:
                 # 对应白板: else for item in items
                 async with db.async_session_maker() as session:
                     for item_summary in items:
+                        # 检查是否达到最大数量限制
+                        if max_products and total_products >= max_products:
+                            logger.info(f"达到最大爬取数量限制 ({max_products})，停止处理")
+                            break
+                        
                         try:
                             await self.process_single_product(
                                 session=session,
@@ -230,10 +251,15 @@ class SpiderService:
                                 update_task_id=update_task_id,
                             )
                             total_products += 1
+                            logger.info(f"已爬取商品数量: {total_products}/{max_products if max_products else '∞'}")
                             await asyncio.sleep(self.delay)  # 延迟，防止被封
                         except Exception as e:
                             logger.error(f"处理商品失败，继续下一个: {item_summary}, error={e}")
                             continue
+                    
+                    # 如果达到限制，跳出外层循环
+                    if max_products and total_products >= max_products:
+                        break
                 
                 # 循环控制
                 # 对应白板: if all_finish: break
@@ -249,7 +275,7 @@ class SpiderService:
                 logger.error(f"获取分类商品列表失败: category_id={category_id}, page={current_page}, error={e}")
                 break
     
-    async def spider_main_process(self, update_task_id: int) -> None:
+    async def spider_main_process(self, update_task_id: int, max_products: Optional[int] = None) -> None:
         """
         主爬虫流程
         
@@ -259,8 +285,11 @@ class SpiderService:
         
         Args:
             update_task_id: 任务批次ID
+            max_products: 最大爬取商品数量（None表示不限制，用于测试）
         """
         logger.info(f"开始爬虫任务，update_task_id={update_task_id}")
+        if max_products:
+            logger.info(f"测试模式：最多爬取 {max_products} 个商品")
         
         # 获取需要爬取的分类列表
         # 对应白板: for c in categories
@@ -271,7 +300,11 @@ class SpiderService:
                 await self.fetch_category_products(
                     category=category,
                     update_task_id=update_task_id,
+                    max_products=max_products,
                 )
+                # 如果达到限制，停止处理下一个分类
+                if max_products:
+                    break
             except Exception as e:
                 logger.error(f"分类爬取失败，继续下一个: category={category}, error={e}")
                 continue

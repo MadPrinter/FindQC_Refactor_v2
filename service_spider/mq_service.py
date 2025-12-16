@@ -94,9 +94,17 @@ class MessageQueueService:
             product_id: 数据库中的商品ID
             item_id: 商品外部ID
             mall_type: 商城类型
+            
+        Raises:
+            RuntimeError: 如果消息队列未初始化
         """
         if not self._initialized:
-            await self.initialize()
+            # 如果未初始化，尝试初始化（可能失败，但不影响主流程）
+            try:
+                await self.initialize()
+            except Exception:
+                logger.debug("消息队列未初始化且初始化失败，跳过消息发送")
+                return
         
         message_body = {
             "task_id": task_id,

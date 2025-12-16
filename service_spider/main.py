@@ -51,13 +51,14 @@ async def main():
         logger.error(f"数据库初始化失败: {e}")
         sys.exit(1)
     
-    # 初始化消息队列
+    # 初始化消息队列（测试时可以跳过）
     try:
         await mq_service.initialize()
         logger.info("消息队列初始化成功")
     except Exception as e:
         logger.warning(f"消息队列初始化失败（将跳过消息发送）: {e}")
         # 消息队列失败不影响爬虫运行
+        mq_service._initialized = False  # 标记为未初始化，避免后续调用
     
     # 初始化 API 客户端
     api_client = FindQCAPIClient(
@@ -77,8 +78,16 @@ async def main():
         update_task_id = int(datetime.now().strftime("%Y%m%d%H"))
         logger.info(f"任务批次ID: {update_task_id}")
         
+        # 测试模式：只爬取前10个商品
+        import os
+        max_products = int(os.getenv("MAX_PRODUCTS", "10"))  # 默认10个，可以通过环境变量设置
+        logger.info(f"测试模式：最多爬取 {max_products} 个商品")
+        
         # 运行爬虫主流程
-        await spider_service.spider_main_process(update_task_id=update_task_id)
+        await spider_service.spider_main_process(
+            update_task_id=update_task_id,
+            max_products=max_products,
+        )
         
         logger.info("=" * 60)
         logger.info("爬虫服务执行完成")
