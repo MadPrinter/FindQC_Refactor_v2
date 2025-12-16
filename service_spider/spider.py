@@ -134,7 +134,7 @@ class SpiderService:
                     break
             
             # 3. 整理图片结构（这是后续AI图搜的基础）
-            product_data = self.db_service.prepare_product_data(
+            product_data, should_save = self.db_service.prepare_product_data(
                 findqc_id=findqc_id,
                 item_id=item_id,
                 mall_type=mall_type,
@@ -142,6 +142,11 @@ class SpiderService:
                 detail_response=detail_response,
                 atlas_responses=atlas_responses,
             )
+            
+            # 检查是否应该保存（必须有 QC 图且最晚时间在30天内）
+            if not should_save or product_data is None:
+                logger.info(f"跳过商品 findqc_id={findqc_id}, item_id={item_id}: 不符合保存条件（无 QC 图或 QC 图不在30天内）")
+                return
             
             # 4. 写入数据库（Upsert: 存在则更新，不存在则插入）
             product = await self.db_service.save_or_update_product(

@@ -4,8 +4,8 @@
 处理商品数据的数据库操作。
 """
 
-from datetime import datetime
-from typing import Dict, Any, Optional
+from datetime import datetime, timedelta
+from typing import Dict, Any, Optional, Tuple
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, update
 from sqlalchemy.orm import selectinload
@@ -104,7 +104,23 @@ class ProductDBService:
         category_id: int,
         detail_response: Dict[str, Any],
         atlas_responses: list[Dict[str, Any]],
-    ) -> Dict[str, Any]:
+    ) -> Tuple[Optional[Dict[str, Any]], bool]:
+        """
+        从 API 响应中提取并整理商品数据
+        
+        Args:
+            findqc_id: FindQC 商品ID
+            item_id: 商品外部ID
+            mall_type: 商城类型
+            category_id: 分类ID
+            detail_response: 商品详情 API 响应
+            atlas_responses: 图集 API 响应列表
+            
+        Returns:
+            Tuple[Optional[Dict], bool]: 
+                - 第一个元素：商品数据字典（如果有效）或 None（如果无效）
+                - 第二个元素：是否应该保存（True=保存, False=跳过）
+        """
         """
         从 API 响应中提取并整理商品数据
         
