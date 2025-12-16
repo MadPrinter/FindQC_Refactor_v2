@@ -121,20 +121,6 @@ class ProductDBService:
                 - 第一个元素：商品数据字典（如果有效）或 None（如果无效）
                 - 第二个元素：是否应该保存（True=保存, False=跳过）
         """
-        """
-        从 API 响应中提取并整理商品数据
-        
-        Args:
-            findqc_id: FindQC 商品ID
-            item_id: 商品外部ID
-            mall_type: 商城类型
-            category_id: 分类ID
-            detail_response: 商品详情 API 响应
-            atlas_responses: 图集 API 响应列表
-            
-        Returns:
-            Dict: 整理后的商品数据字典
-        """
         detail_data = detail_response.get("data", {}).get("data", {})
         
         # 提取基础信息
@@ -220,6 +206,51 @@ class ProductDBService:
                 logger.warning(f"解析 QC 时间戳失败: {e}, timestamps={all_qc_times[:5]}")
                 pass
         
+        # 检查过滤条件：必须有 QC 图，且最晚时间在30天内
+        should_save = True
+        skip_reason = None
+        
+        # 条件1：必须有 QC 图
+        if not qc_images:
+            should_save = False
+            skip_reason = "没有 QC 图"
+            logger.debug(f"跳过商品 findqc_id={findqc_id}: {skip_reason}")
+        
+        # 条件2：QC 图最晚时间必须在近30天内
+        elif last_qc_time is None:
+            should_save = False
+            skip_reason = "无法获取 QC 图时间戳"
+            logger.debug(f"跳过商品 findqc_id={findqc_id}: {skip_reason}")
+        else:
+            # 计算30天前的时间
+            thirty_days_ago = datetime.utcnow() - timedelta(days=30)
+            
+            if last_qc_time < thirty_days_ago:
+                should_save = False
+                skip_reason = f"QC 图最晚时间不在30天内 (last_qc_time={last_qc_time}, 30天前={thirty_days_ago})"
+                logger.debug(f"跳过商品 findqc_id={findqc_id}: {skip_reason}")
+        
+        if not should_save:
+            return None, False
+        
+        # 计算30天内的 QC 图数量
+        qc_count_30days = 0
+        if last_qc_time and all_qc_times:
+            thirty_days_ago = datetime.utcnow() - timedelta(days=30)
+            # 统计所有在30天内的 QC 图数量
+            for qc_time in all_qc_times:
+                try:
+                    # 判断时间戳是秒还是毫秒
+                    timestamp = qc_time
+                    if timestamp > 10**10:
+                        timestamp = timestamp / 1000
+                    
+                    qc_datetime = datetime.fromtimestamp(timestamp)
+                    if qc_datetime >= thirty_days_ago:
+                        qc_count_30days += 1
+                except (ValueError, TypeError, OSError):
+                    continue
+        
         # 构造图片 JSON
         image_urls = {
             "qc_images": qc_images,
@@ -237,9 +268,9 @@ class ProductDBService:
             "weight": weight,
             "image_urls": image_urls,
             "last_qc_time": last_qc_time,
-            "qc_count_30days": len(qc_images),  # 简化处理，实际应该计算30天内的
+            "qc_count_30days": qc_count_30days,
             "status": 0,
         }
         
-        return product_data
+        return product_data, True
 
