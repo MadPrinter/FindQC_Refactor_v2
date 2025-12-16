@@ -1,0 +1,101 @@
+// ==========================================
+// 项目：FindQC 商品重构与 AI 聚类系统
+// 描述：包含爬虫原始数据、AI打标、聚类分析
+// ==========================================
+
+// 1. 商品主表 (核心数据)
+Table t_products {
+  id int [pk, increment, note: '主键自增']
+  findqc_id int [unique, note: 'findqc平台的原始ID']
+  itemId text [note: '商品外部ID']
+  mallType text [note: '商城类型']
+  categoryId int [note: '商品类型ID']
+  price float [note: '商品价格']
+  weight float [note: '商品质量kg']
+  image_urls json [note: '原始图片url列表 JSON格式']
+  
+  // 爬虫与任务状态
+  last_qc_time datetime [note: '质检图中最晚的时间戳对应的时间']
+  qc_count_30days int [note: '30天质检图数量']
+  introduce text [note: ' qwen大模型生成的商品简介']
+  pic_url text [note: '选出的一张参与聚类的商品图片']
+  update_task_id int [note: '关联的任务批次ID'] 
+  last_update datetime
+  status int [note: '0:保留, 1:软删除']
+
+  // 建立复合索引逻辑说明 (用于后续关联)
+  Note: "itemId + mallType 构成唯一的商品业务标识"
+}
+
+// 2. 任务关联表 (任务调度)
+Table t_tasks_products {
+  id int [pk, increment]
+  findqc_id int [ref: > t_products.findqc_id]
+  update_task_id int [note: '关联的任务批次ID'] 
+  status int [note: '0:待执行, 1:完成']
+  created_at datetime [default: `now()`]
+}
+
+// 3. AI 标签表 (由 Qwen + Google Lens 生成)
+// 既然是"待定"，建议设计为宽表或者由AI动态生成的字段
+Table t_product_tags {
+  待定 int
+  //id int [pk, increment]
+  //product_id int [ref: - t_products.id, note: '一对一关联主表']
+  
+  // AI 分析结果
+  //category text [note: 'AI 归纳的类目']
+  //brand text [note: '品牌']
+  //model text [note: '型号']
+  //target_audience text [note: '适用人群']
+  //season text [note: '季节']
+  //environment text [note: '适用环境']
+  
+  // 预留字段，方便后续AI扩展
+  //keywords text [note: '其他关键词/Tags']
+  //ai_confidence float [note: 'AI打标置信度']
+  //updated_at datetime
+}
+
+// 4. 聚类中心表 (Cluster Heads)
+// 存储每个聚类簇的"代表商品"或"虚拟中心"
+Table t_cluster {
+  id int [pk, increment]
+  cluster_code text [unique, note: '规则: mallType_itemId (簇中心的唯一标识)']
+  
+  // 簇中心的数据快照
+  center_itemId text 
+  center_mallType text
+  
+  // 聚合数据
+  total_sales_count int [note: '该簇所有成员销量总和']
+  member_count int [note: '该簇下有多少个商品']
+  
+  created_at datetime
+}
+
+// 5. 聚类成员表 (Cluster Members)
+// 记录哪些商品属于哪个簇
+Table t_cluster_members {
+  id int [pk, increment]
+  cluster_code text [ref: > t_cluster.cluster_code, note: '关联簇中心']
+  
+  // 成员信息
+  member_itemId text
+  member_mallType text
+}
+
+// ==========================================
+// 关系视图 (用于可视化连线)
+// ==========================================
+
+// 这是一个逻辑组，用于在图中把相关的表放在一起
+TableGroup AI_Processing {
+  t_products
+  t_product_tags
+}
+
+TableGroup Clustering {
+  t_cluster
+  t_cluster_members
+}

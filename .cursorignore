@@ -1,0 +1,6 @@
+old_projects/**   <-- 如果你把旧项目放进来了，一定要忽略掉
+*.json            <-- 忽略大文件
+*.csv
+.git
+__pycache__
+venv/

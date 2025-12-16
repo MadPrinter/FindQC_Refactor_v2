@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 项目特定
+old_projects/**   # 旧项目代码（已经在仓库外或归档）
+*.json            # 大文件数据（保留结构，不提交内容）
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# 配置文件（包含敏感信息）
+.env
+.env.local
+config.local.py
+*.key
+*.pem
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+
+# 编译文件
+*.pyc
+*.pyo
+*.pyd
+
+# 测试覆盖率
+.coverage
+htmlcov/
+.pytest_cache/
+
+# 数据库迁移（如果使用）
+migrations/
+

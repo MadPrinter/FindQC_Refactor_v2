@@ -1,0 +1,120 @@
+import time
+from datetime import datetime
+
+# 配置常量
+PAGE_SIZE = 20
+UPDATE_TASK_ID = 2024052001  # 对应白板左上角的 update-task-id
+
+def spider_main_process():
+    """
+    主爬虫流程：对应白板上的双层循环结构
+    1. 遍历 Category
+    2. 遍历 Page (While True)
+    """
+    
+    # 获取需要爬取的分类列表
+    # 对应白板: for c in categories
+    category_list = get_target_categories() 
+
+    for category in category_list:
+        print(f"开始爬取分类: {category['name']}")
+        
+        # 初始化分页参数
+        # 对应白板: page-start = 0, size = 10
+        current_page_start = 0 
+        
+        while True:
+            # 获取商品列表
+            # 对应白板: items = get items(page-start)
+            items = fetch_item_list(category['id'], current_page_start, PAGE_SIZE)
+            
+            # 核心判断逻辑：如果当前页获取的数量小于页大小，说明是最后一页
+            # 对应白板: if len(items) < page-size ... all_finish = True
+            is_last_page = False
+            if len(items) < PAGE_SIZE:
+                is_last_page = True
+
+            # 遍历并处理单个商品
+            # 对应白板: else for item in items
+            for item_summary in items:
+                process_single_product(item_summary, category)
+
+            # 循环控制
+            # 对应白板: if all_finish: break
+            if is_last_page:
+                print(f"分类 {category['name']} 爬取结束")
+                break
+            
+            # 翻页逻辑 (白板上省略的部分，但在代码中必须有)
+            current_page_start += PAGE_SIZE
+            # time.sleep(1) # 建议加上延时防止被封
+
+def process_single_product(item_summary, category):
+    """
+    处理单个商品详情
+    对应白板右侧的: detail { QC images, main images, sku images }
+    以及写入数据库 t_products 的逻辑
+    """
+    product_id = item_summary['id']
+    
+    # 1. 获取详情
+    # 对应白板: detail -> ...
+    detail_data = fetch_product_detail(product_id)
+    
+    # 2. 整理图片结构 (这是后续AI图搜的基础)
+    # 对应白板右侧的三种图片类型
+    images_json = {
+        "qc_images": detail_data.get('qc_img_list', []),     # 质检图
+        "main_images": detail_data.get('main_img_list', []), # 主图
+        "sku_images": detail_data.get('sku_img_list', [])    # 规格图
+    }
+
+    # 3. 构造存入 t_products 的数据模型
+    product_data = {
+        "findqc_id": product_id,
+        "itemId": detail_data.get('item_id'), # 外部平台ID
+        "mallType": detail_data.get('mall_type'),
+        "categoryId": category['id'],
+        "image_urls": images_json,  # 存入整理好的JSON
+        "introduce": detail_data.get('description'),
+        "update_task_id": UPDATE_TASK_ID, # 关联任务ID
+        "status": 0, # 初始状态
+        "last_update": datetime.now()
+    }
+
+    # 4. 写入数据库 (Upsert: 存在则更新，不存在则插入)
+    save_to_db(product_data)
+    
+    # 5. 记录任务状态 (t_tasks_products)
+    record_task_log(product_id, UPDATE_TASK_ID)
+
+# ==========================================
+# 模拟 API 和 数据库函数 (占位符)
+# ==========================================
+
+def get_target_categories():
+    return [{"id": 101, "name": "户外服装"}, {"id": 102, "name": "露营装备"}]
+
+def fetch_item_list(cat_id, offset, size):
+    # 模拟网络请求
+    print(f"  -> Fetching list: Cat={cat_id}, Offset={offset}")
+    # 模拟返回数据...
+    return [{"id": 12345}, {"id": 67890}] 
+
+def fetch_product_detail(pid):
+    # 模拟详情请求
+    return {
+        "item_id": "ext_999", 
+        "mall_type": "taobao", 
+        "qc_img_list": ["http://img1..."], 
+        "main_img_list": ["http://img2..."]
+    }
+
+def save_to_db(data):
+    print(f"  [DB] Saving Product: {data['findqc_id']}")
+
+def record_task_log(pid, tid):
+    pass
+
+if __name__ == "__main__":
+    spider_main_process()
