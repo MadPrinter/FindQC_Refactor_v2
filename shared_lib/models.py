@@ -203,9 +203,9 @@ class ClusterMember(Base):
         comment="关联簇中心的cluster_code"
     )
     
-    # 成员信息
-    member_itemId: Mapped[Optional[str]] = mapped_column(Text, nullable=True, comment="成员的itemId")
-    member_mallType: Mapped[Optional[str]] = mapped_column(Text, nullable=True, comment="成员的mallType")
+    # 成员信息（使用 VARCHAR 以便在 UNIQUE 约束中使用）
+    member_itemId: Mapped[Optional[str]] = mapped_column(String(255), nullable=True, comment="成员的itemId")
+    member_mallType: Mapped[Optional[str]] = mapped_column(String(255), nullable=True, comment="成员的mallType")
     
     # 关系
     cluster: Mapped["Cluster"] = relationship("Cluster", back_populates="members")
