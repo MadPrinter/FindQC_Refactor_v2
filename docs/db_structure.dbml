@@ -37,24 +37,23 @@ Table t_tasks_products {
 }
 
 // 3. AI 标签表 (由 Qwen + Google Lens 生成)
-// 既然是"待定"，建议设计为宽表或者由AI动态生成的字段
 Table t_product_tags {
-  待定 int
-  //id int [pk, increment]
-  //product_id int [ref: - t_products.id, note: '一对一关联主表']
+  id int [pk, increment, note: '主键自增']
+  product_id int [ref: - t_products.id, unique, note: '一对一关联主表']
   
-  // AI 分析结果
-  //category text [note: 'AI 归纳的类目']
-  //brand text [note: '品牌']
-  //model text [note: '型号']
-  //target_audience text [note: '适用人群']
-  //season text [note: '季节']
-  //environment text [note: '适用环境']
+  // AI 分析结果（由 Qwen 大模型生成）
+  category text [note: 'AI 归纳的类目']
+  brand text [note: '品牌']
+  model text [note: '型号']
+  target_audience text [note: '适用人群']
+  season text [note: '季节：春夏/秋冬/四季等']
+  environment text [note: '适用环境：室内/户外/运动等']
   
   // 预留字段，方便后续AI扩展
-  //keywords text [note: '其他关键词/Tags']
-  //ai_confidence float [note: 'AI打标置信度']
-  //updated_at datetime
+  keywords text [note: '其他关键词/Tags，逗号分隔']
+  ai_confidence float [note: 'AI打标置信度 0-1']
+  
+  updated_at datetime [note: '最后更新时间']
 }
 
 // 4. 聚类中心表 (Cluster Heads)
