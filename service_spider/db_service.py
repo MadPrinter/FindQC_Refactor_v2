@@ -169,9 +169,20 @@ class ProductDBService:
         price = detail_data.get("price")
         if price:
             try:
-                price = float(price)
+                # price 可能是字符串格式如 "¥95.00" 或 "$15.00"，需要提取数字部分
+                if isinstance(price, str):
+                    # 移除货币符号和空格，只保留数字和小数点
+                    import re
+                    price_str = re.sub(r'[^\d.]', '', price)
+                    if price_str:
+                        price = float(price_str)
+                    else:
+                        price = None
+                else:
+                    price = float(price)
             except (ValueError, TypeError):
                 price = None
+                logger.warning(f"无法解析 price 字段: {detail_data.get('price')}")
         
         weight = detail_data.get("weight")
         if weight:
