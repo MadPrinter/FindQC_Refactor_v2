@@ -46,21 +46,27 @@ class SpiderService:
         self.delay = delay_between_requests
         self.db_service = ProductDBService()
     
-    async def get_target_categories(self, limit: Optional[int] = None) -> List[Dict[str, Any]]:
+    async def get_target_categories(
+        self, 
+        start_cat_id: Optional[int] = None,
+        limit: Optional[int] = None
+    ) -> List[Dict[str, Any]]:
         """
         获取需要爬取的分类列表
         
-        遍历指定范围的分类ID（从 START_CAT_ID 到 END_CAT_ID）
+        遍历指定范围的分类ID（从 start_cat_id 到 END_CAT_ID）
         实际是否有商品会在 fetch_category_products 中检查并跳过
         
         Args:
+            start_cat_id: 起始分类ID（如果为 None，则使用配置的 START_CAT_ID）
             limit: 限制分类数量（用于测试）
         
         Returns:
             List[Dict]: 分类列表，每个元素包含 id 和 name
         """
         # 从配置中获取分类ID范围
-        start_cat_id = settings.start_cat_id
+        if start_cat_id is None:
+            start_cat_id = settings.start_cat_id
         end_cat_id = settings.end_cat_id
         
         # 生成分类ID列表
@@ -325,7 +331,12 @@ class SpiderService:
                 logger.error(f"获取分类商品列表失败: category_id={category_id}, page={current_page}, error={e}")
                 break
     
-    async def spider_main_process(self, update_task_id: int, max_products: Optional[int] = None) -> None:
+    async def spider_main_process(
+        self, 
+        update_task_id: int, 
+        max_products: Optional[int] = None,
+        start_cat_id: Optional[int] = None,
+    ) -> None:
         """
         主爬虫流程
         
@@ -336,14 +347,17 @@ class SpiderService:
         Args:
             update_task_id: 任务批次ID
             max_products: 最大爬取商品数量（None表示不限制，用于测试）
+            start_cat_id: 起始分类ID（如果为 None，则使用配置的 START_CAT_ID 或断点续传）
         """
         logger.info(f"开始爬虫任务，update_task_id={update_task_id}")
         if max_products:
             logger.info(f"测试模式：最多爬取 {max_products} 个商品")
+        if start_cat_id:
+            logger.info(f"断点续传模式：从分类ID {start_cat_id} 开始")
         
         # 获取需要爬取的分类列表
         # 对应白板: for c in categories
-        category_list = await self.get_target_categories()
+        category_list = await self.get_target_categories(start_cat_id=start_cat_id)
         
         # 并发处理多个分类（类似旧项目的多线程并发）
         max_concurrent = settings.max_concurrent_categories

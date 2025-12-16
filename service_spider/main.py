@@ -18,6 +18,7 @@ from shared_lib.config import settings
 from shared_lib.database import get_database, init_database
 from service_spider.api_client import FindQCAPIClient
 from service_spider.spider import SpiderService
+from service_spider.db_service import ProductDBService
 from service_spider.mq_service import mq_service
 
 
@@ -74,8 +75,8 @@ async def main():
     )
     
     try:
-        # 生成任务ID（可以根据实际需求调整）
-        update_task_id = int(datetime.now().strftime("%Y%m%d%H"))
+        # 生成任务ID（按日期粒度：YYYYMMDD）
+        update_task_id = int(datetime.now().strftime("%Y%m%d"))
         logger.info(f"任务批次ID: {update_task_id}")
         
         # 获取 max_products 配置（控制全量/测试模式）
@@ -103,10 +104,26 @@ async def main():
         else:
             logger.info("全量模式：不限制爬取数量")
         
+        # 检查断点续传：查询数据库中最大的 categoryId，如果其 update_task_id 是今天，则从该分类重新开始
+        start_cat_id = None
+        db = get_database()
+        async with db.async_session_maker() as session:
+            resume_category_id = await ProductDBService.get_resume_category_id(
+                session=session,
+                today_task_id=update_task_id,
+            )
+            if resume_category_id is not None:
+                start_cat_id = resume_category_id
+                logger.info(f"启用断点续传：将从分类ID {start_cat_id} 重新开始爬取")
+            else:
+                logger.info("未找到断点续传位置，将从配置的起始分类开始")
+            await session.commit()
+        
         # 运行爬虫主流程
         await spider_service.spider_main_process(
             update_task_id=update_task_id,
             max_products=max_products,
+            start_cat_id=start_cat_id,
         )
         
         logger.info("=" * 60)

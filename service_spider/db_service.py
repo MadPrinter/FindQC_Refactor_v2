@@ -7,7 +7,7 @@
 from datetime import datetime, timedelta
 from typing import Dict, Any, Optional, Tuple
 from sqlalchemy.ext.asyncio import AsyncSession
-from sqlalchemy import select, update
+from sqlalchemy import select, update, func
 from sqlalchemy.orm import selectinload
 from loguru import logger
 
@@ -107,6 +107,66 @@ class ProductDBService:
         
         await session.flush()  # 获取 ID
         return product
+    
+    @staticmethod
+    async def get_resume_category_id(
+        session: AsyncSession,
+        today_task_id: int,
+    ) -> Optional[int]:
+        """
+        获取断点续传的起始分类ID
+        
+        查询数据库中最大的 categoryId，并检查该 categoryId 对应的商品的 
+        update_task_id 是否为今天。如果是，则返回该 categoryId 用于断点续传。
+        
+        Args:
+            session: 数据库会话
+            today_task_id: 今天的任务批次ID（格式：YYYYMMDD）
+            
+        Returns:
+            Optional[int]: 如果满足条件，返回最大的 categoryId；否则返回 None
+        """
+        try:
+            # 查询最大的 categoryId（排除 NULL 和软删除的商品）
+            stmt = (
+                select(func.max(Product.categoryId))
+                .where(Product.categoryId.isnot(None))
+                .where(Product.status == 0)  # 只考虑未软删除的商品
+            )
+            result = await session.execute(stmt)
+            max_category_id = result.scalar_one_or_none()
+            
+            if max_category_id is None:
+                logger.info("数据库中没有有效的 categoryId，将从配置的起始分类开始")
+                return None
+            
+            # 检查该 categoryId 对应的商品是否有今天的 update_task_id
+            check_stmt = (
+                select(Product)
+                .where(Product.categoryId == max_category_id)
+                .where(Product.update_task_id == today_task_id)
+                .where(Product.status == 0)
+                .limit(1)
+            )
+            check_result = await session.execute(check_stmt)
+            product_with_today_task = check_result.scalar_one_or_none()
+            
+            if product_with_today_task:
+                logger.info(
+                    f"找到断点续传位置：最大 categoryId={max_category_id}，"
+                    f"update_task_id={today_task_id} 为今天，将从该分类重新开始"
+                )
+                return max_category_id
+            else:
+                logger.info(
+                    f"最大 categoryId={max_category_id} 对应的商品 update_task_id 不是今天，"
+                    f"将从配置的起始分类开始"
+                )
+                return None
+                
+        except Exception as e:
+            logger.error(f"查询断点续传分类ID失败: {e}")
+            return None
     
     @staticmethod
     async def create_task_record(
