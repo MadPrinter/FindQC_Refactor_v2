@@ -4,7 +4,7 @@
 提供 SQLAlchemy 异步数据库连接的配置和管理。
 """
 
-from typing import AsyncGenerator
+from typing import AsyncGenerator, Optional
 from sqlalchemy.ext.asyncio import AsyncSession, create_async_engine, async_sessionmaker
 from sqlalchemy.pool import NullPool
 from .models import Base
@@ -73,7 +73,7 @@ class Database:
 
 
 # 全局数据库实例（需要在应用启动时初始化）
-db: Database | None = None
+db: Optional[Database] = None
 
 
 def init_database(database_url: str) -> Database:
