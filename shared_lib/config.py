@@ -45,6 +45,9 @@ class Settings(BaseSettings):
     # 日志配置
     log_level: str = os.getenv("LOG_LEVEL", "INFO")
     
+    # 测试/调试配置
+    max_products: Optional[int] = None  # 最大爬取商品数量（None表示不限制，用于测试）
+    
     @property
     def database_url(self) -> str:
         """
@@ -70,6 +73,8 @@ class Settings(BaseSettings):
         env_file = ".env"
         env_file_encoding = "utf-8"
         case_sensitive = False
+        # 允许从环境变量读取额外字段（但需要先定义字段）
+        extra = "ignore"  # 忽略未定义的字段，而不是报错
 
 
 # 全局配置实例

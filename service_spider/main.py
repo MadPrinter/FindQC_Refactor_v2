@@ -14,8 +14,8 @@ from loguru import logger
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
-from shared_lib.config import settings, init_database
-from shared_lib.database import get_database
+from shared_lib.config import settings
+from shared_lib.database import get_database, init_database
 from service_spider.api_client import FindQCAPIClient
 from service_spider.spider import SpiderService
 from service_spider.mq_service import mq_service
@@ -79,8 +79,11 @@ async def main():
         logger.info(f"任务批次ID: {update_task_id}")
         
         # 测试模式：只爬取前10个商品
-        import os
-        max_products = int(os.getenv("MAX_PRODUCTS", "10"))  # 默认10个，可以通过环境变量设置
+        max_products = settings.max_products
+        if max_products is None:
+            # 如果配置中没有设置，尝试从环境变量读取（默认10个用于测试）
+            import os
+            max_products = int(os.getenv("MAX_PRODUCTS", "10"))
         logger.info(f"测试模式：最多爬取 {max_products} 个商品")
         
         # 运行爬虫主流程
