@@ -146,22 +146,6 @@ class SpiderService:
             # 检查是否应该保存（必须有 QC 图且最晚时间在30天内）
             if not should_save or product_data is None:
                 logger.info(f"跳过商品 findqc_id={findqc_id}, item_id={item_id}: 不符合保存条件（无 QC 图或 QC 图不在30天内）")
-                
-                # 即使商品已存在，如果不符合条件，也应该删除（或标记为删除）
-                # 检查数据库中是否存在该商品
-                from shared_lib.models import Product
-                from sqlalchemy import select
-                stmt = select(Product).where(Product.findqc_id == findqc_id)
-                result = await session.execute(stmt)
-                existing_product = result.scalar_one_or_none()
-                
-                if existing_product:
-                    # 删除不符合条件的商品（软删除：设置 status=1）
-                    existing_product.status = 1  # 1: 软删除
-                    existing_product.last_update = datetime.utcnow()
-                    logger.info(f"标记删除不符合条件的商品: findqc_id={findqc_id}")
-                    await session.commit()
-                
                 return
             
             # 4. 写入数据库（Upsert: 存在则更新，不存在则插入）
