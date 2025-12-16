@@ -167,6 +167,7 @@ erDiagram
         text mallType
         int categoryId
         text price
+        float volume
         float weight
         json image_urls
         datetime last_qc_time

@@ -11,7 +11,8 @@ Table t_products {
   mallType text [note: '商城类型']
   categoryId int [note: '商品类型ID']
   price text [note: '商品价格']
-  weight float [note: '商品质量kg']
+  volume float [note: '商品体积 立方厘米']
+  weight float [note: '商品质量 kg']
   image_urls json [note: '原始图片url列表 JSON格式']
   
   // 爬虫与任务状态

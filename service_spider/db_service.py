@@ -231,6 +231,13 @@ class ProductDBService:
         if price is not None:
             price = str(price)  # 转换为字符串存储
         
+        volume = detail_data.get("volume")
+        if volume:
+            try:
+                volume = float(volume)
+            except (ValueError, TypeError):
+                volume = None
+        
         weight = detail_data.get("weight")
         if weight:
             try:
@@ -365,6 +372,7 @@ class ProductDBService:
             "mallType": mall_type,
             "categoryId": category_id,
             "price": price,
+            "volume": volume,
             "weight": weight,
             "image_urls": image_urls,
             "last_qc_time": last_qc_time,
