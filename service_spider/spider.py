@@ -282,12 +282,9 @@ class SpiderService:
                 # 提取商品列表
                 items = self.api_client.extract_product_list(response)
                 
-                # 核心判断逻辑：如果当前页获取的数量小于页大小，说明是最后一页
-                # 对应白板: if len(items) < page-size ... all_finish = True
-                is_last_page = len(items) < self.page_size
-                
+                # 如果没有商品，停止（安全措施）
                 if not items:
-                    logger.info(f"分类 {category_name} 第 {current_page} 页无数据")
+                    logger.info(f"分类 {category_name} 第 {current_page} 页无数据，停止")
                     break
                 
                 # 遍历并处理单个商品
@@ -317,10 +314,9 @@ class SpiderService:
                     if max_products and total_products >= max_products:
                         break
                 
-                # 循环控制
-                # 对应白板: if all_finish: break
-                if is_last_page:
-                    logger.info(f"分类 {category_name} 爬取结束，共 {total_products} 个商品")
+                # 核心判断逻辑：使用 hasMore 字段判断是否还有下一页（与旧项目一致）
+                if not has_more:
+                    logger.info(f"分类 {category_name} 爬取结束（hasMore=False），共 {total_products} 个商品")
                     break
                 
                 # 翻页逻辑
