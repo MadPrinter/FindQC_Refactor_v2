@@ -30,7 +30,8 @@ logs/
 *.db
 *.sqlite
 *.sqlite3
-data/mysql/  # MySQL 数据目录（包含大量二进制文件）
+# 注意：开发环境使用的 SQLite 数据库文件（如 findqc_db.db）会被忽略
+# 如需提交示例数据库，请使用 .db.example 命名
 
 # 备份文件
 *.sql

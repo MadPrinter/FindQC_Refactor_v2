@@ -71,21 +71,21 @@ class Settings(BaseSettings):
         """
         构建数据库连接URL
         
-        如果 DB_HOST 设置为 "sqlite" 或环境变量 USE_SQLITE=true，则使用 SQLite
-        否则使用 MySQL
+        默认使用 SQLite（开发/测试）
+        如果需要使用 MySQL，设置环境变量 USE_MYSQL=true
         
         Returns:
-            str: 数据库连接URL（MySQL 或 SQLite）
+            str: 数据库连接URL（SQLite 或 MySQL）
         """
-        use_sqlite = os.getenv("USE_SQLITE", "").lower() in ("true", "1", "yes") or self.db_host.lower() == "sqlite"
+        use_mysql = os.getenv("USE_MYSQL", "").lower() in ("true", "1", "yes")
         
-        if use_sqlite:
-            # 使用 SQLite（开发/测试）
-            db_file = self.db_name if self.db_name.endswith(".db") else f"{self.db_name}.db"
-            return f"sqlite+aiosqlite:///{db_file}"
-        else:
+        if use_mysql:
             # 使用 MySQL（生产）
             return f"mysql+aiomysql://{self.db_user}:{self.db_password}@{self.db_host}:{self.db_port}/{self.db_name}?charset=utf8mb4"
+        else:
+            # 使用 SQLite（开发/测试，默认）
+            db_file = self.db_name if self.db_name.endswith(".db") else f"{self.db_name}.db"
+            return f"sqlite+aiosqlite:///{db_file}"
     
     @property
     def rabbitmq_url(self) -> str:
