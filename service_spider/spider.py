@@ -133,7 +133,7 @@ class SpiderService:
                     logger.error(f"获取图集失败: findqc_id={findqc_id}, page={atlas_page}, error={e}")
                     break
             
-            # 3. 整理图片结构（这是后续AI图搜的基础）
+            # 3. 整理图片结构并提取 QC 相关信息
             product_data, should_save = self.db_service.prepare_product_data(
                 findqc_id=findqc_id,
                 item_id=item_id,
@@ -148,38 +148,64 @@ class SpiderService:
                 logger.info(f"跳过商品 findqc_id={findqc_id}, item_id={item_id}: 不符合保存条件（无 QC 图或 QC 图不在30天内）")
                 return
             
-            # 4. 写入数据库（Upsert: 存在则更新，不存在则插入）
-            product = await self.db_service.save_or_update_product(
-                session=session,
-                product_data=product_data,
-                update_task_id=update_task_id,
-            )
+            # 提取 QC 相关数据
+            last_qc_time = product_data.get("last_qc_time")
+            qc_count_30days = product_data.get("qc_count_30days", 0)
             
-            # 5. 记录任务状态（t_tasks_products）
-            await self.db_service.create_task_record(
+            # 4. 检查数据库是否存在该商品
+            product, operation_type = await self.db_service.check_and_update_existing_product(
                 session=session,
                 findqc_id=findqc_id,
-                update_task_id=update_task_id,
-                status=0,  # 0: 待执行（等待 AI 处理）
+                last_qc_time=last_qc_time,
+                qc_count_30days=qc_count_30days,
             )
             
-            # 6. 提交事务
-            await session.commit()
+            # 5. 根据操作类型处理
+            if operation_type == "exists_deleted":
+                # 已存在的商品，但 QC 图不在30天内，已软删除，直接提交并返回
+                await session.commit()
+                logger.info(f"商品 findqc_id={findqc_id} 已软删除，跳过后续处理")
+                return
             
-            # 7. 发送消息到消息队列（通知 AI 处理管道）
-            try:
-                await mq_service.send_product_new_message(
-                    task_id=update_task_id,
-                    findqc_id=findqc_id,
-                    product_id=product.id,
-                    item_id=item_id,
-                    mall_type=mall_type,
+            elif operation_type == "exists_updated":
+                # 已存在的商品，QC 图在30天内，只更新了 QC 相关字段，直接提交并返回
+                await session.commit()
+                logger.info(f"商品 findqc_id={findqc_id} 已更新 QC 相关字段，跳过后续处理")
+                return
+            
+            elif operation_type == "not_exists":
+                # 不存在，保存新商品
+                product = await self.db_service.save_or_update_product(
+                    session=session,
+                    product_data=product_data,
+                    update_task_id=update_task_id,
                 )
-            except Exception as e:
-                logger.warning(f"发送消息失败（不影响主流程）: findqc_id={findqc_id}, error={e}")
-                # 消息发送失败不影响主流程
-            
-            logger.info(f"商品处理完成: findqc_id={findqc_id}, item_id={item_id}")
+                
+                # 6. 记录任务状态（t_tasks_products）
+                await self.db_service.create_task_record(
+                    session=session,
+                    findqc_id=findqc_id,
+                    update_task_id=update_task_id,
+                    status=0,  # 0: 待执行（等待 AI 处理）
+                )
+                
+                # 7. 提交事务
+                await session.commit()
+                
+                # 8. 发送消息到消息队列（通知 AI 处理管道）
+                try:
+                    await mq_service.send_product_new_message(
+                        task_id=update_task_id,
+                        findqc_id=findqc_id,
+                        product_id=product.id,
+                        item_id=item_id,
+                        mall_type=mall_type,
+                    )
+                except Exception as e:
+                    logger.warning(f"发送消息失败（不影响主流程）: findqc_id={findqc_id}, error={e}")
+                    # 消息发送失败不影响主流程
+                
+                logger.info(f"新商品保存完成: findqc_id={findqc_id}, item_id={item_id}")
             
         except Exception as e:
             await session.rollback()

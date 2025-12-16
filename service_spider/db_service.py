@@ -25,13 +25,69 @@ class ProductDBService:
     """商品数据库服务"""
     
     @staticmethod
+    async def check_and_update_existing_product(
+        session: AsyncSession,
+        findqc_id: int,
+        last_qc_time: Optional[datetime],
+        qc_count_30days: int,
+    ) -> Tuple[Optional[Product], str]:
+        """
+        检查现有商品并决定更新策略
+        
+        Args:
+            session: 数据库会话
+            findqc_id: FindQC 商品ID
+            last_qc_time: 最新的 QC 图时间
+            qc_count_30days: 30天内的 QC 图数量
+            
+        Returns:
+            Tuple[Optional[Product], str]:
+                - Product 对象（如果存在）或 None（如果不存在）
+                - 操作类型："exists_updated"（存在且已更新）、"exists_deleted"（存在且已软删除）、"not_exists"（不存在）
+        """
+        # 查询是否已存在
+        stmt = select(Product).where(Product.findqc_id == findqc_id)
+        result = await session.execute(stmt)
+        product = result.scalar_one_or_none()
+        
+        if not product:
+            return None, "not_exists"
+        
+        # 如果商品已存在，检查最新的 QC 图是否在近30天内
+        if last_qc_time is None:
+            # 如果没有 QC 图时间，软删除
+            product.status = 1
+            product.last_update = datetime.utcnow()
+            logger.info(f"商品 findqc_id={findqc_id} 已存在但无 QC 图时间，软删除")
+            await session.flush()
+            return product, "exists_deleted"
+        
+        thirty_days_ago = datetime.utcnow() - timedelta(days=30)
+        
+        if last_qc_time >= thirty_days_ago:
+            # 在30天内，只更新 QC 相关字段
+            product.last_qc_time = last_qc_time
+            product.qc_count_30days = qc_count_30days
+            product.last_update = datetime.utcnow()
+            logger.info(f"商品 findqc_id={findqc_id} 已存在，QC 图在30天内，只更新 QC 相关字段")
+            await session.flush()
+            return product, "exists_updated"
+        else:
+            # 不在30天内，软删除
+            product.status = 1
+            product.last_update = datetime.utcnow()
+            logger.info(f"商品 findqc_id={findqc_id} 已存在，QC 图不在30天内，软删除")
+            await session.flush()
+            return product, "exists_deleted"
+    
+    @staticmethod
     async def save_or_update_product(
         session: AsyncSession,
         product_data: Dict[str, Any],
         update_task_id: int,
     ) -> Product:
         """
-        保存或更新商品数据（Upsert）
+        保存新商品数据（仅用于新商品）
         
         Args:
             session: 数据库会话
@@ -43,25 +99,11 @@ class ProductDBService:
         """
         findqc_id = product_data["findqc_id"]
         
-        # 查询是否已存在
-        stmt = select(Product).where(Product.findqc_id == findqc_id)
-        result = await session.execute(stmt)
-        product = result.scalar_one_or_none()
-        
-        if product:
-            # 更新现有商品
-            for key, value in product_data.items():
-                if hasattr(product, key):
-                    setattr(product, key, value)
-            product.last_update = datetime.utcnow()
-            product.update_task_id = update_task_id
-            logger.debug(f"更新商品: findqc_id={findqc_id}")
-        else:
-            # 创建新商品
-            product = Product(**product_data, update_task_id=update_task_id)
-            product.last_update = datetime.utcnow()
-            session.add(product)
-            logger.debug(f"创建商品: findqc_id={findqc_id}")
+        # 创建新商品
+        product = Product(**product_data, update_task_id=update_task_id)
+        product.last_update = datetime.utcnow()
+        session.add(product)
+        logger.debug(f"创建新商品: findqc_id={findqc_id}")
         
         await session.flush()  # 获取 ID
         return product
