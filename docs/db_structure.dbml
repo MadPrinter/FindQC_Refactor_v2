@@ -10,7 +10,7 @@ Table t_products {
   itemId text [note: '商品外部ID']
   mallType text [note: '商城类型']
   categoryId int [note: '商品类型ID']
-  price float [note: '商品价格']
+  price text [note: '商品价格']
   weight float [note: '商品质量kg']
   image_urls json [note: '原始图片url列表 JSON格式']
   

@@ -166,7 +166,7 @@ erDiagram
         text itemId
         text mallType
         int categoryId
-        float price
+        text price
         float weight
         json image_urls
         datetime last_qc_time
