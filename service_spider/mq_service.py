@@ -7,8 +7,15 @@
 import json
 from typing import Dict, Any
 from datetime import datetime
-import aio_pika
 from loguru import logger
+
+# RabbitMQ 是可选的，如果没有安装 aio-pika，消息队列功能将被禁用
+try:
+    import aio_pika
+    AIO_PIKA_AVAILABLE = True
+except ImportError:
+    AIO_PIKA_AVAILABLE = False
+    logger.warning("aio-pika 未安装，消息队列功能将被禁用")
 
 import sys
 from pathlib import Path
@@ -38,6 +45,10 @@ class MessageQueueService:
     
     async def initialize(self):
         """初始化 RabbitMQ 连接"""
+        if not AIO_PIKA_AVAILABLE:
+            logger.warning("aio-pika 未安装，跳过 RabbitMQ 初始化")
+            return
+        
         if self._initialized:
             return
         
@@ -94,10 +105,11 @@ class MessageQueueService:
             product_id: 数据库中的商品ID
             item_id: 商品外部ID
             mall_type: 商城类型
-            
-        Raises:
-            RuntimeError: 如果消息队列未初始化
         """
+        if not AIO_PIKA_AVAILABLE:
+            logger.debug("aio-pika 未安装，跳过消息发送")
+            return
+        
         if not self._initialized:
             # 如果未初始化，尝试初始化（可能失败，但不影响主流程）
             try:
