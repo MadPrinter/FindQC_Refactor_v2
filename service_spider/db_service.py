@@ -160,7 +160,17 @@ class ProductDBService:
             if qc_url:
                 qc_images.append(qc_url)
         
-        # 从 atlas 接口获取 QC 图和视频
+        # 从 atlas 接口获取 QC 图和视频，并收集所有 QC 时间戳
+        all_qc_times = []  # 收集所有 QC 图的时间戳
+        
+        # 先从 detail 接口的 qcList 提取时间戳
+        if qc_list:
+            for qc in qc_list:
+                qc_time = qc.get("time")
+                if qc_time is not None:
+                    all_qc_times.append(qc_time)
+        
+        # 从 atlas 接口获取 QC 图和视频，并提取时间戳
         for atlas_response in atlas_responses:
             atlas_data = atlas_response.get("data", {})
             atlas_list = atlas_data.get("atlasList", [])
@@ -171,17 +181,28 @@ class ProductDBService:
                     qc_url = qc.get("url")
                     if qc_url and qc_url not in qc_images:
                         qc_images.append(qc_url)
+                    
+                    # 提取时间戳
+                    qc_time = qc.get("time")
+                    if qc_time is not None:
+                        all_qc_times.append(qc_time)
         
-        # 获取 QC 时间（取最新的）
+        # 获取 QC 时间（取最新的时间戳）
         last_qc_time = None
-        if qc_list:
-            qc_times = [qc.get("time") for qc in qc_list if qc.get("time")]
-            if qc_times:
-                try:
-                    # 假设时间是时间戳（秒）
-                    last_qc_time = datetime.fromtimestamp(max(qc_times))
-                except (ValueError, TypeError, OSError):
-                    pass
+        if all_qc_times:
+            try:
+                # 找到最大的时间戳
+                max_timestamp = max(all_qc_times)
+                
+                # 判断时间戳是秒还是毫秒（通常大于 10^10 的是毫秒）
+                if max_timestamp > 10**10:
+                    # 毫秒时间戳，转换为秒
+                    max_timestamp = max_timestamp / 1000
+                
+                last_qc_time = datetime.fromtimestamp(max_timestamp)
+            except (ValueError, TypeError, OSError) as e:
+                logger.warning(f"解析 QC 时间戳失败: {e}, timestamps={all_qc_times[:5]}")
+                pass
         
         # 构造图片 JSON
         image_urls = {
