@@ -17,6 +17,7 @@
 - **消息队列**: RabbitMQ（可选）
 - **日志**: Loguru
 - **HTTP 客户端**: httpx
+- **容器化**: Docker & Docker Compose
 
 ## 快速开始
 
@@ -31,55 +32,51 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 2. 配置
+### 2. 数据库配置
 
-创建 `.env` 文件：
+#### 方式1：使用 Docker（推荐）
+
+```bash
+# 启动 MySQL 容器
+docker-compose up -d
+
+# 查看运行状态
+docker-compose ps
+```
+
+然后创建 `.env` 文件：
 
 ```env
-# 数据库配置（选择一种方式）
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=findqc_root_password
+DB_NAME=findqc_db
+MAX_PRODUCTS=10
+LOG_LEVEL=INFO
+```
 
-# 方式1：使用 SQLite（推荐用于开发/测试，无需安装 MySQL）
+**详细文档**：`docs/docker_mysql_setup.md`
+
+#### 方式2：使用本地 MySQL
+
+参考：`docs/mysql_setup.md`
+
+#### 方式3：使用 SQLite（开发/测试）
+
+```env
 USE_SQLITE=true
 DB_NAME=findqc_db
-
-# 方式2：使用 MySQL（生产环境）
-# DB_HOST=localhost
-# DB_PORT=3306
-# DB_USER=root
-# DB_PASSWORD=your_password
-# DB_NAME=findqc_db
-
-# 爬虫配置
-MAX_PRODUCTS=10  # 测试模式：限制爬取商品数量
-
-# 日志级别
-LOG_LEVEL=INFO
 ```
 
 ### 3. 运行爬虫服务
 
-#### 使用 SQLite（开发/测试）
-
 ```bash
-# 方法1：设置环境变量
-USE_SQLITE=true python3 -m service_spider.main
+# 激活虚拟环境
+source venv/bin/activate
 
-# 方法2：修改 .env 文件，设置 USE_SQLITE=true 或 DB_HOST=sqlite
+# 运行爬虫服务
 python3 -m service_spider.main
-```
-
-#### 使用 MySQL（生产）
-
-```bash
-# 确保 MySQL 服务已启动，并配置 .env 文件
-python3 -m service_spider.main
-```
-
-#### 使用测试脚本（推荐用于快速测试）
-
-```bash
-# 使用 SQLite 测试脚本（无需配置，直接运行）
-python3 test_spider_sqlite.py
 ```
 
 ## 项目结构
@@ -96,15 +93,66 @@ FindQC_Refactor_v2/
 │   ├── api_client.py      # FindQC API 客户端
 │   ├── db_service.py      # 数据库操作服务
 │   └── mq_service.py      # 消息队列服务
+├── scripts/                # 脚本文件
+│   ├── init_mysql_db.sql  # MySQL 初始化脚本
+│   └── setup_mysql.sh     # MySQL 设置脚本
 ├── docs/                   # 文档
 │   ├── architecture.md    # 架构设计
 │   ├── service_flow.md    # 服务流程
-│   └── db_structure.dbml  # 数据库设计
+│   ├── db_structure.dbml  # 数据库设计
+│   ├── docker_mysql_setup.md  # Docker MySQL 设置
+│   └── mysql_setup.md     # MySQL 设置指南
+├── docker-compose.yml     # Docker Compose 配置
 ├── test_spider_sqlite.py  # SQLite 测试脚本
 └── requirements.txt       # 依赖包列表
 ```
 
+## Docker 使用
+
+### 启动 MySQL
+
+```bash
+# 启动 MySQL 容器
+docker-compose up -d
+
+# 查看日志
+docker-compose logs -f mysql
+
+# 停止容器
+docker-compose stop
+
+# 停止并删除容器（数据保留）
+docker-compose down
+
+# 停止并删除所有数据
+docker-compose down -v
+```
+
+### 进入 MySQL
+
+```bash
+# 进入容器
+docker-compose exec mysql bash
+
+# 连接 MySQL
+docker-compose exec mysql mysql -u root -p
+```
+
+**详细文档**：`docs/docker_mysql_setup.md`
+
 ## 数据库配置说明
+
+### Docker MySQL（推荐）
+
+优点：
+- 无需本地安装 MySQL
+- 易于管理和部署
+- 数据持久化在 Docker volume 中
+
+使用方法：
+```bash
+docker-compose up -d
+```
 
 ### SQLite（开发/测试）
 
@@ -114,35 +162,18 @@ FindQC_Refactor_v2/
 - 适合开发和测试
 
 使用方法：
-```bash
-# 设置环境变量
-USE_SQLITE=true python3 -m service_spider.main
-
-# 或修改 .env 文件
-echo "USE_SQLITE=true" >> .env
+```env
+USE_SQLITE=true
 ```
 
-数据库文件：`findqc_db.db`（项目根目录）
-
-### MySQL（生产）
+### 本地 MySQL（生产）
 
 优点：
 - 性能更好
-- 支持并发
+- 支持高并发
 - 适合生产环境
 
-使用方法：
-```bash
-# 配置 .env 文件
-DB_HOST=localhost
-DB_PORT=3306
-DB_USER=root
-DB_PASSWORD=your_password
-DB_NAME=findqc_db
-
-# 运行服务
-python3 -m service_spider.main
-```
+详细设置：`docs/mysql_setup.md`
 
 ## 开发指南
 
@@ -159,8 +190,8 @@ python3 test_spider_simple.py
 # 运行完整测试（使用 SQLite）
 python3 test_spider_sqlite.py
 
-# 运行主程序（使用 SQLite，限制10个商品）
-USE_SQLITE=true MAX_PRODUCTS=10 python3 -m service_spider.main
+# 运行主程序（使用 Docker MySQL，限制10个商品）
+MAX_PRODUCTS=10 python3 -m service_spider.main
 ```
 
 ## 微服务说明
@@ -180,7 +211,9 @@ USE_SQLITE=true MAX_PRODUCTS=10 python3 -m service_spider.main
 ## 注意事项
 
 1. **请求频率控制**：代码中已添加请求延迟，避免被 API 限流
-2. **数据库选择**：开发/测试推荐使用 SQLite，生产使用 MySQL
+2. **数据库选择**：
+   - 开发/测试推荐使用 Docker MySQL 或 SQLite
+   - 生产使用本地 MySQL 或 Docker MySQL
 3. **消息队列**：RabbitMQ 是可选的，未安装时爬虫仍可正常运行（只是不发送消息）
 
 ## 维护者
