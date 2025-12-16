@@ -148,9 +148,27 @@ python3 test_spider_sqlite.py
 MAX_PRODUCTS=10 python3 -m service_spider.main
 ```
 
-### 环境变量配置
+### 配置文件
 
-创建 `.env` 文件（可选）：
+项目使用 `.env` 文件进行配置管理，所有配置都有合理的默认值，**不创建 `.env` 文件也能正常运行**。
+
+如果需要自定义配置，可以：
+
+1. **复制配置模板**：
+   ```bash
+   cp .env.example .env
+   ```
+
+2. **编辑 `.env` 文件**，根据实际需求修改配置
+
+3. **主要配置项说明**：
+   - `START_CAT_ID` / `END_CAT_ID`: 分类ID范围（默认 3000-10000）
+   - `MAX_PRODUCTS`: 爬取模式（不设置或 0=全量模式，数字=测试模式）
+   - `USE_MYSQL`: 是否使用 MySQL（默认 false，使用 SQLite）
+
+### 环境变量配置（可选）
+
+如果需要通过环境变量覆盖配置：
 
 ```env
 # 数据库配置（默认使用 SQLite）
