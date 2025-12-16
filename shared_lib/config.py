@@ -56,6 +56,11 @@ class Settings(BaseSettings):
     # 并发配置
     max_concurrent_categories: int = int(os.getenv("MAX_CONCURRENT_CATEGORIES", "8"))  # 并发处理的分类数量
     
+    # API 重试配置
+    api_retry_max_attempts: int = int(os.getenv("API_RETRY_MAX_ATTEMPTS", "3"))  # 最大重试次数
+    api_retry_delay: float = float(os.getenv("API_RETRY_DELAY", "2.0"))  # 初始延迟（秒）
+    api_retry_backoff: float = float(os.getenv("API_RETRY_BACKOFF", "2.0"))  # 退避倍数（每次重试延迟时间 = 上次延迟 * backoff）
+    
     @field_validator("max_products", mode="before")
     @classmethod
     def parse_max_products(cls, v: Any) -> Optional[int]:
