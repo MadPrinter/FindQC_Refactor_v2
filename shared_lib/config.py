@@ -5,8 +5,9 @@
 """
 
 import os
-from typing import Optional
+from typing import Optional, Any
 from pydantic_settings import BaseSettings
+from pydantic import field_validator
 
 
 class Settings(BaseSettings):
@@ -47,6 +48,23 @@ class Settings(BaseSettings):
     
     # 测试/调试配置
     max_products: Optional[int] = None  # 最大爬取商品数量（None表示不限制，用于测试）
+    
+    @field_validator("max_products", mode="before")
+    @classmethod
+    def parse_max_products(cls, v: Any) -> Optional[int]:
+        """解析 max_products 环境变量"""
+        if v is None:
+            return None
+        if isinstance(v, int):
+            return v
+        if isinstance(v, str):
+            if not v or v.lower() in ("none", "null", ""):
+                return None
+            try:
+                return int(v)
+            except (ValueError, TypeError):
+                return None
+        return None
     
     @property
     def database_url(self) -> str:
