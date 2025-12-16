@@ -67,7 +67,7 @@ class Product(Base):
     
     # 索引：itemId + mallType 构成唯一的商品业务标识
     __table_args__ = (
-        Index("idx_item_mall", "itemId", "mallType", comment="itemId + mallType 构成唯一的商品业务标识"),
+        Index("idx_item_mall", "itemId", "mallType"),
     )
     
     def __repr__(self) -> str:
